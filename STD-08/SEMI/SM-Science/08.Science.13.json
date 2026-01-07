@@ -1,0 +1,1212 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.13",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Chemical Change and Chemical Bond"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which change results in formation of a new substance?",
+      "options": [
+        { "option_id": 1, "text": "Melting of ice", "is_correct": false },
+        { "option_id": 2, "text": "Boiling of water", "is_correct": false },
+        { "option_id": 3, "text": "Rusting of iron", "is_correct": true },
+        { "option_id": 4, "text": "Dissolution of salt in water", "is_correct": false }
+      ],
+      "answer": "Rusting of iron"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a physical change?",
+      "options": [
+        { "option_id": 1, "text": "Burning of paper", "is_correct": false },
+        { "option_id": 2, "text": "Melting of ice", "is_correct": true },
+        { "option_id": 3, "text": "Rusting", "is_correct": false },
+        { "option_id": 4, "text": "Respiration", "is_correct": false }
+      ],
+      "answer": "Melting of ice"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which observation indicates a chemical change?",
+      "options": [
+        { "option_id": 1, "text": "Change in shape", "is_correct": false },
+        { "option_id": 2, "text": "Release of gas", "is_correct": true },
+        { "option_id": 3, "text": "Change in size", "is_correct": false },
+        { "option_id": 4, "text": "Change in state", "is_correct": false }
+      ],
+      "answer": "Release of gas"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When baking soda is added to lemon juice, which gas is released?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Substances written on the left side of a chemical equation are called:",
+      "options": [
+        { "option_id": 1, "text": "Products", "is_correct": false },
+        { "option_id": 2, "text": "Reactants", "is_correct": true },
+        { "option_id": 3, "text": "Catalysts", "is_correct": false },
+        { "option_id": 4, "text": "Compounds", "is_correct": false }
+      ],
+      "answer": "Reactants"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In a chemical equation, the arrow shows:",
+      "options": [
+        { "option_id": 1, "text": "Equality", "is_correct": false },
+        { "option_id": 2, "text": "Direction of reaction", "is_correct": true },
+        { "option_id": 3, "text": "Heat", "is_correct": false },
+        { "option_id": 4, "text": "Pressure", "is_correct": false }
+      ],
+      "answer": "Direction of reaction"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Respiration is an example of:",
+      "options": [
+        { "option_id": 1, "text": "Physical change", "is_correct": false },
+        { "option_id": 2, "text": "Natural chemical change", "is_correct": true },
+        { "option_id": 3, "text": "Man-made change", "is_correct": false },
+        { "option_id": 4, "text": "Reversible change", "is_correct": false }
+      ],
+      "answer": "Natural chemical change"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is the main reactant in respiration?",
+      "options": [
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which process produces glucose in plants?",
+      "options": [
+        { "option_id": 1, "text": "Respiration", "is_correct": false },
+        { "option_id": 2, "text": "Photosynthesis", "is_correct": true },
+        { "option_id": 3, "text": "Combustion", "is_correct": false },
+        { "option_id": 4, "text": "Fermentation", "is_correct": false }
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which gas is released during photosynthesis?",
+      "options": [
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Combustion of fuels is a:",
+      "options": [
+        { "option_id": 1, "text": "Slow chemical change", "is_correct": false },
+        { "option_id": 2, "text": "Fast chemical change", "is_correct": true },
+        { "option_id": 3, "text": "Physical change", "is_correct": false },
+        { "option_id": 4, "text": "Reversible change", "is_correct": false }
+      ],
+      "answer": "Fast chemical change"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Shahabad tiles are mainly made of:",
+      "options": [
+        { "option_id": 1, "text": "Calcium oxide", "is_correct": false },
+        { "option_id": 2, "text": "Calcium carbonate", "is_correct": true },
+        { "option_id": 3, "text": "Sodium carbonate", "is_correct": false },
+        { "option_id": 4, "text": "Magnesium sulphate", "is_correct": false }
+      ],
+      "answer": "Calcium carbonate"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which chemical is used to clean Shahabad tiles?",
+      "options": [
+        { "option_id": 1, "text": "Sulphuric acid", "is_correct": false },
+        { "option_id": 2, "text": "Hydrochloric acid", "is_correct": true },
+        { "option_id": 3, "text": "Nitric acid", "is_correct": false },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Hard water contains salts of:",
+      "options": [
+        { "option_id": 1, "text": "Sodium and potassium", "is_correct": false },
+        { "option_id": 2, "text": "Calcium and magnesium", "is_correct": true },
+        { "option_id": 3, "text": "Iron and copper", "is_correct": false },
+        { "option_id": 4, "text": "Zinc and aluminium", "is_correct": false }
+      ],
+      "answer": "Calcium and magnesium"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which chemical is added to soften hard water?",
+      "options": [
+        { "option_id": 1, "text": "Baking soda", "is_correct": false },
+        { "option_id": 2, "text": "Washing soda", "is_correct": true },
+        { "option_id": 3, "text": "Common salt", "is_correct": false },
+        { "option_id": 4, "text": "Bleaching powder", "is_correct": false }
+      ],
+      "answer": "Washing soda"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "A white insoluble solid formed during reaction is called:",
+      "options": [
+        { "option_id": 1, "text": "Solution", "is_correct": false },
+        { "option_id": 2, "text": "Precipitate", "is_correct": true },
+        { "option_id": 3, "text": "Residue", "is_correct": false },
+        { "option_id": 4, "text": "Catalyst", "is_correct": false }
+      ],
+      "answer": "Precipitate"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "A chemical bond is formed due to:",
+      "options": [
+        { "option_id": 1, "text": "Movement of protons", "is_correct": false },
+        { "option_id": 2, "text": "Valence electrons", "is_correct": true },
+        { "option_id": 3, "text": "Neutrons", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Valence electrons"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which bond is formed due to electrostatic attraction?",
+      "options": [
+        { "option_id": 1, "text": "Covalent bond", "is_correct": false },
+        { "option_id": 2, "text": "Ionic bond", "is_correct": true },
+        { "option_id": 3, "text": "Metallic bond", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen bond", "is_correct": false }
+      ],
+      "answer": "Ionic bond"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Sodium loses one electron to form:",
+      "options": [
+        { "option_id": 1, "text": "Na-", "is_correct": false },
+        { "option_id": 2, "text": "Na+", "is_correct": true },
+        { "option_id": 3, "text": "Na2+", "is_correct": false },
+        { "option_id": 4, "text": "Na0", "is_correct": false }
+      ],
+      "answer": "Na+"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Chlorine gains one electron to form:",
+      "options": [
+        { "option_id": 1, "text": "Cl+", "is_correct": false },
+        { "option_id": 2, "text": "Cl-", "is_correct": true },
+        { "option_id": 3, "text": "Cl2-", "is_correct": false },
+        { "option_id": 4, "text": "Cl0", "is_correct": false }
+      ],
+      "answer": "Cl-"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The valency of an ion is equal to:",
+      "options": [
+        { "option_id": 1, "text": "Atomic number", "is_correct": false },
+        { "option_id": 2, "text": "Magnitude of charge", "is_correct": true },
+        { "option_id": 3, "text": "Mass number", "is_correct": false },
+        { "option_id": 4, "text": "Number of neutrons", "is_correct": false }
+      ],
+      "answer": "Magnitude of charge"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which compound is an ionic compound?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Sodium chloride", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Sodium chloride"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which bond is formed by sharing of electrons?",
+      "options": [
+        { "option_id": 1, "text": "Ionic bond", "is_correct": false },
+        { "option_id": 2, "text": "Covalent bond", "is_correct": true },
+        { "option_id": 3, "text": "Electrovalent bond", "is_correct": false },
+        { "option_id": 4, "text": "Metallic bond", "is_correct": false }
+      ],
+      "answer": "Covalent bond"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How many electrons are shared in one covalent bond?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Hydrogen molecule (H2) is formed by:",
+      "options": [
+        { "option_id": 1, "text": "Transfer of electrons", "is_correct": false },
+        { "option_id": 2, "text": "Sharing of electrons", "is_correct": true },
+        { "option_id": 3, "text": "Loss of electrons", "is_correct": false },
+        { "option_id": 4, "text": "Gain of electrons", "is_correct": false }
+      ],
+      "answer": "Sharing of electrons"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Valency of oxygen in water molecule is:",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": true },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which molecule contains two covalent bonds?",
+      "options": [
+        { "option_id": 1, "text": "H2", "is_correct": false },
+        { "option_id": 2, "text": "H2O", "is_correct": true },
+        { "option_id": 3, "text": "NaCl", "is_correct": false },
+        { "option_id": 4, "text": "MgCl2", "is_correct": false }
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Magnesium forms which type of ion?",
+      "options": [
+        { "option_id": 1, "text": "Mg+", "is_correct": false },
+        { "option_id": 2, "text": "Mg2+", "is_correct": true },
+        { "option_id": 3, "text": "Mg-", "is_correct": false },
+        { "option_id": 4, "text": "Mg2-", "is_correct": false }
+      ],
+      "answer": "Mg2+"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which compound is formed by ionic bonding?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen chloride", "is_correct": false },
+        { "option_id": 2, "text": "Magnesium chloride", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Magnesium chloride"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which gas turns lime water milky?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Turning of lime water milky indicates formation of:",
+      "options": [
+        { "option_id": 1, "text": "Calcium oxide", "is_correct": false },
+        { "option_id": 2, "text": "Calcium carbonate", "is_correct": true },
+        { "option_id": 3, "text": "Calcium chloride", "is_correct": false },
+        { "option_id": 4, "text": "Calcium sulphate", "is_correct": false }
+      ],
+      "answer": "Calcium carbonate"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which change is irreversible?",
+      "options": [
+        { "option_id": 1, "text": "Freezing of water", "is_correct": false },
+        { "option_id": 2, "text": "Combustion of wood", "is_correct": true },
+        { "option_id": 3, "text": "Melting of wax", "is_correct": false },
+        { "option_id": 4, "text": "Boiling of water", "is_correct": false }
+      ],
+      "answer": "Combustion of wood"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following is a man-made chemical change?",
+      "options": [
+        { "option_id": 1, "text": "Respiration", "is_correct": false },
+        { "option_id": 2, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 3, "text": "Burning of fuel", "is_correct": true },
+        { "option_id": 4, "text": "Ripening of fruit", "is_correct": false }
+      ],
+      "answer": "Burning of fuel"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which pair shows formation of an ionic compound?",
+      "options": [
+        { "option_id": 1, "text": "H and H", "is_correct": false },
+        { "option_id": 2, "text": "Na and Cl", "is_correct": true },
+        { "option_id": 3, "text": "O and O", "is_correct": false },
+        { "option_id": 4, "text": "N and N", "is_correct": false }
+      ],
+      "answer": "Na and Cl"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which element tends to form an anion?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Chlorine", "is_correct": true },
+        { "option_id": 3, "text": "Magnesium", "is_correct": false },
+        { "option_id": 4, "text": "Calcium", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which element tends to lose electrons?",
+      "options": [
+        { "option_id": 1, "text": "Fluorine", "is_correct": false },
+        { "option_id": 2, "text": "Sodium", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Chlorine", "is_correct": false }
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which compound has covalent bonding?",
+      "options": [
+        { "option_id": 1, "text": "NaCl", "is_correct": false },
+        { "option_id": 2, "text": "HCl", "is_correct": true },
+        { "option_id": 3, "text": "MgCl2", "is_correct": false },
+        { "option_id": 4, "text": "CaO", "is_correct": false }
+      ],
+      "answer": "HCl"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which change shows formation of precipitate?",
+      "options": [
+        { "option_id": 1, "text": "Melting of ice", "is_correct": false },
+        { "option_id": 2, "text": "Lime water test with CO2", "is_correct": true },
+        { "option_id": 3, "text": "Boiling of water", "is_correct": false },
+        { "option_id": 4, "text": "Freezing of water", "is_correct": false }
+      ],
+      "answer": "Lime water test with CO2"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which product is common in combustion reactions?",
+      "options": [
+        { "option_id": 1, "text": "Carbon monoxide", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which salt is formed during softening of hard water?",
+      "options": [
+        { "option_id": 1, "text": "Sodium chloride", "is_correct": false },
+        { "option_id": 2, "text": "Calcium carbonate", "is_correct": true },
+        { "option_id": 3, "text": "Magnesium chloride", "is_correct": false },
+        { "option_id": 4, "text": "Potassium sulphate", "is_correct": false }
+      ],
+      "answer": "Calcium carbonate"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which is NOT a sign of chemical change?",
+      "options": [
+        { "option_id": 1, "text": "Change in colour", "is_correct": false },
+        { "option_id": 2, "text": "Release of gas", "is_correct": false },
+        { "option_id": 3, "text": "Change in size only", "is_correct": true },
+        { "option_id": 4, "text": "Formation of precipitate", "is_correct": false }
+      ],
+      "answer": "Change in size only"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which bond is represented by a dash (-) between atoms?",
+      "options": [
+        { "option_id": 1, "text": "Ionic bond", "is_correct": false },
+        { "option_id": 2, "text": "Covalent bond", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen bond", "is_correct": false },
+        { "option_id": 4, "text": "Metallic bond", "is_correct": false }
+      ],
+      "answer": "Covalent bond"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which molecule is formed by sharing of electrons?",
+      "options": [
+        { "option_id": 1, "text": "NaCl", "is_correct": false },
+        { "option_id": 2, "text": "H2", "is_correct": true },
+        { "option_id": 3, "text": "MgCl2", "is_correct": false },
+        { "option_id": 4, "text": "CaO", "is_correct": false }
+      ],
+      "answer": "H2"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which reaction is a neutralization reaction?",
+      "options": [
+        { "option_id": 1, "text": "Acid + Alkali → Salt + CO2", "is_correct": true },
+        { "option_id": 2, "text": "Carbon + Oxygen → CO2", "is_correct": false },
+        { "option_id": 3, "text": "Glucose + Oxygen → CO2 + H2O", "is_correct": false },
+        { "option_id": 4, "text": "CO2 + Water → Glucose + O2", "is_correct": false }
+      ],
+      "answer": "Acid + Alkali → Salt + CO2"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which change involves breaking and forming of bonds?",
+      "options": [
+        { "option_id": 1, "text": "Physical change", "is_correct": false },
+        { "option_id": 2, "text": "Chemical change", "is_correct": true },
+        { "option_id": 3, "text": "State change", "is_correct": false },
+        { "option_id": 4, "text": "Mechanical change", "is_correct": false }
+      ],
+      "answer": "Chemical change"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which shell becomes outermost after sodium loses an electron?",
+      "options": [
+        { "option_id": 1, "text": "M shell", "is_correct": false },
+        { "option_id": 2, "text": "L shell", "is_correct": true },
+        { "option_id": 3, "text": "K shell", "is_correct": false },
+        { "option_id": 4, "text": "N shell", "is_correct": false }
+      ],
+      "answer": "L shell"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why do noble gases not form chemical bonds?",
+      "options": [
+        { "option_id": 1, "text": "They are radioactive", "is_correct": false },
+        { "option_id": 2, "text": "Their octet/duplet is complete", "is_correct": true },
+        { "option_id": 3, "text": "They are very heavy", "is_correct": false },
+        { "option_id": 4, "text": "They are liquids", "is_correct": false }
+      ],
+      "answer": "Their octet/duplet is complete"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which type of bond is present in water?",
+      "options": [
+        { "option_id": 1, "text": "Ionic bond", "is_correct": false },
+        { "option_id": 2, "text": "Covalent bond", "is_correct": true },
+        { "option_id": 3, "text": "Metallic bond", "is_correct": false },
+        { "option_id": 4, "text": "Electrovalent bond", "is_correct": false }
+      ],
+      "answer": "Covalent bond"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which is an example of slow chemical change?",
+      "options": [
+        { "option_id": 1, "text": "Burning of paper", "is_correct": false },
+        { "option_id": 2, "text": "Rusting of iron", "is_correct": true },
+        { "option_id": 3, "text": "Explosion of cracker", "is_correct": false },
+        { "option_id": 4, "text": "Combustion of petrol", "is_correct": false }
+      ],
+      "answer": "Rusting of iron"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which of the following shows sharing of electrons between identical atoms?",
+      "options": [
+        { "option_id": 1, "text": "NaCl", "is_correct": false },
+        { "option_id": 2, "text": "H2", "is_correct": true },
+        { "option_id": 3, "text": "MgCl2", "is_correct": false },
+        { "option_id": 4, "text": "CaO", "is_correct": false }
+      ],
+      "answer": "H2"
+    },
+        {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a chemical change?",
+      "answer": "A chemical change is a change in which the composition of a substance changes and a new substance with different properties is formed."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a physical change?",
+      "answer": "A physical change is a change in which only the form or state changes but no new substance is formed."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Give two examples of chemical changes.",
+      "answer": "Rusting of iron and burning of fuel are chemical changes because new substances are formed in both processes."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Give two examples of physical changes.",
+      "answer": "Melting of ice and boiling of water are physical changes as no new substance is formed."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is meant by reactants?",
+      "answer": "Reactants are the original substances that take part in a chemical reaction and are written on the left side of the equation."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are products in a chemical reaction?",
+      "answer": "Products are new substances formed after a chemical reaction and are written on the right side of the equation."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the arrow in a chemical equation indicate?",
+      "answer": "The arrow shows the direction of the reaction and separates reactants from products."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a word equation?",
+      "answer": "A word equation represents a chemical reaction using names of substances instead of chemical formulae."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a chemical equation?",
+      "answer": "A chemical equation represents a reaction using chemical symbols and formulae of reactants and products."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is respiration?",
+      "answer": "Respiration is a natural chemical change in which glucose reacts with oxygen to form carbon dioxide, water and energy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is respiration a chemical change?",
+      "answer": "Because new substances like carbon dioxide and water are formed from glucose and oxygen."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is photosynthesis?",
+      "answer": "Photosynthesis is a natural chemical process in which plants make glucose from carbon dioxide and water using sunlight."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name the gas released during photosynthesis.",
+      "answer": "Oxygen gas is released as a by-product during the process of photosynthesis."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is combustion?",
+      "answer": "Combustion is a fast chemical reaction in which a substance burns in oxygen to release heat and carbon dioxide."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is combustion an irreversible change?",
+      "answer": "Because the original substance cannot be obtained back once it is completely burnt."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is hard water?",
+      "answer": "Hard water is water that contains dissolved salts of calcium and magnesium and does not lather easily with soap."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How is hard water softened?",
+      "answer": "Hard water is softened by adding washing soda, which forms insoluble carbonates of calcium and magnesium."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a precipitate?",
+      "answer": "A precipitate is an insoluble solid formed during a chemical reaction and settles at the bottom of the container."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why does lime water turn milky when CO2 is passed?",
+      "answer": "Because calcium carbonate precipitate is formed when carbon dioxide reacts with lime water."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is a chemical bond?",
+      "answer": "A chemical bond is the force that holds atoms together in a molecule or compound."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why do atoms form chemical bonds?",
+      "answer": "Atoms form bonds to complete their octet or duplet and achieve a stable electronic configuration."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are valence electrons?",
+      "answer": "Valence electrons are the electrons present in the outermost shell of an atom and take part in bonding."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is valency?",
+      "answer": "Valency is the combining capacity of an atom and equals the number of bonds it can form."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is an ionic bond?",
+      "answer": "An ionic bond is formed due to electrostatic attraction between oppositely charged ions."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How is NaCl formed?",
+      "answer": "Sodium loses one electron and chlorine gains that electron, forming Na+ and Cl− ions which attract each other."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is an ionic compound?",
+      "answer": "An ionic compound is formed when positive and negative ions are held together by ionic bonds."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is a covalent bond?",
+      "answer": "A covalent bond is formed when atoms share valence electrons to complete their outer shells."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How many electrons are shared in one covalent bond?",
+      "answer": "Two electrons are shared between two atoms to form one covalent bond."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How is H2 molecule formed?",
+      "answer": "Two hydrogen atoms share one electron each to complete their duplet and form a covalent bond."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is water a covalent compound?",
+      "answer": "Because oxygen shares electrons with two hydrogen atoms instead of transferring electrons."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is an ion?",
+      "answer": "An ion is a charged particle formed when an atom loses or gains electrons."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is a cation?",
+      "answer": "A cation is a positively charged ion formed by loss of electrons."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is an anion?",
+      "answer": "An anion is a negatively charged ion formed by gain of electrons."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why do noble gases not form bonds?",
+      "answer": "Because their outermost shell is complete, so they do not need to gain or lose electrons."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What happens to sodium after losing one electron?",
+      "answer": "It becomes a Na+ ion and attains a stable octet in its outer shell."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why does chlorine gain an electron?",
+      "answer": "To complete its octet and achieve stable electronic configuration."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is neutralization reaction?",
+      "answer": "It is a reaction in which an acid reacts with a base to form salt and other products."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is rusting called a slow chemical change?",
+      "answer": "Because it occurs gradually over a long period of time."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is bursting of crackers a fast change?",
+      "answer": "Because the reaction occurs quickly and releases energy suddenly."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is meant by irreversible change?",
+      "answer": "A change that cannot be reversed to get back the original substance is called irreversible change."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is dissolution of salt in water not a chemical change?",
+      "answer": "Because no new substance is formed and salt can be recovered by evaporation."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does spoiled food smell bad?",
+      "answer": "Because chemical changes produce new substances with unpleasant smell."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What change occurs in taste during chemical change?",
+      "answer": "Taste may change because new substances with different chemical properties are formed."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are valence electrons important?",
+      "answer": "Because they participate in bond formation and determine chemical properties of elements."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What type of bond is in HCl molecule?",
+      "answer": "HCl molecule has a covalent bond formed by sharing of electrons between hydrogen and chlorine."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is meant by electronic configuration?",
+      "answer": "It is the arrangement of electrons in different shells of an atom."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is magnesium chloride ionic?",
+      "answer": "Because magnesium transfers electrons to chlorine forming Mg2+ and Cl− ions."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why does magnesium form Mg2+ ion?",
+      "answer": "Because it loses two electrons to complete its octet in the next lower shell."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is meant by duplet?",
+      "answer": "Duplet means two electrons in the outer shell, which gives stability to hydrogen and helium."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why do atoms try to complete octet?",
+      "answer": "Because a complete octet gives chemical stability similar to noble gases."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by man-made chemical change?",
+      "answer": "It is a chemical change brought about intentionally by humans for useful purposes."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Give an example of man-made chemical change.",
+      "answer": "Burning of fuel for cooking and cleaning tiles with acid are man-made chemical changes."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is cleaning of Shahabad tiles a chemical change?",
+      "answer": "Because calcium carbonate reacts with acid to form new substances like calcium chloride and CO2."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are ionic bonds strong?",
+      "answer": "Because strong electrostatic forces exist between oppositely charged ions."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why are covalent compounds usually weak?",
+      "answer": "Because shared electrons create weaker intermolecular forces compared to ionic attraction."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What indicates gas formation in reaction?",
+      "answer": "Bubbles and hissing sound indicate that gas is being released during a chemical reaction."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What happens when baking soda reacts with lemon juice?",
+      "answer": "Carbon dioxide gas is released and new substances are formed, showing chemical change."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why does taste change during chemical change?",
+      "answer": "Because chemical composition changes and new substances have different taste."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why does color change indicate chemical change?",
+      "answer": "Because formation of new substances often produces different colored compounds."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is meant by breaking of bonds?",
+      "answer": "Breaking of bonds means separation of atoms in reactants during chemical reaction."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is meant by formation of bonds?",
+      "answer": "Formation of bonds means atoms join together to form new molecules or compounds."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why are chemical equations useful?",
+      "answer": "They help to understand substances involved and products formed in reactions clearly."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are balanced equations important?",
+      "answer": "Because they obey law of conservation of mass and show equal atoms on both sides."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is meant by conservation of mass?",
+      "answer": "Mass of reactants is equal to mass of products during a chemical reaction."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why does magnesium need two chlorine atoms?",
+      "answer": "Because magnesium loses two electrons and each chlorine gains one electron."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the role of sunlight in photosynthesis?",
+      "answer": "Sunlight provides energy needed to convert carbon dioxide and water into glucose."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why does carbon burn in oxygen?",
+      "answer": "Because oxygen supports combustion and reacts with carbon to form carbon dioxide."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is meant by slow chemical reaction?",
+      "answer": "A reaction that takes place over a long time is called slow chemical reaction."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is meant by fast chemical reaction?",
+      "answer": "A reaction that occurs very quickly with rapid energy release is called fast reaction."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is respiration continuous?",
+      "answer": "Because living cells constantly need energy which is released during respiration."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are chemical changes important in daily life?",
+      "answer": "Because many useful processes like cooking, digestion and respiration depend on them."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is digestion a chemical change?",
+      "answer": "Because complex food substances are converted into simpler substances."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is melting of ice reversible?",
+      "answer": "Because water can be frozen again to form ice."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is burning of paper irreversible?",
+      "answer": "Because original paper cannot be obtained from ash."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is meant by chemical composition?",
+      "answer": "It refers to the types and numbers of atoms present in a substance."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is formation of gas sign of chemical change?",
+      "answer": "Because new gaseous substance is produced during reaction."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is sound produced during some reactions?",
+      "answer": "Because rapid gas formation or explosion releases sound energy."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why does balloon burst show physical change?",
+      "answer": "Because no new substance is formed, only shape and size change."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why does cut potato turn dark?",
+      "answer": "Because oxygen reacts with substances in potato causing chemical change."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is ripening of fruit a chemical change?",
+      "answer": "Because new substances are formed that change color, taste and smell."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is meant by stability of atom?",
+      "answer": "Stability means atom has complete outer shell and does not react easily."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why does hydrogen form covalent bonds?",
+      "answer": "Because it cannot lose or gain electrons easily and shares electrons instead."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why does sodium not form covalent bonds easily?",
+      "answer": "Because it easily loses its valence electron to form ionic bond."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is meant by electrostatic force?",
+      "answer": "It is force of attraction between opposite charges like positive and negative ions."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why do ions attract each other?",
+      "answer": "Because opposite charges attract due to electrostatic force."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why are covalent bonds directional?",
+      "answer": "Because shared electrons are located between specific atoms."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is meant by molecule?",
+      "answer": "A molecule is the smallest particle of a substance that can exist independently."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is meant by compound?",
+      "answer": "A compound is formed when two or more different elements combine chemically."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why are ionic compounds hard?",
+      "answer": "Because strong forces exist between oppositely charged ions in lattice structure."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why do ionic compounds dissolve in water?",
+      "answer": "Because water separates ions and stabilizes them in solution."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why do covalent compounds not conduct electricity?",
+      "answer": "Because they do not form free ions in solution."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is meant by lattice structure?",
+      "answer": "It is regular repeating arrangement of ions in ionic crystals."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is sodium very reactive?",
+      "answer": "Because it easily loses one valence electron to become stable."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is chlorine very reactive?",
+      "answer": "Because it easily gains one electron to complete its octet."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why do atoms share electrons?",
+      "answer": "To complete their outer shell and achieve stable configuration."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is meant by bond energy?",
+      "answer": "It is energy required to break a chemical bond between atoms."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why are chemical bonds important?",
+      "answer": "They allow atoms to combine and form molecules and compounds."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is chemical change permanent?",
+      "answer": "Because new substances formed cannot be converted back easily."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is meant by chemical property?",
+      "answer": "It is a property that describes how a substance reacts chemically."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is study of chemical bonds important?",
+      "answer": "Because it explains how substances are formed and why they have specific properties."
+    }
+
+  ]
+}

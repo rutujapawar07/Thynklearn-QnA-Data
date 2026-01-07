@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.15",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Sound"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Sound is produced by objects that are in _______.",
+      "options": [
+        { "option_id": 1, "text": "Rest", "is_correct": false },
+        { "option_id": 2, "text": "Vibration", "is_correct": true },
+        { "option_id": 3, "text": "Rotation", "is_correct": false },
+        { "option_id": 4, "text": "Expansion", "is_correct": false }
+      ],
+      "answer": "Vibration"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to demonstrate production of sound in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Flute", "is_correct": false },
+        { "option_id": 2, "text": "Tuning fork", "is_correct": true },
+        { "option_id": 3, "text": "Drum", "is_correct": false },
+        { "option_id": 4, "text": "Bell", "is_correct": false }
+      ],
+      "answer": "Tuning fork"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The region of high pressure in a sound wave is called:",
+      "options": [
+        { "option_id": 1, "text": "Rarefaction", "is_correct": false },
+        { "option_id": 2, "text": "Compression", "is_correct": true },
+        { "option_id": 3, "text": "Amplitude", "is_correct": false },
+        { "option_id": 4, "text": "Frequency", "is_correct": false }
+      ],
+      "answer": "Compression"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The region of low pressure in a sound wave is called:",
+      "options": [
+        { "option_id": 1, "text": "Compression", "is_correct": false },
+        { "option_id": 2, "text": "Rarefaction", "is_correct": true },
+        { "option_id": 3, "text": "Echo", "is_correct": false },
+        { "option_id": 4, "text": "Pitch", "is_correct": false }
+      ],
+      "answer": "Rarefaction"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Sound waves in air are:",
+      "options": [
+        { "option_id": 1, "text": "Transverse waves", "is_correct": false },
+        { "option_id": 2, "text": "Longitudinal waves", "is_correct": true },
+        { "option_id": 3, "text": "Electromagnetic waves", "is_correct": false },
+        { "option_id": 4, "text": "Surface waves", "is_correct": false }
+      ],
+      "answer": "Longitudinal waves"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Sound needs _______ for its propagation.",
+      "options": [
+        { "option_id": 1, "text": "Vacuum", "is_correct": false },
+        { "option_id": 2, "text": "Medium", "is_correct": true },
+        { "option_id": 3, "text": "Light", "is_correct": false },
+        { "option_id": 4, "text": "Electricity", "is_correct": false }
+      ],
+      "answer": "Medium"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which experiment shows that sound cannot travel in vacuum?",
+      "options": [
+        { "option_id": 1, "text": "Bell jar experiment", "is_correct": true },
+        { "option_id": 2, "text": "Pendulum experiment", "is_correct": false },
+        { "option_id": 3, "text": "Prism experiment", "is_correct": false },
+        { "option_id": 4, "text": "Magnet experiment", "is_correct": false }
+      ],
+      "answer": "Bell jar experiment"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The unit of frequency is:",
+      "options": [
+        { "option_id": 1, "text": "Decibel", "is_correct": false },
+        { "option_id": 2, "text": "Hertz", "is_correct": true },
+        { "option_id": 3, "text": "Watt", "is_correct": false },
+        { "option_id": 4, "text": "Newton", "is_correct": false }
+      ],
+      "answer": "Hertz"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "If one cycle of a wave is completed in one second, its frequency is:",
+      "options": [
+        { "option_id": 1, "text": "0.5 Hz", "is_correct": false },
+        { "option_id": 2, "text": "1 Hz", "is_correct": true },
+        { "option_id": 3, "text": "2 Hz", "is_correct": false },
+        { "option_id": 4, "text": "10 Hz", "is_correct": false }
+      ],
+      "answer": "1 Hz"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "A tuning fork marked 512 Hz vibrates:",
+      "options": [
+        { "option_id": 1, "text": "512 times per minute", "is_correct": false },
+        { "option_id": 2, "text": "512 times per second", "is_correct": true },
+        { "option_id": 3, "text": "256 times per second", "is_correct": false },
+        { "option_id": 4, "text": "1024 times per second", "is_correct": false }
+      ],
+      "answer": "512 times per second"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Frequency of sound determines its:",
+      "options": [
+        { "option_id": 1, "text": "Loudness", "is_correct": false },
+        { "option_id": 2, "text": "Pitch", "is_correct": true },
+        { "option_id": 3, "text": "Speed", "is_correct": false },
+        { "option_id": 4, "text": "Echo", "is_correct": false }
+      ],
+      "answer": "Pitch"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In Jal-tarang experiment, different notes are produced because of difference in:",
+      "options": [
+        { "option_id": 1, "text": "Size of glasses", "is_correct": false },
+        { "option_id": 2, "text": "Height of air column", "is_correct": true },
+        { "option_id": 3, "text": "Thickness of glass", "is_correct": false },
+        { "option_id": 4, "text": "Temperature of water", "is_correct": false }
+      ],
+      "answer": "Height of air column"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a string instrument?",
+      "options": [
+        { "option_id": 1, "text": "Flute", "is_correct": false },
+        { "option_id": 2, "text": "Shehnai", "is_correct": false },
+        { "option_id": 3, "text": "Sitar", "is_correct": true },
+        { "option_id": 4, "text": "Trumpet", "is_correct": false }
+      ],
+      "answer": "Sitar"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In flute, sound is produced by vibration of:",
+      "options": [
+        { "option_id": 1, "text": "Strings", "is_correct": false },
+        { "option_id": 2, "text": "Air column", "is_correct": true },
+        { "option_id": 3, "text": "Metal plate", "is_correct": false },
+        { "option_id": 4, "text": "Rubber membrane", "is_correct": false }
+      ],
+      "answer": "Air column"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Different notes in guitar are produced by changing:",
+      "options": [
+        { "option_id": 1, "text": "Color of strings", "is_correct": false },
+        { "option_id": 2, "text": "Tension and length of strings", "is_correct": true },
+        { "option_id": 3, "text": "Size of body", "is_correct": false },
+        { "option_id": 4, "text": "Air pressure", "is_correct": false }
+      ],
+      "answer": "Tension and length of strings"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In humans, sound is produced in the:",
+      "options": [
+        { "option_id": 1, "text": "Lungs", "is_correct": false },
+        { "option_id": 2, "text": "Larynx", "is_correct": true },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Trachea", "is_correct": false }
+      ],
+      "answer": "Larynx"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Vocal cords produce sound by:",
+      "options": [
+        { "option_id": 1, "text": "Rotating", "is_correct": false },
+        { "option_id": 2, "text": "Vibrating", "is_correct": true },
+        { "option_id": 3, "text": "Stretching only", "is_correct": false },
+        { "option_id": 4, "text": "Cooling", "is_correct": false }
+      ],
+      "answer": "Vibrating"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Male voice is usually deeper because vocal cords are:",
+      "options": [
+        { "option_id": 1, "text": "Shorter", "is_correct": false },
+        { "option_id": 2, "text": "Longer", "is_correct": true },
+        { "option_id": 3, "text": "Thicker only", "is_correct": false },
+        { "option_id": 4, "text": "Not vibrating", "is_correct": false }
+      ],
+      "answer": "Longer"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Sound produced by loudspeaker is due to vibration of:",
+      "options": [
+        { "option_id": 1, "text": "Magnet", "is_correct": false },
+        { "option_id": 2, "text": "Coil only", "is_correct": false },
+        { "option_id": 3, "text": "Screen (cone)", "is_correct": true },
+        { "option_id": 4, "text": "Wire", "is_correct": false }
+      ],
+      "answer": "Screen (cone)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In loudspeaker, electrical energy is converted into:",
+      "options": [
+        { "option_id": 1, "text": "Light energy", "is_correct": false },
+        { "option_id": 2, "text": "Heat energy", "is_correct": false },
+        { "option_id": 3, "text": "Sound energy", "is_correct": true },
+        { "option_id": 4, "text": "Chemical energy", "is_correct": false }
+      ],
+      "answer": "Sound energy"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Sound level is measured in:",
+      "options": [
+        { "option_id": 1, "text": "Hertz", "is_correct": false },
+        { "option_id": 2, "text": "Decibel", "is_correct": true },
+        { "option_id": 3, "text": "Watt", "is_correct": false },
+        { "option_id": 4, "text": "Pascal", "is_correct": false }
+      ],
+      "answer": "Decibel"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Sound above about ______ decibel can be harmful.",
+      "options": [
+        { "option_id": 1, "text": "60", "is_correct": false },
+        { "option_id": 2, "text": "80", "is_correct": false },
+        { "option_id": 3, "text": "100", "is_correct": true },
+        { "option_id": 4, "text": "120", "is_correct": false }
+      ],
+      "answer": "100"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Sound pollution mainly affects:",
+      "options": [
+        { "option_id": 1, "text": "Soil health", "is_correct": false },
+        { "option_id": 2, "text": "Social and environmental health", "is_correct": true },
+        { "option_id": 3, "text": "Plant growth only", "is_correct": false },
+        { "option_id": 4, "text": "Water quality", "is_correct": false }
+      ],
+      "answer": "Social and environmental health"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Astronauts on moon cannot hear each other because:",
+      "options": [
+        { "option_id": 1, "text": "They are far apart", "is_correct": false },
+        { "option_id": 2, "text": "There is no medium", "is_correct": true },
+        { "option_id": 3, "text": "They are in space suits", "is_correct": false },
+        { "option_id": 4, "text": "Sound is weak", "is_correct": false }
+      ],
+      "answer": "There is no medium"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What actually travels in sound wave?",
+      "options": [
+        { "option_id": 1, "text": "Air particles", "is_correct": false },
+        { "option_id": 2, "text": "Compressions and rarefactions", "is_correct": true },
+        { "option_id": 3, "text": "Dust particles", "is_correct": false },
+        { "option_id": 4, "text": "Water vapour", "is_correct": false }
+      ],
+      "answer": "Compressions and rarefactions"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "One compression and one rarefaction together form:",
+      "options": [
+        { "option_id": 1, "text": "One echo", "is_correct": false },
+        { "option_id": 2, "text": "One cycle", "is_correct": true },
+        { "option_id": 3, "text": "One pitch", "is_correct": false },
+        { "option_id": 4, "text": "One tone", "is_correct": false }
+      ],
+      "answer": "One cycle"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Frequency depends on number of vibrations per:",
+      "options": [
+        { "option_id": 1, "text": "Minute", "is_correct": false },
+        { "option_id": 2, "text": "Second", "is_correct": true },
+        { "option_id": 3, "text": "Hour", "is_correct": false },
+        { "option_id": 4, "text": "Day", "is_correct": false }
+      ],
+      "answer": "Second"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Frequency of tuning fork depends on:",
+      "options": [
+        { "option_id": 1, "text": "Color", "is_correct": false },
+        { "option_id": 2, "text": "Dimensions and material", "is_correct": true },
+        { "option_id": 3, "text": "Temperature only", "is_correct": false },
+        { "option_id": 4, "text": "Air pressure only", "is_correct": false }
+      ],
+      "answer": "Dimensions and material"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which instrument works on vibration of metal arms?",
+      "options": [
+        { "option_id": 1, "text": "Sitar", "is_correct": false },
+        { "option_id": 2, "text": "Tuning fork", "is_correct": true },
+        { "option_id": 3, "text": "Flute", "is_correct": false },
+        { "option_id": 4, "text": "Tabla", "is_correct": false }
+      ],
+      "answer": "Tuning fork"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which part of loudspeaker moves back and forth?",
+      "options": [
+        { "option_id": 1, "text": "Magnet", "is_correct": false },
+        { "option_id": 2, "text": "Coil and screen", "is_correct": true },
+        { "option_id": 3, "text": "Wire only", "is_correct": false },
+        { "option_id": 4, "text": "Frame", "is_correct": false }
+      ],
+      "answer": "Coil and screen"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "In bell jar experiment, sound decreases when:",
+      "options": [
+        { "option_id": 1, "text": "Temperature increases", "is_correct": false },
+        { "option_id": 2, "text": "Air is removed", "is_correct": true },
+        { "option_id": 3, "text": "Bell is stopped", "is_correct": false },
+        { "option_id": 4, "text": "Jar is heated", "is_correct": false }
+      ],
+      "answer": "Air is removed"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Sound waves are produced when object moves:",
+      "options": [
+        { "option_id": 1, "text": "Only forward", "is_correct": false },
+        { "option_id": 2, "text": "Back and forth", "is_correct": true },
+        { "option_id": 3, "text": "In circle", "is_correct": false },
+        { "option_id": 4, "text": "Upward only", "is_correct": false }
+      ],
+      "answer": "Back and forth"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following uses vibrating air for sound?",
+      "options": [
+        { "option_id": 1, "text": "Guitar", "is_correct": false },
+        { "option_id": 2, "text": "Flute", "is_correct": true },
+        { "option_id": 3, "text": "Sitar", "is_correct": false },
+        { "option_id": 4, "text": "Violin", "is_correct": false }
+      ],
+      "answer": "Flute"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Tension in vocal cords affects:",
+      "options": [
+        { "option_id": 1, "text": "Loudness only", "is_correct": false },
+        { "option_id": 2, "text": "Type and quality of voice", "is_correct": true },
+        { "option_id": 3, "text": "Breathing", "is_correct": false },
+        { "option_id": 4, "text": "Heartbeat", "is_correct": false }
+      ],
+      "answer": "Type and quality of voice"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which converts electrical signals into sound?",
+      "options": [
+        { "option_id": 1, "text": "Microphone", "is_correct": false },
+        { "option_id": 2, "text": "Loudspeaker", "is_correct": true },
+        { "option_id": 3, "text": "Battery", "is_correct": false },
+        { "option_id": 4, "text": "Switch", "is_correct": false }
+      ],
+      "answer": "Loudspeaker"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which part closes air track during swallowing?",
+      "options": [
+        { "option_id": 1, "text": "Trachea", "is_correct": false },
+        { "option_id": 2, "text": "Epiglottis", "is_correct": true },
+        { "option_id": 3, "text": "Esophagus", "is_correct": false },
+        { "option_id": 4, "text": "Larynx", "is_correct": false }
+      ],
+      "answer": "Epiglottis"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Children have shriller voice because vocal cords are:",
+      "options": [
+        { "option_id": 1, "text": "Longer", "is_correct": false },
+        { "option_id": 2, "text": "Shorter", "is_correct": true },
+        { "option_id": 3, "text": "Thicker", "is_correct": false },
+        { "option_id": 4, "text": "Not flexible", "is_correct": false }
+      ],
+      "answer": "Shorter"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of the following shows vibration of strings?",
+      "options": [
+        { "option_id": 1, "text": "Flute", "is_correct": false },
+        { "option_id": 2, "text": "Sitar", "is_correct": true },
+        { "option_id": 3, "text": "Trumpet", "is_correct": false },
+        { "option_id": 4, "text": "Drum", "is_correct": false }
+      ],
+      "answer": "Sitar"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Sound waves transfer:",
+      "options": [
+        { "option_id": 1, "text": "Matter", "is_correct": false },
+        { "option_id": 2, "text": "Energy", "is_correct": true },
+        { "option_id": 3, "text": "Heat only", "is_correct": false },
+        { "option_id": 4, "text": "Electricity", "is_correct": false }
+      ],
+      "answer": "Energy"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which property of sound changes with distance from loudspeaker?",
+      "options": [
+        { "option_id": 1, "text": "Frequency", "is_correct": false },
+        { "option_id": 2, "text": "Loudness", "is_correct": true },
+        { "option_id": 3, "text": "Pitch", "is_correct": false },
+        { "option_id": 4, "text": "Wavelength", "is_correct": false }
+      ],
+      "answer": "Loudness"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Sound waves reach ear and make ______ vibrate.",
+      "options": [
+        { "option_id": 1, "text": "Brain", "is_correct": false },
+        { "option_id": 2, "text": "Ear-drum", "is_correct": true },
+        { "option_id": 3, "text": "Skull", "is_correct": false },
+        { "option_id": 4, "text": "Jaw", "is_correct": false }
+      ],
+      "answer": "Ear-drum"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Sound note 'sa' in madhya saptak has frequency:",
+      "options": [
+        { "option_id": 1, "text": "128 Hz", "is_correct": false },
+        { "option_id": 2, "text": "256 Hz", "is_correct": true },
+        { "option_id": 3, "text": "384 Hz", "is_correct": false },
+        { "option_id": 4, "text": "512 Hz", "is_correct": false }
+      ],
+      "answer": "256 Hz"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Higher frequency sound is perceived as:",
+      "options": [
+        { "option_id": 1, "text": "Louder", "is_correct": false },
+        { "option_id": 2, "text": "Shriller", "is_correct": true },
+        { "option_id": 3, "text": "Slower", "is_correct": false },
+        { "option_id": 4, "text": "Heavier", "is_correct": false }
+      ],
+      "answer": "Shriller"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Sound from mobile phones travels as:",
+      "options": [
+        { "option_id": 1, "text": "Sound waves only", "is_correct": false },
+        { "option_id": 2, "text": "Electromagnetic waves", "is_correct": true },
+        { "option_id": 3, "text": "Water waves", "is_correct": false },
+        { "option_id": 4, "text": "Mechanical waves only", "is_correct": false }
+      ],
+      "answer": "Electromagnetic waves"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT required for sound propagation?",
+      "options": [
+        { "option_id": 1, "text": "Medium", "is_correct": false },
+        { "option_id": 2, "text": "Vibration", "is_correct": false },
+        { "option_id": 3, "text": "Vacuum", "is_correct": true },
+        { "option_id": 4, "text": "Energy", "is_correct": false }
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which instrument produces sound by vibrating screen?",
+      "options": [
+        { "option_id": 1, "text": "Sitar", "is_correct": false },
+        { "option_id": 2, "text": "Loudspeaker", "is_correct": true },
+        { "option_id": 3, "text": "Flute", "is_correct": false },
+        { "option_id": 4, "text": "Tabla", "is_correct": false }
+      ],
+      "answer": "Loudspeaker"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which property decides musical note?",
+      "options": [
+        { "option_id": 1, "text": "Amplitude", "is_correct": false },
+        { "option_id": 2, "text": "Frequency", "is_correct": true },
+        { "option_id": 3, "text": "Speed", "is_correct": false },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "In toy phone with thread, sound travels through:",
+      "options": [
+        { "option_id": 1, "text": "Air only", "is_correct": false },
+        { "option_id": 2, "text": "Thread as medium", "is_correct": true },
+        { "option_id": 3, "text": "Vacuum", "is_correct": false },
+        { "option_id": 4, "text": "Light", "is_correct": false }
+      ],
+      "answer": "Thread as medium"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Dancing of grains on stretched rubber shows:",
+      "options": [
+        { "option_id": 1, "text": "Heating effect", "is_correct": false },
+        { "option_id": 2, "text": "Vibrations due to sound", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic effect", "is_correct": false },
+        { "option_id": 4, "text": "Chemical reaction", "is_correct": false }
+      ],
+      "answer": "Vibrations due to sound"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which statement is correct about sound waves?",
+      "options": [
+        { "option_id": 1, "text": "They carry matter", "is_correct": false },
+        { "option_id": 2, "text": "They need medium", "is_correct": true },
+        { "option_id": 3, "text": "They travel faster in vacuum", "is_correct": false },
+        { "option_id": 4, "text": "They are transverse in air", "is_correct": false }
+      ],
+      "answer": "They need medium"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by vibration?",
+      "answer": "Vibration is the to and fro or back and forth motion of an object about its mean position."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How is sound produced?",
+      "answer": "Sound is produced when an object vibrates and transfers energy to the surrounding medium."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is compression in a sound wave?",
+      "answer": "Compression is the region where air particles are closer together and pressure is high."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is rarefaction in a sound wave?",
+      "answer": "Rarefaction is the region where air particles are farther apart and pressure is low."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What forms one complete cycle of a sound wave?",
+      "answer": "One compression and one rarefaction together form one complete cycle of a sound wave."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is frequency of a sound wave?",
+      "answer": "Frequency is the number of cycles of compression and rarefaction produced per second."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the unit of frequency?",
+      "answer": "The unit of frequency is Hertz (Hz)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does 1 Hz frequency mean?",
+      "answer": "It means one cycle of vibration is completed in one second."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What determines the frequency of a tuning fork?",
+      "answer": "The frequency depends on the length, thickness of prongs and the material of the tuning fork."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is sound called a longitudinal wave?",
+      "answer": "Because particles of the medium vibrate parallel to the direction of wave propagation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why does sound need a medium to travel?",
+      "answer": "Sound travels by vibrations of particles of a medium, so a medium is necessary."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What happens to sound in vacuum?",
+      "answer": "Sound cannot travel in vacuum because there are no particles to carry vibrations."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is shown by bell jar experiment?",
+      "answer": "It shows that sound needs a material medium for generation and propagation."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What travels in sound wave: air or disturbance?",
+      "answer": "The disturbance in the form of compressions and rarefactions travels, not the air itself."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is pitch of sound?",
+      "answer": "Pitch is the sensation that helps us distinguish between high and low frequency sounds."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How is pitch related to frequency?",
+      "answer": "Higher frequency means higher pitch and lower frequency means lower pitch."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why do different glass cups produce different sounds in Jal-tarang?",
+      "answer": "Because the height of air column in each glass is different, changing the frequency."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which part vibrates in string instruments?",
+      "answer": "The stretched strings vibrate to produce sound."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How are different notes produced in guitar?",
+      "answer": "By changing the tension and vibrating length of the strings."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which part vibrates in flute to produce sound?",
+      "answer": "The air column inside the flute vibrates to produce sound."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How are notes changed in flute?",
+      "answer": "By opening or closing holes and by changing the way of blowing air."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where is larynx located in humans?",
+      "answer": "Larynx is located at the upper end of the windpipe."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are vocal cords?",
+      "answer": "Vocal cords are stretched membranes in the larynx that vibrate to produce sound."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How is sound produced in human body?",
+      "answer": "Air from lungs passes through vocal cords causing them to vibrate and produce sound."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why does tightening of vocal cords change voice?",
+      "answer": "Tight vocal cords vibrate faster, changing the frequency and quality of voice."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why are voices of men and women different?",
+      "answer": "Because men have longer vocal cords and women have shorter ones."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why do children have shriller voice?",
+      "answer": "Because children have very short vocal cords which vibrate faster."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the function of epiglottis?",
+      "answer": "It closes the air passage during swallowing to prevent food entering windpipe."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which part vibrates in loudspeaker?",
+      "answer": "The conical screen attached to the coil vibrates to produce sound."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What type of energy is converted in loudspeaker?",
+      "answer": "Electrical energy is converted into sound energy."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are loudspeakers used in public places?",
+      "answer": "Because they can produce very loud sound to reach many people."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is sound pollution?",
+      "answer": "Sound pollution is excessive unwanted sound that affects health and environment."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How can sound pollution be reduced?",
+      "answer": "By limiting loudspeaker use, reducing noise and following noise control rules."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is loudness of sound?",
+      "answer": "Loudness is the measure of how strong or weak a sound appears to us."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "In which unit is loudness measured?",
+      "answer": "Loudness is measured in decibel (dB)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is sound above 100 dB harmful?",
+      "answer": "Because it can damage ears and affect human health."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why cannot astronauts hear each other on moon?",
+      "answer": "Because there is no atmosphere on moon to carry sound waves."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What kind of waves are used in mobile communication?",
+      "answer": "Electromagnetic waves are used which do not need medium."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is meant by amplitude of sound wave?",
+      "answer": "Amplitude is the maximum displacement of particles from their mean position."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Which property of sound depends on amplitude?",
+      "answer": "Loudness of sound depends on amplitude."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What happens to sound level as distance increases?",
+      "answer": "Sound level decreases as distance from source increases."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is meant by sound note?",
+      "answer": "Sound note is a sound produced with a definite frequency."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which instruments use blown air for sound?",
+      "answer": "Flute and shehnai use blown air to produce sound."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which instruments use strings for sound production?",
+      "answer": "Sitar, guitar and violin use strings to produce sound."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happens when tuning fork prongs move apart?",
+      "answer": "Air is compressed and a compression region is formed."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What happens when tuning fork prongs come closer?",
+      "answer": "Air pressure decreases forming rarefaction."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What causes ear-drum to vibrate?",
+      "answer": "Sound waves reaching the ear cause ear-drum to vibrate."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the role of brain in hearing?",
+      "answer": "Brain interprets signals from ear and gives sensation of sound."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is meant by medium?",
+      "answer": "Medium is the material through which sound travels, like air, water or solids."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Can sound travel through solids?",
+      "answer": "Yes, sound can travel through solids as vibrations pass through particles."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why can we hear through toy telephone?",
+      "answer": "Because vibrations travel through the stretched thread or wire."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What do dancing grains on rubber sheet show?",
+      "answer": "They show that sound produces vibrations."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is windpipe also called?",
+      "answer": "Windpipe is also called trachea."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is esophagus?",
+      "answer": "Esophagus is the food pipe that carries food to stomach."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why should we avoid unnecessary noise?",
+      "answer": "To protect health and reduce sound pollution."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What happens if vocal cords do not vibrate?",
+      "answer": "No sound will be produced."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What produces sound in tuning fork?",
+      "answer": "Vibration of metal prongs produces sound."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is sound weaker in vacuum jar?",
+      "answer": "Because air is removed, so vibrations cannot travel effectively."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is meant by sound wave propagation?",
+      "answer": "It is the transfer of compressions and rarefactions through a medium."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which wave does not need medium?",
+      "answer": "Electromagnetic waves do not need medium."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is the function of coil in loudspeaker?",
+      "answer": "It moves due to magnetic field and causes screen to vibrate."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why should loudness of loudspeaker be limited?",
+      "answer": "To prevent harm to ears and avoid sound pollution."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is meant by sound energy?",
+      "answer": "Sound energy is energy carried by sound waves."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What happens when frequency increases?",
+      "answer": "Sound becomes shriller or higher pitched."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What happens when amplitude increases?",
+      "answer": "Sound becomes louder."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Which sound has more pitch: child or adult?",
+      "answer": "Child's sound has more pitch due to higher frequency."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is meant by sound note generator app?",
+      "answer": "It is an app used to produce sound of specific frequencies."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why do we feel vibration on throat while speaking?",
+      "answer": "Because vocal cords vibrate during speech."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is mechanical wave?",
+      "answer": "A wave that needs a medium for propagation is called mechanical wave."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Is sound a mechanical wave?",
+      "answer": "Yes, sound is a mechanical wave because it needs a medium."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why does tightening rubber strips produce sound?",
+      "answer": "Because air passing through makes them vibrate."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which part of tuning fork is held steady?",
+      "answer": "The stem of tuning fork is held steady."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is meant by air column?",
+      "answer": "Air trapped in a tube or glass that vibrates to produce sound."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What determines frequency in air column?",
+      "answer": "The height or length of the air column determines frequency."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is sound pollution effect on society?",
+      "answer": "It causes irritation, stress and health problems."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why should we study sound pollution?",
+      "answer": "To protect environment and social health."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What happens if sound is too loud for long time?",
+      "answer": "It may damage hearing permanently."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is meant by sound propagation speed?",
+      "answer": "It is the speed at which sound waves travel through a medium."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Does sound travel faster in solids or gases?",
+      "answer": "Sound travels faster in solids than in gases."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is role of magnet in loudspeaker?",
+      "answer": "It interacts with coil’s magnetic field to cause vibrations."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is meant by sound signal?",
+      "answer": "It is vibration pattern that reaches ear and is interpreted as sound."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is meant by sound wave energy transfer?",
+      "answer": "Energy is passed from particle to particle without moving matter."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is air necessary for hearing normal sound?",
+      "answer": "Because sound vibrations must travel through air to reach ears."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What produces compression in air?",
+      "answer": "Forward motion of vibrating object produces compression."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What produces rarefaction in air?",
+      "answer": "Backward motion of vibrating object produces rarefaction."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why does flute produce different notes when holes are closed?",
+      "answer": "Because length of vibrating air column changes."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is sound wave pattern in air?",
+      "answer": "Alternating compressions and rarefactions form sound wave pattern."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is sound perception?",
+      "answer": "It is brain’s interpretation of vibrations received by ear."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is importance of studying sound?",
+      "answer": "To understand communication, music and reduce sound pollution."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What happens to sound when air density is high?",
+      "answer": "Compressions are stronger and sound transmission is effective."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why do we feel sound vibrations in loudspeaker?",
+      "answer": "Because the screen vibrates strongly producing sound waves."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is meant by mechanical vibration?",
+      "answer": "It is physical back and forth motion of an object."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is sound not heard in space?",
+      "answer": "Because space has no medium to transmit sound."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is sound intensity?",
+      "answer": "It is amount of sound energy passing through area per second."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is meant by sound wave cycle?",
+      "answer": "It is one complete compression and rarefaction sequence."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why do musical instruments need tuning?",
+      "answer": "To adjust frequency and produce correct musical notes."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is role of muscles in vocal cords?",
+      "answer": "They tighten or loosen cords to change voice."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why does shouting damage voice?",
+      "answer": "Because it strains vocal cords due to strong vibrations."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is sound communication?",
+      "answer": "Transfer of information using sound waves."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why should sound level be controlled in cities?",
+      "answer": "To reduce noise pollution and protect public health."
+    }
+  ]
+}

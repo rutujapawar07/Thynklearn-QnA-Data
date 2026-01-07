@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.04",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Current Electricity and Magnetism"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which charged particles flow in a conductor to produce electric current?",
+      "options": [
+        { "option_id": 1, "text": "Protons", "is_correct": false },
+        { "option_id": 2, "text": "Neutrons", "is_correct": false },
+        { "option_id": 3, "text": "Electrons", "is_correct": true },
+        { "option_id": 4, "text": "Ions", "is_correct": false }
+      ],
+      "answer": "Electrons"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The SI unit of electric current is:",
+      "options": [
+        { "option_id": 1, "text": "Volt", "is_correct": false },
+        { "option_id": 2, "text": "Ampere", "is_correct": true },
+        { "option_id": 3, "text": "Ohm", "is_correct": false },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Electric current flows in a circuit due to:",
+      "options": [
+        { "option_id": 1, "text": "Resistance", "is_correct": false },
+        { "option_id": 2, "text": "Magnet", "is_correct": false },
+        { "option_id": 3, "text": "Potential difference", "is_correct": true },
+        { "option_id": 4, "text": "Heat", "is_correct": false }
+      ],
+      "answer": "Potential difference"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Electrons flow from ____ terminal to ____ terminal of a cell.",
+      "options": [
+        { "option_id": 1, "text": "Positive to Negative", "is_correct": false },
+        { "option_id": 2, "text": "Negative to Positive", "is_correct": true },
+        { "option_id": 3, "text": "Positive to Earth", "is_correct": false },
+        { "option_id": 4, "text": "Neutral to Positive", "is_correct": false }
+      ],
+      "answer": "Negative to Positive"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Conventional current flows from:",
+      "options": [
+        { "option_id": 1, "text": "Negative to Positive", "is_correct": false },
+        { "option_id": 2, "text": "Positive to Negative", "is_correct": true },
+        { "option_id": 3, "text": "Center to outside", "is_correct": false },
+        { "option_id": 4, "text": "Ground to wire", "is_correct": false }
+      ],
+      "answer": "Positive to Negative"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The SI unit of potential difference is:",
+      "options": [
+        { "option_id": 1, "text": "Ampere", "is_correct": false },
+        { "option_id": 2, "text": "Volt", "is_correct": true },
+        { "option_id": 3, "text": "Ohm", "is_correct": false },
+        { "option_id": 4, "text": "Coulomb", "is_correct": false }
+      ],
+      "answer": "Volt"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which part of dry cell acts as positive terminal?",
+      "options": [
+        { "option_id": 1, "text": "Zinc cover", "is_correct": false },
+        { "option_id": 2, "text": "Graphite rod", "is_correct": true },
+        { "option_id": 3, "text": "Electrolyte", "is_correct": false },
+        { "option_id": 4, "text": "Manganese dioxide", "is_correct": false }
+      ],
+      "answer": "Graphite rod"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Negative terminal of dry cell is made of:",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": false },
+        { "option_id": 3, "text": "Zinc", "is_correct": true },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Zinc"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which electrolyte is used in dry cell?",
+      "options": [
+        { "option_id": 1, "text": "Sulphuric acid", "is_correct": false },
+        { "option_id": 2, "text": "Zinc chloride and Ammonium chloride", "is_correct": true },
+        { "option_id": 3, "text": "Sodium chloride", "is_correct": false },
+        { "option_id": 4, "text": "Nitric acid", "is_correct": false }
+      ],
+      "answer": "Zinc chloride and Ammonium chloride"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Dry cells are convenient because:",
+      "options": [
+        { "option_id": 1, "text": "They give high current", "is_correct": false },
+        { "option_id": 2, "text": "They can be used in any position", "is_correct": true },
+        { "option_id": 3, "text": "They never discharge", "is_correct": false },
+        { "option_id": 4, "text": "They are rechargeable", "is_correct": false }
+      ],
+      "answer": "They can be used in any position"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which cell can be recharged?",
+      "options": [
+        { "option_id": 1, "text": "Dry cell", "is_correct": false },
+        { "option_id": 2, "text": "Lead-acid cell", "is_correct": true },
+        { "option_id": 3, "text": "Button cell", "is_correct": false },
+        { "option_id": 4, "text": "Torch cell", "is_correct": false }
+      ],
+      "answer": "Lead-acid cell"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Electrolyte used in lead-acid cell is:",
+      "options": [
+        { "option_id": 1, "text": "Nitric acid", "is_correct": false },
+        { "option_id": 2, "text": "Hydrochloric acid", "is_correct": false },
+        { "option_id": 3, "text": "Dilute sulphuric acid", "is_correct": true },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Dilute sulphuric acid"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Lead-acid cells are used in:",
+      "options": [
+        { "option_id": 1, "text": "Watches", "is_correct": false },
+        { "option_id": 2, "text": "Cars", "is_correct": true },
+        { "option_id": 3, "text": "Remote control", "is_correct": false },
+        { "option_id": 4, "text": "Torch", "is_correct": false }
+      ],
+      "answer": "Cars"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Ni-Cd cells provide potential difference of:",
+      "options": [
+        { "option_id": 1, "text": "1.2 V", "is_correct": true },
+        { "option_id": 2, "text": "2 V", "is_correct": false },
+        { "option_id": 3, "text": "3 V", "is_correct": false },
+        { "option_id": 4, "text": "5 V", "is_correct": false }
+      ],
+      "answer": "1.2 V"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "A complete path for current is called:",
+      "options": [
+        { "option_id": 1, "text": "Battery", "is_correct": false },
+        { "option_id": 2, "text": "Circuit", "is_correct": true },
+        { "option_id": 3, "text": "Cell", "is_correct": false },
+        { "option_id": 4, "text": "Wire", "is_correct": false }
+      ],
+      "answer": "Circuit"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "If plug key is open, bulb will:",
+      "options": [
+        { "option_id": 1, "text": "Glow brightly", "is_correct": false },
+        { "option_id": 2, "text": "Glow dim", "is_correct": false },
+        { "option_id": 3, "text": "Not glow", "is_correct": true },
+        { "option_id": 4, "text": "Burst", "is_correct": false }
+      ],
+      "answer": "Not glow"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Series connection of cells increases:",
+      "options": [
+        { "option_id": 1, "text": "Resistance", "is_correct": false },
+        { "option_id": 2, "text": "Potential difference", "is_correct": true },
+        { "option_id": 3, "text": "Wire length", "is_correct": false },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Potential difference"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Battery means:",
+      "options": [
+        { "option_id": 1, "text": "Single cell", "is_correct": false },
+        { "option_id": 2, "text": "Group of cells", "is_correct": true },
+        { "option_id": 3, "text": "Wire", "is_correct": false },
+        { "option_id": 4, "text": "Bulb", "is_correct": false }
+      ],
+      "answer": "Group of cells"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Magnetic field is produced around wire when:",
+      "options": [
+        { "option_id": 1, "text": "Wire is broken", "is_correct": false },
+        { "option_id": 2, "text": "Current flows", "is_correct": true },
+        { "option_id": 3, "text": "Wire is cold", "is_correct": false },
+        { "option_id": 4, "text": "Bulb is removed", "is_correct": false }
+      ],
+      "answer": "Current flows"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who discovered magnetic effect of current?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Oersted", "is_correct": true },
+        { "option_id": 3, "text": "Edison", "is_correct": false },
+        { "option_id": 4, "text": "Faraday", "is_correct": false }
+      ],
+      "answer": "Oersted"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Coil wound on iron core forms:",
+      "options": [
+        { "option_id": 1, "text": "Permanent magnet", "is_correct": false },
+        { "option_id": 2, "text": "Electromagnet", "is_correct": true },
+        { "option_id": 3, "text": "Resistor", "is_correct": false },
+        { "option_id": 4, "text": "Battery", "is_correct": false }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Electromagnet loses magnetism when:",
+      "options": [
+        { "option_id": 1, "text": "Current stops", "is_correct": true },
+        { "option_id": 2, "text": "Wire is thick", "is_correct": false },
+        { "option_id": 3, "text": "Battery is new", "is_correct": false },
+        { "option_id": 4, "text": "Switch is closed", "is_correct": false }
+      ],
+      "answer": "Current stops"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which device uses electromagnet?",
+      "options": [
+        { "option_id": 1, "text": "Electric bell", "is_correct": true },
+        { "option_id": 2, "text": "Fan", "is_correct": false },
+        { "option_id": 3, "text": "Bulb", "is_correct": false },
+        { "option_id": 4, "text": "Switch", "is_correct": false }
+      ],
+      "answer": "Electric bell"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In electric bell, striker hits:",
+      "options": [
+        { "option_id": 1, "text": "Coil", "is_correct": false },
+        { "option_id": 2, "text": "Battery", "is_correct": false },
+        { "option_id": 3, "text": "Gong", "is_correct": true },
+        { "option_id": 4, "text": "Wire", "is_correct": false }
+      ],
+      "answer": "Gong"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Electric bell works on principle of:",
+      "options": [
+        { "option_id": 1, "text": "Heating effect", "is_correct": false },
+        { "option_id": 2, "text": "Magnetic effect of current", "is_correct": true },
+        { "option_id": 3, "text": "Chemical reaction", "is_correct": false },
+        { "option_id": 4, "text": "Light emission", "is_correct": false }
+      ],
+      "answer": "Magnetic effect of current"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Graphite rod in dry cell is:",
+      "options": [
+        { "option_id": 1, "text": "Insulator", "is_correct": false },
+        { "option_id": 2, "text": "Positive electrode", "is_correct": true },
+        { "option_id": 3, "text": "Negative electrode", "is_correct": false },
+        { "option_id": 4, "text": "Switch", "is_correct": false }
+      ],
+      "answer": "Positive electrode"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Large current can be obtained from:",
+      "options": [
+        { "option_id": 1, "text": "Dry cell", "is_correct": false },
+        { "option_id": 2, "text": "Lead-acid cell", "is_correct": true },
+        { "option_id": 3, "text": "Button cell", "is_correct": false },
+        { "option_id": 4, "text": "Torch cell", "is_correct": false }
+      ],
+      "answer": "Lead-acid cell"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "When key is closed, circuit is:",
+      "options": [
+        { "option_id": 1, "text": "Open", "is_correct": false },
+        { "option_id": 2, "text": "Closed", "is_correct": true },
+        { "option_id": 3, "text": "Broken", "is_correct": false },
+        { "option_id": 4, "text": "Inactive", "is_correct": false }
+      ],
+      "answer": "Closed"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which cell is used in mobiles and laptops?",
+      "options": [
+        { "option_id": 1, "text": "Dry cell", "is_correct": false },
+        { "option_id": 2, "text": "Lead-acid cell", "is_correct": false },
+        { "option_id": 3, "text": "Lithium-ion cell", "is_correct": true },
+        { "option_id": 4, "text": "Ni-Cd cell", "is_correct": false }
+      ],
+      "answer": "Lithium-ion cell"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which chemical is coated around graphite rod in dry cell?",
+      "options": [
+        { "option_id": 1, "text": "Copper sulphate", "is_correct": false },
+        { "option_id": 2, "text": "Manganese dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Iron oxide", "is_correct": false },
+        { "option_id": 4, "text": "Carbon powder", "is_correct": false }
+      ],
+      "answer": "Manganese dioxide"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Main function of electric cell is to:",
+      "options": [
+        { "option_id": 1, "text": "Store light", "is_correct": false },
+        { "option_id": 2, "text": "Maintain potential difference", "is_correct": true },
+        { "option_id": 3, "text": "Increase resistance", "is_correct": false },
+        { "option_id": 4, "text": "Produce magnetism", "is_correct": false }
+      ],
+      "answer": "Maintain potential difference"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which is not part of simple electric circuit?",
+      "options": [
+        { "option_id": 1, "text": "Cell", "is_correct": false },
+        { "option_id": 2, "text": "Bulb", "is_correct": false },
+        { "option_id": 3, "text": "Key", "is_correct": false },
+        { "option_id": 4, "text": "Transformer", "is_correct": true }
+      ],
+      "answer": "Transformer"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Battery in car is example of:",
+      "options": [
+        { "option_id": 1, "text": "Dry cell", "is_correct": false },
+        { "option_id": 2, "text": "Lead-acid cell", "is_correct": true },
+        { "option_id": 3, "text": "Ni-Cd cell", "is_correct": false },
+        { "option_id": 4, "text": "Solar cell", "is_correct": false }
+      ],
+      "answer": "Lead-acid cell"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which effect of current is used in electromagnet?",
+      "options": [
+        { "option_id": 1, "text": "Heating effect", "is_correct": false },
+        { "option_id": 2, "text": "Magnetic effect", "is_correct": true },
+        { "option_id": 3, "text": "Chemical effect", "is_correct": false },
+        { "option_id": 4, "text": "Optical effect", "is_correct": false }
+      ],
+      "answer": "Magnetic effect"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which terminal is longer in cell symbol?",
+      "options": [
+        { "option_id": 1, "text": "Negative", "is_correct": false },
+        { "option_id": 2, "text": "Positive", "is_correct": true },
+        { "option_id": 3, "text": "Neutral", "is_correct": false },
+        { "option_id": 4, "text": "Earth", "is_correct": false }
+      ],
+      "answer": "Positive"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which instrument shows direction of magnetic field?",
+      "options": [
+        { "option_id": 1, "text": "Thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Magnetic needle", "is_correct": true },
+        { "option_id": 3, "text": "Voltmeter", "is_correct": false },
+        { "option_id": 4, "text": "Ammeter", "is_correct": false }
+      ],
+      "answer": "Magnetic needle"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which metal is used as core in electromagnet?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": true },
+        { "option_id": 3, "text": "Aluminium", "is_correct": false },
+        { "option_id": 4, "text": "Zinc", "is_correct": false }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which effect proves electricity and magnetism are related?",
+      "options": [
+        { "option_id": 1, "text": "Heating effect", "is_correct": false },
+        { "option_id": 2, "text": "Magnetic effect", "is_correct": true },
+        { "option_id": 3, "text": "Chemical effect", "is_correct": false },
+        { "option_id": 4, "text": "Sound effect", "is_correct": false }
+      ],
+      "answer": "Magnetic effect"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Electric bell works on repeated making and breaking of:",
+      "options": [
+        { "option_id": 1, "text": "Sound", "is_correct": false },
+        { "option_id": 2, "text": "Magnetism", "is_correct": false },
+        { "option_id": 3, "text": "Electric circuit", "is_correct": true },
+        { "option_id": 4, "text": "Battery", "is_correct": false }
+      ],
+      "answer": "Electric circuit"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which part attracts iron strip in electric bell?",
+      "options": [
+        { "option_id": 1, "text": "Battery", "is_correct": false },
+        { "option_id": 2, "text": "Electromagnet", "is_correct": true },
+        { "option_id": 3, "text": "Key", "is_correct": false },
+        { "option_id": 4, "text": "Wire", "is_correct": false }
+      ],
+      "answer": "Electromagnet"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "When current stops, electromagnet becomes:",
+      "options": [
+        { "option_id": 1, "text": "Stronger", "is_correct": false },
+        { "option_id": 2, "text": "Permanent magnet", "is_correct": false },
+        { "option_id": 3, "text": "Non-magnetic", "is_correct": true },
+        { "option_id": 4, "text": "Charged", "is_correct": false }
+      ],
+      "answer": "Non-magnetic"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which device converts electrical energy to sound?",
+      "options": [
+        { "option_id": 1, "text": "Fan", "is_correct": false },
+        { "option_id": 2, "text": "Electric bell", "is_correct": true },
+        { "option_id": 3, "text": "Heater", "is_correct": false },
+        { "option_id": 4, "text": "Bulb", "is_correct": false }
+      ],
+      "answer": "Electric bell"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which part completes or breaks circuit?",
+      "options": [
+        { "option_id": 1, "text": "Bulb", "is_correct": false },
+        { "option_id": 2, "text": "Key", "is_correct": true },
+        { "option_id": 3, "text": "Cell", "is_correct": false },
+        { "option_id": 4, "text": "Wire", "is_correct": false }
+      ],
+      "answer": "Key"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which energy is stored in battery?",
+      "options": [
+        { "option_id": 1, "text": "Electrical", "is_correct": false },
+        { "option_id": 2, "text": "Chemical", "is_correct": true },
+        { "option_id": 3, "text": "Mechanical", "is_correct": false },
+        { "option_id": 4, "text": "Heat", "is_correct": false }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which part in bell hits gong?",
+      "options": [
+        { "option_id": 1, "text": "Core", "is_correct": false },
+        { "option_id": 2, "text": "Striker", "is_correct": true },
+        { "option_id": 3, "text": "Wire", "is_correct": false },
+        { "option_id": 4, "text": "Key", "is_correct": false }
+      ],
+      "answer": "Striker"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which charge carriers move in metal wires?",
+      "options": [
+        { "option_id": 1, "text": "Positive ions", "is_correct": false },
+        { "option_id": 2, "text": "Negative electrons", "is_correct": true },
+        { "option_id": 3, "text": "Protons", "is_correct": false },
+        { "option_id": 4, "text": "Neutrons", "is_correct": false }
+      ],
+      "answer": "Negative electrons"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which device measures electric current?",
+      "options": [
+        { "option_id": 1, "text": "Voltmeter", "is_correct": false },
+        { "option_id": 2, "text": "Ammeter", "is_correct": true },
+        { "option_id": 3, "text": "Thermometer", "is_correct": false },
+        { "option_id": 4, "text": "Compass", "is_correct": false }
+      ],
+      "answer": "Ammeter"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which effect is NOT discussed in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic effect", "is_correct": false },
+        { "option_id": 2, "text": "Heating effect", "is_correct": false },
+        { "option_id": 3, "text": "Chemical effect", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear effect", "is_correct": true }
+      ],
+      "answer": "Nuclear effect"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which part controls flow of current?",
+      "options": [
+        { "option_id": 1, "text": "Cell", "is_correct": false },
+        { "option_id": 2, "text": "Switch", "is_correct": true },
+        { "option_id": 3, "text": "Bulb", "is_correct": false },
+        { "option_id": 4, "text": "Wire", "is_correct": false }
+      ],
+      "answer": "Switch"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Main use of electromagnet is to produce:",
+      "options": [
+        { "option_id": 1, "text": "Heat", "is_correct": false },
+        { "option_id": 2, "text": "Strong magnetic field", "is_correct": true },
+        { "option_id": 3, "text": "Light", "is_correct": false },
+        { "option_id": 4, "text": "Sound", "is_correct": false }
+      ],
+      "answer": "Strong magnetic field"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is electric current?",
+      "answer": "Electric current is the flow of electric charges through a conductor. In metals, electrons act as charge carriers. Current flows when there is potential difference."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is electrostatic potential?",
+      "answer": "Electrostatic potential is the electric level of a point that decides the direction of charge flow. Charges move from higher to lower potential."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define potential difference.",
+      "answer": "Potential difference is the difference in electric potential between two points. It causes electric current to flow in a circuit."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why does bulb glow only when cell is connected?",
+      "answer": "Without a cell there is no potential difference. The cell provides energy to move electrons, so current flows and bulb glows."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "In which direction do electrons flow?",
+      "answer": "Electrons flow from the negative terminal to the positive terminal of the cell through the external circuit."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is conventional current direction?",
+      "answer": "Conventional current flows from positive terminal to negative terminal, opposite to electron flow."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of current?",
+      "answer": "The SI unit of electric current is Ampere (A). One ampere means one coulomb of charge flowing per second."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is an electric cell?",
+      "answer": "An electric cell is a device that maintains constant potential difference between its terminals and supplies electric current."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the function of electrolyte in a cell?",
+      "answer": "Electrolyte contains positive and negative ions. These ions take part in chemical reactions to produce electric current."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name the terminals of a dry cell.",
+      "answer": "Graphite rod acts as positive terminal and zinc cover acts as negative terminal in a dry cell."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why are dry cells convenient to use?",
+      "answer": "Dry cells can be used in any position and do not spill liquid. They are portable and have longer shelf life."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why do dry cells give small current?",
+      "answer": "Chemical reaction in dry cell is slow due to wet paste electrolyte, so large current cannot be obtained."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a battery?",
+      "answer": "A battery is a group of cells connected together to obtain higher potential difference and current."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why are cells connected in series?",
+      "answer": "Series connection increases total potential difference of battery, which increases current in the circuit."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the voltage of three 1.5 V cells in series?",
+      "answer": "In series connection, voltages add. So total voltage will be 4.5 V."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is a lead-acid cell?",
+      "answer": "It is a rechargeable cell with lead and lead dioxide electrodes dipped in dilute sulphuric acid."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Where are lead-acid cells used?",
+      "answer": "They are used in cars, trucks, motorcycles and UPS systems because they can supply large current."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What are lithium-ion cells used for?",
+      "answer": "They are used in mobiles, laptops and modern gadgets. They store more energy and are rechargeable."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is an electric circuit?",
+      "answer": "It is a closed path made of cell, wires, switch and load through which current can flow."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why does bulb stop glowing when key is open?",
+      "answer": "Opening the key breaks the circuit. No current flows, so bulb does not glow."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is magnetic effect of electric current?",
+      "answer": "When current flows through a wire, it produces magnetic field around it, affecting nearby magnets."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who discovered magnetic effect of current?",
+      "answer": "Hans Christian Oersted first observed that current carrying wire deflects magnetic needle."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is an electromagnet?",
+      "answer": "It is a temporary magnet formed when current flows through a coil wound on iron core."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why does electromagnet lose magnetism?",
+      "answer": "When current stops flowing, magnetic field disappears and iron core loses magnetism."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Give one use of electromagnet.",
+      "answer": "Electromagnets are used in electric bells, cranes and scientific instruments."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is main part of electric bell?",
+      "answer": "Electromagnet, iron strip, contact screw and striker are main parts of electric bell."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why does striker hit gong repeatedly?",
+      "answer": "Circuit makes and breaks repeatedly due to contact screw, causing continuous attraction of iron strip."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why does contact break in electric bell?",
+      "answer": "When iron strip is attracted, it moves away from screw, breaking circuit and stopping current."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why does bell ring continuously?",
+      "answer": "Make-and-break of circuit happens rapidly, so striker keeps hitting gong again and again."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is soft iron used in electromagnets?",
+      "answer": "Soft iron magnetizes easily and loses magnetism quickly, which is needed in electric bell."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What happens when magnetic needle is near current carrying wire?",
+      "answer": "Magnetic needle deflects showing that magnetic field is produced around the wire."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why does magnetic field disappear when current stops?",
+      "answer": "Magnetic field is produced only due to moving charges, so it disappears when current stops."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is battery called source of energy?",
+      "answer": "Battery converts chemical energy into electrical energy to move charges in circuit."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is zinc used as negative terminal?",
+      "answer": "Zinc loses electrons easily and acts as source of electrons in the circuit."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is manganese dioxide used in dry cell?",
+      "answer": "It helps in chemical reaction and prevents buildup of hydrogen gas at positive terminal."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is graphite rod used as positive terminal?",
+      "answer": "Graphite is good conductor and does not react chemically, so it safely collects electrons."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why are rechargeable cells useful?",
+      "answer": "They can be charged again after discharge, reducing cost and environmental waste."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are solar cells important?",
+      "answer": "They produce electricity using sunlight and do not cause pollution."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is cell symbol used in circuit diagram?",
+      "answer": "Symbols make circuit diagrams simple, clear and easy to understand."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What happens if bulb is fused?",
+      "answer": "Filament breaks and circuit becomes open, so no current flows."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is copper used for connecting wires?",
+      "answer": "Copper is good conductor and allows electrons to flow easily with less resistance."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does thicker wire carry more current?",
+      "answer": "Thicker wire has less resistance, allowing more electrons to flow."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What happens if battery is connected wrongly?",
+      "answer": "Current direction reverses but device may still work; polarity matters in some appliances."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is switch important in circuit?",
+      "answer": "Switch controls flow of current by making or breaking the circuit."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why does current not flow in open circuit?",
+      "answer": "Path is incomplete so electrons cannot move continuously through circuit."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is insulation needed on wires?",
+      "answer": "Insulation prevents electric shock and avoids short circuit between wires."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is load in electric circuit?",
+      "answer": "Load is device like bulb or motor that uses electrical energy to do work."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is potential difference necessary?",
+      "answer": "Without potential difference, electrons will not move and current will not flow."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What causes chemical reaction in cell?",
+      "answer": "Contact between electrolyte and electrodes causes chemical reaction that produces charges."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is bell circuit designed to break automatically?",
+      "answer": "Automatic breaking allows repeated attraction of iron strip, producing continuous ringing."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is iron core used in electromagnet?",
+      "answer": "Iron increases strength of magnetic field produced by coil when current flows."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why does iron strip return to original position?",
+      "answer": "When magnetism stops, attraction disappears and strip returns due to its elasticity."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What will happen if battery is weak?",
+      "answer": "Less current will flow and devices like bulb may glow dim or not work."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are dry cells used in torches?",
+      "answer": "They are small, portable and suitable for low current devices."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why does current not flow in broken wire?",
+      "answer": "Circuit becomes open and continuous path for electrons is not available."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is chemical energy converted to electrical energy?",
+      "answer": "Chemical reactions separate charges and create potential difference, causing current."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why are UPS batteries rechargeable?",
+      "answer": "They use lead-acid cells which can reverse chemical reaction during charging."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why are Ni-Cd cells used in gadgets?",
+      "answer": "They are small, rechargeable and give steady voltage for portable devices."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why does magnetic needle return after current stops?",
+      "answer": "When magnetic field disappears, needle aligns again with Earth’s magnetic field."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is electromagnet stronger than bar magnet?",
+      "answer": "Strength can be increased by increasing current and number of coil turns."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What will happen if iron core is removed?",
+      "answer": "Magnetic field will become weak because coil alone produces weaker magnetism."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why does bell not ring when wire is loose?",
+      "answer": "Loose wire breaks circuit, stopping current flow through electromagnet."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is zinc outer case in dry cell?",
+      "answer": "It acts as container and negative electrode at the same time."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is battery needed in home inverter?",
+      "answer": "It stores electrical energy to supply power during power failure."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why does battery voltage decrease with use?",
+      "answer": "Chemicals get consumed during reactions, reducing ability to produce potential difference."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is carbon rod not consumed in dry cell?",
+      "answer": "Carbon does not participate in chemical reaction, it only collects electrons."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why are batteries harmful to environment?",
+      "answer": "They contain harmful chemicals which pollute soil and water if not disposed properly."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why should used cells be recycled?",
+      "answer": "Recycling prevents pollution and recovers useful materials from batteries."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is current called flow of charges?",
+      "answer": "Because movement of electrons or ions through conductor forms electric current."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is electric bell not using permanent magnet?",
+      "answer": "Permanent magnet cannot switch ON and OFF magnetism, which is needed for ringing."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is bell silent when power supply is off?",
+      "answer": "Without current, electromagnet does not work and striker cannot move."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is wire coated with plastic?",
+      "answer": "Plastic prevents electric shock and short circuit."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why does current increase when voltage increases?",
+      "answer": "Higher potential difference pushes more electrons through conductor per second."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is iron attracted to electromagnet?",
+      "answer": "Iron becomes magnetized in magnetic field and gets attracted to coil."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is cell symbol long and short line?",
+      "answer": "Long line shows positive terminal and short line shows negative terminal."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why are batteries connected in series in torch?",
+      "answer": "To increase voltage so bulb can glow brighter."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is electrical energy easy to use?",
+      "answer": "It can be converted easily into light, heat, sound and motion."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why does electric shock occur?",
+      "answer": "When current passes through body tissues, it disturbs nerve signals causing shock."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why are safety fuses important?",
+      "answer": "They break circuit when excess current flows, preventing damage and fire."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why are bulbs connected in parallel at home?",
+      "answer": "Each appliance gets same voltage and works independently."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why does cell get exhausted?",
+      "answer": "Chemical substances are used up, so reaction stops producing electricity."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is current small in human brain?",
+      "answer": "Only micro current flows in nerves for signals, not for power supply."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is electromagnet used in cranes?",
+      "answer": "It can lift heavy iron objects and release them by switching off current."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why does current not flow in plastic?",
+      "answer": "Plastic has no free electrons, so it does not conduct electricity."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is metal used in circuit path?",
+      "answer": "Metals have free electrons which can move easily and conduct current."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why does current stop when cell is removed?",
+      "answer": "Potential difference disappears and electrons stop moving."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is bell striker made of iron?",
+      "answer": "Iron is attracted by electromagnet and can move quickly."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why are batteries not kept near fire?",
+      "answer": "Heat can cause leakage or explosion of chemicals inside battery."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is current dangerous at high voltage?",
+      "answer": "High voltage pushes large current through body, causing severe damage."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is switch placed in live wire?",
+      "answer": "It completely cuts off supply when switched off, ensuring safety."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why does wire heat up when current flows?",
+      "answer": "Resistance in wire converts electrical energy into heat energy."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are thick wires used for heavy appliances?",
+      "answer": "They can carry large current without overheating."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is bulb filament thin?",
+      "answer": "Thin filament has high resistance and glows when heated by current."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why does magnetism increase with more coil turns?",
+      "answer": "More turns increase magnetic field strength around iron core."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is chemical reaction essential in cells?",
+      "answer": "It produces separation of charges creating electrical energy."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why do devices stop when battery is dead?",
+      "answer": "No chemical reaction remains to supply electric current."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is bell circuit self-operating?",
+      "answer": "Automatic make and break of contact keeps ringing continuous."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is current invisible?",
+      "answer": "Electrons are very small and cannot be seen with naked eyes."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why does current flow only in closed path?",
+      "answer": "Continuous loop is needed for electrons to return to source."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of current electricity and magnetism chapter.",
+      "answer": "Electric current is flow of charges due to potential difference and produces magnetic effects useful in devices like bells and motors."
+    }
+  ]
+}

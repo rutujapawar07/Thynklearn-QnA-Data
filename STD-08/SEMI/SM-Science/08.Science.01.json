@@ -1,0 +1,1238 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.01",
+    "standard": "8",
+    "subject": "Biology",
+    "medium": "English",
+    "chapter_name": "Living World and Classification of Microbes"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who introduced the binomial system of nomenclature?",
+      "options": [
+        { "option_id": 1, "text": "Robert Whittaker", "is_correct": false },
+        { "option_id": 2, "text": "Carl Linnaeus", "is_correct": true },
+        { "option_id": 3, "text": "Haeckel", "is_correct": false },
+        { "option_id": 4, "text": "Chatton", "is_correct": false }
+      ],
+      "answer": "Carl Linnaeus"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many kingdoms are there in Whittaker’s classification?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": true }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which kingdom includes all bacteria?",
+      "options": [
+        { "option_id": 1, "text": "Protista", "is_correct": false },
+        { "option_id": 2, "text": "Fungi", "is_correct": false },
+        { "option_id": 3, "text": "Monera", "is_correct": true },
+        { "option_id": 4, "text": "Plantae", "is_correct": false }
+      ],
+      "answer": "Monera"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which organisms are prokaryotic?",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Animals", "is_correct": false },
+        { "option_id": 3, "text": "Bacteria", "is_correct": true },
+        { "option_id": 4, "text": "Fungi", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which kingdom has organisms with true nucleus?",
+      "options": [
+        { "option_id": 1, "text": "Monera", "is_correct": false },
+        { "option_id": 2, "text": "Protista", "is_correct": true },
+        { "option_id": 3, "text": "Both 1 and 2", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Protista"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which microorganism causes cholera?",
+      "options": [
+        { "option_id": 1, "text": "Plasmodium", "is_correct": false },
+        { "option_id": 2, "text": "Vibrio cholerae", "is_correct": true },
+        { "option_id": 3, "text": "Amoeba", "is_correct": false },
+        { "option_id": 4, "text": "Candida", "is_correct": false }
+      ],
+      "answer": "Vibrio cholerae"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which organism causes malaria?",
+      "options": [
+        { "option_id": 1, "text": "Entamoeba", "is_correct": false },
+        { "option_id": 2, "text": "Plasmodium", "is_correct": true },
+        { "option_id": 3, "text": "Euglena", "is_correct": false },
+        { "option_id": 4, "text": "Bacteria", "is_correct": false }
+      ],
+      "answer": "Plasmodium"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which microorganism is autotrophic?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Paramecium", "is_correct": false },
+        { "option_id": 3, "text": "Euglena", "is_correct": true },
+        { "option_id": 4, "text": "Entamoeba", "is_correct": false }
+      ],
+      "answer": "Euglena"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which fungi reproduces by budding?",
+      "options": [
+        { "option_id": 1, "text": "Mushroom", "is_correct": false },
+        { "option_id": 2, "text": "Yeast", "is_correct": true },
+        { "option_id": 3, "text": "Aspergillus", "is_correct": false },
+        { "option_id": 4, "text": "Penicillium", "is_correct": false }
+      ],
+      "answer": "Yeast"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Cell wall of fungi is made of:",
+      "options": [
+        { "option_id": 1, "text": "Cellulose", "is_correct": false },
+        { "option_id": 2, "text": "Protein", "is_correct": false },
+        { "option_id": 3, "text": "Chitin", "is_correct": true },
+        { "option_id": 4, "text": "Starch", "is_correct": false }
+      ],
+      "answer": "Chitin"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which organism has pseudopodia?",
+      "options": [
+        { "option_id": 1, "text": "Paramecium", "is_correct": false },
+        { "option_id": 2, "text": "Amoeba", "is_correct": true },
+        { "option_id": 3, "text": "Euglena", "is_correct": false },
+        { "option_id": 4, "text": "Volvox", "is_correct": false }
+      ],
+      "answer": "Amoeba"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which microorganism moves using cilia?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Paramecium", "is_correct": true },
+        { "option_id": 3, "text": "Plasmodium", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Paramecium"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Viruses can be seen using:",
+      "options": [
+        { "option_id": 1, "text": "Simple microscope", "is_correct": false },
+        { "option_id": 2, "text": "Compound microscope", "is_correct": false },
+        { "option_id": 3, "text": "Electron microscope", "is_correct": true },
+        { "option_id": 4, "text": "Hand lens", "is_correct": false }
+      ],
+      "answer": "Electron microscope"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Viruses reproduce only inside:",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Soil", "is_correct": false },
+        { "option_id": 3, "text": "Living cells", "is_correct": true },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Living cells"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which virus attacks bacteria?",
+      "options": [
+        { "option_id": 1, "text": "HIV", "is_correct": false },
+        { "option_id": 2, "text": "Bacteriophage", "is_correct": true },
+        { "option_id": 3, "text": "Influenza", "is_correct": false },
+        { "option_id": 4, "text": "Polio", "is_correct": false }
+      ],
+      "answer": "Bacteriophage"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which microorganism is multicellular?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Virus", "is_correct": false },
+        { "option_id": 3, "text": "Mushroom", "is_correct": true },
+        { "option_id": 4, "text": "Amoeba", "is_correct": false }
+      ],
+      "answer": "Mushroom"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which group performs photosynthesis?",
+      "options": [
+        { "option_id": 1, "text": "Fungi", "is_correct": false },
+        { "option_id": 2, "text": "Algae", "is_correct": true },
+        { "option_id": 3, "text": "Protozoa", "is_correct": false },
+        { "option_id": 4, "text": "Viruses", "is_correct": false }
+      ],
+      "answer": "Algae"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which microorganism causes amoebiasis?",
+      "options": [
+        { "option_id": 1, "text": "Entamoeba histolytica", "is_correct": true },
+        { "option_id": 2, "text": "Plasmodium", "is_correct": false },
+        { "option_id": 3, "text": "Candida", "is_correct": false },
+        { "option_id": 4, "text": "Euglena", "is_correct": false }
+      ],
+      "answer": "Entamoeba histolytica"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which microorganism is non-living outside host?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Fungi", "is_correct": false },
+        { "option_id": 3, "text": "Virus", "is_correct": true },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which kingdom includes blue-green algae?",
+      "options": [
+        { "option_id": 1, "text": "Protista", "is_correct": false },
+        { "option_id": 2, "text": "Monera", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Plantae", "is_correct": false }
+      ],
+      "answer": "Monera"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which organism causes tomato wilt disease?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Virus", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which organism has flagella?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Euglena", "is_correct": true },
+        { "option_id": 3, "text": "Paramecium", "is_correct": false },
+        { "option_id": 4, "text": "Mushroom", "is_correct": false }
+      ],
+      "answer": "Euglena"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which microorganism reproduces by binary fission?",
+      "options": [
+        { "option_id": 1, "text": "Virus", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which is not a microorganism?",
+      "options": [
+        { "option_id": 1, "text": "Virus", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": false },
+        { "option_id": 3, "text": "Mushroom", "is_correct": false },
+        { "option_id": 4, "text": "Human", "is_correct": true }
+      ],
+      "answer": "Human"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which microorganism lives on dead matter?",
+      "options": [
+        { "option_id": 1, "text": "Autotroph", "is_correct": false },
+        { "option_id": 2, "text": "Saprotroph", "is_correct": true },
+        { "option_id": 3, "text": "Parasite", "is_correct": false },
+        { "option_id": 4, "text": "Producer", "is_correct": false }
+      ],
+      "answer": "Saprotroph"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which algae is unicellular?",
+      "options": [
+        { "option_id": 1, "text": "Spirogyra", "is_correct": false },
+        { "option_id": 2, "text": "Chlorella", "is_correct": true },
+        { "option_id": 3, "text": "Ulva", "is_correct": false },
+        { "option_id": 4, "text": "Laminaria", "is_correct": false }
+      ],
+      "answer": "Chlorella"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which virus causes AIDS?",
+      "options": [
+        { "option_id": 1, "text": "Polio virus", "is_correct": false },
+        { "option_id": 2, "text": "HIV", "is_correct": true },
+        { "option_id": 3, "text": "Influenza virus", "is_correct": false },
+        { "option_id": 4, "text": "Corona virus", "is_correct": false }
+      ],
+      "answer": "HIV"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which organism lacks cell organelles?",
+      "options": [
+        { "option_id": 1, "text": "Fungi", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Protozoa", "is_correct": false },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which is correct order of size (small to large)?",
+      "options": [
+        { "option_id": 1, "text": "Virus < Bacteria < Fungi < Algae", "is_correct": true },
+        { "option_id": 2, "text": "Bacteria < Virus < Fungi < Algae", "is_correct": false },
+        { "option_id": 3, "text": "Algae < Fungi < Bacteria < Virus", "is_correct": false },
+        { "option_id": 4, "text": "Virus < Fungi < Bacteria < Algae", "is_correct": false }
+      ],
+      "answer": "Virus < Bacteria < Fungi < Algae"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which microorganism is parasitic?",
+      "options": [
+        { "option_id": 1, "text": "Plasmodium", "is_correct": true },
+        { "option_id": 2, "text": "Yeast", "is_correct": false },
+        { "option_id": 3, "text": "Chlorella", "is_correct": false },
+        { "option_id": 4, "text": "Volvox", "is_correct": false }
+      ],
+      "answer": "Plasmodium"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which microorganism has no cellular structure?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Virus", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which kingdom includes decomposers?",
+      "options": [
+        { "option_id": 1, "text": "Animalia", "is_correct": false },
+        { "option_id": 2, "text": "Plantae", "is_correct": false },
+        { "option_id": 3, "text": "Fungi", "is_correct": true },
+        { "option_id": 4, "text": "Protista", "is_correct": false }
+      ],
+      "answer": "Fungi"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which organism shows both plant and animal characters?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Euglena", "is_correct": true },
+        { "option_id": 3, "text": "Yeast", "is_correct": false },
+        { "option_id": 4, "text": "Chlorella", "is_correct": false }
+      ],
+      "answer": "Euglena"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which microorganism causes pneumonia?",
+      "options": [
+        { "option_id": 1, "text": "Streptococcus pneumoniae", "is_correct": true },
+        { "option_id": 2, "text": "Plasmodium", "is_correct": false },
+        { "option_id": 3, "text": "Candida", "is_correct": false },
+        { "option_id": 4, "text": "HIV", "is_correct": false }
+      ],
+      "answer": "Streptococcus pneumoniae"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is a beneficial bacterium?",
+      "options": [
+        { "option_id": 1, "text": "Salmonella", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacillus", "is_correct": true },
+        { "option_id": 3, "text": "Vibrio", "is_correct": false },
+        { "option_id": 4, "text": "Clostridium", "is_correct": false }
+      ],
+      "answer": "Lactobacillus"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which microorganism is used in baking?",
+      "options": [
+        { "option_id": 1, "text": "Virus", "is_correct": false },
+        { "option_id": 2, "text": "Yeast", "is_correct": true },
+        { "option_id": 3, "text": "Bacteria", "is_correct": false },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Yeast"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which organism causes polio?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Virus", "is_correct": true },
+        { "option_id": 3, "text": "Protozoa", "is_correct": false },
+        { "option_id": 4, "text": "Fungi", "is_correct": false }
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which microorganism is found in pond water?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": true },
+        { "option_id": 2, "text": "HIV", "is_correct": false },
+        { "option_id": 3, "text": "Candida", "is_correct": false },
+        { "option_id": 4, "text": "Bacteriophage", "is_correct": false }
+      ],
+      "answer": "Amoeba"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which microorganism has hyphae?",
+      "options": [
+        { "option_id": 1, "text": "Fungi", "is_correct": true },
+        { "option_id": 2, "text": "Bacteria", "is_correct": false },
+        { "option_id": 3, "text": "Virus", "is_correct": false },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "Fungi"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which microorganism reproduces using spores?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Fungi", "is_correct": true },
+        { "option_id": 3, "text": "Virus", "is_correct": false },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Fungi"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which microorganism is helpful in curd formation?",
+      "options": [
+        { "option_id": 1, "text": "Yeast", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacillus", "is_correct": true },
+        { "option_id": 3, "text": "Virus", "is_correct": false },
+        { "option_id": 4, "text": "Amoeba", "is_correct": false }
+      ],
+      "answer": "Lactobacillus"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which organism has chloroplast?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Euglena", "is_correct": true },
+        { "option_id": 3, "text": "Yeast", "is_correct": false },
+        { "option_id": 4, "text": "Virus", "is_correct": false }
+      ],
+      "answer": "Euglena"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which is a parasitic protozoan?",
+      "options": [
+        { "option_id": 1, "text": "Entamoeba", "is_correct": true },
+        { "option_id": 2, "text": "Chlorella", "is_correct": false },
+        { "option_id": 3, "text": "Volvox", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Entamoeba"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which microorganism forms colonies?",
+      "options": [
+        { "option_id": 1, "text": "Virus", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Protozoa", "is_correct": false },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which microorganism is green and unicellular?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Chlorella", "is_correct": true },
+        { "option_id": 3, "text": "Candida", "is_correct": false },
+        { "option_id": 4, "text": "Virus", "is_correct": false }
+      ],
+      "answer": "Chlorella"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which microorganism is studied in virology?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Virus", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which microorganism has comma shape?",
+      "options": [
+        { "option_id": 1, "text": "Spirillum", "is_correct": false },
+        { "option_id": 2, "text": "Vibrio", "is_correct": true },
+        { "option_id": 3, "text": "Bacillus", "is_correct": false },
+        { "option_id": 4, "text": "Coccus", "is_correct": false }
+      ],
+      "answer": "Vibrio"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which microorganism is rod-shaped?",
+      "options": [
+        { "option_id": 1, "text": "Coccus", "is_correct": false },
+        { "option_id": 2, "text": "Bacillus", "is_correct": true },
+        { "option_id": 3, "text": "Vibrio", "is_correct": false },
+        { "option_id": 4, "text": "Spirillum", "is_correct": false }
+      ],
+      "answer": "Bacillus"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which microorganism is spherical?",
+      "options": [
+        { "option_id": 1, "text": "Coccus", "is_correct": true },
+        { "option_id": 2, "text": "Bacillus", "is_correct": false },
+        { "option_id": 3, "text": "Vibrio", "is_correct": false },
+        { "option_id": 4, "text": "Spirillum", "is_correct": false }
+      ],
+      "answer": "Coccus"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which microorganism has spiral shape?",
+      "options": [
+        { "option_id": 1, "text": "Coccus", "is_correct": false },
+        { "option_id": 2, "text": "Bacillus", "is_correct": false },
+        { "option_id": 3, "text": "Vibrio", "is_correct": false },
+        { "option_id": 4, "text": "Spirillum", "is_correct": true }
+      ],
+      "answer": "Spirillum"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is classification of living organisms?",
+      "answer": "Classification is the systematic arrangement of living organisms into groups based on similarities and differences. It helps in easy study and identification of organisms."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is classification necessary?",
+      "answer": "Classification helps to organize large numbers of organisms. It makes study easier and shows relationships among organisms."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is binomial nomenclature?",
+      "answer": "Binomial nomenclature is a system of naming organisms using two words: genus and species. It was introduced by Carl Linnaeus."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are prokaryotic organisms?",
+      "answer": "Prokaryotic organisms do not have a true nucleus or membrane-bound organelles. Bacteria are examples of prokaryotes."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are eukaryotic organisms?",
+      "answer": "Eukaryotic organisms have a true nucleus and membrane-bound organelles. Plants, animals, fungi and protists are eukaryotes."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are microorganisms?",
+      "answer": "Microorganisms are very small living organisms that cannot be seen with naked eyes. They are seen using a microscope."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where are microorganisms found?",
+      "answer": "Microorganisms are found everywhere such as in water, air, soil, and inside living organisms. Some also live in extreme conditions."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are bacteria?",
+      "answer": "Bacteria are single-celled prokaryotic organisms. They can be beneficial or harmful to humans."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How do bacteria reproduce?",
+      "answer": "Bacteria reproduce by binary fission. In this process, one cell divides into two identical cells."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are protozoa?",
+      "answer": "Protozoa are unicellular eukaryotic organisms. They usually live in water and some are disease causing."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are algae?",
+      "answer": "Algae are photosynthetic organisms found mostly in water. They can be unicellular or multicellular."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are fungi?",
+      "answer": "Fungi are non-green organisms that feed on dead or living matter. They reproduce by spores."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why are fungi called decomposers?",
+      "answer": "Fungi break down dead plants and animals into simpler substances. This helps recycle nutrients in nature."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is yeast?",
+      "answer": "Yeast is a unicellular fungus used in baking and fermentation. It reproduces by budding."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are viruses?",
+      "answer": "Viruses are non-living outside host cells but show life activities inside living cells. They need a host to reproduce."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why are viruses called obligate parasites?",
+      "answer": "Viruses can survive and reproduce only inside living host cells. Outside the host, they are inactive."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What diseases are caused by viruses?",
+      "answer": "Viruses cause diseases like polio, AIDS, influenza and COVID-19. These diseases spread rapidly."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is bacteriophage?",
+      "answer": "Bacteriophage is a virus that infects and destroys bacteria. It is used in medical research."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is amoeba?",
+      "answer": "Amoeba is a unicellular protozoan that moves using pseudopodia. It lives in pond water."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does amoeba move?",
+      "answer": "Amoeba moves using pseudopodia which are temporary projections of cytoplasm. They also help in feeding."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is Paramecium?",
+      "answer": "Paramecium is a unicellular protozoan that moves with the help of cilia. It lives in water."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is Euglena?",
+      "answer": "Euglena is a unicellular organism showing both plant and animal characters. It can perform photosynthesis."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is Chlorella?",
+      "answer": "Chlorella is a unicellular green alga. It is rich in proteins and used as food supplement."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is Plasmodium?",
+      "answer": "Plasmodium is a protozoan parasite that causes malaria. It is transmitted by female Anopheles mosquito."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is Entamoeba histolytica?",
+      "answer": "It is a parasitic protozoan that causes amoebiasis. It infects the human intestine."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What are saprotrophs?",
+      "answer": "Saprotrophs obtain food from dead and decaying matter. Many fungi are saprotrophs."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What are parasites?",
+      "answer": "Parasites live on or inside other organisms and take food from them. They harm the host."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What are symbionts?",
+      "answer": "Symbionts are organisms that live together and benefit each other. Lichen is an example."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is lichen?",
+      "answer": "Lichen is a symbiotic association between algae and fungi. Both benefit from each other."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How are microorganisms useful to humans?",
+      "answer": "They help in food production, medicine, decomposition and nitrogen fixation. Some are used in industries."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How are microorganisms harmful?",
+      "answer": "They cause diseases in humans, animals and plants. They can spoil food and damage crops."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is vaccination?",
+      "answer": "Vaccination is the method of introducing weakened germs to develop immunity against diseases."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are antibiotics?",
+      "answer": "Antibiotics are medicines used to kill or stop growth of bacteria. They are not effective against viruses."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why should antibiotics be used carefully?",
+      "answer": "Overuse can lead to antibiotic resistance. This makes treatment of diseases difficult."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is pasteurization?",
+      "answer": "Pasteurization is heating milk to kill harmful microorganisms. It increases shelf life of milk."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How do microorganisms help in agriculture?",
+      "answer": "They increase soil fertility by nitrogen fixation and decomposition. Some are used as biofertilizers."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What are nitrogen fixing bacteria?",
+      "answer": "They convert atmospheric nitrogen into usable form for plants. Example is Rhizobium."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is fermentation?",
+      "answer": "Fermentation is conversion of sugar into alcohol or acids by microorganisms like yeast."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is curd formation?",
+      "answer": "Bacteria convert lactose in milk into lactic acid, forming curd. Lactobacillus helps in this process."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How do microorganisms spoil food?",
+      "answer": "They grow on food and produce harmful substances. This causes bad smell, taste and diseases."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is food preservation?",
+      "answer": "Food preservation prevents growth of microorganisms to avoid spoilage. It increases shelf life."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name some food preservation methods.",
+      "answer": "Drying, salting, refrigeration and preservatives are common food preservation methods."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What are preservatives?",
+      "answer": "Preservatives are chemicals added to food to prevent microbial growth and spoilage."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why refrigeration prevents spoilage?",
+      "answer": "Low temperature slows down growth of microorganisms, thus preventing food spoilage."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What are spores?",
+      "answer": "Spores are reproductive structures in fungi that help in survival under unfavorable conditions."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is colony formation in bacteria?",
+      "answer": "Bacteria multiply rapidly and form visible groups called colonies under suitable conditions."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why are microorganisms important in ecosystem?",
+      "answer": "They decompose waste and recycle nutrients, maintaining ecological balance."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How do microbes help in sewage treatment?",
+      "answer": "They break down organic waste into harmless substances, purifying water."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is biofertilizer?",
+      "answer": "Biofertilizers contain living microorganisms that enrich soil nutrients and improve crop yield."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why are microorganisms studied in biology?",
+      "answer": "They play important roles in health, environment and industries. They help understand life processes."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is host?",
+      "answer": "Host is the organism that provides food and shelter to parasites or viruses."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does malaria spread?",
+      "answer": "Malaria spreads through bite of infected female Anopheles mosquito carrying Plasmodium."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How can microbial diseases be prevented?",
+      "answer": "Cleanliness, vaccination, safe drinking water and proper sanitation prevent diseases."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is immunity?",
+      "answer": "Immunity is the ability of body to resist infections and fight against pathogens."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What are pathogens?",
+      "answer": "Pathogens are disease causing microorganisms. They infect humans, animals and plants."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How do microorganisms enter human body?",
+      "answer": "They enter through air, water, food, wounds or insect bites and cause infection."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is contamination?",
+      "answer": "Contamination means presence of harmful microorganisms in food or water."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is culture of bacteria?",
+      "answer": "It is the process of growing bacteria in laboratory using nutrient media."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why are microscopes needed to study microbes?",
+      "answer": "Microbes are too small to be seen with naked eyes, so microscopes help observe them."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is classification based on?",
+      "answer": "It is based on structure, mode of nutrition, reproduction and genetic similarities."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is kingdom Monera?",
+      "answer": "It includes prokaryotic organisms like bacteria and blue-green algae."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is kingdom Protista?",
+      "answer": "It includes unicellular eukaryotic organisms like amoeba and paramecium."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is kingdom Fungi?",
+      "answer": "It includes organisms that are non-photosynthetic and obtain food by absorption."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is kingdom Plantae?",
+      "answer": "It includes multicellular green plants that perform photosynthesis."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is kingdom Animalia?",
+      "answer": "It includes multicellular animals that depend on others for food."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How are microbes used in medicine?",
+      "answer": "They are used to produce antibiotics, vaccines and vitamins."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is antibiotic resistance?",
+      "answer": "It is when bacteria become resistant to antibiotics making treatment ineffective."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How do microbes help in recycling matter?",
+      "answer": "They decompose dead organisms and release nutrients back into environment."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is microbiology?",
+      "answer": "Microbiology is the study of microorganisms and their effects."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why are microorganisms called invisible helpers?",
+      "answer": "They perform many useful functions that we cannot see but are essential."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is hygienic food?",
+      "answer": "Food that is free from harmful microorganisms and safe to eat is hygienic food."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is composting?",
+      "answer": "It is conversion of organic waste into manure by microorganisms."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How do microbes help in industry?",
+      "answer": "They are used in production of alcohol, cheese, curd and medicines."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are viruses difficult to kill?",
+      "answer": "They live inside host cells and do not respond to antibiotics."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How does vaccination protect us?",
+      "answer": "It develops antibodies that fight disease causing microorganisms."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is epidemic?",
+      "answer": "When a disease spreads rapidly in a large area, it is called epidemic."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is pandemic?",
+      "answer": "A disease that spreads worldwide affecting many countries is called pandemic."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How can we prevent microbial growth in food?",
+      "answer": "By refrigeration, drying, preservatives and proper cooking."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why should hands be washed before eating?",
+      "answer": "To remove harmful microbes and prevent diseases."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is sterile condition?",
+      "answer": "It is a condition free from microorganisms."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What are useful microbes called?",
+      "answer": "They are called beneficial microorganisms."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why are microbes important in soil?",
+      "answer": "They improve soil fertility and decompose organic matter."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is culture medium?",
+      "answer": "It is a nutrient material used to grow microbes in laboratories."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is cell wall in fungi made of?",
+      "answer": "Fungal cell wall is made of chitin."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is host cell?",
+      "answer": "Cell that provides environment for virus reproduction is host cell."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why are microbes studied in medicine?",
+      "answer": "To understand diseases and develop treatments."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is microbial culture used for?",
+      "answer": "To identify microbes and study their behavior."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is pathogen transmission?",
+      "answer": "It is spread of disease from one host to another."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is incubation period?",
+      "answer": "Time between infection and appearance of symptoms is incubation period."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are microbes essential for life?",
+      "answer": "They recycle nutrients and support food chains."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is microbial ecology?",
+      "answer": "It is study of interactions of microbes with environment."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How do microbes help in biotechnology?",
+      "answer": "They are used to produce enzymes and medicines."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why are microbes called double-edged sword?",
+      "answer": "They are both useful and harmful to humans."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is antiseptic?",
+      "answer": "It is chemical that kills microbes on living tissues."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is disinfectant?",
+      "answer": "Chemical used to kill microbes on non-living surfaces."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is immunity booster?",
+      "answer": "Substance that improves body resistance against diseases."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why are viruses not included in five kingdom system?",
+      "answer": "They are not truly living organisms outside host."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is microbial diversity?",
+      "answer": "Variety of microorganisms found in different environments."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is study of microbes important?",
+      "answer": "They affect health, agriculture, industry and environment."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of living world and microbes chapter.",
+      "answer": "Microorganisms play vital roles in life and environment. Proper knowledge helps in using them beneficially and preventing diseases."
+    }
+  ]
+}

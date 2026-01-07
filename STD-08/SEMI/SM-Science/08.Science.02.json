@@ -1,0 +1,743 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.02",
+    "standard": "8",
+    "subject": "Biology",
+    "medium": "English",
+    "chapter_name": "Health and Diseases"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which is the correct definition of health?",
+      "options": [
+        { "option_id": 1, "text": "Only physical fitness", "is_correct": false },
+        { "option_id": 2, "text": "Absence of disease", "is_correct": false },
+        { "option_id": 3, "text": "Physical, mental and social well-being", "is_correct": true },
+        { "option_id": 4, "text": "Only mental fitness", "is_correct": false }
+      ],
+      "answer": "Physical, mental and social well-being"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which disease spreads through air?",
+      "options": [
+        { "option_id": 1, "text": "Malaria", "is_correct": false },
+        { "option_id": 2, "text": "Tuberculosis", "is_correct": true },
+        { "option_id": 3, "text": "Typhoid", "is_correct": false },
+        { "option_id": 4, "text": "Dengue", "is_correct": false }
+      ],
+      "answer": "Tuberculosis"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which organism causes malaria?",
+      "options": [
+        { "option_id": 1, "text": "Virus", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": false },
+        { "option_id": 3, "text": "Protozoa", "is_correct": true },
+        { "option_id": 4, "text": "Fungi", "is_correct": false }
+      ],
+      "answer": "Protozoa"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which mosquito spreads dengue?",
+      "options": [
+        { "option_id": 1, "text": "Anopheles", "is_correct": false },
+        { "option_id": 2, "text": "Culex", "is_correct": false },
+        { "option_id": 3, "text": "Aedes aegypti", "is_correct": true },
+        { "option_id": 4, "text": "Mansonia", "is_correct": false }
+      ],
+      "answer": "Aedes aegypti"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which disease is caused by HIV?",
+      "options": [
+        { "option_id": 1, "text": "Cancer", "is_correct": false },
+        { "option_id": 2, "text": "AIDS", "is_correct": true },
+        { "option_id": 3, "text": "Rabies", "is_correct": false },
+        { "option_id": 4, "text": "Polio", "is_correct": false }
+      ],
+      "answer": "AIDS"
+    },
+
+    { "question_id": 6, "question_type": "MCQ", "question": "Which disease spreads through contaminated water?", "options": [{ "option_id": 1, "text": "Cholera", "is_correct": true }, { "option_id": 2, "text": "Rabies", "is_correct": false }, { "option_id": 3, "text": "Cancer", "is_correct": false }, { "option_id": 4, "text": "Asthma", "is_correct": false }], "answer": "Cholera" },
+    { "question_id": 7, "question_type": "MCQ", "question": "Which is a non-infectious disease?", "options": [{ "option_id": 1, "text": "Typhoid", "is_correct": false }, { "option_id": 2, "text": "Diabetes", "is_correct": true }, { "option_id": 3, "text": "Dengue", "is_correct": false }, { "option_id": 4, "text": "Malaria", "is_correct": false }], "answer": "Diabetes" },
+    { "question_id": 8, "question_type": "MCQ", "question": "Which test is used for AIDS detection?", "options": [{ "option_id": 1, "text": "X-ray", "is_correct": false }, { "option_id": 2, "text": "ELISA", "is_correct": true }, { "option_id": 3, "text": "MRI", "is_correct": false }, { "option_id": 4, "text": "CT scan", "is_correct": false }], "answer": "ELISA" },
+    { "question_id": 9, "question_type": "MCQ", "question": "Which disease spreads by dog bite?", "options": [{ "option_id": 1, "text": "Polio", "is_correct": false }, { "option_id": 2, "text": "Rabies", "is_correct": true }, { "option_id": 3, "text": "AIDS", "is_correct": false }, { "option_id": 4, "text": "Cancer", "is_correct": false }], "answer": "Rabies" },
+    { "question_id": 10, "question_type": "MCQ", "question": "Which vitamin deficiency causes night blindness?", "options": [{ "option_id": 1, "text": "Vitamin A", "is_correct": true }, { "option_id": 2, "text": "Vitamin B", "is_correct": false }, { "option_id": 3, "text": "Vitamin C", "is_correct": false }, { "option_id": 4, "text": "Vitamin D", "is_correct": false }], "answer": "Vitamin A" },
+
+    { "question_id": 11, "question_type": "MCQ", "question": "Which disease is spread by female Anopheles?", "options": [{ "option_id": 1, "text": "Dengue", "is_correct": false }, { "option_id": 2, "text": "Malaria", "is_correct": true }, { "option_id": 3, "text": "Cholera", "is_correct": false }, { "option_id": 4, "text": "Typhoid", "is_correct": false }], "answer": "Malaria" },
+    { "question_id": 12, "question_type": "MCQ", "question": "Which disease is genetic?", "options": [{ "option_id": 1, "text": "Cancer", "is_correct": false }, { "option_id": 2, "text": "Down syndrome", "is_correct": true }, { "option_id": 3, "text": "Dengue", "is_correct": false }, { "option_id": 4, "text": "Cholera", "is_correct": false }], "answer": "Down syndrome" },
+    { "question_id": 13, "question_type": "MCQ", "question": "Which organ produces insulin?", "options": [{ "option_id": 1, "text": "Liver", "is_correct": false }, { "option_id": 2, "text": "Pancreas", "is_correct": true }, { "option_id": 3, "text": "Kidney", "is_correct": false }, { "option_id": 4, "text": "Heart", "is_correct": false }], "answer": "Pancreas" },
+    { "question_id": 14, "question_type": "MCQ", "question": "Which is a symptom of dengue?", "options": [{ "option_id": 1, "text": "Chest pain", "is_correct": false }, { "option_id": 2, "text": "Eye pain", "is_correct": true }, { "option_id": 3, "text": "Hair fall", "is_correct": false }, { "option_id": 4, "text": "Blindness", "is_correct": false }], "answer": "Eye pain" },
+    { "question_id": 15, "question_type": "MCQ", "question": "Which disease is prevented by BCG vaccine?", "options": [{ "option_id": 1, "text": "Malaria", "is_correct": false }, { "option_id": 2, "text": "Tuberculosis", "is_correct": true }, { "option_id": 3, "text": "Cholera", "is_correct": false }, { "option_id": 4, "text": "Typhoid", "is_correct": false }], "answer": "Tuberculosis" },
+
+    { "question_id": 16, "question_type": "MCQ", "question": "Which disease spreads by flies?", "options": [{ "option_id": 1, "text": "Malaria", "is_correct": false }, { "option_id": 2, "text": "Dysentery", "is_correct": true }, { "option_id": 3, "text": "Rabies", "is_correct": false }, { "option_id": 4, "text": "Cancer", "is_correct": false }], "answer": "Dysentery" },
+    { "question_id": 17, "question_type": "MCQ", "question": "Which is a symptom of heart attack?", "options": [{ "option_id": 1, "text": "Leg pain", "is_correct": false }, { "option_id": 2, "text": "Chest pain", "is_correct": true }, { "option_id": 3, "text": "Skin rash", "is_correct": false }, { "option_id": 4, "text": "Hair loss", "is_correct": false }], "answer": "Chest pain" },
+    { "question_id": 18, "question_type": "MCQ", "question": "Which disease is caused by bacteria?", "options": [{ "option_id": 1, "text": "AIDS", "is_correct": false }, { "option_id": 2, "text": "Typhoid", "is_correct": true }, { "option_id": 3, "text": "Dengue", "is_correct": false }, { "option_id": 4, "text": "Rabies", "is_correct": false }], "answer": "Typhoid" },
+    { "question_id": 19, "question_type": "MCQ", "question": "Which habit causes cancer?", "options": [{ "option_id": 1, "text": "Exercise", "is_correct": false }, { "option_id": 2, "text": "Smoking", "is_correct": true }, { "option_id": 3, "text": "Reading", "is_correct": false }, { "option_id": 4, "text": "Walking", "is_correct": false }], "answer": "Smoking" },
+    { "question_id": 20, "question_type": "MCQ", "question": "Which disease spreads through sexual contact?", "options": [{ "option_id": 1, "text": "Malaria", "is_correct": false }, { "option_id": 2, "text": "AIDS", "is_correct": true }, { "option_id": 3, "text": "Cholera", "is_correct": false }, { "option_id": 4, "text": "Typhoid", "is_correct": false }], "answer": "AIDS" },
+
+    { "question_id": 21, "question_type": "MCQ", "question": "Which disease is due to insulin deficiency?", "options": [{ "option_id": 1, "text": "Cancer", "is_correct": false }, { "option_id": 2, "text": "Diabetes", "is_correct": true }, { "option_id": 3, "text": "Asthma", "is_correct": false }, { "option_id": 4, "text": "Rabies", "is_correct": false }], "answer": "Diabetes" },
+    { "question_id": 22, "question_type": "MCQ", "question": "Which disease is spread by pigs?", "options": [{ "option_id": 1, "text": "Swine flu", "is_correct": true }, { "option_id": 2, "text": "Polio", "is_correct": false }, { "option_id": 3, "text": "Dengue", "is_correct": false }, { "option_id": 4, "text": "Rabies", "is_correct": false }], "answer": "Swine flu" },
+    { "question_id": 23, "question_type": "MCQ", "question": "Which helps in preventing diseases?", "options": [{ "option_id": 1, "text": "Vaccination", "is_correct": true }, { "option_id": 2, "text": "Pollution", "is_correct": false }, { "option_id": 3, "text": "Smoking", "is_correct": false }, { "option_id": 4, "text": "Stress", "is_correct": false }], "answer": "Vaccination" },
+    { "question_id": 24, "question_type": "MCQ", "question": "Which disease affects lungs?", "options": [{ "option_id": 1, "text": "TB", "is_correct": true }, { "option_id": 2, "text": "Diabetes", "is_correct": false }, { "option_id": 3, "text": "Rabies", "is_correct": false }, { "option_id": 4, "text": "Typhoid", "is_correct": false }], "answer": "TB" },
+    { "question_id": 25, "question_type": "MCQ", "question": "Which disease causes platelet decrease?", "options": [{ "option_id": 1, "text": "Dengue", "is_correct": true }, { "option_id": 2, "text": "Malaria", "is_correct": false }, { "option_id": 3, "text": "Cancer", "is_correct": false }, { "option_id": 4, "text": "Diabetes", "is_correct": false }], "answer": "Dengue" },
+
+    { "question_id": 26, "question_type": "MCQ", "question": "Which disease is spread by contaminated needles?", "options": [{ "option_id": 1, "text": "AIDS", "is_correct": true }, { "option_id": 2, "text": "Malaria", "is_correct": false }, { "option_id": 3, "text": "Cholera", "is_correct": false }, { "option_id": 4, "text": "Rabies", "is_correct": false }], "answer": "AIDS" },
+    { "question_id": 27, "question_type": "MCQ", "question": "Which is symptom of diabetes?", "options": [{ "option_id": 1, "text": "Hair loss", "is_correct": false }, { "option_id": 2, "text": "Frequent urination", "is_correct": true }, { "option_id": 3, "text": "Skin rash", "is_correct": false }, { "option_id": 4, "text": "Cough", "is_correct": false }], "answer": "Frequent urination" },
+    { "question_id": 28, "question_type": "MCQ", "question": "Which disease is caused by virus?", "options": [{ "option_id": 1, "text": "Cholera", "is_correct": false }, { "option_id": 2, "text": "Rabies", "is_correct": true }, { "option_id": 3, "text": "Typhoid", "is_correct": false }, { "option_id": 4, "text": "TB", "is_correct": false }], "answer": "Rabies" },
+    { "question_id": 29, "question_type": "MCQ", "question": "Which practice prevents mosquito breeding?", "options": [{ "option_id": 1, "text": "Water storage", "is_correct": false }, { "option_id": 2, "text": "Removing stagnant water", "is_correct": true }, { "option_id": 3, "text": "Planting trees", "is_correct": false }, { "option_id": 4, "text": "Burning garbage", "is_correct": false }], "answer": "Removing stagnant water" },
+    { "question_id": 30, "question_type": "MCQ", "question": "Which disease weakens immunity?", "options": [{ "option_id": 1, "text": "AIDS", "is_correct": true }, { "option_id": 2, "text": "Cancer", "is_correct": false }, { "option_id": 3, "text": "TB", "is_correct": false }, { "option_id": 4, "text": "Diabetes", "is_correct": false }], "answer": "AIDS" },
+
+    { "question_id": 31, "question_type": "MCQ", "question": "Which organ is affected in hepatitis?", "options": [{ "option_id": 1, "text": "Heart", "is_correct": false }, { "option_id": 2, "text": "Liver", "is_correct": true }, { "option_id": 3, "text": "Lungs", "is_correct": false }, { "option_id": 4, "text": "Kidney", "is_correct": false }], "answer": "Liver" },
+    { "question_id": 32, "question_type": "MCQ", "question": "Which disease spreads through food?", "options": [{ "option_id": 1, "text": "Typhoid", "is_correct": true }, { "option_id": 2, "text": "Cancer", "is_correct": false }, { "option_id": 3, "text": "Asthma", "is_correct": false }, { "option_id": 4, "text": "Diabetes", "is_correct": false }], "answer": "Typhoid" },
+    { "question_id": 33, "question_type": "MCQ", "question": "Which test detects cancer?", "options": [{ "option_id": 1, "text": "Biopsy", "is_correct": true }, { "option_id": 2, "text": "Urine test", "is_correct": false }, { "option_id": 3, "text": "Blood group test", "is_correct": false }, { "option_id": 4, "text": "Pulse test", "is_correct": false }], "answer": "Biopsy" },
+    { "question_id": 34, "question_type": "MCQ", "question": "Which disease spreads by mosquitoes?", "options": [{ "option_id": 1, "text": "Cancer", "is_correct": false }, { "option_id": 2, "text": "Malaria", "is_correct": true }, { "option_id": 3, "text": "Diabetes", "is_correct": false }, { "option_id": 4, "text": "TB", "is_correct": false }], "answer": "Malaria" },
+    { "question_id": 35, "question_type": "MCQ", "question": "Which habit increases heart disease risk?", "options": [{ "option_id": 1, "text": "Exercise", "is_correct": false }, { "option_id": 2, "text": "Smoking", "is_correct": true }, { "option_id": 3, "text": "Yoga", "is_correct": false }, { "option_id": 4, "text": "Balanced diet", "is_correct": false }], "answer": "Smoking" },
+
+    { "question_id": 36, "question_type": "MCQ", "question": "Which disease is chronic?", "options": [{ "option_id": 1, "text": "Flu", "is_correct": false }, { "option_id": 2, "text": "Diabetes", "is_correct": true }, { "option_id": 3, "text": "Cold", "is_correct": false }, { "option_id": 4, "text": "Cholera", "is_correct": false }], "answer": "Diabetes" },
+    { "question_id": 37, "question_type": "MCQ", "question": "Which disease is acute?", "options": [{ "option_id": 1, "text": "Diabetes", "is_correct": false }, { "option_id": 2, "text": "Flu", "is_correct": true }, { "option_id": 3, "text": "Cancer", "is_correct": false }, { "option_id": 4, "text": "Heart disease", "is_correct": false }], "answer": "Flu" },
+    { "question_id": 38, "question_type": "MCQ", "question": "Which disease affects blood sugar?", "options": [{ "option_id": 1, "text": "Cancer", "is_correct": false }, { "option_id": 2, "text": "Diabetes", "is_correct": true }, { "option_id": 3, "text": "TB", "is_correct": false }, { "option_id": 4, "text": "Rabies", "is_correct": false }], "answer": "Diabetes" },
+    { "question_id": 39, "question_type": "MCQ", "question": "Which disease spreads through droplets?", "options": [{ "option_id": 1, "text": "TB", "is_correct": true }, { "option_id": 2, "text": "Malaria", "is_correct": false }, { "option_id": 3, "text": "Cholera", "is_correct": false }, { "option_id": 4, "text": "Diabetes", "is_correct": false }], "answer": "TB" },
+    { "question_id": 40, "question_type": "MCQ", "question": "Which disease is prevented by hygiene?", "options": [{ "option_id": 1, "text": "Cholera", "is_correct": true }, { "option_id": 2, "text": "Cancer", "is_correct": false }, { "option_id": 3, "text": "Diabetes", "is_correct": false }, { "option_id": 4, "text": "Heart disease", "is_correct": false }], "answer": "Cholera" },
+
+    { "question_id": 41, "question_type": "MCQ", "question": "Which disease causes jaundice?", "options": [{ "option_id": 1, "text": "Hepatitis", "is_correct": true }, { "option_id": 2, "text": "Malaria", "is_correct": false }, { "option_id": 3, "text": "Cancer", "is_correct": false }, { "option_id": 4, "text": "Rabies", "is_correct": false }], "answer": "Hepatitis" },
+    { "question_id": 42, "question_type": "MCQ", "question": "Which disease is spread by rats?", "options": [{ "option_id": 1, "text": "Plague", "is_correct": true }, { "option_id": 2, "text": "Dengue", "is_correct": false }, { "option_id": 3, "text": "Polio", "is_correct": false }, { "option_id": 4, "text": "Asthma", "is_correct": false }], "answer": "Plague" },
+    { "question_id": 43, "question_type": "MCQ", "question": "Which is preventive method?", "options": [{ "option_id": 1, "text": "Vaccination", "is_correct": true }, { "option_id": 2, "text": "Smoking", "is_correct": false }, { "option_id": 3, "text": "Alcohol", "is_correct": false }, { "option_id": 4, "text": "Stress", "is_correct": false }], "answer": "Vaccination" },
+    { "question_id": 44, "question_type": "MCQ", "question": "Which disease is hereditary?", "options": [{ "option_id": 1, "text": "Down syndrome", "is_correct": true }, { "option_id": 2, "text": "Dengue", "is_correct": false }, { "option_id": 3, "text": "Typhoid", "is_correct": false }, { "option_id": 4, "text": "TB", "is_correct": false }], "answer": "Down syndrome" },
+    { "question_id": 45, "question_type": "MCQ", "question": "Which disease spreads through blood?", "options": [{ "option_id": 1, "text": "AIDS", "is_correct": true }, { "option_id": 2, "text": "Asthma", "is_correct": false }, { "option_id": 3, "text": "Diabetes", "is_correct": false }, { "option_id": 4, "text": "Cancer", "is_correct": false }], "answer": "AIDS" },
+
+    { "question_id": 46, "question_type": "MCQ", "question": "Which is not infectious?", "options": [{ "option_id": 1, "text": "Cancer", "is_correct": true }, { "option_id": 2, "text": "Malaria", "is_correct": false }, { "option_id": 3, "text": "Dengue", "is_correct": false }, { "option_id": 4, "text": "TB", "is_correct": false }], "answer": "Cancer" },
+    { "question_id": 47, "question_type": "MCQ", "question": "Which disease affects immunity?", "options": [{ "option_id": 1, "text": "AIDS", "is_correct": true }, { "option_id": 2, "text": "Diabetes", "is_correct": false }, { "option_id": 3, "text": "Asthma", "is_correct": false }, { "option_id": 4, "text": "Cancer", "is_correct": false }], "answer": "AIDS" },
+    { "question_id": 48, "question_type": "MCQ", "question": "Which is spread by contaminated food?", "options": [{ "option_id": 1, "text": "Typhoid", "is_correct": true }, { "option_id": 2, "text": "Rabies", "is_correct": false }, { "option_id": 3, "text": "Asthma", "is_correct": false }, { "option_id": 4, "text": "Cancer", "is_correct": false }], "answer": "Typhoid" },
+    { "question_id": 49, "question_type": "MCQ", "question": "Which prevents infection?", "options": [{ "option_id": 1, "text": "Hand washing", "is_correct": true }, { "option_id": 2, "text": "Smoking", "is_correct": false }, { "option_id": 3, "text": "Alcohol", "is_correct": false }, { "option_id": 4, "text": "Junk food", "is_correct": false }], "answer": "Hand washing" },
+    { "question_id": 50, "question_type": "MCQ", "question": "Which disease spreads by mosquitoes in clean water?", "options": [{ "option_id": 1, "text": "Dengue", "is_correct": true }, { "option_id": 2, "text": "Cholera", "is_correct": false }, { "option_id": 3, "text": "Typhoid", "is_correct": false }, { "option_id": 4, "text": "Cancer", "is_correct": false }], "answer": "Dengue" },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is health?",
+      "answer": "Health is a state of complete physical, mental and social well-being and not merely absence of disease."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is disease?",
+      "answer": "Disease is a condition in which normal functioning of the body is disturbed."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are infectious diseases?",
+      "answer": "Diseases that spread from one person to another through air, water, food or vectors are called infectious diseases."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are non-infectious diseases?",
+      "answer": "Diseases that do not spread from person to person are called non-infectious diseases."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is pathogen?",
+      "answer": "A pathogen is a microorganism that causes disease."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is vaccination?",
+      "answer": "Vaccination is the process of introducing weakened or dead germs to develop immunity against disease."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is immunity?",
+      "answer": "Immunity is the ability of the body to resist and fight infections."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does tuberculosis spread?",
+      "answer": "Tuberculosis spreads through air when an infected person coughs or sneezes."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the pathogen causing cholera.",
+      "answer": "Vibrio cholerae bacteria causes cholera."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is dysentery?",
+      "answer": "Dysentery is an infectious disease causing watery stools and abdominal pain."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How does malaria spread?",
+      "answer": "Malaria spreads through the bite of infected female Anopheles mosquito."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which mosquito spreads dengue?",
+      "answer": "Dengue is spread by Aedes aegypti mosquito."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is hepatitis?",
+      "answer": "Hepatitis is a disease causing inflammation of liver and jaundice."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is AIDS?",
+      "answer": "AIDS is a disease caused by HIV virus that weakens immune system."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How does HIV spread?",
+      "answer": "HIV spreads through unsafe sexual contact, blood transfusion and shared needles."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is rabies?",
+      "answer": "Rabies is a fatal viral disease spread by bite of infected animals."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is hydrophobia?",
+      "answer": "Hydrophobia is fear of water seen in rabies patients."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is swine flu?",
+      "answer": "Swine flu is a viral disease caused by influenza A virus."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is plague?",
+      "answer": "Plague is a bacterial disease spread by rats and fleas."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is cancer?",
+      "answer": "Cancer is uncontrolled and abnormal growth of body cells."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is malignant tumor?",
+      "answer": "A malignant tumor is a harmful group of cancer cells that can spread."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name two causes of cancer.",
+      "answer": "Smoking and tobacco chewing are major causes of cancer."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is diabetes?",
+      "answer": "Diabetes is a disease caused by lack of insulin leading to high blood sugar."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which organ produces insulin?",
+      "answer": "Pancreas produces insulin."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Give two symptoms of diabetes.",
+      "answer": "Frequent urination and weight loss are symptoms of diabetes."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is heart disease?",
+      "answer": "Heart disease is reduced blood supply to heart muscles causing heart attack."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Give one symptom of heart attack.",
+      "answer": "Severe chest pain is a symptom of heart attack."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name two causes of heart disease.",
+      "answer": "Smoking and obesity cause heart disease."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is balanced diet?",
+      "answer": "Balanced diet contains all nutrients in correct proportion."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is exercise important?",
+      "answer": "Exercise keeps body fit and prevents lifestyle diseases."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is personal hygiene?",
+      "answer": "Personal hygiene means keeping body clean to prevent diseases."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why should we drink boiled water?",
+      "answer": "Boiled water kills germs and prevents water-borne diseases."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is sanitation?",
+      "answer": "Sanitation means keeping surroundings clean."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are antibiotics?",
+      "answer": "Antibiotics are medicines that kill or stop growth of bacteria."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why should antibiotics not be misused?",
+      "answer": "Misuse leads to antibiotic resistance."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is diagnosis?",
+      "answer": "Diagnosis is identification of disease by tests."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is CT scan?",
+      "answer": "CT scan is imaging technique used to detect internal problems."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is biopsy?",
+      "answer": "Biopsy is testing of tissue to detect cancer."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is vaccination schedule?",
+      "answer": "It is a chart showing timing of vaccines."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What are generic medicines?",
+      "answer": "Low cost medicines with same quality as branded medicines."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why are generic medicines important?",
+      "answer": "They provide affordable treatment to people."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is blood donation?",
+      "answer": "Giving blood to help patients is blood donation."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is blood donation important?",
+      "answer": "It saves lives of patients in need of blood."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is lifestyle disease?",
+      "answer": "Diseases caused due to unhealthy habits are lifestyle diseases."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Give one lifestyle disease.",
+      "answer": "Diabetes is a lifestyle disease."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why should we avoid addictions?",
+      "answer": "Addictions cause serious diseases like cancer and heart problems."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is first aid?",
+      "answer": "Immediate care given to injured person before doctor arrives."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What should be done in heart attack?",
+      "answer": "Call ambulance and give first aid immediately."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is C.O.L.S.?",
+      "answer": "Compression only life support used in heart emergency."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is pandemic?",
+      "answer": "Disease spreading worldwide is called pandemic."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is epidemic?",
+      "answer": "Rapid spread of disease in one area is epidemic."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why should food be covered?",
+      "answer": "To prevent contamination by flies and germs."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is vector?",
+      "answer": "Organism that spreads disease is called vector."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Name one vector disease.",
+      "answer": "Malaria is a vector-borne disease."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is prevention?",
+      "answer": "Steps taken to stop disease before it occurs."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is vaccination important?",
+      "answer": "It protects body from serious infections."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is quarantine?",
+      "answer": "Separating sick persons to stop spread of disease."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why should we wash hands?",
+      "answer": "To remove germs and prevent infections."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is sanitation drive?",
+      "answer": "Campaign to keep surroundings clean."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why are mosquitoes dangerous?",
+      "answer": "They spread diseases like malaria and dengue."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is hygiene?",
+      "answer": "Practice of keeping body and surroundings clean."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why avoid junk food?",
+      "answer": "It increases risk of obesity and diseases."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is ORS?",
+      "answer": "Oral rehydration solution used in diarrhea."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is ORS important?",
+      "answer": "It prevents dehydration."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is balanced lifestyle?",
+      "answer": "Proper food, sleep and exercise."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is public health?",
+      "answer": "Health services provided to society."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is immunity booster?",
+      "answer": "Substances that increase body resistance."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why avoid sharing needles?",
+      "answer": "It spreads HIV infection."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is blood screening?",
+      "answer": "Testing blood before transfusion."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is medical checkup important?",
+      "answer": "It helps detect diseases early."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is nutrition?",
+      "answer": "Process of taking healthy food."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is malnutrition?",
+      "answer": "Lack of proper nutrients in body."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why children need vaccines?",
+      "answer": "To protect them from deadly diseases."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is preventive healthcare?",
+      "answer": "Steps taken to prevent diseases."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why avoid alcohol?",
+      "answer": "It damages liver and heart."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is health awareness?",
+      "answer": "Spreading knowledge about health."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why avoid tobacco?",
+      "answer": "It causes cancer and lung diseases."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is infection?",
+      "answer": "Entry and growth of pathogens in body."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why use mosquito nets?",
+      "answer": "To prevent mosquito bites."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is sterilization?",
+      "answer": "Killing all germs from objects."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is community health?",
+      "answer": "Health of people living together."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is clean water important?",
+      "answer": "To prevent water-borne diseases."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is medical laboratory?",
+      "answer": "Place where disease tests are done."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why should waste be disposed properly?",
+      "answer": "To stop breeding of germs and insects."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is mental health?",
+      "answer": "State of emotional and psychological well-being."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why should we sleep well?",
+      "answer": "It helps body to recover and stay healthy."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is medical emergency?",
+      "answer": "Sudden serious health problem."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is first response?",
+      "answer": "Immediate action during emergency."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is ambulance important?",
+      "answer": "It provides fast medical help."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is recovery?",
+      "answer": "Return to healthy condition."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is rehabilitation?",
+      "answer": "Helping patient return to normal life."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are checkups important?",
+      "answer": "To detect diseases early."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is prevention better than cure?",
+      "answer": "Avoiding disease is better than treating it."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is public awareness?",
+      "answer": "Educating people about health and safety."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is exercise daily needed?",
+      "answer": "It keeps heart and body healthy."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is good lifestyle?",
+      "answer": "Healthy food, exercise and good habits."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why avoid stress?",
+      "answer": "Stress causes mental and physical illness."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is health education?",
+      "answer": "Teaching people about health practices."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is health important?",
+      "answer": "Good health helps us live active life."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Health and Diseases chapter.",
+      "answer": "Healthy habits, hygiene and vaccination help prevent diseases and maintain good health."
+    }
+  ]
+}

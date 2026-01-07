@@ -1,0 +1,1212 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.16",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Reflection of Light"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "We can see objects because:",
+      "options": [
+        { "option_id": 1, "text": "Objects emit sound", "is_correct": false },
+        { "option_id": 2, "text": "Light from objects enters our eyes", "is_correct": true },
+        { "option_id": 3, "text": "Objects are hot", "is_correct": false },
+        { "option_id": 4, "text": "Eyes emit light", "is_correct": false }
+      ],
+      "answer": "Light from objects enters our eyes"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Reflection of light means:",
+      "options": [
+        { "option_id": 1, "text": "Absorption of light", "is_correct": false },
+        { "option_id": 2, "text": "Returning of light after striking surface", "is_correct": true },
+        { "option_id": 3, "text": "Bending of light", "is_correct": false },
+        { "option_id": 4, "text": "Splitting of light", "is_correct": false }
+      ],
+      "answer": "Returning of light after striking surface"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Ray falling on the surface is called:",
+      "options": [
+        { "option_id": 1, "text": "Reflected ray", "is_correct": false },
+        { "option_id": 2, "text": "Incident ray", "is_correct": true },
+        { "option_id": 3, "text": "Normal ray", "is_correct": false },
+        { "option_id": 4, "text": "Parallel ray", "is_correct": false }
+      ],
+      "answer": "Incident ray"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The point where the ray strikes the mirror is:",
+      "options": [
+        { "option_id": 1, "text": "Focus", "is_correct": false },
+        { "option_id": 2, "text": "Centre", "is_correct": false },
+        { "option_id": 3, "text": "Point of incidence", "is_correct": true },
+        { "option_id": 4, "text": "Pole", "is_correct": false }
+      ],
+      "answer": "Point of incidence"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The perpendicular drawn to the mirror at point of incidence is:",
+      "options": [
+        { "option_id": 1, "text": "Surface", "is_correct": false },
+        { "option_id": 2, "text": "Normal", "is_correct": true },
+        { "option_id": 3, "text": "Incident ray", "is_correct": false },
+        { "option_id": 4, "text": "Reflected ray", "is_correct": false }
+      ],
+      "answer": "Normal"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Angle between incident ray and normal is called:",
+      "options": [
+        { "option_id": 1, "text": "Angle of reflection", "is_correct": false },
+        { "option_id": 2, "text": "Angle of incidence", "is_correct": true },
+        { "option_id": 3, "text": "Right angle", "is_correct": false },
+        { "option_id": 4, "text": "Straight angle", "is_correct": false }
+      ],
+      "answer": "Angle of incidence"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Angle between reflected ray and normal is:",
+      "options": [
+        { "option_id": 1, "text": "Angle of deviation", "is_correct": false },
+        { "option_id": 2, "text": "Angle of reflection", "is_correct": true },
+        { "option_id": 3, "text": "Angle of incidence", "is_correct": false },
+        { "option_id": 4, "text": "Right angle", "is_correct": false }
+      ],
+      "answer": "Angle of reflection"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "First law of reflection states:",
+      "options": [
+        { "option_id": 1, "text": "i > r", "is_correct": false },
+        { "option_id": 2, "text": "i = r", "is_correct": true },
+        { "option_id": 3, "text": "i < r", "is_correct": false },
+        { "option_id": 4, "text": "i + r = 90°", "is_correct": false }
+      ],
+      "answer": "i = r"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Incident ray, reflected ray and normal lie in:",
+      "options": [
+        { "option_id": 1, "text": "Different planes", "is_correct": false },
+        { "option_id": 2, "text": "Same plane", "is_correct": true },
+        { "option_id": 3, "text": "Parallel planes", "is_correct": false },
+        { "option_id": 4, "text": "No plane", "is_correct": false }
+      ],
+      "answer": "Same plane"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Incident and reflected rays are on:",
+      "options": [
+        { "option_id": 1, "text": "Same side of normal", "is_correct": false },
+        { "option_id": 2, "text": "Opposite sides of normal", "is_correct": true },
+        { "option_id": 3, "text": "On mirror surface", "is_correct": false },
+        { "option_id": 4, "text": "Parallel to normal", "is_correct": false }
+      ],
+      "answer": "Opposite sides of normal"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Reflection from smooth surface is called:",
+      "options": [
+        { "option_id": 1, "text": "Irregular reflection", "is_correct": false },
+        { "option_id": 2, "text": "Regular reflection", "is_correct": true },
+        { "option_id": 3, "text": "Scattering", "is_correct": false },
+        { "option_id": 4, "text": "Diffusion", "is_correct": false }
+      ],
+      "answer": "Regular reflection"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Reflection from rough surface is called:",
+      "options": [
+        { "option_id": 1, "text": "Regular", "is_correct": false },
+        { "option_id": 2, "text": "Irregular", "is_correct": true },
+        { "option_id": 3, "text": "Total", "is_correct": false },
+        { "option_id": 4, "text": "Multiple", "is_correct": false }
+      ],
+      "answer": "Irregular"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In irregular reflection, reflected rays are:",
+      "options": [
+        { "option_id": 1, "text": "Parallel", "is_correct": false },
+        { "option_id": 2, "text": "Converging", "is_correct": false },
+        { "option_id": 3, "text": "Scattered in different directions", "is_correct": true },
+        { "option_id": 4, "text": "Focused", "is_correct": false }
+      ],
+      "answer": "Scattered in different directions"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Laws of reflection are followed in:",
+      "options": [
+        { "option_id": 1, "text": "Only regular reflection", "is_correct": false },
+        { "option_id": 2, "text": "Only irregular reflection", "is_correct": false },
+        { "option_id": 3, "text": "Both regular and irregular reflection", "is_correct": true },
+        { "option_id": 4, "text": "Neither type", "is_correct": false }
+      ],
+      "answer": "Both regular and irregular reflection"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Image of moon seen in water is due to:",
+      "options": [
+        { "option_id": 1, "text": "Refraction", "is_correct": false },
+        { "option_id": 2, "text": "Multiple reflection", "is_correct": true },
+        { "option_id": 3, "text": "Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Absorption", "is_correct": false }
+      ],
+      "answer": "Multiple reflection"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Kaleidoscope works on the principle of:",
+      "options": [
+        { "option_id": 1, "text": "Refraction", "is_correct": false },
+        { "option_id": 2, "text": "Reflection", "is_correct": true },
+        { "option_id": 3, "text": "Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Diffraction", "is_correct": false }
+      ],
+      "answer": "Reflection"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How many mirrors are used in a kaleidoscope?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Periscope is used mainly in:",
+      "options": [
+        { "option_id": 1, "text": "Aeroplanes", "is_correct": false },
+        { "option_id": 2, "text": "Submarines", "is_correct": true },
+        { "option_id": 3, "text": "Cars", "is_correct": false },
+        { "option_id": 4, "text": "Satellites", "is_correct": false }
+      ],
+      "answer": "Submarines"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Mirrors in periscope are kept at angle of:",
+      "options": [
+        { "option_id": 1, "text": "30°", "is_correct": false },
+        { "option_id": 2, "text": "45°", "is_correct": true },
+        { "option_id": 3, "text": "60°", "is_correct": false },
+        { "option_id": 4, "text": "90°", "is_correct": false }
+      ],
+      "answer": "45°"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "If incident ray is perpendicular to mirror, it:",
+      "options": [
+        { "option_id": 1, "text": "Does not reflect", "is_correct": false },
+        { "option_id": 2, "text": "Retraces its path", "is_correct": true },
+        { "option_id": 3, "text": "Bends", "is_correct": false },
+        { "option_id": 4, "text": "Scatters", "is_correct": false }
+      ],
+      "answer": "Retraces its path"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In regular reflection, reflected rays are:",
+      "options": [
+        { "option_id": 1, "text": "Parallel to each other", "is_correct": true },
+        { "option_id": 2, "text": "Random", "is_correct": false },
+        { "option_id": 3, "text": "Circular", "is_correct": false },
+        { "option_id": 4, "text": "Zigzag", "is_correct": false }
+      ],
+      "answer": "Parallel to each other"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In irregular reflection, angles of incidence at different points are:",
+      "options": [
+        { "option_id": 1, "text": "Same", "is_correct": false },
+        { "option_id": 2, "text": "Different", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Right angle", "is_correct": false }
+      ],
+      "answer": "Different"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which surface gives clear image?",
+      "options": [
+        { "option_id": 1, "text": "Rough wall", "is_correct": false },
+        { "option_id": 2, "text": "Plane mirror", "is_correct": true },
+        { "option_id": 3, "text": "Paper", "is_correct": false },
+        { "option_id": 4, "text": "Cloth", "is_correct": false }
+      ],
+      "answer": "Plane mirror"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Blurring of image in disturbed water is due to:",
+      "options": [
+        { "option_id": 1, "text": "Regular reflection", "is_correct": false },
+        { "option_id": 2, "text": "Irregular reflection", "is_correct": true },
+        { "option_id": 3, "text": "Refraction", "is_correct": false },
+        { "option_id": 4, "text": "Dispersion", "is_correct": false }
+      ],
+      "answer": "Irregular reflection"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Angle between incident and reflected ray is 90°, then angle of incidence is:",
+      "options": [
+        { "option_id": 1, "text": "30°", "is_correct": false },
+        { "option_id": 2, "text": "45°", "is_correct": true },
+        { "option_id": 3, "text": "60°", "is_correct": false },
+        { "option_id": 4, "text": "90°", "is_correct": false }
+      ],
+      "answer": "45°"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "If angle of reflection is 60°, angle of incidence is:",
+      "options": [
+        { "option_id": 1, "text": "30°", "is_correct": false },
+        { "option_id": 2, "text": "60°", "is_correct": true },
+        { "option_id": 3, "text": "90°", "is_correct": false },
+        { "option_id": 4, "text": "120°", "is_correct": false }
+      ],
+      "answer": "60°"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Angle between mirror and incident ray is 35°, angle of incidence is:",
+      "options": [
+        { "option_id": 1, "text": "35°", "is_correct": false },
+        { "option_id": 2, "text": "55°", "is_correct": true },
+        { "option_id": 3, "text": "65°", "is_correct": false },
+        { "option_id": 4, "text": "45°", "is_correct": false }
+      ],
+      "answer": "55°"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Angle between reflected ray and mirror is 50°, angle of incidence is:",
+      "options": [
+        { "option_id": 1, "text": "40°", "is_correct": true },
+        { "option_id": 2, "text": "50°", "is_correct": false },
+        { "option_id": 3, "text": "60°", "is_correct": false },
+        { "option_id": 4, "text": "45°", "is_correct": false }
+      ],
+      "answer": "40°"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which device uses repeated reflections?",
+      "options": [
+        { "option_id": 1, "text": "Telescope", "is_correct": false },
+        { "option_id": 2, "text": "Kaleidoscope", "is_correct": true },
+        { "option_id": 3, "text": "Microscope", "is_correct": false },
+        { "option_id": 4, "text": "Thermometer", "is_correct": false }
+      ],
+      "answer": "Kaleidoscope"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "In saloon, we see back of head because of:",
+      "options": [
+        { "option_id": 1, "text": "Refraction", "is_correct": false },
+        { "option_id": 2, "text": "Multiple reflection", "is_correct": true },
+        { "option_id": 3, "text": "Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Scattering", "is_correct": false }
+      ],
+      "answer": "Multiple reflection"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which statement is correct?",
+      "options": [
+        { "option_id": 1, "text": "Rough surface follows no laws", "is_correct": false },
+        { "option_id": 2, "text": "Laws apply at every point on surface", "is_correct": true },
+        { "option_id": 3, "text": "Only smooth surfaces reflect", "is_correct": false },
+        { "option_id": 4, "text": "Only mirrors reflect light", "is_correct": false }
+      ],
+      "answer": "Laws apply at every point on surface"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which gives irregular reflection?",
+      "options": [
+        { "option_id": 1, "text": "Plane mirror", "is_correct": false },
+        { "option_id": 2, "text": "Polished metal", "is_correct": false },
+        { "option_id": 3, "text": "Wall", "is_correct": true },
+        { "option_id": 4, "text": "Glass sheet", "is_correct": false }
+      ],
+      "answer": "Wall"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which reflection forms image?",
+      "options": [
+        { "option_id": 1, "text": "Regular reflection", "is_correct": true },
+        { "option_id": 2, "text": "Irregular reflection", "is_correct": false },
+        { "option_id": 3, "text": "Diffusion", "is_correct": false },
+        { "option_id": 4, "text": "Scattering", "is_correct": false }
+      ],
+      "answer": "Regular reflection"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which surface reflects light in all directions?",
+      "options": [
+        { "option_id": 1, "text": "Mirror", "is_correct": false },
+        { "option_id": 2, "text": "Rough surface", "is_correct": true },
+        { "option_id": 3, "text": "Polished metal", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Rough surface"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is not a part of reflection diagram?",
+      "options": [
+        { "option_id": 1, "text": "Incident ray", "is_correct": false },
+        { "option_id": 2, "text": "Normal", "is_correct": false },
+        { "option_id": 3, "text": "Reflected ray", "is_correct": false },
+        { "option_id": 4, "text": "Focus", "is_correct": true }
+      ],
+      "answer": "Focus"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "If mirror is removed, reflection experiment fails because:",
+      "options": [
+        { "option_id": 1, "text": "No light", "is_correct": false },
+        { "option_id": 2, "text": "No reflecting surface", "is_correct": true },
+        { "option_id": 3, "text": "No normal", "is_correct": false },
+        { "option_id": 4, "text": "No paper", "is_correct": false }
+      ],
+      "answer": "No reflecting surface"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Angle between mirror and normal is:",
+      "options": [
+        { "option_id": 1, "text": "0°", "is_correct": false },
+        { "option_id": 2, "text": "45°", "is_correct": false },
+        { "option_id": 3, "text": "90°", "is_correct": true },
+        { "option_id": 4, "text": "180°", "is_correct": false }
+      ],
+      "answer": "90°"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which object does not produce light?",
+      "options": [
+        { "option_id": 1, "text": "Sun", "is_correct": false },
+        { "option_id": 2, "text": "Bulb", "is_correct": false },
+        { "option_id": 3, "text": "Moon", "is_correct": true },
+        { "option_id": 4, "text": "Candle", "is_correct": false }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Moon is visible because it:",
+      "options": [
+        { "option_id": 1, "text": "Produces light", "is_correct": false },
+        { "option_id": 2, "text": "Reflects sunlight", "is_correct": true },
+        { "option_id": 3, "text": "Has fire", "is_correct": false },
+        { "option_id": 4, "text": "Stores light", "is_correct": false }
+      ],
+      "answer": "Reflects sunlight"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Normal is always drawn:",
+      "options": [
+        { "option_id": 1, "text": "Parallel to mirror", "is_correct": false },
+        { "option_id": 2, "text": "Perpendicular to mirror", "is_correct": true },
+        { "option_id": 3, "text": "Along incident ray", "is_correct": false },
+        { "option_id": 4, "text": "Along reflected ray", "is_correct": false }
+      ],
+      "answer": "Perpendicular to mirror"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which gives multiple images?",
+      "options": [
+        { "option_id": 1, "text": "Plane mirror only", "is_correct": false },
+        { "option_id": 2, "text": "Two mirrors at angle", "is_correct": true },
+        { "option_id": 3, "text": "Wall", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Two mirrors at angle"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Reflection of reflected light is used in:",
+      "options": [
+        { "option_id": 1, "text": "Periscope", "is_correct": true },
+        { "option_id": 2, "text": "Thermometer", "is_correct": false },
+        { "option_id": 3, "text": "Barometer", "is_correct": false },
+        { "option_id": 4, "text": "Microscope", "is_correct": false }
+      ],
+      "answer": "Periscope"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which is true for both types of reflection?",
+      "options": [
+        { "option_id": 1, "text": "Images are formed", "is_correct": false },
+        { "option_id": 2, "text": "Laws of reflection are followed", "is_correct": true },
+        { "option_id": 3, "text": "Surface must be smooth", "is_correct": false },
+        { "option_id": 4, "text": "Rays are parallel", "is_correct": false }
+      ],
+      "answer": "Laws of reflection are followed"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which helps cloth designers to make patterns?",
+      "options": [
+        { "option_id": 1, "text": "Periscope", "is_correct": false },
+        { "option_id": 2, "text": "Kaleidoscope", "is_correct": true },
+        { "option_id": 3, "text": "Microscope", "is_correct": false },
+        { "option_id": 4, "text": "Telescope", "is_correct": false }
+      ],
+      "answer": "Kaleidoscope"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Designs in kaleidoscope change because:",
+      "options": [
+        { "option_id": 1, "text": "Mirrors move", "is_correct": false },
+        { "option_id": 2, "text": "Glass pieces move and reflect differently", "is_correct": true },
+        { "option_id": 3, "text": "Light bends", "is_correct": false },
+        { "option_id": 4, "text": "Temperature changes", "is_correct": false }
+      ],
+      "answer": "Glass pieces move and reflect differently"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which phenomenon helps us see objects around us?",
+      "options": [
+        { "option_id": 1, "text": "Refraction", "is_correct": false },
+        { "option_id": 2, "text": "Reflection", "is_correct": true },
+        { "option_id": 3, "text": "Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Diffraction", "is_correct": false }
+      ],
+      "answer": "Reflection"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which mirror is used in reflection experiments?",
+      "options": [
+        { "option_id": 1, "text": "Concave mirror", "is_correct": false },
+        { "option_id": 2, "text": "Plane mirror", "is_correct": true },
+        { "option_id": 3, "text": "Convex mirror", "is_correct": false },
+        { "option_id": 4, "text": "Spherical mirror", "is_correct": false }
+      ],
+      "answer": "Plane mirror"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which ray goes away from mirror after reflection?",
+      "options": [
+        { "option_id": 1, "text": "Incident ray", "is_correct": false },
+        { "option_id": 2, "text": "Reflected ray", "is_correct": true },
+        { "option_id": 3, "text": "Normal", "is_correct": false },
+        { "option_id": 4, "text": "Surface ray", "is_correct": false }
+      ],
+      "answer": "Reflected ray"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which surface will not form image?",
+      "options": [
+        { "option_id": 1, "text": "Plane mirror", "is_correct": false },
+        { "option_id": 2, "text": "Still water", "is_correct": false },
+        { "option_id": 3, "text": "Rough wall", "is_correct": true },
+        { "option_id": 4, "text": "Glass mirror", "is_correct": false }
+      ],
+      "answer": "Rough wall"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which statement is true for irregular reflection?",
+      "options": [
+        { "option_id": 1, "text": "Reflected rays are parallel", "is_correct": false },
+        { "option_id": 2, "text": "Surface is rough", "is_correct": true },
+        { "option_id": 3, "text": "Angles are same everywhere", "is_correct": false },
+        { "option_id": 4, "text": "Laws are not followed", "is_correct": false }
+      ],
+      "answer": "Surface is rough"
+    },
+        {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is light?",
+      "answer": "Light is a form of energy that enables us to see objects."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are we able to see non-luminous objects?",
+      "answer": "Because they reflect light from luminous sources into our eyes."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is reflection of light?",
+      "answer": "Reflection is the bouncing back of light when it strikes a surface."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Define incident ray.",
+      "answer": "The ray of light that falls on a reflecting surface is called incident ray."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is reflected ray?",
+      "answer": "The ray of light that returns after striking the surface is called reflected ray."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is normal?",
+      "answer": "Normal is the perpendicular drawn to the surface at the point of incidence."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define angle of incidence.",
+      "answer": "It is the angle between the incident ray and the normal."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Define angle of reflection.",
+      "answer": "It is the angle between the reflected ray and the normal."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "State the first law of reflection.",
+      "answer": "The angle of incidence is equal to the angle of reflection."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "State the second law of reflection.",
+      "answer": "Incident ray, reflected ray and normal lie in the same plane."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is regular reflection?",
+      "answer": "Reflection from smooth surface where reflected rays are parallel is called regular reflection."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is irregular reflection?",
+      "answer": "Reflection from rough surface where reflected rays scatter in different directions is called irregular reflection."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why do we see images in plane mirrors?",
+      "answer": "Because plane mirrors produce regular reflection of light."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why rough surfaces do not form images?",
+      "answer": "Because they produce irregular reflection which scatters light."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Do laws of reflection apply to rough surfaces?",
+      "answer": "Yes, laws of reflection apply at every point of rough surface."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is multiple reflection?",
+      "answer": "When light is reflected more than once from different surfaces, it is called multiple reflection."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Where is multiple reflection used?",
+      "answer": "In periscope and kaleidoscope."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a periscope?",
+      "answer": "It is an instrument used to see objects not directly visible."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Where is periscope used?",
+      "answer": "It is used in submarines to see objects above water."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How many mirrors are used in a simple periscope?",
+      "answer": "Two plane mirrors are used."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "At what angle are mirrors kept in periscope?",
+      "answer": "At an angle of 45 degrees."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is a kaleidoscope?",
+      "answer": "It is an optical instrument used to observe colourful patterns."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How many mirrors are used in kaleidoscope?",
+      "answer": "Three mirrors arranged in triangular shape."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why do designs change in kaleidoscope?",
+      "answer": "Because glass pieces change position and reflect light differently."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why moon is not luminous?",
+      "answer": "Because it does not produce its own light."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why moon appears bright?",
+      "answer": "Because it reflects sunlight."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is luminous object?",
+      "answer": "An object that emits its own light is called luminous object."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Give two examples of luminous objects.",
+      "answer": "Sun and electric bulb."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Give two examples of non-luminous objects.",
+      "answer": "Moon and book."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What happens when incident ray falls normally on mirror?",
+      "answer": "It retraces its path after reflection."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is scattering of light?",
+      "answer": "Spreading of light in different directions after reflection is called scattering."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why can we see walls and trees?",
+      "answer": "Because they reflect light into our eyes."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is reflecting surface?",
+      "answer": "A surface that sends back light falling on it is called reflecting surface."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which surface is best reflector?",
+      "answer": "Smooth and shiny surfaces are best reflectors."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why are mirrors smooth?",
+      "answer": "To produce regular reflection and clear images."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What happens to light on rough surface?",
+      "answer": "It gets scattered in many directions."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why images are not formed on paper?",
+      "answer": "Because paper causes irregular reflection."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the use of kaleidoscope in industry?",
+      "answer": "It is used by designers to create patterns."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is glass piece used in kaleidoscope?",
+      "answer": "To reflect light and form colourful patterns."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What type of mirror is used in periscope?",
+      "answer": "Plane mirrors are used."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is reflection diagram?",
+      "answer": "A diagram showing incident ray, normal and reflected ray."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is normal imaginary?",
+      "answer": "Because it is drawn only for reference and does not exist physically."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which reflection helps in image formation?",
+      "answer": "Regular reflection helps in image formation."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which reflection helps in visibility of objects?",
+      "answer": "Irregular reflection helps in visibility of objects."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why do we see our face in mirror but not on wall?",
+      "answer": "Because mirror gives regular reflection while wall gives irregular reflection."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is plane mirror?",
+      "answer": "A mirror with flat reflecting surface is called plane mirror."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the main function of mirror?",
+      "answer": "To reflect light and form images."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is mirror coated with silver?",
+      "answer": "To make it a good reflector of light."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is point of incidence?",
+      "answer": "The point where incident ray strikes the mirror."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is reflecting angle measured from?",
+      "answer": "It is measured from the normal."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is normal drawn at 90° to mirror?",
+      "answer": "Because it is perpendicular to the reflecting surface."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is periscope useful in submarines?",
+      "answer": "It helps to see objects above water while staying underwater."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What happens if mirror surface becomes rough?",
+      "answer": "It will produce irregular reflection and no clear image."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are reflectors used on roads?",
+      "answer": "To reflect vehicle headlights and improve visibility at night."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is optical instrument?",
+      "answer": "An instrument that works using light is called optical instrument."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name two optical instruments using reflection.",
+      "answer": "Periscope and kaleidoscope."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why do we see lightning before thunder?",
+      "answer": "Because light travels faster than sound."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why are sign boards shiny?",
+      "answer": "To reflect light and be visible at night."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why do photographers use reflectors?",
+      "answer": "To reflect light and illuminate subjects."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is silver good reflector?",
+      "answer": "Because it reflects most of the incident light."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is mirror backing made of?",
+      "answer": "Silver coating protected by paint."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why do we need light to see objects?",
+      "answer": "Because light must enter our eyes from the objects."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What happens if no light falls on object?",
+      "answer": "We cannot see the object."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why do cats see in dim light?",
+      "answer": "Because their eyes are adapted to low light conditions."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is virtual image?",
+      "answer": "An image that cannot be obtained on screen is called virtual image."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Does plane mirror form real image?",
+      "answer": "No, plane mirror forms only virtual image."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why mirror image is laterally inverted?",
+      "answer": "Because left and right sides are interchanged in reflection."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is lateral inversion?",
+      "answer": "It is interchange of left and right sides in mirror image."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why ambulance is written in mirror writing?",
+      "answer": "So drivers can read it correctly in rear-view mirror."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is reflecting material used in road studs?",
+      "answer": "Glass beads or reflective materials are used."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is reflection important in daily life?",
+      "answer": "It helps us see objects and use mirrors and optical devices."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is ray diagram?",
+      "answer": "A diagram showing path of light rays."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why do we see glare on shiny surfaces?",
+      "answer": "Because smooth surfaces reflect light strongly."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why black objects absorb more light?",
+      "answer": "Because they reflect very little light."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What happens to light on transparent object?",
+      "answer": "Light passes through the object."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What happens to light on opaque object?",
+      "answer": "Light is either reflected or absorbed."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is translucent object?",
+      "answer": "An object that allows partial light to pass through."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Give example of translucent object.",
+      "answer": "Frosted glass."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is opaque object?",
+      "answer": "An object that does not allow light to pass through."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Give example of opaque object.",
+      "answer": "Wood."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why do we polish metals?",
+      "answer": "To make them good reflectors of light."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is mirror kept clean?",
+      "answer": "To maintain smooth reflecting surface for clear images."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is reflection useful for in traffic safety?",
+      "answer": "To make road signs and vehicles visible at night."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why headlights are strong?",
+      "answer": "To reflect light from objects and see them clearly."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why do mirrors appear bright?",
+      "answer": "Because they reflect most of the incident light."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is reflection needed in photography?",
+      "answer": "To direct light onto the subject."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why are study lamps reflective inside?",
+      "answer": "To direct more light onto the book."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why do shiny floors reflect light?",
+      "answer": "Because they are smooth surfaces."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why are reflectors used on bicycles?",
+      "answer": "To reflect headlights and prevent accidents."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are mirrors used in shops?",
+      "answer": "To see our image while trying clothes."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why do we see our image only on smooth water?",
+      "answer": "Because smooth water produces regular reflection."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why image disappears in moving water?",
+      "answer": "Because surface becomes rough causing irregular reflection."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the role of mirror in solar cooker?",
+      "answer": "To reflect more sunlight onto cooking vessel."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why are reflectors used in torches?",
+      "answer": "To focus light in one direction."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why are mirrors used in vehicles?",
+      "answer": "To see traffic behind the vehicle."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is reflection useful in decoration?",
+      "answer": "It enhances brightness and appearance."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is smooth metal shiny?",
+      "answer": "Because it reflects most of the incident light."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why do we avoid looking directly at sun?",
+      "answer": "Because intense reflected and direct light can damage eyes."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why are reflectors placed on school bags?",
+      "answer": "To make children visible at night."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is reflection of light important in science?",
+      "answer": "It helps in understanding optical instruments and vision."
+    }
+
+  ]
+}

@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.11",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Human Body and Organ System"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Group of organs working together to perform a specific function is called:",
+      "options": [
+        { "option_id": 1, "text": "Tissue", "is_correct": false },
+        { "option_id": 2, "text": "Organ system", "is_correct": true },
+        { "option_id": 3, "text": "Cell", "is_correct": false },
+        { "option_id": 4, "text": "Organ", "is_correct": false }
+      ],
+      "answer": "Organ system"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which system supplies oxygen to cells?",
+      "options": [
+        { "option_id": 1, "text": "Digestive system", "is_correct": false },
+        { "option_id": 2, "text": "Respiratory system", "is_correct": true },
+        { "option_id": 3, "text": "Excretory system", "is_correct": false },
+        { "option_id": 4, "text": "Nervous system", "is_correct": false }
+      ],
+      "answer": "Respiratory system"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which organ filters air entering the body?",
+      "options": [
+        { "option_id": 1, "text": "Lungs", "is_correct": false },
+        { "option_id": 2, "text": "Nose", "is_correct": true },
+        { "option_id": 3, "text": "Trachea", "is_correct": false },
+        { "option_id": 4, "text": "Pharynx", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which pipe carries air to lungs?",
+      "options": [
+        { "option_id": 1, "text": "Oesophagus", "is_correct": false },
+        { "option_id": 2, "text": "Trachea", "is_correct": true },
+        { "option_id": 3, "text": "Bronchiole", "is_correct": false },
+        { "option_id": 4, "text": "Pharynx", "is_correct": false }
+      ],
+      "answer": "Trachea"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Tiny air sacs in lungs are called:",
+      "options": [
+        { "option_id": 1, "text": "Bronchi", "is_correct": false },
+        { "option_id": 2, "text": "Alveoli", "is_correct": true },
+        { "option_id": 3, "text": "Capillaries", "is_correct": false },
+        { "option_id": 4, "text": "Villi", "is_correct": false }
+      ],
+      "answer": "Alveoli"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Gas exchange occurs in:",
+      "options": [
+        { "option_id": 1, "text": "Trachea", "is_correct": false },
+        { "option_id": 2, "text": "Bronchi", "is_correct": false },
+        { "option_id": 3, "text": "Alveoli", "is_correct": true },
+        { "option_id": 4, "text": "Pharynx", "is_correct": false }
+      ],
+      "answer": "Alveoli"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which protein carries oxygen in blood?",
+      "options": [
+        { "option_id": 1, "text": "Albumin", "is_correct": false },
+        { "option_id": 2, "text": "Hemoglobin", "is_correct": true },
+        { "option_id": 3, "text": "Globulin", "is_correct": false },
+        { "option_id": 4, "text": "Fibrinogen", "is_correct": false }
+      ],
+      "answer": "Hemoglobin"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Muscular partition between thorax and abdomen is:",
+      "options": [
+        { "option_id": 1, "text": "Pleura", "is_correct": false },
+        { "option_id": 2, "text": "Diaphragm", "is_correct": true },
+        { "option_id": 3, "text": "Rib", "is_correct": false },
+        { "option_id": 4, "text": "Bronchi", "is_correct": false }
+      ],
+      "answer": "Diaphragm"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Heart is located:",
+      "options": [
+        { "option_id": 1, "text": "In abdomen", "is_correct": false },
+        { "option_id": 2, "text": "Between two lungs", "is_correct": true },
+        { "option_id": 3, "text": "In pelvis", "is_correct": false },
+        { "option_id": 4, "text": "In neck", "is_correct": false }
+      ],
+      "answer": "Between two lungs"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Human heart has how many chambers?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Upper chambers of heart are called:",
+      "options": [
+        { "option_id": 1, "text": "Ventricles", "is_correct": false },
+        { "option_id": 2, "text": "Atria", "is_correct": true },
+        { "option_id": 3, "text": "Capillaries", "is_correct": false },
+        { "option_id": 4, "text": "Valves", "is_correct": false }
+      ],
+      "answer": "Atria"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Blood vessels carrying blood away from heart are:",
+      "options": [
+        { "option_id": 1, "text": "Veins", "is_correct": false },
+        { "option_id": 2, "text": "Capillaries", "is_correct": false },
+        { "option_id": 3, "text": "Arteries", "is_correct": true },
+        { "option_id": 4, "text": "Venules", "is_correct": false }
+      ],
+      "answer": "Arteries"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which vessels have valves?",
+      "options": [
+        { "option_id": 1, "text": "Arteries", "is_correct": false },
+        { "option_id": 2, "text": "Veins", "is_correct": true },
+        { "option_id": 3, "text": "Capillaries", "is_correct": false },
+        { "option_id": 4, "text": "Aorta", "is_correct": false }
+      ],
+      "answer": "Veins"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Exchange of materials occurs in:",
+      "options": [
+        { "option_id": 1, "text": "Arteries", "is_correct": false },
+        { "option_id": 2, "text": "Veins", "is_correct": false },
+        { "option_id": 3, "text": "Capillaries", "is_correct": true },
+        { "option_id": 4, "text": "Aorta", "is_correct": false }
+      ],
+      "answer": "Capillaries"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Normal heart beat per minute in adult is:",
+      "options": [
+        { "option_id": 1, "text": "60", "is_correct": false },
+        { "option_id": 2, "text": "72", "is_correct": true },
+        { "option_id": 3, "text": "90", "is_correct": false },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "72"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Red color of blood is due to:",
+      "options": [
+        { "option_id": 1, "text": "Plasma", "is_correct": false },
+        { "option_id": 2, "text": "Hemoglobin", "is_correct": true },
+        { "option_id": 3, "text": "Platelets", "is_correct": false },
+        { "option_id": 4, "text": "WBC", "is_correct": false }
+      ],
+      "answer": "Hemoglobin"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which blood cells fight infection?",
+      "options": [
+        { "option_id": 1, "text": "RBC", "is_correct": false },
+        { "option_id": 2, "text": "WBC", "is_correct": true },
+        { "option_id": 3, "text": "Platelets", "is_correct": false },
+        { "option_id": 4, "text": "Plasma", "is_correct": false }
+      ],
+      "answer": "WBC"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Blood clotting is done by:",
+      "options": [
+        { "option_id": 1, "text": "RBC", "is_correct": false },
+        { "option_id": 2, "text": "WBC", "is_correct": false },
+        { "option_id": 3, "text": "Platelets", "is_correct": true },
+        { "option_id": 4, "text": "Plasma", "is_correct": false }
+      ],
+      "answer": "Platelets"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Liquid part of blood is:",
+      "options": [
+        { "option_id": 1, "text": "Serum", "is_correct": false },
+        { "option_id": 2, "text": "Plasma", "is_correct": true },
+        { "option_id": 3, "text": "Lymph", "is_correct": false },
+        { "option_id": 4, "text": "Platelets", "is_correct": false }
+      ],
+      "answer": "Plasma"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "pH of oxygenated blood is:",
+      "options": [
+        { "option_id": 1, "text": "6.8", "is_correct": false },
+        { "option_id": 2, "text": "7.4", "is_correct": true },
+        { "option_id": 3, "text": "8.0", "is_correct": false },
+        { "option_id": 4, "text": "7.0", "is_correct": false }
+      ],
+      "answer": "7.4"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Universal donor blood group is:",
+      "options": [
+        { "option_id": 1, "text": "A", "is_correct": false },
+        { "option_id": 2, "text": "B", "is_correct": false },
+        { "option_id": 3, "text": "AB", "is_correct": false },
+        { "option_id": 4, "text": "O", "is_correct": true }
+      ],
+      "answer": "O"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Universal recipient blood group is:",
+      "options": [
+        { "option_id": 1, "text": "A", "is_correct": false },
+        { "option_id": 2, "text": "B", "is_correct": false },
+        { "option_id": 3, "text": "AB", "is_correct": true },
+        { "option_id": 4, "text": "O", "is_correct": false }
+      ],
+      "answer": "AB"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Instrument used to measure blood pressure:",
+      "options": [
+        { "option_id": 1, "text": "Thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Stethoscope", "is_correct": false },
+        { "option_id": 3, "text": "Sphygmomanometer", "is_correct": true },
+        { "option_id": 4, "text": "ECG", "is_correct": false }
+      ],
+      "answer": "Sphygmomanometer"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Normal blood pressure is:",
+      "options": [
+        { "option_id": 1, "text": "90/60", "is_correct": false },
+        { "option_id": 2, "text": "120/80", "is_correct": true },
+        { "option_id": 3, "text": "150/100", "is_correct": false },
+        { "option_id": 4, "text": "100/70", "is_correct": false }
+      ],
+      "answer": "120/80"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "High blood pressure is called:",
+      "options": [
+        { "option_id": 1, "text": "Anemia", "is_correct": false },
+        { "option_id": 2, "text": "Hypertension", "is_correct": true },
+        { "option_id": 3, "text": "Diabetes", "is_correct": false },
+        { "option_id": 4, "text": "Asthma", "is_correct": false }
+      ],
+      "answer": "Hypertension"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Branch of science related to blood study:",
+      "options": [
+        { "option_id": 1, "text": "Neurology", "is_correct": false },
+        { "option_id": 2, "text": "Hematology", "is_correct": true },
+        { "option_id": 3, "text": "Cardiology", "is_correct": false },
+        { "option_id": 4, "text": "Pathology", "is_correct": false }
+      ],
+      "answer": "Hematology"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Blood is produced in:",
+      "options": [
+        { "option_id": 1, "text": "Liver", "is_correct": false },
+        { "option_id": 2, "text": "Red bone marrow", "is_correct": true },
+        { "option_id": 3, "text": "Spleen", "is_correct": false },
+        { "option_id": 4, "text": "Kidney", "is_correct": false }
+      ],
+      "answer": "Red bone marrow"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Blood donation day is observed on:",
+      "options": [
+        { "option_id": 1, "text": "1 October", "is_correct": true },
+        { "option_id": 2, "text": "14 June", "is_correct": false },
+        { "option_id": 3, "text": "5 June", "is_correct": false },
+        { "option_id": 4, "text": "15 August", "is_correct": false }
+      ],
+      "answer": "1 October"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Blood donation helps in:",
+      "options": [
+        { "option_id": 1, "text": "Increasing BP", "is_correct": false },
+        { "option_id": 2, "text": "Saving lives", "is_correct": true },
+        { "option_id": 3, "text": "Weight gain", "is_correct": false },
+        { "option_id": 4, "text": "Reducing oxygen", "is_correct": false }
+      ],
+      "answer": "Saving lives"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Pregnant women should not donate blood because:",
+      "options": [
+        { "option_id": 1, "text": "Weak immunity", "is_correct": false },
+        { "option_id": 2, "text": "Health risk", "is_correct": true },
+        { "option_id": 3, "text": "Low BP", "is_correct": false },
+        { "option_id": 4, "text": "Infection risk", "is_correct": false }
+      ],
+      "answer": "Health risk"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which carries CO₂ to lungs?",
+      "options": [
+        { "option_id": 1, "text": "RBC", "is_correct": true },
+        { "option_id": 2, "text": "Platelets", "is_correct": false },
+        { "option_id": 3, "text": "WBC", "is_correct": false },
+        { "option_id": 4, "text": "Plasma only", "is_correct": false }
+      ],
+      "answer": "RBC"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Blood vessel connecting heart and lungs:",
+      "options": [
+        { "option_id": 1, "text": "Aorta", "is_correct": false },
+        { "option_id": 2, "text": "Pulmonary artery", "is_correct": true },
+        { "option_id": 3, "text": "Vena cava", "is_correct": false },
+        { "option_id": 4, "text": "Capillary", "is_correct": false }
+      ],
+      "answer": "Pulmonary artery"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which side of heart pumps oxygenated blood?",
+      "options": [
+        { "option_id": 1, "text": "Right side", "is_correct": false },
+        { "option_id": 2, "text": "Left side", "is_correct": true },
+        { "option_id": 3, "text": "Both", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Left side"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Blood returning to heart enters:",
+      "options": [
+        { "option_id": 1, "text": "Ventricle", "is_correct": false },
+        { "option_id": 2, "text": "Atrium", "is_correct": true },
+        { "option_id": 3, "text": "Capillary", "is_correct": false },
+        { "option_id": 4, "text": "Aorta", "is_correct": false }
+      ],
+      "answer": "Atrium"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which blood component helps in immunity?",
+      "options": [
+        { "option_id": 1, "text": "Platelets", "is_correct": false },
+        { "option_id": 2, "text": "WBC", "is_correct": true },
+        { "option_id": 3, "text": "RBC", "is_correct": false },
+        { "option_id": 4, "text": "Plasma", "is_correct": false }
+      ],
+      "answer": "WBC"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Blood clotting protein is:",
+      "options": [
+        { "option_id": 1, "text": "Albumin", "is_correct": false },
+        { "option_id": 2, "text": "Fibrinogen", "is_correct": true },
+        { "option_id": 3, "text": "Globulin", "is_correct": false },
+        { "option_id": 4, "text": "Hemoglobin", "is_correct": false }
+      ],
+      "answer": "Fibrinogen"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Normal body temperature is:",
+      "options": [
+        { "option_id": 1, "text": "35°C", "is_correct": false },
+        { "option_id": 2, "text": "37°C", "is_correct": true },
+        { "option_id": 3, "text": "39°C", "is_correct": false },
+        { "option_id": 4, "text": "40°C", "is_correct": false }
+      ],
+      "answer": "37°C"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Blood transports hormones from:",
+      "options": [
+        { "option_id": 1, "text": "Brain to heart", "is_correct": false },
+        { "option_id": 2, "text": "Source to target organ", "is_correct": true },
+        { "option_id": 3, "text": "Lungs to liver", "is_correct": false },
+        { "option_id": 4, "text": "Kidney to bladder", "is_correct": false }
+      ],
+      "answer": "Source to target organ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which gas is removed during exhalation?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "During inhalation diaphragm moves:",
+      "options": [
+        { "option_id": 1, "text": "Upwards", "is_correct": false },
+        { "option_id": 2, "text": "Downwards", "is_correct": true },
+        { "option_id": 3, "text": "Sideways", "is_correct": false },
+        { "option_id": 4, "text": "No movement", "is_correct": false }
+      ],
+      "answer": "Downwards"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which system transports nutrients?",
+      "options": [
+        { "option_id": 1, "text": "Respiratory", "is_correct": false },
+        { "option_id": 2, "text": "Circulatory", "is_correct": true },
+        { "option_id": 3, "text": "Nervous", "is_correct": false },
+        { "option_id": 4, "text": "Skeletal", "is_correct": false }
+      ],
+      "answer": "Circulatory"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Blood pressure during contraction is:",
+      "options": [
+        { "option_id": 1, "text": "Diastolic", "is_correct": false },
+        { "option_id": 2, "text": "Systolic", "is_correct": true },
+        { "option_id": 3, "text": "Neutral", "is_correct": false },
+        { "option_id": 4, "text": "Basal", "is_correct": false }
+      ],
+      "answer": "Systolic"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Blood donation volume is about:",
+      "options": [
+        { "option_id": 1, "text": "100 ml", "is_correct": false },
+        { "option_id": 2, "text": "200 ml", "is_correct": false },
+        { "option_id": 3, "text": "350 ml", "is_correct": true },
+        { "option_id": 4, "text": "500 ml", "is_correct": false }
+      ],
+      "answer": "350 ml"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "RBC life span is about:",
+      "options": [
+        { "option_id": 1, "text": "30 days", "is_correct": false },
+        { "option_id": 2, "text": "60 days", "is_correct": false },
+        { "option_id": 3, "text": "120 days", "is_correct": true },
+        { "option_id": 4, "text": "200 days", "is_correct": false }
+      ],
+      "answer": "120 days"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Blood groups are determined by:",
+      "options": [
+        { "option_id": 1, "text": "Diet", "is_correct": false },
+        { "option_id": 2, "text": "Genes", "is_correct": true },
+        { "option_id": 3, "text": "Climate", "is_correct": false },
+        { "option_id": 4, "text": "Age", "is_correct": false }
+      ],
+      "answer": "Genes"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who discovered blood groups?",
+      "options": [
+        { "option_id": 1, "text": "Harvey", "is_correct": false },
+        { "option_id": 2, "text": "Carl Landsteiner", "is_correct": true },
+        { "option_id": 3, "text": "Hooke", "is_correct": false },
+        { "option_id": 4, "text": "Pasteur", "is_correct": false }
+      ],
+      "answer": "Carl Landsteiner"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Blood circulation theory was proposed by:",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "William Harvey", "is_correct": true },
+        { "option_id": 3, "text": "Darwin", "is_correct": false },
+        { "option_id": 4, "text": "Einstein", "is_correct": false }
+      ],
+      "answer": "William Harvey"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Blood is classified as:",
+      "options": [
+        { "option_id": 1, "text": "Muscle tissue", "is_correct": false },
+        { "option_id": 2, "text": "Connective tissue", "is_correct": true },
+        { "option_id": 3, "text": "Epithelial tissue", "is_correct": false },
+        { "option_id": 4, "text": "Nervous tissue", "is_correct": false }
+      ],
+      "answer": "Connective tissue"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which helps in thermoregulation?",
+      "options": [
+        { "option_id": 1, "text": "Heart only", "is_correct": false },
+        { "option_id": 2, "text": "Blood circulation", "is_correct": true },
+        { "option_id": 3, "text": "Lungs only", "is_correct": false },
+        { "option_id": 4, "text": "Kidney only", "is_correct": false }
+      ],
+      "answer": "Blood circulation"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which organ system removes wastes?",
+      "options": [
+        { "option_id": 1, "text": "Respiratory", "is_correct": false },
+        { "option_id": 2, "text": "Excretory", "is_correct": true },
+        { "option_id": 3, "text": "Digestive", "is_correct": false },
+        { "option_id": 4, "text": "Skeletal", "is_correct": false }
+      ],
+      "answer": "Excretory"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is respiration?",
+      "answer": "Respiration is the process of taking in oxygen and releasing carbon dioxide. It helps in releasing energy from food."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the main organs of respiratory system.",
+      "answer": "Nose, trachea, bronchi and lungs are the main organs of respiratory system."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is inhalation?",
+      "answer": "Inhalation is the process of taking oxygen-rich air into lungs. Diaphragm moves downward during inhalation."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is exhalation?",
+      "answer": "Exhalation is the process of releasing carbon dioxide from lungs. Diaphragm moves upward during this process."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the function of alveoli?",
+      "answer": "Alveoli provide large surface area for exchange of oxygen and carbon dioxide between blood and air."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why are alveoli surrounded by capillaries?",
+      "answer": "Capillaries help in fast diffusion of gases between blood and alveoli walls."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is circulation?",
+      "answer": "Circulation is movement of blood through heart and blood vessels to supply oxygen and nutrients."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the function of heart?",
+      "answer": "Heart pumps blood to all parts of the body and maintains continuous circulation."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why heart is called pumping organ?",
+      "answer": "It contracts and relaxes continuously to pump blood throughout the body."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are atria?",
+      "answer": "Atria are upper chambers of heart that receive blood coming into heart."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are ventricles?",
+      "answer": "Ventricles are lower chambers of heart that pump blood out of the heart."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is double circulation?",
+      "answer": "Blood passes through heart twice in one cycle. It includes pulmonary and systemic circulation."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is pulmonary circulation?",
+      "answer": "Blood flows between heart and lungs for oxygenation in pulmonary circulation."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is systemic circulation?",
+      "answer": "Blood flows between heart and rest of body parts in systemic circulation."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are arteries?",
+      "answer": "Arteries carry oxygen-rich blood away from heart and have thick elastic walls."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are veins?",
+      "answer": "Veins carry blood back to heart and contain valves to prevent backflow."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are capillaries?",
+      "answer": "Capillaries are thin vessels where exchange of gases and nutrients occurs."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is blood?",
+      "answer": "Blood is a connective tissue that transports gases, nutrients, hormones and wastes."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are components of blood?",
+      "answer": "Plasma, red blood cells, white blood cells and platelets are components of blood."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is plasma?",
+      "answer": "Plasma is liquid part of blood that carries nutrients, hormones and waste materials."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is function of RBC?",
+      "answer": "RBC carry oxygen using hemoglobin and transport carbon dioxide to lungs."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is function of WBC?",
+      "answer": "WBC protect body against infections and destroy pathogens."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is function of platelets?",
+      "answer": "Platelets help in blood clotting and prevent excessive bleeding."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is blood clotting?",
+      "answer": "It is process of stopping bleeding by forming clot at wound site."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is hemoglobin?",
+      "answer": "Hemoglobin is red pigment in RBC that carries oxygen."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is anemia?",
+      "answer": "Anemia is condition of low hemoglobin causing weakness and fatigue."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What are blood groups?",
+      "answer": "Blood is classified into A, B, AB and O groups based on antigens."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why blood grouping is important?",
+      "answer": "To avoid reaction during blood transfusion and ensure safety."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is blood transfusion?",
+      "answer": "Transfer of blood from donor to patient is blood transfusion."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is blood pressure?",
+      "answer": "Pressure exerted by blood on artery walls is blood pressure."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is systolic pressure?",
+      "answer": "Pressure during contraction of heart is systolic pressure."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is diastolic pressure?",
+      "answer": "Pressure during relaxation of heart is diastolic pressure."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is hypertension?",
+      "answer": "Persistent high blood pressure is called hypertension."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why blood donation is important?",
+      "answer": "It saves lives of patients during accidents and surgeries."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who can donate blood?",
+      "answer": "Healthy adults between 18–60 years with normal weight can donate blood."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why smokers have breathing problems?",
+      "answer": "Smoking damages lungs and reduces oxygen intake."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is exercise effect on heart?",
+      "answer": "Exercise strengthens heart and improves blood circulation."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is fitness pulse rate?",
+      "answer": "Pulse rate after exercise that returns quickly to normal shows good fitness."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is lymph?",
+      "answer": "Lymph is colorless fluid that returns tissue fluid to blood."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why valves are present in veins?",
+      "answer": "To prevent backward flow of blood."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is pulse?",
+      "answer": "Pulse is rhythmic expansion of arteries when heart pumps blood."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Where is pulse measured?",
+      "answer": "At wrist or neck where artery is close to skin."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is transport system?",
+      "answer": "System that carries materials to and from cells in body."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why oxygen is essential for life?",
+      "answer": "It helps in releasing energy from food during respiration."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why CO2 is harmful?",
+      "answer": "High CO2 level disturbs body pH and causes breathing difficulty."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is organ system?",
+      "answer": "Group of organs working together for specific function."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why coordination between systems is needed?",
+      "answer": "For proper functioning and survival of body."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How lungs are protected?",
+      "answer": "By rib cage and pleural membranes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is pleura?",
+      "answer": "Double membrane covering lungs that reduces friction."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is breathing rate?",
+      "answer": "Number of breaths taken per minute is breathing rate."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why children have faster breathing rate?",
+      "answer": "Due to higher energy requirement and faster metabolism."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why heart rate increases during exercise?",
+      "answer": "To supply more oxygen and nutrients to muscles."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is circulation pathway?",
+      "answer": "Path through which blood travels in body."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why RBC have no nucleus?",
+      "answer": "To carry more hemoglobin and transport more oxygen."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is heart beat?",
+      "answer": "One complete contraction and relaxation of heart is heartbeat."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why heart never stops?",
+      "answer": "It works continuously to maintain life."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is aerobic respiration?",
+      "answer": "Respiration using oxygen to release energy."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is anaerobic respiration?",
+      "answer": "Respiration without oxygen releasing less energy."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why athletes have strong hearts?",
+      "answer": "Regular exercise strengthens heart muscles."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is ventilation?",
+      "answer": "Movement of air in and out of lungs."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why iron is needed in diet?",
+      "answer": "For formation of hemoglobin in blood."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is carbon monoxide poisoning?",
+      "answer": "CO binds with hemoglobin preventing oxygen transport."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why blood is called life fluid?",
+      "answer": "It transports vital substances to all parts."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why capillaries are very thin?",
+      "answer": "To allow easy exchange of materials."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is cardiac cycle?",
+      "answer": "One complete sequence of heartbeat."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why heart muscles never get tired?",
+      "answer": "Continuous oxygen supply and special muscle fibers."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why deep breathing is healthy?",
+      "answer": "It increases oxygen intake and relaxes body."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is fitness index?",
+      "answer": "Measure of physical fitness based on heart recovery rate."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is circulatory failure?",
+      "answer": "When blood supply becomes insufficient to organs."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why hydration is important for blood?",
+      "answer": "Maintains blood volume and circulation."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why lungs are spongy?",
+      "answer": "Due to presence of many alveoli."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is oxygen debt?",
+      "answer": "Extra oxygen needed after heavy exercise."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why first aid is needed in bleeding?",
+      "answer": "To prevent excessive blood loss."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why healthy lifestyle is important?",
+      "answer": "It keeps heart and lungs strong."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why walking improves circulation?",
+      "answer": "Muscle movement helps blood flow."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why obesity affects heart?",
+      "answer": "Extra fat increases workload on heart."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why junk food is harmful?",
+      "answer": "It increases cholesterol and heart diseases."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is oxygen saturation?",
+      "answer": "Amount of oxygen bound to hemoglobin."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why medical checkups are important?",
+      "answer": "To detect heart and blood problems early."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is cardiac arrest?",
+      "answer": "Sudden stopping of heart function."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why CPR is important?",
+      "answer": "It helps restore blood circulation during cardiac arrest."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is artificial respiration?",
+      "answer": "Providing oxygen manually when breathing stops."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why heart disease is increasing?",
+      "answer": "Due to stress, unhealthy food and lack of exercise."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why yoga is beneficial?",
+      "answer": "Improves breathing and heart efficiency."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why pollution affects lungs?",
+      "answer": "Toxins damage lung tissues and reduce oxygen intake."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why blood donation camps are organized?",
+      "answer": "To ensure sufficient blood supply in hospitals."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is respiratory disease?",
+      "answer": "Disease affecting breathing and lungs."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why lungs need clean air?",
+      "answer": "To maintain healthy gas exchange."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why exercise improves lung capacity?",
+      "answer": "It strengthens breathing muscles."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why balanced diet supports circulation?",
+      "answer": "Provides nutrients needed for blood formation."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why sleep is important for heart?",
+      "answer": "It reduces stress and repairs tissues."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is heart fitness test?",
+      "answer": "Test to check heart response to exercise."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why elderly face breathing problems?",
+      "answer": "Due to weak lungs and reduced capacity."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why stress affects heart?",
+      "answer": "It increases blood pressure and heart rate."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why oxygen therapy is given?",
+      "answer": "To increase oxygen levels in blood."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is heart failure?",
+      "answer": "Condition where heart cannot pump sufficient blood."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why healthy habits prevent diseases?",
+      "answer": "They strengthen immunity and organs."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why regular checkup saves life?",
+      "answer": "Early detection prevents serious complications."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why blood banks are important?",
+      "answer": "They store blood for emergencies."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of organ systems chapter.",
+      "answer": "Organ systems work together to keep body healthy and alive."
+    }
+  ]
+}

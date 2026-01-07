@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.08",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Pollution"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is pollution?",
+      "options": [
+        { "option_id": 1, "text": "Cleaning of environment", "is_correct": false },
+        { "option_id": 2, "text": "Contamination of natural environment harmful to ecosystem", "is_correct": true },
+        { "option_id": 3, "text": "Use of fertilizers", "is_correct": false },
+        { "option_id": 4, "text": "Plantation of trees", "is_correct": false }
+      ],
+      "answer": "Contamination of natural environment harmful to ecosystem"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is a man-made cause of pollution?",
+      "options": [
+        { "option_id": 1, "text": "Volcanic eruption", "is_correct": false },
+        { "option_id": 2, "text": "Earthquake", "is_correct": false },
+        { "option_id": 3, "text": "Industrialization", "is_correct": true },
+        { "option_id": 4, "text": "Cyclone", "is_correct": false }
+      ],
+      "answer": "Industrialization"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which gas is released from vehicles?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon monoxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon monoxide"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is an air pollutant?",
+      "options": [
+        { "option_id": 1, "text": "Sulphur dioxide", "is_correct": true },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Sulphur dioxide"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which pollution is caused by sewage?",
+      "options": [
+        { "option_id": 1, "text": "Air pollution", "is_correct": false },
+        { "option_id": 2, "text": "Water pollution", "is_correct": true },
+        { "option_id": 3, "text": "Soil pollution", "is_correct": false },
+        { "option_id": 4, "text": "Noise pollution", "is_correct": false }
+      ],
+      "answer": "Water pollution"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which gas causes greenhouse effect?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which layer protects Earth from UV rays?",
+      "options": [
+        { "option_id": 1, "text": "Troposphere", "is_correct": false },
+        { "option_id": 2, "text": "Ozone layer", "is_correct": true },
+        { "option_id": 3, "text": "Ionosphere", "is_correct": false },
+        { "option_id": 4, "text": "Exosphere", "is_correct": false }
+      ],
+      "answer": "Ozone layer"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which causes depletion of ozone layer?",
+      "options": [
+        { "option_id": 1, "text": "CFC", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Helium", "is_correct": false }
+      ],
+      "answer": "CFC"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Acid rain is caused due to oxides of:",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen and oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Sulphur and nitrogen", "is_correct": true },
+        { "option_id": 3, "text": "Carbon and hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Chlorine and fluorine", "is_correct": false }
+      ],
+      "answer": "Sulphur and nitrogen"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which effect increases Earth’s temperature?",
+      "options": [
+        { "option_id": 1, "text": "Ozone effect", "is_correct": false },
+        { "option_id": 2, "text": "Greenhouse effect", "is_correct": true },
+        { "option_id": 3, "text": "Water cycle", "is_correct": false },
+        { "option_id": 4, "text": "Evaporation", "is_correct": false }
+      ],
+      "answer": "Greenhouse effect"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is a biological water pollutant?",
+      "options": [
+        { "option_id": 1, "text": "Mercury", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Plastic", "is_correct": false },
+        { "option_id": 4, "text": "Oil", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which disease is caused by polluted water?",
+      "options": [
+        { "option_id": 1, "text": "Asthma", "is_correct": false },
+        { "option_id": 2, "text": "Typhoid", "is_correct": true },
+        { "option_id": 3, "text": "Diabetes", "is_correct": false },
+        { "option_id": 4, "text": "Cancer", "is_correct": false }
+      ],
+      "answer": "Typhoid"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is an inorganic water pollutant?",
+      "options": [
+        { "option_id": 1, "text": "Algae", "is_correct": false },
+        { "option_id": 2, "text": "Lead", "is_correct": true },
+        { "option_id": 3, "text": "Bacteria", "is_correct": false },
+        { "option_id": 4, "text": "Sewage", "is_correct": false }
+      ],
+      "answer": "Lead"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which causes decrease in dissolved oxygen in water?",
+      "options": [
+        { "option_id": 1, "text": "Algae growth", "is_correct": true },
+        { "option_id": 2, "text": "Rainfall", "is_correct": false },
+        { "option_id": 3, "text": "Evaporation", "is_correct": false },
+        { "option_id": 4, "text": "Wind", "is_correct": false }
+      ],
+      "answer": "Algae growth"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which is a cause of soil pollution?",
+      "options": [
+        { "option_id": 1, "text": "Rain", "is_correct": false },
+        { "option_id": 2, "text": "Chemical fertilizers", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Sunlight", "is_correct": false }
+      ],
+      "answer": "Chemical fertilizers"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which board monitors pollution in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "WHO", "is_correct": false },
+        { "option_id": 2, "text": "MPCB", "is_correct": true },
+        { "option_id": 3, "text": "UNICEF", "is_correct": false },
+        { "option_id": 4, "text": "NASA", "is_correct": false }
+      ],
+      "answer": "MPCB"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which act controls air pollution in India?",
+      "options": [
+        { "option_id": 1, "text": "1974 Act", "is_correct": false },
+        { "option_id": 2, "text": "1981 Act", "is_correct": true },
+        { "option_id": 3, "text": "1986 Act", "is_correct": false },
+        { "option_id": 4, "text": "1990 Act", "is_correct": false }
+      ],
+      "answer": "1981 Act"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which gas lowers oxygen carrying capacity of blood?",
+      "options": [
+        { "option_id": 1, "text": "CO", "is_correct": true },
+        { "option_id": 2, "text": "CO2", "is_correct": false },
+        { "option_id": 3, "text": "SO2", "is_correct": false },
+        { "option_id": 4, "text": "NO2", "is_correct": false }
+      ],
+      "answer": "CO"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which causes erosion of monuments?",
+      "options": [
+        { "option_id": 1, "text": "Flood", "is_correct": false },
+        { "option_id": 2, "text": "Acid rain", "is_correct": true },
+        { "option_id": 3, "text": "Earthquake", "is_correct": false },
+        { "option_id": 4, "text": "Cyclone", "is_correct": false }
+      ],
+      "answer": "Acid rain"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which is a greenhouse gas?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Methane", "is_correct": true },
+        { "option_id": 3, "text": "Helium", "is_correct": false },
+        { "option_id": 4, "text": "Neon", "is_correct": false }
+      ],
+      "answer": "Methane"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which causes smog?",
+      "options": [
+        { "option_id": 1, "text": "Smoke + Fog", "is_correct": true },
+        { "option_id": 2, "text": "Dust + Wind", "is_correct": false },
+        { "option_id": 3, "text": "Rain + Smoke", "is_correct": false },
+        { "option_id": 4, "text": "Heat + Wind", "is_correct": false }
+      ],
+      "answer": "Smoke + Fog"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which pollution spreads hepatitis?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Soil", "is_correct": false },
+        { "option_id": 4, "text": "Noise", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which increases salt content of water?",
+      "options": [
+        { "option_id": 1, "text": "Soil erosion", "is_correct": true },
+        { "option_id": 2, "text": "Rain", "is_correct": false },
+        { "option_id": 3, "text": "Evaporation", "is_correct": false },
+        { "option_id": 4, "text": "Condensation", "is_correct": false }
+      ],
+      "answer": "Soil erosion"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which waste is from hospitals?",
+      "options": [
+        { "option_id": 1, "text": "Agricultural waste", "is_correct": false },
+        { "option_id": 2, "text": "Biomedical waste", "is_correct": true },
+        { "option_id": 3, "text": "Domestic waste", "is_correct": false },
+        { "option_id": 4, "text": "Industrial waste", "is_correct": false }
+      ],
+      "answer": "Biomedical waste"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which is least polluted vehicle?",
+      "options": [
+        { "option_id": 1, "text": "Diesel bus", "is_correct": false },
+        { "option_id": 2, "text": "Electric vehicle", "is_correct": true },
+        { "option_id": 3, "text": "Petrol car", "is_correct": false },
+        { "option_id": 4, "text": "Truck", "is_correct": false }
+      ],
+      "answer": "Electric vehicle"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which pollution affects crops?",
+      "options": [
+        { "option_id": 1, "text": "Soil pollution", "is_correct": true },
+        { "option_id": 2, "text": "Noise pollution", "is_correct": false },
+        { "option_id": 3, "text": "Light pollution", "is_correct": false },
+        { "option_id": 4, "text": "Thermal pollution", "is_correct": false }
+      ],
+      "answer": "Soil pollution"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which pollutant causes silicosis?",
+      "options": [
+        { "option_id": 1, "text": "Dust", "is_correct": true },
+        { "option_id": 2, "text": "Smoke", "is_correct": false },
+        { "option_id": 3, "text": "Gas", "is_correct": false },
+        { "option_id": 4, "text": "Vapour", "is_correct": false }
+      ],
+      "answer": "Dust"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which gas irritates lungs?",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen dioxide", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Helium", "is_correct": false },
+        { "option_id": 4, "text": "Argon", "is_correct": false }
+      ],
+      "answer": "Nitrogen dioxide"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which pollution causes asthma?",
+      "options": [
+        { "option_id": 1, "text": "Air pollution", "is_correct": true },
+        { "option_id": 2, "text": "Water pollution", "is_correct": false },
+        { "option_id": 3, "text": "Soil pollution", "is_correct": false },
+        { "option_id": 4, "text": "Noise pollution", "is_correct": false }
+      ],
+      "answer": "Air pollution"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which gas causes skin cancer?",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Methane"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which reduces soil fertility?",
+      "options": [
+        { "option_id": 1, "text": "Organic manure", "is_correct": false },
+        { "option_id": 2, "text": "Salty industrial water", "is_correct": true },
+        { "option_id": 3, "text": "Rainwater", "is_correct": false },
+        { "option_id": 4, "text": "Mulching", "is_correct": false }
+      ],
+      "answer": "Salty industrial water"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which pollutant enters food chain via plants?",
+      "options": [
+        { "option_id": 1, "text": "Mercury", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Water vapour", "is_correct": false }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which increases sea level?",
+      "options": [
+        { "option_id": 1, "text": "Acid rain", "is_correct": false },
+        { "option_id": 2, "text": "Melting glaciers", "is_correct": true },
+        { "option_id": 3, "text": "Earthquake", "is_correct": false },
+        { "option_id": 4, "text": "Cyclone", "is_correct": false }
+      ],
+      "answer": "Melting glaciers"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which causes decrease in photosynthesis?",
+      "options": [
+        { "option_id": 1, "text": "Closed stomata", "is_correct": true },
+        { "option_id": 2, "text": "Rainfall", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Sunlight", "is_correct": false }
+      ],
+      "answer": "Closed stomata"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is natural air pollution cause?",
+      "options": [
+        { "option_id": 1, "text": "Factory smoke", "is_correct": false },
+        { "option_id": 2, "text": "Volcanic eruption", "is_correct": true },
+        { "option_id": 3, "text": "Vehicle exhaust", "is_correct": false },
+        { "option_id": 4, "text": "Burning plastic", "is_correct": false }
+      ],
+      "answer": "Volcanic eruption"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which helps control air pollution in factories?",
+      "options": [
+        { "option_id": 1, "text": "Filters", "is_correct": true },
+        { "option_id": 2, "text": "Fans", "is_correct": false },
+        { "option_id": 3, "text": "Heaters", "is_correct": false },
+        { "option_id": 4, "text": "Coolers", "is_correct": false }
+      ],
+      "answer": "Filters"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which pollutant causes irritation of eyes?",
+      "options": [
+        { "option_id": 1, "text": "Sulphur dioxide", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Sulphur dioxide"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which pollution causes foul smell in rivers?",
+      "options": [
+        { "option_id": 1, "text": "Noise", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Air", "is_correct": false },
+        { "option_id": 4, "text": "Light", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which causes soil erosion?",
+      "options": [
+        { "option_id": 1, "text": "Heavy rain", "is_correct": true },
+        { "option_id": 2, "text": "Plantation", "is_correct": false },
+        { "option_id": 3, "text": "Mulching", "is_correct": false },
+        { "option_id": 4, "text": "Composting", "is_correct": false }
+      ],
+      "answer": "Heavy rain"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which pollution affects breathing?",
+      "options": [
+        { "option_id": 1, "text": "Soil", "is_correct": false },
+        { "option_id": 2, "text": "Air", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Noise", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which pollution reduces crop yield?",
+      "options": [
+        { "option_id": 1, "text": "Soil pollution", "is_correct": true },
+        { "option_id": 2, "text": "Noise pollution", "is_correct": false },
+        { "option_id": 3, "text": "Light pollution", "is_correct": false },
+        { "option_id": 4, "text": "Thermal pollution", "is_correct": false }
+      ],
+      "answer": "Soil pollution"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which spreads through contaminated water?",
+      "options": [
+        { "option_id": 1, "text": "Malaria", "is_correct": false },
+        { "option_id": 2, "text": "Hepatitis", "is_correct": true },
+        { "option_id": 3, "text": "Asthma", "is_correct": false },
+        { "option_id": 4, "text": "Cancer", "is_correct": false }
+      ],
+      "answer": "Hepatitis"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which waste causes water pollution in rivers?",
+      "options": [
+        { "option_id": 1, "text": "Domestic sewage", "is_correct": true },
+        { "option_id": 2, "text": "Dry leaves", "is_correct": false },
+        { "option_id": 3, "text": "Sand", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Domestic sewage"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which law protects environment?",
+      "options": [
+        { "option_id": 1, "text": "Environmental Protection Act 1986", "is_correct": true },
+        { "option_id": 2, "text": "Forest Act 1950", "is_correct": false },
+        { "option_id": 3, "text": "Water Act 1900", "is_correct": false },
+        { "option_id": 4, "text": "Health Act 2000", "is_correct": false }
+      ],
+      "answer": "Environmental Protection Act 1986"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which causes respiratory disease?",
+      "options": [
+        { "option_id": 1, "text": "Particulate matter", "is_correct": true },
+        { "option_id": 2, "text": "Rainwater", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Sunlight", "is_correct": false }
+      ],
+      "answer": "Particulate matter"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which causes foul smell in villages?",
+      "options": [
+        { "option_id": 1, "text": "Animal waste", "is_correct": true },
+        { "option_id": 2, "text": "Sunlight", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Clouds", "is_correct": false }
+      ],
+      "answer": "Animal waste"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which increases greenhouse gases?",
+      "options": [
+        { "option_id": 1, "text": "Tree cutting", "is_correct": true },
+        { "option_id": 2, "text": "Plantation", "is_correct": false },
+        { "option_id": 3, "text": "Recycling", "is_correct": false },
+        { "option_id": 4, "text": "Rainfall", "is_correct": false }
+      ],
+      "answer": "Tree cutting"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which waste should be composted?",
+      "options": [
+        { "option_id": 1, "text": "Wet waste", "is_correct": true },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Glass", "is_correct": false },
+        { "option_id": 4, "text": "Metal", "is_correct": false }
+      ],
+      "answer": "Wet waste"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which pollution affects aquatic life most?",
+      "options": [
+        { "option_id": 1, "text": "Water pollution", "is_correct": true },
+        { "option_id": 2, "text": "Air pollution", "is_correct": false },
+        { "option_id": 3, "text": "Noise pollution", "is_correct": false },
+        { "option_id": 4, "text": "Soil pollution", "is_correct": false }
+      ],
+      "answer": "Water pollution"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which activity reduces pollution?",
+      "options": [
+        { "option_id": 1, "text": "Tree plantation", "is_correct": true },
+        { "option_id": 2, "text": "Burning waste", "is_correct": false },
+        { "option_id": 3, "text": "Using plastic", "is_correct": false },
+        { "option_id": 4, "text": "Vehicle smoke", "is_correct": false }
+      ],
+      "answer": "Tree plantation"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are pollutants?",
+      "answer": "Pollutants are harmful substances that contaminate air, water or soil. They disturb the natural balance of the environment."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are primary pollutants?",
+      "answer": "Primary pollutants are directly released into environment from sources like vehicles and factories, such as carbon monoxide."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are secondary pollutants?",
+      "answer": "Secondary pollutants are formed by chemical reactions between primary pollutants in atmosphere, like smog formation."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is smog?",
+      "answer": "Smog is a mixture of smoke and fog. It reduces visibility and causes breathing problems."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is greenhouse effect?",
+      "answer": "Greenhouse effect is trapping of heat by gases like CO2 and methane, increasing Earth’s temperature."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is global warming?",
+      "answer": "Global warming is rise in average temperature of Earth due to increased greenhouse gases."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are greenhouse gases?",
+      "answer": "Gases that trap heat in atmosphere such as carbon dioxide, methane and nitrous oxide are greenhouse gases."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is ozone depletion?",
+      "answer": "Ozone depletion is thinning of ozone layer due to CFCs, allowing harmful UV rays to reach Earth."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why ozone layer is important?",
+      "answer": "It protects living organisms from harmful ultraviolet radiation that can cause skin cancer."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is acid rain?",
+      "answer": "Rain containing sulphuric and nitric acids formed from polluted gases is called acid rain."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How acid rain affects monuments?",
+      "answer": "It corrodes marble and stone, damaging historical monuments like Taj Mahal."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is water pollution?",
+      "answer": "Contamination of rivers, lakes and groundwater by harmful substances is water pollution."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are sources of water pollution?",
+      "answer": "Sewage, industrial waste, pesticides and oil spills pollute water bodies."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How does sewage affect water?",
+      "answer": "It increases bacteria, reduces oxygen and spreads water-borne diseases."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is eutrophication?",
+      "answer": "Excess nutrients cause rapid growth of algae, reducing oxygen and killing aquatic life."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is soil pollution?",
+      "answer": "Contamination of soil by chemicals, waste and pesticides that reduce fertility."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How fertilizers pollute soil?",
+      "answer": "Excess fertilizers change soil pH and kill useful microorganisms."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How plastics cause pollution?",
+      "answer": "Plastics do not decompose easily and pollute land and water."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is noise pollution?",
+      "answer": "Unwanted loud sound that affects health and mental peace is noise pollution."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are sources of noise pollution?",
+      "answer": "Vehicles, loudspeakers, factories and construction activities produce noise pollution."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How noise affects health?",
+      "answer": "It causes hearing loss, stress, headache and sleep disturbance."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is biomedical waste?",
+      "answer": "Waste produced by hospitals such as syringes and bandages is biomedical waste."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why biomedical waste is dangerous?",
+      "answer": "It contains germs and toxic materials that spread diseases."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is industrial waste?",
+      "answer": "Waste materials released from factories into air, water and soil are industrial waste."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How factories control air pollution?",
+      "answer": "By using filters, scrubbers and tall chimneys to reduce harmful gases."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How vehicles cause pollution?",
+      "answer": "They release harmful gases like CO and NO2 that pollute air."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is particulate matter?",
+      "answer": "Tiny dust and smoke particles in air that enter lungs and cause diseases."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is thermal pollution?",
+      "answer": "Discharge of hot water from industries into rivers harming aquatic life."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How pollution affects biodiversity?",
+      "answer": "It destroys habitats and reduces population of plants and animals."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is biomagnification?",
+      "answer": "Increase of toxic substances in food chain at higher trophic levels."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How pesticides affect humans?",
+      "answer": "They enter food chain and cause long-term health problems."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is solid waste?",
+      "answer": "Garbage such as plastic, paper and food waste is solid waste."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is waste segregation?",
+      "answer": "Separating wet and dry waste for proper disposal and recycling."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why recycling is important?",
+      "answer": "It saves resources and reduces pollution and landfill."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is composting?",
+      "answer": "Conversion of organic waste into manure using microorganisms."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How trees reduce pollution?",
+      "answer": "They absorb CO2 and release oxygen, improving air quality."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is rainwater harvesting?",
+      "answer": "Collecting rainwater for future use and groundwater recharge."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How public transport helps environment?",
+      "answer": "It reduces number of vehicles and lowers air pollution."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is eco-friendly lifestyle?",
+      "answer": "Living in a way that reduces harm to environment using less plastic and energy."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why plastic ban is necessary?",
+      "answer": "Plastic pollutes environment and harms animals and marine life."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How deforestation increases pollution?",
+      "answer": "Less trees reduce oxygen and increase carbon dioxide in air."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is sustainable development?",
+      "answer": "Development that meets present needs without harming future generations."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is green energy?",
+      "answer": "Energy from renewable sources like solar and wind causing less pollution."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why solar energy is clean?",
+      "answer": "It produces no harmful gases or waste."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How industries pollute rivers?",
+      "answer": "By releasing untreated chemical waste into water bodies."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is environmental law?",
+      "answer": "Rules made to protect environment and control pollution."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is MPCB?",
+      "answer": "Maharashtra Pollution Control Board monitors and controls pollution."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why environmental awareness is important?",
+      "answer": "People can reduce pollution by changing habits."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How pollution affects climate?",
+      "answer": "Increases global warming and causes climate change."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How soil pollution affects crops?",
+      "answer": "Reduces fertility and increases harmful chemicals in food."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is landfill?",
+      "answer": "Place where solid waste is buried for disposal."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why landfills cause pollution?",
+      "answer": "They release harmful gases and contaminate groundwater."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is clean environment?",
+      "answer": "Environment free from harmful pollutants and waste."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why burning waste is harmful?",
+      "answer": "It releases toxic gases that cause air pollution."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How farmers reduce chemical pollution?",
+      "answer": "By using organic manure and bio-pesticides."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is air quality index?",
+      "answer": "It measures pollution level of air in an area."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why children are more affected by pollution?",
+      "answer": "Their lungs are still developing and more sensitive."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is noise barrier?",
+      "answer": "Structures built to reduce noise from highways."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does pollution affect animals?",
+      "answer": "It destroys habitats and causes diseases and death."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why plastic harms marine life?",
+      "answer": "Animals eat plastic and die due to choking."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is clean water?",
+      "answer": "Water free from harmful chemicals and germs."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why sewage treatment is necessary?",
+      "answer": "To remove pollutants before releasing water into rivers."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is waste water treatment plant?",
+      "answer": "Facility that cleans dirty water using physical and biological methods."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How planting trees controls climate?",
+      "answer": "Trees absorb carbon dioxide and cool environment."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why banning CFC is important?",
+      "answer": "To protect ozone layer from depletion."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is renewable energy?",
+      "answer": "Energy from sources that do not get exhausted."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How electric vehicles reduce pollution?",
+      "answer": "They do not release exhaust gases into air."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is environmental conservation?",
+      "answer": "Protection and wise use of natural resources."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why river cleaning is necessary?",
+      "answer": "To protect aquatic life and provide clean water."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How pollution affects human health?",
+      "answer": "Causes respiratory, skin and digestive diseases."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is plastic recycling?",
+      "answer": "Reusing plastic waste to make new products."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why burning fossil fuels increases pollution?",
+      "answer": "It releases carbon dioxide and harmful gases."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How urbanization increases pollution?",
+      "answer": "More vehicles, waste and industries increase pollutants."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is clean technology?",
+      "answer": "Technology that produces less pollution."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why awareness programs are important?",
+      "answer": "They educate people to protect environment."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is sustainable agriculture?",
+      "answer": "Farming that protects soil and environment."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How wetlands reduce pollution?",
+      "answer": "They filter harmful chemicals from water."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why noise control laws needed?",
+      "answer": "To protect people from health hazards."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is ecological balance?",
+      "answer": "Proper balance between organisms and environment."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why pollution control is necessary?",
+      "answer": "To protect health, biodiversity and future generations."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is green cover?",
+      "answer": "Area covered with trees and vegetation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How green cover reduces pollution?",
+      "answer": "Plants absorb pollutants and cool atmosphere."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why water bodies should be protected?",
+      "answer": "They provide drinking water and support life."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is environmental ethics?",
+      "answer": "Moral responsibility to protect environment."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why industrial waste must be treated?",
+      "answer": "To prevent toxic chemicals entering nature."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is eco-system?",
+      "answer": "Interaction between living and non-living components."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How pollution affects ecosystem?",
+      "answer": "It disturbs food chains and natural balance."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why wet waste is composted?",
+      "answer": "It turns into manure and reduces garbage."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How noise affects animals?",
+      "answer": "It disturbs communication and breeding patterns."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why pollution is global issue?",
+      "answer": "Pollutants travel across countries affecting whole Earth."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is environmental protection?",
+      "answer": "Steps taken to conserve natural resources and reduce pollution."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why community participation important?",
+      "answer": "People working together can reduce pollution effectively."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is clean India mission role?",
+      "answer": "It promotes cleanliness and waste management."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why water conservation is necessary?",
+      "answer": "Freshwater is limited and essential for life."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is eco-friendly product?",
+      "answer": "Product that does not harm environment."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why pollution increases diseases?",
+      "answer": "Polluted air and water carry harmful chemicals and germs."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is environmental sustainability?",
+      "answer": "Using resources carefully to protect future."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why environmental education is needed?",
+      "answer": "It builds responsible behavior towards nature."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How laws help in pollution control?",
+      "answer": "They restrict harmful activities and enforce penalties."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Pollution chapter.",
+      "answer": "Pollution harms health and environment. Prevention and awareness are essential for sustainable future."
+    }
+  ]
+}

@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.07",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Metals and Nonmetals"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Elements are mainly classified into how many types?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": true },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a metal?",
+      "options": [
+        { "option_id": 1, "text": "Sulphur", "is_correct": false },
+        { "option_id": 2, "text": "Carbon", "is_correct": false },
+        { "option_id": 3, "text": "Copper", "is_correct": true },
+        { "option_id": 4, "text": "Phosphorus", "is_correct": false }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Mercury", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which property allows metals to be drawn into wires?",
+      "options": [
+        { "option_id": 1, "text": "Malleability", "is_correct": false },
+        { "option_id": 2, "text": "Ductility", "is_correct": true },
+        { "option_id": 3, "text": "Sonority", "is_correct": false },
+        { "option_id": 4, "text": "Hardness", "is_correct": false }
+      ],
+      "answer": "Ductility"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which property allows metals to be beaten into sheets?",
+      "options": [
+        { "option_id": 1, "text": "Ductility", "is_correct": false },
+        { "option_id": 2, "text": "Malleability", "is_correct": true },
+        { "option_id": 3, "text": "Sonority", "is_correct": false },
+        { "option_id": 4, "text": "Lustre", "is_correct": false }
+      ],
+      "answer": "Malleability"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which metal is a good conductor of electricity?",
+      "options": [
+        { "option_id": 1, "text": "Sulphur", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": true },
+        { "option_id": 3, "text": "Phosphorus", "is_correct": false },
+        { "option_id": 4, "text": "Carbon", "is_correct": false }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which metal is soft and can be cut with knife?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Sodium", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which nonmetal is a good conductor of electricity?",
+      "options": [
+        { "option_id": 1, "text": "Sulphur", "is_correct": false },
+        { "option_id": 2, "text": "Phosphorus", "is_correct": false },
+        { "option_id": 3, "text": "Graphite", "is_correct": true },
+        { "option_id": 4, "text": "Bromine", "is_correct": false }
+      ],
+      "answer": "Graphite"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which nonmetal is liquid at room temperature?",
+      "options": [
+        { "option_id": 1, "text": "Bromine", "is_correct": true },
+        { "option_id": 2, "text": "Carbon", "is_correct": false },
+        { "option_id": 3, "text": "Sulphur", "is_correct": false },
+        { "option_id": 4, "text": "Phosphorus", "is_correct": false }
+      ],
+      "answer": "Bromine"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which is the hardest natural substance?",
+      "options": [
+        { "option_id": 1, "text": "Gold", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": false },
+        { "option_id": 3, "text": "Diamond", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Diamond"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which element shows properties of both metals and nonmetals?",
+      "options": [
+        { "option_id": 1, "text": "Carbon", "is_correct": false },
+        { "option_id": 2, "text": "Silicon", "is_correct": true },
+        { "option_id": 3, "text": "Gold", "is_correct": false },
+        { "option_id": 4, "text": "Sulphur", "is_correct": false }
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What are such elements called?",
+      "options": [
+        { "option_id": 1, "text": "Metals", "is_correct": false },
+        { "option_id": 2, "text": "Nonmetals", "is_correct": false },
+        { "option_id": 3, "text": "Metalloids", "is_correct": true },
+        { "option_id": 4, "text": "Isotopes", "is_correct": false }
+      ],
+      "answer": "Metalloids"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Metals generally form which type of ions?",
+      "options": [
+        { "option_id": 1, "text": "Anions", "is_correct": false },
+        { "option_id": 2, "text": "Cations", "is_correct": true },
+        { "option_id": 3, "text": "Neutral ions", "is_correct": false },
+        { "option_id": 4, "text": "Molecules", "is_correct": false }
+      ],
+      "answer": "Cations"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Nonmetals generally form which type of ions?",
+      "options": [
+        { "option_id": 1, "text": "Cations", "is_correct": false },
+        { "option_id": 2, "text": "Anions", "is_correct": true },
+        { "option_id": 3, "text": "Neutral ions", "is_correct": false },
+        { "option_id": 4, "text": "Atoms", "is_correct": false }
+      ],
+      "answer": "Anions"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Metal oxides are generally:",
+      "options": [
+        { "option_id": 1, "text": "Acidic", "is_correct": false },
+        { "option_id": 2, "text": "Basic", "is_correct": true },
+        { "option_id": 3, "text": "Neutral", "is_correct": false },
+        { "option_id": 4, "text": "Salty", "is_correct": false }
+      ],
+      "answer": "Basic"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Nonmetal oxides are generally:",
+      "options": [
+        { "option_id": 1, "text": "Basic", "is_correct": false },
+        { "option_id": 2, "text": "Neutral", "is_correct": false },
+        { "option_id": 3, "text": "Acidic", "is_correct": true },
+        { "option_id": 4, "text": "Salty", "is_correct": false }
+      ],
+      "answer": "Acidic"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which gas is released when metal reacts with acid?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 4, "text": "Carbon dioxide", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which metal reacts violently with water?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Sodium", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which metal does not react easily?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Gold", "is_correct": true },
+        { "option_id": 3, "text": "Zinc", "is_correct": false },
+        { "option_id": 4, "text": "Magnesium", "is_correct": false }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Such metals are called:",
+      "options": [
+        { "option_id": 1, "text": "Active metals", "is_correct": false },
+        { "option_id": 2, "text": "Noble metals", "is_correct": true },
+        { "option_id": 3, "text": "Metalloids", "is_correct": false },
+        { "option_id": 4, "text": "Alloys", "is_correct": false }
+      ],
+      "answer": "Noble metals"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Pure gold is called:",
+      "options": [
+        { "option_id": 1, "text": "18 carat", "is_correct": false },
+        { "option_id": 2, "text": "22 carat", "is_correct": false },
+        { "option_id": 3, "text": "24 carat", "is_correct": true },
+        { "option_id": 4, "text": "20 carat", "is_correct": false }
+      ],
+      "answer": "24 carat"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why pure gold is not used for ornaments?",
+      "options": [
+        { "option_id": 1, "text": "Too heavy", "is_correct": false },
+        { "option_id": 2, "text": "Too costly", "is_correct": false },
+        { "option_id": 3, "text": "Too soft", "is_correct": true },
+        { "option_id": 4, "text": "Too hard", "is_correct": false }
+      ],
+      "answer": "Too soft"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which gas causes rusting of iron?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": true },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Chlorine", "is_correct": false }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Green coating on copper is:",
+      "options": [
+        { "option_id": 1, "text": "Copper oxide", "is_correct": false },
+        { "option_id": 2, "text": "Copper sulphide", "is_correct": false },
+        { "option_id": 3, "text": "Copper carbonate", "is_correct": true },
+        { "option_id": 4, "text": "Copper chloride", "is_correct": false }
+      ],
+      "answer": "Copper carbonate"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Black coating on silver is due to:",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen sulphide", "is_correct": true },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Hydrogen sulphide"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Process of slow destruction of metals is called:",
+      "options": [
+        { "option_id": 1, "text": "Combustion", "is_correct": false },
+        { "option_id": 2, "text": "Corrosion", "is_correct": true },
+        { "option_id": 3, "text": "Oxidation", "is_correct": false },
+        { "option_id": 4, "text": "Reduction", "is_correct": false }
+      ],
+      "answer": "Corrosion"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which method prevents corrosion?",
+      "options": [
+        { "option_id": 1, "text": "Painting", "is_correct": true },
+        { "option_id": 2, "text": "Heating", "is_correct": false },
+        { "option_id": 3, "text": "Cooling", "is_correct": false },
+        { "option_id": 4, "text": "Grinding", "is_correct": false }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Zinc coating on iron is called:",
+      "options": [
+        { "option_id": 1, "text": "Alloying", "is_correct": false },
+        { "option_id": 2, "text": "Galvanization", "is_correct": true },
+        { "option_id": 3, "text": "Polishing", "is_correct": false },
+        { "option_id": 4, "text": "Plating", "is_correct": false }
+      ],
+      "answer": "Galvanization"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is alloy?",
+      "options": [
+        { "option_id": 1, "text": "Pure metal", "is_correct": false },
+        { "option_id": 2, "text": "Metal + metal or nonmetal mixture", "is_correct": true },
+        { "option_id": 3, "text": "Only nonmetals", "is_correct": false },
+        { "option_id": 4, "text": "Only liquids", "is_correct": false }
+      ],
+      "answer": "Metal + metal or nonmetal mixture"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Bronze is made of:",
+      "options": [
+        { "option_id": 1, "text": "Copper + Zinc", "is_correct": false },
+        { "option_id": 2, "text": "Copper + Tin", "is_correct": true },
+        { "option_id": 3, "text": "Iron + Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium + Copper", "is_correct": false }
+      ],
+      "answer": "Copper + Tin"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Brass is made of:",
+      "options": [
+        { "option_id": 1, "text": "Copper + Zinc", "is_correct": true },
+        { "option_id": 2, "text": "Copper + Tin", "is_correct": false },
+        { "option_id": 3, "text": "Iron + Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium + Zinc", "is_correct": false }
+      ],
+      "answer": "Copper + Zinc"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Stainless steel contains:",
+      "options": [
+        { "option_id": 1, "text": "Iron only", "is_correct": false },
+        { "option_id": 2, "text": "Iron, Carbon, Chromium, Nickel", "is_correct": true },
+        { "option_id": 3, "text": "Copper and Zinc", "is_correct": false },
+        { "option_id": 4, "text": "Only Iron and Carbon", "is_correct": false }
+      ],
+      "answer": "Iron, Carbon, Chromium, Nickel"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why copper vessels are cleaned with lemon?",
+      "options": [
+        { "option_id": 1, "text": "To remove rust", "is_correct": false },
+        { "option_id": 2, "text": "To remove copper carbonate", "is_correct": true },
+        { "option_id": 3, "text": "To add shine", "is_correct": false },
+        { "option_id": 4, "text": "To cool metal", "is_correct": false }
+      ],
+      "answer": "To remove copper carbonate"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why sodium is kept in kerosene?",
+      "options": [
+        { "option_id": 1, "text": "To cool it", "is_correct": false },
+        { "option_id": 2, "text": "To prevent reaction with air and water", "is_correct": true },
+        { "option_id": 3, "text": "To make it shiny", "is_correct": false },
+        { "option_id": 4, "text": "To dissolve it", "is_correct": false }
+      ],
+      "answer": "To prevent reaction with air and water"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which metal is used as catalyst?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Platinum", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Platinum"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which metal is used in medicines due to antibacterial property?",
+      "options": [
+        { "option_id": 1, "text": "Gold", "is_correct": false },
+        { "option_id": 2, "text": "Silver", "is_correct": true },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Copper", "is_correct": false }
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which property makes metals useful for bells?",
+      "options": [
+        { "option_id": 1, "text": "Ductility", "is_correct": false },
+        { "option_id": 2, "text": "Sonority", "is_correct": true },
+        { "option_id": 3, "text": "Malleability", "is_correct": false },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ],
+      "answer": "Sonority"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of the following is a nonmetal?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Aluminium", "is_correct": false },
+        { "option_id": 3, "text": "Sulphur", "is_correct": true },
+        { "option_id": 4, "text": "Copper", "is_correct": false }
+      ],
+      "answer": "Sulphur"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which nonmetal forms carbonic acid in water?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which gas does not react with dilute acids?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Carbon dioxide", "is_correct": false }
+      ],
+      "answer": "Nitrogen"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which metal has low density and floats on water?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Sodium", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which property is NOT of metals?",
+      "options": [
+        { "option_id": 1, "text": "Lustre", "is_correct": false },
+        { "option_id": 2, "text": "Brittleness", "is_correct": true },
+        { "option_id": 3, "text": "Ductility", "is_correct": false },
+        { "option_id": 4, "text": "Sonority", "is_correct": false }
+      ],
+      "answer": "Brittleness"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which alloy was used in Iron Pillar of Delhi?",
+      "options": [
+        { "option_id": 1, "text": "Brass", "is_correct": false },
+        { "option_id": 2, "text": "Bronze", "is_correct": false },
+        { "option_id": 3, "text": "Iron with carbon, silicon and phosphorus", "is_correct": true },
+        { "option_id": 4, "text": "Stainless steel", "is_correct": false }
+      ],
+      "answer": "Iron with carbon, silicon and phosphorus"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which metal is best conductor of heat?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Silver", "is_correct": true },
+        { "option_id": 3, "text": "Aluminium", "is_correct": false },
+        { "option_id": 4, "text": "Lead", "is_correct": false }
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which metal is poor conductor of electricity?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Silver", "is_correct": false },
+        { "option_id": 3, "text": "Lead", "is_correct": true },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Lead"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which nonmetal forms sulphuric acid with water?",
+      "options": [
+        { "option_id": 1, "text": "SO2", "is_correct": false },
+        { "option_id": 2, "text": "SO3", "is_correct": true },
+        { "option_id": 3, "text": "CO2", "is_correct": false },
+        { "option_id": 4, "text": "NO2", "is_correct": false }
+      ],
+      "answer": "SO3"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which property helps metals to be used for cooking utensils?",
+      "options": [
+        { "option_id": 1, "text": "Sonority", "is_correct": false },
+        { "option_id": 2, "text": "Conduction of heat", "is_correct": true },
+        { "option_id": 3, "text": "Brittleness", "is_correct": false },
+        { "option_id": 4, "text": "Colour", "is_correct": false }
+      ],
+      "answer": "Conduction of heat"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which is NOT a noble metal?",
+      "options": [
+        { "option_id": 1, "text": "Gold", "is_correct": false },
+        { "option_id": 2, "text": "Platinum", "is_correct": false },
+        { "option_id": 3, "text": "Iron", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which coating prevents rusting of iron?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Zinc", "is_correct": true },
+        { "option_id": 3, "text": "Silver", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Zinc"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which substance is used to make varkha (silver foil)?",
+      "options": [
+        { "option_id": 1, "text": "Aluminium", "is_correct": false },
+        { "option_id": 2, "text": "Silver", "is_correct": true },
+        { "option_id": 3, "text": "Tin", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are metals?",
+      "answer": "Metals are elements that are generally hard, shiny and good conductors of heat and electricity. They can be beaten into sheets and drawn into wires."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are nonmetals?",
+      "answer": "Nonmetals are elements that are usually dull, brittle and poor conductors of heat and electricity. They gain electrons during reactions."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are metalloids?",
+      "answer": "Metalloids are elements showing properties of both metals and nonmetals. Example: silicon and germanium."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is malleability?",
+      "answer": "Malleability is the property of metals by which they can be beaten into thin sheets without breaking."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is ductility?",
+      "answer": "Ductility is the property of metals by which they can be drawn into thin wires. Copper is highly ductile."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is sonority?",
+      "answer": "Sonority is the property by which metals produce ringing sound when struck. Hence metals are used to make bells."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are metals good conductors?",
+      "answer": "Metals have free electrons that can move easily. This allows electric current and heat to pass through them."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why are nonmetals poor conductors?",
+      "answer": "Nonmetals do not have free electrons for easy movement, so they do not conduct electricity well."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why graphite conducts electricity?",
+      "answer": "Graphite has free electrons between its layers which can move easily, allowing current to pass."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why sodium is very reactive?",
+      "answer": "Sodium has only one valence electron which it loses easily to achieve stable configuration."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why noble metals are less reactive?",
+      "answer": "They have stable electronic configuration and do not lose electrons easily, so they do not corrode."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is corrosion?",
+      "answer": "Corrosion is slow destruction of metals by reaction with air, moisture or chemicals, like rusting of iron."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is rust?",
+      "answer": "Rust is reddish-brown coating of hydrated iron oxide formed when iron reacts with oxygen and water."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why rusting is harmful?",
+      "answer": "Rust weakens iron objects and reduces their strength, leading to damage and economic loss."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How can corrosion be prevented?",
+      "answer": "By painting, oiling, galvanization and alloying, we can prevent metal from contacting air and moisture."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is galvanization?",
+      "answer": "It is coating of iron with zinc to protect it from rusting. Zinc forms protective layer."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is alloying?",
+      "answer": "Alloying is mixing metal with another metal or nonmetal to improve properties like strength and corrosion resistance."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why alloys are better than pure metals?",
+      "answer": "Alloys are stronger, harder and more resistant to corrosion than pure metals."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is brass used for?",
+      "answer": "Brass is used in utensils, musical instruments and fittings due to strength and corrosion resistance."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why stainless steel is rust resistant?",
+      "answer": "Chromium in stainless steel forms protective oxide layer preventing corrosion."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why iron pillar of Delhi does not rust?",
+      "answer": "Due to presence of phosphorus and special alloy composition that prevents corrosion."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why copper vessels are tinned?",
+      "answer": "Tin coating prevents formation of poisonous copper salts with acidic food."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why aluminium does not corrode easily?",
+      "answer": "It forms thin oxide layer on surface which protects metal from further reaction."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why sodium is stored in kerosene?",
+      "answer": "To prevent reaction with air and moisture which can cause fire."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why gold is used in jewellery?",
+      "answer": "Gold is shiny, less reactive and does not corrode, making it long lasting."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why iron is used in construction?",
+      "answer": "Iron is strong, cheap and available in large quantity for building structures."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why aluminium is used in aeroplanes?",
+      "answer": "Aluminium is light in weight and strong, reducing total weight of aircraft."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why silver is used in electrical contacts?",
+      "answer": "Silver is the best conductor of electricity and ensures efficient current flow."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why iron rusts faster in coastal areas?",
+      "answer": "High moisture and salt in air increase corrosion rate."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why metals are good reflectors of heat?",
+      "answer": "Free electrons in metals reflect heat energy efficiently."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why nonmetals form acidic oxides?",
+      "answer": "They react with oxygen to form oxides that dissolve in water forming acids."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why metals form basic oxides?",
+      "answer": "Metal oxides react with water to form bases or alkalis."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why carbon dioxide is acidic?",
+      "answer": "It forms carbonic acid when dissolved in water."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why magnesium burns with bright flame?",
+      "answer": "Magnesium reacts rapidly with oxygen releasing lot of energy and bright light."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why iron reacts slowly with water?",
+      "answer": "Iron needs heat and moisture to react, so reaction is slow."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why copper does not react with dilute acids?",
+      "answer": "Copper is less reactive and cannot displace hydrogen from acids."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why metals lose electrons?",
+      "answer": "To achieve stable electronic configuration similar to noble gases."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why nonmetals gain electrons?",
+      "answer": "To complete their valence shell and become stable."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why ionic compounds conduct electricity in solution?",
+      "answer": "Because ions are free to move and carry electric current."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why solid salts do not conduct electricity?",
+      "answer": "Ions are fixed in lattice and cannot move freely."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why metals are shiny?",
+      "answer": "Free electrons reflect light, giving metallic lustre."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why nonmetals are dull?",
+      "answer": "They lack free electrons to reflect light."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why iron is magnetic?",
+      "answer": "Arrangement of electrons allows magnetic domains to form."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why sulphur is brittle?",
+      "answer": "Nonmetallic structure breaks easily under pressure."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why zinc protects iron in galvanization?",
+      "answer": "Zinc reacts first with air and prevents iron from rusting."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why food is stored in aluminium foil?",
+      "answer": "It prevents moisture and air from spoiling food."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why steel is used in bridges?",
+      "answer": "Steel is strong and flexible, making structures durable."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why iron tools are painted?",
+      "answer": "To prevent contact with air and moisture, stopping rust."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why copper wires are coated with plastic?",
+      "answer": "Plastic prevents electric shock and short circuit."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why nonmetals are used in fertilizers?",
+      "answer": "Nitrogen and phosphorus are essential nutrients for plants."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why metals are recycled?",
+      "answer": "To conserve resources and reduce environmental pollution."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why corrosion is economic problem?",
+      "answer": "It damages structures and machines, increasing maintenance cost."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why gold does not rust?",
+      "answer": "It does not react with air or moisture easily."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why alloys are used for coins?",
+      "answer": "They are hard and resist wear and corrosion."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why iron is mixed with carbon to make steel?",
+      "answer": "Carbon increases hardness and strength of iron."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why magnesium is used in fireworks?",
+      "answer": "It burns with bright white light producing dazzling effects."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why zinc is used in batteries?",
+      "answer": "It easily loses electrons and acts as good electrode."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why copper is used in electrical wiring?",
+      "answer": "It is good conductor and flexible for making wires."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why lead is used in radiation shields?",
+      "answer": "High density of lead blocks harmful radiation."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why iron rusts faster when scratched?",
+      "answer": "Protective coating is removed exposing iron to air and moisture."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why metals form positive ions?",
+      "answer": "They lose electrons and become positively charged."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why nonmetals form negative ions?",
+      "answer": "They gain electrons and become negatively charged."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why rusting needs water?",
+      "answer": "Water acts as medium for electrochemical reactions during corrosion."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why aluminium foil is used in packaging?",
+      "answer": "It is light, flexible and prevents air entry."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why metals expand on heating?",
+      "answer": "Particles move faster and occupy more space when heated."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why nonmetals do not show sonority?",
+      "answer": "They are not elastic enough to produce ringing sound."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why silver turns black?",
+      "answer": "It reacts with hydrogen sulphide forming silver sulphide."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why copper turns green?",
+      "answer": "Due to formation of copper carbonate on surface."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why iron is more reactive than copper?",
+      "answer": "Iron loses electrons more easily compared to copper."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why zinc protects iron even when scratched?",
+      "answer": "Zinc reacts first and sacrifices itself, protecting iron."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why metals are used in making machines?",
+      "answer": "They are strong and can withstand heavy load and heat."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why nonmetals are used in medicines?",
+      "answer": "Many nonmetals are essential for body functions."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why silicon is used in electronics?",
+      "answer": "It is semiconductor and controls current flow."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why oxygen supports combustion?",
+      "answer": "It reacts with substances and helps burning process."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why nitrogen is less reactive?",
+      "answer": "Strong triple bond makes nitrogen stable."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why phosphorus is stored in water?",
+      "answer": "To prevent it from catching fire in air."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why sulphur is used in rubber?",
+      "answer": "It increases strength and elasticity during vulcanization."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why metals conduct heat quickly?",
+      "answer": "Free electrons transfer heat energy rapidly."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why nonmetals are not malleable?",
+      "answer": "They break easily when hammered."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why metals are used in making tools?",
+      "answer": "They are hard and durable for heavy work."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why alloys resist corrosion?",
+      "answer": "Different atoms prevent easy oxidation of metal."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why aluminium is used in kitchen?",
+      "answer": "It conducts heat well and is light weight."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why copper is reddish in colour?",
+      "answer": "It reflects red light more than other colours."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why iron is essential for body?",
+      "answer": "It is needed to make haemoglobin for oxygen transport."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why calcium is important mineral?",
+      "answer": "It helps in forming strong bones and teeth."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why zinc is used for galvanizing?",
+      "answer": "It forms protective layer and corrodes first."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why metals are shiny after polishing?",
+      "answer": "Polishing removes oxide layer exposing fresh metal."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why copper is used in cooking vessels?",
+      "answer": "It conducts heat efficiently and cooks food evenly."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why rust spreads quickly once started?",
+      "answer": "Rust is porous and allows moisture to reach metal."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why metals form metallic bonds?",
+      "answer": "Free electrons create strong attraction between metal atoms."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why sodium chloride is ionic compound?",
+      "answer": "Sodium transfers electron to chlorine forming ions."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why iron is magnetic but copper is not?",
+      "answer": "Iron has magnetic domains that align easily."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why metals can be welded?",
+      "answer": "They melt and join easily due to metallic bonding."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why nonmetals form covalent bonds?",
+      "answer": "They share electrons to complete valence shell."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why steel is stronger than iron?",
+      "answer": "Carbon atoms prevent sliding of iron layers."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why metals are sonorous?",
+      "answer": "Elastic nature allows vibration and sound production."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why silver is used in mirrors?",
+      "answer": "It reflects light very efficiently."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why aluminium is corrosion resistant?",
+      "answer": "Oxide layer protects surface from further reaction."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why metals are ductile?",
+      "answer": "Layers of atoms slide without breaking bonds."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Metals and Nonmetals chapter.",
+      "answer": "Metals and nonmetals have different properties and uses. Understanding them helps in selecting materials for daily life and industry."
+    }
+  ]
+}

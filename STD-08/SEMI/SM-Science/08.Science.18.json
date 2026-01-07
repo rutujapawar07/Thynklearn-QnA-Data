@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.18",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Ecosystems"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Living components of an ecosystem are called:",
+      "options": [
+        { "option_id": 1, "text": "Abiotic factors", "is_correct": false },
+        { "option_id": 2, "text": "Biotic factors", "is_correct": true },
+        { "option_id": 3, "text": "Physical factors", "is_correct": false },
+        { "option_id": 4, "text": "Chemical factors", "is_correct": false }
+      ],
+      "answer": "Biotic factors"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Non-living components of an ecosystem are called:",
+      "options": [
+        { "option_id": 1, "text": "Biotic", "is_correct": false },
+        { "option_id": 2, "text": "Abiotic", "is_correct": true },
+        { "option_id": 3, "text": "Organic", "is_correct": false },
+        { "option_id": 4, "text": "Producers", "is_correct": false }
+      ],
+      "answer": "Abiotic"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is an abiotic factor?",
+      "options": [
+        { "option_id": 1, "text": "Grass", "is_correct": false },
+        { "option_id": 2, "text": "Lion", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Algae", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Plants in an ecosystem are called:",
+      "options": [
+        { "option_id": 1, "text": "Consumers", "is_correct": false },
+        { "option_id": 2, "text": "Producers", "is_correct": true },
+        { "option_id": 3, "text": "Decomposers", "is_correct": false },
+        { "option_id": 4, "text": "Scavengers", "is_correct": false }
+      ],
+      "answer": "Producers"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Animals that eat plants are called:",
+      "options": [
+        { "option_id": 1, "text": "Producers", "is_correct": false },
+        { "option_id": 2, "text": "Primary consumers", "is_correct": true },
+        { "option_id": 3, "text": "Secondary consumers", "is_correct": false },
+        { "option_id": 4, "text": "Decomposers", "is_correct": false }
+      ],
+      "answer": "Primary consumers"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Organisms that feed on dead plants and animals are:",
+      "options": [
+        { "option_id": 1, "text": "Producers", "is_correct": false },
+        { "option_id": 2, "text": "Consumers", "is_correct": false },
+        { "option_id": 3, "text": "Decomposers", "is_correct": true },
+        { "option_id": 4, "text": "Predators", "is_correct": false }
+      ],
+      "answer": "Decomposers"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Microorganisms convert organic matter into:",
+      "options": [
+        { "option_id": 1, "text": "Proteins", "is_correct": false },
+        { "option_id": 2, "text": "Inorganic substances", "is_correct": true },
+        { "option_id": 3, "text": "Fats", "is_correct": false },
+        { "option_id": 4, "text": "Sugars", "is_correct": false }
+      ],
+      "answer": "Inorganic substances"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Position and role of an organism in ecosystem is called:",
+      "options": [
+        { "option_id": 1, "text": "Habitat", "is_correct": false },
+        { "option_id": 2, "text": "Niche", "is_correct": true },
+        { "option_id": 3, "text": "Biome", "is_correct": false },
+        { "option_id": 4, "text": "Community", "is_correct": false }
+      ],
+      "answer": "Niche"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Large ecosystem covering vast area with similar climate is called:",
+      "options": [
+        { "option_id": 1, "text": "Habitat", "is_correct": false },
+        { "option_id": 2, "text": "Biome", "is_correct": true },
+        { "option_id": 3, "text": "Community", "is_correct": false },
+        { "option_id": 4, "text": "Population", "is_correct": false }
+      ],
+      "answer": "Biome"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is a land biome?",
+      "options": [
+        { "option_id": 1, "text": "Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Grassland", "is_correct": true },
+        { "option_id": 3, "text": "River", "is_correct": false },
+        { "option_id": 4, "text": "Creek", "is_correct": false }
+      ],
+      "answer": "Grassland"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Grasslands develop where rainfall is:",
+      "options": [
+        { "option_id": 1, "text": "Very high", "is_correct": false },
+        { "option_id": 2, "text": "Not enough for big trees", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Always constant", "is_correct": false }
+      ],
+      "answer": "Not enough for big trees"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal is found in grassland ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Whale", "is_correct": false },
+        { "option_id": 2, "text": "Zebra", "is_correct": true },
+        { "option_id": 3, "text": "Shark", "is_correct": false },
+        { "option_id": 4, "text": "Octopus", "is_correct": false }
+      ],
+      "answer": "Zebra"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Evergreen forest is an example of:",
+      "options": [
+        { "option_id": 1, "text": "Artificial ecosystem", "is_correct": false },
+        { "option_id": 2, "text": "Natural ecosystem", "is_correct": true },
+        { "option_id": 3, "text": "Urban ecosystem", "is_correct": false },
+        { "option_id": 4, "text": "Agricultural ecosystem", "is_correct": false }
+      ],
+      "answer": "Natural ecosystem"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which forest is the only habitat of Asiatic lion?",
+      "options": [
+        { "option_id": 1, "text": "Kaziranga", "is_correct": false },
+        { "option_id": 2, "text": "Sunderban", "is_correct": false },
+        { "option_id": 3, "text": "Geer", "is_correct": true },
+        { "option_id": 4, "text": "Periyar", "is_correct": false }
+      ],
+      "answer": "Geer"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Kaziranga is famous for conservation of:",
+      "options": [
+        { "option_id": 1, "text": "Asiatic lion", "is_correct": false },
+        { "option_id": 2, "text": "Single horned rhino", "is_correct": true },
+        { "option_id": 3, "text": "Red panda", "is_correct": false },
+        { "option_id": 4, "text": "Snow leopard", "is_correct": false }
+      ],
+      "answer": "Single horned rhino"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Sanctuary famous for aquatic birds is:",
+      "options": [
+        { "option_id": 1, "text": "Ranthambore", "is_correct": false },
+        { "option_id": 2, "text": "Bharatpur", "is_correct": true },
+        { "option_id": 3, "text": "Geer", "is_correct": false },
+        { "option_id": 4, "text": "Periyar", "is_correct": false }
+      ],
+      "answer": "Bharatpur"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Largest sanctuary mentioned is:",
+      "options": [
+        { "option_id": 1, "text": "Kaziranga", "is_correct": false },
+        { "option_id": 2, "text": "Great Himalayan National Park", "is_correct": true },
+        { "option_id": 3, "text": "Ranthambore", "is_correct": false },
+        { "option_id": 4, "text": "Geer", "is_correct": false }
+      ],
+      "answer": "Great Himalayan National Park"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Ponds, lakes and rivers belong to:",
+      "options": [
+        { "option_id": 1, "text": "Land ecosystem", "is_correct": false },
+        { "option_id": 2, "text": "Freshwater ecosystem", "is_correct": true },
+        { "option_id": 3, "text": "Marine ecosystem", "is_correct": false },
+        { "option_id": 4, "text": "Desert ecosystem", "is_correct": false }
+      ],
+      "answer": "Freshwater ecosystem"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which are producers in aquatic ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Fishes", "is_correct": false },
+        { "option_id": 2, "text": "Aquatic plants", "is_correct": true },
+        { "option_id": 3, "text": "Frogs", "is_correct": false },
+        { "option_id": 4, "text": "Crocodiles", "is_correct": false }
+      ],
+      "answer": "Aquatic plants"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Bottom of oceans has more number of:",
+      "options": [
+        { "option_id": 1, "text": "Producers", "is_correct": false },
+        { "option_id": 2, "text": "Consumers", "is_correct": false },
+        { "option_id": 3, "text": "Decomposers", "is_correct": true },
+        { "option_id": 4, "text": "Predators", "is_correct": false }
+      ],
+      "answer": "Decomposers"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which activity converts forest into aquatic ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Urbanization", "is_correct": false },
+        { "option_id": 2, "text": "Large dams", "is_correct": true },
+        { "option_id": 3, "text": "Tourism", "is_correct": false },
+        { "option_id": 4, "text": "Traffic", "is_correct": false }
+      ],
+      "answer": "Large dams"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which human activity destroys wetlands and forests for buildings?",
+      "options": [
+        { "option_id": 1, "text": "Mining", "is_correct": false },
+        { "option_id": 2, "text": "Urbanization", "is_correct": true },
+        { "option_id": 3, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 4, "text": "Decomposition", "is_correct": false }
+      ],
+      "answer": "Urbanization"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Industries destroy forests mainly to get:",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Raw materials", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Sunlight", "is_correct": false }
+      ],
+      "answer": "Raw materials"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Tourism affects ecosystem due to:",
+      "options": [
+        { "option_id": 1, "text": "Plant growth", "is_correct": false },
+        { "option_id": 2, "text": "Increased stress and facilities", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Soil formation", "is_correct": false }
+      ],
+      "answer": "Increased stress and facilities"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Wars destroy ecosystems due to:",
+      "options": [
+        { "option_id": 1, "text": "Planting trees", "is_correct": false },
+        { "option_id": 2, "text": "Bombing and explosions", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Animal migration", "is_correct": false }
+      ],
+      "answer": "Bombing and explosions"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which factor mainly increases stress on ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Decreased population", "is_correct": false },
+        { "option_id": 2, "text": "Increased population", "is_correct": true },
+        { "option_id": 3, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 4, "text": "Decomposition", "is_correct": false }
+      ],
+      "answer": "Increased population"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following is a marine ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Sea", "is_correct": true },
+        { "option_id": 3, "text": "Pond", "is_correct": false },
+        { "option_id": 4, "text": "Lake", "is_correct": false }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which plants grow in marine ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Desert cactus", "is_correct": false },
+        { "option_id": 2, "text": "Marine algae", "is_correct": true },
+        { "option_id": 3, "text": "Pine trees", "is_correct": false },
+        { "option_id": 4, "text": "Grass", "is_correct": false }
+      ],
+      "answer": "Marine algae"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which is correct food chain?",
+      "options": [
+        { "option_id": 1, "text": "Lion → Deer → Grass", "is_correct": false },
+        { "option_id": 2, "text": "Grass → Deer → Lion", "is_correct": true },
+        { "option_id": 3, "text": "Deer → Grass → Lion", "is_correct": false },
+        { "option_id": 4, "text": "Lion → Grass → Deer", "is_correct": false }
+      ],
+      "answer": "Grass → Deer → Lion"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who introduced the term 'ecosystem'?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "A.G. Tansley", "is_correct": true },
+        { "option_id": 3, "text": "Einstein", "is_correct": false },
+        { "option_id": 4, "text": "Darwin", "is_correct": false }
+      ],
+      "answer": "A.G. Tansley"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Another name for ecosystem is:",
+      "options": [
+        { "option_id": 1, "text": "Population", "is_correct": false },
+        { "option_id": 2, "text": "Biotic community", "is_correct": true },
+        { "option_id": 3, "text": "Habitat", "is_correct": false },
+        { "option_id": 4, "text": "Species", "is_correct": false }
+      ],
+      "answer": "Biotic community"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which factor affects number of organisms in ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Abiotic factors", "is_correct": true },
+        { "option_id": 2, "text": "Only plants", "is_correct": false },
+        { "option_id": 3, "text": "Only animals", "is_correct": false },
+        { "option_id": 4, "text": "Only microbes", "is_correct": false }
+      ],
+      "answer": "Abiotic factors"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which is a decomposer?",
+      "options": [
+        { "option_id": 1, "text": "Tiger", "is_correct": false },
+        { "option_id": 2, "text": "Fungus", "is_correct": true },
+        { "option_id": 3, "text": "Deer", "is_correct": false },
+        { "option_id": 4, "text": "Grass", "is_correct": false }
+      ],
+      "answer": "Fungus"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Energy enters ecosystem mainly through:",
+      "options": [
+        { "option_id": 1, "text": "Animals", "is_correct": false },
+        { "option_id": 2, "text": "Sunlight", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Soil", "is_correct": false }
+      ],
+      "answer": "Sunlight"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following is a primary consumer?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Deer", "is_correct": true },
+        { "option_id": 3, "text": "Eagle", "is_correct": false },
+        { "option_id": 4, "text": "Snake", "is_correct": false }
+      ],
+      "answer": "Deer"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of the following is tertiary consumer?",
+      "options": [
+        { "option_id": 1, "text": "Grasshopper", "is_correct": false },
+        { "option_id": 2, "text": "Snake", "is_correct": false },
+        { "option_id": 3, "text": "Tiger", "is_correct": true },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which ecosystem is formed due to size, place and climate?",
+      "options": [
+        { "option_id": 1, "text": "Population", "is_correct": false },
+        { "option_id": 2, "text": "Type of ecosystem", "is_correct": true },
+        { "option_id": 3, "text": "Species", "is_correct": false },
+        { "option_id": 4, "text": "Community", "is_correct": false }
+      ],
+      "answer": "Type of ecosystem"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which is not an aquatic ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Pond", "is_correct": false },
+        { "option_id": 2, "text": "River", "is_correct": false },
+        { "option_id": 3, "text": "Desert", "is_correct": true },
+        { "option_id": 4, "text": "Ocean", "is_correct": false }
+      ],
+      "answer": "Desert"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which organism recycles nutrients back to soil and water?",
+      "options": [
+        { "option_id": 1, "text": "Producer", "is_correct": false },
+        { "option_id": 2, "text": "Consumer", "is_correct": false },
+        { "option_id": 3, "text": "Decomposer", "is_correct": true },
+        { "option_id": 4, "text": "Predator", "is_correct": false }
+      ],
+      "answer": "Decomposer"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of the following causes transformation of ecosystems?",
+      "options": [
+        { "option_id": 1, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 2, "text": "Human activities", "is_correct": true },
+        { "option_id": 3, "text": "Breathing", "is_correct": false },
+        { "option_id": 4, "text": "Digestion", "is_correct": false }
+      ],
+      "answer": "Human activities"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which factor decides survival of organisms in ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Abiotic factors", "is_correct": true },
+        { "option_id": 2, "text": "Only predators", "is_correct": false },
+        { "option_id": 3, "text": "Only producers", "is_correct": false },
+        { "option_id": 4, "text": "Only decomposers", "is_correct": false }
+      ],
+      "answer": "Abiotic factors"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which is example of freshwater consumer?",
+      "options": [
+        { "option_id": 1, "text": "Crocodile", "is_correct": false },
+        { "option_id": 2, "text": "Small fish", "is_correct": true },
+        { "option_id": 3, "text": "Algae", "is_correct": false },
+        { "option_id": 4, "text": "Bacteria", "is_correct": false }
+      ],
+      "answer": "Small fish"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which is example of marine consumer?",
+      "options": [
+        { "option_id": 1, "text": "Camel", "is_correct": false },
+        { "option_id": 2, "text": "Shark", "is_correct": true },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Deer", "is_correct": false }
+      ],
+      "answer": "Shark"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which factor recycles minerals in ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Sunlight", "is_correct": false },
+        { "option_id": 2, "text": "Decomposers", "is_correct": true },
+        { "option_id": 3, "text": "Consumers", "is_correct": false },
+        { "option_id": 4, "text": "Producers", "is_correct": false }
+      ],
+      "answer": "Decomposers"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which is example of producer in grassland?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Grass", "is_correct": true },
+        { "option_id": 3, "text": "Snake", "is_correct": false },
+        { "option_id": 4, "text": "Hyena", "is_correct": false }
+      ],
+      "answer": "Grass"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which is example of secondary consumer?",
+      "options": [
+        { "option_id": 1, "text": "Grasshopper", "is_correct": false },
+        { "option_id": 2, "text": "Snake", "is_correct": true },
+        { "option_id": 3, "text": "Grass", "is_correct": false },
+        { "option_id": 4, "text": "Deer", "is_correct": false }
+      ],
+      "answer": "Snake"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which factor provides oxygen in ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Animals", "is_correct": false },
+        { "option_id": 2, "text": "Plants", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Bacteria", "is_correct": false }
+      ],
+      "answer": "Plants"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which is major cause of ecosystem destruction?",
+      "options": [
+        { "option_id": 1, "text": "Rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Human interference", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Sunlight", "is_correct": false }
+      ],
+      "answer": "Human interference"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which factor causes extinction of species?",
+      "options": [
+        { "option_id": 1, "text": "Balanced ecosystem", "is_correct": false },
+        { "option_id": 2, "text": "Destruction of habitat", "is_correct": true },
+        { "option_id": 3, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 4, "text": "Pollination", "is_correct": false }
+      ],
+      "answer": "Destruction of habitat"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why should natural ecosystems be protected?",
+      "options": [
+        { "option_id": 1, "text": "To increase pollution", "is_correct": false },
+        { "option_id": 2, "text": "To maintain balance in biosphere", "is_correct": true },
+        { "option_id": 3, "text": "To stop rainfall", "is_correct": false },
+        { "option_id": 4, "text": "To reduce oxygen", "is_correct": false }
+      ],
+      "answer": "To maintain balance in biosphere"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is an ecosystem?",
+      "answer": "An ecosystem is a system formed by interaction between living (biotic) and non-living (abiotic) factors in an area."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are biotic factors?",
+      "answer": "Biotic factors are the living components of an ecosystem such as plants, animals and microorganisms."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are abiotic factors?",
+      "answer": "Abiotic factors are the non-living components like air, water, soil, sunlight and temperature."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who are called producers?",
+      "answer": "Plants are called producers because they make their own food by photosynthesis."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who are called consumers?",
+      "answer": "Animals that depend on plants or other animals for food are called consumers."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who are decomposers?",
+      "answer": "Microorganisms like bacteria and fungi that break down dead matter into simpler substances are called decomposers."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is meant by niche?",
+      "answer": "Niche is the position and role of an organism in its ecosystem."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How do abiotic factors affect biotic factors?",
+      "answer": "Abiotic factors decide which organisms can survive and how many can live in an ecosystem."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a biome?",
+      "answer": "A biome is a large area with similar climate and types of plants and animals."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name the two main types of biomes.",
+      "answer": "Land biomes and aquatic biomes."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Give two examples of land biomes.",
+      "answer": "Grasslands and evergreen forests."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why do grasslands not have big trees?",
+      "answer": "Because rainfall is not sufficient to support growth of large trees."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name two animals found in grassland ecosystem.",
+      "answer": "Zebra and deer."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is an evergreen forest?",
+      "answer": "It is a natural ecosystem with rich variety of plants, animals and abiotic factors."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which forest is the habitat of Asiatic lion?",
+      "answer": "Geer forest in Gujarat."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why was rhino restored in Dudhwa forest?",
+      "answer": "Because it became extinct there due to excessive hunting."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is aquatic ecosystem?",
+      "answer": "An ecosystem found in water bodies like ponds, rivers, lakes and oceans."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name two freshwater ecosystems.",
+      "answer": "Pond and river."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who are producers in aquatic ecosystem?",
+      "answer": "Aquatic plants and algae are producers in aquatic ecosystem."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Who are decomposers in aquatic ecosystem?",
+      "answer": "Bacteria and fungi act as decomposers in aquatic ecosystem."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is marine ecosystem?",
+      "answer": "An ecosystem found in seas and oceans is called marine ecosystem."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where are decomposers mostly found in oceans?",
+      "answer": "At the bottom of oceans."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is meant by diminishment of ecosystem?",
+      "answer": "It means damage or destruction of ecosystems due to human or natural causes."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How does mining affect ecosystem?",
+      "answer": "It destroys land and affects interactions between biotic and abiotic factors."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How does urbanization damage ecosystems?",
+      "answer": "It destroys forests, wetlands and grasslands for buildings and roads."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does industrialization affect ecosystems?",
+      "answer": "It causes deforestation to obtain raw materials and increases pollution."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does tourism affect ecosystems?",
+      "answer": "It increases stress due to construction of facilities and waste generation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How do large dams change ecosystems?",
+      "answer": "They convert forests and grasslands into aquatic ecosystems."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How does increased population affect ecosystems?",
+      "answer": "It increases use of natural resources and produces more waste."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What happens to ecosystem during wars?",
+      "answer": "Bombing and explosions destroy natural habitats and species."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are ecosystems interconnected?",
+      "answer": "Because changes in one ecosystem can affect nearby ecosystems."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is meant by food chain?",
+      "answer": "It is the sequence of organisms showing who eats whom."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Give an example of food chain.",
+      "answer": "Grass → Deer → Lion."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is food web?",
+      "answer": "It is a network of interconnected food chains in an ecosystem."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why are decomposers important?",
+      "answer": "They recycle nutrients back into the environment."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the main source of energy in ecosystem?",
+      "answer": "Sunlight is the main source of energy."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How do plants obtain abiotic factors?",
+      "answer": "They get water and minerals from soil and carbon dioxide from air."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "From where do consumers get food?",
+      "answer": "From plants or other animals."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is meant by habitat?",
+      "answer": "Habitat is the natural place where an organism lives."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why should ecosystems be conserved?",
+      "answer": "To maintain balance in biosphere and protect biodiversity."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is meant by extinction of species?",
+      "answer": "It means complete disappearance of a species from Earth."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How can we protect ecosystems?",
+      "answer": "By conserving forests, reducing pollution and using resources wisely."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are national parks important?",
+      "answer": "They protect wildlife and natural ecosystems."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Name one sanctuary famous for tigers.",
+      "answer": "Ranthambore sanctuary."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why are wetlands important?",
+      "answer": "They support biodiversity and help in water purification."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is recycling of nutrients?",
+      "answer": "Return of minerals to soil and water by decomposers."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why are bees important in ecosystem?",
+      "answer": "They help in pollination which supports plant reproduction."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What will happen if decomposers disappear?",
+      "answer": "Dead matter will accumulate and nutrients will not be recycled."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How are small ecosystems related to biomes?",
+      "answer": "Many small ecosystems together form a biome."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is balance in ecosystem important?",
+      "answer": "To ensure survival of all organisms and stable environment."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by biotic community?",
+      "answer": "Biotic community is a group of living organisms interacting with each other in an ecosystem."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Who introduced the term ecosystem?",
+      "answer": "The term ecosystem was used by A. G. Tansley in 1935."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are ecosystems said to be dynamic?",
+      "answer": "Because interactions between biotic and abiotic factors keep changing continuously."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is the role of microbes in an ecosystem?",
+      "answer": "Microbes act as decomposers and recycle nutrients back into the ecosystem."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How do producers help consumers?",
+      "answer": "Producers prepare food that provides energy to consumers."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What are primary consumers?",
+      "answer": "Primary consumers are herbivores that feed directly on plants."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What are secondary consumers?",
+      "answer": "Secondary consumers are animals that feed on primary consumers."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What are tertiary consumers?",
+      "answer": "Tertiary consumers are top predators that feed on secondary consumers."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why are decomposers called nature’s recyclers?",
+      "answer": "Because they convert dead organic matter into inorganic nutrients."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is meant by food production in ecosystem?",
+      "answer": "It refers to preparation of food by producers using solar energy."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is sunlight important in an ecosystem?",
+      "answer": "Sunlight is the primary source of energy for photosynthesis."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What happens to energy at each trophic level?",
+      "answer": "Some energy is lost as heat at each trophic level."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is a trophic level?",
+      "answer": "It is a feeding position of an organism in a food chain."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why are grasslands important?",
+      "answer": "They support large populations of grazing animals and maintain biodiversity."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Name one threat to grassland ecosystems.",
+      "answer": "Overgrazing and conversion to farmland are major threats."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why did Asiatic cheetah become extinct in India?",
+      "answer": "Due to excessive hunting and loss of habitat."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why are forests called rich ecosystems?",
+      "answer": "Because they contain great diversity of plants, animals and microbes."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the importance of national parks?",
+      "answer": "They conserve wildlife and protect natural ecosystems."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is Kaziranga important globally?",
+      "answer": "It has two-thirds of the world’s single-horned rhinos."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is freshwater ecosystem?",
+      "answer": "It includes ponds, lakes and rivers containing fresh water."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are decomposers found at the bottom of water bodies?",
+      "answer": "Because dead plants and animals settle at the bottom."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is a creek ecosystem?",
+      "answer": "It is a transitional ecosystem between freshwater and marine ecosystem."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How does marine ecosystem differ from freshwater ecosystem?",
+      "answer": "Marine ecosystem contains salty water while freshwater does not."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are aquatic ecosystems important?",
+      "answer": "They support aquatic life and help regulate Earth’s climate."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is meant by human interference?",
+      "answer": "Activities of humans that disturb natural balance of ecosystems."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does deforestation affect ecosystems?",
+      "answer": "It destroys habitats and disrupts food chains."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why does urbanization reduce biodiversity?",
+      "answer": "Because natural habitats are destroyed for buildings and roads."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does tourism damage ecosystems?",
+      "answer": "By creating waste, pollution and pressure on local resources."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why are large dams harmful to ecosystems?",
+      "answer": "They submerge forests and alter river ecosystems."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is meant by transformation of ecosystem?",
+      "answer": "Change of one type of ecosystem into another."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What causes extinction of species?",
+      "answer": "Habitat loss, hunting and environmental changes."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How do wars affect ecosystems?",
+      "answer": "They destroy habitats through bombing and pollution."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What are natural disasters affecting ecosystems?",
+      "answer": "Earthquakes, floods, droughts and volcanoes."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why should ecosystems be protected?",
+      "answer": "They maintain balance and support life on Earth."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is meant by balance in ecosystem?",
+      "answer": "Stable interaction between biotic and abiotic factors."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What happens if one species disappears?",
+      "answer": "Food chains get disturbed affecting the ecosystem."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why are honey bees important?",
+      "answer": "They help in pollination and food production."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What will happen if bees become extinct?",
+      "answer": "Pollination will reduce and plant reproduction will be affected."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is meant by resource overuse?",
+      "answer": "Using natural resources beyond their capacity to regenerate."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why does population growth stress ecosystems?",
+      "answer": "Because it increases demand for resources and waste generation."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is meant by conservation?",
+      "answer": "Protection and sustainable use of natural resources."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How do protected areas help ecosystems?",
+      "answer": "They conserve habitats and prevent species extinction."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is biosphere?",
+      "answer": "The part of Earth where life exists."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How are ecosystems linked to biosphere?",
+      "answer": "All ecosystems together form the biosphere."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is meant by sustainable development?",
+      "answer": "Using resources without harming future generations."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why should forests be conserved?",
+      "answer": "They support biodiversity and regulate climate."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does pollution affect ecosystems?",
+      "answer": "It harms organisms and disturbs natural balance."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is meant by ecological balance?",
+      "answer": "Balanced relationship between organisms and environment."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is biodiversity important?",
+      "answer": "It increases stability and productivity of ecosystems."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give one way students can help protect ecosystems.",
+      "answer": "By saving resources and avoiding pollution."
+    }
+  ]
+}

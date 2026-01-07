@@ -1,0 +1,1220 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.19",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Life Cycle of Stars"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a galaxy?",
+      "options": [
+        { "option_id": 1, "text": "A group of planets only", "is_correct": false },
+        { "option_id": 2, "text": "A collection of billions of stars and interstellar matter", "is_correct": true },
+        { "option_id": 3, "text": "Only one solar system", "is_correct": false },
+        { "option_id": 4, "text": "A cloud of dust only", "is_correct": false }
+      ],
+      "answer": "A collection of billions of stars and interstellar matter"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Our galaxy is called:",
+      "options": [
+        { "option_id": 1, "text": "Andromeda", "is_correct": false },
+        { "option_id": 2, "text": "Milky Way (Mandakini)", "is_correct": true },
+        { "option_id": 3, "text": "Orion", "is_correct": false },
+        { "option_id": 4, "text": "Sombrero", "is_correct": false }
+      ],
+      "answer": "Milky Way (Mandakini)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which type of galaxy is the Milky Way?",
+      "options": [
+        { "option_id": 1, "text": "Elliptical", "is_correct": false },
+        { "option_id": 2, "text": "Irregular", "is_correct": false },
+        { "option_id": 3, "text": "Spiral", "is_correct": true },
+        { "option_id": 4, "text": "Circular", "is_correct": false }
+      ],
+      "answer": "Spiral"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is the nearest star to Earth?",
+      "options": [
+        { "option_id": 1, "text": "Alpha Centauri", "is_correct": false },
+        { "option_id": 2, "text": "Sun", "is_correct": true },
+        { "option_id": 3, "text": "Sirius", "is_correct": false },
+        { "option_id": 4, "text": "Polaris", "is_correct": false }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Stars are made up of:",
+      "options": [
+        { "option_id": 1, "text": "Solid rocks", "is_correct": false },
+        { "option_id": 2, "text": "Hot gases", "is_correct": true },
+        { "option_id": 3, "text": "Liquid metals", "is_correct": false },
+        { "option_id": 4, "text": "Ice", "is_correct": false }
+      ],
+      "answer": "Hot gases"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Main fuel of the Sun is:",
+      "options": [
+        { "option_id": 1, "text": "Helium", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Energy in stars is produced due to:",
+      "options": [
+        { "option_id": 1, "text": "Burning of coal", "is_correct": false },
+        { "option_id": 2, "text": "Nuclear fusion", "is_correct": true },
+        { "option_id": 3, "text": "Chemical reactions", "is_correct": false },
+        { "option_id": 4, "text": "Electric discharge", "is_correct": false }
+      ],
+      "answer": "Nuclear fusion"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What are interstellar clouds made of?",
+      "options": [
+        { "option_id": 1, "text": "Only rocks", "is_correct": false },
+        { "option_id": 2, "text": "Gas and dust", "is_correct": true },
+        { "option_id": 3, "text": "Only water", "is_correct": false },
+        { "option_id": 4, "text": "Only metals", "is_correct": false }
+      ],
+      "answer": "Gas and dust"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Stars are born from:",
+      "options": [
+        { "option_id": 1, "text": "Planets", "is_correct": false },
+        { "option_id": 2, "text": "Interstellar clouds", "is_correct": true },
+        { "option_id": 3, "text": "Comets", "is_correct": false },
+        { "option_id": 4, "text": "Asteroids", "is_correct": false }
+      ],
+      "answer": "Interstellar clouds"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "A light year is a unit of:",
+      "options": [
+        { "option_id": 1, "text": "Time", "is_correct": false },
+        { "option_id": 2, "text": "Distance", "is_correct": true },
+        { "option_id": 3, "text": "Speed", "is_correct": false },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Distance"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which force keeps stars stable?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 2, "text": "Balance of gravity and gas pressure", "is_correct": true },
+        { "option_id": 3, "text": "Electric force", "is_correct": false },
+        { "option_id": 4, "text": "Friction", "is_correct": false }
+      ],
+      "answer": "Balance of gravity and gas pressure"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When fuel in a star decreases, the star:",
+      "options": [
+        { "option_id": 1, "text": "Stops shining immediately", "is_correct": false },
+        { "option_id": 2, "text": "Starts evolving", "is_correct": true },
+        { "option_id": 3, "text": "Becomes a planet", "is_correct": false },
+        { "option_id": 4, "text": "Turns into comet", "is_correct": false }
+      ],
+      "answer": "Starts evolving"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Sun will become a red giant after about:",
+      "options": [
+        { "option_id": 1, "text": "1 million years", "is_correct": false },
+        { "option_id": 2, "text": "4–5 billion years", "is_correct": true },
+        { "option_id": 3, "text": "100 years", "is_correct": false },
+        { "option_id": 4, "text": "50 million years", "is_correct": false }
+      ],
+      "answer": "4–5 billion years"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which stage comes after red giant for low mass stars?",
+      "options": [
+        { "option_id": 1, "text": "Neutron star", "is_correct": false },
+        { "option_id": 2, "text": "White dwarf", "is_correct": true },
+        { "option_id": 3, "text": "Black hole", "is_correct": false },
+        { "option_id": 4, "text": "Supernova", "is_correct": false }
+      ],
+      "answer": "White dwarf"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "White dwarf has size similar to:",
+      "options": [
+        { "option_id": 1, "text": "Sun", "is_correct": false },
+        { "option_id": 2, "text": "Earth", "is_correct": true },
+        { "option_id": 3, "text": "Moon", "is_correct": false },
+        { "option_id": 4, "text": "Jupiter", "is_correct": false }
+      ],
+      "answer": "Earth"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Stars with mass between 8–25 times Sun end as:",
+      "options": [
+        { "option_id": 1, "text": "White dwarf", "is_correct": false },
+        { "option_id": 2, "text": "Neutron star", "is_correct": true },
+        { "option_id": 3, "text": "Planet", "is_correct": false },
+        { "option_id": 4, "text": "Comet", "is_correct": false }
+      ],
+      "answer": "Neutron star"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Explosion of massive star is called:",
+      "options": [
+        { "option_id": 1, "text": "Meteor", "is_correct": false },
+        { "option_id": 2, "text": "Supernova", "is_correct": true },
+        { "option_id": 3, "text": "Solar flare", "is_correct": false },
+        { "option_id": 4, "text": "Nebula", "is_correct": false }
+      ],
+      "answer": "Supernova"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Neutron stars are made mainly of:",
+      "options": [
+        { "option_id": 1, "text": "Protons", "is_correct": false },
+        { "option_id": 2, "text": "Neutrons", "is_correct": true },
+        { "option_id": 3, "text": "Electrons", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Neutrons"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Stars with mass more than 25 times Sun become:",
+      "options": [
+        { "option_id": 1, "text": "White dwarf", "is_correct": false },
+        { "option_id": 2, "text": "Neutron star", "is_correct": false },
+        { "option_id": 3, "text": "Black hole", "is_correct": true },
+        { "option_id": 4, "text": "Planet", "is_correct": false }
+      ],
+      "answer": "Black hole"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In black hole, even light cannot:",
+      "options": [
+        { "option_id": 1, "text": "Enter", "is_correct": false },
+        { "option_id": 2, "text": "Escape", "is_correct": true },
+        { "option_id": 3, "text": "Form", "is_correct": false },
+        { "option_id": 4, "text": "Reflect", "is_correct": false }
+      ],
+      "answer": "Escape"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Mass of stars is measured in units of:",
+      "options": [
+        { "option_id": 1, "text": "Earth mass", "is_correct": false },
+        { "option_id": 2, "text": "Sun’s mass", "is_correct": true },
+        { "option_id": 3, "text": "Moon mass", "is_correct": false },
+        { "option_id": 4, "text": "Kilogram", "is_correct": false }
+      ],
+      "answer": "Sun’s mass"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Alpha Centauri is:",
+      "options": [
+        { "option_id": 1, "text": "Nearest planet", "is_correct": false },
+        { "option_id": 2, "text": "Nearest star to Sun", "is_correct": true },
+        { "option_id": 3, "text": "A galaxy", "is_correct": false },
+        { "option_id": 4, "text": "A comet", "is_correct": false }
+      ],
+      "answer": "Nearest star to Sun"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Red giant stars look red because:",
+      "options": [
+        { "option_id": 1, "text": "They are very hot", "is_correct": false },
+        { "option_id": 2, "text": "They have lower temperature", "is_correct": true },
+        { "option_id": 3, "text": "They reflect red light", "is_correct": false },
+        { "option_id": 4, "text": "They are made of iron", "is_correct": false }
+      ],
+      "answer": "They have lower temperature"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which fuel burns after hydrogen in stars?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Helium", "is_correct": true },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Life cycle of star depends mainly on:",
+      "options": [
+        { "option_id": 1, "text": "Colour", "is_correct": false },
+        { "option_id": 2, "text": "Initial mass", "is_correct": true },
+        { "option_id": 3, "text": "Distance from Earth", "is_correct": false },
+        { "option_id": 4, "text": "Number of planets", "is_correct": false }
+      ],
+      "answer": "Initial mass"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which force pulls gas inward in stars?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic", "is_correct": false },
+        { "option_id": 2, "text": "Gravitational", "is_correct": true },
+        { "option_id": 3, "text": "Electric", "is_correct": false },
+        { "option_id": 4, "text": "Frictional", "is_correct": false }
+      ],
+      "answer": "Gravitational"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which pressure pushes gas outward in stars?",
+      "options": [
+        { "option_id": 1, "text": "Atmospheric pressure", "is_correct": false },
+        { "option_id": 2, "text": "Gas pressure", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic pressure", "is_correct": false },
+        { "option_id": 4, "text": "Water pressure", "is_correct": false }
+      ],
+      "answer": "Gas pressure"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Sun’s age is about:",
+      "options": [
+        { "option_id": 1, "text": "4.5 billion years", "is_correct": true },
+        { "option_id": 2, "text": "100 million years", "is_correct": false },
+        { "option_id": 3, "text": "1000 years", "is_correct": false },
+        { "option_id": 4, "text": "1 million years", "is_correct": false }
+      ],
+      "answer": "4.5 billion years"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Cluster of stars forms from:",
+      "options": [
+        { "option_id": 1, "text": "Single interstellar cloud", "is_correct": true },
+        { "option_id": 2, "text": "Planets", "is_correct": false },
+        { "option_id": 3, "text": "Comets", "is_correct": false },
+        { "option_id": 4, "text": "Asteroids", "is_correct": false }
+      ],
+      "answer": "Single interstellar cloud"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an end stage of star?",
+      "options": [
+        { "option_id": 1, "text": "White dwarf", "is_correct": false },
+        { "option_id": 2, "text": "Neutron star", "is_correct": false },
+        { "option_id": 3, "text": "Black hole", "is_correct": false },
+        { "option_id": 4, "text": "Planet", "is_correct": true }
+      ],
+      "answer": "Planet"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Gas pressure in stars depends on:",
+      "options": [
+        { "option_id": 1, "text": "Only temperature", "is_correct": false },
+        { "option_id": 2, "text": "Density and temperature", "is_correct": true },
+        { "option_id": 3, "text": "Only density", "is_correct": false },
+        { "option_id": 4, "text": "Mass only", "is_correct": false }
+      ],
+      "answer": "Density and temperature"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Sun is called ordinary star because:",
+      "options": [
+        { "option_id": 1, "text": "It is small", "is_correct": false },
+        { "option_id": 2, "text": "Many stars have similar or greater mass", "is_correct": true },
+        { "option_id": 3, "text": "It is cold", "is_correct": false },
+        { "option_id": 4, "text": "It does not shine", "is_correct": false }
+      ],
+      "answer": "Many stars have similar or greater mass"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which element forms 72% of Sun’s mass?",
+      "options": [
+        { "option_id": 1, "text": "Helium", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Rotation period of Milky Way is about:",
+      "options": [
+        { "option_id": 1, "text": "2 × 10⁸ years", "is_correct": true },
+        { "option_id": 2, "text": "100 years", "is_correct": false },
+        { "option_id": 3, "text": "1 year", "is_correct": false },
+        { "option_id": 4, "text": "10 years", "is_correct": false }
+      ],
+      "answer": "2 × 10⁸ years"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Stars evolve because of:",
+      "options": [
+        { "option_id": 1, "text": "Change in gravity", "is_correct": false },
+        { "option_id": 2, "text": "Burning of fuel", "is_correct": true },
+        { "option_id": 3, "text": "Movement in space", "is_correct": false },
+        { "option_id": 4, "text": "Rotation", "is_correct": false }
+      ],
+      "answer": "Burning of fuel"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "After hydrogen, next fuel in Sun will be:",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Helium", "is_correct": true },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which star has highest density?",
+      "options": [
+        { "option_id": 1, "text": "Red giant", "is_correct": false },
+        { "option_id": 2, "text": "White dwarf", "is_correct": false },
+        { "option_id": 3, "text": "Neutron star", "is_correct": true },
+        { "option_id": 4, "text": "Sun", "is_correct": false }
+      ],
+      "answer": "Neutron star"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which stage comes before supernova?",
+      "options": [
+        { "option_id": 1, "text": "White dwarf", "is_correct": false },
+        { "option_id": 2, "text": "Supergiant", "is_correct": true },
+        { "option_id": 3, "text": "Red giant", "is_correct": false },
+        { "option_id": 4, "text": "Planetary stage", "is_correct": false }
+      ],
+      "answer": "Supergiant"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which stars evolve faster?",
+      "options": [
+        { "option_id": 1, "text": "Low mass stars", "is_correct": false },
+        { "option_id": 2, "text": "High mass stars", "is_correct": true },
+        { "option_id": 3, "text": "All stars same", "is_correct": false },
+        { "option_id": 4, "text": "Small stars", "is_correct": false }
+      ],
+      "answer": "High mass stars"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which is correct order for low mass stars?",
+      "options": [
+        { "option_id": 1, "text": "Red giant → White dwarf", "is_correct": true },
+        { "option_id": 2, "text": "Supernova → Black hole", "is_correct": false },
+        { "option_id": 3, "text": "Red giant → Neutron star", "is_correct": false },
+        { "option_id": 4, "text": "Planet → Star", "is_correct": false }
+      ],
+      "answer": "Red giant → White dwarf"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which pressure balances gravity in white dwarf?",
+      "options": [
+        { "option_id": 1, "text": "Gas pressure", "is_correct": false },
+        { "option_id": 2, "text": "Electron pressure", "is_correct": true },
+        { "option_id": 3, "text": "Neutron pressure", "is_correct": false },
+        { "option_id": 4, "text": "Atmospheric pressure", "is_correct": false }
+      ],
+      "answer": "Electron pressure"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which pressure balances gravity in neutron stars?",
+      "options": [
+        { "option_id": 1, "text": "Gas pressure", "is_correct": false },
+        { "option_id": 2, "text": "Electron pressure", "is_correct": false },
+        { "option_id": 3, "text": "Neutron pressure", "is_correct": true },
+        { "option_id": 4, "text": "Radiation pressure", "is_correct": false }
+      ],
+      "answer": "Neutron pressure"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which stage is final for Sun?",
+      "options": [
+        { "option_id": 1, "text": "Black hole", "is_correct": false },
+        { "option_id": 2, "text": "Neutron star", "is_correct": false },
+        { "option_id": 3, "text": "White dwarf", "is_correct": true },
+        { "option_id": 4, "text": "Supergiant", "is_correct": false }
+      ],
+      "answer": "White dwarf"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which star explosion was seen in year 1054?",
+      "options": [
+        { "option_id": 1, "text": "Solar flare", "is_correct": false },
+        { "option_id": 2, "text": "Supernova", "is_correct": true },
+        { "option_id": 3, "text": "Comet", "is_correct": false },
+        { "option_id": 4, "text": "Asteroid impact", "is_correct": false }
+      ],
+      "answer": "Supernova"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which stars become black holes?",
+      "options": [
+        { "option_id": 1, "text": "Low mass stars", "is_correct": false },
+        { "option_id": 2, "text": "Very high mass stars", "is_correct": true },
+        { "option_id": 3, "text": "Medium mass stars", "is_correct": false },
+        { "option_id": 4, "text": "Small stars", "is_correct": false }
+      ],
+      "answer": "Very high mass stars"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What happens to outer layer of star in supernova?",
+      "options": [
+        { "option_id": 1, "text": "It freezes", "is_correct": false },
+        { "option_id": 2, "text": "It is thrown out", "is_correct": true },
+        { "option_id": 3, "text": "It becomes planet", "is_correct": false },
+        { "option_id": 4, "text": "It becomes comet", "is_correct": false }
+      ],
+      "answer": "It is thrown out"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which statement is true?",
+      "options": [
+        { "option_id": 1, "text": "All stars become black holes", "is_correct": false },
+        { "option_id": 2, "text": "End stage depends on initial mass", "is_correct": true },
+        { "option_id": 3, "text": "Sun will become neutron star", "is_correct": false },
+        { "option_id": 4, "text": "Stars never change", "is_correct": false }
+      ],
+      "answer": "End stage depends on initial mass"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which stage shows largest size of star?",
+      "options": [
+        { "option_id": 1, "text": "White dwarf", "is_correct": false },
+        { "option_id": 2, "text": "Supergiant", "is_correct": true },
+        { "option_id": 3, "text": "Neutron star", "is_correct": false },
+        { "option_id": 4, "text": "Black hole", "is_correct": false }
+      ],
+      "answer": "Supergiant"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which element is produced from hydrogen fusion?",
+      "options": [
+        { "option_id": 1, "text": "Carbon", "is_correct": false },
+        { "option_id": 2, "text": "Helium", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which object has strongest gravity?",
+      "options": [
+        { "option_id": 1, "text": "White dwarf", "is_correct": false },
+        { "option_id": 2, "text": "Neutron star", "is_correct": false },
+        { "option_id": 3, "text": "Black hole", "is_correct": true },
+        { "option_id": 4, "text": "Red giant", "is_correct": false }
+      ],
+      "answer": "Black hole"
+    },
+        {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a star?",
+      "answer": "A star is a huge ball of hot glowing gases that produces its own light and heat."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a galaxy?",
+      "answer": "A galaxy is a large group of billions of stars, gas and dust held together by gravity."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name our galaxy.",
+      "answer": "Our galaxy is called the Milky Way or Mandakini."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What type of galaxy is the Milky Way?",
+      "answer": "It is a spiral galaxy."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which is the nearest star to Earth?",
+      "answer": "The Sun is the nearest star to Earth."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the main fuel of the Sun?",
+      "answer": "Hydrogen is the main fuel of the Sun."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How is energy produced in stars?",
+      "answer": "Energy is produced by nuclear fusion of hydrogen into helium."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are interstellar clouds?",
+      "answer": "They are clouds of gas and dust found between stars."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "From what are stars formed?",
+      "answer": "Stars are formed from interstellar clouds of gas and dust."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is meant by stability of a star?",
+      "answer": "Stability is the balance between gravity and outward gas pressure in a star."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which force pulls material inward in a star?",
+      "answer": "Gravitational force pulls material inward."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which pressure pushes material outward in a star?",
+      "answer": "Gas pressure produced by nuclear reactions pushes outward."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens when hydrogen fuel starts decreasing in a star?",
+      "answer": "The star starts evolving into later stages."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a red giant?",
+      "answer": "A red giant is a star that has expanded and cooled after using most of its hydrogen fuel."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why does a red giant look red?",
+      "answer": "Because its surface temperature becomes lower."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What happens after red giant stage for low-mass stars?",
+      "answer": "They shrink and form white dwarf stars."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is a white dwarf?",
+      "answer": "A white dwarf is a small, very dense and hot leftover core of a star."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the size of a white dwarf compared to Earth?",
+      "answer": "It is roughly the size of Earth."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What happens to white dwarf after long time?",
+      "answer": "It cools down and becomes dark."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is a supernova?",
+      "answer": "A supernova is a powerful explosion of a massive star."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "When does supernova occur?",
+      "answer": "When the core of a massive star collapses after fuel is exhausted."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What remains after a supernova?",
+      "answer": "Neutron star or black hole may remain."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a neutron star?",
+      "answer": "A very dense star made mainly of neutrons formed after supernova."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How dense is a neutron star?",
+      "answer": "It is extremely dense; a small amount weighs millions of tons."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is a black hole?",
+      "answer": "A region in space with extremely strong gravity where even light cannot escape."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How is a black hole formed?",
+      "answer": "When the core of a very massive star collapses completely after supernova."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why cannot light escape from black hole?",
+      "answer": "Because gravitational pull is extremely strong."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is light year?",
+      "answer": "Distance travelled by light in one year."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why is light year used in astronomy?",
+      "answer": "Because distances in space are very large."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is Alpha Centauri?",
+      "answer": "The nearest star system to the Sun."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "On what does life cycle of star depend?",
+      "answer": "It depends mainly on the initial mass of the star."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which stars live longer, massive or small?",
+      "answer": "Small mass stars live longer."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why do massive stars die faster?",
+      "answer": "Because they burn fuel at a faster rate."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is a star cluster?",
+      "answer": "A group of stars formed from the same interstellar cloud."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why do stars shine?",
+      "answer": "Due to continuous nuclear fusion in their core."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is fusion?",
+      "answer": "Joining of small nuclei to form a larger nucleus with energy release."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which element forms most of Sun’s mass?",
+      "answer": "Hydrogen."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What happens after helium burning in massive stars?",
+      "answer": "Heavier elements are formed until iron."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why fusion stops after iron formation?",
+      "answer": "Because fusion of iron does not release energy."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is supergiant?",
+      "answer": "A very large and bright star formed from massive stars."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which stars become supergiants?",
+      "answer": "High mass stars."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What pressure supports white dwarf against gravity?",
+      "answer": "Electron pressure."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What pressure supports neutron stars?",
+      "answer": "Neutron pressure."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is core of a star?",
+      "answer": "The central region where nuclear fusion takes place."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is temperature of Sun’s core?",
+      "answer": "About 15 million degree Celsius."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is surface temperature of Sun?",
+      "answer": "About 6000 degree Celsius."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why stars twinkle?",
+      "answer": "Due to atmospheric refraction of light."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why planets do not twinkle?",
+      "answer": "Because they are closer and appear as disks."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is brightness of star?",
+      "answer": "Amount of light received from star."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is apparent brightness?",
+      "answer": "Brightness as seen from Earth."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is absolute brightness?",
+      "answer": "Actual brightness of a star at fixed distance."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why do some stars look brighter?",
+      "answer": "Because they are closer or more luminous."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is luminosity?",
+      "answer": "Total energy emitted by a star per second."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which stars are called ordinary stars?",
+      "answer": "Stars like the Sun with average mass and size."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is nebula?",
+      "answer": "Another name for interstellar cloud of gas and dust."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why nebula is important?",
+      "answer": "Because new stars are born from nebula."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is protostar?",
+      "answer": "Early stage of star formation before fusion begins."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "When does a protostar become a star?",
+      "answer": "When nuclear fusion starts in its core."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why does star expand into red giant?",
+      "answer": "Due to increased fusion and outward pressure."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why do stars eventually die?",
+      "answer": "Because their nuclear fuel gets exhausted."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What happens to outer layers in supernova?",
+      "answer": "They are thrown into space."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What elements are spread by supernova?",
+      "answer": "Heavy elements like iron and gold."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why supernova is important for universe?",
+      "answer": "It spreads heavy elements needed for planet formation."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is stellar evolution?",
+      "answer": "Changes in star from birth to death."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is mass of Sun compared to Earth?",
+      "answer": "Sun is about 3,30,000 times heavier than Earth."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why Sun is not a giant star?",
+      "answer": "Because its mass is moderate."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What will Sun become in future?",
+      "answer": "Red giant and finally white dwarf."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "After how many years Sun will become red giant?",
+      "answer": "After about 4–5 billion years."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Will Earth survive Sun’s red giant stage?",
+      "answer": "Earth may be destroyed or severely affected."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is gravitational collapse?",
+      "answer": "Collapse of star due to strong gravity when pressure fails."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Which stars produce neutron stars?",
+      "answer": "Stars with mass about 8–25 times that of Sun."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which stars form black holes?",
+      "answer": "Stars with mass more than about 25 times Sun."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is escape velocity?",
+      "answer": "Minimum speed needed to escape gravity of object."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why escape velocity is highest for black hole?",
+      "answer": "Because gravity is extremely strong."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is event horizon?",
+      "answer": "Boundary of black hole beyond which nothing can escape."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Can black holes be seen directly?",
+      "answer": "No, they are detected by their effects on nearby objects."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What happens near black hole?",
+      "answer": "Matter is pulled in and heated strongly."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is cosmic dust?",
+      "answer": "Tiny solid particles present in space."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why universe has many elements?",
+      "answer": "Because stars and supernova create and spread them."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is astrophysics?",
+      "answer": "Study of physical properties of stars and space."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is Sun important for life?",
+      "answer": "It provides heat and light energy."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is solar system?",
+      "answer": "Sun and all objects orbiting around it."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why planets do not produce energy like stars?",
+      "answer": "Because they do not have nuclear fusion."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is gravitational binding?",
+      "answer": "Holding objects together by gravity."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why galaxies rotate?",
+      "answer": "Due to gravitational interaction among stars."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is age of Milky Way?",
+      "answer": "About 13 billion years."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is cosmic radiation?",
+      "answer": "High energy radiation coming from space."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why study stars?",
+      "answer": "To understand origin and future of universe."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is stellar mass unit?",
+      "answer": "Mass of the Sun is used as unit."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why do astronomers use telescopes?",
+      "answer": "To observe distant stars and galaxies."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is space vacuum?",
+      "answer": "Region with very little matter."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Can sound travel in space?",
+      "answer": "No, because there is no medium."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is cosmic cycle?",
+      "answer": "Continuous formation and destruction of stars."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What happens to elements after star dies?",
+      "answer": "They become part of new stars and planets."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is Sun called medium mass star?",
+      "answer": "Because its mass is neither very small nor very large."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is cosmic dust role in star formation?",
+      "answer": "It helps gas to cool and collapse."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why star formation is slow process?",
+      "answer": "Because gravitational collapse takes long time."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is stellar remnant?",
+      "answer": "Leftover core after star’s death."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why universe keeps evolving?",
+      "answer": "Because stars continuously form and die."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why study life cycle of stars in school?",
+      "answer": "To understand origin of elements and universe."
+    }
+
+  ]
+}

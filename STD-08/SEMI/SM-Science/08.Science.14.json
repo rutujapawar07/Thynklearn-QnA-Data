@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.14",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Measurement and Effects of Heat"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Heat is a form of energy that flows from:",
+      "options": [
+        { "option_id": 1, "text": "Cold object to hot object", "is_correct": false },
+        { "option_id": 2, "text": "Hot object to cold object", "is_correct": true },
+        { "option_id": 3, "text": "Solid to liquid", "is_correct": false },
+        { "option_id": 4, "text": "Gas to solid", "is_correct": false }
+      ],
+      "answer": "Hot object to cold object"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is the SI unit of heat?",
+      "options": [
+        { "option_id": 1, "text": "Calorie", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": true },
+        { "option_id": 3, "text": "Kelvin", "is_correct": false },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "One calorie is equal to:",
+      "options": [
+        { "option_id": 1, "text": "2.18 J", "is_correct": false },
+        { "option_id": 2, "text": "4.18 J", "is_correct": true },
+        { "option_id": 3, "text": "1 J", "is_correct": false },
+        { "option_id": 4, "text": "10 J", "is_correct": false }
+      ],
+      "answer": "4.18 J"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The biggest source of heat for the earth is:",
+      "options": [
+        { "option_id": 1, "text": "Fire", "is_correct": false },
+        { "option_id": 2, "text": "Sun", "is_correct": true },
+        { "option_id": 3, "text": "Electricity", "is_correct": false },
+        { "option_id": 4, "text": "Earth", "is_correct": false }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Heat produced inside the earth is called:",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Geothermal energy", "is_correct": true },
+        { "option_id": 3, "text": "Electrical energy", "is_correct": false },
+        { "option_id": 4, "text": "Chemical energy", "is_correct": false }
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which energy is converted into heat in electric heater?",
+      "options": [
+        { "option_id": 1, "text": "Chemical", "is_correct": false },
+        { "option_id": 2, "text": "Electrical", "is_correct": true },
+        { "option_id": 3, "text": "Solar", "is_correct": false },
+        { "option_id": 4, "text": "Mechanical", "is_correct": false }
+      ],
+      "answer": "Electrical"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Atomic energy is produced by:",
+      "options": [
+        { "option_id": 1, "text": "Fusion only", "is_correct": false },
+        { "option_id": 2, "text": "Fission of nuclei", "is_correct": true },
+        { "option_id": 3, "text": "Burning of fuel", "is_correct": false },
+        { "option_id": 4, "text": "Electric current", "is_correct": false }
+      ],
+      "answer": "Fission of nuclei"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Temperature tells us how:",
+      "options": [
+        { "option_id": 1, "text": "Heavy an object is", "is_correct": false },
+        { "option_id": 2, "text": "Hot or cold an object is", "is_correct": true },
+        { "option_id": 3, "text": "Big an object is", "is_correct": false },
+        { "option_id": 4, "text": "Fast an object moves", "is_correct": false }
+      ],
+      "answer": "Hot or cold an object is"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which device is used to measure temperature?",
+      "options": [
+        { "option_id": 1, "text": "Barometer", "is_correct": false },
+        { "option_id": 2, "text": "Thermometer", "is_correct": true },
+        { "option_id": 3, "text": "Calorimeter", "is_correct": false },
+        { "option_id": 4, "text": "Ammeter", "is_correct": false }
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Body temperature of healthy human is about:",
+      "options": [
+        { "option_id": 1, "text": "35°C", "is_correct": false },
+        { "option_id": 2, "text": "37°C", "is_correct": true },
+        { "option_id": 3, "text": "40°C", "is_correct": false },
+        { "option_id": 4, "text": "42°C", "is_correct": false }
+      ],
+      "answer": "37°C"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Clinical thermometer measures temperature in range:",
+      "options": [
+        { "option_id": 1, "text": "0–100°C", "is_correct": false },
+        { "option_id": 2, "text": "35–42°C", "is_correct": true },
+        { "option_id": 3, "text": "10–50°C", "is_correct": false },
+        { "option_id": 4, "text": "-10–110°C", "is_correct": false }
+      ],
+      "answer": "35–42°C"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Laboratory thermometer can measure up to:",
+      "options": [
+        { "option_id": 1, "text": "50°C", "is_correct": false },
+        { "option_id": 2, "text": "100°C", "is_correct": false },
+        { "option_id": 3, "text": "110°C or more", "is_correct": true },
+        { "option_id": 4, "text": "42°C", "is_correct": false }
+      ],
+      "answer": "110°C or more"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Digital thermometer works using:",
+      "options": [
+        { "option_id": 1, "text": "Expansion of liquid", "is_correct": false },
+        { "option_id": 2, "text": "Heat sensor", "is_correct": true },
+        { "option_id": 3, "text": "Mercury", "is_correct": false },
+        { "option_id": 4, "text": "Air pressure", "is_correct": false }
+      ],
+      "answer": "Heat sensor"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Temperature is related to:",
+      "options": [
+        { "option_id": 1, "text": "Total kinetic energy", "is_correct": false },
+        { "option_id": 2, "text": "Average kinetic energy", "is_correct": true },
+        { "option_id": 3, "text": "Potential energy", "is_correct": false },
+        { "option_id": 4, "text": "Mass of atoms", "is_correct": false }
+      ],
+      "answer": "Average kinetic energy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Heat content depends on:",
+      "options": [
+        { "option_id": 1, "text": "Only temperature", "is_correct": false },
+        { "option_id": 2, "text": "Mass and temperature", "is_correct": true },
+        { "option_id": 3, "text": "Only mass", "is_correct": false },
+        { "option_id": 4, "text": "Volume only", "is_correct": false }
+      ],
+      "answer": "Mass and temperature"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Unit of temperature in scientific experiments is:",
+      "options": [
+        { "option_id": 1, "text": "Celsius", "is_correct": false },
+        { "option_id": 2, "text": "Fahrenheit", "is_correct": false },
+        { "option_id": 3, "text": "Kelvin", "is_correct": true },
+        { "option_id": 4, "text": "Calorie", "is_correct": false }
+      ],
+      "answer": "Kelvin"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Freezing point of water in Kelvin is:",
+      "options": [
+        { "option_id": 1, "text": "273 K", "is_correct": true },
+        { "option_id": 2, "text": "100 K", "is_correct": false },
+        { "option_id": 3, "text": "212 K", "is_correct": false },
+        { "option_id": 4, "text": "296 K", "is_correct": false }
+      ],
+      "answer": "273 K"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "At what temperature are Celsius and Fahrenheit equal?",
+      "options": [
+        { "option_id": 1, "text": "0°C", "is_correct": false },
+        { "option_id": 2, "text": "-40°C", "is_correct": true },
+        { "option_id": 3, "text": "100°C", "is_correct": false },
+        { "option_id": 4, "text": "32°C", "is_correct": false }
+      ],
+      "answer": "-40°C"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Specific heat is heat required to raise temperature of:",
+      "options": [
+        { "option_id": 1, "text": "Any mass by 1°C", "is_correct": false },
+        { "option_id": 2, "text": "Unit mass by 1°C", "is_correct": true },
+        { "option_id": 3, "text": "1 kg by 10°C", "is_correct": false },
+        { "option_id": 4, "text": "Any object by 1°C", "is_correct": false }
+      ],
+      "answer": "Unit mass by 1°C"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Substance with highest specific heat is:",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Gold", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Instrument used to measure heat is:",
+      "options": [
+        { "option_id": 1, "text": "Thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Calorimeter", "is_correct": true },
+        { "option_id": 3, "text": "Barometer", "is_correct": false },
+        { "option_id": 4, "text": "Voltmeter", "is_correct": false }
+      ],
+      "answer": "Calorimeter"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Inner vessel of calorimeter is made of:",
+      "options": [
+        { "option_id": 1, "text": "Glass", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": true },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Plastic", "is_correct": false }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Calorimeter is thermally isolated to:",
+      "options": [
+        { "option_id": 1, "text": "Increase heat", "is_correct": false },
+        { "option_id": 2, "text": "Prevent heat loss to surroundings", "is_correct": true },
+        { "option_id": 3, "text": "Cool objects", "is_correct": false },
+        { "option_id": 4, "text": "Store electricity", "is_correct": false }
+      ],
+      "answer": "Prevent heat loss to surroundings"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Total heat lost equals total heat gained in calorimeter because of:",
+      "options": [
+        { "option_id": 1, "text": "No friction", "is_correct": false },
+        { "option_id": 2, "text": "Thermal isolation", "is_correct": true },
+        { "option_id": 3, "text": "Low temperature", "is_correct": false },
+        { "option_id": 4, "text": "Large mass", "is_correct": false }
+      ],
+      "answer": "Thermal isolation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Expansion of matter occurs on:",
+      "options": [
+        { "option_id": 1, "text": "Cooling", "is_correct": false },
+        { "option_id": 2, "text": "Heating", "is_correct": true },
+        { "option_id": 3, "text": "Freezing", "is_correct": false },
+        { "option_id": 4, "text": "Condensation", "is_correct": false }
+      ],
+      "answer": "Heating"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Linear expansion refers to increase in:",
+      "options": [
+        { "option_id": 1, "text": "Area", "is_correct": false },
+        { "option_id": 2, "text": "Length", "is_correct": true },
+        { "option_id": 3, "text": "Volume", "is_correct": false },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Length"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Coefficient of linear expansion unit is:",
+      "options": [
+        { "option_id": 1, "text": "°C", "is_correct": false },
+        { "option_id": 2, "text": "1/°C", "is_correct": true },
+        { "option_id": 3, "text": "m/°C", "is_correct": false },
+        { "option_id": 4, "text": "J/°C", "is_correct": false }
+      ],
+      "answer": "1/°C"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Metal with highest linear expansion coefficient among given is:",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Aluminium", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Aluminium"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Gaps are kept between railway rails to allow:",
+      "options": [
+        { "option_id": 1, "text": "Cooling", "is_correct": false },
+        { "option_id": 2, "text": "Expansion", "is_correct": true },
+        { "option_id": 3, "text": "Lubrication", "is_correct": false },
+        { "option_id": 4, "text": "Cleaning", "is_correct": false }
+      ],
+      "answer": "Expansion"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Expansion in three dimensions is called:",
+      "options": [
+        { "option_id": 1, "text": "Linear", "is_correct": false },
+        { "option_id": 2, "text": "Areal", "is_correct": false },
+        { "option_id": 3, "text": "Volumetric", "is_correct": true },
+        { "option_id": 4, "text": "Surface", "is_correct": false }
+      ],
+      "answer": "Volumetric"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Liquids show mainly:",
+      "options": [
+        { "option_id": 1, "text": "Linear expansion", "is_correct": false },
+        { "option_id": 2, "text": "Areal expansion", "is_correct": false },
+        { "option_id": 3, "text": "Volumetric expansion", "is_correct": true },
+        { "option_id": 4, "text": "No expansion", "is_correct": false }
+      ],
+      "answer": "Volumetric expansion"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Anomalous behaviour is shown by:",
+      "options": [
+        { "option_id": 1, "text": "Mercury", "is_correct": false },
+        { "option_id": 2, "text": "Alcohol", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Oil", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "When gas is heated in closed container, its:",
+      "options": [
+        { "option_id": 1, "text": "Volume increases", "is_correct": false },
+        { "option_id": 2, "text": "Pressure increases", "is_correct": true },
+        { "option_id": 3, "text": "Mass increases", "is_correct": false },
+        { "option_id": 4, "text": "Density increases", "is_correct": false }
+      ],
+      "answer": "Pressure increases"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Expansion of gas is measured at constant:",
+      "options": [
+        { "option_id": 1, "text": "Volume", "is_correct": false },
+        { "option_id": 2, "text": "Pressure", "is_correct": true },
+        { "option_id": 3, "text": "Mass", "is_correct": false },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ],
+      "answer": "Pressure"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Density of gas on heating:",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": true },
+        { "option_id": 3, "text": "Remains same", "is_correct": false },
+        { "option_id": 4, "text": "Becomes zero", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Specific heat of water is:",
+      "options": [
+        { "option_id": 1, "text": "0.21", "is_correct": false },
+        { "option_id": 2, "text": "1.0", "is_correct": true },
+        { "option_id": 3, "text": "0.11", "is_correct": false },
+        { "option_id": 4, "text": "0.03", "is_correct": false }
+      ],
+      "answer": "1.0"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Substance with least specific heat from table:",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Gold", "is_correct": true },
+        { "option_id": 3, "text": "Alcohol", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which expands most among gases listed?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Sulphur dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Helium", "is_correct": false }
+      ],
+      "answer": "Sulphur dioxide"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Expansion coefficient depends on:",
+      "options": [
+        { "option_id": 1, "text": "Mass only", "is_correct": false },
+        { "option_id": 2, "text": "Material of substance", "is_correct": true },
+        { "option_id": 3, "text": "Shape only", "is_correct": false },
+        { "option_id": 4, "text": "Color", "is_correct": false }
+      ],
+      "answer": "Material of substance"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why bridges have expansion joints?",
+      "options": [
+        { "option_id": 1, "text": "For decoration", "is_correct": false },
+        { "option_id": 2, "text": "To allow expansion", "is_correct": true },
+        { "option_id": 3, "text": "To reduce weight", "is_correct": false },
+        { "option_id": 4, "text": "To increase strength", "is_correct": false }
+      ],
+      "answer": "To allow expansion"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which thermometer measures daily min and max temperature?",
+      "options": [
+        { "option_id": 1, "text": "Clinical thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Laboratory thermometer", "is_correct": false },
+        { "option_id": 3, "text": "Maximum-minimum thermometer", "is_correct": true },
+        { "option_id": 4, "text": "Digital thermometer", "is_correct": false }
+      ],
+      "answer": "Maximum-minimum thermometer"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which scale is commonly used in daily life in India?",
+      "options": [
+        { "option_id": 1, "text": "Kelvin", "is_correct": false },
+        { "option_id": 2, "text": "Celsius", "is_correct": true },
+        { "option_id": 3, "text": "Fahrenheit", "is_correct": false },
+        { "option_id": 4, "text": "Rankine", "is_correct": false }
+      ],
+      "answer": "Celsius"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Heat exchange continues until both objects reach:",
+      "options": [
+        { "option_id": 1, "text": "Maximum temperature", "is_correct": false },
+        { "option_id": 2, "text": "Same temperature", "is_correct": true },
+        { "option_id": 3, "text": "Room temperature", "is_correct": false },
+        { "option_id": 4, "text": "Zero temperature", "is_correct": false }
+      ],
+      "answer": "Same temperature"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "In solids, atoms mainly:",
+      "options": [
+        { "option_id": 1, "text": "Move freely", "is_correct": false },
+        { "option_id": 2, "text": "Oscillate about fixed positions", "is_correct": true },
+        { "option_id": 3, "text": "Do not move", "is_correct": false },
+        { "option_id": 4, "text": "Move randomly", "is_correct": false }
+      ],
+      "answer": "Oscillate about fixed positions"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Heat required is calculated by formula:",
+      "options": [
+        { "option_id": 1, "text": "Q = m + c + ΔT", "is_correct": false },
+        { "option_id": 2, "text": "Q = m × c × ΔT", "is_correct": true },
+        { "option_id": 3, "text": "Q = m / c × ΔT", "is_correct": false },
+        { "option_id": 4, "text": "Q = c / m × ΔT", "is_correct": false }
+      ],
+      "answer": "Q = m × c × ΔT"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which substance expands more for same temperature rise?",
+      "options": [
+        { "option_id": 1, "text": "Lower expansion coefficient", "is_correct": false },
+        { "option_id": 2, "text": "Higher expansion coefficient", "is_correct": true },
+        { "option_id": 3, "text": "Higher density", "is_correct": false },
+        { "option_id": 4, "text": "Lower density", "is_correct": false }
+      ],
+      "answer": "Higher expansion coefficient"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which effect of heat changes state of matter?",
+      "options": [
+        { "option_id": 1, "text": "Expansion", "is_correct": false },
+        { "option_id": 2, "text": "Change of state", "is_correct": true },
+        { "option_id": 3, "text": "Radiation", "is_correct": false },
+        { "option_id": 4, "text": "Reflection", "is_correct": false }
+      ],
+      "answer": "Change of state"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of the following is not a source of heat?",
+      "options": [
+        { "option_id": 1, "text": "Sun", "is_correct": false },
+        { "option_id": 2, "text": "Earth", "is_correct": false },
+        { "option_id": 3, "text": "Mirror", "is_correct": true },
+        { "option_id": 4, "text": "Fuel", "is_correct": false }
+      ],
+      "answer": "Mirror"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Why copper is used in calorimeter?",
+      "options": [
+        { "option_id": 1, "text": "It is cheap", "is_correct": false },
+        { "option_id": 2, "text": "It has low specific heat", "is_correct": true },
+        { "option_id": 3, "text": "It is light", "is_correct": false },
+        { "option_id": 4, "text": "It is shiny", "is_correct": false }
+      ],
+      "answer": "It has low specific heat"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "When cold object is placed in hot water, it will:",
+      "options": [
+        { "option_id": 1, "text": "Lose heat", "is_correct": false },
+        { "option_id": 2, "text": "Gain heat", "is_correct": true },
+        { "option_id": 3, "text": "Remain same", "is_correct": false },
+        { "option_id": 4, "text": "Freeze", "is_correct": false }
+      ],
+      "answer": "Gain heat"
+    },
+        {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is heat?",
+      "answer": "Heat is a form of energy that flows from an object at higher temperature to an object at lower temperature."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is temperature?",
+      "answer": "Temperature is the measure of how hot or cold an object is."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why can’t we measure temperature accurately by touch?",
+      "answer": "Because our sense of hot and cold is relative and can be misleading, especially after touching hot or cold objects."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name the device used to measure temperature.",
+      "answer": "Thermometer is the device used to measure temperature."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of heat?",
+      "answer": "The SI unit of heat is Joule (J)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a calorie?",
+      "answer": "One calorie is the amount of heat required to raise the temperature of 1 gram of water by 1°C."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "State the relation between calorie and joule.",
+      "answer": "1 calorie is equal to 4.18 joules."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two sources of heat.",
+      "answer": "Sun and burning of fuels are two sources of heat."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is geothermal energy?",
+      "answer": "Heat obtained from the interior of the earth is called geothermal energy."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How is heat produced in fuels?",
+      "answer": "Heat is produced when fuels burn and undergo chemical reaction with oxygen."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is atomic energy?",
+      "answer": "Atomic energy is heat produced during nuclear fission of heavy nuclei like uranium."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is thermometer necessary?",
+      "answer": "Because temperature cannot be measured accurately by touch."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a clinical thermometer used for?",
+      "answer": "It is used to measure human body temperature."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the normal body temperature of humans?",
+      "answer": "The normal body temperature of humans is 37°C."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the temperature range of clinical thermometer?",
+      "answer": "It measures temperature from about 35°C to 42°C."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is mercury not used in thermometers now?",
+      "answer": "Because mercury is harmful to health and environment."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does a liquid thermometer work?",
+      "answer": "The liquid expands on heating and its level rises in the tube, indicating temperature."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a digital thermometer?",
+      "answer": "It is a thermometer that uses electronic sensors to measure temperature."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is heat content of a body related to?",
+      "answer": "It is related to total kinetic energy of atoms in the body."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does temperature depend on?",
+      "answer": "Temperature depends on average kinetic energy of atoms."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are the units of temperature?",
+      "answer": "Celsius, Fahrenheit and Kelvin are the units of temperature."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which temperature scale is used in scientific work?",
+      "answer": "Kelvin scale is used in scientific experiments."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is specific heat?",
+      "answer": "Specific heat is the amount of heat needed to raise temperature of unit mass of a substance by 1°C."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Write the formula for heat.",
+      "answer": "Q = m × c × ΔT"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which substance has highest specific heat?",
+      "answer": "Water has the highest specific heat among common substances."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is a calorimeter?",
+      "answer": "A calorimeter is an instrument used to measure heat exchanged in reactions or processes."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is calorimeter thermally insulated?",
+      "answer": "To prevent heat exchange with surroundings."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is copper used in calorimeter?",
+      "answer": "Because copper has low specific heat and absorbs less heat."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What happens when hot and cold objects are kept together?",
+      "answer": "Heat flows from hot to cold until both reach the same temperature."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is thermal equilibrium?",
+      "answer": "It is the state when two bodies reach the same temperature."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is expansion?",
+      "answer": "Expansion is increase in size of a substance when heated."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which states of matter expand on heating?",
+      "answer": "Solids, liquids and gases all expand on heating."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is linear expansion?",
+      "answer": "Linear expansion is increase in length of a solid on heating."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is coefficient of linear expansion?",
+      "answer": "It is change in length per unit length per degree rise in temperature."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why do railway tracks have gaps?",
+      "answer": "To allow expansion during summer and prevent bending."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is volumetric expansion?",
+      "answer": "It is increase in volume of a substance when heated."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why do bridges have expansion joints?",
+      "answer": "To accommodate expansion due to temperature change."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How do liquids expand?",
+      "answer": "Liquids expand by increasing their volume when heated."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is anomalous behaviour of water?",
+      "answer": "Water shows unusual expansion behavior between 0°C and 4°C."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What happens when gas is heated in closed container?",
+      "answer": "Pressure increases because volume cannot increase."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What happens when gas is heated in open container?",
+      "answer": "Volume increases while pressure remains constant."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does density of gas decrease on heating?",
+      "answer": "Because volume increases while mass remains constant."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is constant pressure expansion coefficient?",
+      "answer": "It measures volume expansion of gas at constant pressure per degree rise in temperature."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why do solids expand less than gases?",
+      "answer": "Because particles in solids are closely packed."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What causes expansion at atomic level?",
+      "answer": "Increase in kinetic energy makes atoms vibrate more and move apart."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why does water have high specific heat?",
+      "answer": "Because it absorbs more heat with less temperature rise."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is water used as coolant?",
+      "answer": "Because it can absorb large amount of heat without much temperature increase."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is meant by heat transfer?",
+      "answer": "It is movement of heat from one body to another due to temperature difference."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What happens to atoms in solid when heated?",
+      "answer": "They vibrate faster about their fixed positions."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why does hot tea cool down in room?",
+      "answer": "Because heat flows from hot tea to cooler surroundings."
+    },
+        {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why do metals expand on heating?",
+      "answer": "Because atoms gain kinetic energy and vibrate more, increasing the distance between them."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is areal expansion?",
+      "answer": "Areal expansion is increase in the surface area of a solid when it is heated."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Write formula for areal expansion.",
+      "answer": "A₂ = A₁ (1 + sΔT)"
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is volumetric expansion coefficient of solid?",
+      "answer": "It is increase in volume per unit volume per degree rise in temperature."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Write formula for volumetric expansion of solids.",
+      "answer": "V₂ = V₁ (1 + βΔT)"
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why does hot air balloon rise up?",
+      "answer": "Because hot air becomes less dense and rises above cooler air."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why do doors get jammed in summer?",
+      "answer": "Because wood expands due to heat and moisture."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What happens to pressure of gas if volume is constant and temperature increases?",
+      "answer": "Pressure increases when temperature increases at constant volume."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What happens to volume of gas if pressure is constant and temperature increases?",
+      "answer": "Volume increases when temperature increases at constant pressure."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why are bimetallic strips useful?",
+      "answer": "Because different metals expand differently and can be used to control electric circuits."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How does fire alarm work using bimetallic strip?",
+      "answer": "Heat bends the strip, closing circuit and activating alarm."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why are glass bottles likely to crack when hot water is poured?",
+      "answer": "Because outer layer expands quickly causing stress and cracking."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why do we leave space in overhead electric wires?",
+      "answer": "To allow contraction in winter and prevent snapping."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why are cooking utensils made of metal?",
+      "answer": "Because metals conduct heat well and heat food quickly."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why are wooden handles used in metal utensils?",
+      "answer": "Because wood is poor conductor of heat and protects hands from burns."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What happens to length of rod when cooled?",
+      "answer": "Its length decreases due to contraction."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why do railway tracks bend in summer if no gaps are kept?",
+      "answer": "Because expansion creates compressive force causing bending."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why is copper preferred for calorimeter vessels?",
+      "answer": "Because it has low specific heat and conducts heat quickly."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is meant by thermally isolated system?",
+      "answer": "A system that does not exchange heat with surroundings."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is stirring done in calorimeter?",
+      "answer": "To distribute heat uniformly and get accurate temperature."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why does hot tea cool faster in open cup?",
+      "answer": "Because heat is lost to air by convection and evaporation."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is mercury replaced by alcohol in thermometers?",
+      "answer": "Because alcohol is safer and expands uniformly."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What happens to atoms in gas when heated?",
+      "answer": "They move faster and spread apart."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why do solids have least expansion?",
+      "answer": "Because particles are tightly packed and strongly bonded."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is latent heat?",
+      "answer": "It is heat required to change state of substance without changing temperature."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why does ice melt at constant temperature?",
+      "answer": "Because heat is used to change state, not temperature."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is conduction?",
+      "answer": "It is transfer of heat through solids without movement of particles."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is convection?",
+      "answer": "It is transfer of heat by movement of fluids like air or water."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is radiation?",
+      "answer": "It is transfer of heat through electromagnetic waves without medium."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which mode of heat transfer works in vacuum?",
+      "answer": "Radiation works in vacuum."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is black surface good absorber of heat?",
+      "answer": "Because it absorbs maximum radiation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why are solar cookers painted black inside?",
+      "answer": "To absorb more heat from sunlight."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why does spoon in hot tea become hot?",
+      "answer": "Because heat is transferred from tea to spoon by conduction."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is air a bad conductor of heat?",
+      "answer": "Because molecules are far apart and do not transfer heat efficiently."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why do woolen clothes keep us warm?",
+      "answer": "Because trapped air reduces heat loss from body."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why are double walls used in thermos flask?",
+      "answer": "To reduce heat transfer by conduction and convection."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why does sweating cool our body?",
+      "answer": "Because evaporation of sweat takes heat from body."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is evaporation?",
+      "answer": "It is change of liquid into vapor at any temperature."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why do desert coolers work better in dry weather?",
+      "answer": "Because evaporation is faster in dry air."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why does water cool earthen pot?",
+      "answer": "Because water evaporates through pores and takes heat away."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why does hot soup cool faster in a plate than in a bowl?",
+      "answer": "Because larger surface area increases evaporation."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is insulation?",
+      "answer": "It is prevention of heat transfer using insulating materials."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is cork used as insulator?",
+      "answer": "Because it contains air and reduces heat flow."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is steam more dangerous than boiling water?",
+      "answer": "Because steam releases extra latent heat on condensation."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is thermal expansion?",
+      "answer": "Increase in size of matter due to rise in temperature."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why are chimneys tall?",
+      "answer": "To allow hot gases to rise and escape easily by convection."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why does balloon shrink in cold?",
+      "answer": "Because gas contracts on cooling."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is ice less dense than water?",
+      "answer": "Because water expands on freezing due to anomalous behavior."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why are expansion joints zig-zag in bridges?",
+      "answer": "To allow movement due to thermal expansion without damage."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is study of heat important?",
+      "answer": "Because it explains weather, cooking, engines and daily life processes."
+    }
+  ]
+}

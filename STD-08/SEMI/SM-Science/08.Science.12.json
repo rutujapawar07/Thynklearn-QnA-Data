@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.11",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Introduction to Acid & Base"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which taste is produced by acids?",
+      "options": [
+        { "option_id": 1, "text": "Sweet", "is_correct": false },
+        { "option_id": 2, "text": "Bitter", "is_correct": false },
+        { "option_id": 3, "text": "Sour", "is_correct": true },
+        { "option_id": 4, "text": "Salty", "is_correct": false }
+      ],
+      "answer": "Sour"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is a natural acid found in lemon?",
+      "options": [
+        { "option_id": 1, "text": "Oxalic acid", "is_correct": false },
+        { "option_id": 2, "text": "Citric acid", "is_correct": true },
+        { "option_id": 3, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 4, "text": "Lactic acid", "is_correct": false }
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which acid is present in vinegar?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "Acetic acid", "is_correct": true },
+        { "option_id": 3, "text": "Lactic acid", "is_correct": false },
+        { "option_id": 4, "text": "Oxalic acid", "is_correct": false }
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which acid is present in curd?",
+      "options": [
+        { "option_id": 1, "text": "Tartaric acid", "is_correct": false },
+        { "option_id": 2, "text": "Citric acid", "is_correct": false },
+        { "option_id": 3, "text": "Lactic acid", "is_correct": true },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Lactic acid"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which acid is present in tamarind?",
+      "options": [
+        { "option_id": 1, "text": "Oxalic acid", "is_correct": false },
+        { "option_id": 2, "text": "Tartaric acid", "is_correct": true },
+        { "option_id": 3, "text": "Citric acid", "is_correct": false },
+        { "option_id": 4, "text": "Lactic acid", "is_correct": false }
+      ],
+      "answer": "Tartaric acid"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which ion is produced by acids in aqueous solution?",
+      "options": [
+        { "option_id": 1, "text": "OH⁻", "is_correct": false },
+        { "option_id": 2, "text": "H⁺", "is_correct": true },
+        { "option_id": 3, "text": "Na⁺", "is_correct": false },
+        { "option_id": 4, "text": "Cl⁻", "is_correct": false }
+      ],
+      "answer": "H⁺"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which gas is released when acid reacts with metal?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 4, "text": "Carbon dioxide", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which gas is produced when acid reacts with carbonate?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Blue litmus paper turns ____ in acid.",
+      "options": [
+        { "option_id": 1, "text": "Blue", "is_correct": false },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Red", "is_correct": true },
+        { "option_id": 4, "text": "Yellow", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which acid is present in cold aerated drinks?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "Carbonic acid", "is_correct": true },
+        { "option_id": 3, "text": "Oxalic acid", "is_correct": false },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Carbonic acid"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which substance gives OH⁻ ions in solution?",
+      "options": [
+        { "option_id": 1, "text": "Acid", "is_correct": false },
+        { "option_id": 2, "text": "Base", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Base"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is a strong base?",
+      "options": [
+        { "option_id": 1, "text": "NaOH", "is_correct": true },
+        { "option_id": 2, "text": "NaCl", "is_correct": false },
+        { "option_id": 3, "text": "HCl", "is_correct": false },
+        { "option_id": 4, "text": "H2SO4", "is_correct": false }
+      ],
+      "answer": "NaOH"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which base is known as milk of magnesia?",
+      "options": [
+        { "option_id": 1, "text": "NaOH", "is_correct": false },
+        { "option_id": 2, "text": "Mg(OH)2", "is_correct": true },
+        { "option_id": 3, "text": "Ca(OH)2", "is_correct": false },
+        { "option_id": 4, "text": "KOH", "is_correct": false }
+      ],
+      "answer": "Mg(OH)2"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which base is used for white washing?",
+      "options": [
+        { "option_id": 1, "text": "Sodium hydroxide", "is_correct": false },
+        { "option_id": 2, "text": "Calcium hydroxide", "is_correct": true },
+        { "option_id": 3, "text": "Magnesium hydroxide", "is_correct": false },
+        { "option_id": 4, "text": "Ammonium hydroxide", "is_correct": false }
+      ],
+      "answer": "Calcium hydroxide"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which base is used in soap and shampoo?",
+      "options": [
+        { "option_id": 1, "text": "Ca(OH)2", "is_correct": false },
+        { "option_id": 2, "text": "Mg(OH)2", "is_correct": false },
+        { "option_id": 3, "text": "KOH", "is_correct": true },
+        { "option_id": 4, "text": "NH4OH", "is_correct": false }
+      ],
+      "answer": "KOH"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Phenolphthalein becomes ____ in base.",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Yellow", "is_correct": false },
+        { "option_id": 3, "text": "Pink", "is_correct": true },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Pink"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Methyl orange turns ____ in acid.",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": false },
+        { "option_id": 2, "text": "Pink", "is_correct": true },
+        { "option_id": 3, "text": "Green", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Pink"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Turmeric acts as a ____ indicator.",
+      "options": [
+        { "option_id": 1, "text": "Laboratory", "is_correct": false },
+        { "option_id": 2, "text": "Universal", "is_correct": false },
+        { "option_id": 3, "text": "Natural", "is_correct": true },
+        { "option_id": 4, "text": "Chemical", "is_correct": false }
+      ],
+      "answer": "Natural"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which is NOT a natural indicator?",
+      "options": [
+        { "option_id": 1, "text": "Turmeric", "is_correct": false },
+        { "option_id": 2, "text": "Rose", "is_correct": false },
+        { "option_id": 3, "text": "Hibiscus", "is_correct": false },
+        { "option_id": 4, "text": "Phenolphthalein", "is_correct": true }
+      ],
+      "answer": "Phenolphthalein"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which reaction forms salt and water?",
+      "options": [
+        { "option_id": 1, "text": "Oxidation", "is_correct": false },
+        { "option_id": 2, "text": "Reduction", "is_correct": false },
+        { "option_id": 3, "text": "Neutralization", "is_correct": true },
+        { "option_id": 4, "text": "Evaporation", "is_correct": false }
+      ],
+      "answer": "Neutralization"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "HCl + NaOH → NaCl + H2O is an example of:",
+      "options": [
+        { "option_id": 1, "text": "Decomposition", "is_correct": false },
+        { "option_id": 2, "text": "Neutralization", "is_correct": true },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Combination", "is_correct": false }
+      ],
+      "answer": "Neutralization"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which acid is present in stomach?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "Hydrochloric acid", "is_correct": true },
+        { "option_id": 3, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 4, "text": "Carbonic acid", "is_correct": false }
+      ],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which medicine is used to treat acidity?",
+      "options": [
+        { "option_id": 1, "text": "Antacid", "is_correct": true },
+        { "option_id": 2, "text": "Antibiotic", "is_correct": false },
+        { "option_id": 3, "text": "Analgesic", "is_correct": false },
+        { "option_id": 4, "text": "Vaccine", "is_correct": false }
+      ],
+      "answer": "Antacid"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which base is used in antacids?",
+      "options": [
+        { "option_id": 1, "text": "NaOH", "is_correct": false },
+        { "option_id": 2, "text": "Ca(OH)2", "is_correct": false },
+        { "option_id": 3, "text": "Mg(OH)2", "is_correct": true },
+        { "option_id": 4, "text": "KOH", "is_correct": false }
+      ],
+      "answer": "Mg(OH)2"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which substance neutralizes acidic soil?",
+      "options": [
+        { "option_id": 1, "text": "Salt", "is_correct": false },
+        { "option_id": 2, "text": "Lime water", "is_correct": true },
+        { "option_id": 3, "text": "Sugar", "is_correct": false },
+        { "option_id": 4, "text": "Vinegar", "is_correct": false }
+      ],
+      "answer": "Lime water"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which acid is used in car batteries?",
+      "options": [
+        { "option_id": 1, "text": "Nitric acid", "is_correct": false },
+        { "option_id": 2, "text": "Hydrochloric acid", "is_correct": false },
+        { "option_id": 3, "text": "Sulphuric acid", "is_correct": true },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Sulphuric acid"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which acid is used for preparing chloride salts?",
+      "options": [
+        { "option_id": 1, "text": "HNO3", "is_correct": false },
+        { "option_id": 2, "text": "H2SO4", "is_correct": false },
+        { "option_id": 3, "text": "HCl", "is_correct": true },
+        { "option_id": 4, "text": "CH3COOH", "is_correct": false }
+      ],
+      "answer": "HCl"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which property is NOT of bases?",
+      "options": [
+        { "option_id": 1, "text": "Bitter taste", "is_correct": false },
+        { "option_id": 2, "text": "Slippery", "is_correct": false },
+        { "option_id": 3, "text": "Sour taste", "is_correct": true },
+        { "option_id": 4, "text": "Contain OH⁻", "is_correct": false }
+      ],
+      "answer": "Sour taste"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which indicator is extracted from lichen plant?",
+      "options": [
+        { "option_id": 1, "text": "Litmus", "is_correct": true },
+        { "option_id": 2, "text": "Methyl orange", "is_correct": false },
+        { "option_id": 3, "text": "Phenolphthalein", "is_correct": false },
+        { "option_id": 4, "text": "Turmeric", "is_correct": false }
+      ],
+      "answer": "Litmus"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which substance is neutral in nature?",
+      "options": [
+        { "option_id": 1, "text": "HCl", "is_correct": false },
+        { "option_id": 2, "text": "NaOH", "is_correct": false },
+        { "option_id": 3, "text": "NaCl", "is_correct": true },
+        { "option_id": 4, "text": "NH4OH", "is_correct": false }
+      ],
+      "answer": "NaCl"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which oxide is basic in nature?",
+      "options": [
+        { "option_id": 1, "text": "CO2", "is_correct": false },
+        { "option_id": 2, "text": "SO2", "is_correct": false },
+        { "option_id": 3, "text": "CaO", "is_correct": true },
+        { "option_id": 4, "text": "NO2", "is_correct": false }
+      ],
+      "answer": "CaO"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which indicator remains colorless in acid?",
+      "options": [
+        { "option_id": 1, "text": "Litmus", "is_correct": false },
+        { "option_id": 2, "text": "Phenolphthalein", "is_correct": true },
+        { "option_id": 3, "text": "Methyl red", "is_correct": false },
+        { "option_id": 4, "text": "Turmeric", "is_correct": false }
+      ],
+      "answer": "Phenolphthalein"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which indicator turns yellow in base?",
+      "options": [
+        { "option_id": 1, "text": "Methyl orange", "is_correct": true },
+        { "option_id": 2, "text": "Litmus", "is_correct": false },
+        { "option_id": 3, "text": "Phenolphthalein", "is_correct": false },
+        { "option_id": 4, "text": "Turmeric", "is_correct": false }
+      ],
+      "answer": "Methyl orange"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which substance is used to shine silver utensils?",
+      "options": [
+        { "option_id": 1, "text": "Salt", "is_correct": false },
+        { "option_id": 2, "text": "Vinegar or lemon", "is_correct": true },
+        { "option_id": 3, "text": "Soap", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Vinegar or lemon"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which acid is important in chemical industry?",
+      "options": [
+        { "option_id": 1, "text": "Nitric acid", "is_correct": false },
+        { "option_id": 2, "text": "Sulphuric acid", "is_correct": true },
+        { "option_id": 3, "text": "Citric acid", "is_correct": false },
+        { "option_id": 4, "text": "Lactic acid", "is_correct": false }
+      ],
+      "answer": "Sulphuric acid"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which acid is present in tomato?",
+      "options": [
+        { "option_id": 1, "text": "Oxalic acid", "is_correct": true },
+        { "option_id": 2, "text": "Citric acid", "is_correct": false },
+        { "option_id": 3, "text": "Tartaric acid", "is_correct": false },
+        { "option_id": 4, "text": "Lactic acid", "is_correct": false }
+      ],
+      "answer": "Oxalic acid"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which acid is present in orange?",
+      "options": [
+        { "option_id": 1, "text": "Ascorbic acid", "is_correct": true },
+        { "option_id": 2, "text": "Citric acid", "is_correct": false },
+        { "option_id": 3, "text": "Oxalic acid", "is_correct": false },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Ascorbic acid"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which solution is neither acidic nor basic?",
+      "options": [
+        { "option_id": 1, "text": "Salt solution", "is_correct": true },
+        { "option_id": 2, "text": "Lime water", "is_correct": false },
+        { "option_id": 3, "text": "Vinegar", "is_correct": false },
+        { "option_id": 4, "text": "Soap water", "is_correct": false }
+      ],
+      "answer": "Salt solution"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which base is used in fertilizers?",
+      "options": [
+        { "option_id": 1, "text": "NH4OH", "is_correct": true },
+        { "option_id": 2, "text": "NaOH", "is_correct": false },
+        { "option_id": 3, "text": "Ca(OH)2", "is_correct": false },
+        { "option_id": 4, "text": "Mg(OH)2", "is_correct": false }
+      ],
+      "answer": "NH4OH"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which substance should never be added to concentrated acid?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": true },
+        { "option_id": 2, "text": "Salt", "is_correct": false },
+        { "option_id": 3, "text": "Base", "is_correct": false },
+        { "option_id": 4, "text": "Indicator", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which reaction releases heat when acid is diluted?",
+      "options": [
+        { "option_id": 1, "text": "Endothermic", "is_correct": false },
+        { "option_id": 2, "text": "Exothermic", "is_correct": true },
+        { "option_id": 3, "text": "Neutral", "is_correct": false },
+        { "option_id": 4, "text": "Physical", "is_correct": false }
+      ],
+      "answer": "Exothermic"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which chemical in toothpaste neutralizes acids?",
+      "options": [
+        { "option_id": 1, "text": "Base", "is_correct": true },
+        { "option_id": 2, "text": "Acid", "is_correct": false },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Base"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which solution turns turmeric paper red?",
+      "options": [
+        { "option_id": 1, "text": "Acid", "is_correct": false },
+        { "option_id": 2, "text": "Base", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Base"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which compound is responsible for heredity?",
+      "options": [
+        { "option_id": 1, "text": "RNA", "is_correct": false },
+        { "option_id": 2, "text": "DNA", "is_correct": true },
+        { "option_id": 3, "text": "Protein", "is_correct": false },
+        { "option_id": 4, "text": "Fat", "is_correct": false }
+      ],
+      "answer": "DNA"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Proteins are made of:",
+      "options": [
+        { "option_id": 1, "text": "Fatty acids", "is_correct": false },
+        { "option_id": 2, "text": "Amino acids", "is_correct": true },
+        { "option_id": 3, "text": "Sugars", "is_correct": false },
+        { "option_id": 4, "text": "Salts", "is_correct": false }
+      ],
+      "answer": "Amino acids"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which acid is used in sterilization of water?",
+      "options": [
+        { "option_id": 1, "text": "HCl", "is_correct": true },
+        { "option_id": 2, "text": "HNO3", "is_correct": false },
+        { "option_id": 3, "text": "CH3COOH", "is_correct": false },
+        { "option_id": 4, "text": "H2CO3", "is_correct": false }
+      ],
+      "answer": "HCl"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which indicator is colorless in acid and pink in base?",
+      "options": [
+        { "option_id": 1, "text": "Litmus", "is_correct": false },
+        { "option_id": 2, "text": "Methyl orange", "is_correct": false },
+        { "option_id": 3, "text": "Phenolphthalein", "is_correct": true },
+        { "option_id": 4, "text": "Turmeric", "is_correct": false }
+      ],
+      "answer": "Phenolphthalein"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which substance is chemically inert and changes color in acid or base?",
+      "options": [
+        { "option_id": 1, "text": "Salt", "is_correct": false },
+        { "option_id": 2, "text": "Indicator", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Metal", "is_correct": false }
+      ],
+      "answer": "Indicator"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which is safest method to identify acid or base?",
+      "options": [
+        { "option_id": 1, "text": "Tasting", "is_correct": false },
+        { "option_id": 2, "text": "Touching", "is_correct": false },
+        { "option_id": 3, "text": "Using indicator", "is_correct": true },
+        { "option_id": 4, "text": "Smelling", "is_correct": false }
+      ],
+      "answer": "Using indicator"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which product is formed along with salt in neutralization?",
+      "options": [
+        { "option_id": 1, "text": "Gas", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Metal", "is_correct": false },
+        { "option_id": 4, "text": "Base", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is an acid?",
+      "answer": "An acid is a substance that produces H⁺ ions in aqueous solution. Acids have sour taste and turn blue litmus red."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a base?",
+      "answer": "A base is a substance that produces OH⁻ ions in water. Bases are bitter and feel soapy on touch."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a salt?",
+      "answer": "Salt is formed when an acid reacts with a base. It is neutral in nature in many cases."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is neutralization reaction?",
+      "answer": "Reaction between acid and base producing salt and water is called neutralization."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why acids are not stored in metal containers?",
+      "answer": "Acids react with metals producing hydrogen gas and corrode containers."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are indicators?",
+      "answer": "Indicators are substances that change color in acidic or basic solutions to identify nature of solution."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why turmeric is a natural indicator?",
+      "answer": "Turmeric changes color in basic solutions and is obtained from plant source."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is universal indicator?",
+      "answer": "Universal indicator shows different colors for different pH values of solutions."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is pH scale?",
+      "answer": "pH scale measures acidity or basicity of solution from 0 to 14."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does low pH indicate?",
+      "answer": "Low pH indicates strong acidity of solution."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does high pH indicate?",
+      "answer": "High pH indicates strong basic nature of solution."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why acids conduct electricity?",
+      "answer": "Because they release ions in aqueous solution which carry electric current."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is acid rain?",
+      "answer": "Rain containing sulphuric and nitric acids due to air pollution is acid rain."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why acid rain is harmful?",
+      "answer": "It damages crops, soil, water bodies and historical monuments."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is antacid?",
+      "answer": "Antacids are basic substances used to neutralize excess acid in stomach."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why lime is added to acidic soil?",
+      "answer": "To neutralize acidity and improve soil fertility for crops."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why bases are slippery?",
+      "answer": "Bases react with skin oils forming soap-like substances."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why acids are corrosive?",
+      "answer": "They react strongly with metals and tissues causing damage."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is dilute acid?",
+      "answer": "Acid mixed with large amount of water is dilute acid."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why acid must be added to water?",
+      "answer": "To avoid splashing and excessive heat generation."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is strong acid?",
+      "answer": "Acid that produces large number of H⁺ ions in solution is strong acid."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is weak acid?",
+      "answer": "Acid that partially ionizes in solution is weak acid."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Give example of weak acid.",
+      "answer": "Acetic acid found in vinegar is weak acid."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Give example of strong acid.",
+      "answer": "Hydrochloric acid is strong acid."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is basic oxide?",
+      "answer": "Oxide that reacts with acid to form salt and water is basic oxide."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is acidic oxide?",
+      "answer": "Oxide that reacts with base to form salt and water is acidic oxide."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why CO2 is acidic oxide?",
+      "answer": "It reacts with water to form carbonic acid."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why CaO is basic oxide?",
+      "answer": "It reacts with acids to form salt and water."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is neutral solution?",
+      "answer": "Solution with pH 7 that is neither acidic nor basic."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why distilled water is neutral?",
+      "answer": "It has equal H⁺ and OH⁻ ion concentration."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why salt solutions can be acidic or basic?",
+      "answer": "Because some salts hydrolyze in water forming acids or bases."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is baking soda?",
+      "answer": "Sodium bicarbonate is baking soda used in cooking and medicine."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is washing soda?",
+      "answer": "Sodium carbonate is washing soda used for cleaning and softening water."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why soaps are basic?",
+      "answer": "They contain sodium or potassium salts of fatty acids."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why tooth decay occurs?",
+      "answer": "Acids produced by bacteria damage enamel of teeth."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How toothpaste prevents tooth decay?",
+      "answer": "It contains base that neutralizes acids in mouth."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why farmers test soil pH?",
+      "answer": "To select proper fertilizers and crops."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is effervescence?",
+      "answer": "Rapid bubbling due to release of gas in reaction."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which gas forms during acid-carbonate reaction?",
+      "answer": "Carbon dioxide gas is produced."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why acids react with metals?",
+      "answer": "Because metals displace hydrogen from acids."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is chemical weathering?",
+      "answer": "Breakdown of rocks due to acids in rain water."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why marble is damaged by acid rain?",
+      "answer": "Marble reacts with acid and forms soluble salts."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is caustic soda?",
+      "answer": "Sodium hydroxide is called caustic soda."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is slaked lime?",
+      "answer": "Calcium hydroxide formed by adding water to quicklime."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why bases are corrosive?",
+      "answer": "They can damage skin by chemical reaction."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why acids should be handled carefully?",
+      "answer": "They can cause burns and damage materials."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is laboratory indicator?",
+      "answer": "Indicator prepared chemically like phenolphthalein."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why litmus is natural indicator?",
+      "answer": "It is extracted from lichen plant."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why bases are not tasted?",
+      "answer": "They can be harmful and corrosive."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why acids are sour?",
+      "answer": "Due to presence of hydrogen ions."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is alkali?",
+      "answer": "Base that dissolves in water is called alkali."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Give example of alkali.",
+      "answer": "Sodium hydroxide and potassium hydroxide are alkalis."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why salts are important?",
+      "answer": "They are used in food, industry and medicine."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why sodium chloride is essential?",
+      "answer": "It maintains fluid balance in body."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why salt preserves food?",
+      "answer": "It prevents growth of bacteria."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why acids are useful in industries?",
+      "answer": "Used in batteries, fertilizers and medicines."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why bases are useful?",
+      "answer": "Used in cleaning agents and manufacturing soap."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is chemical safety?",
+      "answer": "Proper handling and storage of chemicals."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why labels are important on chemicals?",
+      "answer": "To inform about hazards and safety."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is first aid for acid burn?",
+      "answer": "Wash area with plenty of water immediately."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why base burn is washed with water?",
+      "answer": "To dilute and remove chemical from skin."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why eye protection is needed in lab?",
+      "answer": "To prevent damage from chemical splashes."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is household acid?",
+      "answer": "Vinegar and lemon juice are household acids."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is household base?",
+      "answer": "Soap solution and baking soda are household bases."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why cleaning agents are basic?",
+      "answer": "They remove grease and oil effectively."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is chemical neutralization in daily life?",
+      "answer": "Antacids neutralize stomach acid."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why swimming pools are basic?",
+      "answer": "To prevent irritation and bacterial growth."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is importance of pH in water?",
+      "answer": "It affects aquatic life and drinking quality."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why acids should not be mixed with bleach?",
+      "answer": "It releases toxic chlorine gas."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why chemical reactions are important?",
+      "answer": "They help produce useful substances."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is industrial pollution effect on water?",
+      "answer": "Changes pH and kills aquatic organisms."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why acid-base study is important?",
+      "answer": "Used in medicine, agriculture and industry."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is safe disposal of chemicals?",
+      "answer": "Proper method to avoid environmental damage."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why laboratory rules are important?",
+      "answer": "To prevent accidents and injuries."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is environmental acidification?",
+      "answer": "Increase in acidity of soil and water bodies."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why fertilizers affect soil pH?",
+      "answer": "They contain acidic or basic chemicals."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why acid-base reactions are useful?",
+      "answer": "They help in neutralizing harmful substances."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why pH of blood is constant?",
+      "answer": "To maintain proper enzyme activity."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What happens if blood pH changes?",
+      "answer": "It can be dangerous and affect body functions."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why buffers are important?",
+      "answer": "They maintain constant pH in solutions."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is role of chemistry in daily life?",
+      "answer": "Used in food, medicines, cleaning and agriculture."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why science of acids and bases is important?",
+      "answer": "It explains many household and industrial reactions."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is chemical hazard?",
+      "answer": "Danger caused by harmful chemicals."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why chemicals are labeled?",
+      "answer": "To indicate safe handling instructions."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why students learn acids and bases?",
+      "answer": "To understand chemical reactions around them."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is importance of neutral pH?",
+      "answer": "Maintains balance in biological systems."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why chemical education is necessary?",
+      "answer": "To use substances safely and effectively."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is chemical awareness?",
+      "answer": "Understanding risks and benefits of chemicals."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why acids and bases are everywhere?",
+      "answer": "They are part of natural and man-made substances."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why chemistry is useful in environment protection?",
+      "answer": "Helps control pollution and waste."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why safe water treatment uses chemicals?",
+      "answer": "To kill germs and adjust pH."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is role of acids in digestion?",
+      "answer": "Helps break down food in stomach."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why stomach needs acid?",
+      "answer": "For digestion and killing bacteria."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why excessive acid is harmful?",
+      "answer": "Causes ulcers and indigestion."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why antacids are basic?",
+      "answer": "They neutralize excess stomach acid."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why chemical knowledge saves life?",
+      "answer": "Helps in correct first aid and safety."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why chemical waste is treated?",
+      "answer": "To reduce environmental pollution."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why acids and bases are tested before use?",
+      "answer": "To ensure safety and correct strength."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why chemistry is essential subject?",
+      "answer": "It explains material changes in daily life."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of acids and bases chapter.",
+      "answer": "Acids, bases and salts are important in daily life and industries, and safe handling is necessary."
+    }
+  ]
+}

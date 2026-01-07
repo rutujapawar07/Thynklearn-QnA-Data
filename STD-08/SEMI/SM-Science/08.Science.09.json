@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.09",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Disaster_Management"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is an earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Sudden vibration of earth’s surface", "is_correct": true },
+        { "option_id": 2, "text": "Heavy rainfall", "is_correct": false },
+        { "option_id": 3, "text": "Volcanic explosion", "is_correct": false },
+        { "option_id": 4, "text": "Strong wind", "is_correct": false }
+      ],
+      "answer": "Sudden vibration of earth’s surface"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which waves are produced during earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Sound waves", "is_correct": false },
+        { "option_id": 2, "text": "Heat waves", "is_correct": false },
+        { "option_id": 3, "text": "Seismic waves", "is_correct": true },
+        { "option_id": 4, "text": "Light waves", "is_correct": false }
+      ],
+      "answer": "Seismic waves"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is epicenter?",
+      "options": [
+        { "option_id": 1, "text": "Center inside earth", "is_correct": false },
+        { "option_id": 2, "text": "Point on surface above focus", "is_correct": true },
+        { "option_id": 3, "text": "End of seismic waves", "is_correct": false },
+        { "option_id": 4, "text": "Plate boundary", "is_correct": false }
+      ],
+      "answer": "Point on surface above focus"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which instrument records earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Barometer", "is_correct": false },
+        { "option_id": 2, "text": "Thermometer", "is_correct": false },
+        { "option_id": 3, "text": "Seismometer", "is_correct": true },
+        { "option_id": 4, "text": "Anemometer", "is_correct": false }
+      ],
+      "answer": "Seismometer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Earthquake intensity is measured by:",
+      "options": [
+        { "option_id": 1, "text": "Celsius scale", "is_correct": false },
+        { "option_id": 2, "text": "Richter scale", "is_correct": true },
+        { "option_id": 3, "text": "Decibel scale", "is_correct": false },
+        { "option_id": 4, "text": "Kelvin scale", "is_correct": false }
+      ],
+      "answer": "Richter scale"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is a cause of earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Volcanic eruption", "is_correct": true },
+        { "option_id": 2, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 3, "text": "Evaporation", "is_correct": false },
+        { "option_id": 4, "text": "Condensation", "is_correct": false }
+      ],
+      "answer": "Volcanic eruption"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which human activity can cause earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Mining", "is_correct": true },
+        { "option_id": 2, "text": "Planting trees", "is_correct": false },
+        { "option_id": 3, "text": "Fishing", "is_correct": false },
+        { "option_id": 4, "text": "Farming", "is_correct": false }
+      ],
+      "answer": "Mining"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which disaster can occur due to undersea earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Cyclone", "is_correct": false },
+        { "option_id": 2, "text": "Tsunami", "is_correct": true },
+        { "option_id": 3, "text": "Drought", "is_correct": false },
+        { "option_id": 4, "text": "Forest fire", "is_correct": false }
+      ],
+      "answer": "Tsunami"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which damage is caused by earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Building collapse", "is_correct": true },
+        { "option_id": 2, "text": "Snowfall", "is_correct": false },
+        { "option_id": 3, "text": "Drought", "is_correct": false },
+        { "option_id": 4, "text": "Heat waves", "is_correct": false }
+      ],
+      "answer": "Building collapse"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which should be avoided during earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Using staircase", "is_correct": false },
+        { "option_id": 2, "text": "Using lift", "is_correct": true },
+        { "option_id": 3, "text": "Sitting under table", "is_correct": false },
+        { "option_id": 4, "text": "Covering head", "is_correct": false }
+      ],
+      "answer": "Using lift"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is Class A fire?",
+      "options": [
+        { "option_id": 1, "text": "Electrical fire", "is_correct": false },
+        { "option_id": 2, "text": "Solid material fire", "is_correct": true },
+        { "option_id": 3, "text": "Gas fire", "is_correct": false },
+        { "option_id": 4, "text": "Metal fire", "is_correct": false }
+      ],
+      "answer": "Solid material fire"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which fire is caused by petrol?",
+      "options": [
+        { "option_id": 1, "text": "Class A", "is_correct": false },
+        { "option_id": 2, "text": "Class B", "is_correct": true },
+        { "option_id": 3, "text": "Class C", "is_correct": false },
+        { "option_id": 4, "text": "Class D", "is_correct": false }
+      ],
+      "answer": "Class B"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which gas is used in electrical fire extinguishers?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which method controls fire by removing oxygen?",
+      "options": [
+        { "option_id": 1, "text": "Cooling", "is_correct": false },
+        { "option_id": 2, "text": "Suppressing fire", "is_correct": true },
+        { "option_id": 3, "text": "Heating", "is_correct": false },
+        { "option_id": 4, "text": "Lighting", "is_correct": false }
+      ],
+      "answer": "Suppressing fire"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which device is used to extinguish small fires by spraying water?",
+      "options": [
+        { "option_id": 1, "text": "Fire alarm", "is_correct": false },
+        { "option_id": 2, "text": "Stirrup pump", "is_correct": true },
+        { "option_id": 3, "text": "Thermometer", "is_correct": false },
+        { "option_id": 4, "text": "Generator", "is_correct": false }
+      ],
+      "answer": "Stirrup pump"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is landslide?",
+      "options": [
+        { "option_id": 1, "text": "Flow of water", "is_correct": false },
+        { "option_id": 2, "text": "Sliding of rocks and soil", "is_correct": true },
+        { "option_id": 3, "text": "Earth shaking", "is_correct": false },
+        { "option_id": 4, "text": "Volcanic eruption", "is_correct": false }
+      ],
+      "answer": "Sliding of rocks and soil"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which increases risk of landslides?",
+      "options": [
+        { "option_id": 1, "text": "Tree plantation", "is_correct": false },
+        { "option_id": 2, "text": "Deforestation", "is_correct": true },
+        { "option_id": 3, "text": "Rainwater harvesting", "is_correct": false },
+        { "option_id": 4, "text": "Recycling", "is_correct": false }
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which natural event can trigger landslide?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": true },
+        { "option_id": 2, "text": "Drought", "is_correct": false },
+        { "option_id": 3, "text": "Heat wave", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which is an effect of landslide?",
+      "options": [
+        { "option_id": 1, "text": "River path changes", "is_correct": true },
+        { "option_id": 2, "text": "Ozone depletion", "is_correct": false },
+        { "option_id": 3, "text": "Cyclone formation", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "River path changes"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which activity weakens mountain slopes?",
+      "options": [
+        { "option_id": 1, "text": "Road construction", "is_correct": true },
+        { "option_id": 2, "text": "Gardening", "is_correct": false },
+        { "option_id": 3, "text": "Reforestation", "is_correct": false },
+        { "option_id": 4, "text": "Fishing", "is_correct": false }
+      ],
+      "answer": "Road construction"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which organization helps in landslide forecasting?",
+      "options": [
+        { "option_id": 1, "text": "Mountaineering Institute", "is_correct": true },
+        { "option_id": 2, "text": "Traffic Police", "is_correct": false },
+        { "option_id": 3, "text": "Post Office", "is_correct": false },
+        { "option_id": 4, "text": "Forest Department", "is_correct": false }
+      ],
+      "answer": "Mountaineering Institute"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which fire is caused by LPG?",
+      "options": [
+        { "option_id": 1, "text": "Class A", "is_correct": false },
+        { "option_id": 2, "text": "Class B", "is_correct": false },
+        { "option_id": 3, "text": "Class C", "is_correct": true },
+        { "option_id": 4, "text": "Class D", "is_correct": false }
+      ],
+      "answer": "Class C"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which fire is caused by metals like sodium?",
+      "options": [
+        { "option_id": 1, "text": "Class A", "is_correct": false },
+        { "option_id": 2, "text": "Class B", "is_correct": false },
+        { "option_id": 3, "text": "Class D", "is_correct": true },
+        { "option_id": 4, "text": "Class E", "is_correct": false }
+      ],
+      "answer": "Class D"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which fire is related to electrical equipment?",
+      "options": [
+        { "option_id": 1, "text": "Class B", "is_correct": false },
+        { "option_id": 2, "text": "Class C", "is_correct": false },
+        { "option_id": 3, "text": "Class E", "is_correct": true },
+        { "option_id": 4, "text": "Class D", "is_correct": false }
+      ],
+      "answer": "Class E"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What should be switched off after earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Gas and electricity", "is_correct": true },
+        { "option_id": 2, "text": "Water supply", "is_correct": false },
+        { "option_id": 3, "text": "Mobile phones", "is_correct": false },
+        { "option_id": 4, "text": "TV only", "is_correct": false }
+      ],
+      "answer": "Gas and electricity"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What should you use instead of candles after earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Matchstick", "is_correct": false },
+        { "option_id": 2, "text": "Torch", "is_correct": true },
+        { "option_id": 3, "text": "Lighter", "is_correct": false },
+        { "option_id": 4, "text": "Gas lamp", "is_correct": false }
+      ],
+      "answer": "Torch"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which building type is safer in earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake resistant", "is_correct": true },
+        { "option_id": 2, "text": "Mud house", "is_correct": false },
+        { "option_id": 3, "text": "Wooden hut", "is_correct": false },
+        { "option_id": 4, "text": "Temporary tents", "is_correct": false }
+      ],
+      "answer": "Earthquake resistant"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which code is used for earthquake resistant design in India?",
+      "options": [
+        { "option_id": 1, "text": "IS 1893", "is_correct": true },
+        { "option_id": 2, "text": "IS 1001", "is_correct": false },
+        { "option_id": 3, "text": "IS 5000", "is_correct": false },
+        { "option_id": 4, "text": "IS 700", "is_correct": false }
+      ],
+      "answer": "IS 1893"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which increases soil weight during rain causing landslide?",
+      "options": [
+        { "option_id": 1, "text": "Water seepage", "is_correct": true },
+        { "option_id": 2, "text": "Wind", "is_correct": false },
+        { "option_id": 3, "text": "Sunlight", "is_correct": false },
+        { "option_id": 4, "text": "Dust", "is_correct": false }
+      ],
+      "answer": "Water seepage"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which causes traffic problems in hilly areas?",
+      "options": [
+        { "option_id": 1, "text": "Landslides", "is_correct": true },
+        { "option_id": 2, "text": "Cyclones", "is_correct": false },
+        { "option_id": 3, "text": "Tsunami", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Landslides"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which disaster destroys biodiversity?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": true },
+        { "option_id": 2, "text": "Rain", "is_correct": false },
+        { "option_id": 3, "text": "Fog", "is_correct": false },
+        { "option_id": 4, "text": "Dew", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which is used to forecast earthquakes?",
+      "options": [
+        { "option_id": 1, "text": "Strain meter", "is_correct": true },
+        { "option_id": 2, "text": "Thermometer", "is_correct": false },
+        { "option_id": 3, "text": "Barometer", "is_correct": false },
+        { "option_id": 4, "text": "Speedometer", "is_correct": false }
+      ],
+      "answer": "Strain meter"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which fire extinguisher is safe for electrical fire?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "CO2", "is_correct": true },
+        { "option_id": 3, "text": "Foam", "is_correct": false },
+        { "option_id": 4, "text": "Oil", "is_correct": false }
+      ],
+      "answer": "CO2"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which should be avoided near hills in monsoon?",
+      "options": [
+        { "option_id": 1, "text": "Shelter", "is_correct": true },
+        { "option_id": 2, "text": "Walking", "is_correct": false },
+        { "option_id": 3, "text": "Studying", "is_correct": false },
+        { "option_id": 4, "text": "Talking", "is_correct": false }
+      ],
+      "answer": "Shelter"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is a man-made disaster cause?",
+      "options": [
+        { "option_id": 1, "text": "Atomic test", "is_correct": true },
+        { "option_id": 2, "text": "Rainfall", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Atomic test"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which loss is caused by earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Economic loss", "is_correct": true },
+        { "option_id": 2, "text": "Only crop loss", "is_correct": false },
+        { "option_id": 3, "text": "Only animal loss", "is_correct": false },
+        { "option_id": 4, "text": "Only forest loss", "is_correct": false }
+      ],
+      "answer": "Economic loss"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which structure should be displayed at school entrance?",
+      "options": [
+        { "option_id": 1, "text": "Disaster management map", "is_correct": true },
+        { "option_id": 2, "text": "Time table", "is_correct": false },
+        { "option_id": 3, "text": "Sports chart", "is_correct": false },
+        { "option_id": 4, "text": "Notice board only", "is_correct": false }
+      ],
+      "answer": "Disaster management map"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which committee handles safety in school disaster plan?",
+      "options": [
+        { "option_id": 1, "text": "Safety committee", "is_correct": true },
+        { "option_id": 2, "text": "Cultural committee", "is_correct": false },
+        { "option_id": 3, "text": "Sports committee", "is_correct": false },
+        { "option_id": 4, "text": "Library committee", "is_correct": false }
+      ],
+      "answer": "Safety committee"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which disaster blocks roads in hilly areas?",
+      "options": [
+        { "option_id": 1, "text": "Landslide", "is_correct": true },
+        { "option_id": 2, "text": "Fire", "is_correct": false },
+        { "option_id": 3, "text": "Flood", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Landslide"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which increases chance of fire after earthquake?",
+      "options": [
+        { "option_id": 1, "text": "Gas leakage", "is_correct": true },
+        { "option_id": 2, "text": "Rain", "is_correct": false },
+        { "option_id": 3, "text": "Cold wind", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Gas leakage"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which disaster causes cracks in buildings?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": true },
+        { "option_id": 2, "text": "Cyclone", "is_correct": false },
+        { "option_id": 3, "text": "Drought", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which natural disaster is related to mountain slopes?",
+      "options": [
+        { "option_id": 1, "text": "Landslide", "is_correct": true },
+        { "option_id": 2, "text": "Tsunami", "is_correct": false },
+        { "option_id": 3, "text": "Cyclone", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Landslide"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which disaster requires mock drills in schools?",
+      "options": [
+        { "option_id": 1, "text": "All disasters", "is_correct": true },
+        { "option_id": 2, "text": "Only fire", "is_correct": false },
+        { "option_id": 3, "text": "Only earthquake", "is_correct": false },
+        { "option_id": 4, "text": "Only flood", "is_correct": false }
+      ],
+      "answer": "All disasters"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which is safe place during earthquake indoors?",
+      "options": [
+        { "option_id": 1, "text": "Under table", "is_correct": true },
+        { "option_id": 2, "text": "Near window", "is_correct": false },
+        { "option_id": 3, "text": "Balcony", "is_correct": false },
+        { "option_id": 4, "text": "Lift", "is_correct": false }
+      ],
+      "answer": "Under table"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which disaster changes water table level?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": true },
+        { "option_id": 2, "text": "Cyclone", "is_correct": false },
+        { "option_id": 3, "text": "Drought", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which should be done when fire breaks out?",
+      "options": [
+        { "option_id": 1, "text": "Call fire brigade", "is_correct": true },
+        { "option_id": 2, "text": "Hide", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Ignore", "is_correct": false }
+      ],
+      "answer": "Call fire brigade"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which fire can be extinguished using water?",
+      "options": [
+        { "option_id": 1, "text": "Class A", "is_correct": true },
+        { "option_id": 2, "text": "Class B", "is_correct": false },
+        { "option_id": 3, "text": "Class C", "is_correct": false },
+        { "option_id": 4, "text": "Class E", "is_correct": false }
+      ],
+      "answer": "Class A"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which is safer during earthquake outside?",
+      "options": [
+        { "option_id": 1, "text": "Open ground", "is_correct": true },
+        { "option_id": 2, "text": "Near buildings", "is_correct": false },
+        { "option_id": 3, "text": "Under electric poles", "is_correct": false },
+        { "option_id": 4, "text": "Near trees", "is_correct": false }
+      ],
+      "answer": "Open ground"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which natural factor increases landslide during monsoon?",
+      "options": [
+        { "option_id": 1, "text": "Heavy rainfall", "is_correct": true },
+        { "option_id": 2, "text": "High temperature", "is_correct": false },
+        { "option_id": 3, "text": "Strong wind", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ],
+      "answer": "Heavy rainfall"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which is part of disaster management in school?",
+      "options": [
+        { "option_id": 1, "text": "Mock drill", "is_correct": true },
+        { "option_id": 2, "text": "Picnic", "is_correct": false },
+        { "option_id": 3, "text": "Sports day", "is_correct": false },
+        { "option_id": 4, "text": "Annual day", "is_correct": false }
+      ],
+      "answer": "Mock drill"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is disaster management?",
+      "answer": "Disaster management is planning and action taken before, during and after disasters to reduce loss of life and property."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are earthquakes dangerous?",
+      "answer": "They cause ground shaking, building collapse, fires and loss of lives, leading to large-scale damage."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is focus of an earthquake?",
+      "answer": "Focus is the point inside the Earth where energy is released and earthquake starts."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why epicenter is important?",
+      "answer": "It is the surface point above focus where maximum damage is usually observed."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why should heavy furniture be fixed to walls?",
+      "answer": "During earthquake it may fall and cause injury. Fixing reduces risk of accidents."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What precautions should be taken during earthquake indoors?",
+      "answer": "Stay under strong table, protect head and avoid windows, lifts and heavy objects."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should you do after earthquake?",
+      "answer": "Check injuries, switch off gas and electricity, and move to safe open area."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why mock drills are important?",
+      "answer": "They prepare people to respond quickly and safely during real disasters."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is tsunami?",
+      "answer": "Tsunami is huge sea waves caused by underwater earthquakes or volcanic eruptions."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How can tsunami warning reduce damage?",
+      "answer": "Early warning allows evacuation of coastal areas and saves many lives."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is fire triangle?",
+      "answer": "Fire needs heat, oxygen and fuel. Removing any one can stop fire."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why water is not used for electrical fires?",
+      "answer": "Water conducts electricity and can cause electric shock."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How CO2 extinguisher stops fire?",
+      "answer": "It cuts off oxygen supply and cools down the fire."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is Class A fire example?",
+      "answer": "Fire from wood, paper and cloth is Class A fire."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why LPG fires are dangerous?",
+      "answer": "Gas spreads quickly and can cause explosions if ignited."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is landslide?",
+      "answer": "Sudden movement of rocks and soil down the slope is called landslide."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why heavy rain causes landslide?",
+      "answer": "Water increases soil weight and reduces friction, making slope unstable."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How deforestation increases landslide risk?",
+      "answer": "Roots hold soil together. Without trees, soil becomes loose and slides easily."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What damage do landslides cause?",
+      "answer": "They block roads, destroy houses and change river paths."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How can landslides be prevented?",
+      "answer": "By tree plantation, slope stabilization and avoiding excessive construction."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is disaster preparedness?",
+      "answer": "Planning and training done before disaster to reduce damage and panic."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why emergency kits are needed?",
+      "answer": "They provide food, water, medicine and torch during emergencies."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is evacuation?",
+      "answer": "Moving people from dangerous area to safe place is called evacuation."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why hospitals play key role in disaster?",
+      "answer": "They treat injured people and prevent deaths after disasters."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is rehabilitation?",
+      "answer": "Helping victims to rebuild homes and restart normal life after disaster."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does mining trigger earthquakes?",
+      "answer": "Blasting and removal of rocks disturb underground stability."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is aftershock?",
+      "answer": "Smaller earthquakes that occur after main earthquake are aftershocks."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why aftershocks are dangerous?",
+      "answer": "They can collapse already weakened buildings."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is earthquake resistant building?",
+      "answer": "Buildings designed to absorb shocks and reduce collapse."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why staircases are safer than lifts during earthquake?",
+      "answer": "Lifts may stop due to power failure, trapping people."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is fire alarm?",
+      "answer": "Device that warns people when fire starts by loud sound."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How smoke affects humans?",
+      "answer": "It reduces oxygen and causes breathing problems and suffocation."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why crawling helps during fire escape?",
+      "answer": "Smoke rises upward, so air near floor is cleaner."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is fire blanket used for?",
+      "answer": "It covers burning person or small fire to cut oxygen supply."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why electrical short circuits cause fire?",
+      "answer": "Excess heat from faulty wiring ignites nearby materials."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is hazard mapping?",
+      "answer": "Identifying disaster-prone areas to reduce future damage."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How community helps during disaster?",
+      "answer": "People rescue victims, provide shelter and food."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why schools should have disaster plan?",
+      "answer": "To protect students and staff during emergencies."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is relief work?",
+      "answer": "Immediate help such as food, water and medical aid."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why disaster awareness is important?",
+      "answer": "Knowledge reduces panic and saves lives."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is man-made disaster?",
+      "answer": "Disasters caused by human activities like fires and explosions."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Give example of natural disaster.",
+      "answer": "Earthquake, flood and landslide are natural disasters."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why disaster response should be quick?",
+      "answer": "Quick action reduces injuries and saves trapped people."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is rescue operation?",
+      "answer": "Saving trapped or injured people during disaster."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How volunteers help in disaster?",
+      "answer": "They distribute supplies and assist rescue teams."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is disaster mitigation?",
+      "answer": "Steps taken to reduce impact of disasters."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why early warning systems are useful?",
+      "answer": "They alert people before disaster strikes."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How construction laws reduce disaster risk?",
+      "answer": "They ensure buildings are safe and strong."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is disaster recovery?",
+      "answer": "Process of restoring normal life after disaster."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why emotional support is important after disaster?",
+      "answer": "Victims suffer mental stress and need counseling."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "How can children help in disaster preparedness?",
+      "answer": "By learning safety rules and participating in drills."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why emergency numbers should be known?",
+      "answer": "To quickly contact help during crisis."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is shelter home?",
+      "answer": "Safe place where victims stay temporarily."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why fires increase after earthquakes?",
+      "answer": "Gas leaks and electrical damage cause ignition."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is slope stabilization?",
+      "answer": "Techniques used to prevent soil from sliding."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why proper drainage reduces landslides?",
+      "answer": "It prevents water accumulation in soil."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is disaster response team?",
+      "answer": "Trained group that handles rescue and relief."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why emergency lights are useful?",
+      "answer": "They provide visibility during power failure."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is hazard zone?",
+      "answer": "Area prone to frequent disasters."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why disaster education is important?",
+      "answer": "It builds safety awareness from young age."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How can fire be prevented at home?",
+      "answer": "Proper wiring, gas safety and no open flames."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why electrical inspections are necessary?",
+      "answer": "To prevent short circuits and fires."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is safe assembly point?",
+      "answer": "Designated place where people gather after evacuation."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why disaster drills reduce panic?",
+      "answer": "People know what to do and remain calm."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is safety audit?",
+      "answer": "Inspection of buildings and systems for risks."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How landslides affect rivers?",
+      "answer": "They block flow and may cause floods."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is disaster relief fund?",
+      "answer": "Money used for helping disaster victims."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why community shelters are built?",
+      "answer": "To provide safe stay during disasters."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is hazard reduction?",
+      "answer": "Reducing causes that trigger disasters."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why construction near slopes is risky?",
+      "answer": "It weakens soil and increases landslide chance."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How weather monitoring helps disaster management?",
+      "answer": "It predicts storms and heavy rainfall."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is disaster insurance?",
+      "answer": "Financial protection against disaster losses."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why communication is important in disaster?",
+      "answer": "Helps coordinate rescue and provide information."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is volunteer training?",
+      "answer": "Teaching rescue and first aid skills."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why children should not panic during disaster?",
+      "answer": "Calm behavior helps follow safety steps."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is disaster resilient society?",
+      "answer": "Community prepared to face disasters safely."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How roads get damaged in earthquakes?",
+      "answer": "Ground cracks and shifts break roads."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why water supply stops after disaster?",
+      "answer": "Pipes break and electricity fails."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is disaster simulation?",
+      "answer": "Practice drill that imitates real disaster."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why should emergency exits be clear?",
+      "answer": "For quick and safe evacuation."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How forests prevent landslides?",
+      "answer": "Roots hold soil and absorb rainwater."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is seismic zone?",
+      "answer": "Area classified by earthquake risk level."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why coastal areas need tsunami shelters?",
+      "answer": "To protect people from sea waves."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How proper drainage helps disaster control?",
+      "answer": "Prevents flooding and soil erosion."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why disaster planning is long-term process?",
+      "answer": "It requires continuous training and updating."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How disasters affect economy?",
+      "answer": "They destroy industries, agriculture and infrastructure."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why emergency food storage is needed?",
+      "answer": "Supplies may not reach immediately."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is post-disaster survey?",
+      "answer": "Assessment of damage and losses."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why disaster volunteers need ID cards?",
+      "answer": "For identification and coordination."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is hazard communication?",
+      "answer": "Sharing risk information with public."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How first aid helps in disaster?",
+      "answer": "It prevents serious injury and saves lives."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why emergency lighting is essential?",
+      "answer": "It prevents accidents during evacuation."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is safe construction practice?",
+      "answer": "Building structures as per safety codes."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How public awareness reduces disaster loss?",
+      "answer": "People take preventive actions early."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why disaster management is teamwork?",
+      "answer": "Different agencies must work together."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How landslides affect agriculture?",
+      "answer": "They destroy fields and irrigation systems."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why safe storage of fuel is important?",
+      "answer": "To prevent accidental fires and explosions."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is disaster risk reduction?",
+      "answer": "Reducing vulnerability before disaster occurs."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How technology helps in disaster management?",
+      "answer": "Satellites and sensors give early warnings."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Disaster Management chapter.",
+      "answer": "Preparedness, awareness and quick response can greatly reduce disaster losses."
+    }
+  ]
+}

@@ -1,0 +1,1085 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.17",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Man-made Materials"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is a man-made material?",
+      "options": [
+        { "option_id": 1, "text": "Wood", "is_correct": false },
+        { "option_id": 2, "text": "Rock", "is_correct": false },
+        { "option_id": 3, "text": "Plastic", "is_correct": true },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which material is obtained naturally?",
+      "options": [
+        { "option_id": 1, "text": "Glass", "is_correct": false },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Wood", "is_correct": true },
+        { "option_id": 4, "text": "Thermocol", "is_correct": false }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Plastic is made of:",
+      "options": [
+        { "option_id": 1, "text": "Inorganic salts", "is_correct": false },
+        { "option_id": 2, "text": "Organic polymers", "is_correct": true },
+        { "option_id": 3, "text": "Metals", "is_correct": false },
+        { "option_id": 4, "text": "Minerals", "is_correct": false }
+      ],
+      "answer": "Organic polymers"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Property of plastic that allows it to be moulded is called:",
+      "options": [
+        { "option_id": 1, "text": "Elasticity", "is_correct": false },
+        { "option_id": 2, "text": "Plasticity", "is_correct": true },
+        { "option_id": 3, "text": "Conductivity", "is_correct": false },
+        { "option_id": 4, "text": "Hardness", "is_correct": false }
+      ],
+      "answer": "Plasticity"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which plastic can be reshaped on heating?",
+      "options": [
+        { "option_id": 1, "text": "Thermosetting", "is_correct": false },
+        { "option_id": 2, "text": "Thermoplastic", "is_correct": true },
+        { "option_id": 3, "text": "Bakelite", "is_correct": false },
+        { "option_id": 4, "text": "Melamine", "is_correct": false }
+      ],
+      "answer": "Thermoplastic"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which plastic cannot be reshaped after moulding?",
+      "options": [
+        { "option_id": 1, "text": "Thermoplastic", "is_correct": false },
+        { "option_id": 2, "text": "Thermosetting plastic", "is_correct": true },
+        { "option_id": 3, "text": "PVC", "is_correct": false },
+        { "option_id": 4, "text": "Polythene", "is_correct": false }
+      ],
+      "answer": "Thermosetting plastic"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is thermoplastic?",
+      "options": [
+        { "option_id": 1, "text": "Bakelite", "is_correct": false },
+        { "option_id": 2, "text": "Melamine", "is_correct": false },
+        { "option_id": 3, "text": "PVC", "is_correct": true },
+        { "option_id": 4, "text": "Polyester", "is_correct": false }
+      ],
+      "answer": "PVC"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is used for electric switches?",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "Bakelite", "is_correct": true },
+        { "option_id": 3, "text": "Polythene", "is_correct": false },
+        { "option_id": 4, "text": "Polypropylene", "is_correct": false }
+      ],
+      "answer": "Bakelite"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which plastic is used for milk bags?",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "Polyethylene", "is_correct": true },
+        { "option_id": 3, "text": "Bakelite", "is_correct": false },
+        { "option_id": 4, "text": "Melamine", "is_correct": false }
+      ],
+      "answer": "Polyethylene"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which plastic is used for refrigerator insulation?",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "Polystyrene", "is_correct": true },
+        { "option_id": 3, "text": "Polypropylene", "is_correct": false },
+        { "option_id": 4, "text": "Polyester", "is_correct": false }
+      ],
+      "answer": "Polystyrene"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Plastic is a bad conductor of:",
+      "options": [
+        { "option_id": 1, "text": "Light", "is_correct": false },
+        { "option_id": 2, "text": "Heat and electricity", "is_correct": true },
+        { "option_id": 3, "text": "Sound", "is_correct": false },
+        { "option_id": 4, "text": "Magnetism", "is_correct": false }
+      ],
+      "answer": "Heat and electricity"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is non-degradable?",
+      "options": [
+        { "option_id": 1, "text": "Cotton cloth", "is_correct": false },
+        { "option_id": 2, "text": "Vegetable waste", "is_correct": false },
+        { "option_id": 3, "text": "Plastic", "is_correct": true },
+        { "option_id": 4, "text": "Wood", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which principle should be followed to protect environment?",
+      "options": [
+        { "option_id": 1, "text": "2R", "is_correct": false },
+        { "option_id": 2, "text": "3R", "is_correct": false },
+        { "option_id": 3, "text": "4R", "is_correct": true },
+        { "option_id": 4, "text": "5R", "is_correct": false }
+      ],
+      "answer": "4R"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT included in 4R?",
+      "options": [
+        { "option_id": 1, "text": "Reduce", "is_correct": false },
+        { "option_id": 2, "text": "Reuse", "is_correct": false },
+        { "option_id": 3, "text": "Recycle", "is_correct": false },
+        { "option_id": 4, "text": "Replace", "is_correct": true }
+      ],
+      "answer": "Replace"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Thermocol is a form of:",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "Polystyrene", "is_correct": true },
+        { "option_id": 3, "text": "Polyester", "is_correct": false },
+        { "option_id": 4, "text": "Polypropylene", "is_correct": false }
+      ],
+      "answer": "Polystyrene"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Thermocol is used mainly because it is:",
+      "options": [
+        { "option_id": 1, "text": "Heavy", "is_correct": false },
+        { "option_id": 2, "text": "Shock absorber", "is_correct": true },
+        { "option_id": 3, "text": "Metallic", "is_correct": false },
+        { "option_id": 4, "text": "Conductive", "is_correct": false }
+      ],
+      "answer": "Shock absorber"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Burning thermocol is dangerous because it:",
+      "options": [
+        { "option_id": 1, "text": "Smells bad", "is_correct": false },
+        { "option_id": 2, "text": "Releases poisonous gases", "is_correct": true },
+        { "option_id": 3, "text": "Produces ash", "is_correct": false },
+        { "option_id": 4, "text": "Melts slowly", "is_correct": false }
+      ],
+      "answer": "Releases poisonous gases"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Main raw material of glass is:",
+      "options": [
+        { "option_id": 1, "text": "Clay", "is_correct": false },
+        { "option_id": 2, "text": "Silica (sand)", "is_correct": true },
+        { "option_id": 3, "text": "Plastic", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Silica (sand)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Glass is:",
+      "options": [
+        { "option_id": 1, "text": "Crystalline", "is_correct": false },
+        { "option_id": 2, "text": "Non-crystalline", "is_correct": true },
+        { "option_id": 3, "text": "Metallic", "is_correct": false },
+        { "option_id": 4, "text": "Organic", "is_correct": false }
+      ],
+      "answer": "Non-crystalline"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which glass is used for laboratory apparatus?",
+      "options": [
+        { "option_id": 1, "text": "Lead glass", "is_correct": false },
+        { "option_id": 2, "text": "Silica glass", "is_correct": true },
+        { "option_id": 3, "text": "Coloured glass", "is_correct": false },
+        { "option_id": 4, "text": "Water glass", "is_correct": false }
+      ],
+      "answer": "Silica glass"
+    },
+
+    { "question_id": 21, "question_type": "MCQ", "question": "Borosilicate glass is used for:", "options": [
+        { "option_id": 1, "text": "Bulbs", "is_correct": false },
+        { "option_id": 2, "text": "Medicine bottles", "is_correct": true },
+        { "option_id": 3, "text": "Mirrors", "is_correct": false },
+        { "option_id": 4, "text": "Windows", "is_correct": false }
+      ], "answer": "Medicine bottles" },
+
+    { "question_id": 22, "question_type": "MCQ", "question": "Which glass dissolves in water?", "options": [
+        { "option_id": 1, "text": "Silica glass", "is_correct": false },
+        { "option_id": 2, "text": "Lead glass", "is_correct": false },
+        { "option_id": 3, "text": "Alkali silicate glass", "is_correct": true },
+        { "option_id": 4, "text": "Optical glass", "is_correct": false }
+      ], "answer": "Alkali silicate glass" },
+
+    { "question_id": 23, "question_type": "MCQ", "question": "Optical glass is used for making:", "options": [
+        { "option_id": 1, "text": "Plates", "is_correct": false },
+        { "option_id": 2, "text": "Spectacles and lenses", "is_correct": true },
+        { "option_id": 3, "text": "Electric switches", "is_correct": false },
+        { "option_id": 4, "text": "Furniture", "is_correct": false }
+      ], "answer": "Spectacles and lenses" },
+
+    { "question_id": 24, "question_type": "MCQ", "question": "Colour is added to glass by mixing:", "options": [
+        { "option_id": 1, "text": "Plastic", "is_correct": false },
+        { "option_id": 2, "text": "Metal oxides", "is_correct": true },
+        { "option_id": 3, "text": "Rubber", "is_correct": false },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ], "answer": "Metal oxides" },
+
+    { "question_id": 25, "question_type": "MCQ", "question": "Glass is a poor conductor of:", "options": [
+        { "option_id": 1, "text": "Sound", "is_correct": false },
+        { "option_id": 2, "text": "Heat and electricity", "is_correct": true },
+        { "option_id": 3, "text": "Light", "is_correct": false },
+        { "option_id": 4, "text": "Magnetism", "is_correct": false }
+      ], "answer": "Heat and electricity" },
+
+    { "question_id": 26, "question_type": "MCQ", "question": "Glass cracks when heated suddenly because:", "options": [
+        { "option_id": 1, "text": "It melts", "is_correct": false },
+        { "option_id": 2, "text": "It expands unevenly", "is_correct": true },
+        { "option_id": 3, "text": "It is metal", "is_correct": false },
+        { "option_id": 4, "text": "It burns", "is_correct": false }
+      ], "answer": "It expands unevenly" },
+
+    { "question_id": 27, "question_type": "MCQ", "question": "Which gas is released during glass production?", "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Helium", "is_correct": false }
+      ], "answer": "Carbon dioxide" },
+
+    { "question_id": 28, "question_type": "MCQ", "question": "Which material is best alternative to plastic bags?", "options": [
+        { "option_id": 1, "text": "Thermocol", "is_correct": false },
+        { "option_id": 2, "text": "Cloth bags", "is_correct": true },
+        { "option_id": 3, "text": "Polythene", "is_correct": false },
+        { "option_id": 4, "text": "Nylon", "is_correct": false }
+      ], "answer": "Cloth bags" },
+
+    { "question_id": 29, "question_type": "MCQ", "question": "Which is biodegradable?", "options": [
+        { "option_id": 1, "text": "Plastic", "is_correct": false },
+        { "option_id": 2, "text": "Thermocol", "is_correct": false },
+        { "option_id": 3, "text": "Cotton cloth", "is_correct": true },
+        { "option_id": 4, "text": "Polythene", "is_correct": false }
+      ], "answer": "Cotton cloth" },
+
+    { "question_id": 30, "question_type": "MCQ", "question": "Plastic takes how long to degrade?", "options": [
+        { "option_id": 1, "text": "Few days", "is_correct": false },
+        { "option_id": 2, "text": "Few months", "is_correct": false },
+        { "option_id": 3, "text": "Thousands of years", "is_correct": true },
+        { "option_id": 4, "text": "One year", "is_correct": false }
+      ], "answer": "Thousands of years" },
+
+    { "question_id": 31, "question_type": "MCQ", "question": "Which plastic is used in loudspeakers and vehicles?", "options": [
+        { "option_id": 1, "text": "Polypropylene", "is_correct": true },
+        { "option_id": 2, "text": "PVC", "is_correct": false },
+        { "option_id": 3, "text": "Polystyrene", "is_correct": false },
+        { "option_id": 4, "text": "Melamine", "is_correct": false }
+      ], "answer": "Polypropylene" },
+
+    { "question_id": 32, "question_type": "MCQ", "question": "Which thermosetting plastic is used in plates and cups?", "options": [
+        { "option_id": 1, "text": "Bakelite", "is_correct": false },
+        { "option_id": 2, "text": "Melamine", "is_correct": true },
+        { "option_id": 3, "text": "PVC", "is_correct": false },
+        { "option_id": 4, "text": "PE", "is_correct": false }
+      ], "answer": "Melamine" },
+
+    { "question_id": 33, "question_type": "MCQ", "question": "Which plastic is used in surf boards and furniture?", "options": [
+        { "option_id": 1, "text": "Polyurethane", "is_correct": true },
+        { "option_id": 2, "text": "PVC", "is_correct": false },
+        { "option_id": 3, "text": "Bakelite", "is_correct": false },
+        { "option_id": 4, "text": "Polystyrene", "is_correct": false }
+      ], "answer": "Polyurethane" },
+
+    { "question_id": 34, "question_type": "MCQ", "question": "Which plastic is used in laser printer toner?", "options": [
+        { "option_id": 1, "text": "Polyester", "is_correct": true },
+        { "option_id": 2, "text": "PVC", "is_correct": false },
+        { "option_id": 3, "text": "Melamine", "is_correct": false },
+        { "option_id": 4, "text": "Polythene", "is_correct": false }
+      ], "answer": "Polyester" },
+
+    { "question_id": 35, "question_type": "MCQ", "question": "Which glass is used in electric bulbs?", "options": [
+        { "option_id": 1, "text": "Silica glass", "is_correct": false },
+        { "option_id": 2, "text": "Lead glass", "is_correct": true },
+        { "option_id": 3, "text": "Optical glass", "is_correct": false },
+        { "option_id": 4, "text": "Water glass", "is_correct": false }
+      ], "answer": "Lead glass" },
+
+    { "question_id": 36, "question_type": "MCQ", "question": "Which glass is least affected by acids and alkalis?", "options": [
+        { "option_id": 1, "text": "Silica glass", "is_correct": true },
+        { "option_id": 2, "text": "Lead glass", "is_correct": false },
+        { "option_id": 3, "text": "Coloured glass", "is_correct": false },
+        { "option_id": 4, "text": "Water glass", "is_correct": false }
+      ], "answer": "Silica glass" },
+
+    { "question_id": 37, "question_type": "MCQ", "question": "Which of the following is recyclable?", "options": [
+        { "option_id": 1, "text": "Thermocol", "is_correct": false },
+        { "option_id": 2, "text": "Plastic bottle", "is_correct": true },
+        { "option_id": 3, "text": "Used oil", "is_correct": false },
+        { "option_id": 4, "text": "Food waste", "is_correct": false }
+      ], "answer": "Plastic bottle" },
+
+    { "question_id": 38, "question_type": "MCQ", "question": "Which of the following is used to prevent breaking of items during transport?", "options": [
+        { "option_id": 1, "text": "Cloth", "is_correct": false },
+        { "option_id": 2, "text": "Thermocol", "is_correct": true },
+        { "option_id": 3, "text": "Paper", "is_correct": false },
+        { "option_id": 4, "text": "Rubber", "is_correct": false }
+      ], "answer": "Thermocol" },
+
+    { "question_id": 39, "question_type": "MCQ", "question": "Which is the safest alternative to thermocol plates?", "options": [
+        { "option_id": 1, "text": "Plastic plates", "is_correct": false },
+        { "option_id": 2, "text": "Paper plates", "is_correct": true },
+        { "option_id": 3, "text": "Foam plates", "is_correct": false },
+        { "option_id": 4, "text": "PVC plates", "is_correct": false }
+      ], "answer": "Paper plates" },
+
+    { "question_id": 40, "question_type": "MCQ", "question": "Which material is used for electric insulation in appliances?", "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Glass", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Steel", "is_correct": false }
+      ], "answer": "Glass" },
+
+    { "question_id": 41, "question_type": "MCQ", "question": "Which gas causes greenhouse effect during glass production?", "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ], "answer": "Carbon dioxide" },
+
+    { "question_id": 42, "question_type": "MCQ", "question": "Which glass is used in spectacles?", "options": [
+        { "option_id": 1, "text": "Lead glass", "is_correct": false },
+        { "option_id": 2, "text": "Optical glass", "is_correct": true },
+        { "option_id": 3, "text": "Silica glass", "is_correct": false },
+        { "option_id": 4, "text": "Water glass", "is_correct": false }
+      ], "answer": "Optical glass" },
+
+    { "question_id": 43, "question_type": "MCQ", "question": "Which material blocks drainage when dumped?", "options": [
+        { "option_id": 1, "text": "Leaves", "is_correct": false },
+        { "option_id": 2, "text": "Plastic and glass", "is_correct": true },
+        { "option_id": 3, "text": "Cotton", "is_correct": false },
+        { "option_id": 4, "text": "Wood", "is_correct": false }
+      ], "answer": "Plastic and glass" },
+
+    { "question_id": 44, "question_type": "MCQ", "question": "Which of the following is safest for environment?", "options": [
+        { "option_id": 1, "text": "Plastic bags", "is_correct": false },
+        { "option_id": 2, "text": "Cloth bags", "is_correct": true },
+        { "option_id": 3, "text": "Thermocol cups", "is_correct": false },
+        { "option_id": 4, "text": "PVC sheets", "is_correct": false }
+      ], "answer": "Cloth bags" },
+
+    { "question_id": 45, "question_type": "MCQ", "question": "Which material is harmful when reheated with food?", "options": [
+        { "option_id": 1, "text": "Steel", "is_correct": false },
+        { "option_id": 2, "text": "Thermocol", "is_correct": true },
+        { "option_id": 3, "text": "Glass", "is_correct": false },
+        { "option_id": 4, "text": "Clay", "is_correct": false }
+      ], "answer": "Thermocol" },
+
+    { "question_id": 46, "question_type": "MCQ", "question": "Which oxide gives bluish-green colour to glass?",
+      "options": [
+        { "option_id": 1, "text": "Copper oxide", "is_correct": false },
+        { "option_id": 2, "text": "Ferrous oxide", "is_correct": true },
+        { "option_id": 3, "text": "Aluminium oxide", "is_correct": false },
+        { "option_id": 4, "text": "Zinc oxide", "is_correct": false }
+      ],
+      "answer": "Ferrous oxide"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which oxide gives red colour to glass?",
+      "options": [
+        { "option_id": 1, "text": "Copper oxide", "is_correct": true },
+        { "option_id": 2, "text": "Iron oxide", "is_correct": false },
+        { "option_id": 3, "text": "Lead oxide", "is_correct": false },
+        { "option_id": 4, "text": "Zinc oxide", "is_correct": false }
+      ],
+      "answer": "Copper oxide"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which is used to lower melting temperature of glass mixture?",
+      "options": [
+        { "option_id": 1, "text": "Discarded glass pieces", "is_correct": true },
+        { "option_id": 2, "text": "Plastic waste", "is_correct": false },
+        { "option_id": 3, "text": "Metal powder", "is_correct": false },
+        { "option_id": 4, "text": "Rubber", "is_correct": false }
+      ],
+      "answer": "Discarded glass pieces"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which property makes plastic suitable for toys and containers?",
+      "options": [
+        { "option_id": 1, "text": "Conductivity", "is_correct": false },
+        { "option_id": 2, "text": "Plasticity and light weight", "is_correct": true },
+        { "option_id": 3, "text": "Magnetism", "is_correct": false },
+        { "option_id": 4, "text": "Transparency", "is_correct": false }
+      ],
+      "answer": "Plasticity and light weight"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Best way to reduce plastic pollution is:",
+      "options": [
+        { "option_id": 1, "text": "Burning plastic", "is_correct": false },
+        { "option_id": 2, "text": "Using more plastic", "is_correct": false },
+        { "option_id": 3, "text": "Following 4R principle", "is_correct": true },
+        { "option_id": 4, "text": "Throwing in rivers", "is_correct": false }
+      ],
+      "answer": "Following 4R principle"
+    },
+        {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are man-made materials?",
+      "answer": "Materials prepared by humans using natural resources are called man-made materials."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Give two examples of man-made materials.",
+      "answer": "Plastic and glass."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why are plastics widely used?",
+      "answer": "Because they are light, strong, cheap and easy to mould."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is plasticity?",
+      "answer": "Plasticity is the property of being moulded into different shapes."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are thermoplastics?",
+      "answer": "Plastics that can be softened and reshaped on heating are called thermoplastics."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Give two examples of thermoplastics.",
+      "answer": "PVC and polythene."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are thermosetting plastics?",
+      "answer": "Plastics that cannot be reshaped after moulding are called thermosetting plastics."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Give two examples of thermosetting plastics.",
+      "answer": "Bakelite and melamine."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is bakelite used for electric switches?",
+      "answer": "Because it is heat resistant and does not conduct electricity."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is melamine used for kitchen utensils?",
+      "answer": "Because it is heat resistant and durable."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is thermocol?",
+      "answer": "Thermocol is a form of expanded polystyrene used as packing material."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is thermocol used in packing?",
+      "answer": "Because it is light and absorbs shock."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is burning thermocol harmful?",
+      "answer": "Because it releases poisonous gases."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is biodegradable material?",
+      "answer": "Material that can be decomposed by microorganisms is biodegradable."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Is plastic biodegradable?",
+      "answer": "No, plastic is non-biodegradable."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is plastic harmful to environment?",
+      "answer": "Because it does not decompose and causes pollution."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is recycling?",
+      "answer": "Process of converting waste into useful products is called recycling."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "State any one benefit of recycling plastic.",
+      "answer": "It reduces environmental pollution."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are the 4R principles?",
+      "answer": "Reduce, Reuse, Recycle and Recover."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is meant by Reduce?",
+      "answer": "Using fewer resources and generating less waste."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is meant by Reuse?",
+      "answer": "Using items again instead of throwing them away."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is meant by Recycle?",
+      "answer": "Processing waste to make new products."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is meant by Recover?",
+      "answer": "Getting useful materials or energy from waste."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is glass made of?",
+      "answer": "Glass is mainly made of silica or sand."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is glass transparent?",
+      "answer": "Because light can pass through it easily."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Is glass crystalline or non-crystalline?",
+      "answer": "Glass is non-crystalline."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which glass is used in laboratory equipment?",
+      "answer": "Silica or borosilicate glass."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is silica glass used in laboratories?",
+      "answer": "Because it can withstand high temperature and chemicals."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which glass is used in spectacles?",
+      "answer": "Optical glass."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How is colour added to glass?",
+      "answer": "By adding metal oxides to molten glass."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why does glass break on sudden heating?",
+      "answer": "Due to uneven expansion causing cracks."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Is glass a conductor of electricity?",
+      "answer": "No, glass is an insulator."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is glass used in electric bulbs?",
+      "answer": "Because it is heat resistant and transparent."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is water glass?",
+      "answer": "Alkali silicate glass that dissolves in water."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is polymer?",
+      "answer": "A substance made of long chains of repeating units."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why are plastics called polymers?",
+      "answer": "Because they are made of long repeating molecular chains."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name one eco-friendly alternative to plastic bag.",
+      "answer": "Cloth bag."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why should plastic bags be avoided?",
+      "answer": "They cause pollution and block drainage systems."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why are plastics not burnt in open?",
+      "answer": "Because they release toxic gases."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What happens when plastic enters soil?",
+      "answer": "It reduces soil fertility and harms organisms."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How does plastic harm animals?",
+      "answer": "Animals may eat plastic which blocks digestion and causes death."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is synthetic fibre?",
+      "answer": "Man-made fibre prepared using chemical substances."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Give example of synthetic fibre.",
+      "answer": "Nylon."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are synthetic fibres strong?",
+      "answer": "Because they have strong polymer chains."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why are plastics waterproof?",
+      "answer": "Because water cannot pass through plastic."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why are plastic containers used for food storage?",
+      "answer": "Because they are light and do not rust."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is packaging material?",
+      "answer": "Material used to protect goods during transport."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is thermocol avoided for hot food?",
+      "answer": "Because it melts and releases harmful chemicals."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is reuse of plastic?",
+      "answer": "Using plastic items again instead of throwing them."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why should waste be segregated?",
+      "answer": "To make recycling easier and reduce pollution."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Which material is best for making windows?",
+      "answer": "Glass."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is glass brittle?",
+      "answer": "Because it breaks easily under stress."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is glass recycled?",
+      "answer": "To save raw materials and reduce pollution."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is waste management?",
+      "answer": "Systematic disposal and recycling of waste."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why are plastic bottles recycled?",
+      "answer": "To reduce plastic waste and save resources."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is landfill?",
+      "answer": "Place where waste is buried under soil."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why landfill is not good for plastic waste?",
+      "answer": "Because plastic does not decompose easily."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is incineration?",
+      "answer": "Burning of waste at high temperature."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why incineration is not preferred for plastic?",
+      "answer": "Because it releases toxic gases."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which plastic is used for pipes?",
+      "answer": "PVC."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is PVC suitable for pipes?",
+      "answer": "Because it is strong and corrosion resistant."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which plastic is used in toys?",
+      "answer": "Polypropylene or polythene."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are plastic chairs lightweight?",
+      "answer": "Because plastic has low density."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is glass preferred for storing chemicals?",
+      "answer": "Because it does not react easily with chemicals."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is raw material for glass industry?",
+      "answer": "Sand or silica."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is plastic used in medical equipment?",
+      "answer": "Because it is light, cheap and hygienic."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why are syringes made of plastic?",
+      "answer": "Because they are disposable and prevent infection."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is eco-friendly material?",
+      "answer": "Material that does not harm the environment."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Give example of eco-friendly packaging.",
+      "answer": "Paper or jute bags."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why should we avoid single-use plastic?",
+      "answer": "Because it increases non-degradable waste."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are glass bottles reused?",
+      "answer": "Because glass can be cleaned and reused safely."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is composting?",
+      "answer": "Converting biodegradable waste into manure."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Can plastic be composted?",
+      "answer": "No, plastic is not biodegradable."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is plastic cheaper than metals?",
+      "answer": "Because it requires less energy to manufacture."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is plastic corrosion resistant?",
+      "answer": "Because it does not react with water or air."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why are plastic wires insulated?",
+      "answer": "Because plastic does not conduct electricity."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why glass jars are used in kitchens?",
+      "answer": "Because they are safe and do not react with food."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why plastic floats on water?",
+      "answer": "Because it has lower density than water."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why plastic waste is seen in oceans?",
+      "answer": "Because it is not biodegradable and is dumped into water bodies."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How does plastic affect marine life?",
+      "answer": "Marine animals eat plastic and may die."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is green technology?",
+      "answer": "Technology that is environment friendly."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why are paper cups better than plastic cups?",
+      "answer": "Because paper is biodegradable."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why should we carry cloth bags?",
+      "answer": "To reduce plastic usage."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is glass heavy compared to plastic?",
+      "answer": "Because it has higher density."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is packing foam?",
+      "answer": "Foam material used to protect items during transport."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why plastic is used in raincoats?",
+      "answer": "Because it is waterproof."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why glass is not used for making toys?",
+      "answer": "Because it breaks easily and is unsafe."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why plastic is preferred over metal in many uses?",
+      "answer": "Because it is light, cheap and corrosion resistant."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is environment pollution?",
+      "answer": "Contamination of air, water and soil by waste."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How can students reduce plastic use?",
+      "answer": "By using steel bottles and cloth bags."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why plastic straws should be avoided?",
+      "answer": "Because they increase non-degradable waste."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are plastic toys recycled?",
+      "answer": "To reduce waste and save raw materials."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why glass is good for storage of medicines?",
+      "answer": "Because it does not react with chemicals."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why glass is used in thermometers?",
+      "answer": "Because it expands uniformly and is transparent."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why plastic containers are not heated?",
+      "answer": "Because heat may release harmful chemicals."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is plastic banned in many places?",
+      "answer": "Because it causes serious environmental pollution."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is sustainable use of materials?",
+      "answer": "Using resources without harming future needs."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is plastic recycling important?",
+      "answer": "To reduce waste and save petroleum resources."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is main aim of 4R principle?",
+      "answer": "To reduce waste and protect environment."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why should we prefer natural materials?",
+      "answer": "Because they are biodegradable and eco-friendly."
+    }
+
+  ]
+}

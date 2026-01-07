@@ -1,0 +1,1237 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.03",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Force and Pressure"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is force?",
+      "options": [
+        { "option_id": 1, "text": "Only push", "is_correct": false },
+        { "option_id": 2, "text": "Only pull", "is_correct": false },
+        { "option_id": 3, "text": "Push or pull acting on an object", "is_correct": true },
+        { "option_id": 4, "text": "Only attraction", "is_correct": false }
+      ],
+      "answer": "Push or pull acting on an object"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is an example of contact force?",
+      "options": [
+        { "option_id": 1, "text": "Gravitational force", "is_correct": false },
+        { "option_id": 2, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 3, "text": "Muscular force", "is_correct": true },
+        { "option_id": 4, "text": "Electrostatic force", "is_correct": false }
+      ],
+      "answer": "Muscular force"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is a non-contact force?",
+      "options": [
+        { "option_id": 1, "text": "Friction", "is_correct": false },
+        { "option_id": 2, "text": "Muscular force", "is_correct": false },
+        { "option_id": 3, "text": "Magnetic force", "is_correct": true },
+        { "option_id": 4, "text": "Pushing", "is_correct": false }
+      ],
+      "answer": "Magnetic force"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which force causes objects to fall towards earth?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic", "is_correct": false },
+        { "option_id": 2, "text": "Electrostatic", "is_correct": false },
+        { "option_id": 3, "text": "Gravitational", "is_correct": true },
+        { "option_id": 4, "text": "Muscular", "is_correct": false }
+      ],
+      "answer": "Gravitational"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which force opposes motion between two surfaces in contact?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic", "is_correct": false },
+        { "option_id": 2, "text": "Friction", "is_correct": true },
+        { "option_id": 3, "text": "Gravity", "is_correct": false },
+        { "option_id": 4, "text": "Electrostatic", "is_correct": false }
+      ],
+      "answer": "Friction"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Balanced forces result in:",
+      "options": [
+        { "option_id": 1, "text": "Change in motion", "is_correct": false },
+        { "option_id": 2, "text": "No change in motion", "is_correct": true },
+        { "option_id": 3, "text": "Increase in speed", "is_correct": false },
+        { "option_id": 4, "text": "Change in shape only", "is_correct": false }
+      ],
+      "answer": "No change in motion"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Unbalanced force causes:",
+      "options": [
+        { "option_id": 1, "text": "No effect", "is_correct": false },
+        { "option_id": 2, "text": "Change in motion", "is_correct": true },
+        { "option_id": 3, "text": "No movement", "is_correct": false },
+        { "option_id": 4, "text": "Only shape change", "is_correct": false }
+      ],
+      "answer": "Change in motion"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which law states that object remains in same state unless acted by force?",
+      "options": [
+        { "option_id": 1, "text": "Newton’s first law", "is_correct": true },
+        { "option_id": 2, "text": "Newton’s second law", "is_correct": false },
+        { "option_id": 3, "text": "Archimedes principle", "is_correct": false },
+        { "option_id": 4, "text": "Pascal’s law", "is_correct": false }
+      ],
+      "answer": "Newton’s first law"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Inertia is the tendency to:",
+      "options": [
+        { "option_id": 1, "text": "Change motion", "is_correct": false },
+        { "option_id": 2, "text": "Remain in same state", "is_correct": true },
+        { "option_id": 3, "text": "Increase speed", "is_correct": false },
+        { "option_id": 4, "text": "Stop motion", "is_correct": false }
+      ],
+      "answer": "Remain in same state"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which is NOT a type of inertia?",
+      "options": [
+        { "option_id": 1, "text": "Inertia of rest", "is_correct": false },
+        { "option_id": 2, "text": "Inertia of motion", "is_correct": false },
+        { "option_id": 3, "text": "Directional inertia", "is_correct": false },
+        { "option_id": 4, "text": "Thermal inertia", "is_correct": true }
+      ],
+      "answer": "Thermal inertia"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Force is a:",
+      "options": [
+        { "option_id": 1, "text": "Scalar quantity", "is_correct": false },
+        { "option_id": 2, "text": "Vector quantity", "is_correct": true },
+        { "option_id": 3, "text": "Unit", "is_correct": false },
+        { "option_id": 4, "text": "Dimensionless", "is_correct": false }
+      ],
+      "answer": "Vector quantity"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Pressure is defined as:",
+      "options": [
+        { "option_id": 1, "text": "Force × Area", "is_correct": false },
+        { "option_id": 2, "text": "Force / Area", "is_correct": true },
+        { "option_id": 3, "text": "Area / Force", "is_correct": false },
+        { "option_id": 4, "text": "Mass / Area", "is_correct": false }
+      ],
+      "answer": "Force / Area"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "SI unit of pressure is:",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Pascal", "is_correct": true },
+        { "option_id": 3, "text": "Joule", "is_correct": false },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Pascal"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "For same force, pressure increases when:",
+      "options": [
+        { "option_id": 1, "text": "Area increases", "is_correct": false },
+        { "option_id": 2, "text": "Area decreases", "is_correct": true },
+        { "option_id": 3, "text": "Force decreases", "is_correct": false },
+        { "option_id": 4, "text": "Mass increases", "is_correct": false }
+      ],
+      "answer": "Area decreases"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Camel can walk easily on sand because:",
+      "options": [
+        { "option_id": 1, "text": "It is light", "is_correct": false },
+        { "option_id": 2, "text": "Its feet have large area", "is_correct": true },
+        { "option_id": 3, "text": "It jumps", "is_correct": false },
+        { "option_id": 4, "text": "It runs fast", "is_correct": false }
+      ],
+      "answer": "Its feet have large area"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Liquid pressure increases with:",
+      "options": [
+        { "option_id": 1, "text": "Height", "is_correct": false },
+        { "option_id": 2, "text": "Depth", "is_correct": true },
+        { "option_id": 3, "text": "Temperature", "is_correct": false },
+        { "option_id": 4, "text": "Area", "is_correct": false }
+      ],
+      "answer": "Depth"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "At same level in liquid, pressure is:",
+      "options": [
+        { "option_id": 1, "text": "Different", "is_correct": false },
+        { "option_id": 2, "text": "Same", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Maximum", "is_correct": false }
+      ],
+      "answer": "Same"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Gas exerts pressure because:",
+      "options": [
+        { "option_id": 1, "text": "It is heavy", "is_correct": false },
+        { "option_id": 2, "text": "Molecules hit container walls", "is_correct": true },
+        { "option_id": 3, "text": "It is hot", "is_correct": false },
+        { "option_id": 4, "text": "It is invisible", "is_correct": false }
+      ],
+      "answer": "Molecules hit container walls"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Atmospheric pressure is maximum at:",
+      "options": [
+        { "option_id": 1, "text": "Mountain top", "is_correct": false },
+        { "option_id": 2, "text": "Sea level", "is_correct": true },
+        { "option_id": 3, "text": "Sky", "is_correct": false },
+        { "option_id": 4, "text": "Space", "is_correct": false }
+      ],
+      "answer": "Sea level"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Atmospheric pressure decreases with:",
+      "options": [
+        { "option_id": 1, "text": "Depth", "is_correct": false },
+        { "option_id": 2, "text": "Height", "is_correct": true },
+        { "option_id": 3, "text": "Weight", "is_correct": false },
+        { "option_id": 4, "text": "Area", "is_correct": false }
+      ],
+      "answer": "Height"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Upward force acting on object in fluid is called:",
+      "options": [
+        { "option_id": 1, "text": "Gravity", "is_correct": false },
+        { "option_id": 2, "text": "Buoyant force", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 4, "text": "Friction", "is_correct": false }
+      ],
+      "answer": "Buoyant force"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Object floats when buoyant force is:",
+      "options": [
+        { "option_id": 1, "text": "Less than weight", "is_correct": false },
+        { "option_id": 2, "text": "Greater than weight", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Negative", "is_correct": false }
+      ],
+      "answer": "Greater than weight"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Object sinks when buoyant force is:",
+      "options": [
+        { "option_id": 1, "text": "More than weight", "is_correct": false },
+        { "option_id": 2, "text": "Less than weight", "is_correct": true },
+        { "option_id": 3, "text": "Equal to weight", "is_correct": false },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
+      ],
+      "answer": "Less than weight"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "According to Archimedes principle, buoyant force equals:",
+      "options": [
+        { "option_id": 1, "text": "Weight of object", "is_correct": false },
+        { "option_id": 2, "text": "Weight of displaced fluid", "is_correct": true },
+        { "option_id": 3, "text": "Volume of object", "is_correct": false },
+        { "option_id": 4, "text": "Density of fluid", "is_correct": false }
+      ],
+      "answer": "Weight of displaced fluid"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Ship floats on water because:",
+      "options": [
+        { "option_id": 1, "text": "It is hollow", "is_correct": false },
+        { "option_id": 2, "text": "Buoyant force balances its weight", "is_correct": true },
+        { "option_id": 3, "text": "It is light", "is_correct": false },
+        { "option_id": 4, "text": "Water is heavy", "is_correct": false }
+      ],
+      "answer": "Buoyant force balances its weight"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Buoyant force depends on:",
+      "options": [
+        { "option_id": 1, "text": "Volume of object", "is_correct": false },
+        { "option_id": 2, "text": "Density of liquid", "is_correct": false },
+        { "option_id": 3, "text": "Both A and B", "is_correct": true },
+        { "option_id": 4, "text": "Only mass", "is_correct": false }
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "It is easier to swim in sea water because:",
+      "options": [
+        { "option_id": 1, "text": "It is salty", "is_correct": false },
+        { "option_id": 2, "text": "Sea water has higher density", "is_correct": true },
+        { "option_id": 3, "text": "It is warm", "is_correct": false },
+        { "option_id": 4, "text": "It is deep", "is_correct": false }
+      ],
+      "answer": "Sea water has higher density"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Density is defined as:",
+      "options": [
+        { "option_id": 1, "text": "Mass × Volume", "is_correct": false },
+        { "option_id": 2, "text": "Mass / Volume", "is_correct": true },
+        { "option_id": 3, "text": "Volume / Mass", "is_correct": false },
+        { "option_id": 4, "text": "Force / Area", "is_correct": false }
+      ],
+      "answer": "Mass / Volume"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "SI unit of density is:",
+      "options": [
+        { "option_id": 1, "text": "g/cm³", "is_correct": false },
+        { "option_id": 2, "text": "kg/m³", "is_correct": true },
+        { "option_id": 3, "text": "N/m²", "is_correct": false },
+        { "option_id": 4, "text": "Pa", "is_correct": false }
+      ],
+      "answer": "kg/m³"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Relative density has unit:",
+      "options": [
+        { "option_id": 1, "text": "kg/m³", "is_correct": false },
+        { "option_id": 2, "text": "No unit", "is_correct": true },
+        { "option_id": 3, "text": "Pa", "is_correct": false },
+        { "option_id": 4, "text": "N", "is_correct": false }
+      ],
+      "answer": "No unit"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Relative density is also called:",
+      "options": [
+        { "option_id": 1, "text": "Mass number", "is_correct": false },
+        { "option_id": 2, "text": "Specific gravity", "is_correct": true },
+        { "option_id": 3, "text": "Buoyancy", "is_correct": false },
+        { "option_id": 4, "text": "Pressure", "is_correct": false }
+      ],
+      "answer": "Specific gravity"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which instrument works on Archimedes principle?",
+      "options": [
+        { "option_id": 1, "text": "Thermometer", "is_correct": false },
+        { "option_id": 2, "text": "Lactometer", "is_correct": true },
+        { "option_id": 3, "text": "Barometer", "is_correct": false },
+        { "option_id": 4, "text": "Voltmeter", "is_correct": false }
+      ],
+      "answer": "Lactometer"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "When buoyant force equals weight, object will:",
+      "options": [
+        { "option_id": 1, "text": "Sink", "is_correct": false },
+        { "option_id": 2, "text": "Float inside liquid", "is_correct": true },
+        { "option_id": 3, "text": "Float on surface", "is_correct": false },
+        { "option_id": 4, "text": "Move upward", "is_correct": false }
+      ],
+      "answer": "Float inside liquid"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Pressure exerted depends on:",
+      "options": [
+        { "option_id": 1, "text": "Force only", "is_correct": false },
+        { "option_id": 2, "text": "Area only", "is_correct": false },
+        { "option_id": 3, "text": "Force and area", "is_correct": true },
+        { "option_id": 4, "text": "Mass only", "is_correct": false }
+      ],
+      "answer": "Force and area"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why do heavy vehicles have more wheels?",
+      "options": [
+        { "option_id": 1, "text": "To increase pressure", "is_correct": false },
+        { "option_id": 2, "text": "To reduce pressure", "is_correct": true },
+        { "option_id": 3, "text": "To increase speed", "is_correct": false },
+        { "option_id": 4, "text": "To save fuel", "is_correct": false }
+      ],
+      "answer": "To reduce pressure"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why are dam walls broader at base?",
+      "options": [
+        { "option_id": 1, "text": "For beauty", "is_correct": false },
+        { "option_id": 2, "text": "Pressure is more at depth", "is_correct": true },
+        { "option_id": 3, "text": "To save material", "is_correct": false },
+        { "option_id": 4, "text": "To reduce weight", "is_correct": false }
+      ],
+      "answer": "Pressure is more at depth"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Blunt knife is difficult to cut because:",
+      "options": [
+        { "option_id": 1, "text": "It is heavy", "is_correct": false },
+        { "option_id": 2, "text": "It has large area", "is_correct": true },
+        { "option_id": 3, "text": "It is slow", "is_correct": false },
+        { "option_id": 4, "text": "It is thick", "is_correct": false }
+      ],
+      "answer": "It has large area"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Why do passengers jerk forward when bus stops suddenly?",
+      "options": [
+        { "option_id": 1, "text": "Due to friction", "is_correct": false },
+        { "option_id": 2, "text": "Due to inertia of motion", "is_correct": true },
+        { "option_id": 3, "text": "Due to gravity", "is_correct": false },
+        { "option_id": 4, "text": "Due to magnetism", "is_correct": false }
+      ],
+      "answer": "Due to inertia of motion"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Coin falls into glass when card is flicked because of:",
+      "options": [
+        { "option_id": 1, "text": "Friction", "is_correct": false },
+        { "option_id": 2, "text": "Inertia of rest", "is_correct": true },
+        { "option_id": 3, "text": "Gravity only", "is_correct": false },
+        { "option_id": 4, "text": "Magnetism", "is_correct": false }
+      ],
+      "answer": "Inertia of rest"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which force changes shape of object?",
+      "options": [
+        { "option_id": 1, "text": "Applied force", "is_correct": true },
+        { "option_id": 2, "text": "Gravity", "is_correct": false },
+        { "option_id": 3, "text": "Magnetic", "is_correct": false },
+        { "option_id": 4, "text": "Electrostatic", "is_correct": false }
+      ],
+      "answer": "Applied force"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Fluid includes:",
+      "options": [
+        { "option_id": 1, "text": "Only liquids", "is_correct": false },
+        { "option_id": 2, "text": "Liquids and gases", "is_correct": true },
+        { "option_id": 3, "text": "Only gases", "is_correct": false },
+        { "option_id": 4, "text": "Only solids", "is_correct": false }
+      ],
+      "answer": "Liquids and gases"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Pressure in fluid acts:",
+      "options": [
+        { "option_id": 1, "text": "Only downward", "is_correct": false },
+        { "option_id": 2, "text": "Only upward", "is_correct": false },
+        { "option_id": 3, "text": "In all directions", "is_correct": true },
+        { "option_id": 4, "text": "Sideways only", "is_correct": false }
+      ],
+      "answer": "In all directions"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which scientist gave buoyancy principle?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Archimedes", "is_correct": true },
+        { "option_id": 3, "text": "Galileo", "is_correct": false },
+        { "option_id": 4, "text": "Einstein", "is_correct": false }
+      ],
+      "answer": "Archimedes"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Relative density of water is:",
+      "options": [
+        { "option_id": 1, "text": "0", "is_correct": false },
+        { "option_id": 2, "text": "1", "is_correct": true },
+        { "option_id": 3, "text": "10", "is_correct": false },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which quantity has no direction?",
+      "options": [
+        { "option_id": 1, "text": "Force", "is_correct": false },
+        { "option_id": 2, "text": "Pressure", "is_correct": true },
+        { "option_id": 3, "text": "Velocity", "is_correct": false },
+        { "option_id": 4, "text": "Acceleration", "is_correct": false }
+      ],
+      "answer": "Pressure"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "If area decreases and force constant, pressure will:",
+      "options": [
+        { "option_id": 1, "text": "Decrease", "is_correct": false },
+        { "option_id": 2, "text": "Increase", "is_correct": true },
+        { "option_id": 3, "text": "Remain same", "is_correct": false },
+        { "option_id": 4, "text": "Become zero", "is_correct": false }
+      ],
+      "answer": "Increase"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which force allows us to walk?",
+      "options": [
+        { "option_id": 1, "text": "Gravity", "is_correct": false },
+        { "option_id": 2, "text": "Friction", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic", "is_correct": false },
+        { "option_id": 4, "text": "Buoyant", "is_correct": false }
+      ],
+      "answer": "Friction"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which statement is true?",
+      "options": [
+        { "option_id": 1, "text": "Pressure decreases with depth", "is_correct": false },
+        { "option_id": 2, "text": "Pressure increases with depth", "is_correct": true },
+        { "option_id": 3, "text": "Pressure is zero in liquid", "is_correct": false },
+        { "option_id": 4, "text": "Pressure is same everywhere", "is_correct": false }
+      ],
+      "answer": "Pressure increases with depth"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which object will float?",
+      "options": [
+        { "option_id": 1, "text": "High density object", "is_correct": false },
+        { "option_id": 2, "text": "Low density object", "is_correct": true },
+        { "option_id": 3, "text": "Any object", "is_correct": false },
+        { "option_id": 4, "text": "Only metal", "is_correct": false }
+      ],
+      "answer": "Low density object"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which quantity decides floating or sinking?",
+      "options": [
+        { "option_id": 1, "text": "Weight only", "is_correct": false },
+        { "option_id": 2, "text": "Density and buoyant force", "is_correct": true },
+        { "option_id": 3, "text": "Shape only", "is_correct": false },
+        { "option_id": 4, "text": "Color", "is_correct": false }
+      ],
+      "answer": "Density and buoyant force"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is force? Explain with example.",
+      "answer": "Force is a push or pull that can change the shape, speed or direction of an object. For example, pushing a door to open it or pulling a cart are forces."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are contact forces?",
+      "answer": "Contact forces act only when two objects are in physical contact. Examples are muscular force and frictional force."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are non-contact forces?",
+      "answer": "Non-contact forces act without physical contact between objects. Examples include gravitational, magnetic and electrostatic forces."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Explain frictional force.",
+      "answer": "Friction is a force that opposes motion between two surfaces in contact. It slows down moving objects and produces heat."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are balanced forces?",
+      "answer": "Balanced forces are equal in magnitude and opposite in direction. They do not change the state of motion of an object."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are unbalanced forces?",
+      "answer": "Unbalanced forces do not cancel each other. They cause change in speed, direction or shape of an object."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define inertia.",
+      "answer": "Inertia is the tendency of an object to resist change in its state of rest or motion. Greater mass means greater inertia."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "State Newton’s first law of motion.",
+      "answer": "An object remains at rest or in uniform motion unless acted upon by an unbalanced external force."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is pressure?",
+      "answer": "Pressure is the force acting per unit area. It increases when force increases or area of contact decreases."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why do sharp knives cut better?",
+      "answer": "Sharp knives have very small area of contact. This increases pressure for the same force, making cutting easier."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why do camels have broad feet?",
+      "answer": "Broad feet increase area of contact with sand. This reduces pressure and prevents sinking in soft sand."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does liquid pressure change with depth?",
+      "answer": "Liquid pressure increases with depth. Deeper points experience more pressure due to greater weight of liquid above."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is atmospheric pressure?",
+      "answer": "Atmospheric pressure is the pressure exerted by air on all objects. It decreases with increase in height."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is it difficult to breathe on mountains?",
+      "answer": "At high altitudes, air pressure and oxygen level are low. This makes breathing difficult."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is buoyant force?",
+      "answer": "Buoyant force is the upward force exerted by a fluid on an object immersed in it. It helps objects to float."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "State Archimedes’ principle.",
+      "answer": "An object immersed in a fluid experiences an upward force equal to the weight of the fluid displaced by it."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why do ships float on water?",
+      "answer": "Ships displace large volume of water, producing enough buoyant force to balance their weight, so they float."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is swimming easier in sea water?",
+      "answer": "Sea water has higher density, which provides more buoyant force. This helps the body float easily."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is density?",
+      "answer": "Density is mass per unit volume of a substance. It determines whether an object floats or sinks."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Define relative density.",
+      "answer": "Relative density is the ratio of density of a substance to density of water. It has no unit."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why do heavy vehicles have more wheels?",
+      "answer": "More wheels increase area of contact with ground. This reduces pressure and prevents damage to roads."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why are dam walls thicker at the bottom?",
+      "answer": "Water pressure increases with depth. Thicker walls at bottom can withstand greater pressure."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Explain pressure in gases.",
+      "answer": "Gas molecules move randomly and strike container walls. This creates pressure on the walls."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happens when buoyant force is less than weight?",
+      "answer": "If buoyant force is less than weight, the object sinks in the fluid."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happens when buoyant force equals weight?",
+      "answer": "The object remains suspended in the fluid without rising or sinking."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What happens when buoyant force is greater than weight?",
+      "answer": "When buoyant force is greater than the weight of the object, the object floats on the surface of the liquid."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why does a balloon rise in air?",
+      "answer": "A balloon filled with lighter gas displaces heavier air. The buoyant force becomes greater than its weight, so it rises."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why do iron nails sink in water?",
+      "answer": "Iron has higher density than water. The buoyant force is less than the weight of the nail, so it sinks."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is thrust?",
+      "answer": "Thrust is the force acting perpendicular to a surface. It is responsible for producing pressure."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How is pressure related to thrust and area?",
+      "answer": "Pressure equals thrust divided by area. If area decreases, pressure increases for the same thrust."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why do skiers use long and flat skis?",
+      "answer": "Long and flat skis increase contact area with snow. This reduces pressure and prevents sinking."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why does liquid flow from higher to lower level?",
+      "answer": "Liquid pressure is higher at greater depth. This pressure difference causes liquid to flow downward."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is fluid?",
+      "answer": "A fluid is a substance that can flow. Liquids and gases are considered fluids."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How does pressure act in liquids?",
+      "answer": "Pressure in liquids acts equally in all directions. It increases with increase in depth."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why do divers feel more pressure under water?",
+      "answer": "As depth increases, more water is above the diver. This increases pressure on the body."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is density’s role in floating and sinking?",
+      "answer": "Objects with density less than liquid float, while objects with greater density sink in the liquid."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is lactometer used for?",
+      "answer": "A lactometer measures the purity of milk by checking its relative density."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why does a paper fall slower than a stone?",
+      "answer": "Air resistance is more on paper due to larger surface area. This slows down its fall."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How does force change shape of objects?",
+      "answer": "When force is applied, it can stretch, compress or bend an object, changing its shape."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is net force?",
+      "answer": "Net force is the total force acting on an object after combining all individual forces."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why does a moving bus cause passengers to lean backward when it starts?",
+      "answer": "Due to inertia of rest, the body tends to remain at rest while the bus moves forward."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does dust come out when carpet is beaten?",
+      "answer": "Dust has inertia of rest. When carpet moves, dust particles fall off due to inertia."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is inertia of direction?",
+      "answer": "It is the tendency of an object to continue moving in the same direction unless acted upon by force."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why do seat belts prevent injury?",
+      "answer": "Seat belts stop the body gradually, reducing sudden force due to inertia and preventing injury."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How does friction help us?",
+      "answer": "Friction allows walking, writing and stopping of vehicles. Without friction, movement control is impossible."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How can friction be reduced?",
+      "answer": "Friction can be reduced using lubricants, polishing surfaces or using wheels and ball bearings."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is friction sometimes harmful?",
+      "answer": "Friction causes wear and tear of machine parts and produces unwanted heat, wasting energy."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is air resistance?",
+      "answer": "Air resistance is friction offered by air to moving objects. It slows down their motion."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why are parachutes used?",
+      "answer": "Parachutes increase air resistance and slow down falling, allowing safe landing."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Force and Pressure chapter.",
+      "answer": "Force causes changes in motion and shape, while pressure depends on force and area. These concepts explain many daily life phenomena."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why do buildings have wide foundations?",
+      "answer": "Wide foundations increase the area of contact with the ground. This reduces pressure and prevents buildings from sinking."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is it easier to push a loaded cart on wheels?",
+      "answer": "Wheels reduce friction by changing sliding friction into rolling friction, making movement easier."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is rolling friction?",
+      "answer": "Rolling friction occurs when an object rolls over a surface. It is much less than sliding friction."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does friction depend on surface?",
+      "answer": "Rough surfaces produce more friction while smooth surfaces produce less friction."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why are lubricants used in machines?",
+      "answer": "Lubricants reduce friction between moving parts and prevent overheating and wear."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is terminal velocity?",
+      "answer": "It is the maximum constant speed reached when air resistance equals gravitational force during fall."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why do objects stop after some time on ground?",
+      "answer": "Friction and air resistance oppose motion and gradually reduce speed until object stops."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is pressure in solids?",
+      "answer": "Pressure in solids depends on applied force and contact area. Smaller area creates more pressure."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does pressure help in cutting tools?",
+      "answer": "Cutting tools have sharp edges with small area, producing high pressure for easy cutting."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why are nails pointed?",
+      "answer": "Pointed tips reduce contact area, increasing pressure and allowing nails to enter surfaces easily."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why do astronauts feel weightless in space?",
+      "answer": "In space, gravity is very weak and astronauts are in continuous free fall, causing weightlessness."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is free fall?",
+      "answer": "Free fall is motion of an object under gravity only, without any opposing forces."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How does gravity affect pressure?",
+      "answer": "Gravity causes fluids to exert pressure due to their weight, increasing pressure with depth."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is thrust in fluids?",
+      "answer": "Thrust in fluids is force acting normally on surfaces due to fluid pressure."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why do balloons burst at high altitude?",
+      "answer": "Outside air pressure decreases with height, so air inside expands and bursts the balloon."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How do submarines sink and float?",
+      "answer": "Submarines control buoyancy by filling or emptying water in tanks, changing overall density."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is cork lighter than water?",
+      "answer": "Cork has lower density than water, so buoyant force is greater than its weight and it floats."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why do ships not sink though made of iron?",
+      "answer": "Ships are hollow and displace large water volume, giving enough buoyant force to float."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is specific gravity?",
+      "answer": "Specific gravity is ratio of density of substance to density of water and has no unit."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why do floating objects displace water?",
+      "answer": "Floating objects push water aside to create buoyant force equal to their weight."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How does shape affect floating?",
+      "answer": "Hollow shapes displace more water and experience greater buoyant force, helping them float."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why does ice float on water?",
+      "answer": "Ice has lower density than water, so buoyant force is greater than its weight."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is pressure same at same depth?",
+      "answer": "At equal depth, weight of liquid above is same, producing equal pressure in all directions."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What happens to pressure when force increases?",
+      "answer": "When force increases and area remains constant, pressure also increases."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How does area affect pressure?",
+      "answer": "Pressure decreases when area increases and increases when area decreases, if force is constant."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is it dangerous to walk on thin ice?",
+      "answer": "Small contact area produces high pressure, which can break the ice and cause sinking."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why are broad tyres used in tractors?",
+      "answer": "Broad tyres increase contact area and reduce pressure on soft soil, preventing sinking."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why does air pressure affect boiling point?",
+      "answer": "Lower atmospheric pressure reduces boiling point, so water boils at lower temperature on mountains."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is Pascal’s principle?",
+      "answer": "Pressure applied to confined fluid is transmitted equally in all directions."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Give one application of Pascal’s principle.",
+      "answer": "Hydraulic brakes in vehicles work on Pascal’s principle to transmit pressure effectively."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why does friction produce heat?",
+      "answer": "When surfaces rub, kinetic energy converts into heat due to friction."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does air resistance help parachutists?",
+      "answer": "Air resistance slows their fall, allowing safe landing without injury."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why are helmets important for riders?",
+      "answer": "Helmets increase time of impact and reduce force on head, preventing serious injury."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is pressure cooker principle?",
+      "answer": "Increased pressure raises boiling point of water, cooking food faster."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why do we feel lighter in water?",
+      "answer": "Buoyant force acts upward and reduces apparent weight of body in water."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is apparent weight?",
+      "answer": "Apparent weight is reduced weight felt in fluid due to upward buoyant force."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why do suction cups stick to surfaces?",
+      "answer": "Air is removed creating low pressure inside, and outside air pressure holds it tight."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why do storm winds cause damage?",
+      "answer": "Strong winds apply large unbalanced forces that can uproot trees and damage structures."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How does gravity affect motion?",
+      "answer": "Gravity pulls objects toward Earth and accelerates falling objects downward."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why does a ball stop after rolling?",
+      "answer": "Friction and air resistance gradually reduce its speed until it stops."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is equilibrium of forces?",
+      "answer": "When net force on an object is zero, forces are in equilibrium and motion does not change."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why do objects move faster on smooth surfaces?",
+      "answer": "Smooth surfaces have less friction, so less force opposes motion."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why are ball bearings used in machines?",
+      "answer": "They convert sliding friction into rolling friction, reducing energy loss."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does force change direction of motion?",
+      "answer": "Applied force can deflect object from its path, changing direction of movement."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is net pressure?",
+      "answer": "Net pressure is total pressure acting on a surface after considering all forces."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why are sharp heels harmful for floors?",
+      "answer": "Small contact area produces very high pressure which damages floor surface."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why do heavy objects need more force to move?",
+      "answer": "Heavier objects have greater inertia, so more force is required to change motion."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is pressure in gases?",
+      "answer": "Gas pressure is due to collision of fast moving molecules with container walls."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why do footballs become flat in cold weather?",
+      "answer": "Gas contracts in cold, reducing internal pressure and making ball appear flat."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give overall conclusion of Force and Pressure chapter.",
+      "answer": "Force changes motion and shape, while pressure depends on force and area. Buoyancy and density explain floating and sinking."
+    }
+  ]
+}

@@ -1,0 +1,1178 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.06",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Composition of Matter"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following is the smallest particle of matter?",
+      "options": [
+        { "option_id": 1, "text": "Cell", "is_correct": false },
+        { "option_id": 2, "text": "Atom or molecule", "is_correct": true },
+        { "option_id": 3, "text": "Tissue", "is_correct": false },
+        { "option_id": 4, "text": "Organ", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which state of matter has definite shape and definite volume?",
+      "options": [
+        { "option_id": 1, "text": "Solid", "is_correct": true },
+        { "option_id": 2, "text": "Liquid", "is_correct": false },
+        { "option_id": 3, "text": "Gas", "is_correct": false },
+        { "option_id": 4, "text": "Plasma", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which state of matter has very weak intermolecular force?",
+      "options": [
+        { "option_id": 1, "text": "Solid", "is_correct": false },
+        { "option_id": 2, "text": "Liquid", "is_correct": false },
+        { "option_id": 3, "text": "Gas", "is_correct": true },
+        { "option_id": 4, "text": "All", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Liquids have:",
+      "options": [
+        { "option_id": 1, "text": "Definite shape and volume", "is_correct": false },
+        { "option_id": 2, "text": "Indefinite shape and definite volume", "is_correct": true },
+        { "option_id": 3, "text": "Definite shape and indefinite volume", "is_correct": false },
+        { "option_id": 4, "text": "Indefinite shape and volume", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following is an element?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Air", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": true },
+        { "option_id": 4, "text": "Milk", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is a compound?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Brass", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is a mixture?",
+      "options": [
+        { "option_id": 1, "text": "O2", "is_correct": false },
+        { "option_id": 2, "text": "CO2", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": true },
+        { "option_id": 4, "text": "H2O", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Brass is an alloy of:",
+      "options": [
+        { "option_id": 1, "text": "Copper and tin", "is_correct": false },
+        { "option_id": 2, "text": "Copper and zinc", "is_correct": true },
+        { "option_id": 3, "text": "Iron and carbon", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium and copper", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Milk is classified as:",
+      "options": [
+        { "option_id": 1, "text": "Solution", "is_correct": false },
+        { "option_id": 2, "text": "Suspension", "is_correct": false },
+        { "option_id": 3, "text": "Colloid", "is_correct": true },
+        { "option_id": 4, "text": "Compound", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which mixture allows light to scatter partially?",
+      "options": [
+        { "option_id": 1, "text": "Solution", "is_correct": false },
+        { "option_id": 2, "text": "Suspension", "is_correct": false },
+        { "option_id": 3, "text": "Colloid", "is_correct": true },
+        { "option_id": 4, "text": "Compound", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Salt dissolved in water is an example of:",
+      "options": [
+        { "option_id": 1, "text": "Suspension", "is_correct": false },
+        { "option_id": 2, "text": "Solution", "is_correct": true },
+        { "option_id": 3, "text": "Colloid", "is_correct": false },
+        { "option_id": 4, "text": "Element", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which component of a solution is present in larger amount?",
+      "options": [
+        { "option_id": 1, "text": "Solute", "is_correct": false },
+        { "option_id": 2, "text": "Solvent", "is_correct": true },
+        { "option_id": 3, "text": "Residue", "is_correct": false },
+        { "option_id": 4, "text": "Colloid", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is gas in gas solution?",
+      "options": [
+        { "option_id": 1, "text": "Soda water", "is_correct": false },
+        { "option_id": 2, "text": "Air", "is_correct": true },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Vinegar", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which mixture can be separated by filtration?",
+      "options": [
+        { "option_id": 1, "text": "Salt solution", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Sand in water", "is_correct": true },
+        { "option_id": 4, "text": "Sugar solution", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Particles of solids mainly:",
+      "options": [
+        { "option_id": 1, "text": "Move freely", "is_correct": false },
+        { "option_id": 2, "text": "Vibrate at fixed positions", "is_correct": true },
+        { "option_id": 3, "text": "Have no motion", "is_correct": false },
+        { "option_id": 4, "text": "Move randomly fast", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which property is negligible in solids?",
+      "options": [
+        { "option_id": 1, "text": "Volume", "is_correct": false },
+        { "option_id": 2, "text": "Compressibility", "is_correct": true },
+        { "option_id": 3, "text": "Mass", "is_correct": false },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which of the following is an organic compound?",
+      "options": [
+        { "option_id": 1, "text": "Blue vitriol", "is_correct": false },
+        { "option_id": 2, "text": "Sugar", "is_correct": true },
+        { "option_id": 3, "text": "Limestone", "is_correct": false },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which compound leaves black residue on heating?",
+      "options": [
+        { "option_id": 1, "text": "Sugar", "is_correct": true },
+        { "option_id": 2, "text": "Salt", "is_correct": false },
+        { "option_id": 3, "text": "Limestone", "is_correct": false },
+        { "option_id": 4, "text": "Blue vitriol", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of the following is a complex compound?",
+      "options": [
+        { "option_id": 1, "text": "Chlorophyll", "is_correct": true },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "CO2", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which metal is present in hemoglobin?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": true },
+        { "option_id": 3, "text": "Zinc", "is_correct": false },
+        { "option_id": 4, "text": "Magnesium", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which mixture has uniform composition?",
+      "options": [
+        { "option_id": 1, "text": "Suspension", "is_correct": false },
+        { "option_id": 2, "text": "Colloid", "is_correct": false },
+        { "option_id": 3, "text": "Solution", "is_correct": true },
+        { "option_id": 4, "text": "Heterogeneous mixture", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following is solid in liquid solution?",
+      "options": [
+        { "option_id": 1, "text": "Salt in water", "is_correct": true },
+        { "option_id": 2, "text": "Air", "is_correct": false },
+        { "option_id": 3, "text": "Fog", "is_correct": false },
+        { "option_id": 4, "text": "Smoke", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of the following is a suspension?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": false },
+        { "option_id": 2, "text": "Salt water", "is_correct": false },
+        { "option_id": 3, "text": "Saw dust in water", "is_correct": true },
+        { "option_id": 4, "text": "Vinegar", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which is liquid in liquid solution?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Vinegar", "is_correct": true },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Fog", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of the following is solid in solid solution?",
+      "options": [
+        { "option_id": 1, "text": "Brass", "is_correct": true },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": false },
+        { "option_id": 4, "text": "Soda water", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Valency of hydrogen is:",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": true },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Molecular formula of methane is:",
+      "options": [
+        { "option_id": 1, "text": "CH2", "is_correct": false },
+        { "option_id": 2, "text": "CH4", "is_correct": true },
+        { "option_id": 3, "text": "C2H4", "is_correct": false },
+        { "option_id": 4, "text": "C2H6", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which method is used to write molecular formula using valencies?",
+      "options": [
+        { "option_id": 1, "text": "Addition method", "is_correct": false },
+        { "option_id": 2, "text": "Cross multiplication method", "is_correct": true },
+        { "option_id": 3, "text": "Division method", "is_correct": false },
+        { "option_id": 4, "text": "Subtraction method", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Valency of oxygen is:",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": true },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Molecular formula of carbon dioxide is:",
+      "options": [
+        { "option_id": 1, "text": "CO", "is_correct": false },
+        { "option_id": 2, "text": "CO2", "is_correct": true },
+        { "option_id": 3, "text": "C2O", "is_correct": false },
+        { "option_id": 4, "text": "C2O3", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which gas supports combustion?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Carbon dioxide", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which substance helps to extinguish fire?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Petrol", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which mixture retains properties of constituents?",
+      "options": [
+        { "option_id": 1, "text": "Compound", "is_correct": false },
+        { "option_id": 2, "text": "Mixture", "is_correct": true },
+        { "option_id": 3, "text": "Element", "is_correct": false },
+        { "option_id": 4, "text": "Solution only", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of the following is a liquid element?",
+      "options": [
+        { "option_id": 1, "text": "Mercury", "is_correct": true },
+        { "option_id": 2, "text": "Bromine", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following is a metalloid?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Carbon", "is_correct": false },
+        { "option_id": 3, "text": "Silicon", "is_correct": true },
+        { "option_id": 4, "text": "Gold", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which mixture shows Tyndall effect?",
+      "options": [
+        { "option_id": 1, "text": "Solution", "is_correct": false },
+        { "option_id": 2, "text": "Colloid", "is_correct": true },
+        { "option_id": 3, "text": "Compound", "is_correct": false },
+        { "option_id": 4, "text": "Element", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which mixture is transparent and passes through filter paper?",
+      "options": [
+        { "option_id": 1, "text": "Suspension", "is_correct": false },
+        { "option_id": 2, "text": "Colloid", "is_correct": false },
+        { "option_id": 3, "text": "Solution", "is_correct": true },
+        { "option_id": 4, "text": "Mixture of sand and water", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which mixture has particle size around 10⁻⁵ m?",
+      "options": [
+        { "option_id": 1, "text": "Solution", "is_correct": false },
+        { "option_id": 2, "text": "Colloid", "is_correct": true },
+        { "option_id": 3, "text": "Suspension", "is_correct": false },
+        { "option_id": 4, "text": "Compound", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which gas is filled in oxygen cylinder?",
+      "options": [
+        { "option_id": 1, "text": "O", "is_correct": false },
+        { "option_id": 2, "text": "O2", "is_correct": true },
+        { "option_id": 3, "text": "CO2", "is_correct": false },
+        { "option_id": 4, "text": "N2", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Diamond is made of:",
+      "options": [
+        { "option_id": 1, "text": "Carbon", "is_correct": true },
+        { "option_id": 2, "text": "Silicon", "is_correct": false },
+        { "option_id": 3, "text": "Calcium", "is_correct": false },
+        { "option_id": 4, "text": "Sulphur", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "LPG mainly contains:",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": false },
+        { "option_id": 2, "text": "Propane and butane", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Baking soda is:",
+      "options": [
+        { "option_id": 1, "text": "Na2CO3", "is_correct": false },
+        { "option_id": 2, "text": "NaHCO3", "is_correct": true },
+        { "option_id": 3, "text": "NaCl", "is_correct": false },
+        { "option_id": 4, "text": "NaOH", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Bronze is an alloy of:",
+      "options": [
+        { "option_id": 1, "text": "Copper and zinc", "is_correct": false },
+        { "option_id": 2, "text": "Copper and tin", "is_correct": true },
+        { "option_id": 3, "text": "Iron and carbon", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium and copper", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of the following is a heterogeneous mixture?",
+      "options": [
+        { "option_id": 1, "text": "Salt solution", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Sugar solution", "is_correct": false },
+        { "option_id": 4, "text": "Vinegar", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which substance has constant proportion of elements?",
+      "options": [
+        { "option_id": 1, "text": "Mixture", "is_correct": false },
+        { "option_id": 2, "text": "Compound", "is_correct": true },
+        { "option_id": 3, "text": "Solution", "is_correct": false },
+        { "option_id": 4, "text": "Colloid", "is_correct": false }
+      ]
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of the following is an inorganic compound?",
+      "options": [
+        { "option_id": 1, "text": "Glucose", "is_correct": false },
+        { "option_id": 2, "text": "Blue vitriol", "is_correct": true },
+        { "option_id": 3, "text": "Urea", "is_correct": false },
+        { "option_id": 4, "text": "Sugar", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which mixture has two or more phases?",
+      "options": [
+        { "option_id": 1, "text": "Homogeneous mixture", "is_correct": false },
+        { "option_id": 2, "text": "Heterogeneous mixture", "is_correct": true },
+        { "option_id": 3, "text": "Solution", "is_correct": false },
+        { "option_id": 4, "text": "Compound", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which experiment shows chemical change?",
+      "options": [
+        { "option_id": 1, "text": "Mixing iron and sulphur", "is_correct": false },
+        { "option_id": 2, "text": "Heating iron and sulphur", "is_correct": true },
+        { "option_id": 3, "text": "Dissolving salt in water", "is_correct": false },
+        { "option_id": 4, "text": "Filtering sand and water", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which property disappears after chemical combination?",
+      "options": [
+        { "option_id": 1, "text": "Colour", "is_correct": false },
+        { "option_id": 2, "text": "Original properties of elements", "is_correct": true },
+        { "option_id": 3, "text": "Mass", "is_correct": false },
+        { "option_id": 4, "text": "Volume", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which of the following has maximum intermolecular distance?",
+      "options": [
+        { "option_id": 1, "text": "Solid", "is_correct": false },
+        { "option_id": 2, "text": "Liquid", "is_correct": false },
+        { "option_id": 3, "text": "Gas", "is_correct": true },
+        { "option_id": 4, "text": "All equal", "is_correct": false }
+      ]
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is matter?",
+      "answer": "Anything that has mass and occupies space is called matter. All living and non-living things are made of matter. Matter is made up of very small particles called atoms or molecules."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the three physical states of matter.",
+      "answer": "The three physical states of matter are solid, liquid and gas. They differ in shape, volume and particle movement. These differences are due to intermolecular forces."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do solids have definite shape?",
+      "answer": "Particles in solids are very closely packed and vibrate at fixed positions. Strong intermolecular force holds them tightly. Hence solids keep their shape."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why do gases occupy all available space?",
+      "answer": "Gas particles have very weak intermolecular force. They move freely in all directions. Therefore gases spread and fill the entire container."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is intermolecular force?",
+      "answer": "It is the force of attraction between particles of matter. It decides how closely particles stay together. Stronger force means less movement of particles."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Define element.",
+      "answer": "An element is a pure substance made of only one type of atom. All particles of an element are identical. It cannot be broken into simpler substances by chemical methods."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define compound.",
+      "answer": "A compound is formed when two or more elements chemically combine in fixed proportion. Its properties are different from its constituent elements. Example: water."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Define mixture.",
+      "answer": "A mixture contains two or more substances physically mixed. The components retain their properties and proportions can change. Example: air, milk."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is air called a mixture?",
+      "answer": "Air contains gases like nitrogen, oxygen, carbon dioxide and argon. These gases are not chemically bonded. Their proportions can vary."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is an alloy?",
+      "answer": "An alloy is a mixture of two or more metals or a metal and non-metal. It has improved properties. Example: brass is copper and zinc."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is solution?",
+      "answer": "A solution is a homogeneous mixture of solute and solvent. Its composition is uniform throughout. Example: salt dissolved in water."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Define solute and solvent.",
+      "answer": "Solute is the substance present in smaller amount that dissolves. Solvent is present in larger amount and dissolves the solute. Example: salt is solute, water is solvent."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is suspension?",
+      "answer": "Suspension is a heterogeneous mixture of solid and liquid. Particles are large and settle down. It can be separated by filtration."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is colloid?",
+      "answer": "Colloid is a heterogeneous mixture with very small particles dispersed evenly. It scatters light and cannot be separated by filtration. Example: milk."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is Tyndall effect?",
+      "answer": "It is scattering of light by colloidal particles. It makes the path of light visible. Solutions do not show this effect."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why can solutions pass through filter paper?",
+      "answer": "Particles of solution are very small and dissolved completely. They pass through filter paper easily. Hence cannot be separated by filtration."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why can suspension be separated by filtration?",
+      "answer": "Suspension has large solid particles. These particles cannot pass through filter paper. Hence they remain as residue."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is phase?",
+      "answer": "A phase is a part of matter having uniform composition. Each visible separate part of mixture is a phase. Oil and water form two phases."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Define homogeneous mixture.",
+      "answer": "Homogeneous mixture has only one phase. Composition is same everywhere. Example: salt solution."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Define heterogeneous mixture.",
+      "answer": "Heterogeneous mixture has more than one phase. Components are unevenly distributed. Example: sand in water."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are organic compounds?",
+      "answer": "Organic compounds contain carbon and hydrogen. On heating they leave black carbon residue. Example: sugar, urea, glucose."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are inorganic compounds?",
+      "answer": "Inorganic compounds generally do not contain carbon. They do not leave black residue on heating. Example: salt, limestone."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are complex compounds?",
+      "answer": "Complex compounds contain metal atoms in large molecular structures. Example: chlorophyll has magnesium, hemoglobin has iron."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is molecular formula?",
+      "answer": "Molecular formula shows symbols and number of atoms of elements in a compound. Subscripts indicate atom numbers. Example: H2O."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is valency?",
+      "answer": "Valency is the combining capacity of an atom. It shows how many bonds an atom can form. Hydrogen has valency one."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is hydrogen used to find valency of elements?",
+      "answer": "Hydrogen has valency one. Number of hydrogen atoms combined with an element shows its valency. Hence it is used as reference."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Explain cross multiplication method.",
+      "answer": "Valencies of elements are crossed and written as subscripts. Then formula is simplified. It helps to write correct molecular formula."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is water a compound and not mixture?",
+      "answer": "Water has fixed ratio of hydrogen and oxygen. Its properties are different from both gases. Hence it is a compound."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why does milk retain properties of its components?",
+      "answer": "Milk is a mixture of water, fats and proteins. Components are not chemically combined. Therefore properties are retained."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is brass called solid solution?",
+      "answer": "Brass is mixture of copper and zinc in solid state. Components are uniformly mixed. Hence it is solid in solid solution."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why does sugar turn black on heating?",
+      "answer": "Sugar is organic compound containing carbon. On heating, carbon remains as black residue. Other elements escape as gases."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why does iron and sulphur mixture attract magnet?",
+      "answer": "Iron remains in free state in mixture. Its magnetic property remains unchanged. Hence magnet attracts iron particles."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why does iron sulphide not attract magnet?",
+      "answer": "Iron and sulphur form a new compound. Properties of elements disappear. Iron no longer shows magnetic property."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why are properties of compound different from elements?",
+      "answer": "Chemical bonding forms new substance. Original properties of elements are lost. New properties appear in compound."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Give two examples of gaseous elements.",
+      "answer": "Oxygen and nitrogen are gaseous elements. They exist as O2 and N2 molecules. Both are present in air."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Give two examples of liquid elements.",
+      "answer": "Mercury and bromine are liquid elements. They remain in liquid state at room temperature."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Give two examples of colloids.",
+      "answer": "Milk and fog are examples of colloids. In milk, fat droplets are dispersed in water."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why do liquids flow?",
+      "answer": "Particles of liquids have moderate intermolecular force. They can slide over each other. Hence liquids can flow."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why are gases compressible?",
+      "answer": "Gas particles are far apart. Large empty space is present between them. Hence gases can be compressed."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why are solids incompressible?",
+      "answer": "Particles are tightly packed with very little space. Strong force keeps them close. Hence compression is difficult."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why does oxygen support combustion?",
+      "answer": "Oxygen helps substances to burn by reacting with them. It supplies oxygen for chemical reaction. Hence it supports combustion."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does water extinguish fire?",
+      "answer": "Water cools burning substance and cuts off oxygen supply. Fire cannot continue without oxygen. Hence fire stops."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is chemical bond?",
+      "answer": "Chemical bond is force that holds atoms together in molecule. It forms during chemical combination. It gives stability."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is proportion fixed in compounds?",
+      "answer": "Atoms combine in definite ratio based on valency. Structure of molecule is fixed. Hence proportion remains constant."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is proportion variable in mixtures?",
+      "answer": "Components are not chemically bonded. They can be mixed in any ratio. Hence proportion can change."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is air gas in gas solution?",
+      "answer": "All components of air are gases. They mix uniformly and form single phase. Hence it is gas in gas solution."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is dissolution?",
+      "answer": "Process of dissolving solute in solvent to form solution is dissolution. Example: dissolving salt in water."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why does colloid not settle down?",
+      "answer": "Colloidal particles are very small and remain dispersed. Gravity cannot pull them down easily. Hence they do not settle."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is milk called heterogeneous mixture?",
+      "answer": "Milk has fat and protein particles dispersed in water. It has more than one phase microscopically. Hence it is heterogeneous."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is LPG?",
+      "answer": "LPG is liquefied petroleum gas. It mainly contains propane and butane. It is used as cooking fuel."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is diamond hard?",
+      "answer": "Diamond has strong covalent bonds between carbon atoms. Structure is very rigid. Hence it is extremely hard."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why are alloys useful?",
+      "answer": "Alloys have better strength and resistance. They improve properties of metals. Hence they are widely used."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is bronze harder than copper?",
+      "answer": "Bronze is alloy of copper and tin. Tin atoms disturb copper structure and increase hardness. Hence bronze is stronger."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why does solution appear transparent?",
+      "answer": "Particles are very small and do not scatter light. Light passes through easily. Hence solution looks transparent."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why does suspension appear opaque?",
+      "answer": "Large particles scatter light strongly. Light cannot pass through. Hence suspension looks opaque."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is salinity?",
+      "answer": "Salinity is amount of dissolved salts in water. It is expressed in percentage. Different seas have different salinity."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why does sea water taste salty?",
+      "answer": "Sea water contains dissolved salts. These salts give salty taste. It is an example of solution."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why does mixture not have chemical formula?",
+      "answer": "Mixture has no fixed composition. Components are not bonded. Hence no definite chemical formula exists."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is hydrogen combustible?",
+      "answer": "Hydrogen reacts easily with oxygen producing heat and flame. Hence it burns readily and is combustible."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is oxygen not combustible?",
+      "answer": "Oxygen itself does not burn but supports burning of other substances. It does not act as fuel."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why are properties of mixture retained?",
+      "answer": "Components are physically mixed and not chemically bonded. Each retains its individual properties."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why is salt solution homogeneous?",
+      "answer": "Salt dissolves completely in water. Composition is same everywhere. Hence only one phase is present."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why does fog show Tyndall effect?",
+      "answer": "Fog contains tiny water droplets. These scatter light. Hence Tyndall effect is seen."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is steel an alloy?",
+      "answer": "Steel is mixture of iron and carbon. Components are mixed uniformly. Hence it is an alloy."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why does LPG have strong smell?",
+      "answer": "Odorant is added to LPG for safety. It helps detect leakage. Natural LPG is odorless."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is filtration not useful for colloids?",
+      "answer": "Colloidal particles are smaller than filter pores. They pass through filter paper. Hence filtration fails."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why do gases diffuse faster?",
+      "answer": "Gas particles move freely and rapidly. Distance between them is large. Hence diffusion is fast."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why is iron nail shiny?",
+      "answer": "Iron is a metal and shows lustre. Fresh surface reflects light. Hence it appears shiny."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why does coal break on hammering?",
+      "answer": "Coal is non-metal and brittle. It does not flatten but breaks into pieces. Hence it breaks on hammering."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why does copper flatten on hammering?",
+      "answer": "Copper is malleable metal. It can be beaten into sheets. Hence it flattens on hammering."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is solution called true mixture?",
+      "answer": "Particles are evenly distributed and invisible. It forms single phase. Hence it is called true mixture."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why does lime water turn milky with CO2?",
+      "answer": "Carbon dioxide reacts with lime water forming calcium carbonate. This forms white precipitate and turns milky."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why are gases lighter than solids?",
+      "answer": "Gas particles are far apart and mass per volume is less. Hence density is low compared to solids."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is mercury used in thermometers?",
+      "answer": "Mercury expands uniformly with temperature. It is visible and does not stick to glass. Hence used in thermometers."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why are chemical formulas fixed?",
+      "answer": "Atoms combine in fixed ratios based on valency. Structure of compound is constant. Hence formula is fixed."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is glucose organic compound?",
+      "answer": "Glucose contains carbon and hydrogen. On heating it leaves carbon residue. Hence it is organic compound."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is blue vitriol inorganic?",
+      "answer": "Blue vitriol does not contain carbon-hydrogen bonds. It leaves residue on heating. Hence it is inorganic."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why are metals malleable?",
+      "answer": "Metal atoms can slide over each other without breaking bonds. Hence they can be beaten into sheets."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why are non-metals brittle?",
+      "answer": "They have rigid structure and weak bonding. On force, bonds break. Hence they shatter easily."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why does compound form new substance?",
+      "answer": "Atoms chemically combine forming new molecules. Chemical bonds change structure. Hence new substance forms."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is air essential for burning?",
+      "answer": "Air contains oxygen which supports combustion. Without oxygen burning cannot occur. Hence air is necessary."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why are chemical reactions irreversible?",
+      "answer": "New substances are formed with different properties. Original substances cannot be recovered easily."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is mixture easy to separate?",
+      "answer": "Components are not chemically bonded. Physical methods like filtration can separate them."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is compound difficult to separate?",
+      "answer": "Atoms are chemically bonded. Physical methods cannot break bonds. Chemical reactions are needed."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why does gas have no fixed volume?",
+      "answer": "Gas expands to fill container. Particles move freely. Hence volume depends on container size."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why do liquids take shape of container?",
+      "answer": "Particles can slide over each other. They flow and adjust shape. But volume remains same."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why does mixture not show chemical change?",
+      "answer": "No new bonds are formed. Substances only mix physically. Hence no chemical change occurs."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why is oxygen diatomic?",
+      "answer": "Two oxygen atoms bond to form stable molecule O2. Single oxygen atom is unstable."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why does compound have fixed melting point?",
+      "answer": "Structure and bonding are uniform. Hence energy needed to melt is fixed. Therefore melting point is constant."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why does mixture melt over range?",
+      "answer": "Components melt at different temperatures. Hence melting occurs over range instead of fixed point."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is distilled water pure?",
+      "answer": "It contains only H2O molecules. No dissolved salts or gases are present. Hence it is pure compound."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is sea water not pure?",
+      "answer": "It contains many dissolved salts and minerals. Hence it is mixture and not pure substance."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is diamond an element?",
+      "answer": "Diamond contains only carbon atoms. No other element is present. Hence it is element."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is baking soda compound?",
+      "answer": "It has fixed composition NaHCO3. It is formed by chemical combination. Hence it is compound."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is bronze useful in statues?",
+      "answer": "Bronze is hard and corrosion resistant. It keeps shape for long time. Hence used for statues."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is milk nutritious?",
+      "answer": "Milk contains proteins, fats, lactose and minerals. These are essential nutrients for body."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is air essential for life?",
+      "answer": "Oxygen is required for respiration. Carbon dioxide is used by plants. Hence air supports life."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is fog considered colloid?",
+      "answer": "Tiny water droplets are dispersed in air. Particle size is in colloidal range. Hence fog is colloid."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is steel stronger than iron?",
+      "answer": "Steel contains carbon mixed with iron. Carbon improves strength and hardness. Hence steel is stronger."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is chemical composition important in classification of matter?",
+      "answer": "It tells whether particles are same or different. It helps classify matter into element, compound and mixture."
+    }
+  ]
+}

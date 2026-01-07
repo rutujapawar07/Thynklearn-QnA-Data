@@ -1,0 +1,1239 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.10",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": " Cell and Cell Organelles"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the structural and functional unit of living organisms?",
+      "options": [
+        { "option_id": 1, "text": "Tissue", "is_correct": false },
+        { "option_id": 2, "text": "Cell", "is_correct": true },
+        { "option_id": 3, "text": "Organ", "is_correct": false },
+        { "option_id": 4, "text": "System", "is_correct": false }
+      ],
+      "answer": "Cell"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which cell structure is present only in plant cells?",
+      "options": [
+        { "option_id": 1, "text": "Cell membrane", "is_correct": false },
+        { "option_id": 2, "text": "Cell wall", "is_correct": true },
+        { "option_id": 3, "text": "Nucleus", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Cell wall"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Cell wall is mainly made up of:",
+      "options": [
+        { "option_id": 1, "text": "Protein", "is_correct": false },
+        { "option_id": 2, "text": "Cellulose", "is_correct": true },
+        { "option_id": 3, "text": "Fat", "is_correct": false },
+        { "option_id": 4, "text": "Starch", "is_correct": false }
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which membrane is selectively permeable?",
+      "options": [
+        { "option_id": 1, "text": "Cell wall", "is_correct": false },
+        { "option_id": 2, "text": "Plasma membrane", "is_correct": true },
+        { "option_id": 3, "text": "Nuclear membrane", "is_correct": false },
+        { "option_id": 4, "text": "Vacuolar membrane", "is_correct": false }
+      ],
+      "answer": "Plasma membrane"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which process requires energy?",
+      "options": [
+        { "option_id": 1, "text": "Diffusion", "is_correct": false },
+        { "option_id": 2, "text": "Osmosis", "is_correct": false },
+        { "option_id": 3, "text": "Endocytosis", "is_correct": true },
+        { "option_id": 4, "text": "Passive transport", "is_correct": false }
+      ],
+      "answer": "Endocytosis"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Movement of water through selectively permeable membrane is called:",
+      "options": [
+        { "option_id": 1, "text": "Diffusion", "is_correct": false },
+        { "option_id": 2, "text": "Osmosis", "is_correct": true },
+        { "option_id": 3, "text": "Transpiration", "is_correct": false },
+        { "option_id": 4, "text": "Respiration", "is_correct": false }
+      ],
+      "answer": "Osmosis"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "When plant cell is kept in hypotonic solution, it becomes:",
+      "options": [
+        { "option_id": 1, "text": "Shrunken", "is_correct": false },
+        { "option_id": 2, "text": "Turgid", "is_correct": true },
+        { "option_id": 3, "text": "Dead", "is_correct": false },
+        { "option_id": 4, "text": "Plasmolysed", "is_correct": false }
+      ],
+      "answer": "Turgid"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Plasmolysis occurs in:",
+      "options": [
+        { "option_id": 1, "text": "Hypotonic solution", "is_correct": false },
+        { "option_id": 2, "text": "Isotonic solution", "is_correct": false },
+        { "option_id": 3, "text": "Hypertonic solution", "is_correct": true },
+        { "option_id": 4, "text": "Neutral solution", "is_correct": false }
+      ],
+      "answer": "Hypertonic solution"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Cytoplasm is found between:",
+      "options": [
+        { "option_id": 1, "text": "Cell wall and nucleus", "is_correct": false },
+        { "option_id": 2, "text": "Plasma membrane and nucleus", "is_correct": true },
+        { "option_id": 3, "text": "Cell wall and vacuole", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus and vacuole", "is_correct": false }
+      ],
+      "answer": "Plasma membrane and nucleus"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which organelle controls all activities of cell?",
+      "options": [
+        { "option_id": 1, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 2, "text": "Nucleus", "is_correct": true },
+        { "option_id": 3, "text": "Golgi body", "is_correct": false },
+        { "option_id": 4, "text": "Vacuole", "is_correct": false }
+      ],
+      "answer": "Nucleus"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Genes are located on:",
+      "options": [
+        { "option_id": 1, "text": "Ribosomes", "is_correct": false },
+        { "option_id": 2, "text": "Chromosomes", "is_correct": true },
+        { "option_id": 3, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 4, "text": "Cell wall", "is_correct": false }
+      ],
+      "answer": "Chromosomes"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which organelle is called transport system of cell?",
+      "options": [
+        { "option_id": 1, "text": "Golgi complex", "is_correct": false },
+        { "option_id": 2, "text": "Endoplasmic reticulum", "is_correct": true },
+        { "option_id": 3, "text": "Lysosome", "is_correct": false },
+        { "option_id": 4, "text": "Vacuole", "is_correct": false }
+      ],
+      "answer": "Endoplasmic reticulum"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Rough ER has which structure on surface?",
+      "options": [
+        { "option_id": 1, "text": "Chlorophyll", "is_correct": false },
+        { "option_id": 2, "text": "Ribosomes", "is_correct": true },
+        { "option_id": 3, "text": "DNA", "is_correct": false },
+        { "option_id": 4, "text": "Vesicles", "is_correct": false }
+      ],
+      "answer": "Ribosomes"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Golgi complex mainly helps in:",
+      "options": [
+        { "option_id": 1, "text": "Energy production", "is_correct": false },
+        { "option_id": 2, "text": "Packing and secretion", "is_correct": true },
+        { "option_id": 3, "text": "Digestion", "is_correct": false },
+        { "option_id": 4, "text": "Photosynthesis", "is_correct": false }
+      ],
+      "answer": "Packing and secretion"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which organelle is called suicide bag?",
+      "options": [
+        { "option_id": 1, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 2, "text": "Lysosome", "is_correct": true },
+        { "option_id": 3, "text": "Vacuole", "is_correct": false },
+        { "option_id": 4, "text": "Golgi body", "is_correct": false }
+      ],
+      "answer": "Lysosome"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which organelle produces ATP?",
+      "options": [
+        { "option_id": 1, "text": "Ribosome", "is_correct": false },
+        { "option_id": 2, "text": "Mitochondria", "is_correct": true },
+        { "option_id": 3, "text": "Chloroplast", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Cristae are found in:",
+      "options": [
+        { "option_id": 1, "text": "Nucleus", "is_correct": false },
+        { "option_id": 2, "text": "Mitochondria", "is_correct": true },
+        { "option_id": 3, "text": "Chloroplast", "is_correct": false },
+        { "option_id": 4, "text": "Golgi complex", "is_correct": false }
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which organelle is absent in RBC?",
+      "options": [
+        { "option_id": 1, "text": "Nucleus", "is_correct": false },
+        { "option_id": 2, "text": "Mitochondria", "is_correct": true },
+        { "option_id": 3, "text": "Cell membrane", "is_correct": false },
+        { "option_id": 4, "text": "Cytoplasm", "is_correct": false }
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which plastid is green in colour?",
+      "options": [
+        { "option_id": 1, "text": "Chromoplast", "is_correct": false },
+        { "option_id": 2, "text": "Leucoplast", "is_correct": false },
+        { "option_id": 3, "text": "Chloroplast", "is_correct": true },
+        { "option_id": 4, "text": "Amyloplast", "is_correct": false }
+      ],
+      "answer": "Chloroplast"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Photosynthesis occurs in:",
+      "options": [
+        { "option_id": 1, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 2, "text": "Chloroplast", "is_correct": true },
+        { "option_id": 3, "text": "Golgi body", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Chloroplast"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Leucoplast is mainly used for:",
+      "options": [
+        { "option_id": 1, "text": "Colour", "is_correct": false },
+        { "option_id": 2, "text": "Food storage", "is_correct": true },
+        { "option_id": 3, "text": "Respiration", "is_correct": false },
+        { "option_id": 4, "text": "Digestion", "is_correct": false }
+      ],
+      "answer": "Food storage"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Vacuole in plant cell helps in:",
+      "options": [
+        { "option_id": 1, "text": "Protein synthesis", "is_correct": false },
+        { "option_id": 2, "text": "Turgidity", "is_correct": true },
+        { "option_id": 3, "text": "Respiration", "is_correct": false },
+        { "option_id": 4, "text": "Digestion", "is_correct": false }
+      ],
+      "answer": "Turgidity"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which cell has nucleoid region?",
+      "options": [
+        { "option_id": 1, "text": "Plant cell", "is_correct": false },
+        { "option_id": 2, "text": "Animal cell", "is_correct": false },
+        { "option_id": 3, "text": "Bacterial cell", "is_correct": true },
+        { "option_id": 4, "text": "Fungal cell", "is_correct": false }
+      ],
+      "answer": "Bacterial cell"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which cells are eukaryotic?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Plants and animals", "is_correct": true },
+        { "option_id": 3, "text": "Virus", "is_correct": false },
+        { "option_id": 4, "text": "Blue-green algae", "is_correct": false }
+      ],
+      "answer": "Plants and animals"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which organelle has its own DNA?",
+      "options": [
+        { "option_id": 1, "text": "Golgi body", "is_correct": false },
+        { "option_id": 2, "text": "Mitochondria and plastids", "is_correct": true },
+        { "option_id": 3, "text": "Vacuole", "is_correct": false },
+        { "option_id": 4, "text": "ER", "is_correct": false }
+      ],
+      "answer": "Mitochondria and plastids"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which pigment gives red colour to tomato?",
+      "options": [
+        { "option_id": 1, "text": "Chlorophyll", "is_correct": false },
+        { "option_id": 2, "text": "Lycopene", "is_correct": true },
+        { "option_id": 3, "text": "Xanthophyll", "is_correct": false },
+        { "option_id": 4, "text": "Carotene", "is_correct": false }
+      ],
+      "answer": "Lycopene"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which pigment gives purple colour?",
+      "options": [
+        { "option_id": 1, "text": "Anthocyanin", "is_correct": true },
+        { "option_id": 2, "text": "Chlorophyll", "is_correct": false },
+        { "option_id": 3, "text": "Carotene", "is_correct": false },
+        { "option_id": 4, "text": "Lycopene", "is_correct": false }
+      ],
+      "answer": "Anthocyanin"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which is packing department of cell?",
+      "options": [
+        { "option_id": 1, "text": "ER", "is_correct": false },
+        { "option_id": 2, "text": "Golgi complex", "is_correct": true },
+        { "option_id": 3, "text": "Nucleus", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Golgi complex"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which organelle helps in detoxification?",
+      "options": [
+        { "option_id": 1, "text": "Lysosome", "is_correct": false },
+        { "option_id": 2, "text": "Endoplasmic reticulum", "is_correct": true },
+        { "option_id": 3, "text": "Vacuole", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Endoplasmic reticulum"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which cell organelle helps in digestion?",
+      "options": [
+        { "option_id": 1, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 2, "text": "Lysosome", "is_correct": true },
+        { "option_id": 3, "text": "Golgi", "is_correct": false },
+        { "option_id": 4, "text": "Vacuole", "is_correct": false }
+      ],
+      "answer": "Lysosome"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which solution shows no net movement of water?",
+      "options": [
+        { "option_id": 1, "text": "Hypertonic", "is_correct": false },
+        { "option_id": 2, "text": "Hypotonic", "is_correct": false },
+        { "option_id": 3, "text": "Isotonic", "is_correct": true },
+        { "option_id": 4, "text": "Neutral", "is_correct": false }
+      ],
+      "answer": "Isotonic"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which organelle forms lysosomes?",
+      "options": [
+        { "option_id": 1, "text": "Golgi complex", "is_correct": true },
+        { "option_id": 2, "text": "ER", "is_correct": false },
+        { "option_id": 3, "text": "Nucleus", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Golgi complex"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which part stores enzymes for digestion?",
+      "options": [
+        { "option_id": 1, "text": "Vacuole", "is_correct": false },
+        { "option_id": 2, "text": "Lysosome", "is_correct": true },
+        { "option_id": 3, "text": "ER", "is_correct": false },
+        { "option_id": 4, "text": "Ribosome", "is_correct": false }
+      ],
+      "answer": "Lysosome"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which cell type has no membrane bound organelles?",
+      "options": [
+        { "option_id": 1, "text": "Plant cell", "is_correct": false },
+        { "option_id": 2, "text": "Animal cell", "is_correct": false },
+        { "option_id": 3, "text": "Prokaryotic cell", "is_correct": true },
+        { "option_id": 4, "text": "Fungal cell", "is_correct": false }
+      ],
+      "answer": "Prokaryotic cell"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which pigment gives orange colour to carrot?",
+      "options": [
+        { "option_id": 1, "text": "Chlorophyll", "is_correct": false },
+        { "option_id": 2, "text": "Carotene", "is_correct": true },
+        { "option_id": 3, "text": "Xanthophyll", "is_correct": false },
+        { "option_id": 4, "text": "Anthocyanin", "is_correct": false }
+      ],
+      "answer": "Carotene"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which organelle stores cell sap in plants?",
+      "options": [
+        { "option_id": 1, "text": "Vacuole", "is_correct": true },
+        { "option_id": 2, "text": "Golgi", "is_correct": false },
+        { "option_id": 3, "text": "ER", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Vacuole"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which structure connects nucleus and plasma membrane?",
+      "options": [
+        { "option_id": 1, "text": "Golgi body", "is_correct": false },
+        { "option_id": 2, "text": "Endoplasmic reticulum", "is_correct": true },
+        { "option_id": 3, "text": "Vacuole", "is_correct": false },
+        { "option_id": 4, "text": "Ribosome", "is_correct": false }
+      ],
+      "answer": "Endoplasmic reticulum"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which organelle modifies proteins?",
+      "options": [
+        { "option_id": 1, "text": "ER", "is_correct": false },
+        { "option_id": 2, "text": "Golgi complex", "is_correct": true },
+        { "option_id": 3, "text": "Nucleus", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Golgi complex"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which organelle provides rigidity to plant cell?",
+      "options": [
+        { "option_id": 1, "text": "Vacuole", "is_correct": true },
+        { "option_id": 2, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 3, "text": "ER", "is_correct": false },
+        { "option_id": 4, "text": "Golgi", "is_correct": false }
+      ],
+      "answer": "Vacuole"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which pigment gives yellow colour?",
+      "options": [
+        { "option_id": 1, "text": "Carotene", "is_correct": false },
+        { "option_id": 2, "text": "Xanthophyll", "is_correct": true },
+        { "option_id": 3, "text": "Anthocyanin", "is_correct": false },
+        { "option_id": 4, "text": "Chlorophyll", "is_correct": false }
+      ],
+      "answer": "Xanthophyll"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which organelle is chemical factory of cell?",
+      "options": [
+        { "option_id": 1, "text": "Mitochondria", "is_correct": true },
+        { "option_id": 2, "text": "Nucleus", "is_correct": false },
+        { "option_id": 3, "text": "Golgi", "is_correct": false },
+        { "option_id": 4, "text": "Vacuole", "is_correct": false }
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which organelle helps in protein synthesis?",
+      "options": [
+        { "option_id": 1, "text": "Ribosome", "is_correct": true },
+        { "option_id": 2, "text": "Vacuole", "is_correct": false },
+        { "option_id": 3, "text": "Golgi", "is_correct": false },
+        { "option_id": 4, "text": "Lysosome", "is_correct": false }
+      ],
+      "answer": "Ribosome"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which organelle stores genetic material?",
+      "options": [
+        { "option_id": 1, "text": "Nucleus", "is_correct": true },
+        { "option_id": 2, "text": "Golgi", "is_correct": false },
+        { "option_id": 3, "text": "Vacuole", "is_correct": false },
+        { "option_id": 4, "text": "ER", "is_correct": false }
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which structure protects plant cell?",
+      "options": [
+        { "option_id": 1, "text": "Plasma membrane", "is_correct": false },
+        { "option_id": 2, "text": "Cell wall", "is_correct": true },
+        { "option_id": 3, "text": "Vacuole", "is_correct": false },
+        { "option_id": 4, "text": "Golgi", "is_correct": false }
+      ],
+      "answer": "Cell wall"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which organelle maintains homeostasis?",
+      "options": [
+        { "option_id": 1, "text": "Cell membrane", "is_correct": true },
+        { "option_id": 2, "text": "Golgi", "is_correct": false },
+        { "option_id": 3, "text": "Lysosome", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Cell membrane"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which cell organelle is absent in prokaryotes?",
+      "options": [
+        { "option_id": 1, "text": "Cell membrane", "is_correct": false },
+        { "option_id": 2, "text": "Nucleus", "is_correct": true },
+        { "option_id": 3, "text": "Ribosome", "is_correct": false },
+        { "option_id": 4, "text": "Cytoplasm", "is_correct": false }
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which organelle is responsible for autolysis?",
+      "options": [
+        { "option_id": 1, "text": "Vacuole", "is_correct": false },
+        { "option_id": 2, "text": "Lysosome", "is_correct": true },
+        { "option_id": 3, "text": "Golgi", "is_correct": false },
+        { "option_id": 4, "text": "Mitochondria", "is_correct": false }
+      ],
+      "answer": "Lysosome"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which cell is rectangular and turgid?",
+      "options": [
+        { "option_id": 1, "text": "Animal cell", "is_correct": false },
+        { "option_id": 2, "text": "Plant cell", "is_correct": true },
+        { "option_id": 3, "text": "Bacterial cell", "is_correct": false },
+        { "option_id": 4, "text": "RBC", "is_correct": false }
+      ],
+      "answer": "Plant cell"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which organelle forms secretory vesicles?",
+      "options": [
+        { "option_id": 1, "text": "Golgi complex", "is_correct": true },
+        { "option_id": 2, "text": "ER", "is_correct": false },
+        { "option_id": 3, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Golgi complex"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which pigment traps solar energy?",
+      "options": [
+        { "option_id": 1, "text": "Carotene", "is_correct": false },
+        { "option_id": 2, "text": "Chlorophyll", "is_correct": true },
+        { "option_id": 3, "text": "Anthocyanin", "is_correct": false },
+        { "option_id": 4, "text": "Lycopene", "is_correct": false }
+      ],
+      "answer": "Chlorophyll"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a cell?",
+      "answer": "Cell is the smallest structural and functional unit of life. All living organisms are made of cells which perform all life processes."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who discovered the cell?",
+      "answer": "Robert Hooke discovered the cell in 1665 while observing cork under a microscope."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is cell wall?",
+      "answer": "Cell wall is a rigid outer covering of plant cells. It gives shape, protection and support to the cell."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is plasma membrane?",
+      "answer": "It is a thin, flexible membrane surrounding the cell. It controls entry and exit of substances."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why plasma membrane is called selectively permeable?",
+      "answer": "It allows some substances to pass while restricting others, maintaining internal balance of the cell."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is diffusion?",
+      "answer": "Diffusion is movement of molecules from higher concentration to lower concentration without using energy."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is osmosis?",
+      "answer": "Osmosis is movement of water through a selectively permeable membrane from dilute to concentrated solution."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is plasmolysis?",
+      "answer": "Shrinkage of cytoplasm due to loss of water when plant cell is placed in hypertonic solution is plasmolysis."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is cytoplasm?",
+      "answer": "Cytoplasm is jelly-like fluid inside cell where all cell organelles are present and activities occur."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is nucleus?",
+      "answer": "Nucleus controls all activities of the cell and contains genetic material in form of chromosomes."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are chromosomes?",
+      "answer": "Chromosomes are thread-like structures in nucleus that carry genes and control heredity."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are genes?",
+      "answer": "Genes are small units of heredity that determine characteristics of organisms."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is endoplasmic reticulum?",
+      "answer": "It is network of membranes that transports materials inside cell and helps in protein and lipid synthesis."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is rough ER?",
+      "answer": "Rough ER has ribosomes on its surface and helps in protein synthesis."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is smooth ER?",
+      "answer": "Smooth ER has no ribosomes and helps in lipid synthesis and detoxification of chemicals."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is Golgi apparatus?",
+      "answer": "Golgi apparatus modifies, packages and transports proteins and lipids to different parts of cell."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are lysosomes?",
+      "answer": "Lysosomes contain digestive enzymes and destroy waste and worn-out organelles in cell."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why lysosome is called suicide bag?",
+      "answer": "If cell is damaged, lysosome bursts and digests cell, causing its death."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is mitochondria?",
+      "answer": "Mitochondria is powerhouse of cell where energy in form of ATP is produced."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are cristae?",
+      "answer": "Cristae are folds of inner membrane of mitochondria that increase surface area for respiration."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are plastids?",
+      "answer": "Plastids are organelles found in plant cells that help in food production and storage."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is chloroplast?",
+      "answer": "Chloroplast contains chlorophyll and helps in photosynthesis to make food."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is leucoplast?",
+      "answer": "Leucoplast is colorless plastid that stores food like starch and oil."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is chromoplast?",
+      "answer": "Chromoplast contains pigments that give color to fruits and flowers."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is vacuole?",
+      "answer": "Vacuole stores cell sap and maintains turgidity in plant cells."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why vacuole is large in plant cell?",
+      "answer": "It stores water and maintains pressure to keep plant cell rigid."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What are ribosomes?",
+      "answer": "Ribosomes are small particles that help in protein synthesis."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is prokaryotic cell?",
+      "answer": "Cell without true nucleus and membrane-bound organelles is prokaryotic cell."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is eukaryotic cell?",
+      "answer": "Cell with true nucleus and membrane-bound organelles is eukaryotic cell."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Give example of prokaryotic organism.",
+      "answer": "Bacteria are examples of prokaryotic organisms."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Give example of eukaryotic organism.",
+      "answer": "Plants and animals are examples of eukaryotic organisms."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why RBC has no nucleus?",
+      "answer": "To provide more space for haemoglobin to carry oxygen."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is cell sap?",
+      "answer": "Cell sap is fluid inside vacuole containing sugars, salts and waste."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is isotonic solution?",
+      "answer": "Solution with same concentration as cell, causing no net water movement."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is hypotonic solution?",
+      "answer": "Solution with less concentration than cell causing water to enter cell."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is hypertonic solution?",
+      "answer": "Solution with higher concentration causing water to leave the cell."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why diffusion is important?",
+      "answer": "It helps in exchange of gases and nutrients in cells."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is active transport?",
+      "answer": "Movement of substances using energy against concentration gradient."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why mitochondria has double membrane?",
+      "answer": "To increase surface area for energy production and protection."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is nucleolus?",
+      "answer": "Part of nucleus that produces ribosomes."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why Golgi is important for secretion?",
+      "answer": "It packages materials into vesicles for transport outside cell."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is cell organelle?",
+      "answer": "Specialized structures in cytoplasm performing specific functions."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is nucleoid?",
+      "answer": "Region in prokaryotic cell containing genetic material without membrane."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why bacteria lack mitochondria?",
+      "answer": "Respiration occurs in cell membrane, so mitochondria not required."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is tonoplast?",
+      "answer": "Membrane surrounding vacuole is called tonoplast."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How cells maintain shape?",
+      "answer": "By cell wall and turgor pressure in plant cells."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why nucleus is absent in mature RBC?",
+      "answer": "To allow more haemoglobin and efficient oxygen transport."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is vesicle?",
+      "answer": "Small membrane bound sac used for transport of substances."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why chloroplast is double membrane bound?",
+      "answer": "To protect photosynthetic machinery and regulate transport."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why cell is called basic unit of life?",
+      "answer": "All life activities are carried out by cells."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is homeostasis in cell?",
+      "answer": "Maintaining stable internal conditions inside cell."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why plant cells are rigid?",
+      "answer": "Due to cell wall and large vacuole creating turgor pressure."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is cytoskeleton?",
+      "answer": "Network of protein fibers maintaining shape and movement of cell."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why ER is continuous with nuclear membrane?",
+      "answer": "It helps in transport of materials between nucleus and cytoplasm."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is cell division?",
+      "answer": "Process by which cell divides to form new cells."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why cell division is important?",
+      "answer": "For growth, repair and reproduction of organisms."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is mitosis?",
+      "answer": "Division of somatic cells producing identical daughter cells."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is meiosis?",
+      "answer": "Division forming gametes with half chromosome number."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why chromosomes duplicate before division?",
+      "answer": "To ensure equal genetic material to daughter cells."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is cell differentiation?",
+      "answer": "Process by which cells become specialized in function."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why animal cells lack cell wall?",
+      "answer": "They need flexibility for movement and shape change."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is membrane fluid mosaic model?",
+      "answer": "Model describing flexible lipid bilayer with embedded proteins."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why ribosomes are found freely and on ER?",
+      "answer": "Free ribosomes make internal proteins, ER ribosomes make secretory proteins."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is genetic material?",
+      "answer": "DNA that carries hereditary information."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why cell organelles are important?",
+      "answer": "They perform specific functions for survival of cell."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is metabolism?",
+      "answer": "All chemical reactions occurring in cell."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why mitochondria called powerhouse?",
+      "answer": "It produces energy required for cellular activities."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is transport protein?",
+      "answer": "Protein that helps substances cross cell membrane."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why cell membrane is flexible?",
+      "answer": "To allow growth, movement and transport."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is permeability?",
+      "answer": "Ability of membrane to allow substances to pass."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why chlorophyll is important?",
+      "answer": "It absorbs sunlight for photosynthesis."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is cell communication?",
+      "answer": "Process by which cells send and receive signals."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why Golgi has flattened sacs?",
+      "answer": "To efficiently process and pack proteins."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why mitochondria have their own DNA?",
+      "answer": "They can make some proteins independently."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why plastids also have DNA?",
+      "answer": "They evolved from bacteria and can replicate."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is cellular respiration?",
+      "answer": "Breakdown of food to release energy in cells."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why plants store starch?",
+      "answer": "As reserve food for future use."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why plant cells have plastids?",
+      "answer": "For photosynthesis and food storage."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why nucleus is called brain of cell?",
+      "answer": "It controls growth, metabolism and reproduction."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is cellular organization?",
+      "answer": "Arrangement of cells to form tissues and organs."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How multicellular organisms grow?",
+      "answer": "By increase in number of cells through division."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why unicellular organisms divide?",
+      "answer": "For reproduction."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why cells need energy?",
+      "answer": "For growth, repair and movement."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is enzyme?",
+      "answer": "Biological catalyst that speeds up reactions."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why enzymes are important in cell?",
+      "answer": "They control all metabolic activities."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is cell theory?",
+      "answer": "All living organisms are made of cells and cells arise from pre-existing cells."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Who proposed cell theory?",
+      "answer": "Schleiden and Schwann proposed cell theory."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Who added that cells arise from pre-existing cells?",
+      "answer": "Rudolf Virchow added this statement."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why cell study is important?",
+      "answer": "To understand structure and function of organisms."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is microscopy?",
+      "answer": "Study of small objects using microscope."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why microscope is needed?",
+      "answer": "Cells are too small to be seen by naked eye."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is staining?",
+      "answer": "Using dyes to make cell parts visible under microscope."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why plant cells have chloroplast?",
+      "answer": "To prepare food by photosynthesis."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why animal cells do not photosynthesize?",
+      "answer": "They do not have chloroplast."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why cell membrane is essential?",
+      "answer": "It protects cell and regulates transport."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is cell specialization?",
+      "answer": "Different cells perform different functions."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is tissue?",
+      "answer": "Group of similar cells performing same function."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why cells are called living factories?",
+      "answer": "They perform all chemical activities needed for life."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why cell study is foundation of biology?",
+      "answer": "All biological processes start at cellular level."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Cell chapter.",
+      "answer": "Cell is basic unit of life and its organelles perform vital functions for survival."
+    }
+  ]
+}

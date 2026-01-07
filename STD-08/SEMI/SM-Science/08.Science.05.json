@@ -1,0 +1,1060 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Sci.05",
+    "standard": "8",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Inside the Atom"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who proposed the atomic theory in 1803?",
+      "options": [
+        { "option_id": 1, "text": "J.J. Thomson", "is_correct": false },
+        { "option_id": 2, "text": "Rutherford", "is_correct": false },
+        { "option_id": 3, "text": "John Dalton", "is_correct": true },
+        { "option_id": 4, "text": "Niels Bohr", "is_correct": false }
+      ],
+      "answer": "John Dalton"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to Dalton, atom is:",
+      "options": [
+        { "option_id": 1, "text": "Divisible", "is_correct": false },
+        { "option_id": 2, "text": "Indivisible", "is_correct": true },
+        { "option_id": 3, "text": "Charged", "is_correct": false },
+        { "option_id": 4, "text": "Hollow", "is_correct": false }
+      ],
+      "answer": "Indivisible"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which model is called plum pudding model?",
+      "options": [
+        { "option_id": 1, "text": "Dalton", "is_correct": false },
+        { "option_id": 2, "text": "Thomson", "is_correct": true },
+        { "option_id": 3, "text": "Rutherford", "is_correct": false },
+        { "option_id": 4, "text": "Bohr", "is_correct": false }
+      ],
+      "answer": "Thomson"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who discovered electrons?",
+      "options": [
+        { "option_id": 1, "text": "Dalton", "is_correct": false },
+        { "option_id": 2, "text": "Rutherford", "is_correct": false },
+        { "option_id": 3, "text": "J.J. Thomson", "is_correct": true },
+        { "option_id": 4, "text": "Bohr", "is_correct": false }
+      ],
+      "answer": "J.J. Thomson"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which particle has negative charge?",
+      "options": [
+        { "option_id": 1, "text": "Proton", "is_correct": false },
+        { "option_id": 2, "text": "Neutron", "is_correct": false },
+        { "option_id": 3, "text": "Electron", "is_correct": true },
+        { "option_id": 4, "text": "Nucleon", "is_correct": false }
+      ],
+      "answer": "Electron"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Rutherford used which metal foil in scattering experiment?",
+      "options": [
+        { "option_id": 1, "text": "Silver", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Gold", "is_correct": true },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Most alpha particles passed through foil because:",
+      "options": [
+        { "option_id": 1, "text": "Atom is solid", "is_correct": false },
+        { "option_id": 2, "text": "Atom is hollow", "is_correct": true },
+        { "option_id": 3, "text": "Nucleus is large", "is_correct": false },
+        { "option_id": 4, "text": "Electrons block path", "is_correct": false }
+      ],
+      "answer": "Atom is hollow"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where is most mass of atom concentrated?",
+      "options": [
+        { "option_id": 1, "text": "Electron shell", "is_correct": false },
+        { "option_id": 2, "text": "Nucleus", "is_correct": true },
+        { "option_id": 3, "text": "Orbit", "is_correct": false },
+        { "option_id": 4, "text": "Whole atom", "is_correct": false }
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who proposed stable orbit model?",
+      "options": [
+        { "option_id": 1, "text": "Dalton", "is_correct": false },
+        { "option_id": 2, "text": "Thomson", "is_correct": false },
+        { "option_id": 3, "text": "Bohr", "is_correct": true },
+        { "option_id": 4, "text": "Rutherford", "is_correct": false }
+      ],
+      "answer": "Bohr"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Energy of electron remains constant when it is in:",
+      "options": [
+        { "option_id": 1, "text": "Nucleus", "is_correct": false },
+        { "option_id": 2, "text": "Stable orbit", "is_correct": true },
+        { "option_id": 3, "text": "Outer space", "is_correct": false },
+        { "option_id": 4, "text": "Vacuum", "is_correct": false }
+      ],
+      "answer": "Stable orbit"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which shell is nearest to nucleus?",
+      "options": [
+        { "option_id": 1, "text": "L", "is_correct": false },
+        { "option_id": 2, "text": "M", "is_correct": false },
+        { "option_id": 3, "text": "K", "is_correct": true },
+        { "option_id": 4, "text": "N", "is_correct": false }
+      ],
+      "answer": "K"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Maximum electrons in K shell:",
+      "options": [
+        { "option_id": 1, "text": "8", "is_correct": false },
+        { "option_id": 2, "text": "18", "is_correct": false },
+        { "option_id": 3, "text": "2", "is_correct": true },
+        { "option_id": 4, "text": "32", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which particle has no charge?",
+      "options": [
+        { "option_id": 1, "text": "Proton", "is_correct": false },
+        { "option_id": 2, "text": "Electron", "is_correct": false },
+        { "option_id": 3, "text": "Neutron", "is_correct": true },
+        { "option_id": 4, "text": "Ion", "is_correct": false }
+      ],
+      "answer": "Neutron"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Atomic number is equal to number of:",
+      "options": [
+        { "option_id": 1, "text": "Neutrons", "is_correct": false },
+        { "option_id": 2, "text": "Electrons + neutrons", "is_correct": false },
+        { "option_id": 3, "text": "Protons", "is_correct": true },
+        { "option_id": 4, "text": "Molecules", "is_correct": false }
+      ],
+      "answer": "Protons"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Mass number equals:",
+      "options": [
+        { "option_id": 1, "text": "Protons only", "is_correct": false },
+        { "option_id": 2, "text": "Neutrons only", "is_correct": false },
+        { "option_id": 3, "text": "Protons + Neutrons", "is_correct": true },
+        { "option_id": 4, "text": "Electrons", "is_correct": false }
+      ],
+      "answer": "Protons + Neutrons"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Valence electrons are present in:",
+      "options": [
+        { "option_id": 1, "text": "Nucleus", "is_correct": false },
+        { "option_id": 2, "text": "Valence shell", "is_correct": true },
+        { "option_id": 3, "text": "All shells", "is_correct": false },
+        { "option_id": 4, "text": "K shell only", "is_correct": false }
+      ],
+      "answer": "Valence shell"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which element has valency zero?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 3, "text": "Neon", "is_correct": true },
+        { "option_id": 4, "text": "Sodium", "is_correct": false }
+      ],
+      "answer": "Neon"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Electronic configuration of sodium:",
+      "options": [
+        { "option_id": 1, "text": "2,7,2", "is_correct": false },
+        { "option_id": 2, "text": "2,8,1", "is_correct": true },
+        { "option_id": 3, "text": "2,6,3", "is_correct": false },
+        { "option_id": 4, "text": "2,8,8", "is_correct": false }
+      ],
+      "answer": "2,8,1"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Isotopes have same:",
+      "options": [
+        { "option_id": 1, "text": "Mass number", "is_correct": false },
+        { "option_id": 2, "text": "Neutron number", "is_correct": false },
+        { "option_id": 3, "text": "Atomic number", "is_correct": true },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Atomic number"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which isotope is used for age determination?",
+      "options": [
+        { "option_id": 1, "text": "U-235", "is_correct": false },
+        { "option_id": 2, "text": "C-14", "is_correct": true },
+        { "option_id": 3, "text": "I-131", "is_correct": false },
+        { "option_id": 4, "text": "Na-24", "is_correct": false }
+      ],
+      "answer": "C-14"
+    },
+
+    { "question_id": 21, "question_type": "MCQ", "question": "Which isotope is used in cancer treatment?", "options": [
+      { "option_id": 1, "text": "Cobalt-60", "is_correct": true },
+      { "option_id": 2, "text": "Carbon-14", "is_correct": false },
+      { "option_id": 3, "text": "Uranium-235", "is_correct": false },
+      { "option_id": 4, "text": "Hydrogen-1", "is_correct": false }], "answer": "Cobalt-60" },
+
+    { "question_id": 22, "question_type": "MCQ", "question": "Moderator used in nuclear reactor:", "options": [
+      { "option_id": 1, "text": "Graphite", "is_correct": true },
+      { "option_id": 2, "text": "Iron", "is_correct": false },
+      { "option_id": 3, "text": "Copper", "is_correct": false },
+      { "option_id": 4, "text": "Aluminium", "is_correct": false }], "answer": "Graphite" },
+
+    { "question_id": 23, "question_type": "MCQ", "question": "Controller rods absorb:", "options": [
+      { "option_id": 1, "text": "Protons", "is_correct": false },
+      { "option_id": 2, "text": "Electrons", "is_correct": false },
+      { "option_id": 3, "text": "Neutrons", "is_correct": true },
+      { "option_id": 4, "text": "Alpha particles", "is_correct": false }], "answer": "Neutrons" },
+
+    { "question_id": 24, "question_type": "MCQ", "question": "Which fuel is used in nuclear reactor?", "options": [
+      { "option_id": 1, "text": "Coal", "is_correct": false },
+      { "option_id": 2, "text": "Uranium-235", "is_correct": true },
+      { "option_id": 3, "text": "Petrol", "is_correct": false },
+      { "option_id": 4, "text": "Gas", "is_correct": false }], "answer": "Uranium-235" },
+
+    { "question_id": 25, "question_type": "MCQ", "question": "Nuclear fission produces:", "options": [
+      { "option_id": 1, "text": "Light", "is_correct": false },
+      { "option_id": 2, "text": "Electric charge", "is_correct": false },
+      { "option_id": 3, "text": "Large energy", "is_correct": true },
+      { "option_id": 4, "text": "Sound only", "is_correct": false }], "answer": "Large energy" },
+
+    { "question_id": 26, "question_type": "MCQ", "question": "Which particle stabilizes nucleus?", "options": [
+      { "option_id": 1, "text": "Electron", "is_correct": false },
+      { "option_id": 2, "text": "Neutron", "is_correct": true },
+      { "option_id": 3, "text": "Proton", "is_correct": false },
+      { "option_id": 4, "text": "Ion", "is_correct": false }], "answer": "Neutron" },
+
+    { "question_id": 27, "question_type": "MCQ", "question": "Electron mass is approximately:", "options": [
+      { "option_id": 1, "text": "Equal to proton", "is_correct": false },
+      { "option_id": 2, "text": "Negligible", "is_correct": true },
+      { "option_id": 3, "text": "Greater than neutron", "is_correct": false },
+      { "option_id": 4, "text": "Equal to nucleus", "is_correct": false }], "answer": "Negligible" },
+
+    { "question_id": 28, "question_type": "MCQ", "question": "Which force holds electrons around nucleus?", "options": [
+      { "option_id": 1, "text": "Gravitational", "is_correct": false },
+      { "option_id": 2, "text": "Magnetic", "is_correct": false },
+      { "option_id": 3, "text": "Electrostatic", "is_correct": true },
+      { "option_id": 4, "text": "Nuclear", "is_correct": false }], "answer": "Electrostatic" },
+
+    { "question_id": 29, "question_type": "MCQ", "question": "Valency depends on:", "options": [
+      { "option_id": 1, "text": "Atomic mass", "is_correct": false },
+      { "option_id": 2, "text": "Valence electrons", "is_correct": true },
+      { "option_id": 3, "text": "Neutrons", "is_correct": false },
+      { "option_id": 4, "text": "Nucleus size", "is_correct": false }], "answer": "Valence electrons" },
+
+    { "question_id": 30, "question_type": "MCQ", "question": "Which gas has complete octet?", "options": [
+      { "option_id": 1, "text": "Oxygen", "is_correct": false },
+      { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+      { "option_id": 3, "text": "Argon", "is_correct": true },
+      { "option_id": 4, "text": "Hydrogen", "is_correct": false }], "answer": "Argon" },
+
+    { "question_id": 31, "question_type": "MCQ", "question": "Hydrogen follows:", "options": [
+      { "option_id": 1, "text": "Octet rule", "is_correct": false },
+      { "option_id": 2, "text": "Duplet rule", "is_correct": true },
+      { "option_id": 3, "text": "Both", "is_correct": false },
+      { "option_id": 4, "text": "None", "is_correct": false }], "answer": "Duplet rule" },
+
+    { "question_id": 32, "question_type": "MCQ", "question": "Which shell has max 8 electrons?", "options": [
+      { "option_id": 1, "text": "K", "is_correct": false },
+      { "option_id": 2, "text": "L", "is_correct": true },
+      { "option_id": 3, "text": "M", "is_correct": false },
+      { "option_id": 4, "text": "N", "is_correct": false }], "answer": "L" },
+
+    { "question_id": 33, "question_type": "MCQ", "question": "Atomic symbol with A and Z is written as:", "options": [
+      { "option_id": 1, "text": "Z/A X", "is_correct": false },
+      { "option_id": 2, "text": "A/Z X", "is_correct": true },
+      { "option_id": 3, "text": "X/A Z", "is_correct": false },
+      { "option_id": 4, "text": "X Z/A", "is_correct": false }], "answer": "A/Z X" },
+
+    { "question_id": 34, "question_type": "MCQ", "question": "Which isotope treats thyroid disease?", "options": [
+      { "option_id": 1, "text": "C-14", "is_correct": false },
+      { "option_id": 2, "text": "I-131", "is_correct": true },
+      { "option_id": 3, "text": "Na-24", "is_correct": false },
+      { "option_id": 4, "text": "Co-60", "is_correct": false }], "answer": "I-131" },
+
+    { "question_id": 35, "question_type": "MCQ", "question": "Controller rods are made of:", "options": [
+      { "option_id": 1, "text": "Boron", "is_correct": true },
+      { "option_id": 2, "text": "Gold", "is_correct": false },
+      { "option_id": 3, "text": "Silver", "is_correct": false },
+      { "option_id": 4, "text": "Iron", "is_correct": false }], "answer": "Boron" },
+
+    { "question_id": 36, "question_type": "MCQ", "question": "Heavy water is used as:", "options": [
+      { "option_id": 1, "text": "Fuel", "is_correct": false },
+      { "option_id": 2, "text": "Moderator", "is_correct": true },
+      { "option_id": 3, "text": "Coolant only", "is_correct": false },
+      { "option_id": 4, "text": "Controller", "is_correct": false }], "answer": "Moderator" },
+
+    { "question_id": 37, "question_type": "MCQ", "question": "Who explained atomic stability?", "options": [
+      { "option_id": 1, "text": "Dalton", "is_correct": false },
+      { "option_id": 2, "text": "Rutherford", "is_correct": false },
+      { "option_id": 3, "text": "Bohr", "is_correct": true },
+      { "option_id": 4, "text": "Thomson", "is_correct": false }], "answer": "Bohr" },
+
+    { "question_id": 38, "question_type": "MCQ", "question": "Electron jumps emit:", "options": [
+      { "option_id": 1, "text": "Heat", "is_correct": false },
+      { "option_id": 2, "text": "Energy", "is_correct": true },
+      { "option_id": 3, "text": "Sound", "is_correct": false },
+      { "option_id": 4, "text": "Mass", "is_correct": false }], "answer": "Energy" },
+
+    { "question_id": 39, "question_type": "MCQ", "question": "Which model has nucleus concept?",
+      "options": [
+        { "option_id": 1, "text": "Dalton", "is_correct": false },
+        { "option_id": 2, "text": "Thomson", "is_correct": false },
+        { "option_id": 3, "text": "Rutherford", "is_correct": true },
+        { "option_id": 4, "text": "Bohr", "is_correct": false }
+      ],
+      "answer": "Rutherford"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which particle decides element identity?",
+      "options": [
+        { "option_id": 1, "text": "Electron", "is_correct": false },
+        { "option_id": 2, "text": "Neutron", "is_correct": false },
+        { "option_id": 3, "text": "Proton", "is_correct": true },
+        { "option_id": 4, "text": "Ion", "is_correct": false }
+      ],
+      "answer": "Proton"
+    },
+
+    { "question_id": 41, "question_type": "MCQ", "question": "Atomic mass mainly due to:", "options": [
+      { "option_id": 1, "text": "Electrons", "is_correct": false },
+      { "option_id": 2, "text": "Protons and neutrons", "is_correct": true },
+      { "option_id": 3, "text": "Electrons only", "is_correct": false },
+      { "option_id": 4, "text": "Shells", "is_correct": false }], "answer": "Protons and neutrons" },
+
+    { "question_id": 42, "question_type": "MCQ", "question": "Shells are denoted by:", "options": [
+      { "option_id": 1, "text": "A, B, C", "is_correct": false },
+      { "option_id": 2, "text": "K, L, M, N", "is_correct": true },
+      { "option_id": 3, "text": "X, Y, Z", "is_correct": false },
+      { "option_id": 4, "text": "P, Q, R", "is_correct": false }], "answer": "K, L, M, N" },
+
+    { "question_id": 43, "question_type": "MCQ", "question": "Fluorine valence electrons:", "options": [
+      { "option_id": 1, "text": "1", "is_correct": false },
+      { "option_id": 2, "text": "5", "is_correct": false },
+      { "option_id": 3, "text": "7", "is_correct": true },
+      { "option_id": 4, "text": "8", "is_correct": false }], "answer": "7" },
+
+    { "question_id": 44, "question_type": "MCQ", "question": "Which has electron octet?", "options": [
+      { "option_id": 1, "text": "Sodium", "is_correct": false },
+      { "option_id": 2, "text": "Neon", "is_correct": true },
+      { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+      { "option_id": 4, "text": "Magnesium", "is_correct": false }], "answer": "Neon" },
+
+    { "question_id": 45, "question_type": "MCQ", "question": "Which isotope detects pipe leakage?", "options": [
+      { "option_id": 1, "text": "C-14", "is_correct": false },
+      { "option_id": 2, "text": "Na-24", "is_correct": true },
+      { "option_id": 3, "text": "Co-60", "is_correct": false },
+      { "option_id": 4, "text": "I-131", "is_correct": false }], "answer": "Na-24" },
+
+    { "question_id": 46, "question_type": "MCQ", "question": "Neutron mass is approximately:", "options": [
+      { "option_id": 1, "text": "0", "is_correct": false },
+      { "option_id": 2, "text": "1u", "is_correct": true },
+      { "option_id": 3, "text": "2u", "is_correct": false },
+      { "option_id": 4, "text": "1800u", "is_correct": false }], "answer": "1u" },
+
+    { "question_id": 47, "question_type": "MCQ", "question": "Electron capacity formula is:", "options": [
+      { "option_id": 1, "text": "n²", "is_correct": false },
+      { "option_id": 2, "text": "2n²", "is_correct": true },
+      { "option_id": 3, "text": "n³", "is_correct": false },
+      { "option_id": 4, "text": "3n²", "is_correct": false }], "answer": "2n²" },
+
+    { "question_id": 48, "question_type": "MCQ", "question": "Which particle causes positive charge of nucleus?", "options": [
+      { "option_id": 1, "text": "Electron", "is_correct": false },
+      { "option_id": 2, "text": "Neutron", "is_correct": false },
+      { "option_id": 3, "text": "Proton", "is_correct": true },
+      { "option_id": 4, "text": "Ion", "is_correct": false }], "answer": "Proton" },
+
+    { "question_id": 49, "question_type": "MCQ", "question": "Chain reaction occurs in:", "options": [
+      { "option_id": 1, "text": "Fusion", "is_correct": false },
+      { "option_id": 2, "text": "Fission", "is_correct": true },
+      { "option_id": 3, "text": "Evaporation", "is_correct": false },
+      { "option_id": 4, "text": "Condensation", "is_correct": false }], "answer": "Fission" },
+
+    { "question_id": 50, "question_type": "MCQ", "question": "Which gas lamp gives yellow light due to electron jump?", "options": [
+      { "option_id": 1, "text": "Neon", "is_correct": false },
+      { "option_id": 2, "text": "Sodium vapour", "is_correct": true },
+      { "option_id": 3, "text": "Argon", "is_correct": false },
+      { "option_id": 4, "text": "Helium", "is_correct": false }], "answer": "Sodium vapour" },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is an atom?",
+      "answer": "Atom is the smallest particle of an element that takes part in chemical reactions. It consists of nucleus and electrons revolving around it."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are sub-atomic particles?",
+      "answer": "Particles present inside the atom are called sub-atomic particles. They are electrons, protons and neutrons."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is nucleus?",
+      "answer": "Nucleus is the central part of atom containing protons and neutrons. It has positive charge and most of the atomic mass."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is nucleus positively charged?",
+      "answer": "Because nucleus contains protons which carry positive charge. Neutrons have no charge."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where are electrons found?",
+      "answer": "Electrons revolve around nucleus in fixed shells or orbits. They are negatively charged particles."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is atomic number?",
+      "answer": "Atomic number is the number of protons present in nucleus of atom. It determines the identity of element."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is mass number?",
+      "answer": "Mass number is total number of protons and neutrons in nucleus. It represents atomic mass."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why electrons do not fall into nucleus?",
+      "answer": "Electrons move in fixed energy levels. As long as they remain in stable orbit, they do not lose energy."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is electronic configuration?",
+      "answer": "Arrangement of electrons in different shells around nucleus is called electronic configuration."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is valence shell?",
+      "answer": "The outermost shell of an atom is called valence shell. It determines chemical properties of element."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are valence electrons?",
+      "answer": "Electrons present in valence shell are called valence electrons. They take part in chemical bonding."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is valency?",
+      "answer": "Valency is combining capacity of an element. It depends on number of electrons lost, gained or shared."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why noble gases have valency zero?",
+      "answer": "Their valence shell is completely filled. Hence they do not lose or gain electrons."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is duplet rule?",
+      "answer": "Atoms with two electrons in valence shell are stable. Hydrogen follows duplet rule."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is octet rule?",
+      "answer": "Atoms tend to complete eight electrons in valence shell to become stable. Most elements follow octet rule."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are isotopes?",
+      "answer": "Atoms of same element having same atomic number but different mass numbers are called isotopes."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why isotopes show same chemical properties?",
+      "answer": "Chemical properties depend on electronic configuration which is same for isotopes."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why isotopes have different mass?",
+      "answer": "Because number of neutrons is different in isotopes, which changes mass number."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Give one use of C-14.",
+      "answer": "Carbon-14 is used to determine age of fossils and ancient objects by carbon dating method."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Give one medical use of isotopes.",
+      "answer": "Cobalt-60 is used in treatment of cancer and Iodine-131 is used to treat thyroid disease."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is nuclear fission?",
+      "answer": "Splitting of heavy nucleus into smaller nuclei releasing large energy is called nuclear fission."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is chain reaction?",
+      "answer": "In fission, released neutrons cause further fission of nuclei, producing continuous reaction called chain reaction."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is nuclear reactor?",
+      "answer": "It is a device that controls nuclear fission to produce electricity safely."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is role of moderator?",
+      "answer": "Moderator slows down fast neutrons so that controlled fission can continue."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is role of control rods?",
+      "answer": "They absorb extra neutrons and control speed of chain reaction in reactor."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why uranium-235 is used as fuel?",
+      "answer": "U-235 easily undergoes fission and releases large amount of energy."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is nuclear energy?",
+      "answer": "Energy released from nucleus during fission or fusion is called nuclear energy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why nuclear energy is powerful?",
+      "answer": "Very small amount of fuel releases huge energy compared to chemical reactions."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why safety is important in reactors?",
+      "answer": "Uncontrolled reaction can cause explosion and radiation hazards, so strict safety is required."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is radiation?",
+      "answer": "Radiation is emission of high-energy particles or waves from unstable nuclei."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why radiation is harmful to humans?",
+      "answer": "Radiation damages body cells and DNA, causing serious diseases like cancer."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is half-life of isotope?",
+      "answer": "Time taken by half quantity of radioactive substance to decay is called half-life."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why isotopes are used in industry?",
+      "answer": "They help detect leaks, measure thickness and sterilize medical equipment."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is atomic stability?",
+      "answer": "Atoms are stable when their valence shell is completely filled with electrons."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why atoms form bonds?",
+      "answer": "To achieve stable electronic configuration by completing octet or duplet."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why hydrogen is unique?",
+      "answer": "It can lose or gain one electron and follow duplet rule, unlike other elements."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why atomic mass of electron is neglected?",
+      "answer": "Its mass is very small compared to proton and neutron, so contribution is negligible."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why proton and neutron called nucleons?",
+      "answer": "Because both are present inside nucleus of atom."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is atomic notation?",
+      "answer": "It shows atomic number and mass number of element using symbols A and Z."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why nucleus is very small?",
+      "answer": "Most of atom is empty space and nucleus occupies very tiny region at center."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why most alpha particles passed through foil?",
+      "answer": "Because atom is mostly empty space, allowing particles to pass without deflection."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why few particles deflected back?",
+      "answer": "They hit dense and positively charged nucleus and bounced back."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why Rutherford model failed?",
+      "answer": "It could not explain stability of atom and fixed energy levels of electrons."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How Bohr model solved stability problem?",
+      "answer": "It proposed fixed orbits where electrons do not lose energy."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happens when electron jumps shell?",
+      "answer": "Energy is absorbed or released as light depending on direction of jump."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why sodium lamp gives yellow light?",
+      "answer": "Due to excitation of sodium electrons which emit yellow light when returning to lower energy."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why atomic number is more important than mass number?",
+      "answer": "Atomic number determines element identity and chemical properties."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why different elements exist?",
+      "answer": "Because atoms have different number of protons and electronic configurations."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is artificial radioactivity?",
+      "answer": "It is produced by bombarding stable nuclei with particles to make them radioactive."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why radioactive waste is dangerous?",
+      "answer": "It emits radiation for long time and can damage living organisms."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why isotopes are chemically similar but physically different?",
+      "answer": "Electronic configuration is same but mass differs due to neutrons."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why heavy elements are radioactive?",
+      "answer": "Large nucleus becomes unstable and releases energy to become stable."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why nuclear fusion not used in reactors?",
+      "answer": "Fusion requires extremely high temperature which is difficult to maintain."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is fusion?",
+      "answer": "Fusion is combining of light nuclei to form heavier nucleus releasing energy."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Where does fusion occur naturally?",
+      "answer": "Fusion occurs in sun where high temperature and pressure exist."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why nuclear power plants are built near water?",
+      "answer": "Water is required for cooling reactor and producing steam."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why lead shielding is used?",
+      "answer": "Lead blocks radiation and protects workers from harmful effects."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why nuclear energy is controversial?",
+      "answer": "It produces dangerous waste and accidents can cause serious disasters."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why isotopes are used in agriculture?",
+      "answer": "They help study nutrient absorption and improve crop production."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why atomic theory changed over time?",
+      "answer": "New experiments revealed new facts, leading to improved atomic models."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why scientific models change?",
+      "answer": "They change when better experimental evidence becomes available."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is importance of isotopes in science?",
+      "answer": "They help in medical diagnosis, research and industrial testing."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is neutron necessary in nucleus?",
+      "answer": "Neutrons reduce repulsion between protons and stabilize nucleus."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why electrons are arranged in shells?",
+      "answer": "Shells represent energy levels where electrons remain stable."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why valency determines chemical behavior?",
+      "answer": "It decides how atoms combine with others to form compounds."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why outer shell is most important?",
+      "answer": "Because chemical reactions involve only valence electrons."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why isotopes are useful in tracing?",
+      "answer": "Their radiation can be easily detected, helping in tracking movement."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why atomic structure is important to study?",
+      "answer": "It explains properties of matter and chemical reactions."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why electrons have negative charge?",
+      "answer": "Because they carry excess negative electric charge by nature."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why protons are positive?",
+      "answer": "Protons carry positive electric charge equal and opposite to electron."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why isotopes used in sterilization?",
+      "answer": "Radiation kills bacteria and germs on medical instruments."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why radioactive decay is random?",
+      "answer": "It cannot be predicted which atom will decay at what time."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why nuclear energy is called clean energy?",
+      "answer": "It does not release smoke or carbon dioxide during power generation."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why handling radioactive material is risky?",
+      "answer": "Exposure can damage tissues and cause long-term health problems."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why stable isotopes do not emit radiation?",
+      "answer": "Their nuclei are balanced and do not need to release energy."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why atoms of same element are similar?",
+      "answer": "They have same atomic number and same electronic configuration."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why chemical reactions do not affect nucleus?",
+      "answer": "Chemical reactions involve electrons only, nucleus remains unchanged."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why nuclear reactions release more energy?",
+      "answer": "Because mass is converted into energy according to Einstein’s equation."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why electron is called elementary particle?",
+      "answer": "It cannot be broken into smaller charged particles."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why proton number defines element?",
+      "answer": "Different proton numbers mean different elements with unique properties."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why hydrogen isotope deuterium is heavy?",
+      "answer": "It contains one proton and one neutron, increasing its mass."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why radioactive isotopes must be handled carefully?",
+      "answer": "They emit harmful radiation that can damage living cells."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why atomic models are needed?",
+      "answer": "They help visualize structure of atom and explain experimental results."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why matter is electrically neutral?",
+      "answer": "Number of electrons equals number of protons in atoms."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why positive and negative charges attract?",
+      "answer": "Electrostatic force causes opposite charges to attract each other."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why mass of nucleus is high?",
+      "answer": "Because protons and neutrons are heavy particles compared to electrons."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why atomic mass is not whole number?",
+      "answer": "Due to presence of isotopes and average mass calculation."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why electron capacity increases in outer shells?",
+      "answer": "Because shell number increases and energy level is higher."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why isotopes are unstable?",
+      "answer": "Imbalance of neutrons and protons makes nucleus unstable."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why radioactive decay cannot be stopped?",
+      "answer": "It is natural process that occurs without external control."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why nuclear weapons are dangerous?",
+      "answer": "They release massive energy and harmful radiation causing destruction."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why atomic energy is important today?",
+      "answer": "It provides large amount of electricity with less fuel consumption."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why isotopes help in diagnosis?",
+      "answer": "Their radiation helps detect internal organ problems."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why heavy nuclei split easily?",
+      "answer": "Large repulsive force between protons makes them unstable."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why nuclear waste needs safe storage?",
+      "answer": "It remains radioactive for long time and can harm environment."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why atoms are mostly empty space?",
+      "answer": "Distance between nucleus and electrons is very large compared to nucleus size."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why discovery of nucleus was important?",
+      "answer": "It showed that positive charge and mass are concentrated at center."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why atomic structure affects properties?",
+      "answer": "Arrangement of electrons decides reactivity and bonding behavior."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why isotopes useful despite radiation risk?",
+      "answer": "Their benefits in medicine and industry outweigh risks when used safely."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give conclusion of Inside the Atom chapter.",
+      "answer": "Atom consists of nucleus and electrons, and its structure explains chemical and nuclear phenomena used in science and technology."
+    }
+  ]
+}
