@@ -1,0 +1,383 @@
+{
+  "chapter_id": 20,
+  "chapter_name": "आपले भावनिक जग",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "माणसाच्या स्वभावाचे विविध पैलू म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त राग", "is_correct": false },
+        { "option_id": 2, "text": "भावना", "is_correct": true },
+        { "option_id": 3, "text": "केवळ आनंद", "is_correct": false },
+        { "option_id": 4, "text": "बुद्धी", "is_correct": false }
+      ],
+      "answer": "भावना"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आपल्याला एखादी गोष्ट मनासारखी झाली की काय वाटते?",
+      "options": [
+        { "option_id": 1, "text": "दुःख", "is_correct": false },
+        { "option_id": 2, "text": "भीती", "is_correct": false },
+        { "option_id": 3, "text": "आनंद", "is_correct": true },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कोणीही विनाकारण आपल्याला बोलले की कोणती भावना निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": true },
+        { "option_id": 2, "text": "प्रेम", "is_correct": false },
+        { "option_id": 3, "text": "समाधान", "is_correct": false },
+        { "option_id": 4, "text": "आश्चर्य", "is_correct": false }
+      ],
+      "answer": "राग"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भावनांचा समतोल राखणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "भावना दाबून टाकणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप रडणे", "is_correct": false },
+        { "option_id": 3, "text": "भावनांवर नियंत्रण ठेवणे", "is_correct": true },
+        { "option_id": 4, "text": "रागाच्या भरात मारणे", "is_correct": false }
+      ],
+      "answer": "भावनांवर नियंत्रण ठेवणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भावनिक समतोल असलेल्या व्यक्तीचे व्यक्तिमत्व कसे बनते?",
+      "options": [
+        { "option_id": 1, "text": "रागीट", "is_correct": false },
+        { "option_id": 2, "text": "कल्लोळी", "is_correct": false },
+        { "option_id": 3, "text": "खिन्न", "is_correct": false },
+        { "option_id": 4, "text": "सुदृढ आणि आनंदी", "is_correct": true }
+      ],
+      "answer": "सुदृढ आणि आनंदी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दुसऱ्याच्या दुःखात सहभागी होणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मत्सर", "is_correct": false },
+        { "option_id": 2, "text": "सहानुभूती", "is_correct": true },
+        { "option_id": 3, "text": "स्वार्थीपणा", "is_correct": false },
+        { "option_id": 4, "text": "द्वेष", "is_correct": false }
+      ],
+      "answer": "सहानुभूती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रागावर नियंत्रण मिळवण्याचा उत्तम मार्ग कोणता?",
+      "options": [
+        { "option_id": 1, "text": "समोरच्याला ओरडणे", "is_correct": false },
+        { "option_id": 2, "text": "वस्तू फोडणे", "is_correct": false },
+        { "option_id": 3, "text": "शांत राहणे किंवा तिथून दूर जाणे", "is_correct": true },
+        { "option_id": 4, "text": "राग मनात धरून ठेवणे", "is_correct": false }
+      ],
+      "answer": "शांत राहणे किंवा तिथून दूर जाणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आपल्यातील दोषांची जाणीव असणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्व-जाणीव", "is_correct": true },
+        { "option_id": 2, "text": "अहंकार", "is_correct": false },
+        { "option_id": 3, "text": "हीनभावना", "is_correct": false },
+        { "option_id": 4, "text": "विसरभोळेपणा", "is_correct": false }
+      ],
+      "answer": "स्व-जाणीव"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भावनांचे प्रदर्शन अती प्रमाणात झाल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्य सुधारते", "is_correct": false },
+        { "option_id": 2, "text": "माणूस लोकप्रिय होतो", "is_correct": false },
+        { "option_id": 3, "text": "मानसिक आणि शारीरिक स्वास्थ्य बिघडते", "is_correct": true },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "मानसिक आणि शारीरिक स्वास्थ्य बिघडते"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ईर्ष्या (मत्सर) ही कोणती भावना आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकारात्मक", "is_correct": true },
+        { "option_id": 2, "text": "सकारात्मक", "is_correct": false },
+        { "option_id": 3, "text": "प्रेरक", "is_correct": false },
+        { "option_id": 4, "text": "आनंददायी", "is_correct": false }
+      ],
+      "answer": "नकारात्मक"
+    },
+    {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "चुकीचे वागल्यावर काय वाटते?",
+        "options": [
+          { "option_id": 1, "text": "भिंती", "is_correct": false },
+          { "option_id": 2, "text": "अपराधीपणाची भावना", "is_correct": true },
+          { "option_id": 3, "text": "गर्वा", "is_correct": false },
+          { "option_id": 4, "text": "राग", "is_correct": false }
+        ],
+        "answer": "अपराधीपणाची भावना"
+      },
+      {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "आपण आपल्या उणिवा कशा दूर करू शकतो?",
+        "options": [
+          { "option_id": 1, "text": "रडून", "is_correct": false },
+          { "option_id": 2, "text": "प्रयत्न करून", "is_correct": true },
+          { "option_id": 3, "text": "लपवून", "is_correct": false },
+          { "option_id": 4, "text": "इतरांना दोष देऊन", "is_correct": false }
+        ],
+        "answer": "प्रयत्न करून"
+      },
+      {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "कोणी आपल्याशी प्रेमाने वागल्यास कोणती भावना निर्माण होते?",
+        "options": [
+          { "option_id": 1, "text": "कृतज्ञता", "is_correct": true },
+          { "option_id": 2, "text": "चि़ड", "is_correct": false },
+          { "option_id": 3, "text": "भीती", "is_correct": false },
+          { "option_id": 4, "text": "विद्वेष", "is_correct": false }
+        ],
+        "answer": "कृतज्ञता"
+      },
+      {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "भावनांचा निचरा होणे म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "भावना मनात साठवणे", "is_correct": false },
+          { "option_id": 2, "text": "भावना मोकळेपणाने मांडणे", "is_correct": true },
+          { "option_id": 3, "text": "भावना मारून टाकणे", "is_correct": false },
+          { "option_id": 4, "text": "खोटे बोलणे", "is_correct": false }
+        ],
+        "answer": "भावना मोकळेपणाने मांडणे"
+      },
+      {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "चांगल्या सवयींमुळे आपले भावनिक जग कसे होते?",
+        "options": [
+          { "option_id": 1, "text": "विस्कळीत", "is_correct": false },
+          { "option_id": 2, "text": "समृद्ध", "is_correct": true },
+          { "option_id": 3, "text": "दुःखी", "is_correct": false },
+          { "option_id": 4, "text": "भयभीत", "is_correct": false }
+        ],
+        "answer": "समृद्ध"
+      },
+      {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question": "खूप रागावल्यास शरीरावर काय परिणाम होतो?",
+        "options": [
+          { "option_id": 1, "text": "भूक वाढते", "is_correct": false },
+          { "option_id": 2, "text": "शांत झोप लागते", "is_correct": false },
+          { "option_id": 3, "text": "डोकेदुखी व अस्वस्थता येते", "is_correct": true },
+          { "option_id": 4, "text": "शक्ती येते", "is_correct": false }
+        ],
+        "answer": "डोकेदुखी व अस्वस्थता येते"
+      },
+      {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question": "भीती वाटल्यावर आपण काय करतो?",
+        "options": [
+          { "option_id": 1, "text": "संरक्षण शोधतो", "is_correct": true },
+          { "option_id": 2, "text": "हसतो", "is_correct": false },
+          { "option_id": 3, "text": "गाणे गातो", "is_correct": false },
+          { "option_id": 4, "text": "झोपतो", "is_correct": false }
+        ],
+        "answer": "संरक्षण शोधतो"
+      },
+      {
+        "question_id": 18,
+        "question_type": "MCQ",
+        "question": "इतरांच्या गुणांचे कौतुक करणे हे कशाचे लक्षण आहे?",
+        "options": [
+          { "option_id": 1, "text": "कमकुवतपणा", "is_correct": false },
+          { "option_id": 2, "text": "भावनिक प्रगल्भता", "is_correct": true },
+          { "option_id": 3, "text": "मूर्खपणा", "is_correct": false },
+          { "option_id": 4, "text": "स्वार्थ", "is_correct": false }
+        ],
+        "answer": "भावनिक प्रगल्भता"
+      },
+      {
+        "question_id": 19,
+        "question_type": "MCQ",
+        "question": "मत्सर करण्यामुळे काय होते?",
+        "options": [
+          { "option_id": 1, "text": "मित्र वाढतात", "is_correct": false },
+          { "option_id": 2, "text": "प्रगती होते", "is_correct": false },
+          { "option_id": 3, "text": "आपलेच नुकसान होते", "is_correct": true },
+          { "option_id": 4, "text": "आनंद मिळतो", "is_correct": false }
+        ],
+        "answer": "आपलेच नुकसान होते"
+      },
+      {
+        "question_id": 20,
+        "question_type": "MCQ",
+        "question": "भावना व्यक्त करण्याची योग्य पद्धत कोणती?",
+        "options": [
+          { "option_id": 1, "text": "आरडाओरडा करणे", "is_correct": false },
+          { "option_id": 2, "text": "इतरांना न दुखवता सांगणे", "is_correct": true },
+          { "option_id": 3, "text": "मारहाण करणे", "is_correct": false },
+          { "option_id": 4, "text": "काहीही न सांगता गप्प राहणे", "is_correct": false }
+        ],
+        "answer": "इतरांना न दुखवता सांगणे"
+      },
+      { "question_id": 21, "question_type": "MCQ", "question": "राग आवरणे का आवश्यक आहे?", "options": [ { "option_id": 1, "text": "शांत राहण्यासाठी", "is_correct": true }, { "option_id": 2, "text": "शक्ति वाचवण्यासाठी", "is_correct": false }, { "option_id": 3, "text": "भूक लागण्यासाठी", "is_correct": false }, { "option_id": 4, "text": "काहीही नाही", "is_correct": false } ], "answer": "शांत राहण्यासाठी" },
+      { "question_id": 22, "question_type": "MCQ", "question": "माणसाला भावना असतात, तशा कोणाला असतात?", "options": [ { "option_id": 1, "text": "दगडाला", "is_correct": false }, { "option_id": 2, "text": "झाडांना", "is_correct": false }, { "option_id": 3, "text": "प्राण्यांना", "is_correct": true }, { "option_id": 4, "text": "टेबलाला", "is_correct": false } ], "answer": "प्राण्यांना" },
+      { "question_id": 23, "question_type": "MCQ", "question": "दुसऱ्याबद्दल प्रेम वाटणे ही कोणती भावना आहे?", "options": [ { "option_id": 1, "text": "नकारात्मक", "is_correct": false }, { "option_id": 2, "text": "सकारात्मक", "is_correct": true }, { "option_id": 3, "text": "धोकादायक", "is_correct": false }, { "option_id": 4, "text": "वाईट", "is_correct": false } ], "answer": "सकारात्मक" },
+      { "question_id": 24, "question_type": "MCQ", "question": "आनंद कशामुळे मिळतो?", "options": [ { "option_id": 1, "text": "यशा मुळे", "is_correct": true }, { "option_id": 2, "text": "अपयशा मुळे", "is_correct": false }, { "option_id": 3, "text": "भीती मुळे", "is_correct": false }, { "option_id": 4, "text": "रागा मुळे", "is_correct": false } ], "answer": "यशा मुळे" },
+      { "question_id": 25, "question_type": "MCQ", "question": "भावनिक साक्षरता म्हणजे काय?", "options": [ { "option_id": 1, "text": "लिहिता येणे", "is_correct": false }, { "option_id": 2, "text": "वाचता येणे", "is_correct": false }, { "option_id": 3, "text": "भावना ओळखता येणे", "is_correct": true }, { "option_id": 4, "text": "चित्र काढणे", "is_correct": false } ], "answer": "भावना ओळखता येणे" },
+      { "question_id": 26, "question_type": "MCQ", "question": "चिंता कशामुळे वाटते?", "options": [ { "option_id": 1, "text": "अनिश्चितते मुळे", "is_correct": true }, { "option_id": 2, "text": "जेवणामुळे", "is_correct": false }, { "option_id": 3, "text": "खेळल्यामुळे", "is_correct": false }, { "option_id": 4, "text": "झोपल्यामुळे", "is_correct": false } ], "answer": "अनिश्चितते मुळे" },
+      { "question_id": 27, "question_type": "MCQ", "question": "आपल्या मर्यादांची जाणीव कशामुळे होते?", "options": [ { "option_id": 1, "text": "निरीक्षणामुळे", "is_correct": true }, { "option_id": 2, "text": "अंधारामुळे", "is_correct": false }, { "option_id": 3, "text": "पावसामुळे", "is_correct": false }, { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false } ], "answer": "निरीक्षणामुळे" },
+      { "question_id": 28, "question_type": "MCQ", "question": "मैत्रीत कोणत्या भावना महत्वाच्या असतात?", "options": [ { "option_id": 1, "text": "राग", "is_correct": false }, { "option_id": 2, "text": "मत्सर", "is_correct": false }, { "option_id": 3, "text": "विश्वास आणि प्रेम", "is_correct": true }, { "option_id": 4, "text": "भीती", "is_correct": false } ], "answer": "विश्वास आणि प्रेम" },
+      { "question_id": 29, "question_type": "MCQ", "question": "आश्चर्य वाटल्यावर डोळे कसे होतात?", "options": [ { "option_id": 1, "text": "विस्फारतात", "is_correct": true }, { "option_id": 2, "text": "मिटतात", "is_correct": false }, { "option_id": 3, "text": "लाल होतात", "is_correct": false }, { "option_id": 4, "text": "काही बदल होत नाही", "is_correct": false } ], "answer": "विस्फारतात" },
+      { "question_id": 30, "question_type": "MCQ", "question": "भावनिक अडथळे कसे दूर करावेत?", "options": [ { "option_id": 1, "text": "संवाद साधून", "is_correct": true }, { "option_id": 2, "text": "भांडून", "is_correct": false }, { "option_id": 3, "text": "रुसून", "is_correct": false }, { "option_id": 4, "text": "मारून", "is_correct": false } ], "answer": "संवाद साधून" },
+      { "question_id": 31, "question_type": "MCQ", "question": "संयम म्हणजे काय?", "options": [ { "option_id": 1, "text": "घाई करणे", "is_correct": false }, { "option_id": 2, "text": "स्वतःवर ताबा असणे", "is_correct": true }, { "option_id": 3, "text": "पळून जाणे", "is_correct": false }, { "option_id": 4, "text": "जोरात ओरडणे", "is_correct": false } ], "answer": "स्वतःवर ताबा असणे" },
+      { "question_id": 32, "question_type": "MCQ", "question": "इतरांना मदत केल्यावर काय वाटते?", "options": [ { "option_id": 1, "text": "अभिमान", "is_correct": false }, { "option_id": 2, "text": "समाधान", "is_correct": true }, { "option_id": 3, "text": "त्रास", "is_correct": false }, { "option_id": 4, "text": "राग", "is_correct": false } ], "answer": "समाधान" },
+      { "question_id": 33, "question_type": "MCQ", "question": "धैर्य म्हणजे काय?", "options": [ { "option_id": 1, "text": "भ्याडपणा", "is_correct": false }, { "option_id": 2, "text": "संकटात न डगमगणे", "is_correct": true }, { "option_id": 3, "text": "पळ काढणे", "is_correct": false }, { "option_id": 4, "text": "घाबरणे", "is_correct": false } ], "answer": "संकटात न डगमगणे" },
+      { "question_id": 34, "question_type": "MCQ", "question": "दुःख कोणाशी तरी बोलल्यामुळे काय होते?", "options": [ { "option_id": 1, "text": "वाढते", "is_correct": false }, { "option_id": 2, "text": "हलके होते", "is_correct": true }, { "option_id": 3, "text": "तसेच राहते", "is_correct": false }, { "option_id": 4, "text": "दुसऱ्याला राग येतो", "is_correct": false } ], "answer": "हलके होते" },
+      { "question_id": 35, "question_type": "MCQ", "question": "भावनिक गरजा कशाशी संबंधित असतात?", "options": [ { "option_id": 1, "text": "जेवण", "is_correct": false }, { "option_id": 2, "text": "कपडे", "is_correct": false }, { "option_id": 3, "text": "मानसिक सुख", "is_correct": true }, { "option_id": 4, "text": "घर", "is_correct": false } ], "answer": "मानसिक सुख" },
+      { "question_id": 36, "question_type": "MCQ", "question": "मत्सर करण्याऐवजी काय करावे?", "options": [ { "option_id": 1, "text": "द्वेष करावा", "is_correct": false }, { "option_id": 2, "text": "कौतुक आणि आदर्श घ्यावा", "is_correct": true }, { "option_id": 3, "text": "त्याच्याशी बोलणे टाळावे", "is_correct": false }, { "option_id": 4, "text": "त्याला हरवावे", "is_correct": false } ], "answer": "कौतुक आणि आदर्श घ्यावा" },
+      { "question_id": 37, "question_type": "MCQ", "question": "आत्मविश्वास म्हणजे काय?", "options": [ { "option_id": 1, "text": "स्वतःच्या क्षमतेवर विश्वास", "is_correct": true }, { "option_id": 2, "text": "दुसऱ्याची नक्कल", "is_correct": false }, { "option_id": 3, "text": "गर्व", "is_correct": false }, { "option_id": 4, "text": "लाजाळूपणा", "is_correct": false } ], "answer": "स्वतःच्या क्षमतेवर विश्वास" },
+      { "question_id": 38, "question_type": "MCQ", "question": "निराशा केव्हा येते?", "options": [ { "option_id": 1, "text": "काम पूर्ण न झाल्यावर", "is_correct": true }, { "option_id": 2, "text": "पक्षी उडाल्यावर", "is_correct": false }, { "option_id": 3, "text": "सूर्य मावळल्यावर", "is_correct": false }, { "option_id": 4, "text": "शाळेत गेल्यावर", "is_correct": false } ], "answer": "काम पूर्ण न झाल्यावर" },
+      { "question_id": 39, "question_type": "MCQ", "question": "सहकार्य केल्याने काय वाटते?",
+        "options": [
+          { "option_id": 1, "text": "आनंद आणि जवळीक", "is_correct": true },
+          { "option_id": 2, "text": "राग आणि द्वेष", "is_correct": false },
+          { "option_id": 3, "text": "थकवा", "is_correct": false },
+          { "option_id": 4, "text": "तिरस्कार", "is_correct": false }
+        ], "answer": "आनंद आणि जवळीक" },
+      { "question_id": 40, "question_type": "MCQ", "question": "चिडखोरपणा कशाचा परिणाम आहे?", "options": [ { "option_id": 1, "text": "असंतुलित भावना", "is_correct": true }, { "option_id": 2, "text": "जास्त वेळ खेळणे", "is_correct": false }, { "option_id": 3, "text": "चांगला आहार", "is_correct": false }, { "option_id": 4, "text": "खूप अभ्यास", "is_correct": false } ], "answer": "असंतुलित भावना" },
+      { "question_id": 41, "question_type": "MCQ", "question": "भावनिक आरोग्य चांगले असण्याचे लक्षण कोणते?", "options": [ { "option_id": 1, "text": "नेहमी रडणे", "is_correct": false }, { "option_id": 2, "text": "नेहमी रागवणे", "is_correct": false }, { "option_id": 3, "text": "परिस्थितीशी जुळवून घेणे", "is_correct": true }, { "option_id": 4, "text": "कुणाशीही न बोलणे", "is_correct": false } ], "answer": "परिस्थितीशी जुळवून घेणे" },
+      { "question_id": 42, "question_type": "MCQ", "question": "अपमानाची भावना कधी निर्माण होते?", "options": [ { "option_id": 1, "text": "इतरांनी कमी लेखल्यावर", "is_correct": true }, { "option_id": 2, "text": "बक्षीस मिळाल्यावर", "is_correct": false }, { "option_id": 3, "text": "गाणे ऐकल्यावर", "is_correct": false }, { "option_id": 4, "text": "जेवण केल्यावर", "is_correct": false } ], "answer": "इतरांनी कमी लेखल्यावर" },
+      { "question_id": 43, "question_type": "MCQ", "question": "भावना लपवून ठेवल्याने काय होते?", "options": [ { "option_id": 1, "text": "मानसिक ताण वाढतो", "is_correct": true }, { "option_id": 2, "text": "आनंद मिळतो", "is_correct": false }, { "option_id": 3, "text": "शक्ती वाढते", "is_correct": false }, { "option_id": 4, "text": "विसरायला मदत होते", "is_correct": false } ], "answer": "मानसिक ताण वाढतो" },
+      { "question_id": 44, "question_type": "MCQ", "question": "माणूस सामाजिक प्राणी का आहे?", "options": [ { "option_id": 1, "text": "तो जंगलात राहतो म्हणून", "is_correct": false }, { "option_id": 2, "text": "तो एकमेकांशी संवाद साधतो", "is_correct": true }, { "option_id": 3, "text": "तो प्राणी संग्रहालयात राहतो", "is_correct": false }, { "option_id": 4, "text": "तो गवत खातो", "is_correct": false } ], "answer": "तो एकमेकांशी संवाद साधतो" },
+      { "question_id": 45, "question_type": "MCQ", "question": "इतरांच्या आनंदाने आनंदी होणे म्हणजे काय?", "options": [ { "option_id": 1, "text": "चांगुलपणा", "is_correct": true }, { "option_id": 2, "text": "वेडेपणा", "is_correct": false }, { "option_id": 3, "text": "भीती", "is_correct": false }, { "option_id": 4, "text": "स्वार्थ", "is_correct": false } ], "answer": "चांगुलपणा" },
+      { "question_id": 46, "question_type": "MCQ", "question": "कृतज्ञता व्यक्त करण्यासाठी कोणता शब्द वापरतात?", "options": [ { "option_id": 1, "text": "धन्यवाद", "is_correct": true }, { "option_id": 2, "text": "क्षमा करा", "is_correct": false }, { "option_id": 3, "text": "मला काय त्याचे", "is_correct": false }, { "option_id": 4, "text": "बाहेर जा", "is_correct": false } ], "answer": "धन्यवाद" },
+      { "question_id": 47, "question_type": "MCQ", "question": "एखाद्याचे गुण ओळखणे याला काय म्हणतात?", "options": [ { "option_id": 1, "text": "पारख", "is_correct": true }, { "option_id": 2, "text": "दुर्लक्ष", "is_correct": false }, { "option_id": 3, "text": "धिक्कार", "is_correct": false }, { "option_id": 4, "text": "मत्सर", "is_correct": false } ], "answer": "पारख" },
+      { "question_id": 48, "question_type": "MCQ", "question": "भीतीवर मात कशी करावी?", "options": [ { "option_id": 1, "text": "तिला सामोरे जाऊन", "is_correct": true }, { "option_id": 2, "text": "पळून जाऊन", "is_correct": false }, { "option_id": 3, "text": "डोळे झाकून घेऊन", "is_correct": false }, { "option_id": 4, "text": "रडून", "is_correct": false } ], "answer": "तिला सामोरे जाऊन" },
+      { "question_id": 49, "question_type": "MCQ", "question": "शाळा हे कशाचे माध्यम आहे?", "options": [ { "option_id": 1, "text": "शिक्षणाचे आणि सामाजिकीकरणाचे", "is_correct": true }, { "option_id": 2, "text": "केवळ फिरण्याचे", "is_correct": false }, { "option_id": 3, "text": "झोपण्याचे", "is_correct": false }, { "option_id": 4, "text": "भांडणाचे", "is_correct": false } ], "answer": "शिक्षणाचे आणि सामाजिकीकरणाचे" },
+      { "question_id": 50, "question_type": "MCQ", "question": "भावनिक विकास केव्हा होतो?", "options": [ { "option_id": 1, "text": "जेव्हा आपण भावनांवर ताबा मिळवतो", "is_correct": true }, { "option_id": 2, "text": "जेव्हा आपण मोठे होतो", "is_correct": false }, { "option_id": 3, "text": "जेव्हा आपण पैसे कमवतो", "is_correct": false }, { "option_id": 4, "text": "कधीच नाही", "is_correct": false } ], "answer": "जेव्हा आपण भावनांवर ताबा मिळवतो" },
+
+    { "question_id": 51, "question_type": "SHORT", "question": "भावना म्हणजे काय?", "answer": "मानवी मनातील विविध स्थितींना (उदा. आनंद, दुःख, राग) भावना म्हणतात." },
+    { "question_id": 52, "question_type": "SHORT", "question": "भावनिक समतोल म्हणजे काय?", "answer": "भावनांवर नियंत्रण ठेवून योग्य वेळी योग्य रीतीने व्यक्त होणे म्हणजे भावनिक समतोल होय." },
+    { "question_id": 53, "question_type": "SHORT", "question": "आपल्याला राग कधी येतो?", "answer": "जेव्हा आपल्या मनासारखे घडत नाही किंवा कोणी अपमान करतो, तेव्हा राग येतो." },
+    { "question_id": 54, "question_type": "SHORT", "question": "भीतीचे फायदे काय आहेत?", "answer": "भीतीमुळे आपण धोक्याच्या ठिकाणी सावध राहतो आणि स्वतःचे संरक्षण करतो." },
+    { "question_id": 55, "question_type": "SHORT", "question": "आनंद कसा व्यक्त करावा?", "answer": "आनंद हसून, टाळ्या वाजवून किंवा इतरांशी शेअर करून व्यक्त करावा." },
+    { "question_id": 56, "question_type": "SHORT", "question": "दुसऱ्याचे दुःख पाहून काय करावे?", "answer": "दुसऱ्याचे दुःख पाहून त्याला मदत करावी आणि सहानुभूती दाखवावी." },
+    { "question_id": 57, "question_type": "SHORT", "question": "रागावर नियंत्रण कसे मिळवावे?", "answer": "दीर्घ श्वास घेऊन, शांत राहून किंवा त्या जागेवरून दूर जाऊन रागावर नियंत्रण मिळवता येते." },
+    { "question_id": 58, "question_type": "SHORT", "question": "सहानुभूती म्हणजे काय?", "answer": "दुसऱ्याच्या जागी स्वतःला कल्पून त्याच्या भावना समजून घेणे म्हणजे सहानुभूती." },
+    { "question_id": 59, "question_type": "SHORT", "question": "मत्सर का करू नये?", "answer": "मत्सर केल्याने स्वतःच्या मनाची शांती ढळते आणि आपली प्रगती थांबते." },
+    { "question_id": 60, "question_type": "SHORT", "question": "स्व-जाणीव का महत्वाची आहे?", "answer": "स्वतःचे गुण आणि दोष माहित असल्यास आपण स्वतःला सुधारू शकतो." },
+    { "question_id": 61, "question_type": "SHORT", "question": "भावनांचा अतिरेक झाल्यास काय होते?", "answer": "भावनांचा अतिरेक झाल्यास शारीरिक आणि मानसिक आरोग्य बिघडते." },
+    { "question_id": 62, "question_type": "SHORT", "question": "शांत स्वभाव कसा ओळखावा?", "answer": "संकटात न घाबरता आणि चिडचिड न करता वागणाऱ्या व्यक्तीचा स्वभाव शांत असतो." },
+    { "question_id": 63, "question_type": "SHORT", "question": "मित्र का असावेत?", "answer": "आपल्या भावना मोकळेपणाने सांगण्यासाठी आणि सुखादुःखात सोबत करण्यासाठी मित्र असावेत." },
+    { "question_id": 64, "question_type": "SHORT", "question": "अपराधीपणाची भावना केव्हा वाटते?", "answer": "आपल्याकडून एखादी चूक घडल्यास किंवा आपण कोणाला तरी दुखवल्यास अपराधीपणाची भावना वाटते." },
+    { "question_id": 65, "question_type": "SHORT", "question": "चुकीबद्दल क्षमा मागणे का गरजेचे आहे?", "answer": "क्षमा मागितल्याने मन हलके होते आणि नातेसंबंध सुधारतात." },
+    { "question_id": 66, "question_type": "SHORT", "question": "भावनिक आरोग्य चांगले ठेवण्यासाठी काय करावे?", "answer": "पुरेशी झोप, व्यायाम आणि सकारात्मक विचार केल्याने भावनिक आरोग्य चांगले राहते." },
+    { "question_id": 67, "question_type": "SHORT", "question": "हसण्याचे काय फायदे आहेत?", "answer": "हसण्याने तणाव कमी होतो आणि मन प्रसन्न राहते." },
+    { "question_id": 68, "question_type": "SHORT", "question": "निराशा कशी टाळावी?", "answer": "अपयशाने खचून न जाता पुन्हा प्रयत्न केल्यास निराशा टाळता येते." },
+    { "question_id": 69, "question_type": "SHORT", "question": "इतरांच्या प्रगतीचा मत्सर करण्यापेक्षा काय करावे?", "answer": "त्यांच्या यशाचे कौतुक करून त्यांच्याकडून प्रेरणा घ्यावी." },
+    { "question_id": 70, "question_type": "SHORT", "question": "आत्मविश्वास कसा वाढवावा?", "answer": "छोट्या छोट्या गोष्टी यशस्वीपणे पूर्ण केल्याने आत्मविश्वास वाढतो." },
+    { "question_id": 71, "question_type": "SHORT", "question": "चिडखोरपणा कसा कमी करावा?", "answer": "प्रसन्न राहण्याचा सराव करून आणि छोट्या गोष्टींकडे दुर्लक्ष करून चिडखोरपणा कमी करता येतो." },
+    { "question_id": 72, "question_type": "SHORT", "question": "भावनांची देवाणघेवाण का आवश्यक आहे?", "answer": "एकमेकांना समजून घेण्यासाठी आणि जवळीक वाढवण्यासाठी भावनांची देवाणघेवाण आवश्यक आहे." },
+    { "question_id": 73, "question_type": "SHORT", "question": "मानवी स्वभावात बदल होऊ शकतो का?", "answer": "हो, जाणीवपूर्वक प्रयत्न केल्यास आपल्या स्वभावातील दोष दूर करून बदल करता येतो." },
+    { "question_id": 74, "question_type": "SHORT", "question": "नकारात्मक भावना कोणत्या आहेत?", "answer": "राग, मत्सर, द्वेष, भीती या नकारात्मक भावना आहेत." },
+    { "question_id": 75, "question_type": "SHORT", "question": "सकारात्मक भावना कोणत्या आहेत?", "answer": "प्रेम, आनंद, दया, कृतज्ञता या सकारात्मक भावना आहेत." },
+    { "question_id": 76, "question_type": "SHORT", "question": "धैर्य म्हणजे काय?", "answer": "संकटाच्या वेळी न डगमगता धैर्याने तोंड देणे." },
+    { "question_id": 77, "question_type": "SHORT", "question": "संयम कोठे पाळावा?", "answer": "रागाच्या वेळी आणि खाण्यापिण्याच्या सवयीत संयम पाळावा." },
+    { "question_id": 78, "question_type": "SHORT", "question": "दुसऱ्याचे कौतुक केल्यावर त्याला कसे वाटते?", "answer": "दुसऱ्याचे कौतुक केल्यावर त्याला आनंद होतो आणि त्याचा आत्मविश्वास वाढतो." },
+    { "question_id": 79, "question_type": "SHORT", "question": "भावनिक जग समृद्ध होणे म्हणजे काय?", "answer": "विविध भावनांचा योग्य अनुभव घेणे आणि सकारात्मक विचार करणे." },
+    { "question_id": 80, "question_type": "SHORT", "question": "चिंता का वाटते?", "answer": "एखाद्या गोष्टीच्या परिणामाबद्दल भीती वाटल्यास चिंता वाटते." },
+    { "question_id": 81, "question_type": "SHORT", "question": "प्रसन्नता कशी टिकवावी?", "answer": "आवडते छंद जोपासणे आणि इतरांना मदत करणे यातून प्रसन्नता टिकवता येते." },
+    { "question_id": 82, "question_type": "SHORT", "question": "रुसणे म्हणजे काय?", "answer": "एखाद्या गोष्टीबद्दल राग आल्यावर न बोलता गप्प बसणे." },
+    { "question_id": 83, "question_type": "SHORT", "question": "रुसवा कसा घालवावा?", "answer": "संवाद साधून आणि एकमेकांच्या अडचणी समजून घेऊन रुसवा घालवावा." },
+    { "question_id": 84, "question_type": "SHORT", "question": "लाजाळूपणा कसा घालवावा?", "answer": "लोकांमध्ये मिसळून आणि बोलण्याचा सराव करून लाजाळूपणा कमी करता येतो." },
+    { "question_id": 85, "question_type": "SHORT", "question": "अपमानाचे प्रत्युत्तर कसे द्यावे?", "answer": "अपमानाचे प्रत्युत्तर शांतपणे किंवा आपल्या कार्यातून द्यावे, भांडण करून नाही." },
+    { "question_id": 86, "question_type": "SHORT", "question": "भावनांचा स्फोट म्हणजे काय?", "answer": "खूप वेळ साठवलेला राग किंवा दुःख अचानक तीव्रतेने बाहेर पडणे." },
+    { "question_id": 87, "question_type": "SHORT", "question": "भावनिक गरजा म्हणजे काय?", "answer": "कोणीतरी आपल्याला समजून घ्यावे, प्रेम करावे या मानवी गरजा म्हणजे भावनिक गरजा." },
+    { "question_id": 88, "question_type": "SHORT", "question": "स्वतःच्या चुका मान्य करणे का महत्त्वाचे आहे?", "answer": "स्वतःची चूक मान्य केल्याने ती पुन्हा घडण्याची शक्यता कमी होते आणि आपण प्रगल्भ होतो." },
+    { "question_id": 89, "question_type": "SHORT", "question": "मर्यादांची जाणीव असणे म्हणजे काय?", "answer": "आपण सर्वच गोष्टी करू शकत नाही, हे माहित असणे." },
+    { "question_id": 90, "question_type": "SHORT", "question": "इतरांवर विश्वास ठेवणे का गरजेचे आहे?", "answer": "चांगले संबंध प्रस्थापित करण्यासाठी आणि सहकार्यासाठी विश्वास आवश्यक आहे." },
+    { "question_id": 91, "question_type": "SHORT", "question": "रागाच्या भरात घेतलेला निर्णय चुकीचा का असतो?", "answer": "रागाच्या भरात विचार करण्याची क्षमता कमी होते, म्हणून निर्णय चुकतात." },
+    { "question_id": 92, "question_type": "SHORT", "question": "समाधान म्हणजे काय?", "answer": "मिळालेल्या गोष्टीत आनंद मानणे." },
+    { "question_id": 93, "question_type": "SHORT", "question": "अति विचार करणे घातक का आहे?", "answer": "अति विचाराने चिंता वाढते आणि मानसिक थकवा येतो." },
+    { "question_id": 94, "question_type": "SHORT", "question": "खोटेपणाने भावनिक नुकसान कसे होते?", "answer": "खोटे बोलल्याने लोकांचा विश्वास उडतो आणि आपण एकटे पडतो." },
+    { "question_id": 95, "question_type": "SHORT", "question": "आपली मते कशी मांडावीत?", "answer": "आपली मते स्पष्टपणे पण नम्रतेने मांडावीत." },
+    { "question_id": 96, "question_type": "SHORT", "question": "कौटुंबिक वातावरण भावनिक जगावर कसा परिणाम करते?", "answer": "आनंदी कुटुंबामुळे मुलांचा भावनिक विकास सकारात्मक होतो." },
+    { "question_id": 97, "question_type": "SHORT", "question": "अस्वस्थता म्हणजे काय?", "answer": "मनाला शांतता न लाभणे आणि कशातही लक्ष न लागणे." },
+    { "question_id": 98, "question_type": "SHORT", "question": "क्षमाशीलता म्हणजे काय?", "answer": "इतरांच्या चुका विसरून त्यांना माफ करण्याची वृत्ती." },
+    { "question_id": 99, "question_type": "SHORT", "question": "जिद्द म्हणजे काय?", "answer": "एखादे ध्येय साध्य करण्यासाठी केलेली चिकाटी." },
+    { "question_id": 100, "question_type": "SHORT", "question": "संवाद का महत्वाचा आहे?", "answer": "गैरसमज दूर करण्यासाठी आणि भावना व्यक्त करण्यासाठी संवाद महत्वाचा आहे." },
+    { "question_id": 101, "question_type": "SHORT", "question": "प्राणी भावना व्यक्त करतात का?", "answer": "हो, कुत्रे शेपटी हलवून आनंद व्यक्त करतात." },
+    { "question_id": 102, "question_type": "SHORT", "question": "आपल्याला कधी वाईट वाटते?", "answer": "जेव्हा कोणी आपल्याला नावे ठेवते किंवा आपण अपयशी होतो." },
+    { "question_id": 103, "question_type": "SHORT", "question": "भावनेवर आधारित कृती म्हणजे काय?", "answer": "रागाच्या भरात ओरडणे किंवा आनंदाच्या भरात उड्या मारणे." },
+    { "question_id": 104, "question_type": "SHORT", "question": "भावनिक दृष्टीने सुदृढ होण्यासाठी काय आवश्यक आहे?", "answer": "स्वतःवरचे प्रेम आणि इतरांबद्दल आदर." },
+    { "question_id": 105, "question_type": "SHORT", "question": "मत्सर केल्याने कोणाचे नुकसान होते?", "answer": "मत्सर करणाऱ्याचेच सर्वात जास्त नुकसान होते." },
+    { "question_id": 106, "question_type": "SHORT", "question": "राग कमी करण्यासाठी 'उलटी गिनती' करणे फायदेशीर असते का?", "answer": "हो, त्यामुळे रागाचा आवेग कमी होतो." },
+    { "question_id": 107, "question_type": "SHORT", "question": "इतरांच्या भावनेचा विचार करणे का महत्वाचे आहे?", "answer": "त्यामुळे समाजात शांतता आणि प्रेम राहते." },
+    { "question_id": 108, "question_type": "SHORT", "question": "आपले भावनिक जग कधी बदलू शकते?", "answer": "नव्या अनुभवांनी आणि शिक्षणाने आपले भावनिक जग बदलू शकते." },
+    { "question_id": 109, "question_type": "SHORT", "question": "अपयश पचवणे म्हणजे काय?", "answer": "अपयशाने खचून न जाता त्यातून धडा घेणे." },
+    { "question_id": 110, "question_type": "SHORT", "question": "भावनिक नियंत्रण केव्हा येते?", "answer": "वय आणि अनुभवासोबत भावनिक नियंत्रण येते." },
+    { "question_id": 111, "question_type": "SHORT", "question": "भावनांना वाट करून देणे का गरजेचे आहे?", "answer": "त्यामुळे मनावरचा ताण हलका होतो." },
+    { "question_id": 112, "question_type": "SHORT", "question": "एकाकीपणा केव्हा जाणवतो?", "answer": "जेव्हा आपल्याला कोणी समजून घेत नाही असे वाटते." },
+    { "question_id": 113, "question_type": "SHORT", "question": "स्वभावातील दोष कसे शोधावेत?", "answer": "स्वतःच्या वागण्याचे तटस्थपणे निरीक्षण करून." },
+    { "question_id": 114, "question_type": "SHORT", "question": "सहनशीलता म्हणजे काय?", "answer": "त्रासदायक परिस्थितीतही शांत राहून काम करणे." },
+    { "question_id": 115, "question_type": "SHORT", "question": "भावनिक साक्षरता आपल्याला काय शिकवते?", "answer": "इतरांच्या मनात काय चालले आहे, याचा अंदाज घेण्यास शिकवते." },
+    { "question_id": 116, "question_type": "SHORT", "question": "आपण कोणाबद्दल प्रेम व्यक्त करतो?", "answer": "कुटुंब, मित्र आणि पाळीव प्राण्यांबद्दल." },
+    { "question_id": 117, "question_type": "SHORT", "question": "कृत्रिम भावना कशाला म्हणतात?", "answer": "मनात नसताना उगाचच दाखवलेले हावभाव." },
+    { "question_id": 118, "question_type": "SHORT", "question": "आनंदी राहण्याचा सोपा मार्ग कोणता?", "answer": "इतरांना मदत करणे आणि कृतज्ञ राहणे." },
+    { "question_id": 119, "question_type": "SHORT", "question": "भावनिक विकास कोठे होतो?", "answer": "घरी, शाळेत आणि मित्रांच्या समूहात." },
+    { "question_id": 120, "question_type": "SHORT", "question": "स्वतःच्या भावना ओळखणे म्हणजे काय?", "answer": "आपल्याला नक्की काय वाटते आहे, हे समजणे." },
+    { "question_id": 121, "question_type": "SHORT", "question": "दुसऱ्याचा द्वेष केल्याने काय होते?", "answer": "आपल्या मनात कटुता निर्माण होते." },
+    { "question_id": 122, "question_type": "SHORT", "question": "नव्या गोष्टी शिकताना कोणती भावना असावी?", "answer": "उत्सुकता आणि आनंद." },
+    { "question_id": 123, "question_type": "SHORT", "question": "गैरसमज कशामुळे निर्माण होतात?", "answer": "संवादाच्या अभावामुळे." },
+    { "question_id": 124, "question_type": "SHORT", "question": "शाळा भावनिक जडणघडणीत कशी मदत करते?", "answer": "शाळेत आपण नियम आणि सहकार्य शिकतो." },
+    { "question_id": 125, "question_type": "SHORT", "question": "आपल्याला असुरक्षित केव्हा वाटते?", "answer": "जेव्हा आपल्या जवळचे कोणी नसते किंवा परिस्थिती कठीण असते." },
+    { "question_id": 126, "question_type": "SHORT", "question": "कृतज्ञता कशी व्यक्त करावी?", "answer": "मदत करणाऱ्याचे आभार मानून." },
+    { "question_id": 127, "question_type": "SHORT", "question": "संकटात इतरांना धीर देणे म्हणजे काय?", "answer": "भावनिक पाठिंबा देणे." },
+    { "question_id": 128, "question_type": "SHORT", "question": "भावनांचा निचरा करण्यासाठी डायरी लिहिणे योग्य आहे का?", "answer": "हो, त्यामुळे विचार स्पष्ट होतात." },
+    { "question_id": 129, "question_type": "SHORT", "question": "भावनिक गोंधळ म्हणजे काय?", "answer": "जेव्हा एकाच वेळी अनेक परस्परविरोधी भावना मनात येतात." },
+    { "question_id": 130, "question_type": "SHORT", "question": "प्रगल्भता म्हणजे काय?", "answer": "भावनांवर विजय मिळवून शहाणपणाने वागणे." },
+    { "question_id": 131, "question_type": "SHORT", "question": "माणूस स्वार्थी कधी होतो?", "answer": "जेव्हा तो फक्त स्वतःच्याच भावनांचा विचार करतो." },
+    { "question_id": 132, "question_type": "SHORT", "question": "इतरांना दोष देणे थांबवले तर काय होईल?", "answer": "आपल्याला स्वतःच्या जबाबदारीची जाणीव होईल." },
+    { "question_id": 133, "question_type": "SHORT", "question": "भावनांचा संबंध बुद्धीशी असतो का?", "answer": "हो, भावना आणि बुद्धी यांचा एकमेकांवर परिणाम होतो." },
+    { "question_id": 134, "question_type": "SHORT", "question": "आपल्याला आश्चर्य कधी वाटते?", "answer": "जेव्हा अचानक एखादी अनपेक्षित गोष्ट घडते." },
+    { "question_id": 135, "question_type": "SHORT", "question": "भावनिक अडथळे कसे ओळखावेत?", "answer": "ज्या गोष्टींमुळे आपल्याला प्रगती करण्यात अडचण येते, त्यावरून." },
+    { "question_id": 136, "question_type": "SHORT", "question": "खेद व्यक्त करणे म्हणजे काय?", "answer": "आपल्या हातून चुकीचे घडल्यास पश्चात्ताप होणे." },
+    { "question_id": 137, "question_type": "SHORT", "question": "इतरांशी तुलना करणे योग्य आहे का?", "answer": "नाही, प्रत्येकाची क्षमता वेगळी असते." },
+    { "question_id": 138, "question_type": "SHORT", "question": "अति आत्मविश्वास धोक्याचा का असतो?", "answer": "त्यामुळे आपण चुकांकडे दुर्लक्ष करतो." },
+    { "question_id": 139, "question_type": "SHORT", "question": "आनंदी राहण्यासाठी व्यायाम का करावा?", "answer": "व्यायामामुळे शरीरात आनंदी संप्रेरके निर्माण होतात." },
+    { "question_id": 140, "question_type": "SHORT", "question": "मैत्री निभावणे म्हणजे काय?", "answer": "परस्परांच्या भावनांचा आदर करणे." },
+    { "question_id": 141, "question_type": "SHORT", "question": "मन मारून जगणे म्हणजे काय?", "answer": "आपल्या इच्छा आणि भावना पूर्णपणे दाबून टाकणे." },
+    { "question_id": 142, "question_type": "SHORT", "question": "भावनिक शक्ती कशी वाढवावी?", "answer": "सकारात्मक लोकांशी संपर्क ठेवून." },
+    { "question_id": 143, "question_type": "SHORT", "question": "त्रासदायक आठवणी कशा विसराव्यात?", "answer": "वर्तमानातील कामात लक्ष केंद्रित करून." },
+    { "question_id": 144, "question_type": "SHORT", "question": "समजूतदारपणा म्हणजे काय?", "answer": "दुसऱ्याचे म्हणणे पूर्णपणे ऐकून घेऊन मग प्रतिक्रिया देणे." },
+    { "question_id": 145, "question_type": "SHORT", "question": "आपले व्यक्तिमत्व कशावरून ठरते?", "answer": "आपल्या वागण्यावरून आणि भावना हाताळण्याच्या पद्धतीवरून." },
+    { "question_id": 146, "question_type": "SHORT", "question": "शांतता म्हणजे केवळ मौन आहे का?", "answer": "नाही, मनातील विचारांचा गोंधळ नसणे म्हणजे खरी शांतता." },
+    { "question_id": 147, "question_type": "SHORT", "question": "आपण कोणाचे अनुकरण करावे?", "answer": "ज्यांचे भावनिक संतुलन चांगले आहे अशा लोकांचे." },
+    { "question_id": 148, "question_type": "SHORT", "question": "स्वभावातील बदल कशामुळे शक्य आहेत?", "answer": "प्रबळ इच्छशक्तीमुळे." },
+    { "question_id": 149, "question_type": "SHORT", "question": "दैनंदिन जीवनात भावनांचे काय स्थान आहे?", "answer": "प्रत्येक कृतीमागे काही ना काही भावना असते." },
+    { "question_id": 150, "question_type": "SHORT", "question": "भावनिक शिक्षणाचा उद्देश काय आहे?", "answer": "एक चांगला आणि समाधानी माणूस घडवणे." }
+  ]
+}

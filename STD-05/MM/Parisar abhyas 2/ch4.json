@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 4,
+  "chapter_name": "उत्क्रांती",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'उत्क्रांती' या शब्दाचा सर्वसाधारण अर्थ काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "अचानक होणारा बदल", "is_correct": false },
+        { "option_id": 2, "text": "सतत आणि संथ वेगाने होणारा बदल", "is_correct": true },
+        { "option_id": 3, "text": "विनाश होणे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही बदल न होणे", "is_correct": false }
+      ],
+      "answer": "सतत आणि संथ वेगाने होणारा बदल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या उत्क्रांतीची संकल्पना स्पष्ट करणारा शास्त्रज्ञ कोण?",
+      "options": [
+        { "option_id": 1, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 2, "text": "आइन्स्टाईन", "is_correct": false },
+        { "option_id": 3, "text": "चार्ल्स डार्विन", "is_correct": true },
+        { "option_id": 4, "text": "गॅलिलीओ", "is_correct": false }
+      ],
+      "answer": "चार्ल्स डार्विन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "उत्क्रांतीच्या प्रक्रियेत बदल घडून येण्याचे मुख्य कारण काय असते?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणाशी जुळवून घेणे", "is_correct": true },
+        { "option_id": 2, "text": "फक्त खेळणे", "is_correct": false },
+        { "option_id": 3, "text": "जास्त खाणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाशी जुळवून घेणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जे सजीव पर्यावरणातील बदलांशी जुळवून घेऊ शकत नाहीत, त्यांचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "ते अधिक बलवान होतात", "is_correct": false },
+        { "option_id": 2, "text": "ते नष्ट होतात", "is_correct": true },
+        { "option_id": 3, "text": "त्यांचा रंग बदलतो", "is_correct": false },
+        { "option_id": 4, "text": "ते हवेत उडतात", "is_correct": false }
+      ],
+      "answer": "ते नष्ट होतात"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'डायनोसॉर' हे नाव कोणत्या भाषेतील आहे?",
+      "options": [
+        { "option_id": 1, "text": "मराठी", "is_correct": false },
+        { "option_id": 2, "text": "हिंदी", "is_correct": false },
+        { "option_id": 3, "text": "ग्रीक", "is_correct": true },
+        { "option_id": 4, "text": "लॅटिन", "is_correct": false }
+      ],
+      "answer": "ग्रीक"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "डायनोसॉर या शब्दाचा अर्थ काय होतो?",
+      "options": [
+        { "option_id": 1, "text": "मोठा हत्ती", "is_correct": false },
+        { "option_id": 2, "text": "भीषण सरडा", "is_correct": true },
+        { "option_id": 3, "text": "वेगाने धावणारा", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यातील मासा", "is_correct": false }
+      ],
+      "answer": "भीषण सरडा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "डायनोसॉरच्या काही प्रजाती अचानक नष्ट का झाल्या असाव्यात?",
+      "options": [
+        { "option_id": 1, "text": "भूकंपामुळे", "is_correct": false },
+        { "option_id": 2, "text": "पर्यावरणातील अचानक बदल किंवा नैसर्गिक आपत्तीमुळे", "is_correct": true },
+        { "option_id": 3, "text": "मानवामुळे", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना भूक लागली नाही म्हणून", "is_correct": false }
+      ],
+      "answer": "पर्यावरणातील अचानक बदल किंवा नैसर्गिक आपत्तीमुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पंख असलेल्या डायनोसॉरचे अवशेष कोठे मिळाले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "भारतात", "is_correct": false },
+        { "option_id": 2, "text": "चीनमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "अमेरिकेत", "is_correct": false },
+        { "option_id": 4, "text": "आफ्रिकेत", "is_correct": false }
+      ],
+      "answer": "चीनमध्ये"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या उत्क्रांतीचे किती मुख्य टप्पे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन (पृष्ठवंशीय व अपृष्ठवंशीय)", "is_correct": true },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "एक", "is_correct": false },
+        { "option_id": 4, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "दोन (पृष्ठवंशीय व अपृष्ठवंशीय)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाठीचा कणा नसलेल्या सजीवांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पृष्ठवंशीय", "is_correct": false },
+        { "option_id": 2, "text": "अपृष्ठवंशीय सजीव", "is_correct": true },
+        { "option_id": 3, "text": "सस्तन", "is_correct": false },
+        { "option_id": 4, "text": "जलचर", "is_correct": false }
+      ],
+      "answer": "अपृष्ठवंशीय सजीव"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणी अपृष्ठवंशीय आहे?",
+      "options": [
+        { "option_id": 1, "text": "गांडूळ", "is_correct": true },
+        { "option_id": 2, "text": "माणूस", "is_correct": false },
+        { "option_id": 3, "text": "गाय", "is_correct": false },
+        { "option_id": 4, "text": "साप", "is_correct": false }
+      ],
+      "answer": "गांडूळ"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाण्यात आणि जमिनीवर अशा दोन्ही ठिकाणी राहणाऱ्या प्राण्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलचर", "is_correct": false },
+        { "option_id": 2, "text": "उभयचर प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "भूचर", "is_correct": false },
+        { "option_id": 4, "text": "खेचर", "is_correct": false }
+      ],
+      "answer": "उभयचर प्राणी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पृष्ठवंशीय सजीवांमध्ये सर्वात प्रगत टप्पा कोणता मानला जातो?",
+      "options": [
+        { "option_id": 1, "text": "मासा", "is_correct": false },
+        { "option_id": 2, "text": "बेडूक", "is_correct": false },
+        { "option_id": 3, "text": "सस्तन प्राणी", "is_correct": true },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "सस्तन प्राणी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सस्तन प्राण्यांचे प्रमुख वैशिष्ट्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात राहणे", "is_correct": false },
+        { "option_id": 2, "text": "पिल्लांना जन्म दिल्यावर स्वतःचे दूध पाजणे", "is_correct": true },
+        { "option_id": 3, "text": "अंडी घालणे", "is_correct": false },
+        { "option_id": 4, "text": "रंग बदलणे", "is_correct": false }
+      ],
+      "answer": "पिल्लांना जन्म दिल्यावर स्वतःचे दूध पाजणे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सस्तन असूनही अंडी घालणारा प्राणी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "हत्ती", "is_correct": false },
+        { "option_id": 2, "text": "कांगारू", "is_correct": false },
+        { "option_id": 3, "text": "प्लॅटिपस (बदकचोचा)", "is_correct": true },
+        { "option_id": 4, "text": "माकड", "is_correct": false }
+      ],
+      "answer": "प्लॅटिपस (बदकचोचा)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "एप (Ape) माकडांच्या कोणत्या प्रजातीपासून मानवाची निर्मिती झाली?",
+      "options": [
+        { "option_id": 1, "text": "बुद्धिमान मानव", "is_correct": true },
+        { "option_id": 2, "text": "मासा", "is_correct": false },
+        { "option_id": 3, "text": "वाघ", "is_correct": false },
+        { "option_id": 4, "text": "डायनोसॉर", "is_correct": false }
+      ],
+      "answer": "बुद्धिमान मानव"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कांगारू हा कोणत्या प्रकारचा सजीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी", "is_correct": false },
+        { "option_id": 2, "text": "सस्तन प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "कीटक", "is_correct": false },
+        { "option_id": 4, "text": "सरपटणारा", "is_correct": false }
+      ],
+      "answer": "सस्तन प्राणी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "एप माकडांचे मुख्य वास्तव कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रात", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवरील गवताळ प्रदेशात आणि झाडावर", "is_correct": true },
+        { "option_id": 3, "text": "बर्फात", "is_correct": false },
+        { "option_id": 4, "text": "आकाशात", "is_correct": false }
+      ],
+      "answer": "जमिनीवरील गवताळ प्रदेशात आणि झाडावर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मानवासारखे दिसणारे माकड म्हणजे कोणते?",
+      "options": [
+        { "option_id": 1, "text": "चिंपांझी", "is_correct": false },
+        { "option_id": 2, "text": "एप माकड", "is_correct": true },
+        { "option_id": 3, "text": "वानर", "is_correct": false },
+        { "option_id": 4, "text": "लाल तोंडाचे माकड", "is_correct": false }
+      ],
+      "answer": "एप माकड"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "साप हा कोणत्या प्रकारचा प्राणी आहे?",
+      "options": [
+        { "option_id": 1, "text": "उभयचर", "is_correct": false },
+        { "option_id": 2, "text": "सरपटणारा पृष्ठवंशीय", "is_correct": true },
+        { "option_id": 3, "text": "सस्तन", "is_correct": false },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "सरपटणारा पृष्ठवंशीय"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "उत्क्रांतीमुळे सजीवांमध्ये काय बदल होतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ नाव बदलते", "is_correct": false },
+        { "option_id": 2, "text": "शारीरिक रचनेत बदल होतात", "is_correct": true },
+        { "option_id": 3, "text": "काहीही बदलत नाही", "is_correct": false },
+        { "option_id": 4, "text": "ते दगड बनतात", "is_correct": false }
+      ],
+      "answer": "शारीरिक रचनेत बदल होतात"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणी पृष्ठवंशीय आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुंगी", "is_correct": false },
+        { "option_id": 2, "text": "मासा", "is_correct": true },
+        { "option_id": 3, "text": "झुरळ", "is_correct": false },
+        { "option_id": 4, "text": "गोगलगाय", "is_correct": false }
+      ],
+      "answer": "मासा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "बेडूक हा प्राणी कोणत्या गटात येतो?",
+      "options": [
+        { "option_id": 1, "text": "भूचर", "is_correct": false },
+        { "option_id": 2, "text": "उभयचर", "is_correct": true },
+        { "option_id": 3, "text": "नभचर", "is_correct": false },
+        { "option_id": 4, "text": "केवळ जलचर", "is_correct": false }
+      ],
+      "answer": "उभयचर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सस्तन प्राण्यांच्या पिल्लांची वाढ कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "आईच्या पोटाबाहेरील पिशवीत किंवा गर्भाशयात", "is_correct": true },
+        { "option_id": 3, "text": "झाडावर", "is_correct": false },
+        { "option_id": 4, "text": "अंड्यात", "is_correct": false }
+      ],
+      "answer": "आईच्या पोटाबाहेरील पिशवीत किंवा गर्भाशयात"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मानवाची उत्क्रांती प्रामुख्याने कोठे झाली असे मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "आशियात", "is_correct": false },
+        { "option_id": 2, "text": "आफ्रिका खंडात", "is_correct": true },
+        { "option_id": 3, "text": "युरोपमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "ऑस्ट्रेलियात", "is_correct": false }
+      ],
+      "answer": "आफ्रिका खंडात"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ज्या प्राण्यांना पाठीचा कणा असतो, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अपृष्ठवंशीय", "is_correct": false },
+        { "option_id": 2, "text": "पृष्ठवंशीय", "is_correct": true },
+        { "option_id": 3, "text": "पेशीहीन", "is_correct": false },
+        { "option_id": 4, "text": "एकपेशीय", "is_correct": false }
+      ],
+      "answer": "पृष्ठवंशीय"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कीटक कोणत्या वर्गात मोडतात?",
+      "options": [
+        { "option_id": 1, "text": "पृष्ठवंशीय", "is_correct": false },
+        { "option_id": 2, "text": "अपृष्ठवंशीय", "is_correct": true },
+        { "option_id": 3, "text": "सस्तन", "is_correct": false },
+        { "option_id": 4, "text": "उभयचर", "is_correct": false }
+      ],
+      "answer": "अपृष्ठवंशीय"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सस्तन प्राण्यांच्या अंडी घालणाऱ्या अपवादात्मक प्रजाती किती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन (प्लॅटिपस व मुंगीखाऊ)", "is_correct": true },
+        { "option_id": 2, "text": "दहा", "is_correct": false },
+        { "option_id": 3, "text": "एकही नाही", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "दोन (प्लॅटिपस व मुंगीखाऊ)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "एप माकड जमिनीवर का चालू लागले?",
+      "options": [
+        { "option_id": 1, "text": "झाडांची संख्या कमी झाल्यामुळे", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पोहण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना झाडे आवडत नव्हती", "is_correct": false }
+      ],
+      "answer": "झाडांची संख्या कमी झाल्यामुळे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मानवाची प्रगती कोणत्या दिशेने झाली?",
+      "options": [
+        { "option_id": 1, "text": "माकडाकडे", "is_correct": false },
+        { "option_id": 2, "text": "आदिमानवाकडून प्रगत मानवाकडे", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यातील जीवांकडे", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "आदिमानवाकडून प्रगत मानवाकडे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणी सरपटणारा नाही?",
+      "options": [
+        { "option_id": 1, "text": "पाल", "is_correct": false },
+        { "option_id": 2, "text": "मगर", "is_correct": false },
+        { "option_id": 3, "text": "बेडूक", "is_correct": true },
+        { "option_id": 4, "text": "साप", "is_correct": false }
+      ],
+      "answer": "बेडूक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कांगारूच्या पिशवीत काय असते?",
+      "options": [
+        { "option_id": 1, "text": "अन्न", "is_correct": false },
+        { "option_id": 2, "text": "अपक्व पिल्लू", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "अपक्व पिल्लू"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जमिनीवरील उत्क्रांतीचा शेवटचा टप्पा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "मानव", "is_correct": true },
+        { "option_id": 2, "text": "हत्ती", "is_correct": false },
+        { "option_id": 3, "text": "सिंह", "is_correct": false },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "मानव"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पक्षी हवेत का उडू शकतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना हात असतात म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "पंखांमुळे आणि हलक्या हाडांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "त्यांना पंख नसतात", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना जादू येते", "is_correct": false }
+      ],
+      "answer": "पंखांमुळे आणि हलक्या हाडांमुळे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मासे कशाने श्वास घेतात?",
+      "options": [
+        { "option_id": 1, "text": "नाकाने", "is_correct": false },
+        { "option_id": 2, "text": "कल्ल्यांनी", "is_correct": true },
+        { "option_id": 3, "text": "त्वचेने", "is_correct": false },
+        { "option_id": 4, "text": "पायांनी", "is_correct": false }
+      ],
+      "answer": "कल्ल्यांनी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "उत्क्रांती प्रक्रियेत कोणते अवयव विकसित होतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ डोळे", "is_correct": false },
+        { "option_id": 2, "text": "शरीराची अंतर्गत आणि बाह्य रचना", "is_correct": true },
+        { "option_id": 3, "text": "केवळ शेपटी", "is_correct": false },
+        { "option_id": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "शरीराची अंतर्गत आणि बाह्य रचना"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कोणता सजीव पर्यावरणाशी जुळवून घेण्यात सर्वात पुढे आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानव", "is_correct": true },
+        { "option_id": 2, "text": "घोडा", "is_correct": false },
+        { "option_id": 3, "text": "कुत्रा", "is_correct": false },
+        { "option_id": 4, "text": "मुंगी", "is_correct": false }
+      ],
+      "answer": "मानव"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "डायनोसॉरच्या अवाढव्य शरीराचे अवशेष कशाच्या रूपात मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "अन्नाच्या", "is_correct": false },
+        { "option_id": 2, "text": "जीवाश्मांच्या (Fossils)", "is_correct": true },
+        { "option_id": 3, "text": "फळांच्या", "is_correct": false },
+        { "option_id": 4, "text": "धातूच्या", "is_correct": false }
+      ],
+      "answer": "जीवाश्मांच्या (Fossils)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "जमिनीवर राहणाऱ्या पृष्ठवंशीय प्राण्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलचर", "is_correct": false },
+        { "option_id": 2, "text": "भूचर", "is_correct": true },
+        { "option_id": 3, "text": "खेचर", "is_correct": false },
+        { "option_id": 4, "text": "उभयचर", "is_correct": false }
+      ],
+      "answer": "भूचर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "उत्क्रांतीमुळे नवीन जातीची निर्मिती कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "एका रात्रीत", "is_correct": false },
+        { "option_id": 2, "text": "मूळ जातीत हळूहळू बदल होऊन", "is_correct": true },
+        { "option_id": 3, "text": "जादूने", "is_correct": false },
+        { "option_id": 4, "text": "कोणीतरी बनवल्यावर", "is_correct": false }
+      ],
+      "answer": "मूळ जातीत हळूहळू बदल होऊन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "झुरळ हा कोणत्या वर्गातील सजीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "कीटक (अपृष्ठवंशीय)", "is_correct": true },
+        { "option_id": 2, "text": "सस्तन", "is_correct": false },
+        { "option_id": 3, "text": "पक्षी", "is_correct": false },
+        { "option_id": 4, "text": "सरपटणारा", "is_correct": false }
+      ],
+      "answer": "कीटक (अपृष्ठवंशीय)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आदिमानवाचे चालणे कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "दोन पायांवर ताठ", "is_correct": true },
+        { "option_id": 2, "text": "केवळ रांगणे", "is_correct": false },
+        { "option_id": 3, "text": "उडणे", "is_correct": false },
+        { "option_id": 4, "text": "केवळ चार पायांवर", "is_correct": false }
+      ],
+      "answer": "दोन पायांवर ताठ"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सस्तन प्राण्यांचे हृदय किती कप्प्यांचे असते?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "एक", "is_correct": false },
+        { "option_id": 4, "text": "तीन", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मगर हा प्राणी कोणत्या गटात येतो?",
+      "options": [
+        { "option_id": 1, "text": "उभयचर", "is_correct": false },
+        { "option_id": 2, "text": "सरपटणारे", "is_correct": true },
+        { "option_id": 3, "text": "पक्षी", "is_correct": false },
+        { "option_id": 4, "text": "सस्तन", "is_correct": false }
+      ],
+      "answer": "सरपटणारे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या उत्क्रांतीचा वेग कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "खूप वेगवान", "is_correct": false },
+        { "option_id": 2, "text": "खूप संथ", "is_correct": true },
+        { "option_id": 3, "text": "बदलत राहतो", "is_correct": false },
+        { "option_id": 4, "text": "शून्य असतो", "is_correct": false }
+      ],
+      "answer": "खूप संथ"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मुंगीखाऊ (Anteater) हा कोणत्या प्रकारचा प्राणी आहे?",
+      "options": [
+        { "option_id": 1, "text": "अंडी घालणारा सस्तन", "is_correct": true },
+        { "option_id": 2, "text": "पक्षी", "is_correct": false },
+        { "option_id": 3, "text": "कीटक", "is_correct": false },
+        { "option_id": 4, "text": "मासा", "is_correct": false }
+      ],
+      "answer": "अंडी घालणारा सस्तन"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "डायनोसॉर कोणत्या युगात पृथ्वीवर होते?",
+      "options": [
+        { "option_id": 1, "text": "आधुनिक काळात", "is_correct": false },
+        { "option_id": 2, "text": "मध्यजीवी महाकल्प (Mesozoic era)", "is_correct": true },
+        { "option_id": 3, "text": "लोह युगात", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "मध्यजीवी महाकल्प (Mesozoic era)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "प्राणी आपले अस्तित्व टिकवण्यासाठी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "स्थलांतर", "is_correct": false },
+        { "option_id": 2, "text": "प्रजनन आणि अनुकूलन", "is_correct": true },
+        { "option_id": 3, "text": "केवळ झोपतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच करत नाही", "is_correct": false }
+      ],
+      "answer": "प्रजनन आणि अनुकूलन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते वैशिष्ट्य मानवाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "ताठ चालणे", "is_correct": false },
+        { "option_id": 2, "text": "हातांचा कुशल वापर", "is_correct": false },
+        { "option_id": 3, "text": "बुद्धीचा वापर", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या इतिहासाचा अभ्यास करणाऱ्या शास्त्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जीवशास्त्र / उत्क्रांतीशास्त्र", "is_correct": true },
+        { "option_id": 2, "text": "भूगोल", "is_correct": false },
+        { "option_id": 3, "text": "गणित", "is_correct": false },
+        { "option_id": 4, "text": "राज्यशास्त्र", "is_correct": false }
+      ],
+      "answer": "जीवशास्त्र / उत्क्रांतीशास्त्र"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती म्हणजे काय?",
+      "answer": "उत्क्रांती म्हणजे सजीवांमध्ये सतत आणि अत्यंत संथ वेगाने होणारा बदल होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीची संकल्पना कोणी मांडली?",
+      "answer": "सजीवांच्या उत्क्रांतीची संकल्पना चार्ल्स डार्विन या शास्त्रज्ञाने मांडली."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "डायनोसॉर या शब्दाचा ग्रीक अर्थ काय?",
+      "answer": "डायनोसॉर या शब्दाचा ग्रीक भाषेत अर्थ 'भीषण सरडा' असा होतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीचे दोन मुख्य गट कोणते?",
+      "answer": "अपृष्ठवंशीय सजीव आणि पृष्ठवंशीय सजीव हे उत्क्रांतीचे दोन मुख्य गट आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "अपृष्ठवंशीय सजीव म्हणजे काय?",
+      "answer": "ज्या सजीवांना पाठीचा कणा नसतो, त्यांना अपृष्ठवंशीय सजीव म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पृष्ठवंशीय सजीव कोणास म्हणतात?",
+      "answer": "ज्या सजीवांच्या शरीरात पाठीचा कणा असतो, त्यांना पृष्ठवंशीय सजीव म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "जलचर प्राण्यांची दोन उदाहरणे द्या.",
+      "answer": "मासा आणि व्हेल हे जलचर प्राण्यांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "उभयचर प्राणी कशाला म्हणतात?",
+      "answer": "जे प्राणी पाणी आणि जमीन या दोन्ही ठिकाणी राहू शकतात, त्यांना उभयचर प्राणी म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राणी म्हणजे काय?",
+      "answer": "जे प्राणी आपल्या पिल्लांना जन्म देतात आणि त्यांना दूध पाजतात, त्यांना सस्तन प्राणी म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "प्लॅटिपस हा प्राणी का वैशिष्ट्यपूर्ण आहे?",
+      "answer": "प्लॅटिपस हा सस्तन प्राणी असूनही तो अंडी घालतो, म्हणून तो वैशिष्ट्यपूर्ण आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "एप माकड म्हणजे काय?",
+      "answer": "मानवासारखे दिसणारे आणि मानवाचे पूर्वज मानले जाणारे माकड म्हणजे एप माकड होय."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पक्षी हवेत कसे उडतात?",
+      "answer": "पक्ष्यांची हाडे पोकळ व हलकी असतात आणि त्यांना पंख असतात, त्यामुळे ते उडू शकतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सरपटणाऱ्या प्राण्यांची दोन उदाहरणे द्या.",
+      "answer": "साप आणि पाल ही सरपटणाऱ्या प्राण्यांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "डायनोसॉर नष्ट होण्याची शक्यता कशामुळे वर्तवली जाते?",
+      "answer": "एखादे मोठे नैसर्गिक संकट किंवा पर्यावरणातील अचानक बदल यामुळे डायनोसॉर नष्ट झाले असावेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मानवाचा विकास कोठून सुरू झाला?",
+      "answer": "मानवाचा विकास एप माकडांपासून आफ्रिका खंडात सुरू झाला."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कांगारू हा कोणत्या प्रकारचा प्राणी आहे?",
+      "answer": "कांगारू हा सस्तन प्राणी असून तो आपल्या अपक्व पिल्लांना पोटाच्या पिशवीत सांभाळतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अपृष्ठवंशीय प्राण्यांमध्ये कीटकांचे महत्त्व काय?",
+      "answer": "कीटक हे जगातील सर्वात मोठ्या संख्येने आढळणारे अपृष्ठवंशीय सजीव आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती प्रक्रियेत नवीन वैशिष्ट्ये कशी निर्माण होतात?",
+      "answer": "पर्यावरणाशी जुळवून घेताना सजीवांच्या शारीरिक रचनेत बदल होतात आणि ती नवीन वैशिष्ट्ये बनतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "मासे पाण्यात श्वसन कसे करतात?",
+      "answer": "मासे त्यांच्या कल्ल्यांच्या सहाय्याने पाण्यात विरघळलेला ऑक्सिजन शोषून घेतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आदिमानव दोन पायांवर ताठ का चालू लागला?",
+      "answer": "झाडांची संख्या कमी झाल्यामुळे जमिनीवर वावरताना त्याला दोन पायांचा वापर करणे आवश्यक झाले."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "जीवाश्म (Fossil) म्हणजे काय?",
+      "answer": "मृत सजीवांचे अवशेष जे लाखो वर्षे जमिनीखाली सुरक्षित राहतात, त्यांना जीवाश्म म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राण्यांच्या अंडी घालणाऱ्या दुसऱ्या प्राण्याचे नाव सांगा.",
+      "answer": "मुंगीखाऊ (Anteater) हा अंडी घालणारा सस्तन प्राणी आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "उत्क्रांतीमुळे एका प्रजातीपासून दुसरी प्रजाती कशी तयार होते?",
+      "answer": "शरीरातील बदलांचे प्रमाण वाढून ते पिढ्यानपिढ्या साठले की नवीन प्रजाती तयार होते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "मानवासारखे दिसणारे माकड कोठे आढळले?",
+      "answer": "मानवासारखे दिसणारे एप माकड प्रामुख्याने आफ्रिका आणि आशियात आढळले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "बेडूक हा उभयचर का आहे?",
+      "answer": "बेडूक पाण्यात आणि जमिनीवर या दोन्ही ठिकाणी श्वसन करू शकतो, म्हणून तो उभयचर आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "झुरळ हा पृष्ठवंशीय आहे की अपृष्ठवंशीय?",
+      "answer": "झुरळ हा अपृष्ठवंशीय सजीव आहे कारण त्याला पाठीचा कणा नसतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीचा मुख्य हेतू काय असतो?",
+      "answer": "बदलत्या पर्यावरणात आपले अस्तित्व टिकवून ठेवणे हा उत्क्रांतीचा मुख्य हेतू असतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "डायनोसॉरच्या अंडी घालण्याच्या सवयीबद्दल काय माहिती आहे?",
+      "answer": "डायनोसॉर हे सरपटणारे प्राणी असल्याने ते अंडी घालत असत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती प्रक्रियेत मानवाची सर्वात मोठी प्रगती कोणती?",
+      "answer": "मानवाच्या बुद्धीचा विकास आणि हातांचा कुशल वापर ही सर्वात मोठी प्रगती आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "व्हेल मासा हा सस्तन का मानला जातो?",
+      "answer": "व्हेल मासा पिल्लांना जन्म देतो आणि त्यांना दूध पाजतो, म्हणून तो सस्तन आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "उत्क्रांतीचा सिद्धांत काय सांगतो?",
+      "answer": "उत्क्रांतीचा सिद्धांत सांगतो की सजीव साध्या रूपाकडून गुंतागुंतीच्या रूपाकडे विकसित होतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सजीवांमधील 'अनुकूलन' म्हणजे काय?",
+      "answer": "सजीवाने स्वतःच्या सवयी आणि शरीरात पर्यावरणाप्रमाणे केलेले बदल म्हणजे अनुकूलन होय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "मानवाच्या पूर्वजांना काय नाव दिले गेले आहे?",
+      "answer": "मानवाच्या पूर्वजांना 'आदिमानव' असे नाव दिले गेले आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पक्ष्यांची उत्क्रांती कोणत्या सजीवांपासून झाली असावी?",
+      "answer": "पक्ष्यांची उत्क्रांती काही विशिष्ट प्रकारच्या डायनोसॉरपासून झाली असावी असे मानले जाते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राण्यांच्या शरीराचे तापमान कसे असते?",
+      "answer": "सस्तन प्राणी उष्णरक्तीय असतात, म्हणजेच त्यांच्या शरीराचे तापमान स्थिर राहते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "गांडूळ हा प्राणी जमिनीसाठी का उपयुक्त आहे?",
+      "answer": "गांडूळ जमीन भुसभुशीत करतो, जो अपृष्ठवंशीय वर्गातील सजीव आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सरपटणाऱ्या प्राण्यांची त्वचा कशी असते?",
+      "answer": "सरपटणाऱ्या प्राण्यांची त्वचा कोरडी आणि खवलेदार असते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मानवाची उत्क्रांती होण्यासाठी किती वर्षे लागली?",
+      "answer": "मानवाची उत्क्रांती होण्यासाठी लाखो वर्षांचा कालावधी लागला."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "एप माकडांची शेपटी का नष्ट झाली असावी?",
+      "answer": "जमिनीवर राहिल्यामुळे आणि शेपटीचा वापर कमी झाल्यामुळे ती हळूहळू नष्ट झाली."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती प्रक्रियेतील 'अस्तित्वासाठी संघर्ष' म्हणजे काय?",
+      "answer": "सजीव अन्नासाठी आणि जागेसाठी एकमेकांशी स्पर्धा करतात, ज्याला अस्तित्वासाठी संघर्ष म्हणतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पृष्ठवंशीय प्राण्यांमध्ये डोक्याचा विकास का महत्त्वाचा आहे?",
+      "answer": "डोक्याच्या विकासामुळे मेंदू सुरक्षित राहतो आणि सजीवाची आकलनशक्ती वाढते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मुंग्या कोणत्या गटात येतात?",
+      "answer": "मुंग्या अपृष्ठवंशीय आणि कीटक गटात येतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "प्लॅटिपस कोठे आढळतो?",
+      "answer": "प्लॅटिपस प्रामुख्याने ऑस्ट्रेलिया खंडात आढळतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीचे पुरावे कोठे मिळतात?",
+      "answer": "सजीवांच्या उत्क्रांतीचे पुरावे उत्खननात सापडणाऱ्या हाडांच्या सांगाड्यांवरून मिळतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "माकड आणि मानवातील एक मुख्य फरक सांगा.",
+      "answer": "मानव दोन पायांवर ताठ चालू शकतो, तर माकड चार पायांचा वापर करते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हवामानातील बदलांचा उत्क्रांतीवर काय परिणाम होतो?",
+      "answer": "हवामान बदलल्यास सजीवांना जगण्यासाठी नवीन अवयव किंवा सवयी विकसित कराव्या लागतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कीटकांचे श्वसन कसे होते?",
+      "answer": "कीटक त्यांच्या शरीरावरील लहान छिद्रांद्वारे (Trachea) श्वसन करतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राण्यांच्या पिल्लांना दूध पाजण्यासाठी काय असते?",
+      "answer": "सस्तन प्राण्यांना स्तनग्रंथी असतात, ज्यातून दूध येते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "डायनोसॉर उडू शकत होते का?",
+      "answer": "हो, डायनोसॉरच्या काही प्रजातींना पंख होते आणि त्या उडू शकत होत्या."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "उत्क्रांतीमुळे मानवी मेंदूचा आकार कसा बदलला?",
+      "answer": "उत्क्रांतीमुळे मानवी मेंदूचा आकार वाढला आणि त्याची कार्यक्षमताही सुधारली."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "सजीवांची पहिली निर्मिती कोठे झाली?",
+      "answer": "सजीवांची पहिली निर्मिती पाण्यात (समुद्रात) झाली."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "एकपेशीय सजीवापासून उत्क्रांती कशी झाली?",
+      "answer": "एकपेशीय सजीवापासून बहुपेशीय सजीव आणि पुढे जटिल प्राणी तयार झाले."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "एप माकड आणि चिंपांझीमध्ये काय साम्य आहे?",
+      "answer": "दोघांची शारीरिक रचना आणि काही वागण्याच्या सवयी मानवाशी मिळत्याजुळत्या आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या हालचालीचा उत्क्रांतीशी काय संबंध आहे?",
+      "answer": "वेगाने हालचाल करणाऱ्या सजीवांच्या पायांच्या स्नायूंचा विकास अधिक होतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "पाण्यातून जमिनीवर येताना प्राण्यांना कोणते बदल करावे लागले?",
+      "answer": "त्यांना हवेत श्वसन करण्यासाठी फुप्फुसे विकसित करावी लागली."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या रंगाचा उत्क्रांतीत काय उपयोग होतो?",
+      "answer": "सजीवांचा रंग त्यांना परिसरात लपण्यास (Camouflage) आणि संरक्षणास मदत करतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "कणा नसलेले प्राणी पाण्यात कसे पोहतात?",
+      "answer": "कणा नसलेले प्राणी आपल्या स्नायूंच्या सहाय्याने किंवा विशिष्ट अवयवांनी पाण्यात हालचाल करतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "माणूस हा एकमेव बुद्धिमान प्राणी आहे का?",
+      "answer": "माणूस हा सर्वात प्रगत बुद्धिमान प्राणी असला तरी इतर प्राण्यांमध्येही बुद्धिमत्ता असते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती ही प्रक्रिया थांबली आहे का?",
+      "answer": "नाही, उत्क्रांती ही सतत चालणारी प्रक्रिया आहे, पण तिचा वेग खूप संथ आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "सजीवांचे वर्गीकरण का केले जाते?",
+      "answer": "सजीवांचा अभ्यास सोयीस्कर व्हावा म्हणून त्यांचे विविध गटांत वर्गीकरण केले जाते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "सरपटणारे प्राणी अंडी कोठे घालतात?",
+      "answer": "बहुतेक सरपटणारे प्राणी जमिनीवर सुरक्षित ठिकाणी अंडी घालतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "माशांच्या पर (Fins) चा उपयोग काय?",
+      "answer": "पाण्यात दिशा बदलण्यासाठी आणि तोल सावरण्यासाठी मासे परांचा वापर करतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या आकारातील बदल कशामुळे होतो?",
+      "answer": "अन्न मिळवण्याच्या पद्धती आणि राहण्याचे ठिकाण यानुसार सजीवांचा आकार बदलतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "कांगारूची पिशवी पिल्लांचे रक्षण कसे करते?",
+      "answer": "ती पिशवी पिल्लाला ऊब देते आणि बाहेरच्या शत्रूंपासून वाचवते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "डायनोसॉरच्या हाडांवरून शास्त्रज्ञांना काय समजते?",
+      "answer": "त्यांच्या हाडांवरून त्यांचा आकार, खाण्याच्या सवयी आणि ते कसे चालत असावेत हे समजते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "उत्क्रांतीमुळे सजीवांच्या आयुष्यावर काय परिणाम होतो?",
+      "answer": "उत्क्रांतीमुळे सजीव प्रतिकूल परिस्थितीतही अधिक काळ जगण्यास सक्षम होतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "मानवाचे हात इतर प्राण्यांपेक्षा वेगळे का आहेत?",
+      "answer": "मानवाचा अंगठा आणि इतर बोटे वस्तू पकडण्यासाठी अधिक कुशलतेने विकसित झाली आहेत."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या दातांच्या रचनेत उत्क्रांती कशी दिसते?",
+      "answer": "शाकाहारी आणि मांसाहारी प्राण्यांच्या दातांची रचना त्यांच्या अन्नानुसार वेगळी झाली आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कीटकांना पाठीचा कणा का नसतो?",
+      "answer": "कीटक हे अपृष्ठवंशीय सजीव आहेत, त्यांच्या शरीराची रचना कण्याशिवाय विकसित झाली आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीचा अभ्यास करण्यासाठी कोणती साधने वापरतात?",
+      "answer": "सांगाडे, जीवाश्म, दगडांवरील ठसे आणि डीएनए (DNA) तपासणी ही साधने वापरतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "कासव हा प्राणी कोणत्या वर्गात येतो?",
+      "answer": "कासव हा सरपटणाऱ्या पृष्ठवंशीय प्राण्यांच्या वर्गात येतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "एप माकडांना झाडे का सोडावी लागली?",
+      "answer": "गवताळ प्रदेश वाढल्यामुळे आणि झाडे कमी झाल्यामुळे त्यांना जमिनीवर यावे लागले."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "उत्क्रांतीमध्ये 'निसर्ग निवड' म्हणजे काय?",
+      "answer": "जे सजीव स्वतःला बदलू शकतात त्यांना निसर्ग निवडतो आणि तेच जगतात, याला निसर्ग निवड म्हणतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राण्यांच्या शरीरावरील केसांचा उपयोग काय?",
+      "answer": "केस शरीराचे तापमान टिकवून ठेवण्यास आणि थंडीपासून संरक्षण करण्यास मदत करतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "उत्क्रांतीचा परिणाम फक्त प्राण्यांवरच होतो का?",
+      "answer": "नाही, उत्क्रांतीचा परिणाम वनस्पती आणि सूक्ष्मजीवांवरही होतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "आदिमानवाची हत्यारे कशापासून बनलेली होती?",
+      "answer": "आदिमानवाची सुरुवातीची हत्यारे दगड आणि हाडांपासून बनलेली होती."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "मानवाच्या मेंदूचा विकास इतर प्राण्यांपेक्षा जास्त का झाला?",
+      "answer": "हातांचा वापर आणि नवनवीन गोष्टी शिकण्याच्या प्रवृत्तीमुळे मानवी मेंदूचा विकास झाला."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "प्लॅटिपसची चोच कोणासारखी असते?",
+      "answer": "प्लॅटिपसची चोच बदकासारखी असते, म्हणून त्याला बदकचोचा म्हणतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीचे मुख्य टप्पे क्रमाने सांगा.",
+      "answer": "पाण्यातील एकपेशीय जीव, अपृष्ठवंशीय, पृष्ठवंशीय (मासे, उभयचर, सरपटणारे, पक्षी, सस्तन) आणि शेवटी मानव."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पर्यावरण रक्षण आणि उत्क्रांती यांचा काय संबंध आहे?",
+      "answer": "पर्यावरण सुरक्षित राहिल्यास सजीवांना उत्क्रांत होण्यासाठी नैसर्गिक संधी मिळते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या पेशीमधील बदल उत्क्रांतीला कसे कारणीभूत ठरतात?",
+      "answer": "पेशीमधील जनुकीय बदल (Mutations) पिढ्यानपिढ्या संक्रमित होऊन उत्क्रांती घडते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "उभयचर प्राण्यांची कातडी कशी असते?",
+      "answer": "उभयचर प्राण्यांची कातडी ओलसर आणि मऊ असते, ज्यातून ते श्वसन करू शकतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राण्यांच्या पिल्लांना आहार कोठून मिळतो?",
+      "answer": "जन्मल्यावर सुरुवातीला त्यांना आईच्या दुधातून आहार मिळतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "मानवाच्या उत्क्रांतीचा पुढील टप्पा काय असू शकतो?",
+      "answer": "पुढील टप्प्यात मानवाच्या मानसिक आणि तंत्रज्ञानाशी संबंधित क्षमतेत वाढ होऊ शकते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "पक्ष्यांचे पंख हे कशाचे रूपांतर आहे?",
+      "answer": "पक्ष्यांचे पंख हे त्यांच्या पुढील पायांचे उत्क्रांतीत झालेले रूपांतर आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "डायनोसॉरच्या विनाशाचे मुख्य कारण काय मानले जाते?",
+      "answer": "मोठ्या उल्कापातामुळे पृथ्वीवरील वातावरणात झालेला मोठा बदल हे मुख्य कारण मानले जाते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीमुळे काय साध्य झाले?",
+      "answer": "उत्क्रांतीमुळे सजीव पृथ्वीवरील विविध हवामानांत जगण्यास सक्षम झाले आहेत."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "एप माकडांची वास्तव्याची ठिकाणे कोठे होती?",
+      "answer": "ते प्रामुख्याने घनदाट जंगलांत आणि झाडांवर राहायचे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "मानवाच्या ताठ चालण्याचा फायदा काय झाला?",
+      "answer": "त्यामुळे मानवाचे दोन्ही हात मोकळे झाले आणि तो त्यांचा वापर विविध कामांसाठी करू लागला."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या उत्क्रांतीचे शास्त्र आपल्याला काय शिकवते?",
+      "answer": "ते आपल्याला पृथ्वीवरील जीवसृष्टीचा प्रवास आणि बदलण्याची क्षमता शिकवते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "मुंगीखाऊ कोठे आढळतो?",
+      "answer": "मुंगीखाऊ प्रामुख्याने अमेरिका आणि ऑस्ट्रेलियात आढळतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "सस्तन प्राणी कोणत्या हवामानात राहू शकतात?",
+      "answer": "सस्तन प्राणी अतिथंड ते अतिउष्ण अशा सर्व प्रकारच्या हवामानात राहू शकतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "सापाला पाय नसतात, तरी तो पृष्ठवंशीय कसा?",
+      "answer": "सापाला अंतर्गत पाठीचा कणा असतो, म्हणून तो पृष्ठवंशीय आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "मानवाचा मेंदू इतर प्राण्यांपेक्षा किती मोठा असतो?",
+      "answer": "शरीराच्या एकूण वजनाच्या तुलनेत मानवाचा मेंदू इतर प्राण्यांपेक्षा मोठा आणि विकसित असतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती ही कोणाकडून कोणाकडे जाणारी प्रक्रिया आहे?",
+      "answer": "ती सरलकडून गुंतागुंतीकडे (Simple to Complex) जाणारी प्रक्रिया आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "कीटकांचे पाय किती असतात?",
+      "answer": "बहुतेक कीटकांना तीन जोड्या म्हणजेच सहा पाय असतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या डोळ्यांची उत्क्रांती का झाली?",
+      "answer": "अन्न शोधण्यासाठी आणि शत्रूपासून वाचण्यासाठी दृष्टी अधिक स्पष्ट होणे गरजेचे होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील सजीव सृष्टीचा समतोल कोण राखते?",
+      "answer": "निसर्ग आणि त्यातील विविध प्रजातींचे अस्तित्व हा समतोल राखते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "मानवाच्या आवाजाचा विकास कसा झाला?",
+      "answer": "उत्क्रांतीमुळे मानवाचे स्वरयंत्र विकसित झाले आणि तो स्पष्टपणे बोलू लागला."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "उत्क्रांती या धड्याचा मुख्य संदेश काय आहे?",
+      "answer": "बदल स्वीकारणे आणि स्वतःला विकसित करणे हेच जीवनाचे रहस्य आहे."
+    }
+  ]
+}

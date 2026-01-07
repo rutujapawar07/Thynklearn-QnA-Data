@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 3,
+  "chapter_name": "पृथ्वी आणि जीवसृष्टी",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या बाहेरील कठीण कवचाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलावरण", "is_correct": false },
+        { "option_id": 2, "text": "शिलावरण", "is_correct": true },
+        { "option_id": 3, "text": "वातावरण", "is_correct": false },
+        { "option_id": 4, "text": "जीवावरण", "is_correct": false }
+      ],
+      "answer": "शिलावरण"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा किती भाग जमिनीने व्यापलेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "१/३", "is_correct": true },
+        { "option_id": 2, "text": "२/३", "is_correct": false },
+        { "option_id": 3, "text": "१/२", "is_correct": false },
+        { "option_id": 4, "text": "३/४", "is_correct": false }
+      ],
+      "answer": "१/३"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा किती भाग पाण्याने व्यापलेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "१/३", "is_correct": false },
+        { "option_id": 2, "text": "२/३", "is_correct": true },
+        { "option_id": 3, "text": "१/४", "is_correct": false },
+        { "option_id": 4, "text": "अर्धा", "is_correct": false }
+      ],
+      "answer": "२/३"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जमिनीच्या सलग व मोठ्या भागास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बेट", "is_correct": false },
+        { "option_id": 2, "text": "खंड", "is_correct": true },
+        { "option_id": 3, "text": "देश", "is_correct": false },
+        { "option_id": 4, "text": "राज्य", "is_correct": false }
+      ],
+      "answer": "खंड"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवर एकूण किती खंड आहेत?",
+      "options": [
+        { "option_id": 1, "text": "५", "is_correct": false },
+        { "option_id": 2, "text": "६", "is_correct": false },
+        { "option_id": 3, "text": "७", "is_correct": true },
+        { "option_id": 4, "text": "८", "is_correct": false }
+      ],
+      "answer": "७"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "क्षेत्रफळाने सर्वात मोठा खंड कोणता?",
+      "options": [
+        { "option_id": 1, "text": "आफ्रिका", "is_correct": false },
+        { "option_id": 2, "text": "आशिया", "is_correct": true },
+        { "option_id": 3, "text": "युरोप", "is_correct": false },
+        { "option_id": 4, "text": "ऑस्ट्रेलिया", "is_correct": false }
+      ],
+      "answer": "आशिया"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सर्वात लहान खंड कोणता?",
+      "options": [
+        { "option_id": 1, "text": "ऑस्ट्रेलिया", "is_correct": true },
+        { "option_id": 2, "text": "अंटार्क्टिका", "is_correct": false },
+        { "option_id": 3, "text": "दक्षिण अमेरिका", "is_correct": false },
+        { "option_id": 4, "text": "युरोप", "is_correct": false }
+      ],
+      "answer": "ऑस्ट्रेलिया"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पृथ्वीभोवती असणाऱ्या हवेच्या आवरणाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलावरण", "is_correct": false },
+        { "option_id": 2, "text": "वातावरण", "is_correct": true },
+        { "option_id": 3, "text": "जीवावरण", "is_correct": false },
+        { "option_id": 4, "text": "तपांबर", "is_correct": false }
+      ],
+      "answer": "वातावरण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वातावरणाचा पृथ्वीपृष्ठाला लागून असलेला थर कोणता?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": true },
+        { "option_id": 2, "text": "स्थितांबर", "is_correct": false },
+        { "option_id": 3, "text": "दलांबर", "is_correct": false },
+        { "option_id": 4, "text": "बाह्यांबर", "is_correct": false }
+      ],
+      "answer": "तपांबर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हवेतील बाष्पामुळे काय तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "वारा", "is_correct": false },
+        { "option_id": 2, "text": "ढग", "is_correct": true },
+        { "option_id": 3, "text": "खडक", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश", "is_correct": false }
+      ],
+      "answer": "ढग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सूर्यापासून येणारी अतिनील किरणे कोणता वायू शोषून घेतो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "ओझोन", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "कार्बन डायऑक्साइड", "is_correct": false }
+      ],
+      "answer": "ओझोन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाण्याचे बाष्प होण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संघनन", "is_correct": false },
+        { "option_id": 2, "text": "बाष्पीभवन", "is_correct": true },
+        { "option_id": 3, "text": "वर्षण", "is_correct": false },
+        { "option_id": 4, "text": "गोठण", "is_correct": false }
+      ],
+      "answer": "बाष्पीभवन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "बाष्पाचे पुन्हा पाणी होण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 2, "text": "संघनन", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "बाष्पोत्सर्जन", "is_correct": false }
+      ],
+      "answer": "संघनन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील सर्व जलावरण, शिलावरण आणि वातावरणात पसरलेल्या सजीवांच्या जगाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरण", "is_correct": false },
+        { "option_id": 2, "text": "जीवावरण", "is_correct": true },
+        { "option_id": 3, "text": "निसर्ग", "is_correct": false },
+        { "option_id": 4, "text": "सृष्टी", "is_correct": false }
+      ],
+      "answer": "जीवावरण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खूप उंचावर गेल्यावर हवा कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "दाट", "is_correct": false },
+        { "option_id": 2, "text": "विरळ", "is_correct": true },
+        { "option_id": 3, "text": "गरम", "is_correct": false },
+        { "option_id": 4, "text": "ओलसर", "is_correct": false }
+      ],
+      "answer": "विरळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पाऊस पडण्याच्या चक्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हवामान चक्र", "is_correct": false },
+        { "option_id": 2, "text": "जलचक्र", "is_correct": true },
+        { "option_id": 3, "text": "ऋतू चक्र", "is_correct": false },
+        { "option_id": 4, "text": "प्राणवायू चक्र", "is_correct": false }
+      ],
+      "answer": "जलचक्र"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "समुद्राचे पाणी चवीला कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "गोड", "is_correct": false },
+        { "option_id": 2, "text": "खारे", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "तुरट", "is_correct": false }
+      ],
+      "answer": "खारे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवर गोड्या पाण्याचा साठा कोठे असतो?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रात", "is_correct": false },
+        { "option_id": 2, "text": "महासागरात", "is_correct": false },
+        { "option_id": 3, "text": "नद्या आणि तलावात", "is_correct": true },
+        { "option_id": 4, "text": "खाडीत", "is_correct": false }
+      ],
+      "answer": "नद्या आणि तलावात"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जमिनीखालच्या साठवलेल्या पाण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पृष्ठभागावरील पाणी", "is_correct": false },
+        { "option_id": 2, "text": "भूजल", "is_correct": true },
+        { "option_id": 3, "text": "सांडपाणी", "is_correct": false },
+        { "option_id": 4, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ओझोन वायू वातावरणाच्या कोणत्या थरात असतो?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": false },
+        { "option_id": 2, "text": "स्थितांबर", "is_correct": true },
+        { "option_id": 3, "text": "मध्यांबर", "is_correct": false },
+        { "option_id": 4, "text": "आयानांबर", "is_correct": false }
+      ],
+      "answer": "स्थितांबर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खंड बर्फाच्छादित असतो?",
+      "options": [
+        { "option_id": 1, "text": "आशिया", "is_correct": false },
+        { "option_id": 2, "text": "अंटार्क्टिका", "is_correct": true },
+        { "option_id": 3, "text": "आफ्रिका", "is_correct": false },
+        { "option_id": 4, "text": "युरोप", "is_correct": false }
+      ],
+      "answer": "अंटार्क्टिका"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हिमालय हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पर्वत", "is_correct": true },
+        { "option_id": 2, "text": "मैदान", "is_correct": false },
+        { "option_id": 3, "text": "पठार", "is_correct": false },
+        { "option_id": 4, "text": "दरी", "is_correct": false }
+      ],
+      "answer": "पर्वत"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हवेमध्ये सर्वात जास्त प्रमाणात कोणता वायू असतो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": true },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सजीवांना श्वसनासाठी कोणत्या वायूची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "हेलियम", "is_correct": false },
+        { "option_id": 4, "text": "अर्गॉन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ढग वातावरणाच्या कोणत्या थरात तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": true },
+        { "option_id": 2, "text": "स्थितांबर", "is_correct": false },
+        { "option_id": 3, "text": "दलांबर", "is_correct": false },
+        { "option_id": 4, "text": "बाह्यांबर", "is_correct": false }
+      ],
+      "answer": "तपांबर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "जमिनीचा उंच सखलपणा कशामुळे ओळखला जातो?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा", "is_correct": false },
+        { "option_id": 2, "text": "भूरूपे", "is_correct": true },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "भूरूपे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हिमनदी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "गरम पाण्याची नदी", "is_correct": false },
+        { "option_id": 2, "text": "बर्फाची नदी", "is_correct": true },
+        { "option_id": 3, "text": "मोठ्या पावसाची नदी", "is_correct": false },
+        { "option_id": 4, "text": "समुद्राची नदी", "is_correct": false }
+      ],
+      "answer": "बर्फाची नदी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवर पाणी किती रूपात आढळते?",
+      "options": [
+        { "option_id": 1, "text": "१", "is_correct": false },
+        { "option_id": 2, "text": "२", "is_correct": false },
+        { "option_id": 3, "text": "३ (स्थायू, द्रव, वायू)", "is_correct": true },
+        { "option_id": 4, "text": "४", "is_correct": false }
+      ],
+      "answer": "३ (स्थायू, द्रव, वायू)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हिमशिखर म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बर्फाचा ढीग", "is_correct": false },
+        { "option_id": 2, "text": "बर्फाच्छादित पर्वताचे टोक", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याचा प्रवाह", "is_correct": false },
+        { "option_id": 4, "text": "वाफ", "is_correct": false }
+      ],
+      "answer": "बर्फाच्छादित पर्वताचे टोक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वातावरणाचे एकूण किती मुख्य थर मानले जातात?",
+      "options": [
+        { "option_id": 1, "text": "३", "is_correct": false },
+        { "option_id": 2, "text": "४", "is_correct": false },
+        { "option_id": 3, "text": "५", "is_correct": true },
+        { "option_id": 4, "text": "६", "is_correct": false }
+      ],
+      "answer": "५"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या अस्तित्वासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त हवा", "is_correct": false },
+        { "option_id": 2, "text": "फक्त पाणी", "is_correct": false },
+        { "option_id": 3, "text": "हवा, पाणी आणि अन्न", "is_correct": true },
+        { "option_id": 4, "text": "फक्त जमीन", "is_correct": false }
+      ],
+      "answer": "हवा, पाणी आणि अन्न"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "विहिरीचे पाणी हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "समुद्र जल", "is_correct": false },
+        { "option_id": 2, "text": "भूजल", "is_correct": true },
+        { "option_id": 3, "text": "नदी जल", "is_correct": false },
+        { "option_id": 4, "text": "बाष्प", "is_correct": false }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "समुद्राचे पाणी सूर्याच्या उष्णतेने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "गोठते", "is_correct": false },
+        { "option_id": 2, "text": "बाष्पीभवन होते", "is_correct": true },
+        { "option_id": 3, "text": "कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "साठते", "is_correct": false }
+      ],
+      "answer": "बाष्पीभवन होते"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वातावरणात कार्बन डायऑक्साइडचे प्रमाण किती असते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त", "is_correct": false },
+        { "option_id": 2, "text": "अल्प", "is_correct": true },
+        { "option_id": 3, "text": "७८%", "is_correct": false },
+        { "option_id": 4, "text": "२१%", "is_correct": false }
+      ],
+      "answer": "अल्प"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी जमिनीवरून कोठे वाहून जाते?",
+      "options": [
+        { "option_id": 1, "text": "आकाशात", "is_correct": false },
+        { "option_id": 2, "text": "नद्या व समुद्रात", "is_correct": true },
+        { "option_id": 3, "text": "ढगात", "is_correct": false },
+        { "option_id": 4, "text": "फक्त जमिनीत", "is_correct": false }
+      ],
+      "answer": "नद्या व समुद्रात"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हिम (बर्फ) कशापासून बनतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याच्या थेंबांपासून", "is_correct": false },
+        { "option_id": 2, "text": "अतिथंड झालेल्या बाष्पापासून", "is_correct": true },
+        { "option_id": 3, "text": "मातीपासून", "is_correct": false },
+        { "option_id": 4, "text": "वायूपासून", "is_correct": false }
+      ],
+      "answer": "अतिथंड झालेल्या बाष्पापासून"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील जमिनीचे सर्वात खालचे टोक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर ध्रुव", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण ध्रुव", "is_correct": true },
+        { "option_id": 3, "text": "विषुववृत्त", "is_correct": false },
+        { "option_id": 4, "text": "खंड", "is_correct": false }
+      ],
+      "answer": "दक्षिण ध्रुव"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "तपांबराची उंची पृथ्वीपृष्ठापासून सुमारे किती किलोमीटर असते?",
+      "options": [
+        { "option_id": 1, "text": "५ किमी", "is_correct": false },
+        { "option_id": 2, "text": "१३ किमी", "is_correct": true },
+        { "option_id": 3, "text": "५० किमी", "is_correct": false },
+        { "option_id": 4, "text": "१०० किमी", "is_correct": false }
+      ],
+      "answer": "१३ किमी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "वातावरणातील सर्वात थंड थर कोणता?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": false },
+        { "option_id": 2, "text": "मध्यांबर", "is_correct": true },
+        { "option_id": 3, "text": "स्थितांबर", "is_correct": false },
+        { "option_id": 4, "text": "आयानांबर", "is_correct": false }
+      ],
+      "answer": "मध्यांबर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भूजलाचे पाणी बाहेर येण्यासाठी काय खोदले जाते?",
+      "options": [
+        { "option_id": 1, "text": "खड्डा", "is_correct": false },
+        { "option_id": 2, "text": "विहीर/नलिका विहीर", "is_correct": true },
+        { "option_id": 3, "text": "तलाव", "is_correct": false },
+        { "option_id": 4, "text": "नाला", "is_correct": false }
+      ],
+      "answer": "विहीर/नलिका विहीर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "समुद्रात तरंगणाऱ्या बर्फाच्या मोठ्या तुकड्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हिमगिरी", "is_correct": false },
+        { "option_id": 2, "text": "हिमशैल", "is_correct": true },
+        { "option_id": 3, "text": "बर्फाचे बेट", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "हिमशैल"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वात खोल महासागर कोणता?",
+      "options": [
+        { "option_id": 1, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_id": 2, "text": "पॅसिफिक महासागर", "is_correct": true },
+        { "option_id": 3, "text": "अटलांटिक महासागर", "is_correct": false },
+        { "option_id": 4, "text": "आर्क्टिक महासागर", "is_correct": false }
+      ],
+      "answer": "पॅसिफिक महासागर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "वातावरण, जलावरण आणि शिलावरण हे कशाचे भाग आहेत?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राचे", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीचे", "is_correct": true },
+        { "option_id": 3, "text": "सूर्याचे", "is_correct": false },
+        { "option_id": 4, "text": "ताऱ्यांचे", "is_correct": false }
+      ],
+      "answer": "पृथ्वीचे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पाण्याच्या साठ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलाशय", "is_correct": true },
+        { "option_id": 2, "text": "नदी", "is_correct": false },
+        { "option_id": 3, "text": "विहीर", "is_correct": false },
+        { "option_id": 4, "text": "टाकी", "is_correct": false }
+      ],
+      "answer": "जलाशय"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पर्यावरणात संतुलन कशामुळे राहते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वनस्पतींमुळे", "is_correct": false },
+        { "option_id": 2, "text": "चक्राकार नैसर्गिक प्रक्रियांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "माणसांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "यंत्रांमुळे", "is_correct": false }
+      ],
+      "answer": "चक्राकार नैसर्गिक प्रक्रियांमुळे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "बाष्पीभवनासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "थंडावा", "is_correct": false },
+        { "option_id": 2, "text": "उष्णता", "is_correct": true },
+        { "option_id": 3, "text": "अंधार", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील सजीव सृष्टीला आधार देणारा घटक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "जमीन, पाणी आणि हवा", "is_correct": true },
+        { "option_id": 4, "text": "चंद्र", "is_correct": false }
+      ],
+      "answer": "जमीन, पाणी आणि हवा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "विमानाचे उड्डाण वातावरणाच्या कोणत्या थरातून होते?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": true },
+        { "option_id": 2, "text": "मध्यांबर", "is_correct": false },
+        { "option_id": 3, "text": "स्थितांबर", "is_correct": false },
+        { "option_id": 4, "text": "दलांबर", "is_correct": false }
+      ],
+      "answer": "तपांबर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "जमिनीत मुरलेले पाणी पुन्हा कोठे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "आकाशात", "is_correct": false },
+        { "option_id": 2, "text": "झरे किंवा विहिरीत", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राच्या वर", "is_correct": false },
+        { "option_id": 4, "text": "फक्त नळाला", "is_correct": false }
+      ],
+      "answer": "झरे किंवा विहिरीत"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पर्जन्य म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वारा", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "थंडी", "is_correct": false },
+        { "option_id": 4, "text": "गारा", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या तीन आवरणांची नावे लिहा.",
+      "answer": "पृथ्वीची तीन आवरण म्हणजे शिलावरण, जलावरण आणि वातावरण ही होत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शिलावरण कशाने बनलेले असते?",
+      "answer": "शिलावरण हे प्रामुख्याने माती आणि खडकांनी बनलेले असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील खंडांची नावे सांगा.",
+      "answer": "आशिया, आफ्रिका, उत्तर अमेरिका, दक्षिण अमेरिका, अंटार्क्टिका, युरोप आणि ऑस्ट्रेलिया ही सात खंडांची नावे आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भूरूपे म्हणजे काय?",
+      "answer": "जमिनीचा उंच-सखलपणा ज्यामुळे डोंगर, पर्वत, पठारे, मैदाने तयार होतात, त्याला भूरूपे म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाच महासागरांची नावे लिहा.",
+      "answer": "पॅसिफिक, अटलांटिक, हिंदी, दक्षिण महासागर आणि आर्क्टिक महासागर ही पाच महासागरांची नावे आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खाडी म्हणजे काय?",
+      "answer": "समुद्राचे पाणी जमिनीच्या ज्या भागात घुसलेले असते, त्याला खाडी म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सरोवर कशाला म्हणतात?",
+      "answer": "जमिनीच्या नैसर्गिक सखल भागात पाणी साठून तयार झालेल्या मोठ्या जलाशयाला सरोवर म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हिमनदी कशी तयार होते?",
+      "answer": "अतिथंड प्रदेशात बर्फाचे थर एकावर एक साठून ते उतारावरून मंद गतीने सरकू लागतात, यालाच हिमनदी म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भूजल म्हणजे काय?",
+      "answer": "जमिनीवर पडलेले पावसाचे पाणी माती आणि खडकांच्या भेगांतून जमिनीत खोलवर साठते, त्याला भूजल म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वातावरण म्हणजे काय?",
+      "answer": "पृथ्वीच्या सभोवताली असणाऱ्या हवेच्या थरांना वातावरण म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तपांबराचा विस्तार किती असतो?",
+      "answer": "पृथ्वीपृष्ठापासून सुमारे १३ किलोमीटर उंचीपर्यंतच्या वातावरणाच्या थराला तपांबर म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तपांबराचे महत्त्व काय आहे?",
+      "answer": "वातावरणातील बहुतेक सर्व बदल (पाऊस, ढग, वारे) तपांबरातच होतात, जे सजीवांसाठी महत्त्वाचे असतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "स्थितांबर म्हणजे काय?",
+      "answer": "तपांबराच्या वर सुमारे १३ ते ५० किलोमीटर पर्यंतच्या वातावरणाच्या थराला स्थितांबर म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ओझोन वायूचे कार्य काय आहे?",
+      "answer": "ओझोन वायू सूर्यापासून येणारी घातक अतिनील किरणे शोषून घेतो आणि सजीवांचे रक्षण करतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "बाष्पीभवन कसे होते?",
+      "answer": "सूर्याच्या उष्णतेमुळे पृथ्वीवरील पाण्याचे सतत वाफेत रूपांतर होते, याला बाष्पीभवन म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ढग कसे बनतात?",
+      "answer": "बाष्प हवेपेक्षा हलके असल्याने उंचावर जाते, तिथे थंड होऊन त्याचे बारीक जलकण बनतात आणि त्यातून ढग तयार होतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पाऊस कसा पडतो?",
+      "answer": "ढगांतील पाण्याचे थेंब मोठे आणि जड झाले की ते हवेत तरंगू शकत नाहीत आणि पावसाच्या स्वरूपात खाली पडतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "जलचक्र म्हणजे काय?",
+      "answer": "पाण्याचे बाष्पीभवन, संघनन आणि वर्षण या क्रिया सातत्याने चक्राकार घडत असतात, त्याला जलचक्र म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "जीवावरण कशाने बनलेले असते?",
+      "answer": "शिलावरण, जलावरण आणि वातावरण या तिन्ही थरांमध्ये असलेल्या सजीवांनी जीवावरण बनलेले असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "समुद्राचे पाणी चवीला खारे का असते?",
+      "answer": "नद्या जमिनीवरून वाहताना क्षारांना समुद्रात घेऊन जातात आणि तिथे बाष्पीभवन झाल्यामुळे क्षार साठून पाणी खारे होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "जमिनीच्या उंच-सखल भागांना काय म्हणतात?",
+      "answer": "जमिनीच्या उंच-सखल भागांना 'भूरूपे' असे म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मैदान म्हणजे काय?",
+      "answer": "जमिनीचा सपाट आणि विस्तीर्ण भाग म्हणजे मैदान होय."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पठार म्हणजे काय?",
+      "answer": "उंचावर असलेला सपाट जमिनीचा मोठा भाग म्हणजे पठार होय."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नदी म्हणजे काय?",
+      "answer": "पावसाचे पाणी आणि बर्फ वितळलेले पाणी एकत्र येऊन नैसर्गिक प्रवाहाने वाहू लागते, त्याला नदी म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ओढा आणि नदी यात काय फरक आहे?",
+      "answer": "ओढा हा पाण्याचा छोटा प्रवाह असतो, तर अनेक ओढे मिळून मोठी नदी तयार होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "समुद्र किंवा सागर म्हणजे काय?",
+      "answer": "नद्या शेवटी जाऊन ज्या मोठ्या खारट पाण्याच्या जलाशयाला मिळतात, त्याला समुद्र म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हिमशैल म्हणजे काय?",
+      "answer": "समुद्राच्या पाण्यात तरंगणाऱ्या बर्फाच्या प्रचंड मोठ्या तुकड्याला हिमशैल म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "झरा म्हणजे काय?",
+      "answer": "जमिनीखालचे भूजल काही ठिकाणी नैसर्गिकरीत्या पृष्ठभागावर येते, त्याला झरा म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वातावरणाचे पाच थर कोणते?",
+      "answer": "तपांबर, स्थितांबर, मध्यांबर, आयानांबर आणि बाह्यांबर हे वातावरणाचे पाच थर आहेत."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "हवा म्हणजे काय?",
+      "answer": "वातावरणातील विविध वायू, बाष्प आणि धुलिकण यांच्या मिश्रणाला हवा म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "हवेत असणारे मुख्य वायू कोणते?",
+      "answer": "हवेत नायट्रोजन, ऑक्सिजन, कार्बन डायऑक्साइड आणि अर्गॉन हे मुख्य वायू असतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी कुठे मुरते?",
+      "answer": "पावसाचे पाणी जमिनीतील माती आणि खडकांच्या थरांतून खाली मुरते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "गारा कशा पडतात?",
+      "answer": "वातावरणातील बाष्प अचानक खूप थंड झाल्यामुळे त्याचे बर्फात रूपांतर होते आणि ते गोळ्यांच्या स्वरूपात पडतात, त्याला गारा म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाचे रक्षण का करावे?",
+      "answer": "पृथ्वीवरील सर्व सजीव एकमेकांवर अवलंबून असतात, म्हणून सृष्टीचे संतुलन टिकवण्यासाठी पर्यावरणाचे रक्षण करावे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हिमशैल समुद्रावर का तरंगतात?",
+      "answer": "बर्फ हा पाण्यापेक्षा हलका असतो, म्हणून बर्फाचे मोठे तुकडे म्हणजेच हिमशैल पाण्यावर तरंगतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "क्षेत्रफळाने जगात भारताचा कितवा क्रमांक लागतो?",
+      "answer": "क्षेत्रफळाने जगात भारताचा सातवा क्रमांक लागतो (हा प्रश्न आशिया खंडाच्या संदर्भात महत्त्वाचा आहे)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "जलावरण म्हणजे काय?",
+      "answer": "पृथ्वीवरील महासागर, नद्या, तलाव, भूजल आणि बर्फ या सर्व पाणी असलेल्या भागांना एकत्रितपणे जलावरण म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "वातावरणातील वायूंचे प्रमाण कसे बदलत जाते?",
+      "answer": "पृथ्वीपृष्ठाजवळ वायू दाट असतात आणि उंचावर जाताना ते विरळ होत जातात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "नद्यांचे उगमस्थान कोठे असते?",
+      "answer": "बहुतेक नद्यांचे उगमस्थान पर्वतरांगांमध्ये किंवा उंचावरील भागात असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सजीवांचे वर्गीकरण कोणत्या दोन मुख्य गटात होते?",
+      "answer": "सजीवांचे वर्गीकरण मुख्यत्वे वनस्पती आणि प्राणी या दोन गटात होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पर्वत आणि डोंगर यांत काय फरक आहे?",
+      "answer": "पर्वत हे खूप उंच आणि विस्तीर्ण असतात, तर डोंगर त्यामानाने कमी उंच असतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "समुद्रकिनारा म्हणजे काय?",
+      "answer": "जमीन आणि समुद्र जिथे मिळतात, त्या भागाला समुद्रकिनारा म्हणतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "बेट म्हणजे काय?",
+      "answer": "चारही बाजूंनी पाण्याने वेढलेल्या जमिनीच्या भागाला बेट म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नकाशात जमीन कोणत्या रंगाने दर्शवतात?",
+      "answer": "नकाशात जमीन प्रामुख्याने हिरव्या, पिवळ्या किंवा तपकिरी रंगाने दर्शवतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नकाशात पाणी कोणत्या रंगाने दर्शवतात?",
+      "answer": "नकाशात पाणी निळ्या रंगाने दर्शवतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात नदीचे पाणी का आटते?",
+      "answer": "उन्हाळ्यातील तीव्र उष्णतेमुळे पाण्याचे मोठ्या प्रमाणात बाष्पीभवन होते, म्हणून नदीचे पाणी आटते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "बाष्प डोळ्यांना का दिसत नाही?",
+      "answer": "बाष्प हे वायुरूपात असते आणि त्याचे कण अतिशय सूक्ष्म असतात, म्हणून ते डोळ्यांना दिसत नाही."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "थंड हवेच्या ठिकाणी बाष्पाचे काय होते?",
+      "answer": "थंड हवेच्या ठिकाणी बाष्पाचे संघनन होऊन त्याचे जलकण किंवा हिमकण बनतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "जमिनीत मुरलेले पाणी बाहेर काढण्यासाठी मानवाने काय केले?",
+      "answer": "जमिनीत मुरलेले पाणी बाहेर काढण्यासाठी मानवाने विहिरी आणि कूपनलिका (नलिका विहीर) खोदल्या."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील जीवसृष्टीचे रक्षण कोण करते?",
+      "answer": "पृथ्वीवरील जीवसृष्टीचे रक्षण ओझोन वायूचा थर आणि अनुकूल वातावरण करते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "महासागर आणि सागर यात काय फरक आहे?",
+      "answer": "महासागर हे अथांग आणि विशाल असतात, तर सागर हे महासागराचाच एक भाग असून तुलनेने लहान असतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा पृष्ठभाग कसा बनलेला आहे?",
+      "answer": "पृथ्वीचा पृष्ठभाग जमीन (शिलावरण) आणि पाणी (जलावरण) यांनी बनलेला आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "अंटार्क्टिका खंडावर सजीव सृष्टी कमी का आहे?",
+      "answer": "तिथे वर्षभर कडाक्याची थंडी आणि बर्फ असल्यामुळे जीवसृष्टी मर्यादित आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी शुद्ध असते का?",
+      "answer": "सुरुवातीला पावसाचे पाणी शुद्ध असते, पण हवेत मिसळताना त्यात धुलिकण आणि वायू मिसळतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "पर्वताच्या उतारावर पाऊस पडल्यावर काय होते?",
+      "answer": "पर्वताच्या उतारावर पडलेले पाणी वेगाने वाहून नद्यांना मिळते किंवा जमिनीत मुरते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "बाष्पीभवन फक्त दिवसाच होते का?",
+      "answer": "बाष्पीभवन सतत होत असते, पण दिवसा सूर्याच्या उष्णतेमुळे त्याचा वेग जास्त असतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "तपांबरातील हवेच्या दाबाचे काय वैशिष्ट्य आहे?",
+      "answer": "तपांबरात पृथ्वीपृष्ठाजवळ हवेचा दाब जास्त असतो आणि उंचीनुसार तो कमी होतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "वातावरण किती उंचीपर्यंत पसरलेले आहे?",
+      "answer": "वातावरण पृथ्वीपृष्ठापासून सुमारे ५०० किलोमीटरपेक्षा जास्त उंचीपर्यंत पसरलेले मानले जाते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पाण्याचे चक्र खंडित झाले तर काय होईल?",
+      "answer": "पाण्याचे चक्र खंडित झाले तर पाऊस पडणार नाही आणि पृथ्वीवरील जीवसृष्टी नष्ट होईल."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पर्वताच्या शिखरावर बर्फ का आढळतो?",
+      "answer": "उंचावर तापमान खूप कमी असते, त्यामुळे तिथे पावसाच्या थेंबांचे बर्फात रूपांतर होते आणि तो साठून राहतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "समुद्राच्या तळाला काय असते?",
+      "answer": "समुद्राच्या तळाला देखील जमीन असते, जिला 'सागरतळ' म्हणतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "नद्या प्रदूषणमुक्त का असाव्यात?",
+      "answer": "नद्या आपल्याला पिण्याचे पाणी पुरवतात, म्हणून जीवसृष्टीच्या आरोग्यासाठी त्या प्रदूषणमुक्त असाव्यात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हवेतील आद्र्रता म्हणजे काय?",
+      "answer": "हवेमध्ये असलेल्या बाष्पाच्या प्रमाणाला हवेतील आद्र्रता म्हणतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "जीवावरणात कोणकोणते घटक येतात?",
+      "answer": "जीवावरणात सर्व प्राणी, वनस्पती आणि सूक्ष्मजीव यांचा समावेश होतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "अतिनील किरणांचा सजीवांवर काय परिणाम होतो?",
+      "answer": "अतिनील किरणांमुळे त्वचेचे आजार होऊ शकतात आणि वनस्पतींचे नुकसान होते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील जीवसृष्टी कोठे कोठे आढळते?",
+      "answer": "पृथ्वीवरील जीवसृष्टी जमीन, पाणी आणि हवा या तिन्ही ठिकाणी आढळते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "विमान उडवण्यासाठी कोणत्या थराचा वापर होतो?",
+      "answer": "विमान उडवण्यासाठी तपांबराच्या वरच्या भागाचा किंवा स्थितांबराच्या खालच्या भागाचा वापर केला जातो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक साधनसंपत्ती म्हणजे काय?",
+      "answer": "निसर्गाकडून मिळणारी जमीन, पाणी, हवा यांसारख्या उपयुक्त घटकांना नैसर्गिक साधनसंपत्ती म्हणतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "ढग काळे का दिसतात?",
+      "answer": "ढगांमध्ये जलकणांचे प्रमाण खूप जास्त असते तेव्हा ते सूर्यप्रकाश अडवतात, म्हणून ते काळे दिसतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "नदीचे मुख म्हणजे काय?",
+      "answer": "नदी जिथे समुद्राला जाऊन मिळते, त्या ठिकाणाला नदीचे मुख म्हणतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "भूजल साठवण्याची क्षमता कशावर अवलंबून असते?",
+      "answer": "भूजल साठवण्याची क्षमता जमिनीच्या प्रकारावर आणि खडकांच्या रचनेवर अवलंबून असते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील पाण्याचे प्रमाण किती टक्के आहे?",
+      "answer": "पृथ्वीवर सुमारे ७१ टक्के पाणी आणि २९ टक्के जमीन आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सजीवांसाठी पाण्याचे महत्त्व काय?",
+      "answer": "पाण्याशिवाय सजीव जगू शकत नाहीत, शरीरातील सर्व क्रियांसाठी पाण्याची गरज असते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "पर्वत रांग म्हणजे काय?",
+      "answer": "एकापाठोपाठ असलेल्या पर्वतांच्या साखळीला पर्वत रांग म्हणतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "शिलावरणाची जाडी किती असते?",
+      "answer": "शिलावरणाची जाडी सर्वत्र सारखी नसते, ती पर्वताखाली जास्त तर महासागराखाली कमी असते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "पावसाळ्याचे मुख्य चार महिने कोणते?",
+      "answer": "जून, जुलै, ऑगस्ट आणि सप्टेंबर हे पावसाळ्याचे मुख्य चार महिने आहेत."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "वातावरणात सर्वात हलका वायू कोणता?",
+      "answer": "वातावरणात हायड्रोजन आणि हेलियम हे वायू सर्वात हलके असतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पाण्याच्या बाष्पाचे जड थेंबात रूपांतर होणे म्हणजे काय?",
+      "answer": "या क्रियेला 'संघनन' असे म्हणतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "ओझोनचा थर कोठे विरळ झाला आहे?",
+      "answer": "ओझोनचा थर अंटार्क्टिका खंडाच्या वरच्या भागात विरळ झाल्याचे दिसून आले आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "ध्रुवीय प्रदेश म्हणजे काय?",
+      "answer": "पृथ्वीच्या उत्तर आणि दक्षिण टोकांकडील प्रदेश जेथे प्रचंड थंडी असते, त्याला ध्रुवीय प्रदेश म्हणतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर गोड्या पाण्याचा वापर किती होतो?",
+      "answer": "पृथ्वीवर एकूण पाण्याच्या तुलनेत पिण्यायोग्य गोडे पाणी अतिशय अल्प प्रमाणात उपलब्ध आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "नदीचा प्रवाह उताराकडे का असतो?",
+      "answer": "गुरुत्वाकर्षणामुळे पाणी नेहमी उंच भागाकडून सखल भागाकडे म्हणजेच उताराकडे वाहते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील जीवसृष्टीचे मुख्य आधारस्तंभ कोणते?",
+      "answer": "हवा, पाणी आणि जमीन हे जीवसृष्टीचे मुख्य आधारस्तंभ आहेत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "हवेतील कार्बन डायऑक्साइड वनस्पतींसाठी का आवश्यक आहे?",
+      "answer": "वनस्पती स्वतःचे अन्न तयार करण्यासाठी हवेतील कार्बन डायऑक्साइडचा वापर करतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "झरे आणि विहिरी कशावर अवलंबून असतात?",
+      "answer": "झरे आणि विहिरी मुख्यत्वे पावसाच्या पाण्यामुळे साठलेल्या भूजलावर अवलंबून असतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "समुद्राच्या पाण्याची वाफ झाल्यावर क्षारांचे काय होते?",
+      "answer": "मिठासारखे क्षार समुद्रामध्येच शिल्लक राहतात, फक्त पाण्याची वाफ होऊन वर जाते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "वातावरणातील धुलिकण काय करतात?",
+      "answer": "धुलिकणांमुळे सूर्यप्रकाशाचे विखुरणे होते आणि आपल्याला आकाशात रंग दिसतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर जीवसृष्टी कोठे आढळत नाही?",
+      "answer": "पृथ्वीवर असे कोणतेही आवरण नाही जिथे जीवसृष्टी आढळत नाही; ती सर्वत्र कोणत्या ना कोणत्या स्वरूपात असते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "नदीपात्र म्हणजे काय?",
+      "answer": "नदी ज्या मार्गावरून वाहते, त्या जमिनीच्या भागाला नदीपात्र म्हणतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी साठवून ठेवणे का गरजेचे आहे?",
+      "answer": "उन्हाळ्यात पाण्याची टंचाई भासू नये म्हणून पावसाचे पाणी साठवणे गरजेचे आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "वातावरणातील नायट्रोजनचे प्रमाण किती आहे?",
+      "answer": "हवेमध्ये नायट्रोजनचे प्रमाण सुमारे ७८ टक्के असते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "ऑक्सिजनचे हवेतील प्रमाण किती आहे?",
+      "answer": "हवेमध्ये ऑक्सिजनचे प्रमाण सुमारे २१ टक्के असते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "हिमनगाचा किती भाग पाण्याचे वर दिसतो?",
+      "answer": "हिमनगाचा फक्त थोडासाच भाग पाण्याचे वर दिसतो, तर मोठा भाग पाण्याखाली असतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "दऱ्या कशा तयार होतात?",
+      "answer": "नदीच्या प्रवाहामुळे किंवा जमिनीच्या हालचालीमुळे दोन डोंगरांच्या मध्ये खोल भाग तयार होतो, त्याला दरी म्हणतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संतुलनासाठी सजीवांची साखळी काय आहे?",
+      "answer": "एकाने दुसऱ्याला खाणे आणि ऊर्जा मिळवणे याला अन्नसाखळी म्हणतात, जी संतुलनासाठी महत्त्वाची आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर जमिनीचे स्वरूप सर्वत्र सारखे का नसते?",
+      "answer": "ज्वालामुखी, भूकंप आणि झीज यांसारख्या नैसर्गिक प्रक्रियांमुळे जमिनीचे स्वरूप बदलत असते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "भूजल प्रदूषित का होते?",
+      "answer": "रासायनिक खते, कीटकनाशके आणि सांडपाणी जमिनीत मुरल्यामुळे भूजल प्रदूषित होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "हवा उंच गेल्यावर थंड का लागते?",
+      "answer": "उंचीवर हवेचा दाब कमी होतो आणि हवा विरळ होते, त्यामुळे तिथे तापमान कमी असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "जलचक्रामुळे पृथ्वीला कोणता मोठा फायदा होतो?",
+      "answer": "जलचक्रामुळे पृथ्वीला सतत गोड्या पाण्याचा पुरवठा होतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर जीवसृष्टी टिकून राहण्याचे कारण काय?",
+      "answer": "पृथ्वीवर जीवनास आवश्यक असणारी हवा, पाणी आणि जमीन यांचे योग्य प्रमाण आणि ओझोनचे कवच यामुळे जीवसृष्टी टिकून आहे."
+    }
+  ]
+}

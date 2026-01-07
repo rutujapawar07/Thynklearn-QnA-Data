@@ -1,0 +1,376 @@
+{
+  "chapter_id": 13,
+  "chapter_name": "सण एक दिन",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'सण एक दिन' या कवितेत कोणत्या प्राण्याचा उल्लेख आला आहे?",
+      "options": [
+        { "option_id": 1, "text": "घोडा", "is_correct": false },
+        { "option_id": 2, "text": "बैल", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "उंट", "is_correct": false }
+      ],
+      "answer": "बैल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बैलपोळ्याच्या दिवशी बैलांना कसे सजवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "अंगावर झूल घालून", "is_correct": false },
+        { "option_id": 2, "text": "शिंगांना रंगावून", "is_correct": false },
+        { "option_id": 3, "text": "गळ्यात घुंगुरमाळा बांधून", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "बैलांच्या गळ्यात काय बांधले जाते?",
+      "options": [
+        { "option_id": 1, "text": "साखळदंड", "is_correct": false },
+        { "option_id": 2, "text": "दोरी", "is_correct": false },
+        { "option_id": 3, "text": "घुंगुरमाळा", "is_correct": true },
+        { "option_id": 4, "text": "फुलांचा हार", "is_correct": false }
+      ],
+      "answer": "घुंगुरमाळा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बैलांच्या शिंगांना काय लावले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रंग आणि बेगड", "is_correct": true },
+        { "option_id": 2, "text": "फक्त पाणी", "is_correct": false },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "कापड", "is_correct": false }
+      ],
+      "answer": "रंग आणि बेगड"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते, सण संपल्यावर बैलांची अवस्था काय होते?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना सुट्टी मिळते", "is_correct": false },
+        { "option_id": 2, "text": "पुन्हा ओझे वाहावे लागते", "is_correct": true },
+        { "option_id": 3, "text": "ते खेळायला जातात", "is_correct": false },
+        { "option_id": 4, "text": "ते फिरायला जातात", "is_correct": false }
+      ],
+      "answer": "पुन्हा ओझे वाहावे लागते"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेनुसार बैलांना काय खायला दिले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पुरणपोळी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त चारा", "is_correct": false },
+        { "option_id": 3, "text": "लाडू", "is_correct": false },
+        { "option_id": 4, "text": "भाजी-भाकरी", "is_correct": false }
+      ],
+      "answer": "पुरणपोळी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'शिंगे रंगविली बेगडं लाविली' या ओळीतील 'बेगड' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एक प्रकारचा कागद", "is_correct": false },
+        { "option_id": 2, "text": "चकाकणारा वर्ख", "is_correct": true },
+        { "option_id": 3, "text": "रंगीत खडू", "is_correct": false },
+        { "option_id": 4, "text": "फुलांची माळ", "is_correct": false }
+      ],
+      "answer": "चकाकणारा वर्ख"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बैलपोळ्याच्या दिवशी बैलांना काय नसते?",
+      "options": [
+        { "option_id": 1, "text": "काम/ओझे", "is_correct": true },
+        { "option_id": 2, "text": "जेवण", "is_correct": false },
+        { "option_id": 3, "text": "सजावट", "is_correct": false },
+        { "option_id": 4, "text": "मान", "is_correct": false }
+      ],
+      "answer": "काम/ओझे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बैलांच्या पाठीवर काय घातले जाते?",
+      "options": [
+        { "option_id": 1, "text": "घोंगडी", "is_correct": false },
+        { "option_id": 2, "text": "रेशमी झूल", "is_correct": true },
+        { "option_id": 3, "text": "कापूस", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "रेशमी झूल"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बैलांना 'सण एक दिन' असे का म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कारण त्यांना रोज मान मिळतो", "is_correct": false },
+        { "option_id": 2, "text": "कारण सण फक्त एकाच दिवसाचा असतो", "is_correct": true },
+        { "option_id": 3, "text": "कारण ते रोज काम करतात", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "कारण सण फक्त एकाच दिवसाचा असतो"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "बैलांना अंघोळ कोठे घातली जाते?",
+      "options": [
+        { "option_id": 1, "text": "विहिरीवर", "is_correct": false },
+        { "option_id": 2, "text": "नदीवर", "is_correct": true },
+        { "option_id": 3, "text": "घराबाहेर", "is_correct": false },
+        { "option_id": 4, "text": "बागेत", "is_correct": false }
+      ],
+      "answer": "नदीवर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "बैलपोळ्याच्या दिवशी कोण आनंदी असते?",
+      "options": [
+        { "option_id": 1, "text": "बैल", "is_correct": false },
+        { "option_id": 2, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 3, "text": "मुले", "is_correct": false },
+        { "option_id": 4, "text": "सर्वजण", "is_correct": true }
+      ],
+      "answer": "सर्वजण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या दिवशी बैलांच्या खांद्यावर काय असते?",
+      "options": [
+        { "option_id": 1, "text": "झूल", "is_correct": false },
+        { "option_id": 2, "text": "जू (ओझे)", "is_correct": true },
+        { "option_id": 3, "text": "फुलांची माळ", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "जू (ओझे)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'मखमल' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "खडबडीत कापड", "is_correct": false },
+        { "option_id": 2, "text": "मऊ कापड (Velvet)", "is_correct": true },
+        { "option_id": 3, "text": "जाड दोरी", "is_correct": false },
+        { "option_id": 4, "text": "लाकूड", "is_correct": false }
+      ],
+      "answer": "मऊ कापड (Velvet)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गावामध्ये बैलांची काय काढली जाते?",
+      "options": [
+        { "option_id": 1, "text": "मिरवणूक", "is_correct": true },
+        { "option_id": 2, "text": "शर्यत", "is_correct": false },
+        { "option_id": 3, "text": "पूजा", "is_correct": false },
+        { "option_id": 4, "text": "यादी", "is_correct": false }
+      ],
+      "answer": "मिरवणूक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणाच्या कष्टाचे वर्णन सुचवले आहे?",
+      "options": [
+        { "option_id": 1, "text": "बैलांच्या", "is_correct": true },
+        { "option_id": 2, "text": "पक्ष्यांच्या", "is_correct": false },
+        { "option_id": 3, "text": "घोड्यांच्या", "is_correct": false },
+        { "option_id": 4, "text": "माशांच्या", "is_correct": false }
+      ],
+      "answer": "बैलांच्या"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सणाच्या दिवशी बैलांना काय करावे लागत नाही?",
+      "options": [
+        { "option_id": 1, "text": "शेतात राबावे लागत नाही", "is_correct": true },
+        { "option_id": 2, "text": "जेवावे लागत नाही", "is_correct": false },
+        { "option_id": 3, "text": "उभे राहावे लागत नाही", "is_correct": false },
+        { "option_id": 4, "text": "पाणी प्यावे लागत नाही", "is_correct": false }
+      ],
+      "answer": "शेतात राबावे लागत नाही"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बैलांच्या कपाळावर काय लावले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कुंकू/टिळा आणि बाशिंग", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "कुंकू/टिळा आणि बाशिंग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेत 'झूल' कशाची आहे असे म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कापसाची", "is_correct": false },
+        { "option_id": 2, "text": "मखमली/रेशमी", "is_correct": true },
+        { "option_id": 3, "text": "कागदी", "is_correct": false },
+        { "option_id": 4, "text": "गोणपाटाची", "is_correct": false }
+      ],
+      "answer": "मखमली/रेशमी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'सण एक दिन' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "यशवंत", "is_correct": true },
+        { "option_id": 2, "text": "बालकवी", "is_correct": false },
+        { "option_id": 3, "text": "कुसुमाग्रज", "is_correct": false },
+        { "option_id": 4, "text": "बहिणाबाई चौधरी", "is_correct": false }
+      ],
+      "answer": "यशवंत"
+    },
+    { "question_id": 21, "question_type": "MCQ", "question": "बैलपोळा कोणत्या महिन्यात येतो?", "options": [{ "option_id": 1, "text": "श्रावण/भाद्रपद", "is_correct": true }, { "option_id": 2, "text": "चैत्र", "is_correct": false }, { "option_id": 3, "text": "कार्तिक", "is_correct": false }, { "option_id": 4, "text": "पौष", "is_correct": false }], "answer": "श्रावण/भाद्रपद" },
+    { "question_id": 22, "question_type": "MCQ", "question": "मिरवणुकीत काय वाजवले जाते?", "options": [{ "option_id": 1, "text": "ढोल-ताशे", "is_correct": true }, { "option_id": 2, "text": "गिटार", "is_correct": false }, { "option_id": 3, "text": "रेडिओ", "is_correct": false }, { "option_id": 4, "text": "काहीही नाही", "is_correct": false }], "answer": "ढोल-ताशे" },
+    { "question_id": 23, "question_type": "MCQ", "question": "बैल शेतकाऱ्याला कशात मदत करतात?", "options": [{ "option_id": 1, "text": "नांगरणीत", "is_correct": true }, { "option_id": 2, "text": "घर बांधायला", "is_correct": false }, { "option_id": 3, "text": "विमान चालवायला", "is_correct": false }, { "option_id": 4, "text": "स्वयंपाकात", "is_correct": false }], "answer": "नांगरणीत" },
+    { "question_id": 24, "question_type": "MCQ", "question": "बैलांना अन्नासाठी काय दिले जाते?", "options": [{ "option_id": 1, "text": "कडबा/गवत", "is_correct": true }, { "option_id": 2, "text": "मिठाई", "is_correct": false }, { "option_id": 3, "text": "फळे", "is_correct": false }, { "option_id": 4, "text": "चहा", "is_correct": false }], "answer": "कडबा/गवत" },
+    { "question_id": 25, "question_type": "MCQ", "question": "सण संपल्यावर बैलांना कोठे जावे लागते?", "options": [{ "option_id": 1, "text": "शेतात", "is_correct": true }, { "option_id": 2, "text": "शाळेत", "is_correct": false }, { "option_id": 3, "text": "सिनेमाला", "is_correct": false }, { "option_id": 4, "text": "गावाला", "is_correct": false }], "answer": "शेतात" },
+    { "question_id": 26, "question_type": "MCQ", "question": "बैलांच्या गळ्यातील माळेला काय म्हणतात?", "options": [{ "option_id": 1, "text": "हार", "is_correct": false }, { "option_id": 2, "text": "घुंगुरमाळ", "is_correct": true }, { "option_id": 3, "text": "साखळी", "is_correct": false }, { "option_id": 4, "text": "दोरी", "is_correct": false }], "answer": "घुंगुरमाळ" },
+    { "question_id": 27, "question_type": "MCQ", "question": "बैलांच्या अंगाला काय लावले जाते?", "options": [{ "option_id": 1, "text": "रंगीत ठसे", "is_correct": true }, { "option_id": 2, "text": "चिखल", "is_correct": false }, { "option_id": 3, "text": "पावडर", "is_correct": false }, { "option_id": 4, "text": "शाई", "is_correct": false }], "answer": "रंगीत ठसे" },
+    { "question_id": 28, "question_type": "MCQ", "question": "सजावटीसाठी शिंगांवर काय चढवतात?", "options": [{ "option_id": 1, "text": "टोप्या", "is_correct": false }, { "option_id": 2, "text": "शिंगाटी/बेगड", "is_correct": true }, { "option_id": 3, "text": "कापड", "is_correct": false }, { "option_id": 4, "text": "पाने", "is_correct": false }], "answer": "शिंगाटी/बेगड" },
+    { "question_id": 29, "question_type": "MCQ", "question": "कवितेत कोणाच्या डोळ्यात पाणी येते असे सुचवले आहे?", "options": [{ "option_id": 1, "text": "लहान मुलांच्या", "is_correct": false }, { "option_id": 2, "text": "बैलांच्या (कष्टाने)", "is_correct": true }, { "option_id": 3, "text": "शेतकऱ्याच्या", "is_correct": false }, { "option_id": 4, "text": "पाहुण्यांच्या", "is_correct": false }], "answer": "बैलांच्या (कष्टाने)" },
+    { "question_id": 30, "question_type": "MCQ", "question": "बैलांच्या मिरवणुकीला काय म्हणतात?", "options": [{ "option_id": 1, "text": "दिंडी", "is_correct": false }, { "option_id": 2, "text": "पोळा", "is_correct": true }, { "option_id": 3, "text": "फेरी", "is_correct": false }, { "option_id": 4, "text": "जत्रा", "is_correct": false }], "answer": "पोळा" },
+    { "question_id": 31, "question_type": "MCQ", "question": "कवितेतील मुख्य भावना कोणती आहे?", "options": [{ "option_id": 1, "text": "केवळ आनंद", "is_correct": false }, { "option_id": 2, "text": "बैलांविषयीची सहानुभूती", "is_correct": true }, { "option_id": 3, "text": "राग", "is_correct": false }, { "option_id": 4, "text": "भिती", "is_correct": false }], "answer": "बैलांविषयीची सहानुभूती" },
+    { "question_id": 32, "question_type": "MCQ", "question": "बैलपोळ्याच्या आदल्या दिवशी काय असते?", "options": [{ "option_id": 1, "text": "खांदा मळणी", "is_correct": true }, { "option_id": 2, "text": "होळी", "is_correct": false }, { "option_id": 3, "text": "दिवाळी", "is_correct": false }, { "option_id": 4, "text": "दसरा", "is_correct": false }], "answer": "खांदा मळणी" },
+    { "question_id": 33, "question_type": "MCQ", "question": "बैलांना कशामुळे त्रास होतो?", "options": [{ "option_id": 1, "text": "झुलमुळे", "is_correct": false }, { "option_id": 2, "text": "अति कष्टाने", "is_correct": true }, { "option_id": 3, "text": "पुरणपोळीने", "is_correct": false }, { "option_id": 4, "text": "मिरवणुकीने", "is_correct": false }], "answer": "अति कष्टाने" },
+    { "question_id": 34, "question_type": "MCQ", "question": "बैलांच्या पायात काय बांधतात?", "options": [{ "option_id": 1, "text": "साखळी", "is_correct": false }, { "option_id": 2, "text": "तोडे/वाळे", "is_correct": true }, { "option_id": 3, "text": "जोडे", "is_correct": false }, { "option_id": 4, "text": "काहीही नाही", "is_correct": false }], "answer": "तोडे/वाळे" },
+    { "question_id": 35, "question_type": "MCQ", "question": "बैल कोणाचे मित्र आहेत?", "options": [{ "option_id": 1, "text": "शेतकऱ्याचे", "is_correct": true }, { "option_id": 2, "text": "व्यापाऱ्याचे", "is_correct": false }, { "option_id": 3, "text": "शिकार्याचे", "is_correct": false }, { "option_id": 4, "text": "कोळ्याचे", "is_correct": false }], "answer": "शेतकऱ्याचे" },
+    { "question_id": 36, "question_type": "MCQ", "question": "'बाशिंग' कुठे बांधले जाते?", "options": [{ "option_id": 1, "text": "गळ्यात", "is_correct": false }, { "option_id": 2, "text": "कपाळावर", "is_correct": true }, { "option_id": 3, "text": "शेपटीला", "is_correct": false }, { "option_id": 4, "text": "पायात", "is_correct": false }], "answer": "कपाळावर" },
+    { "question_id": 37, "question_type": "MCQ", "question": "मिरवणूक कधी काढली जाते?", "options": [{ "option_id": 1, "text": "सकाळी", "is_correct": false }, { "option_id": 2, "text": "संध्याकाळी", "is_correct": true }, { "option_id": 3, "text": "दुपारी", "is_correct": false }, { "option_id": 4, "text": "रात्री", "is_correct": false }], "answer": "संध्याकाळी" },
+    { "question_id": 38, "question_type": "MCQ", "question": "बैलांच्या अंगावर उडणारा चाबूक कशाचे प्रतीक आहे?", "options": [{ "option_id": 1, "text": "प्रेमाचे", "is_correct": false }, { "option_id": 2, "text": "कठोर श्रमाचे/क्रूरतेचे", "is_correct": true }, { "option_id": 3, "text": "खेळाचे", "is_correct": false }, { "option_id": 4, "text": "आशीर्वादाचे", "is_correct": false }], "answer": "कठोर श्रमाचे/क्रूरतेचे" },
+    { "question_id": 39, "question_type": "MCQ", "question": "बैलांची कशावरून पूजा केली जाते?", "options": [{ "option_id": 1, "text": "आरती करून", "is_correct": true }, { "option_id": 2, "text": "पाणी पिऊन", "is_correct": false }, { "option_id": 3, "text": "मारून", "is_correct": false }, { "option_id": 4, "text": "रागावून", "is_correct": false }], "answer": "आरती करून" },
+    { "question_id": 40, "question_type": "MCQ", "question": "कवितेत 'झळझळ' काय चमकते?", "options": [{ "option_id": 1, "text": "पाणी", "is_correct": false }, { "option_id": 2, "text": "बेगड/शिंगे", "is_correct": true }, { "option_id": 3, "text": "तारे", "is_correct": false }, { "option_id": 4, "text": "डोळे", "is_correct": false }], "answer": "बेगड/शिंगे" },
+    { "question_id": 41, "question_type": "MCQ", "question": "शेतकरी बैलांना काय मानतो?", "options": [{ "option_id": 1, "text": "यंत्र", "is_correct": false }, { "option_id": 2, "text": "दैवत", "is_correct": true }, { "option_id": 3, "text": "शत्रू", "is_correct": false }, { "option_id": 4, "text": "खेळणे", "is_correct": false }], "answer": "दैवत" },
+    { "question_id": 42, "question_type": "MCQ", "question": "बैलांचे कपाळ कशाने रंगवले जाते?", "options": [{ "option_id": 1, "text": "हिनाने", "is_correct": false }, { "option_id": 2, "text": "कुंकू/बुक्का", "is_correct": true }, { "option_id": 3, "text": "पेनने", "is_correct": false }, { "option_id": 4, "text": "पानांच्या रसाने", "is_correct": false }], "answer": "कुंकू/बुक्का" },
+    { "question_id": 43, "question_type": "MCQ", "question": "सण संपल्यावर बैलांचे 'काय' हरवते?", "options": [{ "option_id": 1, "text": "स्वातंत्र्य/विश्रांती", "is_correct": true }, { "option_id": 2, "text": "शिंगे", "is_correct": false }, { "option_id": 3, "text": "घर", "is_correct": false }, { "option_id": 4, "text": "चारा", "is_correct": false }], "answer": "स्वातंत्र्य/विश्रांती" },
+    { "question_id": 44, "question_type": "MCQ", "question": "बैलांची धावण्याची स्पर्धा कोठे होते?", "options": [{ "option_id": 1, "text": "मैदानात", "is_correct": true }, { "option_id": 2, "text": "घरात", "is_correct": false }, { "option_id": 3, "text": "रस्त्यावर", "is_correct": false }, { "option_id": 4, "text": "पाण्यात", "is_correct": false }], "answer": "मैदानात" },
+    { "question_id": 45, "question_type": "MCQ", "question": "बैलपोळा हा सण प्रामुख्याने कोठे साजरा होतो?", "options": [{ "option_id": 1, "text": "शहरात", "is_correct": false }, { "option_id": 2, "text": "गावात/खेड्यात", "is_correct": true }, { "option_id": 3, "text": "परदेशात", "is_correct": false }, { "option_id": 4, "text": "जंगलात", "is_correct": false }], "answer": "गावात/खेड्यात" },
+    { "question_id": 46, "question_type": "MCQ", "question": "'बाशिंग' म्हणजे काय?", "options": [{ "option_id": 1, "text": "पायातले कडे", "is_correct": false }, { "option_id": 2, "text": "कपाळावरचे भूषण/आभूषण", "is_correct": true }, { "option_id": 3, "text": "बैलाची दोरी", "is_correct": false }, { "option_id": 4, "text": "बैलाचे अन्न", "is_correct": false }], "answer": "कपाळावरचे भूषण/आभूषण" },
+    { "question_id": 47, "question_type": "MCQ", "question": "कवितेत कोणाला ओवाळले जाते?", "options": [{ "option_id": 1, "text": "बैलांना", "is_correct": true }, { "option_id": 2, "text": "कवीला", "is_correct": false }, { "option_id": 3, "text": "वाघाला", "is_correct": false }, { "option_id": 4, "text": "पक्षांना", "is_correct": false }], "answer": "बैलांना" },
+    { "question_id": 48, "question_type": "MCQ", "question": "बैलांचे वजन कशाने वाढते?", "options": [{ "option_id": 1, "text": "जेवणाने", "is_correct": false }, { "option_id": 2, "text": "ओझे वाहिल्याने (अप्रत्यक्ष कष्ट)", "is_correct": true }, { "option_id": 3, "text": "झुलमुळे", "is_correct": false }, { "option_id": 4, "text": "काहीही नाही", "is_correct": false }], "answer": "ओझे वाहिल्याने (अप्रत्यक्ष कष्ट)" },
+    { "question_id": 49, "question_type": "MCQ", "question": "बैलपोळ्याला कोणत्या झाडाच्या पानांचे तोरण बांधतात?", "options": [{ "option_id": 1, "text": "आंबा", "is_correct": true }, { "option_id": 2, "text": "कापूस", "is_correct": false }, { "option_id": 3, "text": "बाभळी", "is_correct": false }, { "option_id": 4, "text": "तुळस", "is_correct": false }], "answer": "आंबा" },
+    { "question_id": 50, "question_type": "MCQ", "question": "बैलांना 'मुका' प्राणी का म्हणतात?", "options": [{ "option_id": 1, "text": "कारण ते बोलू शकत नाहीत", "is_correct": true }, { "option_id": 2, "text": "कारण ते फक्त गातात", "is_correct": false }, { "option_id": 3, "text": "कारण त्यांना आवाज नसतो", "is_correct": false }, { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }], "answer": "कारण ते बोलू शकत नाहीत" },
+    { "question_id": 51, "question_type": "SHORT", "question": "कवितेचे नाव काय आहे?", "answer": "कवितेचे नाव 'सण एक दिन' आहे." },
+    { "question_id": 52, "question_type": "SHORT", "question": "ही कविता कोणत्या सणाबद्दल आहे?", "answer": "ही कविता बैलपोळा या सणाबद्दल आहे." },
+    { "question_id": 53, "question_type": "SHORT", "question": "बैलांना सणादिवशी काय खायला दिले जाते?", "answer": "बैलांना सणादिवशी पुरणपोळी खायला दिली जाते." },
+    { "question_id": 54, "question_type": "SHORT", "question": "बैलांना अंघोळ कोठे घातली जाते?", "answer": "बैलांना नदीवर नेऊन अंघोळ घातली जाते." },
+    { "question_id": 55, "question_type": "SHORT", "question": "बैलांच्या शिंगांना काय लावले जाते?", "answer": "बैलांच्या शिंगांना रंग आणि बेगड लावले जाते." },
+    { "question_id": 56, "question_type": "SHORT", "question": "मखमली झूल कोणाच्या अंगावर असते?", "answer": "मखमली झूल बैलांच्या अंगावर असते." },
+    { "question_id": 57, "question_type": "SHORT", "question": "बैलांच्या कपाळावर काय असते?", "answer": "बैलांच्या कपाळावर रेशमी बाशिंग असते." },
+    { "question_id": 58, "question_type": "SHORT", "question": "सणादिवशी बैलांच्या गळ्यात काय असते?", "answer": "बैलांच्या गळ्यात घुंगुरमाळा असतात." },
+    { "question_id": 59, "question_type": "SHORT", "question": "बैलांची मिरवणूक कोठे काढली जाते?", "answer": "बैलांची मिरवणूक संपूर्ण गावात काढली जाते." },
+    { "question_id": 60, "question_type": "SHORT", "question": "सण संपल्यावर बैलांना काय करावे लागते?", "answer": "सण संपल्यावर बैलांना पुन्हा शेतात ओझे वाहावे लागते." },
+    { "question_id": 61, "question_type": "SHORT", "question": "कवीने बैलांना काय म्हटले आहे?", "answer": "कवीने बैलांना कष्ट करणारा मुका प्राणी म्हटले आहे." },
+    { "question_id": 62, "question_type": "SHORT", "question": "'बेगड' म्हणजे काय?", "answer": "बेगड म्हणजे कागदासारखा चकाकणारा वर्ख जो सजावटीसाठी वापरतात." },
+    { "question_id": 63, "question_type": "SHORT", "question": "बैलांना सणाच्या दिवशी काम असते का?", "answer": "नाही, सणाच्या दिवशी बैलांना काम नसते, त्यांना विश्रांती दिली जाते." },
+    { "question_id": 64, "question_type": "SHORT", "question": "बैलांच्या मिरवणुकीत काय वाजते?", "answer": "बैलांच्या मिरवणुकीत ढोल-ताशे आणि वाद्ये वाजतात." },
+    { "question_id": 65, "question_type": "SHORT", "question": "दुसऱ्या दिवशी बैलांच्या खांद्यावर काय येते?", "answer": "दुसऱ्या दिवशी बैलांच्या खांद्यावर नांगराचे जड 'जू' येते." },
+    { "question_id": 66, "question_type": "SHORT", "question": "बैलपोळा हा कोणाचा सण आहे?", "answer": "बैलपोळा हा प्रामुख्याने शेतकऱ्यांचा आणि बैलांचा सण आहे." },
+    { "question_id": 67, "question_type": "SHORT", "question": "कवी यशवंत यांनी या कवितेतून काय संदेश दिला आहे?", "answer": "प्राण्यांवर प्रेम करावे आणि त्यांच्या कष्टाची जाणीव ठेवावी, असा संदेश दिला आहे." },
+    { "question_id": 68, "question_type": "SHORT", "question": "बैलांच्या अंगावर काय ओढले जाते?", "answer": "काम करताना बैलांच्या अंगावर चाबूक ओढला जातो." },
+    { "question_id": 69, "question_type": "SHORT", "question": "बैलांना काय ओढावे लागते?", "answer": "बैलांना नांगर आणि जड गाड्या ओढाव्या लागतात." },
+    { "question_id": 70, "question_type": "SHORT", "question": "बैलपोळ्याच्या दिवशी घरासमोर काय काढतात?", "answer": "बैलपोळ्याच्या दिवशी घरासमोर रांगोळी काढतात." },
+    { "question_id": 71, "question_type": "SHORT", "question": "मिरवणुकीत बैल कसे चालतात?", "answer": "मिरवणुकीत बैल डौलदारपणे चालतात." },
+    { "question_id": 72, "question_type": "SHORT", "question": "बैलांना सण 'एकच दिवस' का असतो?", "answer": "कारण इतर दिवशी त्यांना सतत कष्ट करावे लागतात." },
+    { "question_id": 73, "question_type": "SHORT", "question": "बैलांच्या डोळ्यांतील भाव कसे असतात?", "answer": "बैलांच्या डोळ्यांत मूक वेदना किंवा कष्टाचे भाव असतात." },
+    { "question_id": 74, "question_type": "SHORT", "question": "बैलांची पूजा कोण करते?", "answer": "बैलांची पूजा शेतकरी आणि त्याचे कुटुंब करते." },
+    { "question_id": 75, "question_type": "SHORT", "question": "बैलांना सजावटीसाठी काय बांधले जाते?", "answer": "बैलांना घुंगुरमाळा, गोंडे आणि बाशिंग बांधले जाते." },
+    { "question_id": 76, "question_type": "SHORT", "question": "कवितेतील 'मखमली झुल' कशासाठी वापरली आहे?", "answer": "बैलांना सुंदर दिसण्यासाठी आणि त्यांचा मान वाढवण्यासाठी मखमली झुल वापरली आहे." },
+    { "question_id": 77, "question_type": "SHORT", "question": "बैलांचे शिंगे रंगावल्याने कशी दिसतात?", "answer": "बैलांची शिंगे रंगावल्याने झळझळीत आणि सुंदर दिसतात." },
+    { "question_id": 78, "question_type": "SHORT", "question": "बैलांना अन्नामध्ये गुळ-खोबरे का देतात?", "answer": "सणाचा गोडवा म्हणून आणि बैलांचे लाड करण्यासाठी गुळ-खोबरे देतात." },
+    { "question_id": 79, "question_type": "SHORT", "question": "शेतीसाठी बैलांचे महत्त्व काय?", "answer": "शेतीची नांगरणी आणि वाहतुकीसाठी बैल अत्यंत महत्त्वाचे आहेत." },
+    { "question_id": 80, "question_type": "SHORT", "question": "गावाबाहेर बैलांना कोठे उभे केले जाते?", "answer": "गावाबाहेर हनुमान मंदिराजवळ किंवा मैदानात 'तोरण' बांधलेल्या ठिकाणी उभे केले जाते." },
+    { "question_id": 81, "question_type": "SHORT", "question": "'झूल' म्हणजे काय?", "answer": "झूल म्हणजे बैलांच्या अंगावर टाकलेले रंगीत कापड." },
+    { "question_id": 82, "question_type": "SHORT", "question": "बैलपोळ्याला कोणत्या प्राण्याला सुट्टी असते?", "answer": "बैलपोळ्याला फक्त बैलांना कामातून सुट्टी असते." },
+    { "question_id": 83, "question_type": "SHORT", "question": "बैलांच्या पायात काय असते?", "answer": "बैलांच्या पायात वाळे किंवा पैंजणांसारखे तोडे असतात." },
+    { "question_id": 84, "question_type": "SHORT", "question": "बैलांची मिरवणूक कधी संपते?", "answer": "बैलांची मिरवणूक रात्रीच्या वेळी संपते." },
+    { "question_id": 85, "question_type": "SHORT", "question": "कवीला बैलांबद्दल काय वाटते?", "answer": "कवीला बैलांबद्दल खूप दया आणि आपुलकी वाटते." },
+    { "question_id": 86, "question_type": "SHORT", "question": "बैलांना 'बळीराजाचा सोबती' का म्हणतात?", "answer": "कारण ते शेतकऱ्याला (बळीराजाला) शेतात रात्रंदिवस मदत करतात." },
+    { "question_id": 87, "question_type": "SHORT", "question": "शिंगाटी कशाची बनलेली असते?", "answer": "शिंगाटी धातूची किंवा रंगाची बनलेली असते जी शिंगांवर चढवतात." },
+    { "question_id": 88, "question_type": "SHORT", "question": "सणादिवशी बैल काय विसरतात?", "answer": "सणादिवशी बैल आपले कष्ट आणि चाबकाचे फटके विसरतात." },
+    { "question_id": 89, "question_type": "SHORT", "question": "बैलांच्या अंगावर काय चितारले जाते?", "answer": "बैलांच्या अंगावर रंगाने हाताचे ठसे किंवा नक्षी चितारली जाते." },
+    { "question_id": 90, "question_type": "SHORT", "question": "बैलांना पुरणपोळी खाऊ घालताना काय करतात?", "answer": "त्यांना प्रेमाने कुरवाळतात आणि त्यांचे औक्षण करतात." },
+    { "question_id": 91, "question_type": "SHORT", "question": "बैलपोळ्याचा आनंद कोणाला सर्वात जास्त होतो?", "answer": "शेतकरी कुटुंबातील मुलांना आणि बैलांना सर्वात जास्त आनंद होतो." },
+    { "question_id": 92, "question_type": "SHORT", "question": "बैलांच्या शेपटीला काय बांधतात?", "answer": "बैलांच्या शेपटीला गोंडा किंवा गोंडे बांधतात." },
+    { "question_id": 93, "question_type": "SHORT", "question": "मिरवणुकीत बैल काय डोलवतात?", "answer": "मिरवणुकीत बैल आपली मान आणि शिंगे डोलवतात." },
+    { "question_id": 94, "question_type": "SHORT", "question": "सण संपल्यावर बैलांचा मान टिकतो का?", "answer": "नाही, दुसऱ्या दिवशी त्यांना पुन्हा कष्ट आणि चाबूक सहन करावा लागतो." },
+    { "question_id": 95, "question_type": "SHORT", "question": "बैलांच्या खांद्याला काय लावतात?", "answer": "बैलांच्या खांद्याला हळद किंवा तेल लावून मालिश करतात (खांद मळणी)." },
+    { "question_id": 96, "question_type": "SHORT", "question": "तोरण कशाचे असते?", "answer": "तोरण आब्यांच्या पानांचे आणि फुलांचे असते." },
+    { "question_id": 97, "question_type": "SHORT", "question": "बैलांच्या अंगावर मखमली झुल का घालतात?", "answer": "बैलांची शोभा वाढवण्यासाठी आणि सणाचा उत्साह साजरा करण्यासाठी मखमली झुल घालतात." },
+    { "question_id": 98, "question_type": "SHORT", "question": "बैलपोळ्याच्या दिवशी काय खाणे वर्ज्य असते?", "answer": "काही ठिकाणी या दिवशी कष्टाचे काम करणे आणि बैलांना मारणे वर्ज्य असते." },
+    { "question_id": 99, "question_type": "SHORT", "question": "बैलांच्या गळ्यातील घंटांना काय म्हणतात?", "answer": "बैलांच्या गळ्यातील छोट्या घंटांना घुंगरू म्हणतात." },
+    { "question_id": 100, "question_type": "SHORT", "question": "कवितेचा शेवट कोणत्या भावनेने होतो?", "answer": "कवितेचा शेवट बैलांच्या कष्टाच्या वास्तवाने आणि करुणेने होतो." },
+    { "question_id": 101, "question_type": "SHORT", "question": "बैलांच्या मिरवणुकीत लोक काय करतात?", "answer": "लोक गाणी गातात, नाचतात आणि आनंदाने जल्लोष करतात." },
+    { "question_id": 102, "question_type": "SHORT", "question": "बैलपोळ्याला बैलांची जोडी कशी दिसते?", "answer": "बैलपोळ्याला बैलांची जोडी राजासारखी डौलदार दिसते." },
+    { "question_id": 103, "question_type": "SHORT", "question": "बैलांना सण 'एक दिन' म्हणण्यामागचे दुःख काय?", "answer": "कारण उरलेले ३६४ दिवस त्यांना फक्त ओझे वाहावे लागते." },
+    { "question_id": 104, "question_type": "SHORT", "question": "बैलांच्या कपाळावरील बाशिंग कशाने बनलेले असते?", "answer": "बाशिंग मणी, रेशमी धागे आणि फुलांनी बनलेले असते." },
+    { "question_id": 105, "question_type": "SHORT", "question": "बैलांना धुवून स्वच्छ का करतात?", "answer": "सजावट करण्यापूर्वी त्यांना स्वच्छ करण्यासाठी नदीवर नेऊन धुतात." },
+    { "question_id": 106, "question_type": "SHORT", "question": "बैलांना मारणे का चुकीचे आहे?", "answer": "कारण ते आपल्याला अन्न मिळवून देण्यासाठी अपार कष्ट करतात." },
+    { "question_id": 107, "question_type": "SHORT", "question": "सणाच्या दिवशी बैलांच्या अंगाला तेल का लावतात?", "answer": "त्यांची त्वचा चमकण्यासाठी आणि त्यांना आराम मिळावा म्हणून तेल लावतात." },
+    { "question_id": 108, "question_type": "SHORT", "question": "मिरवणुकीत बैल कोणाच्या समोर झुकतात?", "answer": "मिरवणुकीत बैल तोरणासमोर किंवा देवाच्या मंदिरासमोर झुकतात." },
+    { "question_id": 109, "question_type": "SHORT", "question": "बैलांच्या कष्टाची जाणीव कशावरून होते?", "answer": "त्यांच्या अंगावरील चाबकाचे वळ आणि त्यांच्या थकलेल्या डोळ्यांवरून जाणीव होते." },
+    { "question_id": 110, "question_type": "SHORT", "question": "या कवितेतील 'मुका' शब्दाचा अर्थ काय?", "answer": "मुका म्हणजे न बोलणारा किंवा आपले दुःख सांगू न शकणारा." },
+    { "question_id": 111, "question_type": "SHORT", "question": "बैलपोळ्याच्या दिवशी शेतात कोणतेही अवजार का वापरत नाहीत?", "answer": "कारण तो बैलांच्या विश्रांतीचा आणि सन्मानाचा दिवस असतो." },
+    { "question_id": 112, "question_type": "SHORT", "question": "कवी यशवंत यांनी बैलांना काय उपमा दिली आहे?", "answer": "कवीने बैलांना कष्टकरी आणि प्रामाणिक मित्राची उपमा दिली आहे." },
+    { "question_id": 113, "question_type": "SHORT", "question": "मिरवणुकीनंतर बैलांना कोठे नेले जाते?", "answer": "मिरवणुकीनंतर बैलांना घरी आणून ओवाळले जाते आणि जेवू घातले जाते." },
+    { "question_id": 114, "question_type": "SHORT", "question": "बैलांच्या शिंगांवर बांधलेल्या फुग्यांना काय म्हणतात?", "answer": "काही ठिकाणी शिंगांना फुगे किंवा रंगीत फिती बांधतात." },
+    { "question_id": 115, "question_type": "SHORT", "question": "बैलांना पुरणपोळी व्यतिरिक्त काय आवडते?", "answer": "बैलांना हिरवा चारा आणि कडबा आवडतो." },
+    { "question_id": 116, "question_type": "SHORT", "question": "सण संपल्यावर बैलांचे दागिने काय होतात?", "answer": "सण संपल्यावर बैलांचे दागिने काढून ठेवले जातात आणि पुन्हा नांगर लादला जातो." },
+    { "question_id": 117, "question_type": "SHORT", "question": "या कवितेची भाषा कोणती आहे?", "answer": "ही कविता मराठी भाषेत आहे." },
+    { "question_id": 118, "question_type": "SHORT", "question": "बैलांना 'धन' का मानले जाते?", "answer": "कारण बैलांमुळे शेती पिकते आणि शेतकऱ्याची भरभराट होते." },
+    { "question_id": 119, "question_type": "SHORT", "question": "शिंगाटी कशामुळे चमकतात?", "answer": "शिंगाटी बेगडामुळे आणि तेलाच्या वापरामुळे चमकतात." },
+    { "question_id": 120, "question_type": "SHORT", "question": "कवितेत वापरलेला 'झळझळ' हा शब्द काय दर्शवतो?", "answer": "तो सजावटीची चकाकी आणि सौंदर्य दर्शवतो." },
+    { "question_id": 121, "question_type": "SHORT", "question": "बैलांच्या मिरवणुकीचे नेतृत्व कोण करते?", "answer": "गावातील सर्वात मानाचा किंवा जुना बैल मिरवणुकीचे नेतृत्व करतो." },
+    { "question_id": 122, "question_type": "SHORT", "question": "बैलांना सणाच्या दिवशी अंघोळ का घालतात?", "answer": "पवित्रता आणि स्वच्छतेसाठी त्यांना अंघोळ घातली जाते." },
+    { "question_id": 123, "question_type": "SHORT", "question": "बैलांच्या अंगावर झुल कशी बांधली जाते?", "answer": "दोरीच्या साहाय्याने झुल बैलाच्या पाठीवर व्यवस्थित बांधली जाते." },
+    { "question_id": 124, "question_type": "SHORT", "question": "बैलांच्या डोळ्यांतील 'मूक वेदना' म्हणजे काय?", "answer": "ते बोलू शकत नाहीत तरीही त्यांच्या डोळ्यांत कष्टाचे दुःख दिसते." },
+    { "question_id": 125, "question_type": "SHORT", "question": "सणाच्या दिवशी बैलांना मारहाण केली जाते का?", "answer": "नाही, सणाच्या दिवशी बैलांना खूप प्रेमाने वागवले जाते." },
+    { "question_id": 126, "question_type": "SHORT", "question": "बैलांच्या गळ्यातील घुंगुरमाळेचा आवाज कसा येतो?", "answer": "घुंगुरमाळेचा आवाज 'छुमछुम' असा येतो." },
+    { "question_id": 127, "question_type": "SHORT", "question": "बैलपोळा हा सण कोणत्या संस्कृतीचा भाग आहे?", "answer": "हा सण भारतीय कृषी संस्कृतीचा भाग आहे." },
+    { "question_id": 128, "question_type": "SHORT", "question": "बैलांच्या खांद्यावर येणारे 'जू' कशाचे बनलेले असते?", "answer": "जू हे लाकडाचे बनलेले असते." },
+    { "question_id": 129, "question_type": "SHORT", "question": "बैलांना कोठून कोठे नेले जाते?", "answer": "बैलांना गोठ्यातून नदीवर आणि तिथून मिरवणुकीसाठी गावात नेले जाते." },
+    { "question_id": 130, "question_type": "SHORT", "question": "कवी यशवंत यांनी बैलांना काय आवाहन केले असावे?", "answer": "कवीने मानवाला आवाहन केले आहे की प्राण्यांच्या कष्टाची जाणीव ठेवा." },
+    { "question_id": 131, "question_type": "SHORT", "question": "बैलपोळा सणाचे दुसरे नाव काय आहे?", "answer": "काही ठिकाणी याला फक्त 'पोळा' असेही म्हणतात." },
+    { "question_id": 132, "question_type": "SHORT", "question": "बैलांना गोड जेवण दिल्यावर ते काय करतात?", "answer": "ते आनंदाने शेपटी हलवतात आणि शांतपणे जेवतात." },
+    { "question_id": 133, "question_type": "SHORT", "question": "बैलांच्या अंगावरील रंगीत ठसे कशाचे असतात?", "answer": "ते गेरू किंवा नैसर्गिक रंगाचे असतात." },
+    { "question_id": 134, "question_type": "SHORT", "question": "शिंगांना बेगड लावणे ही कोणत्या प्रकारची कला आहे?", "answer": "ही एक पारंपारिक लोककला आणि सजावट आहे." },
+    { "question_id": 135, "question_type": "SHORT", "question": "बैलांच्या गळ्यात घंटा का बांधतात?", "answer": "बैल कोठे आहे हे समजण्यासाठी आणि मिरवणुकीत शोभा वाढवण्यासाठी घंटा बांधतात." },
+    { "question_id": 136, "question_type": "SHORT", "question": "बैलांच्या चेहऱ्यावर बाशिंग लावल्यावर ते कसे दिसतात?", "answer": "ते नवरदेवासारखे नटलेले आणि सुंदर दिसतात." },
+    { "question_id": 137, "question_type": "SHORT", "question": "बैलांना सणा दिवशी कोठे बांधले जाते?", "answer": "त्यांना घरासमोर किंवा गोठ्यात सजवून बांधले जाते." },
+    { "question_id": 138, "question_type": "SHORT", "question": "कवितेतील 'कष्ट' हा शब्द कोणासाठी आहे?", "answer": "तो शब्द रात्रंदिवस शेतात राबणाऱ्या बैलांसाठी आहे." },
+    { "question_id": 139, "question_type": "SHORT", "question": "बैलांना ओवाळताना काय म्हणतात?", "answer": "बैलांना ओवाळताना त्यांना दीर्घायुष्य लाभो आणि पीक पाणी चांगले येवो अशी प्रार्थना करतात." },
+    { "question_id": 140, "question_type": "SHORT", "question": "बैलपोळ्याच्या दिवशी शेतकरी काय काम करतो?", "answer": "शेतकरी फक्त बैलांची सेवा आणि सजावट करण्याचे काम करतो." },
+    { "question_id": 141, "question_type": "SHORT", "question": "बैलांना सणाच्या दिवशी मुक्त का सोडतात?", "answer": "त्यांना स्वातंत्र्य आणि आनंदाचा अनुभव मिळावा म्हणून मुक्त सोडतात." },
+    { "question_id": 142, "question_type": "SHORT", "question": "बैलांच्या गळ्यात कोणती माळ असते?", "answer": "बैलांच्या गळ्यात मण्यांची किंवा घुंगरांची माळ असते." },
+    { "question_id": 143, "question_type": "SHORT", "question": "कवितेत 'बेगड' लावल्यामुळे काय होते?", "answer": "शिंगे उन्हात चकाकतात आणि बैल उठून दिसतात." },
+    { "question_id": 144, "question_type": "SHORT", "question": "बैलांना सणा दिवशी चारा दिला जातो का?", "answer": "हो, त्यांना उत्तम प्रतीचा चारा आणि पेंड दिली जाते." },
+    { "question_id": 145, "question_type": "SHORT", "question": "मिरवणुकीत वाजवली जाणारी वाद्ये कोणती?", "answer": "लेझिम, ढोल, ताशा आणि पिपाणी ही वाद्ये वाजवली जातात." },
+    { "question_id": 146, "question_type": "SHORT", "question": "बैलपोळ्याचा उत्सव कोठे मोठा असतो?", "answer": "महाराष्ट्रातील ग्रामीण भागात हा उत्सव खूप मोठा असतो." },
+    { "question_id": 147, "question_type": "SHORT", "question": "बैलांच्या अंगाला लावलेली हळद काय दर्शवते?", "answer": "हळद हे आरोग्याचे आणि शुभ कार्याचे प्रतीक आहे." },
+    { "question_id": 148, "question_type": "SHORT", "question": "कवितेत 'मखमली झूल' शब्दाचा यमक कशाशी आहे?", "answer": "या कवितेत 'झूल' चा यमक इतर शब्दांशी साधला आहे (उदा. डोल)." },
+    { "question_id": 149, "question_type": "SHORT", "question": "बैलांना सण 'एक दिन' मिळाल्यावर ते काय विसरतात?", "answer": "ते आपला थकवा आणि वेदना तात्पुरत्या विसरतात." },
+    { "question_id": 150, "question_type": "SHORT", "question": "या कवितेचा मुख्य विषय कोणता?", "answer": "बैलपोळा सण आणि बैलांची स्थिती हा या कवितेचा मुख्य विषय आहे." }
+  ]
+}

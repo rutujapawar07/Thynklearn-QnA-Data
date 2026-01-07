@@ -1,0 +1,324 @@
+{
+  "chapter_id": 27,
+  "chapter_name": "अभंग",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'आंधळ्याची काठी' हा अभंग कोणी लिहिला आहे?",
+      "options": [
+        { "option_id": 1, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 2, "text": "संत जनाबाई", "is_correct": true },
+        { "option_id": 3, "text": "संत नामदेव", "is_correct": false },
+        { "option_id": 4, "text": "संत सोपानदेव", "is_correct": false }
+      ],
+      "answer": "संत जनाबाई"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "संत जनाबाई स्वतःला कोणाची दासी म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "विठ्ठलाची", "is_correct": false },
+        { "option_id": 2, "text": "देवाची", "is_correct": false },
+        { "option_id": 3, "text": "संतांची", "is_correct": true },
+        { "option_id": 4, "text": "लोकांची", "is_correct": false }
+      ],
+      "answer": "संतांची"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "संत जनाबाईंनी कोणाला 'आई' म्हणून साद घातली आहे?",
+      "options": [
+        { "option_id": 1, "text": "विठ्ठलाला", "is_correct": true },
+        { "option_id": 2, "text": "रुक्मिणीला", "is_correct": false },
+        { "option_id": 3, "text": "सखुबाईला", "is_correct": false },
+        { "option_id": 4, "text": "मुक्ताबाईला", "is_correct": false }
+      ],
+      "answer": "विठ्ठलाला"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जनाबाईंच्या मते पाडस कोठे चुकले आहे?",
+      "options": [
+        { "option_id": 1, "text": "गावात", "is_correct": false },
+        { "option_id": 2, "text": "रानी (वनात)", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "नदीवर", "is_correct": false }
+      ],
+      "answer": "रानी (वनात)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'धन कोणा कामा आले' असे कोणत्या संताने म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "संत जनाबाई", "is_correct": false },
+        { "option_id": 2, "text": "संत सेना महाराज", "is_correct": true },
+        { "option_id": 3, "text": "संत चोखामेळा", "is_correct": false },
+        { "option_id": 4, "text": "संत ज्ञानेश्वर", "is_correct": false }
+      ],
+      "answer": "संत सेना महाराज"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संत सेना महाराज यांच्या मते पांडुरंगाशिवाय खरा कोण नाही?",
+      "options": [
+        { "option_id": 1, "text": "मित्र", "is_correct": false },
+        { "option_id": 2, "text": "सखा", "is_correct": true },
+        { "option_id": 3, "text": "भाऊ", "is_correct": false },
+        { "option_id": 4, "text": "शत्रू", "is_correct": false }
+      ],
+      "answer": "सखा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अभंगात 'जननी' शब्दाचा अर्थ काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "बहीण", "is_correct": false },
+        { "option_id": 2, "text": "माता/आई", "is_correct": true },
+        { "option_id": 3, "text": "दासी", "is_correct": false },
+        { "option_id": 4, "text": "सखी", "is_correct": false }
+      ],
+      "answer": "माता/आई"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "जनाबाईंनी विठ्ठलाला भेटण्यासाठी कोणाला विनंती केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "देवाला", "is_correct": false },
+        { "option_id": 2, "text": "संतांना", "is_correct": true },
+        { "option_id": 3, "text": "आईला", "is_correct": false },
+        { "option_id": 4, "text": "भक्तांना", "is_correct": false }
+      ],
+      "answer": "संतांना"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "संत सेना महाराज कोणाचे भक्त होते?",
+      "options": [
+        { "option_id": 1, "text": "राम", "is_correct": false },
+        { "option_id": 2, "text": "पांडुरंग", "is_correct": true },
+        { "option_id": 3, "text": "कृष्ण", "is_correct": false },
+        { "option_id": 4, "text": "गणपती", "is_correct": false }
+      ],
+      "answer": "पांडुरंग"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आंधळ्याची काठी कोठे अडकली आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "बेटावर (बेट्टी)", "is_correct": true },
+        { "option_id": 3, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 4, "text": "शहरात", "is_correct": false }
+      ],
+      "answer": "बेटावर (बेट्टी)"
+    },
+    { "question_id": 11, "question_type": "MCQ", "question": "जनाबाईंनी स्वतःला कोणाचे पाडस म्हटले आहे?", "options": [{ "option_id": 1, "text": "वाघाचे", "is_correct": false }, { "option_id": 2, "text": "हरणीचे", "is_correct": true }, { "option_id": 3, "text": "शेळीचे", "is_correct": false }, { "option_id": 4, "text": "गायीचे", "is_correct": false }], "answer": "हरणीचे" },
+    { "question_id": 12, "question_type": "MCQ", "question": "'मुखें मी पाडस' यातील मुखें म्हणजे काय?", "options": [{ "option_id": 1, "text": "मुका/बोलता न येणारा", "is_correct": true }, { "option_id": 2, "text": "तोंड", "is_correct": false }, { "option_id": 3, "text": "चेहरा", "is_correct": false }, { "option_id": 4, "text": "आनंदी", "is_correct": false }], "answer": "मुका/बोलता न येणारा" },
+    { "question_id": 13, "question_type": "MCQ", "question": "कशाशिवाय मानसाचे खरे नाते कोणाशी नसते?", "options": [{ "option_id": 1, "text": "धनाशिवाय", "is_correct": false }, { "option_id": 2, "text": "पांडुरंगाशिवाय", "is_correct": true }, { "option_id": 3, "text": "कामाशिवाय", "is_correct": false }, { "option_id": 4, "text": "कपड्यांशिवाय", "is_correct": false }], "answer": "पांडुरंगाशिवाय" },
+    { "question_id": 14, "question_type": "MCQ", "question": "जनाबाईंच्या जीवाला कोणाची ओढ लागली आहे?", "options": [{ "option_id": 1, "text": "विठ्ठल रुपी मातेची", "is_correct": true }, { "option_id": 2, "text": "मैत्रिणीची", "is_correct": false }, { "option_id": 3, "text": "भावाची", "is_correct": false }, { "option_id": 4, "text": "सोन्याची", "is_correct": false }], "answer": "विठ्ठल रुपी मातेची" },
+    { "question_id": 15, "question_type": "MCQ", "question": "संत सेना महाराजांच्या अभंगात कशाचा त्याग करण्यास सुचवले आहे?", "options": [{ "option_id": 1, "text": "भक्तीचा", "is_correct": false }, { "option_id": 2, "text": "धनाचा मोह आणि खोट्या नात्यांचा", "is_correct": true }, { "option_id": 3, "text": "कामाचा", "is_correct": false }, { "option_id": 4, "text": "अन्नाचा", "is_correct": false }], "answer": "धनाचा मोह आणि खोट्या नात्यांचा" },
+    { "question_id": 16, "question_type": "MCQ", "question": "जनाबाई देवाला काय होण्यास सांगत आहेत?", "options": [{ "option_id": 1, "text": "रागावण्यास", "is_correct": false }, { "option_id": 2, "text": "धावून येण्यास", "is_correct": true }, { "option_id": 3, "text": "पळून जाण्यास", "is_correct": false }, { "option_id": 4, "text": "झोपण्यास", "is_correct": false }], "answer": "धावून येण्यास" },
+    { "question_id": 17, "question_type": "MCQ", "question": "'सखा' म्हणजे काय?", "options": [{ "option_id": 1, "text": "भाऊ", "is_correct": false }, { "option_id": 2, "text": "मित्र", "is_correct": true }, { "option_id": 3, "text": "वडील", "is_correct": false }, { "option_id": 4, "text": "शिक्षक", "is_correct": false }], "answer": "मित्र" },
+    { "question_id": 18, "question_type": "MCQ", "question": "जनाबाई विठ्ठलाला काय म्हणून संबोधतात?", "options": [{ "option_id": 1, "text": "माय", "is_correct": true }, { "option_id": 2, "text": "बहीण", "is_correct": false }, { "option_id": 3, "text": "बाप", "is_correct": false }, { "option_id": 4, "text": "गुरु", "is_correct": false }], "answer": "माय" },
+    { "question_id": 19, "question_type": "MCQ", "question": "माणसे कळत असूनही काय होतात?", "options": [{ "option_id": 1, "text": "शहाणी", "is_correct": false }, { "option_id": 2, "text": "आंधळी", "is_correct": true }, { "option_id": 3, "text": "मोठी", "is_correct": false }, { "option_id": 4, "text": "श्रीमंत", "is_correct": false }], "answer": "आंधळी" },
+    { "question_id": 20, "question_type": "MCQ", "question": "कोणाविना दुसरा कोणीही जवळचा नाही?", "options": [{ "option_id": 1, "text": "पांडुरंग", "is_correct": true }, { "option_id": 2, "text": "धन", "is_correct": false }, { "option_id": 3, "text": "पुत्र", "is_correct": false }, { "option_id": 4, "text": "शत्रू", "is_correct": false }], "answer": "पांडुरंग" },
+    { "question_id": 21, "question_type": "MCQ", "question": "संत जनाबाई कोणाची दासी होती?", "options": [{ "option_id": 1, "text": "विठ्ठलाची", "is_correct": false }, { "option_id": 2, "text": "संत नामदेवांची", "is_correct": true }, { "option_id": 3, "text": "संत ज्ञानेश्वरांची", "is_correct": false }, { "option_id": 4, "text": "संत तुकारामांची", "is_correct": false }], "answer": "संत नामदेवांची" },
+    { "question_id": 22, "question_type": "MCQ", "question": "'हरणी' कोणासाठी वापरले आहे?", "options": [{ "option_id": 1, "text": "जनाबाई", "is_correct": false }, { "option_id": 2, "text": "विठ्ठल", "is_correct": true }, { "option_id": 3, "text": "पाडस", "is_correct": false }, { "option_id": 4, "text": "संत", "is_correct": false }], "answer": "विठ्ठल" },
+    { "question_id": 23, "question_type": "MCQ", "question": "पाडस म्हणजे कोणाचे पिल्लू?", "options": [{ "option_id": 1, "text": "शेळी", "is_correct": false }, { "option_id": 2, "text": "हरीण", "is_correct": true }, { "option_id": 3, "text": "गाय", "is_correct": false }, { "option_id": 4, "text": "वाघ", "is_correct": false }], "answer": "हरीण" },
+    { "question_id": 24, "question_type": "MCQ", "question": "जनाबाईंनी कोणाचे पाय धरले आहेत?", "options": [{ "option_id": 1, "text": "विठ्ठलाचे", "is_correct": true }, { "option_id": 2, "text": "आईचे", "is_correct": false }, { "option_id": 3, "text": "संतांचे", "is_correct": false }, { "option_id": 4, "text": "लोकांचे", "is_correct": false }], "answer": "विठ्ठलाचे" },
+    { "question_id": 25, "question_type": "MCQ", "question": "संत सेना महाराज कशाचा विचार करण्यास सांगतात?", "options": [{ "option_id": 1, "text": "पैशाचा", "is_correct": false }, { "option_id": 2, "text": "धनाचा उपयोग", "is_correct": true }, { "option_id": 3, "text": "खेळाचा", "is_correct": false }, { "option_id": 4, "text": "जेवणाचा", "is_correct": false }], "answer": "धनाचा उपयोग" },
+    { "question_id": 26, "question_type": "MCQ", "question": "जनाबाई कोठून वाट पाहत आहेत?", "options": [{ "option_id": 1, "text": "घरातून", "is_correct": false }, { "option_id": 2, "text": "रानातून", "is_correct": true }, { "option_id": 3, "text": "पंढरपूरहून", "is_correct": false }, { "option_id": 4, "text": "मंदिरातून", "is_correct": false }], "answer": "रानातून" },
+    { "question_id": 27, "question_type": "MCQ", "question": "अभंगातील 'पुत्र' या शब्दाचा अर्थ काय?", "options": [{ "option_id": 1, "text": "मुलगा", "is_correct": true }, { "option_id": 2, "text": "मुलगी", "is_correct": false }, { "option_id": 3, "text": "भाऊ", "is_correct": false }, { "option_id": 4, "text": "वडील", "is_correct": false }], "answer": "मुलगा" },
+    { "question_id": 28, "question_type": "MCQ", "question": "माणसे कोणाकडे धावत जातात?", "options": [{ "option_id": 1, "text": "संतांकडे", "is_correct": false }, { "option_id": 2, "text": "धनाकडे", "is_correct": true }, { "option_id": 3, "text": "देवाकडे", "is_correct": false }, { "option_id": 4, "text": "अभ्यासाकडे", "is_correct": false }], "answer": "धनाकडे" },
+    { "question_id": 29, "question_type": "MCQ", "question": "'भले' या शब्दाचा अर्थ काय?", "options": [{ "option_id": 1, "text": "चांगले", "is_correct": true }, { "option_id": 2, "text": "वाईट", "is_correct": false }, { "option_id": 3, "text": "मोठे", "is_correct": false }, { "option_id": 4, "text": "बारीक", "is_correct": false }], "answer": "चांगले" },
+    { "question_id": 30, "question_type": "MCQ", "question": "जनाबाईंच्या मते विठ्ठल कोण आहे?", "options": [{ "option_id": 1, "text": "सर्वस्व", "is_correct": true }, { "option_id": 2, "text": "शत्रू", "is_correct": false }, { "option_id": 3, "text": "पाहुणे", "is_correct": false }, { "option_id": 4, "text": "मालक", "is_correct": false }], "answer": "सर्वस्व" },
+    { "question_id": 31, "question_type": "MCQ", "question": "संत सेना महाराज काय म्हणतात?", "options": [{ "option_id": 1, "text": "विठ्ठल विठ्ठल", "is_correct": false }, { "option_id": 2, "text": "दुजा कोण", "is_correct": true }, { "option_id": 3, "text": "राम राम", "is_correct": false }, { "option_id": 4, "text": "हरी ओम", "is_correct": false }], "answer": "दुजा कोण" },
+    { "question_id": 32, "question_type": "MCQ", "question": "'वंधू' म्हणजे काय?", "options": [{ "option_id": 1, "text": "भाऊ", "is_correct": true }, { "option_id": 2, "text": "बहीण", "is_correct": false }, { "option_id": 3, "text": "शत्रू", "is_correct": false }, { "option_id": 4, "text": "मित्र", "is_correct": false }], "answer": "भाऊ" },
+    { "question_id": 33, "question_type": "MCQ", "question": "जनाबाई देवाला कोठे पाहत आहेत?", "options": [{ "option_id": 1, "text": "दिशीं दिशीं", "is_correct": true }, { "option_id": 2, "text": "आकाशात", "is_correct": false }, { "option_id": 3, "text": "पाताळात", "is_correct": false }, { "option_id": 4, "text": "मूर्तीत", "is_correct": false }], "answer": "दिशीं दिशीं" },
+    { "question_id": 34, "question_type": "MCQ", "question": "खऱ्या भक्तीत काय नसते?",
+      "options": [
+        { "option_id": 1, "text": "स्वार्थ", "is_correct": true },
+        { "option_id": 2, "text": "प्रेम", "is_correct": false },
+        { "option_id": 3, "text": "श्रद्धा", "is_correct": false },
+        { "option_id": 4, "text": "शांती", "is_correct": false }
+      ],
+      "answer": "स्वार्थ"
+    },
+    { "question_id": 35, "question_type": "MCQ", "question": "संत जनाबाईंना पांडुरंग कसा भेटला?", "options": [{ "option_id": 1, "text": "भक्तीने", "is_correct": true }, { "option_id": 2, "text": "पैशाने", "is_correct": false }, { "option_id": 3, "text": "अभ्यासाने", "is_correct": false }, { "option_id": 4, "text": "सहलीने", "is_correct": false }], "answer": "भक्तीने" },
+    { "question_id": 36, "question_type": "MCQ", "question": "अभंगात 'स्त्रीया' कोणाशी संबंधित आहेत?", "options": [{ "option_id": 1, "text": "नातलग", "is_correct": true }, { "option_id": 2, "text": "दासी", "is_correct": false }, { "option_id": 3, "text": "देवाची रूपे", "is_correct": false }, { "option_id": 4, "text": "संतांच्या बायका", "is_correct": false }], "answer": "नातलग" },
+    { "question_id": 37, "question_type": "MCQ", "question": "विठ्ठल नामाचा काय होतो?", "options": [{ "option_id": 1, "text": "विस्मरण", "is_correct": false }, { "option_id": 2, "text": "जयघोष", "is_correct": true }, { "option_id": 3, "text": "तिरस्कार", "is_correct": false }, { "option_id": 4, "text": "कंटाळा", "is_correct": false }], "answer": "जयघोष" },
+    { "question_id": 38, "question_type": "MCQ", "question": "पांडुरंगाच्या दर्शनाने काय मिळते?", "options": [{ "option_id": 1, "text": "शांती", "is_correct": true }, { "option_id": 2, "text": "भूक", "is_correct": false }, { "option_id": 3, "text": "राग", "is_correct": false }, { "option_id": 4, "text": "तहान", "is_correct": false }], "answer": "शांती" },
+    { "question_id": 39, "question_type": "MCQ", "question": "जनाबाईंच्या अभंगात कोणता रस आढळतो?", "options": [{ "option_id": 1, "text": "वीर रस", "is_correct": false }, { "option_id": 2, "text": "भक्ती रस", "is_correct": true }, { "option_id": 3, "text": "हास्य रस", "is_correct": false }, { "option_id": 4, "text": "करुण रस", "is_correct": false }], "answer": "भक्ती रस" },
+    { "question_id": 40, "question_type": "MCQ", "question": "सेना महाराजांनी कोणाला महत्त्व दिले आहे?", "options": [{ "option_id": 1, "text": "विठ्ठल भक्तीला", "is_correct": true }, { "option_id": 2, "text": "युद्धाला", "is_correct": false }, { "option_id": 3, "text": "शेतीला", "is_correct": false }, { "option_id": 4, "text": "शिक्षणाला", "is_correct": false }], "answer": "विठ्ठल भक्तीला" },
+    { "question_id": 41, "question_type": "MCQ", "question": "जनाबाई विठ्ठलाला काय खायला देतात?", "options": [{ "option_id": 1, "text": "भाकर", "is_correct": true }, { "option_id": 2, "text": "मिठाई", "is_correct": false }, { "option_id": 3, "text": "दूध", "is_correct": false }, { "option_id": 4, "text": "फळे", "is_correct": false }], "answer": "भाकर" },
+    { "question_id": 42, "question_type": "MCQ", "question": "'दुजा' म्हणजे काय?", "options": [{ "option_id": 1, "text": "दुसरा", "is_correct": true }, { "option_id": 2, "text": "पहिला", "is_correct": false }, { "option_id": 3, "text": "अंतिम", "is_correct": false }, { "option_id": 4, "text": "कोणीही नाही", "is_correct": false }], "answer": "दुसरा" },
+    { "question_id": 43, "question_type": "MCQ", "question": "जनाबाई कोणाच्या सहवासात राहत होत्या?", "options": [{ "option_id": 1, "text": "संतांच्या", "is_correct": true }, { "option_id": 2, "text": "राजांच्या", "is_correct": false }, { "option_id": 3, "text": "चोरांच्या", "is_correct": false }, { "option_id": 4, "text": "एकट्याच", "is_correct": false }], "answer": "संतांच्या" },
+    { "question_id": 44, "question_type": "MCQ", "question": "विठ्ठल कोणाचा कैवारी आहे?", "options": [{ "option_id": 1, "text": "भक्तांचा", "is_correct": true }, { "option_id": 2, "text": "श्रीमंतांचा", "is_correct": false }, { "option_id": 3, "text": "आळशी लोकांचा", "is_correct": false }, { "option_id": 4, "text": "स्वार्थी लोकांचा", "is_correct": false }], "answer": "भक्तांचा" },
+    { "question_id": 45, "question_type": "MCQ", "question": "अभंगाची भाषा कोणती आहे?", "options": [{ "option_id": 1, "text": "मराठी", "is_correct": true }, { "option_id": 2, "text": "हिंदी", "is_correct": false }, { "option_id": 3, "text": "संस्कृत", "is_correct": false }, { "option_id": 4, "text": "इंग्रजी", "is_correct": false }], "answer": "मराठी" },
+    { "question_id": 46, "question_type": "MCQ", "question": "जनाबाई कोठे पाणी भरत असे?", "options": [{ "option_id": 1, "text": "नदीवर", "is_correct": true }, { "option_id": 2, "text": "विहिरीवर", "is_correct": false }, { "option_id": 3, "text": "टाकीवर", "is_correct": false }, { "option_id": 4, "text": "समुद्रावर", "is_correct": false }], "answer": "नदीवर" },
+    { "question_id": 47, "question_type": "MCQ", "question": "पांडुरंग कोठे राहतो?", "options": [{ "option_id": 1, "text": "पंढरपुरात", "is_correct": true }, { "option_id": 2, "text": "पुण्यात", "is_correct": false }, { "option_id": 3, "text": "नांदेडात", "is_correct": false }, { "option_id": 4, "text": "दिल्लीत", "is_correct": false }], "answer": "पंढरपुरात" },
+    { "question_id": 48, "question_type": "MCQ", "question": "भक्तीचे साधन काय आहे?", "options": [{ "option_id": 1, "text": "नामस्मरण", "is_correct": true }, { "option_id": 2, "text": "जेवण", "is_correct": false }, { "option_id": 3, "text": "झोप", "is_correct": false }, { "option_id": 4, "text": "खरेदी", "is_correct": false }], "answer": "नामस्मरण" },
+    { "question_id": 49, "question_type": "MCQ", "question": "जनाबाईंच्या मते खरा आधार कोण?", "options": [{ "option_id": 1, "text": "विठ्ठल", "is_correct": true }, { "option_id": 2, "text": "काठी", "is_correct": false }, { "option_id": 3, "text": "घर", "is_correct": false }, { "option_id": 4, "text": "पैसा", "is_correct": false }], "answer": "विठ्ठल" },
+    { "question_id": 50, "question_type": "MCQ", "question": "सेना महाराज कोण होते?", "options": [{ "option_id": 1, "text": "संत", "is_correct": true }, { "option_id": 2, "text": "शेतकरी", "is_correct": false }, { "option_id": 3, "text": "व्यापारी", "is_correct": false }, { "option_id": 4, "text": "सैनिक", "is_correct": false }], "answer": "संत" },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "संत जनाबाईंनी स्वतःला काय म्हटले आहे?",
+      "answer": "संत जनाबाईंनी स्वतःला संतांची दासी आणि विठ्ठलाचे मुके पाडस म्हटले आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आंधळ्याची काठी कोठे अडकली आहे?",
+      "answer": "आंधळ्याची काठी एका बेटावर अडकली आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "जनाबाईंनी देवाला कोणत्या रूपात साद घातली आहे?",
+      "answer": "जनाबाईंनी देवाला 'आई' किंवा 'जननी' या रूपात साद घातली आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाडस कोठे चुकले आहे?",
+      "answer": "पाडस एका वनात (रानी) चुकले आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सेना महाराज कोणाविना सखा नाही असे म्हणतात?",
+      "answer": "सेना महाराज पांडुरंगाशिवाय दुसरा कोणीही खरा सखा नाही असे म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "जनाबाई संतांना कोणती विनंती करत आहेत?",
+      "answer": "जनाबाई संतांना माझी आणि विठ्ठल रुपी मातेची भेट घालून द्या, अशी विनंती करत आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "खोट्या नात्यांबद्दल सेना महाराज काय म्हणतात?",
+      "answer": "सेना महाराज म्हणतात की पत्नी, मुले आणि भाऊ यांच्याशी तुमचे खरे नाते कायमचे नसते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "जनाबाईंच्या अभंगात विठ्ठलाला काय म्हटले आहे?",
+      "answer": "जनाबाईंच्या अभंगात विठ्ठलाला आंधळ्याची काठी आणि हरणी म्हटले आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "माणसे कळत असूनही आंधळी का होतात?",
+      "answer": "माणसे धनाच्या आणि संसाराच्या मोहात पडल्यामुळे सर्व काही माहीत असूनही आंधळी होतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "जनाबाई विठ्ठलाला काय खायला देतात?",
+      "answer": "जनाबाई विठ्ठलाला प्रेमाने भाकर खायला देतात."
+    },
+    { "question_id": 61, "question_type": "SHORT", "question": "जनाबाई कोणाच्या घरी कामाला होत्या?", "answer": "जनाबाई संत नामदेवांच्या घरी कामाला होत्या." },
+    { "question_id": 62, "question_type": "SHORT", "question": "अभंगात 'जननी' या शब्दाचा अर्थ काय आहे?", "answer": "'जननी' या शब्दाचा अर्थ जन्म देणारी आई असा आहे." },
+    { "question_id": 63, "question_type": "SHORT", "question": "विठ्ठल कोणाचा रक्षणकर्ता आहे?", "answer": "विठ्ठल हा आपल्या भक्तांचा आणि जनाबाईंसारख्या दीनांचा रक्षणकर्ता आहे." },
+    { "question_id": 64, "question_type": "SHORT", "question": "सेना महाराजांनी धनाचा विचार करण्यास का सांगितले आहे?", "answer": "कारण धन संकटाच्या वेळी कोणाच्याही कामाला येत नाही, असा विचार त्यांनी करायला सांगितला आहे." },
+    { "question_id": 65, "question_type": "SHORT", "question": "जनाबाईंना विठ्ठलाशिवाय दुसरे काय दिसत नाही?", "answer": "जनाबाईंना विठ्ठलाशिवाय जगात दुसरे कोणतेही सत्य दिसत नाही." },
+    { "question_id": 66, "question_type": "SHORT", "question": "पाडस कोणासाठी व्याकुळ झाले आहे?", "answer": "पाडस आपल्या हरणी रुपी आईसाठी व्याकुळ झाले आहे." },
+    { "question_id": 67, "question_type": "SHORT", "question": "विठ्ठलाचे मंदिर कोठे आहे?", "answer": "विठ्ठलाचे प्रसिद्ध मंदिर सोलापूर जिल्ह्यातील पंढरपूर येथे आहे." },
+    { "question_id": 68, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला कशाची उपमा दिली आहे?", "answer": "जनाबाईंनी विठ्ठलाला हरणीची आणि आंधळ्याच्या काठीची उपमा दिली आहे." },
+    { "question_id": 69, "question_type": "SHORT", "question": "संत सेना महाराज कशावर भर देतात?", "answer": "संत सेना महाराज विठ्ठलाच्या भक्तीवर आणि संसारातील असत्यतेवर भर देतात." },
+    { "question_id": 70, "question_type": "SHORT", "question": "जनाबाई विठ्ठलाला धावून येण्यास का सांगतात?", "answer": "कारण त्यांचा जीव व्याकुळ झाला आहे आणि त्यांना विठ्ठल रुपी आईची भेट हवी आहे." },
+    { "question_id": 71, "question_type": "SHORT", "question": "सेना महाराजांच्या मते खरा नातेवाईक कोण?", "answer": "सेना महाराजांच्या मते पांडुरंग हाच एकमेव खरा नातेवाईक आणि सखा आहे." },
+    { "question_id": 72, "question_type": "SHORT", "question": "जनाबाई कोणत्या संतांच्या शिष्या होत्या?", "answer": "जनाबाई संत नामदेवांच्या शिष्या होत्या." },
+    { "question_id": 73, "question_type": "SHORT", "question": "अभंगातील 'सखा' म्हणजे काय?", "answer": "'सखा' म्हणजे जीवाभावाचा मित्र." },
+    { "question_id": 74, "question_type": "SHORT", "question": "जनाबाई देवाची कशी भक्ती करत?", "answer": "जनाबाई आपली सर्व घरकामं करताना देवाचे नामस्मरण करत भक्ती करत असत." },
+    { "question_id": 75, "question_type": "SHORT", "question": "सेना महाराजांनी कशाला 'भले' म्हटले आहे?", "answer": "धनाचा आणि संसाराचा नीट विचार करून विठ्ठलाची भक्ती करण्याला त्यांनी भले म्हटले आहे." },
+    { "question_id": 76, "question_type": "SHORT", "question": "जनाबाई विठ्ठलाला काय विनवणी करतात?", "answer": "जनाबाई विठ्ठलाला 'माझी भेट घे' आणि 'माझ्याकडे धावून ये' अशी विनवणी करतात." },
+    { "question_id": 77, "question_type": "SHORT", "question": "संत सेना महाराज कोणत्या शतकात होऊन गेले?", "answer": "संत सेना महाराज हे १३ व्या शतकाच्या आसपास होऊन गेलेले एक महान संत होते." },
+    { "question_id": 78, "question_type": "SHORT", "question": "जनाबाई कोणाचे पाय धरून बसल्या आहेत?", "answer": "जनाबाई विठ्ठलाचे पाय धरून त्याची भक्ती करत बसल्या आहेत." },
+    { "question_id": 79, "question_type": "SHORT", "question": "अभंग म्हणजे काय?", "answer": "ज्याचा भंग होत नाही, म्हणजे जे काव्य विठ्ठलाच्या भक्तीत गायले जाते, त्याला अभंग म्हणतात." },
+    { "question_id": 80, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला काय म्हणून हाक मारली आहे?", "answer": "जनाबाईंनी विठ्ठलाला 'पंढरीच्या चोरा' आणि 'आई' म्हणून हाक मारली आहे." },
+    { "question_id": 81, "question_type": "SHORT", "question": "सेना महाराजांच्या मते कोण आंधळे होतात?", "answer": "जे लोक केवळ धनामागे लागतात आणि देवाला विसरतात, ते आंधळे होतात." },
+    { "question_id": 82, "question_type": "SHORT", "question": "जनाबाई कोणत्या मंदिरात भक्ती करत असत?", "answer": "जनाबाई पंढरपूरच्या विठ्ठल मंदिरात भक्ती करत असत." },
+    { "question_id": 83, "question_type": "SHORT", "question": "पाडस आपला मार्ग कोठे शोधत आहे?", "answer": "पाडस रानात आपला मार्ग शोधत आहे." },
+    { "question_id": 84, "question_type": "SHORT", "question": "विठ्ठल भक्तांसाठी काय करतो?", "answer": "विठ्ठल भक्तांच्या हाकेला धावून येतो आणि त्यांना मायेचा आधार देतो." },
+    { "question_id": 85, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला 'दासी' का म्हटले आहे?", "answer": "कारण त्या स्वतःला विठ्ठलाची आणि त्याच्या भक्तांची सेवा करणारी मानतात." },
+    { "question_id": 86, "question_type": "SHORT", "question": "सेना महाराज काय जाणून घेण्यास सांगतात?", "answer": "सर्व काही माहीत असूनही लोक जे चुकतात, ते सत्य जाणून घेण्यास सांगतात." },
+    { "question_id": 87, "question_type": "SHORT", "question": "अभंगात 'दुजा' शब्दाचा विरुद्धार्थी शब्द काय आहे?", "answer": "'दुजा' म्हणजे दुसरा, त्याचा विरुद्धार्थी शब्द 'एकटा' किंवा 'स्वतः' असा होऊ शकतो (संदर्भाप्रमाणे)." },
+    { "question_id": 88, "question_type": "SHORT", "question": "जनाबाईंना विठ्ठलाची भेट का हवी आहे?", "answer": "कारण त्या विठ्ठलाच्या प्रेमासाठी आसुसलेल्या आहेत आणि विठ्ठलाशिवाय त्यांचा जीव व्याकुळ झाला आहे." },
+    { "question_id": 89, "question_type": "SHORT", "question": "विठ्ठल नामस्मरणाचे काय महत्त्व आहे?", "answer": "विठ्ठल नामस्मरणाने मनाला शांती मिळते आणि जीवनाचा मार्ग सुलभ होतो." },
+    { "question_id": 90, "question_type": "SHORT", "question": "जनाबाईंच्या अभंगात 'आई' हे संबोधन कोणासाठी आहे?", "answer": "जनाबाईंच्या अभंगात 'आई' हे संबोधन विठ्ठलासाठी आहे." },
+    { "question_id": 91, "question_type": "SHORT", "question": "अभंगातील काव्यप्रकार कोणता?", "answer": "हा काव्यप्रकार ओवीबद्ध आणि भक्तीपूर्ण अभंग आहे." },
+    { "question_id": 92, "question_type": "SHORT", "question": "जनाबाईंनी स्वतःला 'मुके' का म्हटले आहे?", "answer": "कारण देवासमोर शब्द अपुरे पडतात आणि त्या निरागसपणे भक्ती करतात." },
+    { "question_id": 93, "question_type": "SHORT", "question": "पांडुरंगाला दुसरे कोणते नाव आहे?", "answer": "पांडुरंगाला विठ्ठल, विठोबा किंवा विठू माऊली असेही म्हणतात." },
+    { "question_id": 94, "question_type": "SHORT", "question": "सेना महाराजांच्या मते पांडुरंगाशिवाय कोण जवळचे नाही?", "answer": "पांडुरंगाशिवाय आपला खरा आत्मा किंवा सखा दुसरा कोणीही नाही." },
+    { "question_id": 95, "question_type": "SHORT", "question": "जनाबाईंच्या अभंगातून कोणती भावना व्यक्त होते?", "answer": "जनाबाईंच्या अभंगातून विठ्ठलाप्रती असलेली ओढ आणि निस्सीम भक्ती व्यक्त होते." },
+    { "question_id": 96, "question_type": "SHORT", "question": "विठ्ठलाला कशाची आवड आहे?", "answer": "विठ्ठलाला आपल्या भक्तांच्या खऱ्या प्रेमाची आणि नामस्मरणाची आवड आहे." },
+    { "question_id": 97, "question_type": "SHORT", "question": "अभंगात 'पुत्र' म्हणजे कोण?", "answer": "येथे पुत्र म्हणजे घरातील मुले किंवा अपत्ये असा अर्थ आहे." },
+    { "question_id": 98, "question_type": "SHORT", "question": "जनाबाई कोठे जन्मल्या होत्या?", "answer": "संत जनाबाईंचा जन्म परभणी जिल्ह्यातील गंगाखेड येथे झाला होता." },
+    { "question_id": 99, "question_type": "SHORT", "question": "सेना महाराज काय कामाला महत्त्व देतात?", "answer": "सेना महाराज आपले विहित कर्म करत असतानाच भक्ती करण्याला महत्त्व देतात." },
+    { "question_id": 100, "question_type": "SHORT", "question": "जनाबाईंना विठ्ठल कोठे भेटला?", "answer": "जनाबाईंना विठ्ठल त्यांच्या रोजच्या कामात आणि त्यांच्या अंतःकरणात भेटला." },
+    { "question_id": 101, "question_type": "SHORT", "question": "विठ्ठलाचे रूप कसे आहे?", "answer": "विठ्ठलाचे रूप सावळं, कमरेवर हात असलेले आणि विटेवर उभे असलेले असे आहे." },
+    { "question_id": 102, "question_type": "SHORT", "question": "जनाबाईंच्या अभंगात कशाचा ध्यास आहे?", "answer": "जनाबाईंच्या अभंगात केवळ आणि केवळ विठ्ठल दर्शनाचा ध्यास आहे." },
+    { "question_id": 103, "question_type": "SHORT", "question": "सेना महाराजांनी 'सखा' कोणाला म्हटले आहे?", "answer": "सेना महाराजांनी पांडुरंगालाच आपला खरा सखा म्हटले आहे." },
+    { "question_id": 104, "question_type": "SHORT", "question": "अभंगात 'काठी' हे कशाचे प्रतीक आहे?", "answer": "'काठी' हे आधाराचे प्रतीक आहे." },
+    { "question_id": 105, "question_type": "SHORT", "question": "जनाबाईंनी देवाला 'माय' का म्हटले?", "answer": "कारण आई जशी आपल्या लेकराची काळजी घेते, तसा विठ्ठल त्यांची काळजी घेतो." },
+    { "question_id": 106, "question_type": "SHORT", "question": "पांडुरंगाचे भक्त कोठे एकत्र येतात?", "answer": "पांडुरंगाचे भक्त वारीच्या निमित्ताने पंढरपुरात एकत्र येतात." },
+    { "question_id": 107, "question_type": "SHORT", "question": "अभंगातील 'भलें' म्हणजे काय?", "answer": "भलें म्हणजे उत्तम किंवा कल्याणकारी." },
+    { "question_id": 108, "question_type": "SHORT", "question": "जनाबाईंच्या आयुष्यातील ध्येय काय होते?", "answer": "विठ्ठलाची सेवा करणे आणि त्याच्या नामात दंग राहणे हेच त्यांच्या आयुष्याचे ध्येय होते." },
+    { "question_id": 109, "question_type": "SHORT", "question": "सेना महाराज कशाचा त्याग करायला सांगतात?", "answer": "सेना महाराज खोट्या मोह-मायेचा आणि धनाच्या लोभाचा त्याग करायला सांगतात." },
+    { "question_id": 110, "question_type": "SHORT", "question": "जनाबाई कोणाशी संवाद साधत आहेत?", "answer": "जनाबाई विठ्ठलाशी आणि संतांशी संवाद साधत आहेत." },
+    { "question_id": 111, "question_type": "SHORT", "question": "अभंगात 'रानी' म्हणजे काय?", "answer": "रानी म्हणजे जंगल किंवा वन." },
+    { "question_id": 112, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला कोठे शोधले?", "answer": "जनाबाईंनी विठ्ठलाला आपल्या कामात, भजनात आणि प्रत्येक दिशेला शोधले." },
+    { "question_id": 113, "question_type": "SHORT", "question": "सेना महाराजांच्या अभंगाचा मुख्य संदेश काय?", "answer": "ईश्वराची भक्तीच सर्वश्रेष्ठ आहे आणि सांसारिक नाती क्षणभंगुर आहेत, हा मुख्य संदेश आहे." },
+    { "question_id": 114, "question_type": "SHORT", "question": "जनाबाईंना 'संत' का म्हटले जाते?", "answer": "कारण त्यांची भक्ती निस्वार्थी होती आणि त्यांनी समाजाला भक्तीचा मार्ग दाखवला." },
+    { "question_id": 115, "question_type": "SHORT", "question": "विठ्ठलाचे वाहन कोणते मानले जाते?", "answer": "विठ्ठलाचे वाहन गरुड मानले जाते." },
+    { "question_id": 116, "question_type": "SHORT", "question": "अभंगात 'दासी' शब्दाचा अर्थ काय?", "answer": "दासी म्हणजे सेवा करणारी स्त्री." },
+    { "question_id": 117, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला काय म्हणून ओळखावे असे म्हटले आहे?", "answer": "जनाबाईंनी विठ्ठलाला आपला एकमेव आधार म्हणून ओळखावे असे सुचवले आहे." },
+    { "question_id": 118, "question_type": "SHORT", "question": "विठ्ठलाच्या नामाचा जप कोणी केला?", "answer": "विठ्ठलाच्या नामाचा जप संत जनाबाई, सेना महाराज आणि सर्व वारकरी संतांनी केला." },
+    { "question_id": 119, "question_type": "SHORT", "question": "अभंगात 'बंधू' म्हणजे काय?", "answer": "बंधू म्हणजे भाऊ." },
+    { "question_id": 120, "question_type": "SHORT", "question": "जनाबाईंना विठ्ठलाची ओढ का लागली?", "answer": "कारण त्या विठ्ठलाला आपली आई मानत असत आणि त्याच्या दर्शनाशिवाय त्यांना चैन पडत नसे." },
+    { "question_id": 121, "question_type": "SHORT", "question": "सेना महाराजांनी 'दुजा' कोणाला म्हटले आहे?", "answer": "पांडुरंगाव्यतिरिक्त असणाऱ्या इतर कोणत्याही व्यक्तीला किंवा देवाला त्यांनी 'दुजा' म्हटले आहे." },
+    { "question_id": 122, "question_type": "SHORT", "question": "विठ्ठल कोणाचे रक्षण करतो?", "answer": "विठ्ठल शरणागत आलेल्या सर्व भक्तांचे रक्षण करतो." },
+    { "question_id": 123, "question_type": "SHORT", "question": "जनाबाईंची समाधी कोठे आहे?", "answer": "संत जनाबाईंची समाधी पंढरपूर येथे विठ्ठल मंदिराच्या महाद्वारात आहे." },
+    { "question_id": 124, "question_type": "SHORT", "question": "अभंगातून काय शिकायला मिळते?", "answer": "अभंगातून निस्सीम भक्ती, नम्रता आणि ईश्वरावरील विश्वास शिकायला मिळतो." },
+    { "question_id": 125, "question_type": "SHORT", "question": "सेना महाराज कोणत्या देवाचे नाव घेतात?", "answer": "सेना महाराज पांडुरंगाचे (विठ्ठलाचे) नाव घेतात." },
+    { "question_id": 126, "question_type": "SHORT", "question": "जनाबाई विठ्ठलाला काय विनंती करतात?", "answer": "त्या म्हणतात की आता माझा प्राण कंठाशी आला आहे, तू धावून ये." },
+    { "question_id": 127, "question_type": "SHORT", "question": "अभंगात 'पाय' शब्दाचा अर्थ काय?", "answer": "येथे पाय म्हणजे देवाचे चरण असा अर्थ आहे." },
+    { "question_id": 128, "question_type": "SHORT", "question": "जनाबाईंना देवाची भेट कोठे झाली?", "answer": "जनाबाईंना देवाची भेट पंढरीत झाली." },
+    { "question_id": 129, "question_type": "SHORT", "question": "सेना महाराजांनी कोणाला सावध केले आहे?", "answer": "सेना महाराजांनी संसारी मानवांना सावध केले आहे." },
+    { "question_id": 130, "question_type": "SHORT", "question": "विठ्ठलाचे आवडते फूल कोणते?", "answer": "विठ्ठलाला तुळशीची माळ आणि तुळशीची पाने अत्यंत प्रिय आहेत." },
+    { "question_id": 131, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला कोणाचे पाडस म्हटले आहे?", "answer": "जनाबाईंनी स्वतःला विठ्ठलाचे (हरणीचे) पाडस म्हटले आहे." },
+    { "question_id": 132, "question_type": "SHORT", "question": "अभंगातील 'प्राण' शब्दाचा अर्थ काय?", "answer": "प्राण म्हणजे जीव." },
+    { "question_id": 133, "question_type": "SHORT", "question": "विठ्ठल भक्तीचा मार्ग कोणी दाखवला?", "answer": "विठ्ठल भक्तीचा मार्ग ज्ञानेश्वर, नामदेव आणि इतर संतांनी दाखवला." },
+    { "question_id": 134, "question_type": "SHORT", "question": "सेना महाराज पांडुरंगाला काय मानतात?", "answer": "सेना महाराज पांडुरंगाला आपला सर्वस्व आणि एकमेव रक्षणकर्ता मानतात." },
+    { "question_id": 135, "question_type": "SHORT", "question": "जनाबाई विठ्ठलाला कोठे पाहतात?", "answer": "जनाबाई विठ्ठलाला प्रत्येक कणाकणात पाहतात." },
+    { "question_id": 136, "question_type": "SHORT", "question": "अभंगात 'सखा' कोणाला म्हटले आहे?", "answer": "पांडुरंगाला सखा म्हटले आहे." },
+    { "question_id": 137, "question_type": "SHORT", "question": "जनाबाईंचा जन्म कोणत्या कुटुंबात झाला होता?", "answer": "जनाबाईंचा जन्म एका वारकरी कुटुंबात झाला होता." },
+    { "question_id": 138, "question_type": "SHORT", "question": "विठ्ठलाच्या मूर्तीचा रंग कोणता?", "answer": "विठ्ठलाच्या मूर्तीचा रंग सावळा (काळा) आहे." },
+    { "question_id": 139, "question_type": "SHORT", "question": "सेना महाराजांनी 'विचार' कशाचा करायला सांगितला आहे?", "answer": "आपल्या जीवनाचा आणि धनाच्या उपयोगाचा विचार करायला सांगितला आहे." },
+    { "question_id": 140, "question_type": "SHORT", "question": "जनाबाई विठ्ठलाला कोणत्या नावाने हाक मारतात?", "answer": "जनाबाई विठ्ठलाला 'विठू', 'माय' आणि 'पांडुरंग' या नावाने हाक मारतात." },
+    { "question_id": 141, "question_type": "SHORT", "question": "अभंगाची रचना कशी असते?", "answer": "अभंगाची रचना लयबद्ध आणि यमक जुळणारी असते." },
+    { "question_id": 142, "question_type": "SHORT", "question": "विठ्ठल कोणाच्या हाकेला धावतो?", "answer": "विठ्ठल आपल्या खऱ्या आणि आर्जवी भक्ताच्या हाकेला धावतो." },
+    { "question_id": 143, "question_type": "SHORT", "question": "सेना महाराजांनी कोणाला श्रेष्ठ मानले आहे?", "answer": "सेना महाराजांनी भक्तीला आणि पांडुरंगाला श्रेष्ठ मानले आहे." },
+    { "question_id": 144, "question_type": "SHORT", "question": "जनाबाईंनी विठ्ठलाला 'आई' का म्हटले?", "answer": "कारण त्यांना विठ्ठलाच्या रूपात मातृत्वाचे प्रेम जाणवते." },
+    { "question_id": 145, "question_type": "SHORT", "question": "अभंगात 'पाडस' कशाचे प्रतीक आहे?", "answer": "'पाडस' हे निरागस भक्ताचे प्रतीक आहे." },
+    { "question_id": 146, "question_type": "SHORT", "question": "विठ्ठलाची वारी कधी असते?", "answer": "विठ्ठलाची मुख्य वारी आषाढी आणि कार्तिकी एकादशीला असते." },
+    { "question_id": 147, "question_type": "SHORT", "question": "जनाबाईंच्या अभंगात 'दासी जनी' असा उल्लेख का येतो?", "answer": "कारण त्या संत नामदेवांच्या घरी स्वतःला दासी म्हणून वागवत असत." },
+    { "question_id": 148, "question_type": "SHORT", "question": "सेना महाराज काय म्हणतात?", "answer": "सेना महाराज म्हणतात की देवाशिवाय आपला दुसरा कोणीही सखा नाही." },
+    { "question_id": 149, "question_type": "SHORT", "question": "विठ्ठलाला 'पांडुरंग' का म्हणतात?", "answer": "पांडुरंग हे विठ्ठलाचे एक नाव आहे ज्याचा अर्थ शुभ्र किंवा पांढरा असाही होतो, परंतु भक्तीत ते विठ्ठलासाठी वापरले जाते." },
+    { "question_id": 150, "question_type": "SHORT", "question": "जनाबाईंच्या अभंगाचा शेवट कसा होतो?", "answer": "जनाबाईंच्या अभंगाचा शेवट विठ्ठलाला शरण जाऊन आणि त्याची आळवणी करून होतो." }
+  ]
+}

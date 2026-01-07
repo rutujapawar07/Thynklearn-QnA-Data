@@ -1,0 +1,377 @@
+{
+  "chapter_id": 25,
+  "chapter_name": "ढोल",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ढोल हे कोणत्या प्रकारचे वाद्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "तंतू वाद्य", "is_correct": false },
+        { "option_id": 2, "text": "चर्म वाद्य", "is_correct": true },
+        { "option_id": 3, "text": "सुषिर वाद्य", "is_correct": false },
+        { "option_id": 4, "text": "इलेक्ट्रॉनिक वाद्य", "is_correct": false }
+      ],
+      "answer": "चर्म वाद्य"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आदिवासी संस्कृतीत कशाला खूप महत्त्व आहे?",
+      "options": [
+        { "option_id": 1, "text": "ढोलाला", "is_correct": true },
+        { "option_id": 2, "text": "मोबाईलला", "is_correct": false },
+        { "option_id": 3, "text": "संगणकाला", "is_correct": false },
+        { "option_id": 4, "text": "मोटारीला", "is_correct": false }
+      ],
+      "answer": "ढोलाला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ढोल कशापासून बनवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 2, "text": "लाकूड आणि चामडे", "is_correct": true },
+        { "option_id": 3, "text": "काच", "is_correct": false },
+        { "option_id": 4, "text": "कापड", "is_correct": false }
+      ],
+      "answer": "लाकूड आणि चामडे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ढोल वाजवणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गायक", "is_correct": false },
+        { "option_id": 2, "text": "ढोली", "is_correct": true },
+        { "option_id": 3, "text": "नर्तक", "is_correct": false },
+        { "option_id": 4, "text": "लेखक", "is_correct": false }
+      ],
+      "answer": "ढोली"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सण-उत्सवात आनंदाचे वातावरण कशामुळे निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "शांततेमुळे", "is_correct": false },
+        { "option_id": 2, "text": "ढोलाच्या आवाजामुळे", "is_correct": true },
+        { "option_id": 3, "text": "पावसामुळे", "is_correct": false },
+        { "option_id": 4, "text": "रात्रीमुळे", "is_correct": false }
+      ],
+      "answer": "ढोलाच्या आवाजामुळे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ढोल कशाच्या सहाय्याने वाजवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "काठी", "is_correct": true },
+        { "option_id": 2, "text": "पेन", "is_correct": false },
+        { "option_id": 3, "text": "चमचा", "is_correct": false },
+        { "option_id": 4, "text": "दोरी", "is_correct": false }
+      ],
+      "answer": "काठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ढोलाचा आवाज कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "बारीक", "is_correct": false },
+        { "option_id": 2, "text": "टीपणीसारखा", "is_correct": false },
+        { "option_id": 3, "text": "गंभीर आणि मोठा", "is_correct": true },
+        { "option_id": 4, "text": "गोड", "is_correct": false }
+      ],
+      "answer": "गंभीर आणि मोठा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ढोल हे वाद्य कोणत्या प्रसंगी वाजवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "दुःखाच्या वेळी", "is_correct": false },
+        { "option_id": 2, "text": "सण आणि उत्सवात", "is_correct": true },
+        { "option_id": 3, "text": "झोपताना", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यास करताना", "is_correct": false }
+      ],
+      "answer": "सण आणि उत्सवात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ढोल तयार करण्यासाठी कोणत्या प्राण्याचे चामडे वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "बैल किंवा म्हैस", "is_correct": true },
+        { "option_id": 2, "text": "कुत्रा", "is_correct": false },
+        { "option_id": 3, "text": "मांजर", "is_correct": false },
+        { "option_id": 4, "text": "उंदीर", "is_correct": false }
+      ],
+      "answer": "बैल किंवा म्हैस"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ढोलाच्या ठोक्यावर लोक काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "झोपतात", "is_correct": false },
+        { "option_id": 2, "text": "रडतात", "is_correct": false },
+        { "option_id": 3, "text": "नृत्य करतात", "is_correct": true },
+        { "option_id": 4, "text": "मौन धरतात", "is_correct": false }
+      ],
+      "answer": "नृत्य करतात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लहान ढोलाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नगारा", "is_correct": false },
+        { "option_id": 2, "text": "ढोलकी", "is_correct": true },
+        { "option_id": 3, "text": "मृदंग", "is_correct": false },
+        { "option_id": 4, "text": "तबला", "is_correct": false }
+      ],
+      "answer": "ढोलकी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ढोलाला मध्यभागी कशाने वेढलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "दोरीने", "is_correct": true },
+        { "option_id": 2, "text": "तारांनी", "is_correct": false },
+        { "option_id": 3, "text": "पट्टीने", "is_correct": false },
+        { "option_id": 4, "text": "काचांनी", "is_correct": false }
+      ],
+      "answer": "दोरीने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ढोलाचे दोन भाग कशाने बनलेले असतात?",
+      "options": [
+        { "option_id": 1, "text": "कागदाने", "is_correct": false },
+        { "option_id": 2, "text": "चामड्याने", "is_correct": true },
+        { "option_id": 3, "text": "लोखंडाने", "is_correct": false },
+        { "option_id": 4, "text": "काचेने", "is_correct": false }
+      ],
+      "answer": "चामड्याने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ढोलाचा नाद कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "मंद", "is_correct": false },
+        { "option_id": 2, "text": "घुमणारा", "is_correct": true },
+        { "option_id": 3, "text": "अस्पष्ट", "is_correct": false },
+        { "option_id": 4, "text": "कर्कश", "is_correct": false }
+      ],
+      "answer": "घुमणारा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गणपती उत्सवात कोणते वाद्य प्रामुख्याने वाजवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "ढोल-ताशा", "is_correct": true },
+        { "option_id": 2, "text": "गिटार", "is_correct": false },
+        { "option_id": 3, "text": "व्हायोलिन", "is_correct": false },
+        { "option_id": 4, "text": "बासरी", "is_correct": false }
+      ],
+      "answer": "ढोल-ताशा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ढोल कोणत्या झाडाच्या लाकडापासून बनवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "साग किंवा खैर", "is_correct": true },
+        { "option_id": 2, "text": "नारळ", "is_correct": false },
+        { "option_id": 3, "text": "केळी", "is_correct": false },
+        { "option_id": 4, "text": "बांबू", "is_correct": false }
+      ],
+      "answer": "साग किंवा खैर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ढोल वाजवल्यामुळे काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "उत्साह", "is_correct": true },
+        { "option_id": 2, "text": "आळस", "is_correct": false },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "भिती", "is_correct": false }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ढोलाच्या एका बाजूला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पुडी", "is_correct": true },
+        { "option_id": 2, "text": "काठी", "is_correct": false },
+        { "option_id": 3, "text": "खोक", "is_correct": false },
+        { "option_id": 4, "text": "तळ", "is_correct": false }
+      ],
+      "answer": "पुडी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात कोणता ढोल प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "नाशिक ढोल", "is_correct": true },
+        { "option_id": 2, "text": "इंग्रजी ढोल", "is_correct": false },
+        { "option_id": 3, "text": "चिनी ढोल", "is_correct": false },
+        { "option_id": 4, "text": "जपानी ढोल", "is_correct": false }
+      ],
+      "answer": "नाशिक ढोल"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ढोल कोणत्या आकाराचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 2, "text": "त्रिकोणी", "is_correct": false },
+        { "option_id": 3, "text": "दंडगोलाकार", "is_correct": true },
+        { "option_id": 4, "text": "लंबवर्तुळाकार", "is_correct": false }
+      ],
+      "answer": "दंडगोलाकार"
+    },
+    { "question_id": 21, "question_type": "MCQ", "question": "ढोलाच्या लाकडी भागाला काय म्हणतात?", "options": [{ "option_id": 1, "text": "खोक", "is_correct": true }, { "option_id": 2, "text": "तवा", "is_correct": false }, { "option_id": 3, "text": "पाळणा", "is_correct": false }, { "option_id": 4, "text": "पेटी", "is_correct": false }], "answer": "खोक" },
+    { "question_id": 22, "question_type": "MCQ", "question": "ढोल वाजवण्यासाठी वापरल्या जाणाऱ्या काठीला काय म्हणतात?", "options": [{ "option_id": 1, "text": "टिपरी", "is_correct": true }, { "option_id": 2, "text": "दंड", "is_correct": false }, { "option_id": 3, "text": "हात", "is_correct": false }, { "option_id": 4, "text": "सुई", "is_correct": false }], "answer": "टिपरी" },
+    { "question_id": 23, "question_type": "MCQ", "question": "होळीच्या सणात कोणते वाद्य वाजवतात?", "options": [{ "option_id": 1, "text": "ढोल", "is_correct": true }, { "option_id": 2, "text": "पिपाणी", "is_correct": false }, { "option_id": 3, "text": "सतार", "is_correct": false }, { "option_id": 4, "text": "हार्मोनिअम", "is_correct": false }], "answer": "ढोल" },
+    { "question_id": 24, "question_type": "MCQ", "question": "ढोलाचा आवाज दूरवर का जातो?", "options": [{ "option_id": 1, "text": "तो मोठा असतो", "is_correct": true }, { "option_id": 2, "text": "तो रडका असतो", "is_correct": false }, { "option_id": 3, "text": "तो हळू असतो", "is_correct": false }, { "option_id": 4, "text": "तो बंद असतो", "is_correct": false }], "answer": "तो मोठा असतो" },
+    { "question_id": 25, "question_type": "MCQ", "question": "आदिवासी लोक ढोलाच्या तालावर कोणते नृत्य करतात?", "options": [{ "option_id": 1, "text": "तारपा नृत्य", "is_correct": true }, { "option_id": 2, "text": "कथक", "is_correct": false }, { "option_id": 3, "text": "भरतनाट्यम", "is_correct": false }, { "option_id": 4, "text": "डिस्को", "is_correct": false }], "answer": "तारपा नृत्य" },
+    { "question_id": 26, "question_type": "MCQ", "question": "ढोलाच्या चामड्याला काय लावून घट्ट करतात?", "options": [{ "option_id": 1, "text": "दोरी किंवा वार", "is_correct": true }, { "option_id": 2, "text": "फेविकॉल", "is_correct": false }, { "option_id": 3, "text": "डिंक", "is_correct": false }, { "option_id": 4, "text": "टेप", "is_correct": false }], "answer": "दोरी किंवा वार" },
+    { "question_id": 27, "question_type": "MCQ", "question": "ढोलाची पूजा केव्हा करतात?", "options": [{ "option_id": 1, "text": "दसरा-दिवाळीत", "is_correct": true }, { "option_id": 2, "text": "पावसाळ्यात", "is_correct": false }, { "option_id": 3, "text": "रोज", "is_correct": false }, { "option_id": 4, "text": "कधीच नाही", "is_correct": false }], "answer": "दसरा-दिवाळीत" },
+    { "question_id": 28, "question_type": "MCQ", "question": "ढोलाला गळ्यात अडकवण्यासाठी काय असते?", "options": [{ "option_id": 1, "text": "पट्टा", "is_correct": true }, { "option_id": 2, "text": "साखळी", "is_correct": false }, { "option_id": 3, "text": "तारेचा वेढा", "is_correct": false }, { "option_id": 4, "text": "काठी", "is_correct": false }], "answer": "पट्टा" },
+    { "question_id": 29, "question_type": "MCQ", "question": "ढोल कोणत्या संस्कृतीचे प्रतीक आहे?", "options": [{ "option_id": 1, "text": "लोकसंस्कृती", "is_correct": true }, { "option_id": 2, "text": "पाश्चात्य संस्कृती", "is_correct": false }, { "option_id": 3, "text": "आधुनिक संस्कृती", "is_correct": false }, { "option_id": 4, "text": "शहरी संस्कृती", "is_correct": false }], "answer": "लोकसंस्कृती" },
+    { "question_id": 30, "question_type": "MCQ", "question": "ढोलाचा आवाज ऐकल्यावर काय वाटते?", "options": [{ "option_id": 1, "text": "आनंद", "is_correct": true }, { "option_id": 2, "text": "दुःख", "is_correct": false }, { "option_id": 3, "text": "कंटाळा", "is_correct": false }, { "option_id": 4, "text": "भिती", "is_correct": false }], "answer": "आनंद" },
+    { "question_id": 31, "question_type": "MCQ", "question": "ढोलाच्या एका तोंडाला काय म्हणतात?", "options": [{ "option_id": 1, "text": "थाप", "is_correct": true }, { "option_id": 2, "text": "कडी", "is_correct": false }, { "option_id": 3, "text": "पाना", "is_correct": false }, { "option_id": 4, "text": "खोक", "is_correct": false }], "answer": "थाप" },
+    { "question_id": 32, "question_type": "MCQ", "question": "ढोल तयार करणाऱ्या कारागिराला काय म्हणतात?", "options": [{ "option_id": 1, "text": "वाद्यकार", "is_correct": true }, { "option_id": 2, "text": "सोनार", "is_correct": false }, { "option_id": 3, "text": "लोहार", "is_correct": false }, { "option_id": 4, "text": "कुंभार", "is_correct": false }], "answer": "वाद्यकार" },
+    { "question_id": 33, "question_type": "MCQ", "question": "ढोलाचा सराव कुठे केला जातो?", "options": [{ "option_id": 1, "text": "मैदानात", "is_correct": true }, { "option_id": 2, "text": "स्वयंपाकघरात", "is_correct": false }, { "option_id": 3, "text": "वर्गात", "is_correct": false }, { "option_id": 4, "text": "दवाखान्यात", "is_correct": false }], "answer": "मैदानात" },
+    { "question_id": 34, "question_type": "MCQ", "question": "ढोल वाजवताना कोणती भावना असते?", "options": [{ "option_id": 1, "text": "उत्साहाची", "is_correct": true }, { "option_id": 2, "text": "शांततेची", "is_correct": false }, { "option_id": 3, "text": "निराशेची", "is_correct": false }, { "option_id": 4, "text": "रागाची", "is_correct": false }], "answer": "उत्साहाची" },
+    { "question_id": 35, "question_type": "MCQ", "question": "ढोलाचा उपयोग संदेश देण्यासाठी केला जात असे, त्याला काय म्हणतात?", "options": [{ "option_id": 1, "text": "दवंडी", "is_correct": true }, { "option_id": 2, "text": "मेल", "is_correct": false }, { "option_id": 3, "text": "फोन", "is_correct": false }, { "option_id": 4, "text": "पत्र", "is_correct": false }], "answer": "दवंडी" },
+    { "question_id": 36, "question_type": "MCQ", "question": "ढोलाचे चामडे कशामुळे फाटू शकते?", "options": [{ "option_id": 1, "text": "धारदार वस्तूमुळे", "is_correct": true }, { "option_id": 2, "text": "हवेमुळे", "is_correct": false }, { "option_id": 3, "text": "पाण्यामुळे", "is_correct": false }, { "option_id": 4, "text": "सूर्यप्रकाशामुळे", "is_correct": false }], "answer": "धारदार वस्तूमुळे" },
+    { "question_id": 37, "question_type": "MCQ", "question": "लहान मुलांना कोणता ढोल आवडतो?", "options": [{ "option_id": 1, "text": "खेळण्यातील ढोल", "is_correct": true }, { "option_id": 2, "text": "मोठा ढोल", "is_correct": false }, { "option_id": 3, "text": "नगारा", "is_correct": false }, { "option_id": 4, "text": "मृदंग", "is_correct": false }], "answer": "खेळण्यातील ढोल" },
+    { "question_id": 38, "question_type": "MCQ", "question": "ढोल पथकात किती लोक असतात?", "options": [{ "option_id": 1, "text": "अनेक", "is_correct": true }, { "option_id": 2, "text": "फक्त एक", "is_correct": false }, { "option_id": 3, "text": "दोन", "is_correct": false }, { "option_id": 4, "text": "शून्य", "is_correct": false }], "answer": "अनेक" },
+    { "question_id": 39, "question_type": "MCQ", "question": "ढोलाच्या तालावर पाय काय करतात?", "options": [{ "option_id": 1, "text": "थिरकतात", "is_correct": true }, { "option_id": 2, "text": "थांबतात", "is_correct": false }, { "option_id": 3, "text": "दुखतात", "is_correct": false }, { "option_id": 4, "text": "जड होतात", "is_correct": false }], "answer": "थिरकतात" },
+    { "question_id": 40, "question_type": "MCQ", "question": "ढोल हे कोणत्या प्रकारचे वाद्य नाही?", "options": [{ "option_id": 1, "text": "इलेक्ट्रॉनिक", "is_correct": true }, { "option_id": 2, "text": "पारंपारिक", "is_correct": false }, { "option_id": 3, "text": "लाकडी", "is_correct": false }, { "option_id": 4, "text": "लोकवाद्य", "is_correct": false }], "answer": "इलेक्ट्रॉनिक" },
+    { "question_id": 41, "question_type": "MCQ", "question": "ढोलाची निगा कशी राखतात?", "options": [{ "option_id": 1, "text": "कोरड्या जागी ठेवून", "is_correct": true }, { "option_id": 2, "text": "पाण्यात बुडवून", "is_correct": false }, { "option_id": 3, "text": "उन्हात टाकून", "is_correct": false }, { "option_id": 4, "text": "कपाटात बंद करून", "is_correct": false }], "answer": "कोरड्या जागी ठेवून" },
+    { "question_id": 42, "question_type": "MCQ", "question": "ढोलाच्या आवाजाने प्राणी काय करतात?", "options": [{ "option_id": 1, "text": "घाबरून पळतात", "is_correct": true }, { "option_id": 2, "text": "नाचतात", "is_correct": false }, { "option_id": 3, "text": "झोपतात", "is_correct": false }, { "option_id": 4, "text": "खातात", "is_correct": false }], "answer": "घाबरून पळतात" },
+    { "question_id": 43, "question_type": "MCQ", "question": "ढोलाचा वापर युद्धात का केला जात असे?", "options": [{ "option_id": 1, "text": "सैन्याचा उत्साह वाढवण्यासाठी", "is_correct": true }, { "option_id": 2, "text": "जेवण करण्यासाठी", "is_correct": false }, { "option_id": 3, "text": "गाणे गाण्यासाठी", "is_correct": false }, { "option_id": 4, "text": "लपण्यासाठी", "is_correct": false }], "answer": "सैन्याचा उत्साह वाढवण्यासाठी" },
+    { "question_id": 44, "question_type": "MCQ", "question": "ढोलाच्या सोबत कोणते वाद्य सहसा वाजवले जाते?", "options": [{ "option_id": 1, "text": "ताशा", "is_correct": true }, { "option_id": 2, "text": "गिटार", "is_correct": false }, { "option_id": 3, "text": "पियानो", "is_correct": false }, { "option_id": 4, "text": "सतार", "is_correct": false }], "answer": "ताशा" },
+    { "question_id": 45, "question_type": "MCQ", "question": "ढोलाचा आवाज कशावर अवलंबून असतो?", "options": [{ "option_id": 1, "text": "चामड्याच्या ताणावर", "is_correct": true }, { "option_id": 2, "text": "त्याच्या रंगावर", "is_correct": false }, { "option_id": 3, "text": "कारागिराच्या नावावर", "is_correct": false }, { "option_id": 4, "text": "बाहेरील हवेवर", "is_correct": false }], "answer": "चामड्याच्या ताणावर" },
+    { "question_id": 46, "question_type": "MCQ", "question": "ढोलाला काय लावून सजवले जाते?", "options": [{ "option_id": 1, "text": "रंग आणि गोंडे", "is_correct": true }, { "option_id": 2, "text": "सिमेंट", "is_correct": false }, { "option_id": 3, "text": "माती", "is_correct": false }, { "option_id": 4, "text": "कापूस", "is_correct": false }], "answer": "रंग आणि गोंडे" },
+    { "question_id": 47, "question_type": "MCQ", "question": "ढोलाचा सराव करताना काय आवश्यक आहे?", "options": [{ "option_id": 1, "text": "शिस्त आणि ताळमेळ", "is_correct": true }, { "option_id": 2, "text": "मोबाईल", "is_correct": false }, { "option_id": 3, "text": "मोठा आवाज", "is_correct": false }, { "option_id": 4, "text": "खूप पैसे", "is_correct": false }], "answer": "शिस्त आणि ताळमेळ" },
+    { "question_id": 48, "question_type": "MCQ", "question": "ढोलाच्या तालावर कोणती गाणी गायली जातात?", "options": [{ "option_id": 1, "text": "लोकगीते", "is_correct": true }, { "option_id": 2, "text": "इंग्रजी गाणी", "is_correct": false }, { "option_id": 3, "text": "बालगीते", "is_correct": false }, { "option_id": 4, "text": "शास्त्रीय संगीत", "is_correct": false }], "answer": "लोकगीते" },
+    { "question_id": 49, "question_type": "MCQ", "question": "ढोलाचा आकार लहान झाल्यास त्याला काय म्हणतात?", "options": [{ "option_id": 1, "text": "ढोलकी", "is_correct": true }, { "option_id": 2, "text": "नगारा", "is_correct": false }, { "option_id": 3, "text": "ताशा", "is_correct": false }, { "option_id": 4, "text": "सतार", "is_correct": false }], "answer": "ढोलकी" },
+    { "question_id": 50, "question_type": "MCQ", "question": "ढोल हे कशाचे माध्यम आहे?", "options": [{ "option_id": 1, "text": "मनोरंजनाचे", "is_correct": true }, { "option_id": 2, "text": "अभ्यासाचे", "is_correct": false }, { "option_id": 3, "text": "दुःखाचे", "is_correct": false }, { "option_id": 4, "text": "युद्धखोरीचे", "is_correct": false }], "answer": "मनोरंजनाचे" },
+
+    { "question_id": 51, "question_type": "SHORT", "question": "ढोल हे कोणत्या प्रकारचे वाद्य आहे?", "answer": "ढोल हे चर्मवाद्य आहे." },
+    { "question_id": 52, "question_type": "SHORT", "question": "ढोल कशापासून तयार करतात?", "answer": "ढोल लाकूड आणि प्राण्यांच्या चामड्यापासून तयार करतात." },
+    { "question_id": 53, "question_type": "SHORT", "question": "ढोलाचा आवाज कसा असतो?", "answer": "ढोलाचा आवाज गंभीर, मोठा आणि घुमणारा असतो." },
+    { "question_id": 54, "question_type": "SHORT", "question": "ढोल वाजवणाऱ्याला काय म्हणतात?", "answer": "ढोल वाजवणाऱ्याला ढोली म्हणतात." },
+    { "question_id": 55, "question_type": "SHORT", "question": "ढोलाचा उपयोग कोणत्या प्रसंगी होतो?", "answer": "ढोलाचा उपयोग सण, उत्सव, लग्नसमारंभ आणि मिरवणुकीत होतो." },
+    { "question_id": 56, "question_type": "SHORT", "question": "आदिवासी जीवनात ढोलाचे महत्त्व काय?", "answer": "आदिवासी जीवनात ढोल हे आनंदाचे आणि सामूहिक नृत्याचे महत्त्वाचे साधन आहे." },
+    { "question_id": 57, "question_type": "SHORT", "question": "ढोलाच्या लाकडी भागाला काय म्हणतात?", "answer": "ढोलाच्या लाकडी भागाला खोक म्हणतात." },
+    { "question_id": 58, "question_type": "SHORT", "question": "ढोलाचे चामडे कशाने घट्ट बांधलेले असते?", "answer": "ढोलाचे चामडे दोरीने किंवा चामड्याच्या वादीने घट्ट बांधलेले असते." },
+    { "question_id": 59, "question_type": "SHORT", "question": "ढोल कशाच्या साह्याने वाजवला जातो?", "answer": "ढोल लाकडी काठीच्या किंवा हाताच्या साह्याने वाजवला जातो." },
+    { "question_id": 60, "question_type": "SHORT", "question": "ढोलाची पूजा कधी केली जाते?", "answer": "ढोलाची पूजा दसरा किंवा दिवाळी सारख्या मोठ्या सणांना केली जाते." },
+    { "question_id": 61, "question_type": "SHORT", "question": "ढोलाच्या तालावर लोक काय करतात?", "answer": "ढोलाच्या तालावर लोक आनंदाने नृत्य करतात." },
+    { "question_id": 62, "question_type": "SHORT", "question": "महाराष्ट्रात कोणत्या प्रकारचा ढोल प्रसिद्ध आहे?", "answer": "महाराष्ट्रात नाशिक ढोल आणि पारंपरिक ढोल प्रसिद्ध आहेत." },
+    { "question_id": 63, "question_type": "SHORT", "question": "ढोलाचा आकार कसा असतो?", "answer": "ढोलाचा आकार दंडगोलाकार असतो." },
+    { "question_id": 64, "question_type": "SHORT", "question": "ढोलकी आणि ढोल यात काय फरक आहे?", "answer": "ढोलकी आकाराने लहान असते आणि ढोल आकाराने मोठा असतो." },
+    { "question_id": 65, "question_type": "SHORT", "question": "ढोलाच्या दोन्ही बाजूंना काय म्हणतात?", "answer": "ढोलाच्या दोन्ही बाजूंना पुडी किंवा थाप म्हणतात." },
+    { "question_id": 66, "question_type": "SHORT", "question": "ढोलाचा आवाज ऐकल्यावर काय वाटते?", "answer": "ढोलाचा आवाज ऐकल्यावर उत्साह वाढतो आणि नाचण्याची इच्छा होते." },
+    { "question_id": 67, "question_type": "SHORT", "question": "ढोलाला गळ्यात अडकवण्यासाठी कशाचा वापर करतात?", "answer": "ढोलाला गळ्यात अडकवण्यासाठी कापडी किंवा चामड्याच्या पट्ट्याचा वापर करतात." },
+    { "question_id": 68, "question_type": "SHORT", "question": "ढोल तयार करण्यासाठी कोणत्या झाडाचे लाकूड वापरतात?", "answer": "साग, आंबा किंवा खैर यांसारख्या मजबूत झाडांचे लाकूड वापरतात." },
+    { "question_id": 69, "question_type": "SHORT", "question": "ढोल हे कशाचे प्रतीक आहे?", "answer": "ढोल हे मांगल्याचे आणि आनंदाचे प्रतीक आहे." },
+    { "question_id": 70, "question_type": "SHORT", "question": "ढोलाचा उपयोग पूर्वी कशासाठी केला जात असे?", "answer": "पूर्वी संदेश देण्यासाठी किंवा दवंडी पिटण्यासाठी ढोलाचा उपयोग केला जात असे." },
+    { "question_id": 71, "question_type": "SHORT", "question": "ढोल वाजवण्याचे प्रशिक्षण कुठे मिळते?", "answer": "ढोल वाजवण्याचे प्रशिक्षण ढोल पथकांमध्ये किंवा पारंपारिक गुरूंनी मिळते." },
+    { "question_id": 72, "question_type": "SHORT", "question": "ढोल पथक म्हणजे काय?", "answer": "अनेक ढोल वादक एकत्र येऊन जेव्हा वादन करतात, तेव्हा त्याला ढोल पथक म्हणतात." },
+    { "question_id": 73, "question_type": "SHORT", "question": "ढोलाचा ताल म्हणजे काय?", "answer": "ढोलाच्या विशिष्ट आवाजाच्या लयीला ताल म्हणतात." },
+    { "question_id": 74, "question_type": "SHORT", "question": "ढोलाचे चामडे खराब होऊ नये म्हणून काय काळजी घ्यावी?", "answer": "ढोलाचे चामडे पाण्यापासून वाचवावे आणि त्याला व्यवस्थित तेल लावावे." },
+    { "question_id": 75, "question_type": "SHORT", "question": "ढोलाला कोणकोणत्या रंगांनी सजवले जाते?", "answer": "ढोलाला भगव्या, लाल किंवा पिवळ्या रंगाच्या कपड्याने आणि गोंड्यांनी सजवले जाते." },
+    { "question_id": 76, "question_type": "SHORT", "question": "गणपती बाप्पाच्या मिरवणुकीत कोणते वाद्य वाजते?", "answer": "मिरवणुकीत ढोल-ताशा प्रामुख्याने वाजवला जातो." },
+    { "question_id": 77, "question_type": "SHORT", "question": "ढोलाच्या वादनाला काय म्हणतात?", "answer": "ढोलाच्या वादनाला 'ढोल वादन' म्हणतात." },
+    { "question_id": 78, "question_type": "SHORT", "question": "ढोलाचा आवाज किती लांब जातो?", "answer": "ढोलाचा आवाज खूप मोठा असल्याने तो मैलोगणती दूरवर ऐकू जातो." },
+    { "question_id": 79, "question_type": "SHORT", "question": "ढोलाच्या काठीला काय लावलेले असते?", "answer": "काठीच्या टोकाला कधीकधी कापड गुंडाळलेले असते जेणेकरून आवाज गंभीर येईल." },
+    { "question_id": 80, "question_type": "SHORT", "question": "ढोल वाजवताना कोणती ऊर्जा लागते?", "answer": "ढोल वाजवताना शारीरिक ऊर्जा आणि हातांची ताकद लागते." },
+    { "question_id": 81, "question_type": "SHORT", "question": "ढोलाच्या तालावर कोणते लोकगीत गायले जाते?", "answer": "ढोलाच्या तालावर लावणी, पोवाडा किंवा आदिवासी लोकगीते गायली जातात." },
+    { "question_id": 82, "question_type": "SHORT", "question": "ढोलाच्या मध्यभागाला काय म्हणतात?", "answer": "ढोलाच्या मध्यभागाला 'पोटी' किंवा 'खोक' म्हणतात." },
+    { "question_id": 83, "question_type": "SHORT", "question": "ढोल हे वाद्य कधीपासून अस्तित्वात आहे?", "answer": "ढोल हे प्राचीन काळापासून चालत आलेले पारंपारिक वाद्य आहे." },
+    { "question_id": 84, "question_type": "SHORT", "question": "ढोल वादनात 'ताशा' का महत्वाचा आहे?", "answer": "ताशा ढोलाच्या आवाजाला वेगवान लय आणि साथ देतो." },
+    { "question_id": 85, "question_type": "SHORT", "question": "ढोलाचा सराव करताना काय महत्त्वाचे असते?", "answer": "सराव करताना एकाग्रता आणि तालाची जाण असणे महत्त्वाचे असते." },
+    { "question_id": 86, "question_type": "SHORT", "question": "ढोल हे ग्रामीण की शहरी वाद्य आहे?", "answer": "ढोल हे प्रामुख्याने ग्रामीण वाद्य असले तरी आता ते शहरांतही तितकेच लोकप्रिय झाले आहे." },
+    { "question_id": 87, "question_type": "SHORT", "question": "ढोलाचे वजन किती असते?", "answer": "ढोलाचे वजन त्याच्या आकारानुसार ५ ते १५ किलोपर्यंत असू शकते." },
+    { "question_id": 88, "question_type": "SHORT", "question": "ढोलाचा उपयोग युद्धाच्या वेळी का केला जाई?", "answer": "सैनिकामध्ये उत्साह भरण्यासाठी आणि विजयाचा जल्लोष करण्यासाठी ढोल वाजवला जाई." },
+    { "question_id": 89, "question_type": "SHORT", "question": "ढोल तयार करायला किती वेळ लागतो?", "answer": "ढोल तयार करायला साधारणतः २ ते ३ दिवस लागतात." },
+    { "question_id": 90, "question_type": "SHORT", "question": "ढोलाच्या एका बाजूला चामडे कसे बसवतात?", "answer": "चामडे ओले करून लाकडावर ताणून बसवले जाते आणि सुकल्यावर ते घट्ट होते." },
+    { "question_id": 91, "question_type": "SHORT", "question": "ढोलाचा आवाज घुमण्यासाठी त्यात काय असते?", "answer": "ढोलाचा लाकडी भाग पोकळ असतो, ज्यामुळे आवाज घुमतो." },
+    { "question_id": 92, "question_type": "SHORT", "question": "ढोलाच्या तालावर लहान मुले काय करतात?", "answer": "लहान मुले आनंदाने उड्या मारतात आणि नाचतात." },
+    { "question_id": 93, "question_type": "SHORT", "question": "ढोलाला मराठी संस्कृतीत काय स्थान आहे?", "answer": "ढोल हे मराठी संस्कृतीच्या लोककलांचे अविभाज्य अंग आहे." },
+    { "question_id": 94, "question_type": "SHORT", "question": "ढोलाचे विविध प्रकार कोणते?", "answer": "ढोल, ढोलकी, नगारा, ताशा हे ढोलाचे विविध प्रकार आहेत." },
+    { "question_id": 95, "question_type": "SHORT", "question": "ढोल वादनामुळे समुदायात काय भावना निर्माण होते?", "answer": "ढोल वादनामुळे एकीची आणि आनंदाची भावना निर्माण होते." },
+    { "question_id": 96, "question_type": "SHORT", "question": "ढोलाची देखभाल कशी करावी?", "answer": "ढोलाला धूळ आणि ओलसरपणापासून दूर ठेवून वेळोवेळी स्वच्छ करावे." },
+    { "question_id": 97, "question_type": "SHORT", "question": "ढोलाच्या तालाला काय म्हणतात?", "answer": "ढोलाच्या तालाला 'ठका' किंवा 'लय' म्हणतात." },
+    { "question_id": 98, "question_type": "SHORT", "question": "ढोल वाजवणाऱ्यांची वेशभूषा कशी असते?", "answer": "ढोल वादक प्रामुख्याने पारंपारिक कुर्ता, धोतर किंवा पायजमा आणि फेटा परिधान करतात." },
+    { "question_id": 99, "question_type": "SHORT", "question": "ढोलाचा उपयोग खेळात कुठे होतो?", "answer": "कुस्तीच्या फडात किंवा खेळांच्या स्पर्धेत खेळाडूंचा उत्साह वाढवण्यासाठी ढोल वाजवतात." },
+    { "question_id": 100, "question_type": "SHORT", "question": "ढोलाचे नाव 'ढोल' का पडले असावे?", "answer": "त्याच्या गंभीर आणि मोठ्या 'ढोम-ढोम' आवाजामुळे त्याचे नाव ढोल पडले असावे." },
+    { "question_id": 101, "question_type": "SHORT", "question": "ढोलाचा आवाज कोणाला सर्वात जास्त आकर्षित करतो?", "answer": "ढोलाचा आवाज सर्व वयोगटातील लोकांना आकर्षित करतो." },
+    { "question_id": 102, "question_type": "SHORT", "question": "ढोल हे शालेय कार्यक्रमात वाजवतात का?", "answer": "हो, क्रीडा स्पर्धा किंवा सांस्कृतिक कार्यक्रमात ढोल वाजवला जातो." },
+    { "question_id": 103, "question_type": "SHORT", "question": "ढोलाच्या लाकडाला पॉलिश का करतात?", "answer": "लाकूड टिकाऊ राहावे आणि ते सुंदर दिसावे म्हणून पॉलिश करतात." },
+    { "question_id": 104, "question_type": "SHORT", "question": "ढोलाचे चामडे कशाने बनलेले असते?", "answer": "ढोलाचे चामडे कमावलेल्या कातड्यापासून बनलेले असते." },
+    { "question_id": 105, "question_type": "SHORT", "question": "ढोल वादक पथकाचे नेतृत्व कोण करतो?", "answer": "पथकाचे नेतृत्व मुख्य ढोल वादक किंवा प्रमुख करतो." },
+    { "question_id": 106, "question_type": "SHORT", "question": "ढोलाच्या ठेक्यावर कोणते वाद्य 'कलकल' आवाज करते?", "answer": "ढोलाच्या ठेक्यावर झांज 'कलकल' आवाज करते." },
+    { "question_id": 107, "question_type": "SHORT", "question": "ढोल वाजवताना हातांना त्रास होतो का?", "answer": "जास्त वेळ वाजवल्यास हातांना थकवा येऊ शकतो, म्हणून सराव महत्त्वाचा असतो." },
+    { "question_id": 108, "question_type": "SHORT", "question": "ढोल कोणत्या झाडापासून बनवणे उत्तम असते?", "answer": "सागवान झाडापासून बनवलेला ढोल सर्वात उत्तम मानला जातो." },
+    { "question_id": 109, "question_type": "SHORT", "question": "ढोल वादन हे कोणत्या कलेचा भाग आहे?", "answer": "ढोल वादन हे संगीत आणि लोककला या कलेचा भाग आहे." },
+    { "question_id": 110, "question_type": "SHORT", "question": "ढोलाचा आवाज शांततेचा भंग करतो का?", "answer": "मर्यादित आवाजात तो आनंद देतो, पण अति आवाजा मुळे ध्वनी प्रदूषण होऊ शकते." },
+    { "question_id": 111, "question_type": "SHORT", "question": "ढोलाला किती बाजू असतात?", "answer": "ढोलाला दोन बाजू असतात." },
+    { "question_id": 112, "question_type": "SHORT", "question": "ढोलाचा उपयोग देवळात होतो का?", "answer": "हो, आरतीच्या वेळी किंवा उत्सवात देवळात ढोल वाजवला जातो." },
+    { "question_id": 113, "question_type": "SHORT", "question": "ढोलाचे चामडे कसे ताणले जाते?", "answer": "बाजूच्या दोऱ्या ओढून चामडे ताणले जाते." },
+    { "question_id": 114, "question_type": "SHORT", "question": "ढोलाच्या काठीला काय म्हणतात?", "answer": "ढोलाच्या काठीला टिपरी म्हणतात." },
+    { "question_id": 115, "question_type": "SHORT", "question": "ढोलाचा आवाज कोणत्या ऋतूत जास्त चांगला येतो?", "answer": "कोरड्या हवेत (उन्हाळा किंवा हिवाळा) ढोलाचा आवाज जास्त स्पष्ट येतो." },
+    { "question_id": 116, "question_type": "SHORT", "question": "ढोल वादक पथकाचे नाव काय असू शकते?", "answer": "शिवगर्जना, समर्थ यांसारखी नावे ढोल पथकांची असतात." },
+    { "question_id": 117, "question_type": "SHORT", "question": "ढोलाचा आवाज ऐकून कोणाला आनंद होतो?", "answer": "ढोलाचा आवाज ऐकून आबालवृद्धांना आनंद होतो." },
+    { "question_id": 118, "question_type": "SHORT", "question": "ढोल वाजवण्यासाठी काय लागते?", "answer": "ढोल वाजवण्यासाठी लय, ताल आणि शारीरिक शक्ती लागते." },
+    { "question_id": 119, "question_type": "SHORT", "question": "ढोलाचा उपयोग जाहिरातीसाठी करतात का?", "answer": "हो, पूर्वी दवंडी देऊन जाहिरात करण्यासाठी ढोलाचा वापर होत असे." },
+    { "question_id": 120, "question_type": "SHORT", "question": "ढोल हे कोणत्या प्रकारचे साधन आहे?", "answer": "ढोल हे मनोरंजनाचे आणि लोककला जपण्याचे साधन आहे." },
+    { "question_id": 121, "question_type": "SHORT", "question": "ढोलाचे चामडे कशाने स्वच्छ करतात?", "answer": "कोरड्या कापडाने ढोलाचे चामडे स्वच्छ करतात." },
+    { "question_id": 122, "question_type": "SHORT", "question": "ढोल कोणत्या रंगाचा असतो?", "answer": "ढोल नैसर्गिक लाकडी रंगाचा किंवा गडद तपकिरी रंगाचा असतो." },
+    { "question_id": 123, "question_type": "SHORT", "question": "ढोलाच्या ठेक्यावर गाणी कशी वाटतात?", "answer": "ढोलाच्या ठेक्यावर गाणी खूप उत्साहवर्धक वाटतात." },
+    { "question_id": 124, "question_type": "SHORT", "question": "ढोलाचा आकार मोठा असल्यास काय म्हणतात?", "answer": "ढोलाचा आकार खूप मोठा असल्यास त्याला 'नगारा' असेही म्हणतात." },
+    { "question_id": 125, "question_type": "SHORT", "question": "ढोल हे वाद्य कुठे शिकवले जाते?", "answer": "ढोल हे वाद्य पारंपरिक वाद्य शाळांमध्ये किंवा पथकांमध्ये शिकवले जाते." },
+    { "question_id": 126, "question_type": "SHORT", "question": "ढोल हे वाद्य महाग असते का?", "answer": "हो, चांगल्या प्रतीचा ढोल त्याच्या लाकडामुळे आणि चामड्यामुळे महाग असतो." },
+    { "question_id": 127, "question_type": "SHORT", "question": "ढोलाच्या वादी कशाच्या असतात?", "answer": "ढोलाच्या वादी चामड्याच्या किंवा मजबूत सुती दोरीच्या असतात." },
+    { "question_id": 128, "question_type": "SHORT", "question": "ढोलाचा आवाज कधी बदलतो?", "answer": "जेव्हा त्याचे चामडे सैल होते किंवा हवा दमट असते, तेव्हा त्याचा आवाज बदलतो." },
+    { "question_id": 129, "question_type": "SHORT", "question": "ढोलाच्या ठेक्यावर नाचताना काय आनंद मिळतो?", "answer": "नाचताना मनाला उभारी मिळते आणि तणाव दूर होतो." },
+    { "question_id": 130, "question_type": "SHORT", "question": "ढोल कोणत्या दिशेला ठेवून वाजवतात?", "answer": "ढोल सहसा समोर किंवा बाजूला धरून वाजवतात." },
+    { "question_id": 131, "question_type": "SHORT", "question": "ढोलाला गळ्यातील पट्ट्यामुळे काय सोपे जाते?", "answer": "पट्ट्यामुळे ढोल वाहून नेणे आणि वाजवणे सोपे जाते." },
+    { "question_id": 132, "question_type": "SHORT", "question": "ढोल वाजवताना पायांची हालचाल कशी असते?", "answer": "पायांची हालचाल तालावर थिरकणारी असते." },
+    { "question_id": 133, "question_type": "SHORT", "question": "ढोलाचा आवाज कशामुळे गंभीर येतो?", "answer": "त्याच्या मोठ्या आकारामुळे आणि पोकळ खोकामुळे आवाज गंभीर येतो." },
+    { "question_id": 134, "question_type": "SHORT", "question": "ढोल वादनात टाळ्यांचा वापर होतो का?", "answer": "हो, प्रेक्षक प्रतिसादासाठी टाळ्या वाजवतात." },
+    { "question_id": 135, "question_type": "SHORT", "question": "ढोलाचे संरक्षण कसे करावे?", "answer": "ढोलाला कव्हर घालून किंवा सुरक्षित जागी ठेवून संरक्षण करावे." },
+    { "question_id": 136, "question_type": "SHORT", "question": "ढोल वाजवल्याने हाताचे स्नायू मजबूत होतात का?", "answer": "हो, नियमित वादन केल्याने हाताच्या स्नायूंचा व्यायाम होतो." },
+    { "question_id": 137, "question_type": "SHORT", "question": "ढोलाचा उपयोग मिरवणुकीत का केला जातो?", "answer": "मिरवणुकीची शोभा वाढवण्यासाठी आणि लक्ष वेधून घेण्यासाठी ढोल वापरतात." },
+    { "question_id": 138, "question_type": "SHORT", "question": "ढोलाच्या पुडीवर काय लावले जाते?", "answer": "काही वेळा पुडीवर शाई किंवा लेप लावला जातो जेणेकरून आवाज अधिक चांगला येईल." },
+    { "question_id": 139, "question_type": "SHORT", "question": "ढोलाचा आवाज किती वेळ वाजवू शकतो?", "answer": "वादकाच्या क्षमतेवर आणि प्रसंगावर ते अवलंबून असते." },
+    { "question_id": 140, "question_type": "SHORT", "question": "ढोल हे वाद्य आपल्याला काय शिकवते?", "answer": "ढोल आपल्याला समूह भावना आणि शिस्त शिकवते." },
+    { "question_id": 141, "question_type": "SHORT", "question": "ढोलाचा आकार कमी जास्त असतो का?", "answer": "हो, विविध संस्कृतींत ढोलाचे आकार वेगवेगळे असतात." },
+    { "question_id": 142, "question_type": "SHORT", "question": "ढोलाच्या तालावर कोणती वाद्ये साथ देतात?", "answer": "ताशा, झांज आणि तुतारी ही वाद्ये ढोलाला साथ देतात." },
+    { "question_id": 143, "question_type": "SHORT", "question": "ढोलाचे महत्त्व कवितांमध्ये असते का?", "answer": "हो, अनेक मराठी कवितांमध्ये ढोलाच्या आवाजाचे वर्णन आढळते." },
+    { "question_id": 144, "question_type": "SHORT", "question": "ढोल हे कोणाचे आवडते वाद्य असू शकते?", "answer": "जे संगीताचे आणि लोककलेचे चाहते आहेत त्यांचे हे आवडते वाद्य असते." },
+    { "question_id": 145, "question_type": "SHORT", "question": "ढोलाचा उपयोग नाटकांमध्ये होतो का?", "answer": "हो, लोकनाट्य किंवा तमाशात ढोलाचा वापर होतो." },
+    { "question_id": 146, "question_type": "SHORT", "question": "ढोल कोणत्या प्रांताचे मुख्य वाद्य आहे?", "answer": "ढोल हे भारतातील जवळजवळ सर्वच प्रांतांचे मुख्य लोकवाद्य आहे." },
+    { "question_id": 147, "question_type": "SHORT", "question": "ढोलाचा आवाज कसा ओळखायचा?", "answer": "त्याच्या ठळक आणि गंभीर ठेक्यावरून ढोलाचा आवाज ओळखता येतो." },
+    { "question_id": 148, "question_type": "SHORT", "question": "ढोलामुळे मनावर काय परिणाम होतो?", "answer": "मनावरील मरगळ दूर होऊन मन प्रसन्न होते." },
+    { "question_id": 149, "question_type": "SHORT", "question": "ढोल हे वाद्य बनवणे सोपे आहे का?", "answer": "नाही, यासाठी विशेष कौशल्याची आणि अनुभवाची गरज असते." },
+    { "question_id": 150, "question_type": "SHORT", "question": "शेवटी, ढोल काय संदेश देतो?", "answer": "ढोल आनंदाने एकत्र येण्याचा आणि उत्सव साजरा करण्याचा संदेश देतो." }
+  ]
+}

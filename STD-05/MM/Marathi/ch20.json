@@ -1,0 +1,1207 @@
+{
+  "chapter_id": 20,
+  "chapter_name": "माझी शाळा",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण कशासाठी जातो?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "शिकण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "भांडण करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शिकण्यासाठी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "शाळेत आपले कोणकोणते मित्र बनतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शेजारी", "is_correct": false },
+        { "option_id": 2, "text": "अनेक मित्र-मैत्रिणी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "कोणीही नाही", "is_correct": false }
+      ],
+      "answer": "अनेक मित्र-मैत्रिणी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शाळेतील सार्वजनिक मालमत्तेची काळजी कोणी घेतली पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शिपायाने", "is_correct": false },
+        { "option_id": 2, "text": "फक्त मुख्याध्यापकांनी", "is_correct": false },
+        { "option_id": 3, "text": "सर्व विद्यार्थ्यांनी", "is_correct": true },
+        { "option_id": 4, "text": "कोणीही नाही", "is_correct": false }
+      ],
+      "answer": "सर्व विद्यार्थ्यांनी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण कोणता गणवेश घालतो?",
+      "options": [
+        { "option_id": 1, "text": "रंगीत कपडे", "is_correct": false },
+        { "option_id": 2, "text": "शाळेचा ठराविक गणवेश", "is_correct": true },
+        { "option_id": 3, "text": "घरचे कपडे", "is_correct": false },
+        { "option_id": 4, "text": "सणाचे कपडे", "is_correct": false }
+      ],
+      "answer": "शाळेचा ठराविक गणवेश"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शाळेच्या मैदानावर आपण काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "अभ्यास", "is_correct": false },
+        { "option_id": 2, "text": "जेवण", "is_correct": false },
+        { "option_id": 3, "text": "खेळ खेळतो", "is_correct": true },
+        { "option_id": 4, "text": "झोपतो", "is_correct": false }
+      ],
+      "answer": "खेळ खेळतो"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ग्रंथालयात आपण काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "गप्पा मारतो", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तके वाचतो", "is_correct": true },
+        { "option_id": 3, "text": "धावतो", "is_correct": false },
+        { "option_id": 4, "text": "गाणी गातो", "is_correct": false }
+      ],
+      "answer": "पुस्तके वाचतो"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शाळा स्वच्छ ठेवणे ही कोणाची जबाबदारी आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सरकारची", "is_correct": false },
+        { "option_id": 2, "text": "आपल्या सर्वांची", "is_correct": true },
+        { "option_id": 3, "text": "केवळ पक्षांची", "is_correct": false },
+        { "option_id": 4, "text": "बाहेरच्या लोकांची", "is_correct": false }
+      ],
+      "answer": "आपल्या सर्वांची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शाळेत मधल्या सुट्टीत आपण काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "घरी जातो", "is_correct": false },
+        { "option_id": 2, "text": "डबा खातो आणि खेळतो", "is_correct": true },
+        { "option_id": 3, "text": "परीक्षा देतो", "is_correct": false },
+        { "option_id": 4, "text": "रडतो", "is_correct": false }
+      ],
+      "answer": "डबा खातो आणि खेळतो"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आपल्याला शाळेत कोण शिकवते?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 2, "text": "पोलीस", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": true },
+        { "option_id": 4, "text": "ड्रायव्हर", "is_correct": false }
+      ],
+      "answer": "शिक्षक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शाळेत कचरा कोठे टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "वर्गात", "is_correct": false },
+        { "option_id": 2, "text": "कचराकुंडीत", "is_correct": true },
+        { "option_id": 3, "text": "मैदानावर", "is_correct": false },
+        { "option_id": 4, "text": "खिडकीबाहेर", "is_correct": false }
+      ],
+      "answer": "कचराकुंडीत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण काय शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "चांगल्या सवयी", "is_correct": false },
+        { "option_id": 2, "text": "नवीन गोष्टी", "is_correct": false },
+        { "option_id": 3, "text": "अभ्यास आणि खेळ", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वर्गातील फळा पुसण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "रुमाल", "is_correct": false },
+        { "option_id": 2, "text": "डस्टर", "is_correct": true },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "डस्टर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शाळेत पाणी पिऊन झाल्यावर तोटी काय करावी?",
+      "options": [
+        { "option_id": 1, "text": "तशीच चालू ठेवावी", "is_correct": false },
+        { "option_id": 2, "text": "पूर्णपणे बंद करावी", "is_correct": true },
+        { "option_id": 3, "text": "थोडी उघडी ठेवावी", "is_correct": false },
+        { "option_id": 4, "text": "तोडून टाकावी", "is_correct": false }
+      ],
+      "answer": "पूर्णपणे बंद करावी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "शिक्षकांचा आदर कसा करावा?",
+      "options": [
+        { "option_id": 1, "text": "त्यांच्याशी नम्रपणे बोलून", "is_correct": true },
+        { "option_id": 2, "text": "त्यांच्याकडे दुर्लक्ष करून", "is_correct": false },
+        { "option_id": 3, "text": "त्यांच्यावर ओरडून", "is_correct": false },
+        { "option_id": 4, "text": "त्यांचे ऐकले नाही तरी चालेल", "is_correct": false }
+      ],
+      "answer": "त्यांच्याशी नम्रपणे बोलून"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शाळेत प्रार्थनेच्या वेळी कसे उभे राहावे?",
+      "options": [
+        { "option_id": 1, "text": "हलत-डुलत", "is_correct": false },
+        { "option_id": 2, "text": "शांत आणि शिस्तीत", "is_correct": true },
+        { "option_id": 3, "text": "मित्रांशी बोलत", "is_correct": false },
+        { "option_id": 4, "text": "खाली बसून", "is_correct": false }
+      ],
+      "answer": "शांत आणि शिस्तीत"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शाळेच्या बागेतील फुलांचे काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "ती तोडावीत", "is_correct": false },
+        { "option_id": 2, "text": "त्यांचे जतन करावे", "is_correct": true },
+        { "option_id": 3, "text": "ती फेकून द्यावीत", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना पाय द्यावा", "is_correct": false }
+      ],
+      "answer": "त्यांचे जतन करावे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण काय वाचायला शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "अक्षरे आणि शब्द", "is_correct": true },
+        { "option_id": 2, "text": "फक्त चित्रे", "is_correct": false },
+        { "option_id": 3, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 4, "text": "भिंती", "is_correct": false }
+      ],
+      "answer": "अक्षरे आणि शब्द"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शाळेत आपल्याला कोणाबद्दल प्रेम वाटते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ पुस्तकांबद्दल", "is_correct": false },
+        { "option_id": 2, "text": "शाळेबद्दल आणि शिक्षकांबद्दल", "is_correct": true },
+        { "option_id": 3, "text": "केवळ सुट्टीबद्दल", "is_correct": false },
+        { "option_id": 4, "text": "कोणाबद्दलही नाही", "is_correct": false }
+      ],
+      "answer": "शाळेबद्दल आणि शिक्षकांबद्दल"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शाळेच्या भिंतीवर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "पेन्सिलने लिहावे", "is_correct": false },
+        { "option_id": 2, "text": "घाण करावी", "is_correct": false },
+        { "option_id": 3, "text": "काहीही लिहू नये", "is_correct": true },
+        { "option_id": 4, "text": "खडूने चित्रे काढावीत", "is_correct": false }
+      ],
+      "answer": "काहीही लिहू नये"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वर्गात कचरा पडल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "तो उचलून कचराकुंडीत टाकावा", "is_correct": true },
+        { "option_id": 2, "text": "बेंचेसखाली ढकलावे", "is_correct": false },
+        { "option_id": 3, "text": "तसाच राहू द्यावा", "is_correct": false },
+        { "option_id": 4, "text": "दुसऱ्याच्या जागेवर टाकावा", "is_correct": false }
+      ],
+      "answer": "तो उचलून कचराकुंडीत टाकावा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "शाळेत वेळेवर का जावे?",
+      "options": [
+        { "option_id": 1, "text": "कारण ती शिस्त आहे", "is_correct": true },
+        { "option_id": 2, "text": "कारण आपल्याला पळायचे असते", "is_correct": false },
+        { "option_id": 3, "text": "उशिरा गेल्यावर बक्षीस मिळते", "is_correct": false },
+        { "option_id": 4, "text": "काही कारण नाही", "is_correct": false }
+      ],
+      "answer": "कारण ती शिस्त आहे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण कोणकोणते सण साजरे करतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्य दिन", "is_correct": false },
+        { "option_id": 2, "text": "प्रजासत्ताक दिन", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षक दिन", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "शाळेत जेवताना काय पाळावे?",
+      "options": [
+        { "option_id": 1, "text": "अन्न वाया घालवू नये", "is_correct": true },
+        { "option_id": 2, "text": "अन्न खाली पाडावे", "is_correct": false },
+        { "option_id": 3, "text": "मित्रांशी भांडण करावे", "is_correct": false },
+        { "option_id": 4, "text": "हात धुवू नये", "is_correct": false }
+      ],
+      "answer": "अन्न वाया घालवू नये"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "शाळेत आपल्याला काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञान", "is_correct": true },
+        { "option_id": 2, "text": "मिठाई रोज", "is_correct": false },
+        { "option_id": 3, "text": "टीव्ही बघायला", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "शाळेत कोणाची मदत घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मोठ्या मुलांची", "is_correct": false },
+        { "option_id": 2, "text": "गरज पडल्यास शिक्षकांची", "is_correct": true },
+        { "option_id": 3, "text": "कोणाचीही नाही", "is_correct": false },
+        { "option_id": 4, "text": "अनोळखी माणसांची", "is_correct": false }
+      ],
+      "answer": "गरज पडल्यास शिक्षकांची"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शाळेची घंटा कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "गाणी वाजवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "वेळेची सूचना देण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "मज्जा करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पक्षांना घालवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वेळेची सूचना देण्यासाठी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "शाळेत वर्गाबाहेर जाताना कसे जावे?",
+      "options": [
+        { "option_id": 1, "text": "पळत", "is_correct": false },
+        { "option_id": 2, "text": "रांगेत", "is_correct": true },
+        { "option_id": 3, "text": "ओरडत", "is_correct": false },
+        { "option_id": 4, "text": "धक्के मारत", "is_correct": false }
+      ],
+      "answer": "रांगेत"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आपल्या शाळेचे नाव आपल्याला काय वाटले पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "अभिमान", "is_correct": true },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "दुःख", "is_correct": false }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शाळेत पाण्याची टाकी स्वच्छ का असावी?",
+      "options": [
+        { "option_id": 1, "text": "कारण पाणी पिण्यायोग्य राहावे", "is_correct": true },
+        { "option_id": 2, "text": "दिसण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "मज्जा म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "पोहण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कारण पाणी पिण्यायोग्य राहावे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "शाळेत सहलीला गेल्यावर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "नियमांचे पालन करावे", "is_correct": true },
+        { "option_id": 2, "text": "कुठेही पळून जावे", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षकांचे ऐकू नये", "is_correct": false },
+        { "option_id": 4, "text": "फक्त खावे", "is_correct": false }
+      ],
+      "answer": "नियमांचे पालन करावे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "शाळेतील बाकड्यांवर काय करू नये?",
+      "options": [
+        { "option_id": 1, "text": "बसू नये", "is_correct": false },
+        { "option_id": 2, "text": "लिहू नये किंवा ओरखडे काढू नयेत", "is_correct": true },
+        { "option_id": 3, "text": "दप्तर ठेवू नये", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "लिहू नये किंवा ओरखडे काढू नयेत"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "शाळेत खेळाचे तास का असतात?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्यासाठी आणि आनंदासाठी", "is_correct": true },
+        { "option_id": 2, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यासाचा कंटाळा आला म्हणून", "is_correct": false }
+      ],
+      "answer": "आरोग्यासाठी आणि आनंदासाठी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "शाळेत हस्तकला का शिकवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "सर्जनशीलता वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "हात घाण करण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "कागद फाडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "सर्जनशीलता वाढवण्यासाठी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वर्गात शांतता का राखावी?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षकांचे शिकवणे नीट समजावे म्हणून", "is_correct": true },
+        { "option_id": 2, "text": "कारण कोणाला बोलता येत नाही", "is_correct": false },
+        { "option_id": 3, "text": "झोप लागण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "शांत राहिल्यास चॉकलेट मिळते", "is_correct": false }
+      ],
+      "answer": "शिक्षकांचे शिकवणे नीट समजावे म्हणून"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "शाळेत चित्रकला का शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "कल्पनाशक्ती वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "रंग वाया घालवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "वही भरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "काही नाही", "is_correct": false }
+      ],
+      "answer": "कल्पनाशक्ती वाढवण्यासाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "शाळेचे ग्रंथालय कोणासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त मुख्याध्यापकांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "सर्व विद्यार्थ्यांसाठी आणि शिक्षकांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त बाहेरील लोकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके साठवून ठेवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सर्व विद्यार्थ्यांसाठी आणि शिक्षकांसाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शाळेत स्नेहसंमेलन का असते?",
+      "options": [
+        { "option_id": 1, "text": "कलागुणांना वाव देण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "कपडे दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "वेळ फुकट घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भांडण करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कलागुणांना वाव देण्यासाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शाळेत स्वच्छता गृह का वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्य चांगले राहण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "मैदान घाण करण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "मज्जा म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "काही नाही", "is_correct": false }
+      ],
+      "answer": "आरोग्य चांगले राहण्यासाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "शाळेत राष्ट्रगीत केव्हा गायले जाते?",
+      "options": [
+        { "option_id": 1, "text": "परिपाठाच्या वेळी", "is_correct": true },
+        { "option_id": 2, "text": "केवळ जेवताना", "is_correct": false },
+        { "option_id": 3, "text": "केवळ खेळताना", "is_correct": false },
+        { "option_id": 4, "text": "कधीच नाही", "is_correct": false }
+      ],
+      "answer": "परिपाठाच्या वेळी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "शाळेत शिस्त पाळल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आपली प्रगती होते", "is_correct": true },
+        { "option_id": 2, "text": "त्रास होतो", "is_correct": false },
+        { "option_id": 3, "text": "वेळ जातो", "is_correct": false },
+        { "option_id": 4, "text": "कंटाळा येतो", "is_correct": false }
+      ],
+      "answer": "आपली प्रगती होते"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "वर्गात बसल्यावर आपण काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "लक्ष देऊन शिकावे", "is_correct": true },
+        { "option_id": 2, "text": "कागदाचे बोळे फेकावे", "is_correct": false },
+        { "option_id": 3, "text": "बाजूच्याला चिमटे काढावे", "is_correct": false },
+        { "option_id": 4, "text": "खिडकीतून बाहेर पाहावे", "is_correct": false }
+      ],
+      "answer": "लक्ष देऊन शिकावे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "शाळेत गेल्यावर कोणाचे आशीर्वाद घ्यावे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मित्रांचे", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षकांचे आणि मोठ्यांचे", "is_correct": true },
+        { "option_id": 3, "text": "कोणाचेही नाही", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "शिक्षकांचे आणि मोठ्यांचे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शाळेत दप्तर कसे असावे?",
+      "options": [
+        { "option_id": 1, "text": "व्यवस्थित आवरलेले", "is_correct": true },
+        { "option_id": 2, "text": "विखुरलेले", "is_correct": false },
+        { "option_id": 3, "text": "काहीही न भरलेले", "is_correct": false },
+        { "option_id": 4, "text": "फाटलेले", "is_correct": false }
+      ],
+      "answer": "व्यवस्थित आवरलेले"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण एकमेकांशी कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमाने आणि सहकार्याने", "is_correct": true },
+        { "option_id": 2, "text": "भांडण करून", "is_correct": false },
+        { "option_id": 3, "text": "चिडवून", "is_correct": false },
+        { "option_id": 4, "text": "खोटं बोलून", "is_correct": false }
+      ],
+      "answer": "प्रेमाने आणि सहकार्याने"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "शाळेच्या आवारात झाडे का लावतात?",
+      "options": [
+        { "option_id": 1, "text": "सावली आणि सुंदरतेसाठी", "is_correct": true },
+        { "option_id": 2, "text": "त्यांच्यावर चढण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "त्यांच्या फांद्या तोडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त जागा भरण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सावली आणि सुंदरतेसाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "शाळेत पाण्याची बचत कशी करावी?",
+      "options": [
+        { "option_id": 1, "text": "गरज असेल तेव्हाच तोटी उघडावी", "is_correct": true },
+        { "option_id": 2, "text": "पाण्यात खेळावे", "is_correct": false },
+        { "option_id": 3, "text": "तोटी उघडी सोडून द्यावी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी पिऊच नये", "is_correct": false }
+      ],
+      "answer": "गरज असेल तेव्हाच तोटी उघडावी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "शाळेतील गृहपाठ कधी करावा?",
+      "options": [
+        { "option_id": 1, "text": "वेळेवर आणि दररोज", "is_correct": true },
+        { "option_id": 2, "text": "परीक्षेच्या दिवशी", "is_correct": false },
+        { "option_id": 3, "text": "कधीच करू नये", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षकांनी रागावल्यावर", "is_correct": false }
+      ],
+      "answer": "वेळेवर आणि दररोज"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शाळेत नवीन काय शिकायला मिळते?",
+      "options": [
+        { "option_id": 1, "text": "कला, क्रीडा, विज्ञान", "is_correct": true },
+        { "option_id": 2, "text": "केवळ मोबाईल खेळायला", "is_correct": false },
+        { "option_id": 3, "text": "काहीही नाही", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "कला, क्रीडा, विज्ञान"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "शाळेतील परिपाठाचे महत्त्व काय?",
+      "options": [
+        { "option_id": 1, "text": "दिवसाची चांगली सुरुवात होण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "उन्हात उभे राहण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "गप्पा मारण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "काही नाही", "is_correct": false }
+      ],
+      "answer": "दिवसाची चांगली सुरुवात होण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शाळा हे काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "विद्येचे मंदिर", "is_correct": true },
+        { "option_id": 2, "text": "केवळ एक इमारत", "is_correct": false },
+        { "option_id": 3, "text": "विश्रांतीची जागा", "is_correct": false },
+        { "option_id": 4, "text": "भांडणाची जागा", "is_correct": false }
+      ],
+      "answer": "विद्येचे मंदिर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शाळा म्हणजे काय?",
+      "answer": "शाळा म्हणजे जिथे आपण ज्ञान घेतो, विविध गोष्टी शिकतो आणि संस्कार मिळवतो अशी जागा."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण कोणते विषय शिकतो?",
+      "answer": "शाळेत आपण मराठी, इंग्रजी, गणित, विज्ञान आणि परिसर अभ्यास यांसारखे विषय शिकतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शाळेचा गणवेश का आवश्यक आहे?",
+      "answer": "शाळेत सर्व विद्यार्थी समान दिसावेत आणि त्यांच्यात शिस्त राहावी म्हणून गणवेश आवश्यक आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शाळेत खेळाचे महत्त्व काय आहे?",
+      "answer": "खेळामुळे आपले शरीर तंदुरुस्त राहते आणि मनाला आनंद मिळतो, तसेच संघभावना वाढते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "शिक्षकांचे आपल्या आयुष्यात काय महत्त्व आहे?",
+      "answer": "शिक्षक आपल्याला योग्य मार्गदर्शन करतात, ज्ञान देतात आणि चांगले नागरिक घडवतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शाळेचे ग्रंथालय म्हणजे काय?",
+      "answer": "ग्रंथालय म्हणजे अशी जागा जिथे अनेक प्रकारची पुस्तके वाचण्यासाठी उपलब्ध असतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शाळेत शिस्त का पाळावी?",
+      "answer": "शिस्त पाळल्यामुळे अभ्यासात लक्ष लागते आणि आपली प्रगती वेगाने होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शाळेची स्वच्छता आपण कशी राखू शकतो?",
+      "answer": "कचरा कचराकुंडीत टाकून, भिंती खराब न करून आणि पाण्याची बचत करून आपण स्वच्छता राखू शकतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मैदानावर खेळताना कोणते नियम पाळावेत?",
+      "options": null,
+      "answer": "मैदानावर खेळताना खेळाडूवृत्ती जोपासावी, एकमेकांना इजा होणार नाही याची काळजी घ्यावी आणि नियमांचे पालन करावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शाळेतील मित्र-मैत्रिणींचे काय महत्त्व आहे?",
+      "answer": "मित्र-मैत्रिणींमुळे आपल्याला शाळेत आनंद मिळतो आणि आपण एकमेकांना अभ्यासात व खेळात मदत करतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "गृहपाठ करणे का गरजेचे आहे?",
+      "answer": "वर्गात शिकवलेल्या गोष्टींचा सराव होण्यासाठी आणि त्या लक्षात राहण्यासाठी गृहपाठ करणे गरजेचे आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शाळेतील विज्ञानाचे महत्त्व काय?",
+      "answer": "विज्ञानामुळे आपल्याला जगातील गोष्टी कशा घडतात याची माहिती मिळते आणि कुतूहल वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शाळेत राष्ट्रगीत का म्हटले जाते?",
+      "answer": "देशाबद्दल आदर आणि अभिमान व्यक्त करण्यासाठी शाळेत राष्ट्रगीत म्हटले जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शाळेत मधली सुट्टी कशासाठी असते?",
+      "answer": "जेवण करण्यासाठी आणि थोडा वेळ विश्रांती घेऊन खेळण्यासाठी मधली सुट्टी असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शाळेतील झाडांची निगा कशी राखावी?",
+      "answer": "झाडांना वेळेवर पाणी घालून आणि त्यांच्या फांद्या किंवा पाने न तोडून निगा राखावी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "शाळेत वेळेचे पालन करणे का महत्त्वाचे आहे?",
+      "answer": "वेळेचे पालन केल्यामुळे आपली कामे वेळेवर होतात आणि जीवनात शिस्त लागते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "शाळेच्या स्नेहसंमेलनात आपण काय करतो?",
+      "answer": "स्नेहसंमेलनात आपण नृत्य, नाटक, गायन यांसारख्या कला सादर करतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "शाळेतील पिण्याच्या पाण्याची काळजी कशी घ्यावी?",
+      "answer": "पाणी पिताना ग्लासचा वापर करावा आणि तोटी उघडी सोडू नये."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शाळेच्या भिंतीवर लिहिणे चुकीचे का आहे?",
+      "answer": "भिंतीवर लिहिल्यामुळे शाळा अस्वच्छ दिसते आणि सार्वजनिक मालमत्तेचे नुकसान होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वर्गातील खिडक्या उघड्या का असाव्यात?",
+      "answer": "वर्गात हवा खेळती राहावी आणि पुरेसा उजेड असावा म्हणून खिडक्या उघड्या असाव्यात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "शाळेत हस्तकला का शिकविली जाते?",
+      "answer": "विद्यार्थ्यांच्या हातांना कौशल्य मिळावे आणि त्यांची कल्पनाशक्ती वाढावी म्हणून हस्तकला शिकविली जाते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शाळेत कोणाला मदत करावी?",
+      "answer": "शाळेत गरज असणाऱ्या मित्र-मैत्रिणींना आणि शिक्षकांना कामात मदत करावी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "शाळेत सहल का काढली जाते?",
+      "answer": "प्रत्यक्ष अनुभवातून ज्ञान मिळवण्यासाठी आणि मनोरंजनासाठी सहल काढली जाते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शाळेचे मुख्याध्यापक काय काम करतात?",
+      "answer": "मुख्याध्यापक संपूर्ण शाळेच्या कामकाजावर देखरेख ठेवतात आणि नियोजन करतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शाळेत डबा खाण्यापूर्वी काय करावे?",
+      "answer": "डबा खाण्यापूर्वी आपले हात साबणाने स्वच्छ धुवावेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शाळेत चोरी करणे का चुकीचे आहे?",
+      "answer": "चोरी करणे हा वाईट गुण आहे आणि यामुळे इतरांचे नुकसान होते व विश्वास तुटतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "शाळेत स्पर्धा का घेतल्या जातात?",
+      "answer": "विद्यार्थ्यांच्या सुप्त गुणांना वाव मिळण्यासाठी आणि त्यांच्यात निकोप स्पर्धा वाढण्यासाठी स्पर्धा घेतल्या जातात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शाळेच्या बाकड्यांची काळजी कशी घ्यावी?",
+      "answer": "बाकड्यांवर उभे राहू नये, त्यावर काहीही लिहू नये आणि ते जोरात आपटू नयेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण एकमेकांशी भांडण का करू नये?",
+      "answer": "भांडणामुळे वातावरण बिघडते आणि मैत्री तुटते, म्हणून सर्वांशी प्रेमाने राहावे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शाळेत कोणकोणत्या वस्तूंची आवश्यकता असते?",
+      "answer": "शाळेत दप्तर, पुस्तके, वह्या, पेन, पेन्सिल आणि कंपास पेटी या वस्तूंची आवश्यकता असते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "शाळेतील सुविचार आपल्याला काय शिकवतात?",
+      "answer": "सुविचार आपल्याला चांगले विचार करण्यास आणि जीवनात योग्य मार्गाने चालण्यास प्रवृत्त करतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शाळेत चित्रकला का महत्त्वाची आहे?",
+      "answer": "चित्रकलेमुळे मनातील भावना व्यक्त करता येतात आणि सौंदर्याची दृष्टी निर्माण होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण कोणाचा आदर करतो?",
+      "answer": "शाळेत आपण शिक्षक, मुख्याध्यापक, कर्मचारी आणि आपल्यापेक्षा मोठ्या विद्यार्थ्यांचा आदर करतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "शाळेत परिपाठ म्हणजे काय?",
+      "answer": "शाळेची सुरुवात करताना प्रार्थना, प्रतिज्ञा, बातम्या आणि सुविचार सांगणे याला परिपाठ म्हणतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "शाळेतील प्रयोगाचे महत्त्व काय?",
+      "answer": "प्रयोगामुळे गोष्टी कशा घडतात हे प्रत्यक्ष डोळ्यांनी पाहता येते आणि ज्ञान पक्के होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शाळेत खेळाचे मैदान स्वच्छ का असावे?",
+      "answer": "मैदान स्वच्छ असल्यास खेळताना इजा होत नाही आणि आरोग्य चांगले राहते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शाळेत राष्ट्रध्वजाचा मान कसा राखला जातो?",
+      "answer": "ध्वजारोहणाच्या वेळी राष्ट्रध्वजाला सलामी देऊन आणि राष्ट्रगीत म्हणून मान राखला जातो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शाळेत 'माझी शाळा' हा निबंध का महत्त्वाचा आहे?",
+      "answer": "यामुळे आपल्याला आपल्या शाळेबद्दल काय वाटते हे व्यक्त करण्याची संधी मिळते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण कोणती मूल्ये शिकतो?",
+      "answer": "शाळेत आपण प्रामाणिकपणा, सहकार्य, एकता आणि शिस्त ही मूल्ये शिकतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शाळेच्या प्रसाधनगृहाचा वापर कसा करावा?",
+      "answer": "वापर झाल्यावर पुरेसे पाणी टाकावे आणि परिसर स्वच्छ ठेवावा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शाळेत डबा शेअर करणे का चांगले आहे?",
+      "answer": "त्यामुळे मैत्री वाढते आणि सर्वांना वेगवेगळ्या पदार्थांची चव चाखायला मिळते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण कविता का पाठ करतो?",
+      "answer": "शब्दांची ओढ निर्माण व्हावी आणि भाषेचा गोडवा समजावा म्हणून आपण कविता पाठ करतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "शाळेत संगणक शिकणे का गरजेचे आहे?",
+      "answer": "आजच्या युगात माहिती मिळवण्यासाठी आणि तंत्रज्ञान समजून घेण्यासाठी संगणक शिकणे गरजेचे आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "शाळेतील प्रदर्शनातून काय शिकायला मिळते?",
+      "answer": "प्रदर्शनातून नवनवीन कल्पना आणि इतरांच्या कलाकृतींची माहिती मिळते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शाळेत रडत का जाऊ नये?",
+      "answer": "शाळा ही आनंदाची जागा आहे, तिथे आपण शिकायला आणि खेळायला जातो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "शाळेच्या नोटीस बोर्डाचे काम काय?",
+      "answer": "महत्त्वाच्या सूचना आणि कार्यक्रम विद्यार्थ्यांपर्यंत पोहोचवणे हे नोटीस बोर्डाचे काम आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शाळेत स्काउट गाईड का असते?",
+      "answer": "मुलांमध्ये सेवाभावी वृत्ती आणि धाडस निर्माण करण्यासाठी स्काउट गाईड असते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण नवीन शब्द कसे शिकतो?",
+      "answer": "शिक्षक शिकवताना आणि पुस्तके वाचताना आपण नवीन शब्द शिकतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "शाळेत वर्गाचा मॉनिटर काय काम करतो?",
+      "answer": "शिक्षकांच्या अनुपस्थितीत वर्गात शांतता राखणे आणि शिस्त लावणे हे मॉनिटरचे काम असते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "शाळेत दिलेली शपथ आपल्याला काय आठवण करून देते?",
+      "answer": "शपथ आपल्याला देशाप्रती आणि नागरिकांप्रती असणाऱ्या कर्तव्यांची आठवण करून देते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण कोणाशी स्पर्धा करावी?",
+      "answer": "शाळेत आपण स्वतःच्या प्रगतीशी स्पर्धा करावी आणि स्वतःला दररोज अधिक चांगले बनवण्याचा प्रयत्न करावा."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "शाळेत दंगा का करू नये?",
+      "answer": "दंग्यामुळे इतरांच्या अभ्यासात व्यत्यय येतो आणि कोणालाही इजा होऊ शकते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "शाळेत सहलीचे नियोजन कसे करावे?",
+      "answer": "ठिकाण निश्चित करून, पालकांची परवानगी घेऊन आणि आवश्यक वस्तूंची यादी करून नियोजन करावे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "शाळेत गाणी का शिकली जातात?",
+      "answer": "गाण्यामुळे मनाला प्रसन्नता मिळते आणि आवाजात गोडवा निर्माण होतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण थोर नेत्यांच्या जयंती का साजरी करतो?",
+      "answer": "त्यांच्या कार्याची माहिती व्हावी आणि त्यांच्याकडून प्रेरणा मिळावी म्हणून जयंती साजरी करतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "शाळेच्या मधल्या सुट्टीत हात धुणे का महत्त्वाचे आहे?",
+      "answer": "हातावरील जंतू अन्नावाटे शरीरात जाऊ नयेत म्हणून हात धुणे महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "शाळेतील परिपाठातील 'बातमी' सांगण्याचा फायदा काय?",
+      "answer": "त्यामुळे आपल्याला जगातील घडामोडींची माहिती मिळते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण 'एकता' कशी जपतो?",
+      "answer": "सर्व जाती-धर्माचे मुले एकत्र शिकून आणि खेळून आपण एकता जपतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "शाळेचे दप्तर जास्त जड का असू नये?",
+      "answer": "जड दप्तरामुळे पाठीला त्रास होऊ शकतो, म्हणून आवश्यक वह्याच न्याव्यात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण खेळणी का नेत नाही?",
+      "answer": "कारण शाळा ही अभ्यासाची जागा आहे आणि खेळण्यामुळे लक्ष विचलित होऊ शकते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "शाळेतील कर्मचाऱ्यांचा आदर का करावा?",
+      "answer": "कारण ते आपल्या शाळेची निगा राखतात आणि आपल्याला विविध सोयी पुरवतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "शाळेत वृक्षारोपण का केले जाते?",
+      "answer": "पर्यावरणाचे रक्षण करण्यासाठी आणि शाळेचा परिसर हिरवागार ठेवण्यासाठी वृक्षारोपण केले जाते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "शाळेत वर्गातील फळा स्वच्छ का असावा?",
+      "answer": "फळा स्वच्छ असल्यास शिक्षकांनी लिहिलेले स्पष्ट वाचता येते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "शाळेत शिक्षकांनी विचारलेल्या प्रश्नांची उत्तरे का द्यावीत?",
+      "answer": "त्यामुळे आपला आत्मविश्वास वाढतो आणि आपल्याला किती समजले हे शिक्षकांना कळते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण चांगले अक्षर काढण्याचा सराव का करतो?",
+      "answer": "चांगल्या अक्षरामुळे आपले लेखन वाचनीय आणि सुंदर दिसते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण पाणी कसे जपून वापरावे?",
+      "answer": "पाणी पिताना हवे तेवढेच घ्यावे आणि नळ नीट बंद करावा."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "शाळेतील 'प्रतिज्ञा' आपल्याला काय सांगते?",
+      "answer": "प्रतिज्ञा आपल्याला सर्व भारतीयांना बांधव मानण्याची आणि देशावर प्रेम करण्याची शिकवण देते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "शाळेत मधल्या सुट्टीत डबा संपवणे का गरजेचे आहे?",
+      "answer": "आरोग्य चांगले राहण्यासाठी आणि अन्नाचा अपव्यय टाळण्यासाठी डबा संपवणे गरजेचे आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "शाळेच्या खिडकीतून कचरा बाहेर का टाकू नये?",
+      "answer": "त्यामुळे शाळेचा परिसर अस्वच्छ होतो आणि प्रदूषण वाढते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "शाळेतील ग्रंथालयातील पुस्तके परत का करावीत?",
+      "answer": "कारण ती पुस्तके इतर विद्यार्थ्यांनाही वाचायला मिळावीत."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण गणित का शिकतो?",
+      "answer": "दैनंदिन जीवनातील हिशोब आणि तार्किक विचार करण्यासाठी आपण गणित शिकतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण 'परोपकार' म्हणजे काय हे कसे शिकतो?",
+      "answer": "एकमेकांना मदत करून आणि वस्तू वाटून वापरून आपण परोपकार शिकतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "शाळेच्या वर्गाबाहेर चपला रांगेत का काढाव्यात?",
+      "answer": "त्यामुळे गोंधळ होत नाही आणि येण्या-जाण्याचा मार्ग मोकळा राहतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण भाषा का शिकतो?",
+      "answer": "आपले विचार इतरांना प्रभावीपणे सांगण्यासाठी आपण भाषा शिकतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "शाळेतील खेळाच्या साहित्याची काळजी कशी घ्यावी?",
+      "answer": "खेळ संपल्यानंतर साहित्य त्याच्या जागी व्यवस्थित ठेवून काळजी घ्यावी."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण शारीरिक कसरत का करतो?",
+      "answer": "शरीराची लवचिकता आणि ताकद वाढवण्यासाठी शारीरिक कसरत करतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "शाळेतील परिपाठात मौन का पाळावे?",
+      "answer": "मनाचे एकाग्रता वाढवण्यासाठी आणि प्रार्थनेचा आनंद घेण्यासाठी मौन पाळावे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण परिसर अभ्यास का करतो?",
+      "answer": "आपल्या सभोवतालचा निसर्ग, प्राणी आणि समाजाची माहिती करून घेण्यासाठी परिसर अभ्यास करतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "शाळेत उपस्थिती का महत्त्वाची आहे?",
+      "answer": "दररोज उपस्थित राहिल्यामुळे शिकवलेला कोणताही भाग सुटत नाही."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "शाळेत शिक्षकांना 'नमस्ते' किंवा 'गुड मॉर्निंग' का म्हणावे?",
+      "answer": "हे आदराचे प्रतीक आहे आणि यामुळे दिवसाची प्रसन्न सुरुवात होते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण 'स्वच्छता' हे मूल्य कसे आत्मसात करतो?",
+      "answer": "स्वतःचा परिसर आणि वर्ग स्वच्छ ठेवून आपण स्वच्छता शिकतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "शाळेतील स्नेहसंमेलनाचे प्रेक्षक कोण असतात?",
+      "answer": "विद्यार्थी, शिक्षक आणि विद्यार्थ्यांचे पालक स्नेहसंमेलनाचे प्रेक्षक असतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण नखे का कापावीत?",
+      "answer": "नखांमधील घाण पोटात जाऊ नये आणि आरोग्य चांगले राहावे म्हणून नखे कापावीत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "शाळेच्या आवारातील कचराकुंडीचा वापर का करावा?",
+      "answer": "शाळेचे मैदान आणि रस्ते स्वच्छ राहावेत म्हणून कचराकुंडीचा वापर करावा."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण वेळेचे नियोजन कसे करतो?",
+      "answer": "वेळापत्रकाप्रमाणे विषयांचा अभ्यास करून आपण वेळेचे नियोजन करतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण नवनवीन प्रयोग का करतो?",
+      "answer": "ज्ञानाची पडताळणी करण्यासाठी आणि विज्ञानाची आवड निर्माण करण्यासाठी प्रयोग करतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "शाळेतील पिण्याच्या पाण्याच्या तोटीचा वापर कसा करावा?",
+      "answer": "पाणी पिऊन झाल्यावर तोटी पूर्णपणे बंद करावी, जेणेकरून पाणी वाया जाणार नाही."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण गाणी का म्हणतो?",
+      "answer": "एकत्रितपणे गाणी म्हणाल्याने आनंद मिळतो आणि संघभावना वाढते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "शाळेतील परिपाठात आपण बातम्या का वाचतो?",
+      "answer": "दैनंदिन चालू घडामोडींचे ज्ञान व्हावे म्हणून आपण बातम्या वाचतो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण 'मदत' हा गुण कसा दर्शवतो?",
+      "answer": "एखाद्या मित्राचे दप्तर उचलून किंवा कोणाला पेन्सिल देऊन आपण मदत दर्शवतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "शाळेत शिक्षकांचे लक्ष देऊन ऐकण्याचे फायदे सांगा.",
+      "answer": "लक्ष देऊन ऐकल्यास संकल्पना लवकर समजतात आणि परीक्षेत चांगले गुण मिळतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण आपल्या सामानाची काळजी कशी घ्यावी?",
+      "answer": "आपल्या वस्तू दप्तरात नीट ठेवाव्यात आणि त्यावर आपले नाव लिहावे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "शाळेत सुट्टीच्या दिवशी का जाऊ नये?",
+      "answer": "सुट्टीच्या दिवशी शाळा बंद असते आणि शिक्षणाची कामे होत नाहीत."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "शाळेतील बागेत आपण काय शिकतो?",
+      "answer": "बागेत आपण वनस्पतींचे प्रकार आणि त्यांचे संवर्धन करायला शिकतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण थोर व्यक्तींचे फोटो का लावतो?",
+      "answer": "त्यांच्या महान कार्याची आपल्याला सतत आठवण राहावी म्हणून फोटो लावतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "शाळेतील मधल्या सुट्टीत पाणी उडवणे चुकीचे का आहे?",
+      "answer": "पाणी मौल्यवान आहे आणि ते उडवल्यामुळे इतरांचे कपडे ओले होऊ शकतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण खेळाच्या वेळी रांगेत का उभे राहतो?",
+      "answer": "सर्व विद्यार्थ्यांना खेळण्याची संधी मिळावी आणि गोंधळ टाळण्यासाठी रांगेत उभे राहतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण चित्रकलेत रंग कसे वापरतो?",
+      "answer": "चित्राला जिवंतपणा देण्यासाठी आणि कल्पनेनुसार योग्य रंग वापरतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "शाळेतील वर्गाच्या दरवाजाचा वापर कसा करावा?",
+      "answer": "दरवाजा हळू उघडावा आणि लावताना जोरात आपटू नये."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "शाळा आपली प्रगती कशी करते?",
+      "answer": "शाळा आपल्याला शिक्षण देऊन आणि चांगले संस्कार करून आपली सर्वांगीण प्रगती करते."
+    }
+  ]
+}

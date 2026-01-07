@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 7,
+  "chapter_name": "आपणच सोडवू आपले प्रश्न",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपल्या सामाजिक जीवनात कोणत्या समस्या आपल्याला अडथळा ठरतात?",
+      "options": [
+        { "option_id": 1, "text": "चांगले रस्ते", "is_correct": false },
+        { "option_id": 2, "text": "समस्या", "is_correct": true },
+        { "option_id": 3, "text": "उत्सव", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षण", "is_correct": false }
+      ],
+      "answer": "समस्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गावातील किंवा शहरातील समस्यांकडे दुर्लक्ष केल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "समस्या सुटतात", "is_correct": false },
+        { "option_id": 2, "text": "त्या अधिक तीव्र होतात", "is_correct": true },
+        { "option_id": 3, "text": "काहीही होत नाही", "is_correct": false },
+        { "option_id": 4, "text": "लोकांचा फायदा होतो", "is_correct": false }
+      ],
+      "answer": "त्या अधिक तीव्र होतात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गावाच्या विकासासाठी सर्वात महत्त्वाची गोष्ट कोणती?",
+      "options": [
+        { "option_id": 1, "text": "भांडणे", "is_correct": false },
+        { "option_id": 2, "text": "सहकार्य आणि एकजूट", "is_correct": true },
+        { "option_id": 3, "text": "केवळ सरकार", "is_correct": false },
+        { "option_id": 4, "text": "जाहिराती", "is_correct": false }
+      ],
+      "answer": "सहकार्य आणि एकजूट"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हिवरे बाजार या गावातील पाणी टंचाई कशामुळे दूर झाली?",
+      "options": [
+        { "option_id": 1, "text": "जास्त पाऊस पडल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "लोकांच्या सहभागातून व श्रमदानातून", "is_correct": true },
+        { "option_id": 3, "text": "नदी वळवल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी विकत घेतल्यामुळे", "is_correct": false }
+      ],
+      "answer": "लोकांच्या सहभागातून व श्रमदानातून"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "श्रमदानातून गावची स्वच्छता करण्यासाठी कोणते संत ओळखले जातात?",
+      "options": [
+        { "option_id": 1, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 2, "text": "संत गाडगे बाबा", "is_correct": true },
+        { "option_id": 3, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 4, "text": "संत नामदेव", "is_correct": false }
+      ],
+      "answer": "संत गाडगे बाबा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "राष्ट्रसंत तुकडोजी महाराज यांनी स्वच्छतेचे महत्त्व कशातून सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "ग्रामगीता", "is_correct": true },
+        { "option_id": 2, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 3, "text": "गाथा", "is_correct": false },
+        { "option_id": 4, "text": "कीर्तन", "is_correct": false }
+      ],
+      "answer": "ग्रामगीता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शांततेसाठी समाजातील कोणत्या घटकाचा सहभाग आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ श्रीमंत लोक", "is_correct": false },
+        { "option_id": 2, "text": "समाजातील सर्व घटक", "is_correct": true },
+        { "option_id": 3, "text": "केवळ पोलीस", "is_correct": false },
+        { "option_id": 4, "text": "केवळ नेते", "is_correct": false }
+      ],
+      "answer": "समाजातील सर्व घटक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कुटुंबात किंवा समाजात शांतता असल्यास कोणाचे कल्याण होते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मुलांचे", "is_correct": false },
+        { "option_id": 2, "text": "सर्वांचे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ सरकारचे", "is_correct": false },
+        { "option_id": 4, "text": "केवळ शिक्षकांचे", "is_correct": false }
+      ],
+      "answer": "सर्वांचे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शाळा ही कशासाठी एक उत्तम जागा आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ खेळासाठी", "is_correct": false },
+        { "option_id": 2, "text": "लोकशाही रुजवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भांडण करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "लोकशाही रुजवण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "समस्यांचे निवारण करण्यासाठी खालीलपैकी कोणती पद्धत चुकीची आहे?",
+      "options": [
+        { "option_id": 1, "text": "चर्चा करणे", "is_correct": false },
+        { "option_id": 2, "text": "भांडण करणे", "is_correct": true },
+        { "option_id": 3, "text": "श्रमदान करणे", "is_correct": false },
+        { "option_id": 4, "text": "सहकार्य करणे", "is_correct": false }
+      ],
+      "answer": "भांडण करणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक ठिकाणी कचरा टाकणे ही एक ____ आहे.",
+      "options": [
+        { "option_id": 1, "text": "चांगली सवय", "is_correct": false },
+        { "option_id": 2, "text": "समस्या", "is_correct": true },
+        { "option_id": 3, "text": "मजा", "is_correct": false },
+        { "option_id": 4, "text": "गरज", "is_correct": false }
+      ],
+      "answer": "समस्या"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हिवरे बाजार हे गाव कोणत्या जिल्ह्यातील आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "अहमदनगर", "is_correct": true },
+        { "option_id": 3, "text": "सातारा", "is_correct": false },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "अहमदनगर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खुटावली गावातील विद्यार्थ्यांनी स्वच्छतेसाठी काय वापरले?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या मशीन", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःचे हात आणि श्रमदान", "is_correct": true },
+        { "option_id": 3, "text": "पैसे", "is_correct": false },
+        { "option_id": 4, "text": "परदेशी तंत्रज्ञान", "is_correct": false }
+      ],
+      "answer": "स्वतःचे हात आणि श्रमदान"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तंटामुक्ती योजनेमुळे गावातील वाद कोठे सुटतात?",
+      "options": [
+        { "option_id": 1, "text": "न्यायालयात", "is_correct": false },
+        { "option_id": 2, "text": "गावातच", "is_correct": true },
+        { "option_id": 3, "text": "पोलिस ठाण्यात", "is_correct": false },
+        { "option_id": 4, "text": "दुसऱ्या देशात", "is_correct": false }
+      ],
+      "answer": "गावातच"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शांतता प्रस्थापित करण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "शस्त्रांची", "is_correct": false },
+        { "option_id": 2, "text": "सहिष्णुता आणि सामंजस्य", "is_correct": true },
+        { "option_id": 3, "text": "पैशांची", "is_correct": false },
+        { "option_id": 4, "text": "रागाची", "is_correct": false }
+      ],
+      "answer": "सहिष्णुता आणि सामंजस्य"
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question": "गाडगे बाबांनी स्वच्छतेचा प्रसार करण्यासाठी कोणत्या साधनाचा वापर केला?",
+        "options": [
+          { "option_id": 1, "text": "पुस्तके", "is_correct": false },
+          { "option_id": 2, "text": "कीर्तन", "is_correct": true },
+          { "option_id": 3, "text": "टीव्ही", "is_correct": false },
+          { "option_id": 4, "text": "वर्तमानपत्र", "is_correct": false }
+        ],
+        "answer": "कीर्तन"
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question": "ज्या गावातील वाद गावातच शांततेने मिटतात, अशा गावाला कोणता पुरस्कार मिळतो?",
+        "options": [
+          { "option_id": 1, "text": "खेळरत्न", "is_correct": false },
+          { "option_id": 2, "text": "महात्मा गांधी तंटामुक्त गाव पुरस्कार", "is_correct": true },
+          { "option_id": 3, "text": "पद्मश्री", "is_correct": false },
+          { "option_id": 4, "text": "भारत रत्न", "is_correct": false }
+        ],
+        "answer": "महात्मा गांधी तंटामुक्त गाव पुरस्कार"
+    },
+    {
+        "question_id": 18,
+        "question_type": "MCQ",
+        "question": "सांडपाण्याची विल्हेवाट लावणे ही कोणाची जबाबदारी आहे?",
+        "options": [
+          { "option_id": 1, "text": "फक्त सफाई कामगारांची", "is_correct": false },
+          { "option_id": 2, "text": "नागरिक आणि स्थानिक प्रशासन", "is_correct": true },
+          { "option_id": 3, "text": "मुलांची", "is_correct": false },
+          { "option_id": 4, "text": "केवळ दुकानदारांची", "is_correct": false }
+        ],
+        "answer": "नागरिक आणि स्थानिक प्रशासन"
+    },
+    {
+        "question_id": 19,
+        "question_type": "MCQ",
+        "question": "परिसराचा विकास होण्यासाठी काय आवश्यक असते?",
+        "options": [
+          { "option_id": 1, "text": "दुजाभाव", "is_correct": false },
+          { "option_id": 2, "text": "शांतता", "is_correct": true },
+          { "option_id": 3, "text": "अशांतता", "is_correct": false },
+          { "option_id": 4, "text": "भीती", "is_correct": false }
+        ],
+        "answer": "शांतता"
+    },
+    {
+        "question_id": 20,
+        "question_type": "MCQ",
+        "question": "कचऱ्याची समस्या सोडवण्यासाठी कोणता मार्ग सर्वोत्तम आहे?",
+        "options": [
+          { "option_id": 1, "text": "नदीत टाकणे", "is_correct": false },
+          { "option_id": 2, "text": "कचऱ्याचे वर्गीकरण आणि पुनर्वापर", "is_correct": true },
+          { "option_id": 3, "text": "रस्त्यावर जाळणे", "is_correct": false },
+          { "option_id": 4, "text": "शेजाऱ्याच्या दारात टाकणे", "is_correct": false }
+        ],
+        "answer": "कचऱ्याचे वर्गीकरण आणि पुनर्वापर"
+    },
+    {
+        "question_id": 21,
+        "question_type": "MCQ",
+        "question": "समानतेमुळे समाजात काय निर्माण होते?",
+        "options": [
+          { "option_id": 1, "text": "भांडणे", "is_correct": false },
+          { "option_id": 2, "text": "अन्याय", "is_correct": false },
+          { "option_id": 3, "text": "एकता व शांतता", "is_correct": true },
+          { "option_id": 4, "text": "भ्रष्टाचार", "is_correct": false }
+        ],
+        "answer": "एकता व शांतता"
+    },
+    {
+        "question_id": 22,
+        "question_type": "MCQ",
+        "question": "वैयक्तिक स्वच्छता म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "फक्त स्वतःचे शरीर स्वच्छ ठेवणे", "is_correct": true },
+          { "option_id": 2, "text": "दुसऱ्याचे घर स्वच्छ करणे", "is_correct": false },
+          { "option_id": 3, "text": "बागेत कचरा टाकणे", "is_correct": false },
+          { "option_id": 4, "text": "शौचालय न वापरणे", "is_correct": false }
+        ],
+        "answer": "फक्त स्वतःचे शरीर स्वच्छ ठेवणे"
+    },
+    {
+        "question_id": 23,
+        "question_type": "MCQ",
+        "question": "पाणी बचतीचा कोणता उपाय सर्वात चांगला आहे?",
+        "options": [
+          { "option_id": 1, "text": "नळ चालू ठेवणे", "is_correct": false },
+          { "option_id": 2, "text": "पाण्याचा काटकसरीने वापर करणे", "is_correct": true },
+          { "option_id": 3, "text": "जास्त पाणी वापरणे", "is_correct": false },
+          { "option_id": 4, "text": "पाणी वाया घालवणे", "is_correct": false }
+        ],
+        "answer": "पाण्याचा काटकसरीने वापर करणे"
+    },
+    {
+        "question_id": 24,
+        "question_type": "MCQ",
+        "question": "गावातील रस्ते दुरुस्त करण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "दुसऱ्याला शिव्या द्याव्यात", "is_correct": false },
+          { "option_id": 2, "text": "ग्रामसभेत चर्चा करून पाठपुरावा करावा", "is_correct": true },
+          { "option_id": 3, "text": "काहीही करू नये", "is_correct": false },
+          { "option_id": 4, "text": "रस्ते फोडावेत", "is_correct": false }
+        ],
+        "answer": "ग्रामसभेत चर्चा करून पाठपुरावा करावा"
+    },
+    {
+        "question_id": 25,
+        "question_type": "MCQ",
+        "question": "पर्यावरण संतुलनासाठी काय करणे गरजेचे आहे?",
+        "options": [
+          { "option_id": 1, "text": "झाडे तोडणे", "is_correct": false },
+          { "option_id": 2, "text": "झाडे लावणे व जगवणे", "is_correct": true },
+          { "option_id": 3, "text": "प्लास्टिक वापरणे", "is_correct": false },
+          { "option_id": 4, "text": "प्रदूषण करणे", "is_correct": false }
+        ],
+        "answer": "झाडे लावणे व जगवणे"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "शाळेत 'बालसंसद' कशासाठी असते?",
+        "options": [
+          { "option_id": 1, "text": "झोपण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "शालेय समस्या सोडवण्यासाठी व निर्णय प्रक्रिया शिकण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "जेवण करण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "फक्त खेळण्यासाठी", "is_correct": false }
+        ],
+        "answer": "शालेय समस्या सोडवण्यासाठी व निर्णय प्रक्रिया शिकण्यासाठी"
+    },
+    {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक समस्या कोण सोडवू शकते?",
+        "options": [
+          { "option_id": 1, "text": "फक्त सरपंच", "is_correct": false },
+          { "option_id": 2, "text": "फक्त मुख्यमंत्री", "is_correct": false },
+          { "option_id": 3, "text": "सामूहिक प्रयत्नाने सर्व नागरिक", "is_correct": true },
+          { "option_id": 4, "text": "केवळ मुले", "is_correct": false }
+        ],
+        "answer": "सामूहिक प्रयत्नाने सर्व नागरिक"
+    },
+    {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "ध्वनी प्रदूषण टाळण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "मोठ्या आवाजात गाणी लावणे", "is_correct": false },
+          { "option_id": 2, "text": "गर्दीत विनाकारण हॉर्न न वाजवणे", "is_correct": true },
+          { "option_id": 3, "text": "आरडाओरडा करणे", "is_correct": false },
+          { "option_id": 4, "text": "फटाके वाजवणे", "is_correct": false }
+        ],
+        "answer": "गर्दीत विनाकारण हॉर्न न वाजवणे"
+    },
+    {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "सहनशीलता वाढवण्यासाठी काय आवश्यक आहे?",
+        "options": [
+          { "option_id": 1, "text": "राग", "is_correct": false },
+          { "option_id": 2, "text": "समंजसपणा", "is_correct": true },
+          { "option_id": 3, "text": "अहंकार", "is_correct": false },
+          { "option_id": 4, "text": "द्वेष", "is_correct": false }
+        ],
+        "answer": "समंजसपणा"
+    },
+    {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "समस्येचे मूळ शोधणे म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "समस्या का निर्माण झाली हे समजून घेणे", "is_correct": true },
+          { "option_id": 2, "text": "समस्येला घाबरून जाणे", "is_correct": false },
+          { "option_id": 3, "text": "दुसऱ्याला दोष देणे", "is_correct": false },
+          { "option_id": 4, "text": "समस्या लपवून ठेवणे", "is_correct": false }
+        ],
+        "answer": "समस्या का निर्माण झाली हे समजून घेणे"
+    },
+    {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "सहकार्य केल्याने कामे कशी होतात?",
+        "options": [
+          { "option_id": 1, "text": "कठीण होतात", "is_correct": false },
+          { "option_id": 2, "text": "रखडतात", "is_correct": false },
+          { "option_id": 3, "text": "सोपी आणि वेगाने होतात", "is_correct": true },
+          { "option_id": 4, "text": "होणारच नाहीत", "is_correct": false }
+        ],
+        "answer": "सोपी आणि वेगाने होतात"
+    },
+    {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "तंटामुक्त गाव मोहिमेचा मुख्य उद्देश काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "लोकांना शिक्षा करणे", "is_correct": false },
+          { "option_id": 2, "text": "गावातील वाद गावातच शांततेने मिटवणे", "is_correct": true },
+          { "option_id": 3, "text": "गावात गोंधळ घालणे", "is_correct": false },
+          { "option_id": 4, "text": "न्यायालयावरचा भार वाढवणे", "is_correct": false }
+        ],
+        "answer": "गावातील वाद गावातच शांततेने मिटवणे"
+    },
+    {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "प्लास्टिकचा वापर टाळणे का गरजेचे आहे?",
+        "options": [
+          { "option_id": 1, "text": "ते महाग असते", "is_correct": false },
+          { "option_id": 2, "text": "ते पर्यावरणास घातक असते व कुजत नाही", "is_correct": true },
+          { "option_id": 3, "text": "ते मिळत नाही", "is_correct": false },
+          { "option_id": 4, "text": "ते रंगीत नसते", "is_correct": false }
+        ],
+        "answer": "ते पर्यावरणास घातक असते व कुजत नाही"
+    },
+    {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "गावातील स्वच्छतेसाठी कोणाचे श्रम महत्त्वाचे असतात?",
+        "options": [
+          { "option_id": 1, "text": "फक्त सरकारचे", "is_correct": false },
+          { "option_id": 2, "text": "फक्त ठेकेदाराचे", "is_correct": false },
+          { "option_id": 3, "text": "सर्व ग्रामस्थांचे (श्रमदान)", "is_correct": true },
+          { "option_id": 4, "text": "फक्त बाहेरील लोकांचे", "is_correct": false }
+        ],
+        "answer": "सर्व ग्रामस्थांचे (श्रमदान)"
+    },
+    {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "नळाची तोटी गळत असल्यास काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "तसेच राहू द्यावे", "is_correct": false },
+          { "option_id": 2, "text": "दुरुस्त करून घ्यावी", "is_correct": true },
+          { "option_id": 3, "text": "आणखी सैल करावी", "is_correct": false },
+          { "option_id": 4, "text": "पाणी भरून ठेवावे", "is_correct": false }
+        ],
+        "answer": "दुरुस्त करून घ्यावी"
+    },
+    {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "ग्रामसभा म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "गावातील प्रौढ नागरिकांची सभा", "is_correct": true },
+          { "option_id": 2, "text": "फक्त मुलांची सभा", "is_correct": false },
+          { "option_id": 3, "text": "बाहेरून आलेल्या लोकांची सभा", "is_correct": false },
+          { "option_id": 4, "text": "मंत्र्यांची सभा", "is_correct": false }
+        ],
+        "answer": "गावातील प्रौढ नागरिकांची सभा"
+    },
+    {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "स्त्री-पुरुष समानता म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "दोघांना वेगळे लेखणे", "is_correct": false },
+          { "option_id": 2, "text": "दोघांना समान संधी आणि वागणूक देणे", "is_correct": true },
+          { "option_id": 3, "text": "फक्त पुरुषांना प्राधान्य देणे", "is_correct": false },
+          { "option_id": 4, "text": "फक्त स्त्रियांना कामाला लावणे", "is_correct": false }
+        ],
+        "answer": "दोघांना समान संधी आणि वागणूक देणे"
+    },
+    {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "परिसराची शांतता कशामुळे धोक्यात येते?",
+        "options": [
+          { "option_id": 1, "text": "एकजुटीमुळे", "is_correct": false },
+          { "option_id": 2, "text": "संवादामुळे", "is_correct": false },
+          { "option_id": 3, "text": "भेदभाव आणि कट्टरपणामुळे", "is_correct": true },
+          { "option_id": 4, "text": "सहिष्णुतेमुळे", "is_correct": false }
+        ],
+        "answer": "भेदभाव आणि कट्टरपणामुळे"
+    },
+    {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक संपत्तीचे जतन करणे ही कोणाची जबाबदारी आहे?",
+        "options": [
+          { "option_id": 1, "text": "फक्त सुरक्षा रक्षकाची", "is_correct": false },
+          { "option_id": 2, "text": "प्रत्येक नागरिकाची", "is_correct": true },
+          { "option_id": 3, "text": "कोणाचीच नाही", "is_correct": false },
+          { "option_id": 4, "text": "परदेशी पर्यटकांची", "is_correct": false }
+        ],
+        "answer": "प्रत्येक नागरिकाची"
+    },
+    {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "रस्त्यांवरील दिवे दिवसा चालू असल्यास आपण काय कराल?",
+        "options": [
+          { "option_id": 1, "text": "काहीही करणार नाही", "is_correct": false },
+          { "option_id": 2, "text": "बटण बंद करण्याचा प्रयत्न करू किंवा कळवू", "is_correct": true },
+          { "option_id": 3, "text": "बल्ब फोडू", "is_correct": false },
+          { "option_id": 4, "text": "त्याचा आनंद घेऊ", "is_correct": false }
+        ],
+        "answer": "बटण बंद करण्याचा प्रयत्न करू किंवा कळवू"
+    },
+    {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "वेळेचे नियोजन करणे कशासाठी महत्त्वाचे आहे?",
+        "options": [
+          { "option_id": 1, "text": "आळस करण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "कामे वेळेवर आणि नीट पूर्ण होण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "दिवस घालवण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "गर्दी करण्यासाठी", "is_correct": false }
+        ],
+        "answer": "कामे वेळेवर आणि नीट पूर्ण होण्यासाठी"
+    },
+    {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "अंधश्रद्धा निर्मूलनासाठी काय आवश्यक आहे?",
+        "options": [
+          { "option_id": 1, "text": "वैज्ञानिक दृष्टिकोन", "is_correct": true },
+          { "option_id": 2, "text": "भीती", "is_correct": false },
+          { "option_id": 3, "text": "जुनी विचारसरणी", "is_correct": false },
+          { "option_id": 4, "text": "अफवा", "is_correct": false }
+        ],
+        "answer": "वैज्ञानिक दृष्टिकोन"
+    },
+    {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "वृक्षवल्ली आम्हा सोयरे... हे कोणी म्हटले आहे?",
+        "options": [
+          { "option_id": 1, "text": "संत ज्ञानेश्वर", "is_correct": false },
+          { "option_id": 2, "text": "संत तुकाराम", "is_correct": true },
+          { "option_id": 3, "text": "संत रामदास", "is_correct": false },
+          { "option_id": 4, "text": "संत एकनाथ", "is_correct": false }
+        ],
+        "answer": "संत तुकाराम"
+    },
+    {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "शाळेचा परिसर स्वच्छ ठेवण्यासाठी विद्यार्थ्यांनी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "कचरा कोठेही टाकावा", "is_correct": false },
+          { "option_id": 2, "text": "केवळ कचरा पेटीचा वापर करावा", "is_correct": true },
+          { "option_id": 3, "text": "दुसऱ्याला कचरा टाकायला सांगावा", "is_correct": false },
+          { "option_id": 4, "text": "वर्गाच्या बाहेर थुंकावे", "is_correct": false }
+        ],
+        "answer": "केवळ कचरा पेटीचा वापर करावा"
+    },
+    {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "साक्षरतेमुळे कशाला आळा बसतो?",
+        "options": [
+          { "option_id": 1, "text": "विकासाला", "is_correct": false },
+          { "option_id": 2, "text": "शोषणाला आणि फसवणुकीला", "is_correct": true },
+          { "option_id": 3, "text": "ज्ञानाला", "is_correct": false },
+          { "option_id": 4, "text": "आनंदाला", "is_correct": false }
+        ],
+        "answer": "शोषणाला आणि फसवणुकीला"
+    },
+    {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "एकता आणि एकात्मता वाढवण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "सर्व धर्मांचा आदर करावा", "is_correct": true },
+          { "option_id": 2, "text": "दुसऱ्याला हीन लेखावे", "is_correct": false },
+          { "option_id": 3, "text": "फक्त स्वतःचा विचार करावा", "is_correct": false },
+          { "option_id": 4, "text": "गटातटात राहावे", "is_correct": false }
+        ],
+        "answer": "सर्व धर्मांचा आदर करावा"
+    },
+    {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "पर्यावरणाचे रक्षण म्हणजे कोणाचे रक्षण होय?",
+        "options": [
+          { "option_id": 1, "text": "फक्त प्राण्यांचे", "is_correct": false },
+          { "option_id": 2, "text": "मानवी जीवनाचे", "is_correct": true },
+          { "option_id": 3, "text": "केवळ पर्वतांचे", "is_correct": false },
+          { "option_id": 4, "text": "कोणाचेच नाही", "is_correct": false }
+        ],
+        "answer": "मानवी जीवनाचे"
+    },
+    {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "आपल्या देशातील शांततेचे प्रतीक म्हणून कोणाचा उल्लेख केला जातो?",
+        "options": [
+          { "option_id": 1, "text": "युद्ध", "is_correct": false },
+          { "option_id": 2, "text": "अहिंसा", "is_correct": true },
+          { "option_id": 3, "text": "आक्रमकता", "is_correct": false },
+          { "option_id": 4, "text": "सत्तेचा गैरवापर", "is_correct": false }
+        ],
+        "answer": "अहिंसा"
+    },
+    {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "दुसऱ्याचे म्हणणे शांतपणे ऐकून घेणे याला काय म्हणतात?",
+        "options": [
+          { "option_id": 1, "text": "दुर्लक्ष", "is_correct": false },
+          { "option_id": 2, "text": "सहिष्णुता", "is_correct": true },
+          { "option_id": 3, "text": "कमकुवतपणा", "is_correct": false },
+          { "option_id": 4, "text": "भीती", "is_correct": false }
+        ],
+        "answer": "सहिष्णुता"
+    },
+    {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "शाळेत आपण कोणत्या गोष्टी शिकतो?",
+        "options": [
+          { "option_id": 1, "text": "फक्त अभ्यास", "is_correct": false },
+          { "option_id": 2, "text": "समूह जीवनातील शिस्त आणि सहकार्य", "is_correct": true },
+          { "option_id": 3, "text": "मोबाईल गेम खेळणे", "is_correct": false },
+          { "option_id": 4, "text": "विनाकारण भांडणे", "is_correct": false }
+        ],
+        "answer": "समूह जीवनातील शिस्त आणि सहकार्य"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक समस्या म्हणजे काय?",
+      "answer": "आपल्या समूह जीवनातील विविध अडचणींना सार्वजनिक समस्या म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक समस्या कोण सोडवू शकते?",
+      "answer": "सार्वजनिक समस्या सर्वांच्या प्रयत्नाने आणि सर्वांच्या सहभागातून सुटू शकतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "तंटा म्हणजे काय?",
+      "answer": "दोन व्यक्ती किंवा गटांमध्ये निर्माण होणाऱ्या वादाला तंटा म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "तंट्यामुळे गावाचे काय नुकसान होते?",
+      "answer": "तंट्यामुळे गावातील एकोपा विस्कळीत होतो आणि गावाच्या विकासात अडथळे येतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "तंटामुक्ती म्हणजे काय?",
+      "answer": "गावातील वाद गावातच सामोपचाराने मिटवणे म्हणजे तंटामुक्ती होय."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "महात्मा गांधी तंटामुक्त गाव योजना कशासाठी आहे?",
+      "answer": "गावातील तंटे गावातच मिटावेत आणि गावात शांतता राहावी यासाठी ही योजना आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "श्रमदान म्हणजे काय?",
+      "answer": "स्वतःच्या कष्टाने किंवा मेहनतीने केलेले समाजोपयोगी काम म्हणजे श्रमदान होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "गाडगे बाबा स्वच्छतेचा संदेश कसा देत असत?",
+      "answer": "गाडगे बाबा स्वतः हातात झाडू घेऊन गाव स्वच्छ करत आणि कीर्तनातून स्वच्छतेचे महत्त्व पटवून देत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंत तुकडोजी महाराज यांनी स्वच्छतेबद्दल काय लिहिले आहे?",
+      "answer": "त्यांनी 'ग्रामगीता' या ग्रंथातून स्वच्छतेचे महत्त्व आणि श्रमदानाचे महत्त्व सांगितले आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "गावातील शांततेसाठी काय आवश्यक आहे?",
+      "answer": "गावातील शांततेसाठी लोकांमध्ये सामंजस्य, सहिष्णुता आणि विश्वास असणे आवश्यक आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शांतता क्षेत्र म्हणजे काय?",
+      "answer": "ज्या भागात शांतता पाळणे बंधनकारक असते (उदा. रुग्णालय, शाळा), त्याला शांतता क्षेत्र म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "समस्या निवारणाची पहिली पायरी कोणती?",
+      "answer": "समस्येचे अस्तित्व मान्य करणे आणि तिचे स्वरूप समजून घेणे ही पहिली पायरी आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पाणी टंचाईवर हिवरे बाजार गावाने काय उपाय केला?",
+      "answer": "गावकऱ्यांनी श्रमदानातून जलसंधारणाची कामे केली आणि पाण्याचा काटकसरीने वापर सुरू केला."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "खुटावली गावातील मुलांनी स्वच्छतेसाठी कोणते काम केले?",
+      "answer": "मुलांनी मिळून संपूर्ण गाव स्वच्छ केले आणि सांडपाण्याची विल्हेवाट लावण्यासाठी प्रयत्न केले."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चर्चा करणे का महत्त्वाचे असते?",
+      "answer": "चर्चेमुळे एकमेकांचे विचार समजतात आणि समस्येवर योग्य मार्ग काढता येतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सहिष्णुता म्हणजे काय?",
+      "answer": "स्वतःच्या विचारांहून वेगळे विचार असलेल्या लोकांचा आदर करणे म्हणजे सहिष्णुता होय."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "शांततेमुळे समाजाचा काय फायदा होतो?",
+      "answer": "शांततेमुळे लोकांचे जीवन सुसह्य होते आणि सर्वांगीण प्रगतीला वेग मिळतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "अस्वच्छतेमुळे कोणते धोके निर्माण होतात?",
+      "answer": "अस्वच्छतेमुळे आजार पसरतात आणि आरोग्य धोक्यात येते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक समस्यांची दोन उदाहरणे द्या.",
+      "answer": "पाणी टंचाई आणि कचऱ्याची विल्हेवाट ही सार्वजनिक समस्यांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गावाचा विकास कोणावर अवलंबून असतो?",
+      "answer": "गावाचा विकास गावातील लोकांच्या एकजुटीवर आणि सहकार्यावर अवलंबून असतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ग्रामपंचायतीचे काम काय असते?",
+      "answer": "गावातील सोयीसुविधांची देखभाल करणे आणि सार्वजनिक समस्या सोडवणे हे ग्रामपंचायतीचे काम असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शाळेत लोकशाही कशी अनुभवता येते?",
+      "answer": "शाळेतील प्रतिनिधींची निवड करणे आणि नियमांचे पालन करणे यातून लोकशाही अनुभवता येते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कचरा ही समस्या का बनली आहे?",
+      "answer": "कचऱ्याचे योग्य नियोजन न केल्यामुळे आणि तो कुठेही टाकल्यामुळे ती एक समस्या बनली आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आपण शाळेत कोणाशी सहकार्य करतो?",
+      "answer": "आपण शाळेत आपले मित्र, शिक्षक आणि शाळेतील कर्मचाऱ्यांशी सहकार्य करतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तंटामुक्तीसाठी गावकऱ्यांनी काय करावे?",
+      "answer": "गावकऱ्यांनी आपापसातील हेवेदावे विसरून चर्चा करून वादावर तोडगा काढावा."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शांततेचे महत्त्व सांगणारे एखादे सुविचार सांगा.",
+      "answer": "'शांतता हे प्रगतीचे लक्षण आहे' किंवा 'एकता हेच बळ'."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "निसर्गाचे रक्षण करणे ही कोणाची जबाबदारी आहे?",
+      "answer": "निसर्गाचे रक्षण करणे ही आपल्या सर्वांची जबाबदारी आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सहकार्याचा फायदा काय?",
+      "answer": "सहकार्यामुळे अवघड कामे सोपी होतात आणि कामाचा आनंद मिळतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "प्रदूषण ही कोणती समस्या आहे?",
+      "answer": "प्रदूषण ही एक गंभीर सार्वजनिक आणि जागतिक समस्या आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "सांडपाणी उघड्यावर का सोडले जाऊ नये?",
+      "answer": "कारण त्यामुळे परिसरात दुर्गंधी पसरते आणि डास वाढून आजार होतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "गावातील विहीर स्वच्छ ठेवण्यासाठी काय करावे?",
+      "answer": "विहिरीत कचरा टाकू नये आणि विहिरीभोवती कपडे धुवू नयेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शाळेतील समस्या कोण मांडू शकते?",
+      "answer": "शाळेतील समस्या विद्यार्थी, शिक्षक आणि पालक मांडू शकतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "गावाचा विकास आराखडा कोण तयार करते?",
+      "answer": "गावाचा विकास आराखडा ग्रामपंचायत आणि ग्रामसभा मिळून तयार करतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "शिक्षणामुळे काय मिळते?",
+      "answer": "शिक्षणामुळे ज्ञान मिळते आणि चांगले वाईट समजण्याची शक्ती मिळते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "भेदभाव केल्यामुळे काय होते?",
+      "answer": "भेदभाव केल्यामुळे समाजात तेढ निर्माण होते आणि शांतता भंग पावते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक शौचालय का वापरावे?",
+      "answer": "परिसरात स्वच्छता राखण्यासाठी आणि आजार टाळण्यासाठी सार्वजनिक शौचालय वापरावे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "मुलांना शाळेत जाण्यापासून का रोखू नये?",
+      "answer": "कारण शिक्षण हा प्रत्येक मुलाचा अधिकार आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पाण्याचे प्रदूषण कसे टाळता येईल?",
+      "answer": "नद्यांमध्ये कचरा आणि सांडपाणी न सोडल्यास पाण्याचे प्रदूषण टाळता येईल."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वेळेचे नियोजन का करावे?",
+      "answer": "वेळेचा अपव्यय टाळण्यासाठी आणि शिस्त लावण्यासाठी वेळेचे नियोजन करावे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "संत गाडगे बाबांनी काय संदेश दिला?",
+      "answer": "स्वच्छता, शिक्षण आणि स्वावलंबन हा संदेश त्यांनी दिला."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ग्रामसभेत कोणाला बोलण्याचा अधिकार असतो?",
+      "answer": "गावातील प्रत्येक प्रौढ नागरिकाला ग्रामसभेत बोलण्याचा अधिकार असतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शाळा आणि समाज यांचा काय संबंध आहे?",
+      "answer": "शाळा हा समाजाचाच एक भाग आहे आणि ती समाजाच्या विकासात मदत करते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "एखादा वाद चिघळल्यास काय होते?",
+      "answer": "वाद चिघळल्यास हिंसाचार होऊ शकतो आणि मोठ्या प्रमाणावर नुकसान होते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "शांतता प्रस्थापित करण्यासाठी कशाचा त्याग करावा?",
+      "answer": "राग, द्वेष आणि हिंसाचार यांचा त्याग करावा."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "आपण समस्यांना तोंड कसे द्यावे?",
+      "answer": "न घाबरता धैर्याने आणि विचारपूर्वक समस्यांना तोंड द्यावे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "विनाकारण लाईट चालू ठेवल्यास काय होते?",
+      "answer": "विनाकारण लाईट चालू ठेवल्यास ऊर्जेचा अपव्यय होतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "प्राणीमात्रांवर दया का करावी?",
+      "answer": "कारण ते देखील पर्यावरणाचा महत्त्वाचा भाग आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शहरातील मुख्य समस्या कोणती?",
+      "answer": "वाहतूक कोंडी आणि वाढते प्रदूषण या शहरांमधील मुख्य समस्या आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "शांततेने प्रश्न सुटतात का?",
+      "answer": "हो, शांततेने आणि चर्चेने कोणतेही कठीण प्रश्न सुटू शकतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "गावाची प्रगती कशामुळे थांबते?",
+      "answer": "गावातील सततची भांडणे आणि अस्वच्छतेमुळे गावाची प्रगती थांबते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "परिसराची देखभाल कोण करते?",
+      "answer": "स्थानिक शासन संस्था आणि जागरूक नागरिक परिसराची देखभाल करतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "प्लास्टिक पिशव्यांऐवजी काय वापरावे?",
+      "answer": "कापडी किंवा कागदी पिशव्यांचा वापर करावा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "आपल्या तक्रारी कुठे मांडाव्यात?",
+      "answer": "ग्रामपंचायत किंवा संबंधित स्थानिक कार्यालयात तक्रारी मांडाव्यात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "एकजुटीचे महत्त्व काय?",
+      "answer": "एकजुटीमुळे कठीण प्रसंगांवर मात करता येते आणि गावाची शक्ती वाढते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "शाळेत आपण कोणते नियम पाळतो?",
+      "answer": "शाळेत आपण वेळेवर येणे, गणवेश घालणे आणि शांतता राखणे हे नियम पाळतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "अस्वच्छतेचा अन्नावर काय परिणाम होतो?",
+      "answer": "अस्वच्छतेमुळे अन्नावर माश्या बसतात आणि ते अन्न दूषित होते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "निसर्ग आपल्याला काय देतो?",
+      "answer": "निसर्ग आपल्याला हवा, पाणी, अन्न आणि निवारा या मूलभूत गोष्टी देतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "लोकशाहीत कोणाचे मत महत्त्वाचे असते?",
+      "answer": "लोकशाहीत प्रत्येक नागरिकाचे मत महत्त्वाचे असते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "वाद सोडवण्यासाठी मध्यस्थाची भूमिका काय असते?",
+      "answer": "मध्यस्थ दोन्ही बाजूंचे म्हणणे ऐकून घेऊन न्याय्य तोडगा काढण्यास मदत करतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "श्रमदानातून कोणते फायदे होतात?",
+      "answer": "श्रमदानातून पैशांची बचत होते आणि लोकांमध्ये आपुलकी वाढते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कचऱ्यापासून खत कसे तयार होते?",
+      "answer": "ओल्या कचऱ्याचे खड्ड्यात विघटन करून त्यापासून खत तयार होते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "पाणी ही जीवन का आहे?",
+      "answer": "कारण सजीव सृष्टी पाण्याशिवाय जगू शकत नाही."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "अफवांवर विश्वास का ठेवू नये?",
+      "answer": "कारण अफवांमुळे समाजात भीती आणि गोंधळ निर्माण होतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "शाळेच्या बागांची निगा कशी राखावी?",
+      "answer": "झाडांना पाणी देऊन आणि त्यांची पाने न तोडता बागांची निगा राखावी."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "गरिबांना मदत करणे ही कोणती वृत्ती आहे?",
+      "answer": "गरिबांना मदत करणे ही सामाजिक बांधिलकीची वृत्ती आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर थुंकणे का टाळावे?",
+      "answer": "कारण थुंकीतून जंतूंचा प्रसार होतो आणि परिसर अस्वच्छ होतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "वृक्षारोपण का करावे?",
+      "answer": "हवा शुद्ध ठेवण्यासाठी आणि पाऊस पडण्यासाठी वृक्षारोपण करावे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "गावातील शाळा ही कोणाची असते?",
+      "answer": "गावातील शाळा ही संपूर्ण गावाची सार्वजनिक मालमत्ता असते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "आपण आपले गाव सुंदर कसे करू शकतो?",
+      "answer": "स्वच्छता ठेवून आणि झाडे लावून आपण आपले गाव सुंदर करू शकतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "मुले कोणते सामाजिक प्रश्न सोडवू शकतात?",
+      "answer": "मुले स्वच्छता, पाण्याचा वापर आणि साक्षरता प्रसार यांसारखे प्रश्न सोडवू शकतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक वाचनालयाचा उपयोग काय?",
+      "answer": "लोकांचे ज्ञान वाढवण्यासाठी आणि वाचनाची आवड निर्माण करण्यासाठी वाचनालयाचा उपयोग होतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "सहनशक्ती म्हणजे काय?",
+      "answer": "कठीण परिस्थितीत डगमगून न जाता संयम राखणे म्हणजे सहनशक्ती होय."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी साठवणे का गरजेचे आहे?",
+      "answer": "भविष्यातील पाण्याची टंचाई दूर करण्यासाठी पावसाचे पाणी साठवणे गरजेचे आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "विनाकारण ओरडणे का टाळावे?",
+      "answer": "विनाकारण ओरडल्यामुळे ध्वनी प्रदूषण होते आणि इतरांना त्रास होतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "सामाजिक सलोखा म्हणजे काय?",
+      "answer": "सर्व जाती-धर्माच्या लोकांनी गुण्यागोविंदाने राहणे म्हणजे सामाजिक सलोखा होय."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "नियमांची गरज का असते?",
+      "answer": "समूह जीवनात शिस्त आणि सुसूत्रता राहण्यासाठी नियमांची गरज असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "शाळा प्रगत झाल्यास कोणाचा फायदा होतो?",
+      "answer": "शाळा प्रगत झाल्यास विद्यार्थ्यांचा आणि पर्यायाने गावाचा फायदा होतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पाणी गाळून का प्यावे?",
+      "answer": "पाण्यातील अशुद्धी दूर करण्यासाठी आणि आरोग्य चांगले ठेवण्यासाठी पाणी गाळून प्यावे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणाचे महत्त्व काय?",
+      "answer": "प्रामाणिकपणामुळे लोकांचा आपल्यावर विश्वास बसतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "गावच्या पाहुण्यांचे स्वागत कसे करावे?",
+      "answer": "गावच्या पाहुण्यांचे स्वागत आदराने आणि प्रेमाने करावे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "वृद्धांना कशी मदत करावी?",
+      "answer": "रस्ता ओलांडताना किंवा जड सामान उचलताना वृद्धांना मदत करावी."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "विजेची बचत कशी करावी?",
+      "answer": "खोलीतून बाहेर पडताना पंखा आणि दिवे बंद करून विजेची बचत करावी."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "संवाद म्हणजे काय?",
+      "answer": "दोन किंवा अधिक व्यक्तींमध्ये होणारी विचारांची देवाणघेवाण म्हणजे संवाद होय."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "समूहात राहिल्यामुळे काय मिळते?",
+      "answer": "समूहात राहिल्यामुळे आपल्याला सुरक्षितता आणि सहवास मिळतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "तंटामुक्तीसाठी पोलिसांनी काय भूमिका घ्यावी?",
+      "answer": "पोलिसांनी लोकांना वाद शांततेने मिटवण्यासाठी मार्गदर्शन करावे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "गावातील आरोग्य केंद्र का महत्त्वाचे आहे?",
+      "answer": "गावातील लोकांवर वेळेवर उपचार होण्यासाठी आरोग्य केंद्र महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "कचरा टाकण्याची योग्य जागा कोणती?",
+      "answer": "कचरा पेटी ही कचरा टाकण्याची योग्य जागा आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "सहकार्य न केल्यास काय होईल?",
+      "answer": "सहकार्य न केल्यास कामे पूर्ण होणार नाहीत आणि भांडणे वाढतील."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "परिसराचे प्रश्न कोण मांडते?",
+      "answer": "परिसराचे प्रश्न जागरूक नागरिक आणि स्थानिक प्रतिनिधी मांडतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "आपण शाळेला कशी मदत करू शकतो?",
+      "answer": "आपण शाळा स्वच्छ ठेवून आणि नियमांचे पालन करून शाळेला मदत करू शकतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "स्वच्छतेच्या सवयी कोठून सुरू कराव्यात?",
+      "answer": "स्वच्छतेच्या सवयी स्वतःपासून आणि स्वतःच्या घरापासून सुरू कराव्यात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "पाणी साठवण्याची भांडी कशी असावीत?",
+      "answer": "पाणी साठवण्याची भांडी स्वच्छ आणि झाकलेली असावीत."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "मुलगा आणि मुलगी यांच्यात भेदभाव का करू नये?",
+      "answer": "कारण दोघेही भविष्यातील नागरिक आहेत आणि दोघांना समान संधी मिळणे आवश्यक आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "गावातील उत्सव कसे साजरे करावेत?",
+      "answer": "गावातील उत्सव एकोप्याने आणि कोणालाही त्रास न देता साजरे करावेत."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "दुसऱ्याच्या संपत्तीचे नुकसान करणे योग्य आहे का?",
+      "answer": "नाही, दुसऱ्याच्या किंवा सार्वजनिक संपत्तीचे नुकसान करणे चुकीचे आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "वाचन केल्यामुळे काय होते?",
+      "answer": "वाचनामुळे नवीन माहिती मिळते आणि विचार करण्याची पद्धत बदलते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "शांतता प्रस्थापित करण्यासाठी आपण काय करू शकतो?",
+      "answer": "आपण शांतता प्रस्थापित करण्यासाठी भांडणे मिटवणे आणि लोकांना समजावणे हे करू शकतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "आपल्या समस्या आपणच का सोडवाव्यात?",
+      "answer": "कारण आपल्या समस्येची खरी माहिती आपल्यालाच असते आणि ती सोडवण्यासाठी आपण अधिक प्रयत्न करू शकतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "ग्रामसभेचा अध्यक्ष कोण असतो?",
+      "answer": "सामान्यतः सरपंच हा ग्रामसभेचा अध्यक्ष असतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "या पाठातून तुम्ही काय शिकलात?",
+      "answer": "आम्ही समस्या ओळखून त्या सहकार्यातून आणि शांततेने सोडवायला शिकलो."
+    }
+  ]
+}

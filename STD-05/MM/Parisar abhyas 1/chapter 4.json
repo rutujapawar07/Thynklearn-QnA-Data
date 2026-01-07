@@ -1,0 +1,1207 @@
+{
+  "chapter_id": 4,
+  "chapter_name": "पर्यावरणाचे संतुलन",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "एकाच भागात आढळणाऱ्या सजीवांमध्ये जी विविधता दिसते, तिला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्राणीसंग्रहालय", "is_correct": false },
+        { "option_id": 2, "text": "जैविक विविधता (जैवविविधता)", "is_correct": true },
+        { "option_id": 3, "text": "वनस्पती शास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "पर्यावरण", "is_correct": false }
+      ],
+      "answer": "जैविक विविधता (जैवविविधता)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सजीव आणि त्यांच्याभोवती असलेल्या परिसराचा एकमेकांशी संबंध असतो, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वातावरण", "is_correct": false },
+        { "option_id": 2, "text": "निसर्ग", "is_correct": false },
+        { "option_id": 3, "text": "पर्यावरण", "is_correct": true },
+        { "option_id": 4, "text": "जैवविविधता", "is_correct": false }
+      ],
+      "answer": "पर्यावरण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पर्यावरणाचा अजैविक घटक आहे?",
+      "options": [
+        { "option_id": 1, "text": "वनस्पती", "is_correct": false },
+        { "option_id": 2, "text": "प्राणी", "is_correct": false },
+        { "option_id": 3, "text": "हवा", "is_correct": true },
+        { "option_id": 4, "text": "सूक्ष्मजीव", "is_correct": false }
+      ],
+      "answer": "हवा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "एक सजीव दुसऱ्या सजीवाचे अन्न असतो, या साखळीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अन्नसाखळी", "is_correct": true },
+        { "option_id": 2, "text": "अन्नजाळे", "is_correct": false },
+        { "option_id": 3, "text": "प्राणी साखळी", "is_correct": false },
+        { "option_id": 4, "text": "जीवन चक्र", "is_correct": false }
+      ],
+      "answer": "अन्नसाखळी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीतील प्रत्येक घटकाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "दुवा", "is_correct": true },
+        { "option_id": 2, "text": "दोरी", "is_correct": false },
+        { "option_id": 3, "text": "तुकडा", "is_correct": false },
+        { "option_id": 4, "text": "अन्न", "is_correct": false }
+      ],
+      "answer": "दुवा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नाकतोडा गवत खातो आणि पक्षी नाकतोड्याला खातो, या साखळीत मुख्य अन्न कोणते?",
+      "options": [
+        { "option_id": 1, "text": "नाकतोडा", "is_correct": false },
+        { "option_id": 2, "text": "पक्षी", "is_correct": false },
+        { "option_id": 3, "text": "गवत (वनस्पती)", "is_correct": true },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "गवत (वनस्पती)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अनेक अन्नसाखळ्या एकमेकींशी जोडल्या गेल्या की काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "अन्नसाखळी", "is_correct": false },
+        { "option_id": 2, "text": "अन्नजाळे", "is_correct": true },
+        { "option_id": 3, "text": "पर्यावरण", "is_correct": false },
+        { "option_id": 4, "text": "परिसंस्था", "is_correct": false }
+      ],
+      "answer": "अन्नजाळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "निसर्गातील सर्व अन्नसाखळ्यांचा मुख्य आधार कोण आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "वनस्पती", "is_correct": true },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "वनस्पती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वनस्पती स्वतःचे अन्न तयार करण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "चांदणे", "is_correct": false },
+        { "option_id": 2, "text": "सूर्यप्रकाश", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्यांचे अवशेष", "is_correct": false },
+        { "option_id": 4, "text": "खत", "is_correct": false }
+      ],
+      "answer": "सूर्यप्रकाश"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "प्राणी श्वसनासाठी हवेतील कोणता वायू वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वनस्पती हवेतील कोणत्या वायूचा वापर अन्न तयार करण्यासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "मिथेन", "is_correct": false },
+        { "option_id": 4, "text": "ओझोन", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "जमिनीतील पाण्याचे बाष्पीभवन होऊन ढग बनतात आणि पाऊस पडतो, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस चक्र", "is_correct": false },
+        { "option_id": 2, "text": "जलचक्र", "is_correct": true },
+        { "option_id": 3, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 4, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "जलचक्र"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मेलेले प्राणी आणि पालापाचोळा कुजवण्याचे काम कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "मोठे प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पती", "is_correct": false },
+        { "option_id": 3, "text": "सूक्ष्मजीव", "is_correct": true },
+        { "option_id": 4, "text": "माणूस", "is_correct": false }
+      ],
+      "answer": "सूक्ष्मजीव"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जेव्हा पर्यावरणातील सर्व चक्रे अखंडपणे चालू राहतात, तेव्हा काय राखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणाचे संतुलन", "is_correct": true },
+        { "option_id": 2, "text": "प्रदूषण", "is_correct": false },
+        { "option_id": 3, "text": "गर्दी", "is_correct": false },
+        { "option_id": 4, "text": "हवामान", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाचे संतुलन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता घटक अन्नासाठी दुसऱ्या सजीवावर अवलंबून नाही?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "हरीण", "is_correct": false },
+        { "option_id": 3, "text": "गवत", "is_correct": true },
+        { "option_id": 4, "text": "साप", "is_correct": false }
+      ],
+      "answer": "गवत"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पक्षी कशासाठी पर्यावरणावर अवलंबून असतात?",
+      "options": [
+        { "option_id": 1, "text": "अन्न", "is_correct": false },
+        { "option_id": 2, "text": "निवारा", "is_correct": false },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मासे राहण्यासाठी कोणत्या परिसराचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": true },
+        { "option_id": 3, "text": "जमीन", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंट", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या अस्तित्वासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ अन्नाची", "is_correct": false },
+        { "option_id": 2, "text": "केवळ पाण्याची", "is_correct": false },
+        { "option_id": 3, "text": "पर्यावरणाच्या संतुलनाची", "is_correct": true },
+        { "option_id": 4, "text": "केवळ घराची", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाच्या संतुलनाची"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीमध्ये सूर्याची भूमिका काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "तो प्राण्यांना खातो", "is_correct": false },
+        { "option_id": 2, "text": "तो उर्जेचा मुख्य स्रोत आहे", "is_correct": true },
+        { "option_id": 3, "text": "तो पाऊस पाडतो", "is_correct": false },
+        { "option_id": 4, "text": "तो सूक्ष्मजीव मारतो", "is_correct": false }
+      ],
+      "answer": "तो उर्जेचा मुख्य स्रोत आहे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "गवत -> उंदीर -> साप -> घार ही काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "अन्नजाळे", "is_correct": false },
+        { "option_id": 2, "text": "अन्नसाखळी", "is_correct": true },
+        { "option_id": 3, "text": "जलचक्र", "is_correct": false },
+        { "option_id": 4, "text": "वायुचक्र", "is_correct": false }
+      ],
+      "answer": "अन्नसाखळी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पर्यावरणात सजीव आणि निर्जीव घटकांमध्ये काय चालत असते?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "आदानप्रदान (देवाणघेवाण)", "is_correct": true },
+        { "option_id": 3, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्धा", "is_correct": false }
+      ],
+      "answer": "आदानप्रदान (देवाणघेवाण)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील सजीव सृष्टी टिकून राहण्यासाठी कशाची आवश्यकता आहे?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरण संतुलनाची", "is_correct": true },
+        { "option_id": 2, "text": "फॅक्टरी वाढवण्याची",
+          "is_correct": false },
+        { "option_id": 3, "text": "जंगले तोडण्याची", "is_correct": false },
+        { "option_id": 4, "text": "रस्ते बांधण्याची", "is_correct": false }
+      ],
+      "answer": "पर्यावरण संतुलनाची"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सूक्ष्मजीवांमुळे जमिनीला काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "काचा", "is_correct": false },
+        { "option_id": 2, "text": "पोषण मूल्ये (सुपीकता)", "is_correct": true },
+        { "option_id": 3, "text": "केला", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "पोषण मूल्ये (सुपीकता)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वाघ हा कोणत्या प्रकारचा सजीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाकाहारी", "is_correct": false },
+        { "option_id": 2, "text": "मांसाहारी", "is_correct": true },
+        { "option_id": 3, "text": "स्वयंपोषी", "is_correct": false },
+        { "option_id": 4, "text": "कीटकभक्षी", "is_correct": false }
+      ],
+      "answer": "मांसाहारी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीतील तिसरा दुवा कोणता असू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "गवत", "is_correct": false },
+        { "option_id": 2, "text": "नाकतोडा", "is_correct": false },
+        { "option_id": 3, "text": "पक्षी", "is_correct": true },
+        { "option_id": 4, "text": "सूर्य", "is_correct": false }
+      ],
+      "answer": "पक्षी"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "नदी, तलाव हे कोणत्या पर्यावरणाचे भाग आहेत?",
+        "options": [
+          { "option_id": 1, "text": "भू-पर्यावरण", "is_correct": false },
+          { "option_id": 2, "text": "जल-पर्यावरण", "is_correct": true },
+          { "option_id": 3, "text": "वायू-पर्यावरण", "is_correct": false },
+          { "option_id": 4, "text": "शहरी-पर्यावरण", "is_correct": false }
+        ],
+        "answer": "जल-पर्यावरण"
+      },
+      {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "खालीलपैकी कोणता घटक वनस्पतींकडून प्राण्यांकडे जातो?",
+        "options": [
+          { "option_id": 1, "text": "सूर्यप्रकाश", "is_correct": false },
+          { "option_id": 2, "text": "अन्न आणि ऊर्जा", "is_correct": true },
+          { "option_id": 3, "text": "माती", "is_correct": false },
+          { "option_id": 4, "text": "मूळ", "is_correct": false }
+        ],
+        "answer": "अन्न आणि ऊर्जा"
+      },
+      {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "अन्नसाखळीत गवत कोणाला ऊर्जा देते?",
+        "options": [
+          { "option_id": 1, "text": "वाघाला", "is_correct": false },
+          { "option_id": 2, "text": "हरणाला", "is_correct": true },
+          { "option_id": 3, "text": "सूर्याला", "is_correct": false },
+          { "option_id": 4, "text": "दगडाला", "is_correct": false }
+        ],
+        "answer": "हरणाला"
+      },
+      {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "निसर्गातील सजीव घटक मेल्यावर त्यांचे काय होते?",
+        "options": [
+          { "option_id": 1, "text": "ते तसेच राहतात", "is_correct": false },
+          { "option_id": 2, "text": "ते कुजतात आणि मातीत मिसळतात", "is_correct": true },
+          { "option_id": 3, "text": "ते गायब होतात", "is_correct": false },
+          { "option_id": 4, "text": "ते आकाशात जातात", "is_correct": false }
+        ],
+        "answer": "ते कुजतात आणि मातीत मिसळतात"
+      },
+      {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "जैवविविधतेचा अभ्यास करण्यासाठी शास्त्रज्ञ काय करतात?",
+        "options": [
+          { "option_id": 1, "text": "फक्त फोटो काढतात", "is_correct": false },
+          { "option_id": 2, "text": "निरीक्षणे नोंदवतात", "is_correct": true },
+          { "option_id": 3, "text": "प्राण्यांना मारतात", "is_correct": false },
+          { "option_id": 4, "text": "काहीच करत नाहीत", "is_correct": false }
+        ],
+        "answer": "निरीक्षणे नोंदवतात"
+      },
+      {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "पर्यावरणात मातीचा उपयोग प्रामुख्याने कोण करते?",
+        "options": [
+          { "option_id": 1, "text": "हवा", "is_correct": false },
+          { "option_id": 2, "text": "वनस्पती", "is_correct": true },
+          { "option_id": 3, "text": "सूर्य", "is_correct": false },
+          { "option_id": 4, "text": "ढग", "is_correct": false }
+        ],
+        "answer": "वनस्पती"
+      },
+      {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "अन्नजाळे कशामुळे गुंतागुंतीचे होते?",
+        "options": [
+          { "option_id": 1, "text": "अनेक अन्नसाखळ्यांमुळे", "is_correct": true },
+          { "option_id": 2, "text": "पावसामुळे", "is_correct": false },
+          { "option_id": 3, "text": "रात्रीमुळे", "is_correct": false },
+          { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+        ],
+        "answer": "अनेक अन्नसाखळ्यांमुळे"
+      },
+      {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "साप बेडकाला खातो, तर बेडूक कोणाला खातो?",
+        "options": [
+          { "option_id": 1, "text": "वाघाला", "is_correct": false },
+          { "option_id": 2, "text": "कीटकांना", "is_correct": true },
+          { "option_id": 3, "text": "झाडांना", "is_correct": false },
+          { "option_id": 4, "text": "सापाला", "is_correct": false }
+        ],
+        "answer": "कीटकांना"
+      },
+      {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "पर्यावरणाचे संतुलन बिघडल्यास काय होईल?",
+        "options": [
+          { "option_id": 1, "text": "सजीव सृष्टी धोक्यात येईल", "is_correct": true },
+          { "option_id": 2, "text": "खूप पाऊस पडेल", "is_correct": false },
+          { "option_id": 3, "text": "सर्व प्राणी मोठे होतील", "is_correct": false },
+          { "option_id": 4, "text": "काहीच होणार नाही", "is_correct": false }
+        ],
+        "answer": "सजीव सृष्टी धोक्यात येईल"
+      },
+      {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "ऑक्सिजन वायू प्राण्यांना कोठून मिळतो?",
+        "options": [
+          { "option_id": 1, "text": "मातीतून", "is_correct": false },
+          { "option_id": 2, "text": "हवेतून", "is_correct": true },
+          { "option_id": 3, "text": "अन्नातून", "is_correct": false },
+          { "option_id": 4, "text": "विहिरीतून", "is_correct": false }
+        ],
+        "answer": "हवेतून"
+      },
+      {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "पर्यावरणात कशाचा चक्राकार प्रवास चालू असतो?",
+        "options": [
+          { "option_id": 1, "text": "पाण्याचा", "is_correct": false },
+          { "option_id": 2, "text": "वायूंचा", "is_correct": false },
+          { "option_id": 3, "text": "अन्न घटकांचा", "is_correct": false },
+          { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+        ],
+        "answer": "वरील सर्व"
+      },
+      {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "खालीलपैकी सजीव घटक ओळखा.",
+        "options": [
+          { "option_id": 1, "text": "दगड", "is_correct": false },
+          { "option_id": 2, "text": "सूर्य", "is_correct": false },
+          { "option_id": 3, "text": "बेडूक", "is_correct": true },
+          { "option_id": 4, "text": "पाणी", "is_correct": false }
+        ],
+        "answer": "बेडूक"
+      },
+      {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "खालीलपैकी निर्जीव घटक ओळखा.",
+        "options": [
+          { "option_id": 1, "text": "गवत", "is_correct": false },
+          { "option_id": 2, "text": "माती", "is_correct": true },
+          { "option_id": 3, "text": "मुंगी", "is_correct": false },
+          { "option_id": 4, "text": "बॅक्टेरिया", "is_correct": false }
+        ],
+        "answer": "माती"
+      },
+      {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "अन्नसाखळी तुटल्यास काय होते?",
+        "options": [
+          { "option_id": 1, "text": "पर्यावरण सुधारते", "is_correct": false },
+          { "option_id": 2, "text": "संतुलन बिघडते", "is_correct": true },
+          { "option_id": 3, "text": "नवीन प्राणी जन्माला येतात", "is_correct": false },
+          { "option_id": 4, "text": "काही फरक पडत नाही", "is_correct": false }
+        ],
+        "answer": "संतुलन बिघडते"
+      },
+      {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "वनस्पतींनी सोडलेला ऑक्सिजन कोण वापरते?",
+        "options": [
+          { "option_id": 1, "text": "दगड", "is_correct": false },
+          { "option_id": 2, "text": "प्राणी", "is_correct": true },
+          { "option_id": 3, "text": "सूर्य", "is_correct": false },
+          { "option_id": 4, "text": "तलाव", "is_correct": false }
+        ],
+        "answer": "प्राणी"
+      },
+      {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "कशाच्या मदतीने आपण निसर्गातील गुंतागुंतीचे संबंध समजून घेऊ शकतो?",
+        "options": [
+          { "option_id": 1, "text": "अन्नजाळे", "is_correct": true },
+          { "option_id": 2, "text": "रस्ते", "is_correct": false },
+          { "option_id": 3, "text": "दूरदर्शन", "is_correct": false },
+          { "option_id": 4, "text": "मोबाईल", "is_correct": false }
+        ],
+        "answer": "अन्नजाळे"
+      },
+      {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "पर्यावरणात अन्न कशा स्वरूपात साठवले जाते?",
+        "options": [
+          { "option_id": 1, "text": "उर्जेच्या", "is_correct": true },
+          { "option_id": 2, "text": "पाण्याच्या", "is_correct": false },
+          { "option_id": 3, "text": "वायूच्या", "is_correct": false },
+          { "option_id": 4, "text": "विजेच्या", "is_correct": false }
+        ],
+        "answer": "उर्जेच्या"
+      },
+      {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "ज्या ठिकाणी आपण राहतो, त्याभोवतीच्या सर्व गोष्टींना मिळून काय म्हणतात?",
+        "options": [
+          { "option_id": 1, "text": "घर", "is_correct": false },
+          { "option_id": 2, "text": "परिसर/पर्यावरण", "is_correct": true },
+          { "option_id": 3, "text": "गाव", "is_correct": false },
+          { "option_id": 4, "text": "मैदान", "is_correct": false }
+        ],
+        "answer": "परिसर/पर्यावरण"
+      },
+      {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "बेडूक पावसाळ्यात जास्त प्रमाणात का दिसतात?",
+        "options": [
+          { "option_id": 1, "text": "त्यांना ऊन आवडते", "is_correct": false },
+          { "option_id": 2, "text": "त्यांना अनुकूल पर्यावरण मिळते", "is_correct": true },
+          { "option_id": 3, "text": "ते उन्हाळ्यात झोपतात", "is_correct": false },
+          { "option_id": 4, "text": "त्यांना पक्षी खातात", "is_correct": false }
+        ],
+        "answer": "त्यांना अनुकूल पर्यावरण मिळते"
+      },
+      {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "वनस्पती सूर्यप्रकाशात काय तयार करतात?",
+        "options": [
+          { "option_id": 1, "text": "सावली", "is_correct": false },
+          { "option_id": 2, "text": "अन्न", "is_correct": true },
+          { "option_id": 3, "text": "पाणी", "is_correct": false },
+          { "option_id": 4, "text": "खत", "is_correct": false }
+        ],
+        "answer": "अन्न"
+      },
+      {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "अन्नसाखळीतील प्राथमिक घटक कोणता?",
+        "options": [
+          { "option_id": 1, "text": "वाघ", "is_correct": false },
+          { "option_id": 2, "text": "वनस्पती", "is_correct": true },
+          { "option_id": 3, "text": "साप", "is_correct": false },
+          { "option_id": 4, "text": "गरुड", "is_correct": false }
+        ],
+        "answer": "वनस्पती"
+      },
+      {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "पर्यावरण शास्त्र कशाचा अभ्यास करते?",
+        "options": [
+          { "option_id": 1, "text": "केवळ यंत्रांचा", "is_correct": false },
+          { "option_id": 2, "text": "सजीव आणि त्यांच्या परिसराचा", "is_correct": true },
+          { "option_id": 3, "text": "केवळ तार्यांचा", "is_correct": false },
+          { "option_id": 4, "text": "केवळ पैशांचा", "is_correct": false }
+        ],
+        "answer": "सजीव आणि त्यांच्या परिसराचा"
+      },
+      {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "एका परिसरातील जैविक विविधता मोजण्यासाठी काय महत्वाचे आहे?",
+        "options": [
+          { "option_id": 1, "text": "तिथले तापमान", "is_correct": false },
+          { "option_id": 2, "text": "तिथल्या सजीवांच्या जातींची संख्या", "is_correct": true },
+          { "option_id": 3, "text": "तिथली माती", "is_correct": false },
+          { "option_id": 4, "text": "तिथला प्रकाश", "is_correct": false }
+        ],
+        "answer": "तिथल्या सजीवांच्या जातींची संख्या"
+      },
+      {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "जमिनीत पोषक द्रव्ये मिसळल्यामुळे काय फायदा होतो?",
+        "options": [
+          { "option_id": 1, "text": "माती कडक होते", "is_correct": false },
+          { "option_id": 2, "text": "वनस्पतींची वाढ चांगली होते", "is_correct": true },
+          { "option_id": 3, "text": "पाणी कमी लागते", "is_correct": false },
+          { "option_id": 4, "text": "कीड लागत नाही", "is_correct": false }
+        ],
+        "answer": "वनस्पतींची वाढ चांगली होते"
+      },
+      {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "पर्यावरणाचे रक्षण करणे ही कोणाची जबाबदारी आहे?",
+        "options": [
+          { "option_id": 1, "text": "फक्त सरकारची", "is_correct": false },
+          { "option_id": 2, "text": "सर्व नागरिकांची", "is_correct": true },
+          { "option_id": 3, "text": "केवळ शास्त्रज्ञांची", "is_correct": false },
+          { "option_id": 4, "text": "फक्त शिक्षकांची", "is_correct": false }
+        ],
+        "answer": "सर्व नागरिकांची"
+      },
+      {
+        "question_id": 51,
+        "question_type": "SHORT",
+        "question": "जैवविविधता म्हणजे काय?",
+        "answer": "एकाच भागात आढळणाऱ्या सजीवांमध्ये जी विविधता दिसते, तिला जैवविविधता म्हणतात."
+      },
+      {
+        "question_id": 52,
+        "question_type": "SHORT",
+        "question": "पर्यावरण कशास म्हणतात?",
+        "answer": "सजीव आणि त्यांच्या सभोवतालचा परिसर यांच्यातील संबंधाला पर्यावरण म्हणतात."
+      },
+      {
+        "question_id": 53,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळी म्हणजे काय?",
+        "answer": "निसर्गातील सजीव अन्नासाठी एकमेकांवर अवलंबून असतात, या साखळीला अन्नसाखळी म्हणतात."
+      },
+      {
+        "question_id": 54,
+        "question_type": "SHORT",
+        "question": "अन्नजाळे कसे तयार होते?",
+        "answer": "जेव्हा निसर्गातील अनेक अन्नसाखळ्या एकमेकांशी जोडल्या जातात, तेव्हा अन्नजाळे तयार होते."
+      },
+      {
+        "question_id": 55,
+        "question_type": "SHORT",
+        "question": "वनस्पती स्वतःचे अन्न कसे तयार करतात?",
+        "answer": "वनस्पती सूर्यप्रकाश, हवा आणि पाण्याचा वापर करून स्वतःचे अन्न तयार करतात."
+      },
+      {
+        "question_id": 56,
+        "question_type": "SHORT",
+        "question": "पर्यावरणाचे दोन मुख्य घटक कोणते?",
+        "answer": "पर्यावरणाचे दोन मुख्य घटक म्हणजे सजीव आणि निर्जीव घटक होत."
+      },
+      {
+        "question_id": 57,
+        "question_type": "SHORT",
+        "question": "पर्यावरणातील निर्जीव घटकांची उदाहरणे द्या.",
+        "answer": "हवा, पाणी, माती आणि सूर्यप्रकाश ही पर्यावरणातील निर्जीव घटकांची उदाहरणे आहेत."
+      },
+      {
+        "question_id": 58,
+        "question_type": "SHORT",
+        "question": "पर्यावरणातील सजीव घटकांची उदाहरणे द्या.",
+        "answer": "वनस्पती, प्राणी आणि सूक्ष्मजीव हे पर्यावरणातील सजीव घटक आहेत."
+      },
+      {
+        "question_id": 59,
+        "question_type": "SHORT",
+        "question": "जलचक्र म्हणजे काय?",
+        "answer": "सूर्याच्या उष्णतेने पाण्याची वाफ होणे, ढग बनणे आणि पुन्हा पाऊस पडणे याला जलचक्र म्हणतात."
+      },
+      {
+        "question_id": 60,
+        "question_type": "SHORT",
+        "question": "हवेतील वायूंचे संतुलन कसे राखले जाते?",
+        "answer": "वनस्पती कार्बन डायऑक्साइड घेतात व ऑक्सिजन सोडतात, तर प्राणी ऑक्सिजन घेतात व कार्बन डायऑक्साइड सोडतात, यामुळे वायूंचे संतुलन राखले जाते."
+      },
+      {
+        "question_id": 61,
+        "question_type": "SHORT",
+        "question": "सूक्ष्मजीव पर्यावरणात काय काम करतात?",
+        "answer": "सूक्ष्मजीव मेलेले प्राणी आणि पालापाचोळा कुजवण्याचे काम करतात."
+      },
+      {
+        "question_id": 62,
+        "question_type": "SHORT",
+        "question": "पर्यावरणाचे संतुलन का महत्वाचे आहे?",
+        "answer": "सजीव सृष्टीचे अस्तित्व टिकवून ठेवण्यासाठी पर्यावरणाचे संतुलन महत्वाचे आहे."
+      },
+      {
+        "question_id": 63,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीतील 'दुवा' म्हणजे काय?",
+        "answer": "अन्नसाखळीतील प्रत्येक घटकाला, जो दुसऱ्याचा आहार असतो, त्याला दुवा म्हणतात."
+      },
+      {
+        "question_id": 64,
+        "question_type": "SHORT",
+        "question": "शास्त्रज्ञ जैवविविधतेचे निरीक्षण कसे करतात?",
+        "answer": "शास्त्रज्ञ प्रगत साधने वापरून आणि विविध ठिकाणची निरीक्षणे नोंदवून जैवविविधतेचा अभ्यास करतात."
+      },
+      {
+        "question_id": 65,
+        "question_type": "SHORT",
+        "question": "वनस्पतींना अन्नासाठी कोणावर अवलंबून राहावे लागते का?",
+        "answer": "नाही, वनस्पती स्वतःचे अन्न स्वतः तयार करतात."
+      },
+      {
+        "question_id": 66,
+        "question_type": "SHORT",
+        "question": "प्राण्यांना अन्नासाठी कोणावर अवलंबून राहावे लागते?",
+        "answer": "प्राण्यांना अन्नासाठी वनस्पती किंवा इतर छोट्या प्राण्यांवर अवलंबून राहावे लागते."
+      },
+      {
+        "question_id": 67,
+        "question_type": "SHORT",
+        "question": "शाकाहारी प्राणी म्हणजे काय?",
+        "answer": "जे प्राणी अन्नासाठी फक्त वनस्पतींवर अवलंबून असतात, त्यांना शाकाहारी प्राणी म्हणतात."
+      },
+      {
+        "question_id": 68,
+        "question_type": "SHORT",
+        "question": "मांसाहारी प्राणी म्हणजे काय?",
+        "answer": "जे प्राणी इतर प्राण्यांचे मांस खातात, त्यांना मांसाहारी प्राणी म्हणतात."
+      },
+      {
+        "question_id": 69,
+        "question_type": "SHORT",
+        "question": "उभयचर प्राणी म्हणजे काय?",
+        "answer": "जे प्राणी जमीन आणि पाणी अशा दोन्ही ठिकाणी राहू शकतात, त्यांना उभयचर म्हणतात (उदा. बेडूक)."
+      },
+      {
+        "question_id": 70,
+        "question_type": "SHORT",
+        "question": "परिसर म्हणजे काय?",
+        "answer": "आपल्या सभोवतालच्या सर्व नैसर्गिक आणि मानवनिर्मित गोष्टींना मिळून परिसर म्हणतात."
+      },
+      {
+        "question_id": 71,
+        "question_type": "SHORT",
+        "question": "निसर्गातील अन्नसाखळीचा सर्वात महत्वाचा घटक कोणता?",
+        "answer": "वनस्पती निसर्गातील अन्नसाखळीचा सर्वात महत्वाचा घटक आहेत."
+      },
+      {
+        "question_id": 72,
+        "question_type": "SHORT",
+        "question": "पर्यावरणातील कचरा कोण साफ करते?",
+        "answer": "पर्यावरणातील सूक्ष्मजीव आणि काही पक्षी (उदा. गिधाड) मेलेले अवशेष खाऊन परिसर साफ करतात."
+      },
+      {
+        "question_id": 73,
+        "question_type": "SHORT",
+        "question": "कार्बन डायऑक्साइड प्राण्यांसाठी का घातक आहे?",
+        "answer": "प्राण्यांना श्वसनासाठी ऑक्सिजन लागतो, जास्त कार्बन डायऑक्साइडमुळे गुदमरून मृत्यू होऊ शकतो."
+      },
+      {
+        "question_id": 74,
+        "question_type": "SHORT",
+        "question": "जमिनीची सुपीकता कशी वाढते?",
+        "answer": "पालापाचोळा आणि प्राण्यांचे अवशेष कुजल्यामुळे मातीत पोषक द्रव्ये मिसळतात व सुपीकता वाढते."
+      },
+      {
+        "question_id": 75,
+        "question_type": "SHORT",
+        "question": "पर्यावरणातील संतुलन बिघडण्याची दोन कारणे सांगा.",
+        "answer": "प्रदूषण आणि वृक्षतोड ही पर्यावरण संतुलन बिघडण्याची मुख्य कारणे आहेत."
+      },
+      {
+        "question_id": 76,
+        "question_type": "SHORT",
+        "question": "वनस्पतींना वाढीसाठी कशाची गरज असते?",
+        "answer": "वनस्पतींना वाढीसाठी माती, पाणी, हवा आणि सूर्यप्रकाशाची गरज असते."
+      },
+      {
+        "question_id": 77,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीचे एक उदाहरण लिहा.",
+        "answer": "गवत -> नाकतोडा -> पक्षी -> साप."
+      },
+      {
+        "question_id": 78,
+        "question_type": "SHORT",
+        "question": "बाष्पीभवन म्हणजे काय?",
+        "answer": "सूर्याच्या उष्णतेने पाण्याचे वाफेत रूपांतर होण्याच्या क्रियेला बाष्पीभवन म्हणतात."
+      },
+      {
+        "question_id": 79,
+        "question_type": "SHORT",
+        "question": "निसर्ग चक्र म्हणजे काय?",
+        "answer": "पर्यावरणातील विविध क्रियांचा जो फेरा पुन्हा पुन्हा चालू असतो, त्याला निसर्ग चक्र म्हणतात."
+      },
+      {
+        "question_id": 80,
+        "question_type": "SHORT",
+        "question": "सजीवांचे अस्तित्व कशावर अवलंबून आहे?",
+        "answer": "सजीवांचे अस्तित्व शुद्ध हवा, पाणी आणि अन्न मिळण्यावर म्हणजेच पर्यावरणावर अवलंबून आहे."
+      },
+      {
+        "question_id": 81,
+        "question_type": "SHORT",
+        "question": "पर्यावरण संतुलन राखण्यासाठी आपण काय करू शकतो?",
+        "answer": "आपण झाडे लावून, प्रदूषण कमी करून आणि नैसर्गिक साधनसंपत्तीचा जपून वापर करून संतुलन राखू शकतो."
+      },
+      {
+        "question_id": 82,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत ऊर्जेचा मुख्य मार्ग कोणता?",
+        "answer": "सूर्याची ऊर्जा वनस्पती घेतात आणि वनस्पतींमार्फत ती इतर प्राण्यांकडे जाते."
+      },
+      {
+        "question_id": 83,
+        "question_type": "SHORT",
+        "question": "मानव पर्यावरणाचा भाग आहे का?",
+        "answer": "हो, मानव हा पर्यावरणातील एक महत्त्वाचा सजीव घटक आहे."
+      },
+      {
+        "question_id": 84,
+        "question_type": "SHORT",
+        "question": "एका अन्नसाखळीत किती सजीव असू शकतात?",
+        "answer": "एका अन्नसाखळीत साधारणपणे ३ ते ५ दुवे किंवा सजीव असू शकतात."
+      },
+      {
+        "question_id": 85,
+        "question_type": "SHORT",
+        "question": "पावसाचे पाणी कोठे जाते?",
+        "answer": "पावसाचे पाणी नद्या, ओहोळ यांतून समुद्रात जाते किंवा जमिनीत मुरते."
+      },
+      {
+        "question_id": 86,
+        "question_type": "SHORT",
+        "question": "वनस्पतींना अन्न तयार करण्यासाठी कोणता वायू हवा असतो?",
+        "answer": "वनस्पतींना अन्न तयार करण्यासाठी कार्बन डायऑक्साइड हा वायू हवा असतो."
+      },
+      {
+        "question_id": 87,
+        "question_type": "SHORT",
+        "question": "सजीवांना ऊर्जेची गरज कशासाठी असते?",
+        "answer": "सजीवांना वाढीसाठी आणि शरीराची कार्ये करण्यासाठी ऊर्जेची गरज असते."
+      },
+      {
+        "question_id": 88,
+        "question_type": "SHORT",
+        "question": "वाळवंटात जैवविविधता कमी का असते?",
+        "answer": "तिथे पाणी कमी आणि तापमान जास्त असल्यामुळे अनुकूल परिस्थिती नसते, म्हणून जैवविविधता कमी असते."
+      },
+      {
+        "question_id": 89,
+        "question_type": "SHORT",
+        "question": "घार कशावर जगते?",
+        "answer": "घार उंदीर, साप आणि लहान पक्षी यांसारख्या प्राण्यांचे मांस खाऊन जगते."
+      },
+      {
+        "question_id": 90,
+        "question_type": "SHORT",
+        "question": "पर्यावरणात माती कशी तयार होते?",
+        "answer": "दगडांची झीज होणे आणि सेंद्रिय घटक कुजणे या प्रक्रियेतून माती तयार होते."
+      },
+      {
+        "question_id": 91,
+        "question_type": "SHORT",
+        "question": "निसर्गातील अन्नसाखळी का महत्वाची आहे?",
+        "answer": "अन्नसाखळीमुळे निसर्गातील ऊर्जा आणि अन्न घटकांचे संक्रमण होत राहते."
+      },
+      {
+        "question_id": 92,
+        "question_type": "SHORT",
+        "question": "कीटक वनस्पतींसाठी कसे उपयुक्त आहेत?",
+        "answer": "कीटक परागीभवनास मदत करतात, ज्यामुळे वनस्पतींचे पुनरुत्पादन होते."
+      },
+      {
+        "question_id": 93,
+        "question_type": "SHORT",
+        "question": "वातावरण म्हणजे काय?",
+        "answer": "पृथ्वीच्या भोवती असलेल्या हवेच्या आवरणाला वातावरण म्हणतात."
+      },
+      {
+        "question_id": 94,
+        "question_type": "SHORT",
+        "question": "जंगलतोडीचा पर्यावरणावर काय परिणाम होतो?",
+        "answer": "जंगलतोडीमुळे प्राण्यांचा निवारा जातो आणि वायूंचे संतुलन बिघडते."
+      },
+      {
+        "question_id": 95,
+        "question_type": "SHORT",
+        "question": "अन्नजाळ्यातील गुंतागुंत कशामुळे वाढते?",
+        "answer": "एकाच प्राण्याला अनेक प्राणी खाऊ शकतात किंवा एक प्राणी अनेक प्राण्यांना खाऊ शकतो, यामुळे गुंतागुंत वाढते."
+      },
+      {
+        "question_id": 96,
+        "question_type": "SHORT",
+        "question": "सूर्याची उष्णता कमी झाली तर काय होईल?",
+        "answer": "पाण्याचे बाष्पीभवन होणार नाही आणि वनस्पती अन्न तयार करू शकणार नाहीत."
+      },
+      {
+        "question_id": 97,
+        "question_type": "SHORT",
+        "question": "सजीवांच्या मृत्यूनंतर काय होते?",
+        "answer": "सजीवांच्या मृत्यूनंतर त्यांचे शरीर सूक्ष्मजीवांद्वारे कुजवून पुन्हा निसर्गात मिसळले जाते."
+      },
+      {
+        "question_id": 98,
+        "question_type": "SHORT",
+        "question": "नैसर्गिक साधनसंपत्ती म्हणजे काय?",
+        "answer": "निसर्गातून मिळणारे हवा, पाणी, जमीन, जंगले आणि खनिजे यांसारखे घटक म्हणजे नैसर्गिक साधनसंपत्ती होय."
+      },
+      {
+        "question_id": 99,
+        "question_type": "SHORT",
+        "question": "पर्यावरण दिन कधी साजरा केला जातो?",
+        "answer": "जागतिक पर्यावरण दिन ५ जून रोजी साजरा केला जातो."
+      },
+      {
+        "question_id": 100,
+        "question_type": "SHORT",
+        "question": "नदीतील पाणी प्रदूषित झाले तर काय होईल?",
+        "answer": "नदीतील मासे आणि इतर जलचर मरतील व पाणी पिण्यायोग्य राहणार नाही."
+      },
+      {
+        "question_id": 101,
+        "question_type": "SHORT",
+        "question": "जमिनीतील पाणी कसे संपते?",
+        "answer": "वाढीव उपसा आणि पाऊस कमी पडल्यामुळे जमिनीतील पाणी पातळी कमी होते."
+      },
+      {
+        "question_id": 102,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत गवत कशापासून ऊर्जा मिळवते?",
+        "answer": "गवत सूर्यप्रकाशापासून आपली ऊर्जा मिळवते."
+      },
+      {
+        "question_id": 103,
+        "question_type": "SHORT",
+        "question": "सूक्ष्मजीव उघड्या डोळ्यांनी दिसतात का?",
+        "answer": "नाही, सूक्ष्मजीव पाहण्यासाठी सूक्ष्मदर्शकाची गरज असते."
+      },
+      {
+        "question_id": 104,
+        "question_type": "SHORT",
+        "question": "हवा प्रदूषण म्हणजे काय?",
+        "answer": "हवेत धूर आणि विषारी वायू मिसळण्याला हवा प्रदूषण म्हणतात."
+      },
+      {
+        "question_id": 105,
+        "question_type": "SHORT",
+        "question": "निसर्गाचे संतुलन राखण्यासाठी आपण काय करू नये?",
+        "answer": "निसर्गाचे संतुलन राखण्यासाठी आपण कचरा कोठेही टाकू नये आणि विनाकारण झाडे तोडू नयेत."
+      },
+      {
+        "question_id": 106,
+        "question_type": "SHORT",
+        "question": "बेडूक काय खातो?",
+        "answer": "बेडूक माश्या, डास आणि छोटे कीटक खातो."
+      },
+      {
+        "question_id": 107,
+        "question_type": "SHORT",
+        "question": "सापाला शेतकरी आपला मित्र का मानतात?",
+        "answer": "साप पिकांची नासाडी करणारे उंदीर खातो, म्हणून त्याला शेतकऱ्याचा मित्र मानतात."
+      },
+      {
+        "question_id": 108,
+        "question_type": "SHORT",
+        "question": "निसर्गात अन्नासाठी स्पर्धा असते का?",
+        "answer": "हो, मर्यादित अन्नासाठी सजीवांमध्ये स्पर्धा असू शकते."
+      },
+      {
+        "question_id": 109,
+        "question_type": "SHORT",
+        "question": "निवारा म्हणजे काय?",
+        "answer": "सजीवांना राहण्यासाठी आणि संरक्षणासाठी लागणाऱ्या जागेला निवारा म्हणतात."
+      },
+      {
+        "question_id": 110,
+        "question_type": "SHORT",
+        "question": "पर्यावरणात प्राण्यांची संख्या कमी का होत आहे?",
+        "answer": "शिकार, प्रदूषण आणि जंगलांचा नाश यामुळे प्राण्यांची संख्या कमी होत आहे."
+      },
+      {
+        "question_id": 111,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत उंदीर काय खातो?",
+        "answer": "उंदीर प्रामुख्याने धान्य आणि वनस्पतींचे भाग खातो."
+      },
+      {
+        "question_id": 112,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत सापाला कोण खाऊ शकते?",
+        "answer": "सापाला घार, गरुड किंवा मुंगूस यांसारखे प्राणी खाऊ शकतात."
+      },
+      {
+        "question_id": 113,
+        "question_type": "SHORT",
+        "question": "वातावरणात कोणता वायू सर्वात जास्त आहे?",
+        "answer": "वातावरणात नायट्रोजन वायू सर्वात जास्त प्रमाणात आहे."
+      },
+      {
+        "question_id": 114,
+        "question_type": "SHORT",
+        "question": "निसर्ग चक्र खंडित झाले तर काय होईल?",
+        "answer": "निसर्ग चक्र खंडित झाले तर पर्यावरणाचे संतुलन बिघडून सजीवांना धोका निर्माण होईल."
+      },
+      {
+        "question_id": 115,
+        "question_type": "SHORT",
+        "question": "पावसाळ्याचे महत्त्व काय?",
+        "answer": "पावसाळ्यामुळे नद्या, तलाव भरतात आणि शेतीसाठी पाणी मिळते, जे सजीवांच्या जगण्यासाठी आवश्यक आहे."
+      },
+      {
+        "question_id": 116,
+        "question_type": "SHORT",
+        "question": "पक्षी घरटी का बांधतात?",
+        "answer": "अंडी घालण्यासाठी आणि पिलांच्या संरक्षणासाठी पक्षी घरटी बांधतात."
+      },
+      {
+        "question_id": 117,
+        "question_type": "SHORT",
+        "question": "खत कसे तयार होते?",
+        "answer": "पालापाचोळा आणि शेणखत कुजल्यामुळे नैसर्गिक खत तयार होते."
+      },
+      {
+        "question_id": 118,
+        "question_type": "SHORT",
+        "question": "निसर्गातील सर्व सजीवांचा उर्जा स्त्रोत कोण आहे?",
+        "answer": "निसर्गातील सर्व सजीवांचा अंतिम उर्जा स्त्रोत सूर्य आहे."
+      },
+      {
+        "question_id": 119,
+        "question_type": "SHORT",
+        "question": "पर्यावरण अभ्यासाचे महत्त्व काय?",
+        "answer": "आपला परिसर समजून घेण्यासाठी आणि त्याचे रक्षण करण्यासाठी पर्यावरण अभ्यास महत्त्वाचा आहे."
+      },
+      {
+        "question_id": 120,
+        "question_type": "SHORT",
+        "question": "पाण्यात विरघळलेला ऑक्सिजन कोण वापरते?",
+        "answer": "मासे आणि इतर जलचर श्वसनासाठी पाण्यात विरघळलेला ऑक्सिजन वापरतात."
+      },
+      {
+        "question_id": 121,
+        "question_type": "SHORT",
+        "question": "गांडूळ मातीसाठी का फायदेशीर आहे?",
+        "answer": "गांडूळ माती खाऊन ती भुसभुशीत करतो, ज्यामुळे हवा खेळती राहते आणि माती सुपीक होते."
+      },
+      {
+        "question_id": 122,
+        "question_type": "SHORT",
+        "question": "हवेमध्ये धूलिकण असतात का?",
+        "answer": "हो, हवेमध्ये धूलिकण आणि धुराचे कण असतात."
+      },
+      {
+        "question_id": 123,
+        "question_type": "SHORT",
+        "question": "सजीव मेल्यावर त्याचे अवशेष कोठे जातात?",
+        "answer": "सजीव मेल्यावर त्याचे अवशेष मातीत कुजतात आणि पोषक द्रव्ये म्हणून निसर्गात परततात."
+      },
+      {
+        "question_id": 124,
+        "question_type": "SHORT",
+        "question": "पर्यावरणात प्राण्यांची विष्ठा कशासाठी उपयोगी पडते?",
+        "answer": "प्राण्यांची विष्ठा मातीसाठी खत म्हणून उपयोगी पडते."
+      },
+      {
+        "question_id": 125,
+        "question_type": "SHORT",
+        "question": "वनस्पतींचे प्रकार कशावरून ठरतात?",
+        "answer": "वनस्पतींची उंची, पानांचा आकार आणि ते कुठे वाढतात यावरून त्यांचे प्रकार ठरतात."
+      },
+      {
+        "question_id": 126,
+        "question_type": "SHORT",
+        "question": "नाकतोडा कुठे आढळतो?",
+        "answer": "नाकतोडा प्रामुख्याने हिरव्या गवतामध्ये आणि शेतांमध्ये आढळतो."
+      },
+      {
+        "question_id": 127,
+        "question_type": "SHORT",
+        "question": "प्राणी आपले अन्न स्वतः का तयार करू शकत नाहीत?",
+        "answer": "प्राण्यांमध्ये वनस्पतींप्रमाणे हरितद्रव्य नसते, म्हणून ते स्वतःचे अन्न स्वतः तयार करू शकत नाहीत."
+      },
+      {
+        "question_id": 128,
+        "question_type": "SHORT",
+        "question": "पर्यावरणाची हानी टाळण्यासाठी कोणता नियम पाळावा?",
+        "answer": "नैसर्गिक संसाधनांचा कमीत कमी वापर करणे आणि पुनर्वापर करणे हा नियम पाळावा."
+      },
+      {
+        "question_id": 129,
+        "question_type": "SHORT",
+        "question": "वाघ जंगलात राहणे का गरजेचे आहे?",
+        "answer": "वाघ शाकाहारी प्राण्यांच्या संख्येवर नियंत्रण ठेवतो, ज्यामुळे जंगल वाचते."
+      },
+      {
+        "question_id": 130,
+        "question_type": "SHORT",
+        "question": "पाणी दूषित होण्याची एक मानवी क्रिया सांगा.",
+        "answer": "नदीमध्ये कपडे धुणे किंवा कारखान्यातील सांडपाणी सोडणे यामुळे पाणी दूषित होते."
+      },
+      {
+        "question_id": 131,
+        "question_type": "SHORT",
+        "question": "जैवविविधता कमी होणे म्हणजे काय?",
+        "answer": "एखाद्या भागातील प्राण्यांच्या किंवा वनस्पतींच्या जाती नष्ट होणे म्हणजे जैवविविधता कमी होणे होय."
+      },
+      {
+        "question_id": 132,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत गरुड कोणाला खातो?",
+        "answer": "गरुड साप, लहान पक्षी किंवा ससे यांना खातो."
+      },
+      {
+        "question_id": 133,
+        "question_type": "SHORT",
+        "question": "मुंगी पर्यावरणात काय काम करते?",
+        "answer": "मुंग्या जमिनीतील सेंद्रिय कचरा साफ करण्यास आणि माती भुसभुशीत करण्यास मदत करतात."
+      },
+      {
+        "question_id": 134,
+        "question_type": "SHORT",
+        "question": "सूर्यप्रकाश सजीवांसाठी का आवश्यक आहे?",
+        "answer": "सूर्यप्रकाश उष्णता देतो आणि वनस्पतींना अन्न बनवण्यासाठी ऊर्जा देतो."
+      },
+      {
+        "question_id": 135,
+        "question_type": "SHORT",
+        "question": "ढग कसे बनतात?",
+        "answer": "पाण्याची वाफ हवेत उंचावर गेल्यावर थंड होते आणि तिचे छोटे थेंब बनून ढग तयार होतात."
+      },
+      {
+        "question_id": 136,
+        "question_type": "SHORT",
+        "question": "आपल्या सभोवतालच्या वातावरणाला काय म्हणतात?",
+        "answer": "आपल्या सभोवतालच्या हवेच्या थराला वातावरण म्हणतात."
+      },
+      {
+        "question_id": 137,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत 'उत्पादक' कोण आहे?",
+        "answer": "अन्नसाखळीत वनस्पतींना 'उत्पादक' म्हणतात कारण त्या स्वतःचे अन्न स्वतः निर्माण करतात."
+      },
+      {
+        "question_id": 138,
+        "question_type": "SHORT",
+        "question": "सजीवांना हवा का लागते?",
+        "answer": "सजीवांना जगण्यासाठी म्हणजेच श्वसन करण्यासाठी हवेची (ऑक्सिजनची) गरज असते."
+      },
+      {
+        "question_id": 139,
+        "question_type": "SHORT",
+        "question": "निसर्गातील जैविक घटक कोणते?",
+        "answer": "पक्षी, प्राणी, कीटक, वनस्पती आणि आपण स्वतः निसर्गातील जैविक घटक आहोत."
+      },
+      {
+        "question_id": 140,
+        "question_type": "SHORT",
+        "question": "कीटकनाशकांचा पर्यावरणावर काय परिणाम होतो?",
+        "answer": "कीटकनाशकांमुळे उपयुक्त कीटक मरतात आणि अन्नसाखळीवर परिणाम होतो."
+      },
+      {
+        "question_id": 141,
+        "question_type": "SHORT",
+        "question": "पर्यावरणाचे रक्षण करण्यासाठी झाडे का लावावीत?",
+        "answer": "झाडे ऑक्सिजन देतात, पाऊस पाडतात आणि प्राण्यांना निवारा देतात, म्हणून झाडे लावावीत."
+      },
+      {
+        "question_id": 142,
+        "question_type": "SHORT",
+        "question": "पाण्याचा पुनर्वापर कसा करता येईल?",
+        "answer": "भांडी धुतलेले पाणी झाडांना देऊन पाण्याचा पुनर्वापर करता येतो."
+      },
+      {
+        "question_id": 143,
+        "question_type": "SHORT",
+        "question": "प्लास्टिकचा पर्यावरणावर काय परिणाम होतो?",
+        "answer": "प्लास्टिक मातीत कुजत नाही, त्यामुळे प्रदूषण होते आणि जनावरांना धोका निर्माण होतो."
+      },
+      {
+        "question_id": 144,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीत मेलेला प्राणी सूक्ष्मजीवांसाठी काय असतो?",
+        "answer": "मेलेला प्राणी सूक्ष्मजीवांसाठी अन्न असतो."
+      },
+      {
+        "question_id": 145,
+        "question_type": "SHORT",
+        "question": "सजीव आणि निर्जीव घटक एकमेकांवर अवलंबून असतात का?",
+        "answer": "हो, सजीव अन्नासाठी आणि राहण्यासाठी निर्जीव घटकांवर (हवा, पाणी, माती) अवलंबून असतात."
+      },
+      {
+        "question_id": 146,
+        "question_type": "SHORT",
+        "question": "वायुचक्र म्हणजे काय?",
+        "answer": "निसर्गात वायूंची (ऑक्सिजन, कार्बन डायऑक्साइड) जी देवाणघेवाण सतत चालू असते, त्याला वायुचक्र म्हणतात."
+      },
+      {
+        "question_id": 147,
+        "question_type": "SHORT",
+        "question": "परिसंस्था म्हणजे काय?",
+        "answer": "सजीव, निर्जीव घटक आणि त्यांच्यातील आंतरक्रिया यांनी मिळून परिसंस्था तयार होते."
+      },
+      {
+        "question_id": 148,
+        "question_type": "SHORT",
+        "question": "अन्नसाखळीची सुरुवात नेहमी कशाने होते?",
+        "answer": "अन्नसाखळीची सुरुवात नेहमी सूर्याच्या उर्जेने आणि वनस्पतींनी होते."
+      },
+      {
+        "question_id": 149,
+        "question_type": "SHORT",
+        "question": "पर्यावरण संरक्षणासाठी एक घोषवाक्य सांगा.",
+        "answer": "झाडे लावा, झाडे जगवा; पर्यावरण संतुलित ठेवा."
+      },
+      {
+        "question_id": 150,
+        "question_type": "SHORT",
+        "question": "सजीवांमध्ये विविधता का असते?",
+        "answer": "प्रत्येक भागातील हवामान आणि परिसर वेगळा असल्यामुळे तिथल्या सजीवांमध्ये विविधता असते."
+      }
+  ]
+}

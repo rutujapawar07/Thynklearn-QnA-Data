@@ -1,0 +1,1207 @@
+{
+  "chapter_id": 9,
+  "chapter_name": "नकाशा : आपला सोबती",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नकाशात जमिनीची उंची आणि खोली कशाच्या साहाय्याने दाखवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "चित्रांच्या", "is_correct": false },
+        { "option_id": 2, "text": "विविध पद्धतींच्या (उदा. समोच्च रेषा)", "is_correct": true },
+        { "option_id": 3, "text": "केवळ शब्दांच्या", "is_correct": false },
+        { "option_id": 4, "text": "काल्पनिक रेषांच्या", "is_correct": false }
+      ],
+      "answer": "विविध पद्धतींच्या (उदा. समोच्च रेषा)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "समान उंचीची ठिकाणे जोडणाऱ्या रेषेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "समान रेषा", "is_correct": false },
+        { "option_id": 2, "text": "मकरवृत्त", "is_correct": false },
+        { "option_id": 3, "text": "समोच्च रेषा", "is_correct": true },
+        { "option_id": 4, "text": "समांतर रेषा", "is_correct": false }
+      ],
+      "answer": "समोच्च रेषा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रंगीत पद्धतीमध्ये जमिनीची उंची दाखवण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "विविध रंगांच्या छटा", "is_correct": true },
+        { "option_id": 2, "text": "केवळ काळा रंग", "is_correct": false },
+        { "option_id": 3, "text": "रेषांची जाडी", "is_correct": false },
+        { "option_id": 4, "text": "ठिपके", "is_correct": false }
+      ],
+      "answer": "विविध रंगांच्या छटा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नकाशात अतिशय उंच भाग कोणत्या रंगाने दाखवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "हिरवा", "is_correct": false },
+        { "option_id": 3, "text": "तपकिरी/करडा", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "तपकिरी/करडा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "नकाशात पाणी दाखवण्यासाठी कोणता रंग वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "निळा", "is_correct": true },
+        { "option_id": 3, "text": "काळा", "is_correct": false },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "निळा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नकाशात सपाट मैदाने किंवा कमी उंचीचा भाग कोणत्या रंगाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा", "is_correct": true },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "गडद तपकिरी", "is_correct": false },
+        { "option_id": 4, "text": "जांभळा", "is_correct": false }
+      ],
+      "answer": "हिरवा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नकाशात उंची दाखवण्याची सर्वात आधुनिक पद्धत कोणती?",
+      "options": [
+        { "option_id": 1, "text": "स्तर रंग पद्धत", "is_correct": false },
+        { "option_id": 2, "text": "समोच्च रेषा पद्धत", "is_correct": false },
+        { "option_id": 3, "text": "उठावाचा त्रिमितीय नकाशा", "is_correct": true },
+        { "option_id": 4, "text": "साधी रेखाचित्रे", "is_correct": false }
+      ],
+      "answer": "उठावाचा त्रिमितीय नकाशा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नकाशात वेगवेगळ्या गोष्टी दाखवण्यासाठी वापरल्या जाणाऱ्या चिन्हांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अक्षरे", "is_correct": false },
+        { "option_id": 2, "text": "सांकेतिक चिन्हे", "is_correct": true },
+        { "option_id": 3, "text": "नावे", "is_correct": false },
+        { "option_id": 4, "text": "आकडे", "is_correct": false }
+      ],
+      "answer": "सांकेतिक चिन्हे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नकाशात 'किल्ला' दाखवण्यासाठी कोणते चिन्ह वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "वर्तुळ", "is_correct": false },
+        { "option_id": 2, "text": "त्रिकोण", "is_correct": false },
+        { "option_id": 3, "text": "बुुरुज व तटबंदीचे चित्र", "is_correct": true },
+        { "option_id": 4, "text": "सरळ रेषा", "is_correct": false }
+      ],
+      "answer": "बुुरुज व तटबंदीचे चित्र"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नकाशात रस्ता कोणत्या खुणेने दाखवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "दोन समांतर रेषा", "is_correct": true },
+        { "option_id": 2, "text": "एकच ठिपका", "is_correct": false },
+        { "option_id": 3, "text": "वेडीवाकडी निळी रेषा", "is_correct": false },
+        { "option_id": 4, "text": "चौकोन", "is_correct": false }
+      ],
+      "answer": "दोन समांतर रेषा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "नकाशातील सूचीचा मुख्य उपयोग काय असतो?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नकाशा वाचण्यासाठी आणि समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशाची घडी घालण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "जमीन मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशा वाचण्यासाठी आणि समजण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नकाशात 'लोहमार्ग' (रेल्वे मार्ग) कसा दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "काळ्या आणि पांढऱ्या पट्ट्यांची रेषा", "is_correct": true },
+        { "option_id": 2, "text": "केवळ लाल रेषा", "is_correct": false },
+        { "option_id": 3, "text": "निळी रेषा", "is_correct": false },
+        { "option_id": 4, "text": "हिरवी रेषा", "is_correct": false }
+      ],
+      "answer": "काळ्या आणि पांढऱ्या पट्ट्यांची रेषा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीच्या वेळी सोबत काय असणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "नकाशा, नोंदवही आणि होकायंत्र", "is_correct": true },
+        { "option_id": 3, "text": "गोष्टींचे पुस्तक", "is_correct": false },
+        { "option_id": 4, "text": "केवळ खाऊ", "is_correct": false }
+      ],
+      "answer": "नकाशा, नोंदवही आणि होकायंत्र"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नकाशात दिशा दर्शवण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "सूची", "is_correct": false },
+        { "option_id": 2, "text": "दिशाचक्र किंवा बाण", "is_correct": true },
+        { "option_id": 3, "text": "प्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "दिशाचक्र किंवा बाण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "नकाशात डोंगरदऱ्या कशाच्या साहाय्याने स्पष्ट दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ नावांनी", "is_correct": false },
+        { "option_id": 2, "text": "उठावाचा त्रिमितीय नकाशा", "is_correct": true },
+        { "option_id": 3, "text": "ठिपक्यांनी", "is_correct": false },
+        { "option_id": 4, "text": "चौकोनांनी", "is_correct": false }
+      ],
+      "answer": "उठावाचा त्रिमितीय नकाशा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "नकाशात 'वस्ती' दाखवण्यासाठी कोणते सांकेतिक चिन्ह वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "लाल चौकोन", "is_correct": true },
+        { "option_id": 2, "text": "निळा त्रिकोण", "is_correct": false },
+        { "option_id": 3, "text": "काळा गोल", "is_correct": false },
+        { "option_id": 4, "text": "हिरवी रेषा", "is_correct": false }
+      ],
+      "answer": "लाल चौकोन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "नकाशात जमिनीचे स्वरूप कशावरून ठरते?",
+      "options": [
+        { "option_id": 1, "text": "उंची व उतार", "is_correct": true },
+        { "option_id": 2, "text": "नकाशाची लांबी", "is_correct": false },
+        { "option_id": 3, "text": "नकाशाची रुंदी", "is_correct": false },
+        { "option_id": 4, "text": "केवळ उतार", "is_correct": false }
+      ],
+      "answer": "उंची व उतार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "समोच्च रेषा जवळ जवळ असल्यास त्या जमिनीचा उतार कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "मंद", "is_correct": false },
+        { "option_id": 2, "text": "तीव्र", "is_correct": true },
+        { "option_id": 3, "text": "सपाट", "is_correct": false },
+        { "option_id": 4, "text": "काहीच सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "तीव्र"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "समोच्च रेषा एकमेकींपासून दूर असल्यास उतार कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "तीव्र", "is_correct": false },
+        { "option_id": 2, "text": "मंद", "is_correct": true },
+        { "option_id": 3, "text": "उभा", "is_correct": false },
+        { "option_id": 4, "text": "दिसत नाही", "is_correct": false }
+      ],
+      "answer": "मंद"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नकाशात 'नदी' कशी दाखवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "काळ्या रेषेने", "is_correct": false },
+        { "option_id": 2, "text": "निळ्या वळणदार रेषेने", "is_correct": true },
+        { "option_id": 3, "text": "ठिपक्यांनी", "is_correct": false },
+        { "option_id": 4, "text": "पिवळ्या रंगाने", "is_correct": false }
+      ],
+      "answer": "निळ्या वळणदार रेषेने"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अक्षांशाच्या बाबतीत नकाशात काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "स्थान", "is_correct": true },
+        { "option_id": 2, "text": "वजन", "is_correct": false },
+        { "option_id": 3, "text": "किंमत", "is_correct": false },
+        { "option_id": 4, "text": "आकार", "is_correct": false }
+      ],
+      "answer": "स्थान"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "नकाशाचे प्रमाण कशासाठी वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रंग भरण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवरील अंतर आणि नकाशावरील अंतर यांचा संबंध जोडण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा फाडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नकाशावर नावे लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जमिनीवरील अंतर आणि नकाशावरील अंतर यांचा संबंध जोडण्यासाठी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "प्राकृतिक नकाशात काय दाखवलेले नसते?",
+      "options": [
+        { "option_id": 1, "text": "डोंगर", "is_correct": false },
+        { "option_id": 2, "text": "नद्या", "is_correct": false },
+        { "option_id": 3, "text": "राजकीय सीमा", "is_correct": true },
+        { "option_id": 4, "text": "पठार", "is_correct": false }
+      ],
+      "answer": "राजकीय सीमा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नकाशात 'रुग्णालय' दाखवण्यासाठी कोणते चिन्ह वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा त्रिकोण", "is_correct": false },
+        { "option_id": 2, "text": "निळा चौकोन", "is_correct": false },
+        { "option_id": 3, "text": "लाल अधिक चिन्ह (+)", "is_correct": true },
+        { "option_id": 4, "text": "काळा गोल", "is_correct": false }
+      ],
+      "answer": "लाल अधिक चिन्ह (+)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "होकायंत्राचा वापर कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "वेळ पाहण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "दिशा ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "उंची मोजण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंग मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "दिशा ओळखण्यासाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "नकाशात 'विमानतळ' कसे दाखवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "विमानाचे चित्र", "is_correct": true },
+        { "option_id": 2, "text": "रेल्वेचे चित्र", "is_correct": false },
+        { "option_id": 3, "text": "ठिपका", "is_correct": false },
+        { "option_id": 4, "text": "पांढरी रेषा", "is_correct": false }
+      ],
+      "answer": "विमानाचे चित्र"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "नकाशातील वरची बाजू सामान्यतः कोणती दिशा दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "स्तरालेख नकाशात रंगाचा गडदपणा काय सुचवतो?",
+      "options": [
+        { "option_id": 1, "text": "जास्त उंची", "is_correct": true },
+        { "option_id": 2, "text": "कमी उंची", "is_correct": false },
+        { "option_id": 3, "text": "जास्त पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "जास्त लोकसंख्या", "is_correct": false }
+      ],
+      "answer": "जास्त उंची"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "नकाशात 'टपाल कार्यालय' (Post Office) कसे दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "T.O.", "is_correct": false },
+        { "option_id": 2, "text": "P.O.", "is_correct": true },
+        { "option_id": 3, "text": "H.O.", "is_correct": false },
+        { "option_id": 4, "text": "B.O.", "is_correct": false }
+      ],
+      "answer": "P.O."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "नकाशात 'खनिज तेल' साठे दाखवण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "काळा त्रिकोण", "is_correct": false },
+        { "option_id": 2, "text": "तेल विहिरीचे चित्र/चिन्ह", "is_correct": true },
+        { "option_id": 3, "text": "हिरवे पान", "is_correct": false },
+        { "option_id": 4, "text": "लाल रेषा", "is_correct": false }
+      ],
+      "answer": "तेल विहिरीचे चित्र/चिन्ह"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "नकाशाचा उपयोग खालीलपैकी कोणाला होत नाही?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटक", "is_correct": false },
+        { "option_id": 2, "text": "सैन्य", "is_correct": false },
+        { "option_id": 3, "text": "नकाशा वाचू न शकणारे लहान मूल", "is_correct": true },
+        { "option_id": 4, "text": "वाहतूकदार", "is_correct": false }
+      ],
+      "answer": "नकाशा वाचू न शकणारे लहान मूल"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "नकाशात 'बंदर' (Sea Port) दाखवण्यासाठी कोणते चिन्ह वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "नांगराचे चित्र (Anchor)", "is_correct": true },
+        { "option_id": 2, "text": "विमानाचे चित्र", "is_correct": false },
+        { "option_id": 3, "text": "गाडीचे चित्र", "is_correct": false },
+        { "option_id": 4, "text": "झाडाचे चित्र", "is_correct": false }
+      ],
+      "answer": "नांगराचे चित्र (Anchor)"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "क्षेत्रफळाच्या दृष्टीने जगातील सर्वात मोठा नकाशा कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "घराचा नकाशा", "is_correct": false },
+        { "option_id": 2, "text": "जगाचा नकाशा", "is_correct": true },
+        { "option_id": 3, "text": "गावाचा नकाशा", "is_correct": false },
+        { "option_id": 4, "text": "शाळेचा नकाशा", "is_correct": false }
+      ],
+      "answer": "जगाचा नकाशा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नकाशात 'जंगल' किंवा 'वनक्षेत्र' कोणत्या रंगाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "गडद हिरवा", "is_correct": true },
+        { "option_id": 3, "text": "तपकिरी", "is_correct": false },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "गडद हिरवा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "समोच्च रेषा पद्धतीत रेषांमधील अंतर काय दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "उताराचे स्वरूप", "is_correct": true },
+        { "option_id": 2, "text": "लोकसंख्या", "is_correct": false },
+        { "option_id": 3, "text": "हवामान", "is_correct": false },
+        { "option_id": 4, "text": "नदीची लांबी", "is_correct": false }
+      ],
+      "answer": "उताराचे स्वरूप"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "नकाशात 'धार्मिक स्थळ' (उदा. मंदिर) कसे दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "शिखराचे चित्र/चिन्ह", "is_correct": true },
+        { "option_id": 2, "text": "पिवळा चौकोन", "is_correct": false },
+        { "option_id": 3, "text": "निळी रेषा", "is_correct": false },
+        { "option_id": 4, "text": "काळा ठिपका", "is_correct": false }
+      ],
+      "answer": "शिखराचे चित्र/चिन्ह"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नकाशा तयार करताना सर्वात महत्त्वाची गोष्ट कोणती?",
+      "options": [
+        { "option_id": 1, "text": "भडक रंग", "is_correct": false },
+        { "option_id": 2, "text": "अचूक प्रमाण आणि दिशा", "is_correct": true },
+        { "option_id": 3, "text": "जास्त नावे", "is_correct": false },
+        { "option_id": 4, "text": "मोठा कागद", "is_correct": false }
+      ],
+      "answer": "अचूक प्रमाण आणि दिशा"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नकाशात 'युद्धभूमी' दाखवण्यासाठी कोणते चिन्ह वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "दोन एकमेकांना छेदणाऱ्या तलवारी", "is_correct": true },
+        { "option_id": 2, "text": "लाल ध्वज", "is_correct": false },
+        { "option_id": 3, "text": "बंदूक", "is_correct": false },
+        { "option_id": 4, "text": "काळा डोंगर", "is_correct": false }
+      ],
+      "answer": "दोन एकमेकांना छेदणाऱ्या तलवारी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "नकाशात 'प्रकाशगृह' (Lighthouse) कशासाठी वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "विमानांना दिशा दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जहाजांना दिशा दाखवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रस्त्यावरील वाहतुकीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "दिवे लावण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जहाजांना दिशा दाखवण्यासाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नकाशात 'जिल्हा सीमा' कशी दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "तुटक रेषा आणि ठिपके", "is_correct": true },
+        { "option_id": 2, "text": "सलग जाड रेषा", "is_correct": false },
+        { "option_id": 3, "text": "दुहेरी रेषा", "is_correct": false },
+        { "option_id": 4, "text": "रंगीत पट्टा", "is_correct": false }
+      ],
+      "answer": "तुटक रेषा आणि ठिपके"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नकाशात 'तलाव' कोणत्या रंगाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "पिवळा", "is_correct": false },
+        { "option_id": 2, "text": "निळा", "is_correct": true },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "निळा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "नकाशात जमिनीची उंची कोठून मोजली जाते?",
+      "options": [
+        { "option_id": 1, "text": "समुद्र सपाटीपासून", "is_correct": true },
+        { "option_id": 2, "text": "डोंगराच्या माथ्यापासून", "is_correct": false },
+        { "option_id": 3, "text": "पाताळापासून", "is_correct": false },
+        { "option_id": 4, "text": "घराच्या छतापासून", "is_correct": false }
+      ],
+      "answer": "समुद्र सपाटीपासून"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "समोच्च रेषांवर काय लिहिलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "उंचीचे आकडे", "is_correct": true },
+        { "option_id": 2, "text": "गावांची नावे", "is_correct": false },
+        { "option_id": 3, "text": "रस्त्यांची नावे", "is_correct": false },
+        { "option_id": 4, "text": "तारीख", "is_correct": false }
+      ],
+      "answer": "उंचीचे आकडे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "स्तरालेख नकाशात रंगांचा क्रम कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "उंचीनुसार बदलणारा", "is_correct": true },
+        { "option_id": 2, "text": "आवडेल तसा", "is_correct": false },
+        { "option_id": 3, "text": "फक्त काळा आणि पांढरा", "is_correct": false },
+        { "option_id": 4, "text": "सगळीकडे एकच", "is_correct": false }
+      ],
+      "answer": "उंचीनुसार बदलणारा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "नकाशात 'टेलिफोन केंद्र' कसे दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "T.C.", "is_correct": false },
+        { "option_id": 2, "text": "Phone", "is_correct": false },
+        { "option_id": 3, "text": "छोट्या टेलिफोनचे चित्र", "is_correct": true },
+        { "option_id": 4, "text": "नुसता ठिपका", "is_correct": false }
+      ],
+      "answer": "छोट्या टेलिफोनचे चित्र"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "नकाशात 'उत्तर' दिशा दर्शवण्यासाठी कोणता बाण असतो?",
+      "options": [
+        { "option_id": 1, "text": "खालच्या बाजूचा", "is_correct": false },
+        { "option_id": 2, "text": "वरच्या बाजूचा (N लिहिलेला)", "is_correct": true },
+        { "option_id": 3, "text": "उजव्या बाजूचा", "is_correct": false },
+        { "option_id": 4, "text": "डाव्या बाजूचा", "is_correct": false }
+      ],
+      "answer": "वरच्या बाजूचा (N लिहिलेला)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "नकाशातील 'सांकेतिक खुणा' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "चित्रे", "is_correct": false },
+        { "option_id": 2, "text": "अक्षरे किंवा भूमितीय आकृत्या", "is_correct": true },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "अक्षरे किंवा भूमितीय आकृत्या"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "नकाशाचा मुख्य उद्देश काय असतो?",
+      "options": [
+        { "option_id": 1, "text": "कागद रंगवणे", "is_correct": false },
+        { "option_id": 2, "text": "एखाद्या प्रदेशाची माहिती मिळवणे", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ खेळणे", "is_correct": false }
+      ],
+      "answer": "एखाद्या प्रदेशाची माहिती मिळवणे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "नकाशात 'बर्फाच्छादित' प्रदेश कोणत्या रंगाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढरा", "is_correct": true },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "पांढरा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नकाशा वाचनासाठी कशाचे ज्ञान असणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "गाण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "सूची, चिन्हे आणि खुणांचे", "is_correct": true },
+        { "option_id": 3, "text": "विज्ञानाचे", "is_correct": false },
+        { "option_id": 4, "text": "इतिहासाचे", "is_correct": false }
+      ],
+      "answer": "सूची, चिन्हे आणि खुणांचे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नकाशा म्हणजे काय?",
+      "answer": "पृथ्वीचा किंवा तिच्या काही भागाचा सपाट कागदावर काढलेला प्रमाणबद्ध आराखडा म्हणजे नकाशा होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "समोच्च रेषा पद्धतीचा वापर कशासाठी केला जातो?",
+      "answer": "जमिनीची उंची आणि उताराचे स्वरूप नकाशात अचूकपणे दाखवण्यासाठी समोच्च रेषा पद्धतीचा वापर केला जातो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "समोच्च रेषा म्हणजे काय?",
+      "answer": "नकाशात समुद्रसपाटीपासून समान उंचीवर असलेली ठिकाणे जोडणाऱ्या काल्पनिक रेषांना समोच्च रेषा म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "स्तर रंग पद्धत म्हणजे काय?",
+      "answer": "समोच्च रेषांच्या दरम्यान जमिनीच्या उंचीनुसार वेगवेगळे रंग वापरून उंची दाखवण्याच्या पद्धतीला स्तर रंग पद्धत म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नकाशात 'सूची' का दिलेली असते?",
+      "answer": "नकाशात वापरलेली चिन्हे आणि खुणा यांचा अर्थ समजण्यासाठी आणि नकाशा वाचन सोपे होण्यासाठी सूची दिलेली असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सांकेतिक चिन्हे म्हणजे काय?",
+      "answer": "नकाशात वेगवेगळ्या वस्तू किंवा ठिकाणे दाखवण्यासाठी वापरलेल्या छोट्या चित्रांना सांकेतिक चिन्हे म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सांकेतिक खुणा म्हणजे काय?",
+      "answer": "नकाशात विशिष्ट माहिती दाखवण्यासाठी वापरलेली अक्षरे, भूमितीय आकृत्या किंवा ठिपके यांना सांकेतिक खुणा म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नकाशात जमिनीची उंची कोणत्या बिंदूपासून मोजतात?",
+      "answer": "नकाशात जमिनीची उंची समुद्रसपाटीपासून (Mean Sea Level) मोजली जाते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नकाशात निळा रंग काय दर्शवतो?",
+      "answer": "नकाशात निळा रंग जलरूपे (नदी, तलाव, समुद्र, महासागर) दर्शवण्यासाठी वापरला जातो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "नकाशात हिरवा रंग काय दर्शवतो?",
+      "answer": "नकाशात हिरवा रंग वने, जंगले किंवा कमी उंचीची सुपीक मैदाने दर्शवण्यासाठी वापरला जातो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नकाशात पिवळा रंग कोणत्या भागासाठी वापरतात?",
+      "answer": "नकाशात पिवळा रंग मध्यम उंचीचा प्रदेश किंवा शेतीखालील जमीन दाखवण्यासाठी वापरला जातो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नकाशात तपकिरी रंग काय दर्शवतो?",
+      "answer": "नकाशात तपकिरी रंग पर्वत, डोंगर आणि अतिउंच प्रदेश दर्शवण्यासाठी वापरला जातो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नकाशात पर्वत दाखवण्यासाठी कोणत्या पद्धतीचा वापर सर्वाधिक प्रभावी ठरतो?",
+      "answer": "पर्वत दाखवण्यासाठी उठावाचा त्रिमितीय नकाशा ही पद्धत सर्वाधिक प्रभावी ठरते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नकाशाचे प्रमाण म्हणजे काय?",
+      "answer": "जमिनीवरील प्रत्यक्ष अंतर आणि नकाशावरील अंतर यांच्या गुणोत्तराला नकाशाचे प्रमाण म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "नकाशात दिशा का दर्शवल्या जातात?",
+      "answer": "नकाशातील ठिकाणांचे योग्य स्थान आणि एकमेकांपासूनच्या दिशा समजण्यासाठी दिशा दर्शवल्या जातात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नकाशात रेल्वे मार्ग कसा ओळखायचा?",
+      "answer": "नकाशात काळ्या आणि पांढऱ्या पट्ट्यांनी बनलेल्या रेषेवरून रेल्वे मार्ग ओळखता येतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नकाशात वस्ती (Settlement) कशी दाखवली जाते?",
+      "answer": "नकाशात वस्ती दाखवण्यासाठी लाल रंगाच्या छोट्या चौकोनांचा वापर केला जातो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नकाशात किल्ला दाखवण्यासाठी कोणते सांकेतिक चिन्ह असते?",
+      "answer": "नकाशात किल्ला दाखवण्यासाठी बुरुज आणि तटबंदीचे छोटे चित्र वापरले जाते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नकाशात रुग्णालय कोणत्या चिन्हाने ओळखले जाते?",
+      "answer": "नकाशात लाल रंगाच्या अधिक (+) चिन्हाने रुग्णालय ओळखले जाते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नकाशात टपाल कार्यालय (Post Office) कसे लिहिलेले असते?",
+      "answer": "नकाशात टपाल कार्यालयासाठी 'P.O.' हे अक्षरसंकेत वापरले जातात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नकाशात 'P.S.' म्हणजे काय?",
+      "answer": "नकाशात 'P.S.' म्हणजे पोलीस स्टेशन (Police Station) होय."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "नकाशात दीपगृह (Lighthouse) कशासाठी दाखवले जाते?",
+      "options": [],
+      "answer": "समुद्रकिनारी जहाजांना धोक्याची सूचना देण्यासाठी किंवा मार्ग दाखवण्यासाठी दीपगृह दाखवले जाते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "नकाशात विमानतळ दाखवण्यासाठी कोणते चिन्ह वापरतात?",
+      "answer": "विमानतळ दाखवण्यासाठी विमानाचे छोटे सांकेतिक चित्र वापरतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नकाशात 'बंदर' दाखवण्यासाठी कोणते चिन्ह असते?",
+      "answer": "नकाशात बंदर दाखवण्यासाठी जहाजाचा नांगर (Anchor) वापरला जातो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "नकाशातील तुटक रेषा काय दर्शवतात?",
+      "answer": "नकाशातील तुटक रेषा सहसा पायवाटा किंवा कच्चे रस्ते दर्शवण्यासाठी वापरल्या जातात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "समोच्च रेषा एकमेकींना छेदतात का?",
+      "answer": "नाही, समोच्च रेषा कधीही एकमेकींना छेदत नाहीत कारण एकाच ठिकाणी दोन वेगवेगळ्या उंची असू शकत नाहीत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मंद उतार म्हणजे काय?",
+      "answer": "जेव्हा जमिनीची उंची हळूहळू वाढते किंवा कमी होते, तेव्हा त्याला मंद उतार म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "तीव्र उतार म्हणजे काय?",
+      "answer": "जेव्हा जमिनीची उंची खूप वेगाने वाढते किंवा कमी होते, तेव्हा त्याला तीव्र उतार म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नकाशात नद्यांच्या प्रवाहाची दिशा कशी समजते?",
+      "answer": "नकाशात रंगाच्या छटा (उंच ते कमी उंचीकडे) आणि नद्यांच्या वळणांवरून प्रवाहाची दिशा समजते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "नकाशात शिखर कसे दाखवले जाते?",
+      "answer": "नकाशात शिखर दाखवण्यासाठी काळा त्रिकोण आणि त्यासमोर उंचीचे आकडे लिहिलेले असतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नकाशात 'राखीव जंगल' कसे ओळखायचे?",
+      "answer": "नकाशात 'R.F.' (Reserved Forest) या अक्षरांनी किंवा विशिष्ट गडद हिरव्या रंगाने राखीव जंगल ओळखता येते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नकाशात रस्ते दाखवण्यासाठी कोणत्या रंगाचा वापर केला जातो?",
+      "answer": "नकाशात रस्ते दाखवण्यासाठी सहसा लाल किंवा काळ्या रंगाच्या समांतर रेषा वापरल्या जातात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'प्रमाण' कुठे दिलेले असते?",
+      "answer": "नकाशात प्रमाण सहसा कोपऱ्यात किंवा तळाशी दिलेले असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नकाशा वाचनाचे फायदे काय आहेत?",
+      "answer": "नकाशा वाचनामुळे आपल्याला अनोळखी प्रदेशाची भौगोलिक माहिती, रस्ते आणि महत्त्वाच्या ठिकाणांची माहिती मिळते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नकाशात राज्याची सीमा कशी दाखवतात?",
+      "answer": "राज्याची सीमा ठळक आणि मोठ्या तुटक रेषांनी दाखवली जाते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "नकाशात देशाची सीमा कशी दाखवतात?",
+      "answer": "देशाची आंतरराष्ट्रीय सीमा सर्वात जाड तुटक रेषा आणि ठिपक्यांनी दाखवली जाते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नकाशात 'विहीर' कशी दाखवतात?",
+      "answer": "नकाशात विहीर दाखवण्यासाठी निळ्या रंगाचा छोटा भरीव गोल वापरला जातो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नकाशात 'मंदिर' कसे दाखवतात?",
+      "answer": "नकाशात मंदिर दाखवण्यासाठी शिखरावर ध्वज असलेल्या छोट्या चित्राचा वापर करतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "नकाशात 'मशीद' कशी दाखवतात?",
+      "answer": "नकाशात मशीद दाखवण्यासाठी घुमट आणि मीनार असलेल्या चिन्हाचा वापर करतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नकाशात 'चर्च' कसे दाखवतात?",
+      "answer": "नकाशात चर्च दाखवण्यासाठी क्रॉस (+) असलेले इमारतीचे चिन्ह वापरतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नकाशात 'युद्धभूमी'चे चिन्ह कोणते असते?",
+      "answer": "नकाशात दोन एकमेकांना छेदणाऱ्या तलवारी युद्धभूमी दर्शवतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत नकाशाचा काय उपयोग होतो?",
+      "answer": "क्षेत्रभेटीत नकाशाच्या साहाय्याने आपल्याला आपण कुठे आहोत आणि कुठे जायचे आहे याचा मार्ग शोधता येतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'उठाव' म्हणजे काय?",
+      "answer": "जमिनीची उंची, उतार आणि डोंगराळ भाग यांच्या एकत्रित रूपाला उठाव म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नकाशात 'नदीचे पात्र' कसे दाखवतात?",
+      "answer": "नदीचे पात्र निळ्या रंगाच्या वळणदार रेषेने आणि प्रवाहाच्या दिशेने अरुंद किंवा रुंद होत जाणाऱ्या रेषेने दाखवतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "समोच्च रेषांवरचे आकडे काय सांगतात?",
+      "answer": "समोच्च रेषांवरचे आकडे त्या रेषेची समुद्रसपाटीपासूनची मीटरमधील उंची सांगतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नकाशात लोकसंख्या दाखवण्यासाठी काय वापरतात?",
+      "answer": "नकाशात लोकसंख्या दाखवण्यासाठी सहसा ठिपके किंवा वेगवेगळ्या आकाराचे गोल वापरतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'प्रमाण' का बदलता येते?",
+      "answer": "कागदाच्या आकारानुसार आणि माहितीच्या विस्तारावरून नकाशाचे प्रमाण बदलता येते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नकाशात 'गवत' किंवा 'कुरणे' कसे दाखवतात?",
+      "answer": "नकाशात गवत किंवा कुरणे फिकट हिरव्या रंगाने किंवा गवताच्या लहान चिन्हाने दाखवतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "नकाशात 'खाण' (Mine) कशी दाखवतात?",
+      "answer": "नकाशात खाण दाखवण्यासाठी छोट्या हातोडीचे किंवा कुदळीचे चिन्ह वापरतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "नकाशाचा सर्वात मोठा फायदा काय?",
+      "answer": "एका मोठ्या प्रदेशाची माहिती एका लहान कागदावर एकत्रितपणे पाहता येणे हा नकाशाचा सर्वात मोठा फायदा आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "समोच्च रेषा पद्धतीत जमिनीचा उतार कसा ओळखतात?",
+      "answer": "समोच्च रेषांमधील अंतर कमी असल्यास उतार तीव्र असतो आणि अंतर जास्त असल्यास उतार मंद असतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "नकाशात 'सरोवर' कसे दाखवले जाते?",
+      "answer": "नकाशात सरोवर निळ्या रंगाच्या बंदिस्त आकृतीने दाखवले जाते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "नकाशात 'पायवाट' कशी दाखवतात?",
+      "answer": "नकाशात पायवाट बारीक तुटक ठिपक्यांच्या रेषेने दाखवली जाते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'शिखर' या चिन्हाचा अर्थ काय?",
+      "answer": "शिखर हे चिन्ह त्या प्रदेशातील सर्वात उंच ठिकाण दर्शवते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "नकाशात 'दौवा' (Wetland) कोणत्या रंगाने दाखवतात?",
+      "answer": "नकाशात दलदलीचा भाग निळ्या आणि हिरव्या रंगाच्या मिश्रणाने किंवा विशिष्ट चिन्हाने दाखवतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "नकाशात 'उंच पठार' कसे ओळखायचे?",
+      "answer": "समोच्च रेषा ज्या भागात दूर दूर असतात पण त्या भागाची उंची जास्त असते, तो भाग पठार म्हणून ओळखला जातो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "नकाशात 'गाव' आणि 'शहर' यांच्या चिन्हात काय फरक असतो?",
+      "answer": "गावाचे चिन्ह लहान असते, तर शहराचे चिन्ह मोठे किंवा जास्त लाल चौकोनांनी बनलेले असते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "नकाशात 'रेल्वे स्टेशन' कसे दाखवतात?",
+      "answer": "लोहमार्गावर असलेल्या लहान लाल किंवा काळ्या चौकोनाने रेल्वे स्टेशन दाखवले जाते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "नकाशात 'स्मशानभूमी'साठी कोणते चिन्ह वापरतात?",
+      "answer": "नकाशात स्मशानभूमीसाठी सहसा थडग्याचे किंवा विशिष्ट धार्मिक चिन्ह वापरतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'उंची' आणि 'खोली' यात काय फरक आहे?",
+      "answer": "समुद्रसपाटीच्या वरच्या भागाला उंची म्हणतात, तर समुद्रसपाटीच्या खालच्या भागाला खोली म्हणतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "नकाशात 'धरण' कसे दाखवले जाते?",
+      "answer": "नदीच्या प्रवाहावर आडव्या जाड रेषेने धरण दाखवले जाते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "नकाशात 'कालवा' (Canal) कसा दाखवतात?",
+      "answer": "नदीला जोडणाऱ्या निळ्या रंगाच्या सरळ रेषेने कालवा दाखवतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "नकाशात 'खनिज' साठे दाखवण्यासाठी काय वापरतात?",
+      "answer": "खनिजांच्या प्रकारानुसार वेगवेगळी चिन्हे (उदा. कोळशासाठी काळा चौकोन) वापरतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "नकाशात 'बर्फ' दाखवण्यासाठी पांढरा रंगच का वापरतात?",
+      "answer": "बर्फाचा नैसर्गिक रंग पांढरा असतो, म्हणून तो नकाशात पांढऱ्या रंगाने दाखवला जातो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "नकाशात 'दर्गा' कसा दाखवतात?",
+      "answer": "मशिदीसारख्याच पण थोड्या वेगळ्या घुमटाच्या चिन्हाने दर्गा दाखवला जातो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'प्रमाण'चे दोन प्रकार कोणते?",
+      "answer": "नकाशात शब्द प्रमाण आणि रेखीय प्रमाण असे दोन प्रकार वापरले जातात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "नकाशात 'दवाखाना' आणि 'रुग्णालय' यात फरक असतो का?",
+      "answer": "मोठ्या नकाशात रुग्णालयासाठी मोठे चिन्ह असते, तर दवाखान्यासाठी लहान चिन्ह वापरले जाऊ शकते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "नकाशात 'गुहा' (Cave) कशी दाखवतात?",
+      "answer": "डोंगराच्या चिन्हात असलेल्या एका लहान अर्धवर्तुळाकार काळ्या चिन्हाने गुहा दाखवतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "नकाशात 'राखीव वन' म्हणजे काय?",
+      "answer": "ज्या वनातील झाडे तोडण्यास कायद्याने बंदी असते, ते वन नकाशात विशेष चिन्हाने दाखवले जाते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "नकाशात 'वाळवंट' कोणत्या रंगाने दाखवतात?",
+      "answer": "नकाशात वाळवंट फिकट पिवळ्या किंवा राखाडी रंगाने आणि ठिपक्यांनी दाखवतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "नकाशात 'घट' (Contour Interval) म्हणजे काय?",
+      "answer": "दोन लागोपाठच्या समोच्च रेषांमधील उंचीच्या फरकाला समोच्च रेषांतर किंवा 'घट' म्हणतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "नकाशात 'शिखर' आणि 'डोंगर' यात काय फरक असतो?",
+      "answer": "डोंगर हा मोठा प्रदेश असतो, तर शिखर हे त्यातील सर्वात वरचे टोक असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "नकाशात 'नदीची उपनदी' कशी ओळखायची?",
+      "answer": "जी लहान निळी रेषा मुख्य मोठ्या निळ्या रेषेला येऊन मिळते, ती उपनदी असते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "नकाशात 'पूल' (Bridge) कसा दाखवतात?",
+      "answer": "रस्ता किंवा रेल्वे मार्ग जेव्हा नदीला छेदतो, तिथे दोन कंसांच्या चिन्हाने पूल दाखवतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "नकाशात 'समतल रेषा' का वापरतात?",
+      "answer": "समतल रेषा जमिनीचा सपाटपणा किंवा सारखी उंची दर्शवण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "नकाशात 'बागा' कशा दाखवतात?",
+      "answer": "नकाशात फळबागा किंवा फुलबागा हिरव्या रंगात फुलांच्या किंवा फळांच्या छोट्या चिन्हांनी दाखवतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "नकाशात 'रस्ता दुभाजक' कसा दाखवतात?",
+      "answer": "मोठ्या नकाशात दोन रस्त्यांच्या मध्ये असलेल्या पांढऱ्या रेषेने दुभाजक दाखवतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "नकाशात 'टेलिफोन लाईन' कशी दाखवतात?",
+      "answer": "तुटक रेषा आणि त्यावर 'T' लिहून टेलिफोन लाईन दाखवली जाते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "नकाशात 'विद्युत केंद्र' (Power Station) कसे दाखवतात?",
+      "answer": "विद्युत केंद्र विजेच्या कडकडाटाच्या (Lightning) चिन्हाने दाखवले जाते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'N' चा अर्थ काय?",
+      "answer": "नकाशात 'N' म्हणजे उत्तर (North) दिशा होय."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "नकाशात 'S' चा अर्थ काय?",
+      "answer": "नकाशात 'S' म्हणजे दक्षिण (South) दिशा होय."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "नकाशात 'E' चा अर्थ काय?",
+      "answer": "नकाशात 'E' म्हणजे पूर्व (East) दिशा होय."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "नकाशात 'W' चा अर्थ काय?",
+      "answer": "नकाशात 'W' म्हणजे पश्चिम (West) दिशा होय."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "नकाशात 'किल्ला' आणि 'गड' यात फरक असतो का?",
+      "answer": "दोन्हींसाठी नकाशात सहसा बुुरुजाचेच चिन्ह वापरले जाते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "नकाशात 'धबधबा' (Waterfall) कसा दाखवतात?",
+      "answer": "नदीच्या रेषेवर निळ्या रंगाच्या छोट्या तुटक रेषांनी धबधबा दाखवतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "नकाशात 'खाडी' (Creek) कशी दाखवतात?",
+      "answer": "समुद्राचे पाणी जमिनीकडे जिथे घुसते, तिथे निळ्या रंगाच्या अरुंद भागाने खाडी दाखवतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नकाशात 'दळणवळण' साधने कशी ओळखायची?",
+      "answer": "रस्ते, रेल्वे मार्ग, विमानतळ आणि बंदरे ही दळणवळणाची साधने त्यांच्या चिन्हांवरून ओळखता येतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "नकाशात 'उठाव' दाखवण्याची सर्वात जुनी पद्धत कोणती?",
+      "answer": "उठाव दाखवण्याची सर्वात जुनी पद्धत म्हणजे हाताने काढलेली डोंगराची चित्रे (Hill shading) होय."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "नकाशात 'शेती'साठी कोणता रंग वापरतात?",
+      "answer": "नकाशात शेतीसाठी पिवळा किंवा फिकट हिरवा रंग वापरतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "नकाशात 'अतिउंच शिखर' कोणत्या रंगात असते?",
+      "answer": "अतिउंच शिखर सहसा गडद तपकिरी किंवा पांढऱ्या (बर्फाच्छादित असल्यास) रंगाने दाखवतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'रेखावृत्त' म्हणजे काय?",
+      "answer": "नकाशात उत्तर-दक्षिण काढलेल्या काल्पनिक रेषांना रेखावृत्त म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'अक्षवृत्त' म्हणजे काय?",
+      "answer": "नकाशात पूर्व-पश्चिम काढलेल्या काल्पनिक रेषांना अक्षवृत्त म्हणतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "नकाशात 'उंची' मोजताना समुद्रसपाटी शून्य का मानतात?",
+      "answer": "जगातील सर्व समुद्रांची पातळी साधारणपणे सारखी असते, म्हणून ती शून्य मानली जाते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "नकाशात 'लोकवस्तीचा घनता' कशी दाखवतात?",
+      "answer": "लोकवस्तीची घनता रंगांच्या गडदपणाने किंवा ठिपक्यांच्या संख्येने दाखवली जाते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "नकाशात 'ऐतिहासिक वारसा' स्थळे कशी दाखवतात?",
+      "answer": "ऐतिहासिक स्थळे सहसा लाल रंगाच्या किल्ल्याच्या किंवा विशिष्ट स्तंभाच्या चिन्हाने दाखवतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "नकाशात 'वाहतूक कोंडी' दाखवली जाऊ शकते का?",
+      "answer": "डिजिटल नकाशामध्ये (उदा. गुगल मॅप्स) लाल रंगाने वाहतूक कोंडी दाखवली जाते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "नकाशात 'सांकेतिक भाषे'चा वापर का केला जातो?",
+      "answer": "कमी जागेत जास्त माहिती अचूकपणे भरण्यासाठी सांकेतिक भाषेचा वापर केला जातो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "नकाशात 'जंगल' आणि 'बाग' यात काय फरक असतो?",
+      "answer": "जंगल हे नैसर्गिक असते आणि मोठ्या प्रदेशावर असते, तर बाग मानवनिर्मित आणि लहान प्रदेशावर असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "नकाशात 'समुद्रकिनारा' कसा दाखवतात?",
+      "answer": "जमीन आणि पाणी जिथे मिळतात तिथे निळ्या आणि हिरव्या/पिवळ्या रंगाच्या सीमेने किनारा दाखवतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "नकाशात 'उंची' अचूकपणे का दाखवावी लागते?",
+      "answer": "रस्ते बांधणी, धरणे बांधणी आणि लष्करी हालचालींसाठी उंचीची अचूक माहिती आवश्यक असते."
+    }
+  ]
+}

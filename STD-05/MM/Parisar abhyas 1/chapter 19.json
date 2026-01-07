@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 19,
+  "chapter_name": "अन्नघटक",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पिष्टमय पदार्थांच्या चाचणीसाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "मिठ", "is_correct": false },
+        { "option_id": 2, "text": "आयोडीन", "is_correct": true },
+        { "option_id": 3, "text": "साखर", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "आयोडीन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आयोडीनचा थेंब पिष्टावर पडल्यास त्याचा रंग कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "काळा-निळा", "is_correct": true },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "काळा-निळा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शरीराला ऊर्जा देणारे मुख्य अन्नघटक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "कर्बोदके", "is_correct": true },
+        { "option_id": 2, "text": "जीवनसत्त्वे", "is_correct": false },
+        { "option_id": 3, "text": "खनिजे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "कर्बोदके"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पिष्टमय पदार्थांच्या पचनातून कोणता पदार्थ तयार होतो?",
+      "options": [
+        { "option_id": 1, "text": "तेल", "is_correct": false },
+        { "option_id": 2, "text": "शर्करा (ग्लुकोज)", "is_correct": true },
+        { "option_id": 3, "text": "प्रथिने", "is_correct": false },
+        { "option_id": 4, "text": "मिठ", "is_correct": false }
+      ],
+      "answer": "शर्करा (ग्लुकोज)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशात सर्वात जास्त पिष्ट असते?",
+      "options": [
+        { "option_id": 1, "text": "बटाटा", "is_correct": true },
+        { "option_id": 2, "text": "पालेभाजी", "is_correct": false },
+        { "option_id": 3, "text": "लिंबू", "is_correct": false },
+        { "option_id": 4, "text": "काकडी", "is_correct": false }
+      ],
+      "answer": "बटाटा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "तेल आणि तूप हे कोणत्या प्रकारचे अन्नघटक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "प्रथिने", "is_correct": false },
+        { "option_id": 2, "text": "स्निग्ध पदार्थ", "is_correct": true },
+        { "option_id": 3, "text": "खनिजे", "is_correct": false },
+        { "option_id": 4, "text": "जीवनसत्त्वे", "is_correct": false }
+      ],
+      "answer": "स्निग्ध पदार्थ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कागदावर पदार्थ घासल्यास कागद पारदर्शक झाला, तर त्यात काय असते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "प्रथिने", "is_correct": false },
+        { "option_id": 3, "text": "स्निग्ध पदार्थ", "is_correct": true },
+        { "option_id": 4, "text": "तंतुमय पदार्थ", "is_correct": false }
+      ],
+      "answer": "स्निग्ध पदार्थ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शरीराची झीज भरून काढण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "प्रथिने", "is_correct": true },
+        { "option_id": 2, "text": "साखर", "is_correct": false },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "प्रथिने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी प्रथिनांचा मुख्य स्रोत कोणता?",
+      "options": [
+        { "option_id": 1, "text": "डाळी आणि कडधान्ये", "is_correct": true },
+        { "option_id": 2, "text": "तेल", "is_correct": false },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "डाळी आणि कडधान्ये"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रोगांचा प्रतिकार करण्यासाठी शरीराला कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ साखर", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्वे आणि खनिजे", "is_correct": true },
+        { "option_id": 3, "text": "स्निग्ध पदार्थ", "is_correct": false },
+        { "option_id": 4, "text": "पिष्ट", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्वे आणि खनिजे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "हाडे मजबूत होण्यासाठी कोणत्या खनिजाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "लोह", "is_correct": false },
+        { "option_id": 2, "text": "कॅल्शिअम", "is_correct": true },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "सोडिअम", "is_correct": false }
+      ],
+      "answer": "कॅल्शिअम"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रक्ताद्वारे ऑक्सिजन वाहून नेण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "लोह", "is_correct": true },
+        { "option_id": 2, "text": "साखर", "is_correct": false },
+        { "option_id": 3, "text": "फास्फोरस", "is_correct": false },
+        { "option_id": 4, "text": "चरबी", "is_correct": false }
+      ],
+      "answer": "लोह"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जीवनसत्त्व 'अ' च्या अभावामुळे कोणता आजार होतो?",
+      "options": [
+        { "option_id": 1, "text": "बेरीबेरी", "is_correct": false },
+        { "option_id": 2, "text": "रातांधळेपणा", "is_correct": true },
+        { "option_id": 3, "text": "स्कर्वी", "is_correct": false },
+        { "option_id": 4, "text": "मुडदूस", "is_correct": false }
+      ],
+      "answer": "रातांधळेपणा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लिंबू, संत्री या फळांमधून कोणते जीवनसत्त्व मिळते?",
+      "options": [
+        { "option_id": 1, "text": "जीवनसत्त्व अ", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्व ब", "is_correct": false },
+        { "option_id": 3, "text": "जीवनसत्त्व क", "is_correct": true },
+        { "option_id": 4, "text": "जीवनसत्त्व ड", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्व क"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सूर्यप्रकाशामुळे त्वचेमध्ये कोणते जीवनसत्त्व तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "जीवनसत्त्व अ", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्व ब", "is_correct": false },
+        { "option_id": 3, "text": "जीवनसत्त्व ड", "is_correct": true },
+        { "option_id": 4, "text": "जीवनसत्त्व के", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्व ड"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मलमूत्र साफ होण्यासाठी अन्नात काय असणे गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रथिने", "is_correct": false },
+        { "option_id": 2, "text": "तंतुमय पदार्थ", "is_correct": true },
+        { "option_id": 3, "text": "चरबी", "is_correct": false },
+        { "option_id": 4, "text": "शर्करा", "is_correct": false }
+      ],
+      "answer": "तंतुमय पदार्थ"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सर्व अन्नघटक योग्य प्रमाणात असलेल्या आहाराला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जास्त आहार", "is_correct": false },
+        { "option_id": 2, "text": "संतुलित आहार", "is_correct": true },
+        { "option_id": 3, "text": "शाकाहारी आहार", "is_correct": false },
+        { "option_id": 4, "text": "मांसाहारी आहार", "is_correct": false }
+      ],
+      "answer": "संतुलित आहार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पिष्ट आणि शर्करा यांना एकत्रितपणे काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खनिजे", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्वे", "is_correct": false },
+        { "option_id": 3, "text": "कर्बोदके", "is_correct": true },
+        { "option_id": 4, "text": "प्रथिने", "is_correct": false }
+      ],
+      "answer": "कर्बोदके"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गहू, ज्वारी, बाजरी हे मुख्यत्वे कोणते पदार्थ आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पिष्टमय पदार्थ", "is_correct": true },
+        { "option_id": 2, "text": "स्निग्ध पदार्थ", "is_correct": false },
+        { "option_id": 3, "text": "खनिजे", "is_correct": false },
+        { "option_id": 4, "text": "जीवनसत्त्वे", "is_correct": false }
+      ],
+      "answer": "पिष्टमय पदार्थ"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अन्नातील ऊर्जेचे मोजमाप कोणत्या एककात केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "मीटर", "is_correct": false },
+        { "option_id": 2, "text": "लिटर", "is_correct": false },
+        { "option_id": 3, "text": "किलोकॅलरी", "is_correct": true },
+        { "option_id": 4, "text": "ग्रॅम", "is_correct": false }
+      ],
+      "answer": "किलोकॅलरी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशातून तंतुमय पदार्थ मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "फळांच्या साली", "is_correct": true },
+        { "option_id": 2, "text": "तूप", "is_correct": false },
+        { "option_id": 3, "text": "साखर", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "फळांच्या साली"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "प्रथिने शरीरासाठी का आवश्यक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "चव वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "शरीराच्या वाढीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "तहान भागवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पचन थांबवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शरीराच्या वाढीसाठी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रातांधळेपणा टाळण्यासाठी काय खावे?",
+      "options": [
+        { "option_id": 1, "text": "गाजर", "is_correct": true },
+        { "option_id": 2, "text": "भाजीचा रस्सा", "is_correct": false },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 4, "text": "मिठाई", "is_correct": false }
+      ],
+      "answer": "गाजर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "स्निग्ध पदार्थांपासून शरीराला काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "थंडावा", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "खनिजे", "is_correct": false },
+        { "option_id": 4, "text": "तंतू", "is_correct": false }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाणी हा अन्नाचा घटक आहे का?",
+      "options": [
+        { "option_id": 1, "text": "नाही", "is_correct": false },
+        { "option_id": 2, "text": "हो", "is_correct": true },
+        { "option_id": 3, "text": "कधीकधी", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "हो"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "लोहाच्या कमतरतेमुळे कोणता आजार होतो?",
+      "options": [
+        { "option_id": 1, "text": "रक्तक्षय (ॲनिमिया)", "is_correct": true },
+        { "option_id": 2, "text": "मधुमेह", "is_correct": false },
+        { "option_id": 3, "text": "हिवताप", "is_correct": false },
+        { "option_id": 4, "text": "कावीळ", "is_correct": false }
+      ],
+      "answer": "रक्तक्षय (ॲनिमिया)"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "दूध हा कशाचा उत्तम स्रोत आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ साखर", "is_correct": false },
+        { "option_id": 2, "text": "प्रथिने आणि कॅल्शिअम", "is_correct": true },
+        { "option_id": 3, "text": "केवळ लोह", "is_correct": false },
+        { "option_id": 4, "text": "तंतू", "is_correct": false }
+      ],
+      "answer": "प्रथिने आणि कॅल्शिअम"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "धान्यांच्या कोंड्यामध्ये कोणते महत्त्वाचे घटक असतात?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "तंतुमय पदार्थ", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "मीठ", "is_correct": false }
+      ],
+      "answer": "तंतुमय पदार्थ"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "स्कर्वी हा आजार कोणत्या जीवनसत्त्वाच्या अभावामुळे होतो?",
+      "options": [
+        { "option_id": 1, "text": "जीवनसत्त्व अ", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्व ब", "is_correct": false },
+        { "option_id": 3, "text": "जीवनसत्त्व क", "is_correct": true },
+        { "option_id": 4, "text": "जीवनसत्त्व ड", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्व क"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "शरिराला साठवलेली ऊर्जा कशातून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "खनिजातून", "is_correct": false },
+        { "option_id": 2, "text": "स्निग्ध पदार्थांतून (चरबी)", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यातून", "is_correct": false },
+        { "option_id": 4, "text": "तंतूंमधून", "is_correct": false }
+      ],
+      "answer": "स्निग्ध पदार्थांतून (चरबी)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "प्रथिने कोणत्या अन्नपदार्थातून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "मांस आणि मासे", "is_correct": true },
+        { "option_id": 3, "text": "लोणी", "is_correct": false },
+        { "option_id": 4, "text": "मीठ", "is_correct": false }
+      ],
+      "answer": "मांस आणि मासे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "मुडदूस हा आजार कोणाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": false },
+        { "option_id": 2, "text": "हाडे", "is_correct": true },
+        { "option_id": 3, "text": "त्वचा", "is_correct": false },
+        { "option_id": 4, "text": "रक्त", "is_correct": false }
+      ],
+      "answer": "हाडे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भाज्या कापून धुतल्याने कोणते नुकसान होते?",
+      "options": [
+        { "option_id": 1, "text": "भाज्या कडू होतात", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्वे कमी होतात", "is_correct": true },
+        { "option_id": 3, "text": "भाज्यांचा रंग बदलतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्वे कमी होतात"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "अन्न शिजवताना काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "जास्त वेळ शिजवणे", "is_correct": true },
+        { "option_id": 2, "text": "मसाले वापरणे", "is_correct": false },
+        { "option_id": 3, "text": "मीठ टाकणे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी वापरणे", "is_correct": false }
+      ],
+      "answer": "जास्त वेळ शिजवणे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कोणता पदार्थ गोड लागतो कारण त्यात शर्करा असते?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": true },
+        { "option_id": 2, "text": "कारले", "is_correct": false },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "हळद", "is_correct": false }
+      ],
+      "answer": "दूध"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कडधान्यांना मोड आल्यावर त्यात कोणत्या जीवनसत्त्वाचे प्रमाण वाढते?",
+      "options": [
+        { "option_id": 1, "text": "जीवनसत्त्व अ", "is_correct": false },
+        { "option_id": 2, "text": "जीवनसत्त्व क", "is_correct": true },
+        { "option_id": 3, "text": "जीवनसत्त्व ड", "is_correct": false },
+        { "option_id": 4, "text": "जीवनसत्त्व के", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्व क"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "जीवनसत्त्व 'ब' च्या कमतरतेमुळे कोणता आजार होतो?",
+      "options": [
+        { "option_id": 1, "text": "बेरीबेरी", "is_correct": true },
+        { "option_id": 2, "text": "स्कर्वी", "is_correct": false },
+        { "option_id": 3, "text": "रातंधळेपणा", "is_correct": false },
+        { "option_id": 4, "text": "मुडदूस", "is_correct": false }
+      ],
+      "answer": "बेरीबेरी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "आपल्या आहारात पिष्टमय पदार्थांचे प्रमाण कसे असावे?",
+      "options": [
+        { "option_id": 1, "text": "खूप कमी", "is_correct": false },
+        { "option_id": 2, "text": "सर्वात जास्त", "is_correct": true },
+        { "option_id": 3, "text": "मध्यम", "is_correct": false },
+        { "option_id": 4, "text": "नसावेच", "is_correct": false }
+      ],
+      "answer": "सर्वात जास्त"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "फळांचा रस घेण्यापेक्षा अख्खी फळे खाणे का चांगले असते?",
+      "options": [
+        { "option_id": 1, "text": "रस कडू लागतो", "is_correct": false },
+        { "option_id": 2, "text": "तंतुमय पदार्थ मिळतात", "is_correct": true },
+        { "option_id": 3, "text": "स्वस्त पडते", "is_correct": false },
+        { "option_id": 4, "text": "याचे कोणतेही कारण नाही", "is_correct": false }
+      ],
+      "answer": "तंतुमय पदार्थ मिळतात"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते खनिज दात मजबूत करते?",
+      "options": [
+        { "option_id": 1, "text": "कॅल्शिअम", "is_correct": true },
+        { "option_id": 2, "text": "लोह", "is_correct": false },
+        { "option_id": 3, "text": "सोडिअम", "is_correct": false },
+        { "option_id": 4, "text": "पोटॅशिअम", "is_correct": false }
+      ],
+      "answer": "कॅल्शिअम"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कुपोषण टाळण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ गोड खावे", "is_correct": false },
+        { "option_id": 2, "text": "संतुलित आहार घ्यावा", "is_correct": true },
+        { "option_id": 3, "text": "जेवण टाळावे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त पाणी प्यावे", "is_correct": false }
+      ],
+      "answer": "संतुलित आहार घ्यावा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "प्रथिने कशापासून बनलेली असतात?",
+      "options": [
+        { "option_id": 1, "text": "अमिनो ॲसिड्स", "is_correct": true },
+        { "option_id": 2, "text": "फॅटी ॲसिड्स", "is_correct": false },
+        { "option_id": 3, "text": "शर्करा", "is_correct": false },
+        { "option_id": 4, "text": "मिठ", "is_correct": false }
+      ],
+      "answer": "अमिनो ॲसिड्स"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "अति प्रमाणात स्निग्ध पदार्थ खाल्ल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "उंची वाढते", "is_correct": false },
+        { "option_id": 2, "text": "लठ्ठपणा येतो", "is_correct": true },
+        { "option_id": 3, "text": "डोळे चांगले होतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "लठ्ठपणा येतो"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पाण्यात विरघळणारी जीवनसत्त्वे कोणती?",
+      "options": [
+        { "option_id": 1, "text": "अ, ड", "is_correct": false },
+        { "option_id": 2, "text": "ब, क", "is_correct": true },
+        { "option_id": 3, "text": "ई, के", "is_correct": false },
+        { "option_id": 4, "text": "सर्व", "is_correct": false }
+      ],
+      "answer": "ब, क"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "अन्नातील कोणता घटक शरीराचे तापमान टिकवून ठेवण्यास मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "स्निग्ध पदार्थ", "is_correct": true },
+        { "option_id": 2, "text": "जीवनसत्त्वे", "is_correct": false },
+        { "option_id": 3, "text": "क्षार", "is_correct": false },
+        { "option_id": 4, "text": "तंतू", "is_correct": false }
+      ],
+      "answer": "स्निग्ध पदार्थ"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हिरव्या पालेभाज्यांतून कोणते जीवनसत्त्व मुबलक मिळते?",
+      "options": [
+        { "option_id": 1, "text": "जीवनसत्त्व अ", "is_correct": true },
+        { "option_id": 2, "text": "जीवनसत्त्व ड", "is_correct": false },
+        { "option_id": 3, "text": "जीवनसत्त्व ब", "is_correct": false },
+        { "option_id": 4, "text": "शर्करा", "is_correct": false }
+      ],
+      "answer": "जीवनसत्त्व अ"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ऊर्जेचे राखीव साठे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "स्निग्ध पदार्थ", "is_correct": true },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "जीवनसत्त्वे", "is_correct": false }
+      ],
+      "answer": "स्निग्ध पदार्थ"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हाडे आणि दात यांच्या आरोग्यासाठी कोणते खनिज आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फॉस्फरस आणि कॅल्शिअम", "is_correct": true },
+        { "option_id": 2, "text": "लोह", "is_correct": false },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "फॉस्फरस आणि कॅल्शिअम"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "प्रथिने कमी पडल्यास मुलांच्या शरीराची काय होते?",
+      "options": [
+        { "option_id": 1, "text": "वाढ खुंटते", "is_correct": true },
+        { "option_id": 2, "text": "बुद्धी वाढते", "is_correct": false },
+        { "option_id": 3, "text": "त्वचा गोरी होते", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "वाढ खुंटते"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "मिठामध्ये कोणते खनिज असते?",
+      "options": [
+        { "option_id": 1, "text": "आयोडीन", "is_correct": true },
+        { "option_id": 2, "text": "लोह", "is_correct": false },
+        { "option_id": 3, "text": "कॅल्शिअम", "is_correct": false },
+        { "option_id": 4, "text": "फॉस्फरस", "is_correct": false }
+      ],
+      "answer": "आयोडीन"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अन्नघटक म्हणजे काय?",
+      "answer": "अन्नामध्ये असणारे विविध पोषक पदार्थ जे शरीराच्या वाढीसाठी आणि आरोग्यासाठी आवश्यक असतात, त्यांना अन्नघटक म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मुख्य अन्नघटक कोणते आहेत?",
+      "answer": "कर्बोदके (पिष्ट व शर्करा), प्रथिने, स्निग्ध पदार्थ, जीवनसत्त्वे आणि खनिजे हे मुख्य अन्नघटक आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कर्बोदके कशापासून मिळतात?",
+      "answer": "गहू, ज्वारी, तांदूळ यांसारखी धान्ये, बटाटे आणि गोड पदार्थांपासून कर्बोदके मिळतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पिष्ट म्हणजे काय?",
+      "answer": "धान्यांमध्ये साठवलेला एक मुख्य अन्नघटक ज्याची आयोडीनशी प्रक्रिया झाल्यावर निळा-काळा रंग होतो, त्याला पिष्ट म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "शर्करा म्हणजे काय?",
+      "answer": "अन्नातील गोड चवीच्या पदार्थांना शर्करा म्हणतात, जी शरीराला लगेच ऊर्जा देते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "स्निग्ध पदार्थांची दोन उदाहरणे द्या.",
+      "answer": "तेल, तूप, लोणी आणि सुका मेवा ही स्निग्ध पदार्थांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "प्रथिनांचे मुख्य काम काय आहे?",
+      "answer": "शरीराची वाढ करणे आणि शरीराची होणारी झीज भरून काढणे हे प्रथिनांचे मुख्य काम आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तंतुमय पदार्थ म्हणजे काय?",
+      "answer": "भाज्या आणि फळांच्या सालींमध्ये असणारे न पचणारे तंतू जे पोट साफ होण्यास मदत करतात, त्यांना तंतुमय पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्वे शरीरासाठी का गरजेची आहेत?",
+      "answer": "शरीराची रोगप्रतिकारक शक्ती वाढवण्यासाठी आणि विविध शारीरिक क्रिया सुरळीत चालण्यासाठी जीवनसत्त्वे गरजेची आहेत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "महत्त्वाची खनिजे कोणती?",
+      "answer": "कॅल्शिअम, लोह, फॉस्फरस आणि आयोडीन ही महत्त्वाची खनिजे आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "संतुलित आहार म्हणजे काय?",
+      "answer": "ज्या आहारात सर्व अन्नघटक योग्य प्रमाणात असतात, त्याला संतुलित आहार म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "लोहाच्या कमतरतेमुळे काय होते?",
+      "answer": "लोहाच्या कमतरतेमुळे शरीरात रक्ताचे प्रमाण कमी होऊन ॲनिमिया (रक्तक्षय) होतो आणि अशक्तपणा येतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कॅल्शिअम कशासाठी आवश्यक आहे?",
+      "answer": "कॅल्शिअम हाडे आणि दात मजबूत करण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्व 'अ' च्या अभावाचा परिणाम काय होतो?",
+      "answer": "जीवनसत्त्व 'अ' च्या अभावामुळे रातांधळेपणा येतो, ज्यामुळे रात्रीचे स्पष्ट दिसत नाही."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "प्रथिने कोणत्या पदार्थांतून मिळतात?",
+      "answer": "प्रथिने दूध, डाळी, कडधान्ये, अंडी, मांस आणि मासे यांतून मिळतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ऊर्जा देणारे दोन अन्नघटक सांगा.",
+      "answer": "कर्बोदके आणि स्निग्ध पदार्थ हे ऊर्जा देणारे दोन मुख्य अन्नघटक आहेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पिष्टमय पदार्थांच्या पचनानंतर काय तयार होते?",
+      "answer": "पिष्टमय पदार्थांच्या पचनानंतर शर्करा (ग्लुकोज) तयार होते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "चरबी शरीरात कुठे साठवली जाते?",
+      "answer": "चरबी शरीरात त्वचेखाली एका थराच्या स्वरूपात साठवली जाते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्व 'क' कोणत्या पदार्थांतून मिळते?",
+      "answer": "जीवनसत्त्व 'क' लिंबू, आवळा, संत्री यांसारख्या आंबट फळांतून मिळते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मुडदूस हा आजार कशामुळे होतो?",
+      "answer": "जीवनसत्त्व 'ड' च्या कमतरतेमुळे मुडदूस हा आजार होतो, ज्यात हाडे ठिसूळ होतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पाणी शरीरासाठी का आवश्यक आहे?",
+      "answer": "शरीरातील टाकाऊ पदार्थ बाहेर टाकण्यासाठी आणि पचनक्रिया नीट होण्यासाठी पाणी आवश्यक आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कुपोषण म्हणजे काय?",
+      "answer": "दीर्घकाळ आहारात काही महत्त्वाच्या अन्नघटकांचा अभाव असणे, याला कुपोषण म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अन्न शिजवताना जीवनसत्त्वे कशी वाचवावीत?",
+      "answer": "भाज्या न सोलता किंवा न कापता धुवाव्यात आणि अन्न प्रमाणाबाहेर शिजवू नये."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कोंडा असलेल्या पिठाचे महत्व काय?",
+      "answer": "कोंडा असलेल्या पिठातून शरीराला भरपूर तंतुमय पदार्थ मिळतात, जे पचनासाठी चांगले असतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शरीराचे तापमान कोण नियंत्रित करते?",
+      "answer": "त्वचेखालील स्निग्ध पदार्थांचा थर शरीराचे तापमान नियंत्रित करण्यास मदत करतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आयोडीन कशातून मिळते?",
+      "answer": "आयोडीन प्रामुख्याने मिठातून आणि काही समुद्री अन्नातून मिळते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "प्रौढ व्यक्तीला ऊर्जेची गरज का असते?",
+      "answer": "हृदयाचे ठोके, श्वासोच्छवास आणि रोजची कामे करण्यासाठी प्रौढ व्यक्तीला ऊर्जेची गरज असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "दूध पूर्णान्न का मानले जाते?",
+      "answer": "दुधामध्ये कर्बोदके, प्रथिने, स्निग्ध पदार्थ, जीवनसत्त्वे आणि खनिजे हे सर्व घटक असल्याने त्याला पूर्णान्न मानले जाते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्व 'ब' च्या कमतरतेने कोणता त्रास होतो?",
+      "answer": "जीवनसत्त्व 'ब' च्या कमतरतेमुळे बेरीबेरी आणि अशक्तपणा येऊ शकतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "फळांचा रस पिण्यापेक्षा अख्खी फळे खाणे का चांगले?",
+      "answer": "फळे खाल्ल्याने त्यातील जीवनसत्त्वांसोबतच तंतुमय पदार्थही शरीराला मिळतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "जास्त तेलकट पदार्थ खाण्याचे तोटे काय?",
+      "answer": "जास्त तेलकट पदार्थांमुळे लठ्ठपणा येतो आणि हृदयाचे विकार होऊ शकतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पिष्टमय पदार्थांच्या अतिसेवनामुळे काय होते?",
+      "answer": "पिष्टमय पदार्थांच्या अतिसेवनामुळे शरीरात अतिरिक्त साखर वाढून लठ्ठपणा येऊ शकतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "राखीव ऊर्जा म्हणजे काय?",
+      "answer": "शरीरातील स्निग्ध पदार्थांच्या रूपात साठवलेली ऊर्जा जी अन्नाच्या अभावी वापरली जाते, तिला राखीव ऊर्जा म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "स्कर्वीची लक्षणे काय आहेत?",
+      "answer": "हिरड्यांमधून रक्त येणे आणि दात ढिले होणे ही स्कर्वीची लक्षणे आहेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हाडांच्या वाढीसाठी काय करावे?",
+      "answer": "हाडांच्या वाढीसाठी कॅल्शिअमयुक्त आहार घ्यावा आणि कोवळ्या उन्हात बसावे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "प्रथिने कोणत्या अमिनो ॲसिडपासून बनतात?",
+      "answer": "प्रथिने विविध प्रकारच्या २० अमिनो ॲसिडच्या साखळीपासून बनतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "डाळी का खाव्यात?",
+      "answer": "डाळींमध्ये भरपूर प्रमाणात प्रथिने असतात जी शरीराच्या वाढीसाठी आवश्यक असतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "गुळ आणि साखर यात काय असते?",
+      "answer": "गुळ आणि साखर यात सुक्रोज नावाची शर्करा असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्व 'के' चे महत्व काय?",
+      "answer": "जखमेतून येणारे रक्त गोठण्यासाठी जीवनसत्त्व 'के' मदत करते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "भाज्यांमध्ये क्षारांचे प्रमाण कसे असते?",
+      "answer": "भाज्यांमध्ये लोह आणि इतर क्षार अल्प प्रमाणात परंतु आरोग्यासाठी आवश्यक इतक्या प्रमाणात असतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कर्बोदके म्हणजे काय?",
+      "answer": "पिष्ट, शर्करा आणि तंतुमय पदार्थ यांना एकत्रितपणे कर्बोदके म्हणतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ग्लुकोज म्हणजे काय?",
+      "answer": "ग्लुकोज ही एक प्रकारची शर्करा आहे जी रक्ताद्वारे संपूर्ण शरीराला ऊर्जा पुरवते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "बटाट्यावर आयोडीन टाकल्यास काय होते?",
+      "answer": "बटाट्यावर आयोडीन टाकल्यास तो भाग निळा-काळा होतो कारण त्यात पिष्ट असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "वाढत्या वयाच्या मुलांना जास्त प्रथिनांची गरज का असते?",
+      "answer": "कारण वाढत्या वयात शरीरातील पेशींची आणि हाडांची वाढ वेगाने होत असते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "किलोकॅलरी म्हणजे काय?",
+      "answer": "अन्नापासून मिळणारी ऊर्जा मोजण्याचे ते एक एकक आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मेलेल अन्न कशाला म्हणतात?",
+      "answer": "ज्या अन्नातून सर्व पोषक घटक काढून टाकले जातात, त्याला पौष्टिकदृष्ट्या मेलेल अन्न म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "लोणी आणि तूप यात काय फरक आहे?",
+      "answer": "दोन्ही स्निग्ध पदार्थ आहेत, पण लोण्यात पाण्याचे प्रमाण थोडे जास्त असते तर तूप शुद्ध स्निग्ध पदार्थ आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शेंगदाण्यापासून काय मिळते?",
+      "answer": "शेंगदाण्यापासून प्रथिने आणि स्निग्ध पदार्थ (तेल) दोन्ही मिळतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अन्नाचे पिरामिड कशासाठी वापरतात?",
+      "answer": "कोणता अन्नघटक किती प्रमाणात खावा हे समजून घेण्यासाठी अन्न पिरामिड वापरतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अन्न शिजवताना पाण्याचा जास्त वापर का टाळावा?",
+      "answer": "जास्त पाण्यात अन्न शिजवून ते पाणी फेकून दिल्यास त्यातील जीवनसत्त्वे वाया जातात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्व 'ई' कशासाठी उपयुक्त आहे?",
+      "answer": "हे जीवनसत्त्व त्वचेच्या आरोग्यासाठी आणि पेशींच्या संरक्षणासाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "कडधान्ये मोड आणून का खावीत?",
+      "answer": "मोड आलेल्या कडधान्यात जीवनसत्त्वांचे प्रमाण वाढते आणि ती पचायला हलकी होतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "अन्नातील मुख्य शर्करा कोणती?",
+      "answer": "अन्नातील मुख्य शर्करा सुक्रोज आणि ग्लुकोज या आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "मीठ कमी खाण्याचे कारण काय?",
+      "answer": "जास्त मीठ खाल्ल्याने रक्तदाब वाढू शकतो आणि शरीरावर सूज येऊ शकते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "अंडी हा कशाचा चांगला स्त्रोत आहे?",
+      "answer": "अंडी हा उत्तम दर्जाची प्रथिने आणि जीवनसत्त्वांचा स्त्रोत आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "फास्ट फूड खाण्याचे तोटे सांगा.",
+      "answer": "फास्ट फूडमध्ये फक्त कर्बोदके आणि चरबी जास्त असते, जीवनसत्त्वांचा अभाव असल्याने लठ्ठपणा वाढतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "आपल्या आहारात भाजीपाल्याचे स्थान काय असावे?",
+      "answer": "भाजीपाला आहारात दररोज असावा कारण त्यातून खनिजे आणि जीवनसत्त्वे मिळतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "शर्करेचा शरीरात काय उपयोग होतो?",
+      "answer": "शर्करा ज्वलनाद्वारे शरीराला तातडीने कार्यशक्ती (ऊर्जा) देते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पिष्टमय पदार्थांची चव कशी असते?",
+      "answer": "पिष्टमय पदार्थ चवीला सौम्य असतात, पण खूप वेळ चावल्यावर ते थोडे गोड लागतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "तांदूळ पॉलिश केल्यावर काय होते?",
+      "answer": "तांदूळ पॉलिश केल्यावर त्यातील जीवनसत्त्व 'ब' चा थर निघून जातो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "फळांच्या साली फेकून देऊ नयेत का?",
+      "answer": "कारण सालींमध्ये भरपूर प्रमाणात तंतू आणि काही महत्त्वाची जीवनसत्त्वे असतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "पचनसंस्थेचे आरोग्य कशावर अवलंबून असते?",
+      "answer": "पचनसंस्थेचे आरोग्य आहारात पुरेसे पाणी आणि तंतुमय पदार्थांच्या समावेशावर अवलंबून असते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हाडे ठिसूळ का होतात?",
+      "answer": "कॅल्शिअम आणि जीवनसत्त्व 'ड' च्या कमतरतेमुळे हाडे ठिसूळ होतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "शरीराला किती पाण्याची गरज असते?",
+      "answer": "सर्वसाधारणपणे एका व्यक्तीला दिवसाला २ ते ३ लिटर पाण्याची गरज असते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "लहान मुलांसाठी दूध का महत्वाचे आहे?",
+      "answer": "कारण दुधात मुलांच्या वाढीसाठी आवश्यक असणारी सर्व पोषक तत्वे असतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "चरबीचे प्रमाण शरीरात जास्त झाल्यास काय होईल?",
+      "answer": "शरीरात चरबी जास्त झाल्यास ती रक्तवाहिन्यांत अडथळा निर्माण करू शकते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "कर्बोदकांपासून ऊर्जा कशी मिळते?",
+      "answer": "कर्बोदकांचे पचन होऊन ग्लुकोज बनते आणि त्याचे शरीरात मंद ज्वलन होऊन ऊर्जा मिळते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "हिरव्या भाज्यांमधील लोह शरीराला कसे मिळते?",
+      "answer": "भाज्या शिजवून किंवा कच्च्या स्वरूपात खाल्ल्याने त्यातील लोह रक्तामध्ये शोषले जाते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "पिष्टमय पदार्थाचे एक वैशिष्ट्य सांगा.",
+      "answer": "पिष्टमय पदार्थ हे आपल्या आहारातील सर्वात मोठा भाग व्यापतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "जीवनसत्त्व 'ड' चा नैसर्गिक स्त्रोत कोणता?",
+      "answer": "सकाळचा कोवळा सूर्यप्रकाश हा जीवनसत्त्व 'ड' चा सर्वात उत्तम नैसर्गिक स्त्रोत आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "अन्न शिजवल्याने पचनाला काय फायदा होतो?",
+      "answer": "अन्न शिजवल्याने ते मऊ होते आणि त्यातील पिष्टाचे पचन सुलभ होते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कोणता आहार आरोग्यासाठी हानिकारक आहे?",
+      "answer": "अति प्रमाणात तळलेले, मसालेदार आणि फक्त एकच अन्नघटक असलेला आहार हानिकारक आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "प्रथिने साठवली जातात का?",
+      "answer": "नाही, शरीरात जास्तीची प्रथिने साठवली जात नाहीत, ती बाहेर टाकली जातात किंवा ऊर्जेसाठी वापरली जातात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "अशक्तपणा दूर करण्यासाठी काय खावे?",
+      "answer": "अशक्तपणा दूर करण्यासाठी लोहयुक्त आणि ऊर्जादायी (शर्करायुक्त) पदार्थ खावेत."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "फळांमध्ये कोणती शर्करा असते?",
+      "answer": "फळांमध्ये फ्रुक्टोज नावाची नैसर्गिक शर्करा असते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात कोणते जीवनसत्त्व जास्त हवे असते?",
+      "answer": "रोगप्रतिकारक शक्तीसाठी जीवनसत्त्व 'क' पावसाळ्यात आणि हिवाळ्यात जास्त हवे असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "जंक फूड का टाळावे?",
+      "answer": "कारण त्यात पोषक तत्वे कमी आणि हानिकारक चरबी व रसायने जास्त असतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "आहारातील विविधतेचे महत्व काय?",
+      "answer": "आहारातील विविधतेमुळे शरीराला सर्व प्रकारचे अन्नघटक मिळण्यास मदत होते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "प्रथीनांच्या अभावामुळे होणारा आजार कोणता?",
+      "answer": "प्रथीनांच्या तीव्र अभावामुळे 'क्वाशिओरकर' हा गंभीर कुपोषणाचा आजार होतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "अन्नाचे कार्य काय आहे?",
+      "answer": "शरीराला ऊर्जा देणे, वाढ करणे आणि रोगांपासून संरक्षण करणे हे अन्नाचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "शरीराला किती जीवनसत्त्वे लागतात?",
+      "answer": "शरीराला मुख्य १३ प्रकारच्या जीवनसत्त्वांची गरज असते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "स्निग्ध पदार्थ जास्त असल्यास शरीरात काय वाढते?",
+      "answer": "शरीरात कोलेस्टेरॉलचे प्रमाण वाढून रक्तवाहिन्या ब्लॉक होऊ शकतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "पचन म्हणजे काय?",
+      "answer": "अन्नातील गुंतागुंतीच्या घटकांचे साध्या विद्राव्य पदार्थांत रूपांतर होणे म्हणजे पचन होय."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "मासे खाण्याचे फायदे काय?",
+      "answer": "माशातून दर्जेदार प्रथिने आणि जीवनसत्त्व 'अ' व 'ड' मिळते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "अन्नातील क्षार कोठे विरघळतात?",
+      "answer": "अन्नातील क्षार शरीरातील पाण्यात विरघळतात आणि रक्ताद्वारे प्रवास करतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "सुका मेवा का खावा?",
+      "answer": "सुका मेवा उर्जेचा आणि चांगल्या स्निग्ध पदार्थांचा उत्तम स्त्रोत आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "मिठामध्ये आयोडीन का मिसळले जाते?",
+      "answer": "गलगंड (Goiter) या आजारापासून बचाव करण्यासाठी मिठात आयोडीन मिसळले जाते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "शरीरातील पाणी कमी झाल्यास काय होते?",
+      "answer": "पाणी कमी झाल्यास निर्जलीकरण (Dehydration) होते आणि चक्कर येऊ शकते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "गहू आणि ज्वारीतील मुख्य फरक काय?",
+      "answer": "गहू मध्ये ग्लुटेन नावाचे प्रथिन असते, तर ज्वारीत ते नसते; दोन्ही पिष्टमय आहेत."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "जास्त वेळ शिजवलेले अन्न का खाऊ नये?",
+      "answer": "कारण त्यातील बरीच जीवनसत्त्वे उष्णतेमुळे नष्ट होतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "मध म्हणजे काय?",
+      "answer": "मध ही एक नैसर्गिक शर्करा आहे जी पचायला अतिशय हलकी आणि आरोग्यदायी असते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "शर्करा कशापासून बनतात?",
+      "answer": "शर्करा कार्बन, हायड्रोजन आणि ऑक्सिजन या मूलद्रव्यांपासून बनतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "भाज्या कच्च्या खाव्यात का?",
+      "answer": "काही भाज्या (जसे की काकडी, टोमॅटो) कच्च्या खाल्ल्याने त्यातील तंतू आणि जीवनसत्त्वे पूर्ण मिळतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "अन्न पिरामिडच्या शिखरावर कोणते पदार्थ असतात?",
+      "answer": "अन्न पिरामिडच्या शिखरावर तेल, तूप आणि साखर यांसारखे पदार्थ असतात जे कमी प्रमाणात खायचे असतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "कर्बोदके कमी पडल्यास काय होईल?",
+      "answer": "कर्बोदके कमी पडल्यास शरीराला थकवा जाणवेल आणि कार्य करण्याची शक्ती कमी होईल."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "हाडांच्या मजबुतीसाठी कोणता व्यायाम करावा?",
+      "answer": "व्यायामासोबतच सूर्यप्रकाश घेणे हाडांच्या मजबुतीसाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पिष्ट कशामुळे पचते?",
+      "answer": "पिष्ट तोंडात लाळ मिसळल्याने आणि पुढे जठरात गेल्यानंतर पचते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "शाकाहारी व्यक्तींना प्रथिने कशातून मिळतात?",
+      "answer": "शाकाहारी व्यक्तींना प्रथिने प्रामुख्याने दूध, पनीर आणि विविध डाळींतून मिळतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "ताजे अन्न खाण्याचे महत्व काय?",
+      "answer": "ताज्या अन्नातून पोषक तत्वे आणि जीवनसत्त्वे योग्य स्थितीत मिळतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "अन्न घटक चाप्टरचा उद्देश काय आहे?",
+      "answer": "आपल्याला आपल्या आहारातील विविध पोषक तत्वांची ओळख करून देणे हा या चाप्टरचा उद्देश आहे."
+    }
+  ]
+}

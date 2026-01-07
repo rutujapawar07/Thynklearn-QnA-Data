@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 7,
+  "chapter_name": "निवारा ते गाव-वसाहती",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शक्तिमान मानव प्रामुख्याने कोठे वस्ती करत असे?",
+      "options": [
+        { "option_id": 1, "text": "झाडावर", "is_correct": false },
+        { "option_id": 2, "text": "गुहेत", "is_correct": true },
+        { "option_id": 3, "text": "झोपडीत", "is_correct": false },
+        { "option_id": 4, "text": "पक्क्या घरात", "is_correct": false }
+      ],
+      "answer": "गुहेत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मध्ययुगीन काळात हवामान कसे होऊ लागले होते?",
+      "options": [
+        { "option_id": 1, "text": "अतिशय थंड", "is_correct": false },
+        { "option_id": 2, "text": "कोरडे", "is_correct": false },
+        { "option_id": 3, "text": "उबदार", "is_correct": true },
+        { "option_id": 4, "text": "बर्फाळ", "is_correct": false }
+      ],
+      "answer": "उबदार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगीन संस्कृतीचे मुख्य वैशिष्ट्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "शिकार करणे", "is_correct": false },
+        { "option_id": 2, "text": "शेतीची सुरुवात", "is_correct": true },
+        { "option_id": 3, "text": "फळे गोळा करणे", "is_correct": false },
+        { "option_id": 4, "text": "भटके जीवन", "is_correct": false }
+      ],
+      "answer": "शेतीची सुरुवात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शक्तिमान मानवाने थंडीपासून संरक्षण करण्यासाठी कशाचा वापर केला?",
+      "options": [
+        { "option_id": 1, "text": "सुती कापड", "is_correct": false },
+        { "option_id": 2, "text": "लोकरी कपडे", "is_correct": false },
+        { "option_id": 3, "text": "प्राण्यांची कातडी", "is_correct": true },
+        { "option_id": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "प्राण्यांची कातडी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हवामानातील बदलांमुळे मध्ययुगीन काळात कोणत्या मोठ्या प्राण्याचे अस्तित्व धोक्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "हत्ती", "is_correct": false },
+        { "option_id": 3, "text": "मॅमथ", "is_correct": true },
+        { "option_id": 4, "text": "सिंह", "is_correct": false }
+      ],
+      "answer": "मॅमथ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगातील मानवाचा निवारा कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "भटक्या तळांचा", "is_correct": false },
+        { "option_id": 2, "text": "तात्पुरत्या झोपड्यांचा", "is_correct": false },
+        { "option_id": 3, "text": "कायमस्वरूपी गाव-वसाहतींचा", "is_correct": true },
+        { "option_id": 4, "text": "झाडावरील घरांचा", "is_correct": false }
+      ],
+      "answer": "कायमस्वरूपी गाव-वसाहतींचा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मध्ययुगीन काळात मानवाच्या आहारात कोणत्या गोष्टीचा समावेश वाढला?",
+      "options": [
+        { "option_id": 1, "text": "फक्त मांस", "is_correct": false },
+        { "option_id": 2, "text": "मासे आणि वनस्पती", "is_correct": true },
+        { "option_id": 3, "text": "कच्चे अन्न", "is_correct": false },
+        { "option_id": 4, "text": "पाकीटबंद अन्न", "is_correct": false }
+      ],
+      "answer": "मासे आणि वनस्पती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बुद्धीमान मानवाने हंगामी तळ कोठे उभारले?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "उघड्यावर", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राच्या तळाशी", "is_correct": false },
+        { "option_id": 4, "text": "बर्फात", "is_correct": false }
+      ],
+      "answer": "उघड्यावर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शेतीसाठी एकाच ठिकाणी दीर्घकाळ राहणे का आवश्यक झाले?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीच्या मालकीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "पिकांच्या मशागतीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्यांच्या शिकारीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "करमणुकीसाठी", "is_correct": false }
+      ],
+      "answer": "पिकांच्या मशागतीसाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगाच्या सुरुवातीला घरे बांधण्यासाठी प्रामुख्याने काय वापरले जाई?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट आणि वीटा", "is_correct": false },
+        { "option_id": 2, "text": "काच आणि लोखंड", "is_correct": false },
+        { "option_id": 3, "text": "माती आणि कुडाच्या भिंती", "is_correct": true },
+        { "option_id": 4, "text": "केवळ दगड", "is_correct": false }
+      ],
+      "answer": "माती आणि कुडाच्या भिंती"
+    },
+    {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "मॅमथ हा कोणत्या प्राण्याचा पूर्वज मानला जातो?",
+        "options": [
+          { "option_id": 1, "text": "वाघ", "is_correct": false },
+          { "option_id": 2, "text": "घोडा", "is_correct": false },
+          { "option_id": 3, "text": "हत्ती", "is_correct": true },
+          { "option_id": 4, "text": "उंट", "is_correct": false }
+        ],
+        "answer": "हत्ती"
+    },
+    {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "अश्मयुगातील कोणत्या कालखंडात स्थिर जीवनाची सुरुवात झाली?",
+        "options": [
+          { "option_id": 1, "text": "पुराश्मयुग", "is_correct": false },
+          { "option_id": 2, "text": "मध्यश्मयुग", "is_correct": false },
+          { "option_id": 3, "text": "नवाश्मयुग", "is_correct": true },
+          { "option_id": 4, "text": "लोहयुग", "is_correct": false }
+        ],
+        "answer": "नवाश्मयुग"
+    },
+    {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "मध्ययुगीन मानवाने मोठ्या प्राण्यांच्या शिकारीऐवजी काय करणे पसंत केले?",
+        "options": [
+          { "option_id": 1, "text": "शेती करणे", "is_correct": false },
+          { "option_id": 2, "text": "मासेमारी करणे", "is_correct": true },
+          { "option_id": 3, "text": "गाणी गाणे", "is_correct": false },
+          { "option_id": 4, "text": "युद्ध करणे", "is_correct": false }
+        ],
+        "answer": "मासेमारी करणे"
+    },
+    {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाने गुहेच्या आत काय पेटवले होते?",
+        "options": [
+          { "option_id": 1, "text": "दिवा", "is_correct": false },
+          { "option_id": 2, "text": "शेकोटी", "is_correct": true },
+          { "option_id": 3, "text": "मेणबत्ती", "is_correct": false },
+          { "option_id": 4, "text": "मशाल", "is_correct": false }
+        ],
+        "answer": "शेकोटी"
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "कुडाची भिंत कशापासून बनवली जात असे?",
+        "options": [
+          { "option_id": 1, "text": "विटा", "is_correct": false },
+          { "option_id": 2, "text": "वेताच्या काठ्या किंवा बांबू", "is_correct": true },
+          { "option_id": 3, "text": "सिमेंट", "is_correct": false },
+          { "option_id": 4, "text": "काच", "is_correct": false }
+        ],
+        "answer": "वेताच्या काठ्या किंवा बांबू"
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगात अन्नासाठी मानवाचे अवलंबित्व कशावर कमी झाले?",
+        "options": [
+          { "option_id": 1, "text": "फळांवर", "is_correct": false },
+          { "option_id": 2, "text": "शिकारीवर", "is_correct": true },
+          { "option_id": 3, "text": "पाण्यावर", "is_correct": false },
+          { "option_id": 4, "text": "अन्नावर", "is_correct": false }
+        ],
+        "answer": "शिकारीवर"
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question": "मध्ययुगातील मानव कोणत्या प्रकारचे प्राणी शिकारीसाठी निवडू लागला?",
+        "options": [
+          { "option_id": 1, "text": "अवजड", "is_correct": false },
+          { "option_id": 2, "text": "चपळ आणि लहान", "is_correct": true },
+          { "option_id": 3, "text": "समुद्रातील", "is_correct": false },
+          { "option_id": 4, "text": "उडणारे", "is_correct": false }
+        ],
+        "answer": "चपळ आणि लहान"
+    },
+    {
+        "question_id": 18,
+        "question_type": "MCQ",
+        "question": "शेतीच्या कामासाठी कशाचा उपयोग मानवाने सुरू केला?",
+        "options": [
+          { "option_id": 1, "text": "ट्रॅक्टर", "is_correct": false },
+          { "option_id": 2, "text": "पळी", "is_correct": false },
+          { "option_id": 3, "text": "पाळीव प्राणी", "is_correct": true },
+          { "option_id": 4, "text": "विद्युत मोटार", "is_correct": false }
+        ],
+        "answer": "पाळीव प्राणी"
+    },
+    {
+        "question_id": 19,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन मानवाचा आहार प्रामुख्याने कशावर आधारित होता?",
+        "options": [
+          { "option_id": 1, "text": "शिकारीचे मांस", "is_correct": false },
+          { "option_id": 2, "text": "धान्य आणि पाळीव प्राण्यांचे मांस", "is_correct": true },
+          { "option_id": 3, "text": "कंदमुळे", "is_correct": false },
+          { "option_id": 4, "text": "मासे", "is_correct": false }
+        ],
+        "answer": "धान्य आणि पाळीव प्राण्यांचे मांस"
+    },
+    {
+        "question_id": 20,
+        "question_type": "MCQ",
+        "question": "मध्ययुगातील मानवाने अन्नासाठी फिरणे कमी का केले?",
+        "options": [
+          { "option_id": 1, "text": "आळस वाढला", "is_correct": false },
+          { "option_id": 2, "text": "हवामान बदल आणि अन्नाची उपलब्धता", "is_correct": true },
+          { "option_id": 3, "text": "पाय दुखू लागले", "is_correct": false },
+          { "option_id": 4, "text": "रस्ते नव्हते", "is_correct": false }
+        ],
+        "answer": "हवामान बदल आणि अन्नाची उपलब्धता"
+    },
+    {
+        "question_id": 21,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाने युरोपमधील थंडीपासून वाचण्यासाठी काय केले?",
+        "options": [
+          { "option_id": 1, "text": "थंड पेय प्यायले", "is_correct": false },
+          { "option_id": 2, "text": "कातड्याचे कपडे आणि शेकोटीचा वापर", "is_correct": true },
+          { "option_id": 3, "text": "पळून गेला", "is_correct": false },
+          { "option_id": 4, "text": "काहीच केले नाही", "is_correct": false }
+        ],
+        "answer": "कातड्याचे कपडे आणि शेकोटीचा वापर"
+    },
+    {
+        "question_id": 22,
+        "question_type": "MCQ",
+        "question": "मानव समूहाने ठराविक काळातच स्थलांतर का केले?",
+        "options": [
+          { "option_id": 1, "text": "फिरण्याच्या हौसेपोटी", "is_correct": false },
+          { "option_id": 2, "text": "हंगामी पिके आणि शिकारीच्या उपलब्धतेनुसार", "is_correct": true },
+          { "option_id": 3, "text": "राजाच्या आज्ञेमुळे", "is_correct": false },
+          { "option_id": 4, "text": "उत्सव साजरा करण्यासाठी", "is_correct": false }
+        ],
+        "answer": "हंगामी पिके आणि शिकारीच्या उपलब्धतेनुसार"
+    },
+    {
+        "question_id": 23,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन संस्कृतीत मानवाचे जीवन कसे बनले?",
+        "options": [
+          { "option_id": 1, "text": "भटके", "is_correct": false },
+          { "option_id": 2, "text": "स्थिर", "is_correct": true },
+          { "option_id": 3, "text": "जंगली", "is_correct": false },
+          { "option_id": 4, "text": "आंतरिक्षातील", "is_correct": false }
+        ],
+        "answer": "स्थिर"
+    },
+    {
+        "question_id": 24,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाच्या झोपड्या कशापासून बनवल्या जात?",
+        "options": [
+          { "option_id": 1, "text": "सिमेंट", "is_correct": false },
+          { "option_id": 2, "text": "झाडाच्या फांद्या आणि कातडी", "is_correct": true },
+          { "option_id": 3, "text": "दगड आणि माती", "is_correct": false },
+          { "option_id": 4, "text": "काच", "is_correct": false }
+        ],
+        "answer": "झाडाच्या फांद्या आणि कातडी"
+    },
+    {
+        "question_id": 25,
+        "question_type": "MCQ",
+        "question": "मध्ययुगीन काळात शिकारीच्या तंत्रात काय बदल झाला?",
+        "options": [
+          { "option_id": 1, "text": "बंदुकीचा वापर", "is_correct": false },
+          { "option_id": 2, "text": "धनुष्यबाणासारखी प्रगत साधने", "is_correct": true },
+          { "option_id": 3, "text": "केवळ दगड फेकणे", "is_correct": false },
+          { "option_id": 4, "text": "जाळे वापरणे बंद केले", "is_correct": false }
+        ],
+        "answer": "धनुष्यबाणासारखी प्रगत साधने"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन गाव-वसाहतींच्या घरांच्या भिंती कशाने लिंपलेल्या असत?",
+        "options": [
+          { "option_id": 1, "text": "रंग", "is_correct": false },
+          { "option_id": 2, "text": "शेण-माती", "is_correct": true },
+          { "option_id": 3, "text": "तेल", "is_correct": false },
+          { "option_id": 4, "text": "चुना", "is_correct": false }
+        ],
+        "answer": "शेण-माती"
+    },
+    {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "शेतीमुळे मानवाच्या अन्नामध्ये काय वाढले?",
+        "options": [
+          { "option_id": 1, "text": "पाणी", "is_correct": false },
+          { "option_id": 2, "text": "कर्बोदके (धान्य)", "is_correct": true },
+          { "option_id": 3, "text": "मीठ", "is_correct": false },
+          { "option_id": 4, "text": "फळे", "is_correct": false }
+        ],
+        "answer": "कर्बोदके (धान्य)"
+    },
+    {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "मध्ययुगीन मानवाचा निवारा कोणत्या प्रकारचा होता?",
+        "options": [
+          { "option_id": 1, "text": "बंगला", "is_correct": false },
+          { "option_id": 2, "text": "हंगामी तळ", "is_correct": true },
+          { "option_id": 3, "text": "इमारत", "is_correct": false },
+          { "option_id": 4, "text": "प्रासादासारखा", "is_correct": false }
+        ],
+        "answer": "हंगामी तळ"
+    },
+    {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाचे मुख्य खाद्य काय होते?",
+        "options": [
+          { "option_id": 1, "text": "भात", "is_correct": false },
+          { "option_id": 2, "text": "भाकरी", "is_correct": false },
+          { "option_id": 3, "text": "शिकारीचे मांस", "is_correct": true },
+          { "option_id": 4, "text": "दूध", "is_correct": false }
+        ],
+        "answer": "शिकारीचे मांस"
+    },
+    {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन मानवाने कोठे राहायला सुरुवात केली?",
+        "options": [
+          { "option_id": 1, "text": "समुद्रात", "is_correct": false },
+          { "option_id": 2, "text": "नदीकाठी आणि सुपीक जमिनीवर", "is_correct": true },
+          { "option_id": 3, "text": "डोंगरावर", "is_correct": false },
+          { "option_id": 4, "text": "आकाशात", "is_correct": false }
+        ],
+        "answer": "नदीकाठी आणि सुपीक जमिनीवर"
+    },
+    {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "मध्ययुगातील मानवाने कोणते नवीन कौशल्य आत्मसात केले?",
+        "options": [
+          { "option_id": 1, "text": "विमान चालवणे", "is_correct": false },
+          { "option_id": 2, "text": "मासेमारी", "is_correct": true },
+          { "option_id": 3, "text": "टायपिंग", "is_correct": false },
+          { "option_id": 4, "text": "संगणक वापरणे", "is_correct": false }
+        ],
+        "answer": "मासेमारी"
+    },
+    {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाने दगडी हत्यारे तयार करण्यासाठी कशाचा वापर केला?",
+        "options": [
+          { "option_id": 1, "text": "सोन्याचा", "is_correct": false },
+          { "option_id": 2, "text": " गारगोटीचा", "is_correct": true },
+          { "option_id": 3, "text": "तांब्याचा", "is_correct": false },
+          { "option_id": 4, "text": "लोखंडाचा", "is_correct": false }
+        ],
+        "answer": "गारगोटीचा"
+    },
+    {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन मानवाने धान्याचा साठा का सुरू केला?",
+        "options": [
+          { "option_id": 1, "text": "विकण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "दुष्काळासाठी आणि पुढील पेरणीसाठी", "is_correct": true },
+          { "option_id": 3, "text": "फेकून देण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "उंदरांना खाऊ घालण्यासाठी", "is_correct": false }
+        ],
+        "answer": "दुष्काळासाठी आणि पुढील पेरणीसाठी"
+    },
+    {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "मध्ययुगीन काळात मानवाचा समूह लहान का झाला?",
+        "options": [
+          { "option_id": 1, "text": "लोकसंख्या कमी झाली", "is_correct": false },
+          { "option_id": 2, "text": "शिकारीच्या स्वरूपामुळे", "is_correct": true },
+          { "option_id": 3, "text": "युद्धांमुळे", "is_correct": false },
+          { "option_id": 4, "text": "आरोग्यामुळे", "is_correct": false }
+        ],
+        "answer": "शिकारीच्या स्वरूपामुळे"
+    },
+    {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील मानवाने मातीची भांडी का बनवली?",
+        "options": [
+          { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "धान्य साठवण्यासाठी व शिजवण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "फक्त सजावटीसाठी", "is_correct": false },
+          { "option_id": 4, "text": "दगड फोडण्यासाठी", "is_correct": false }
+        ],
+        "answer": "धान्य साठवण्यासाठी व शिजवण्यासाठी"
+    },
+    {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाचे अवशेष प्रथम कोठे सापडले?",
+        "options": [
+          { "option_id": 1, "text": "आशियात", "is_correct": false },
+          { "option_id": 2, "text": "आफ्रिकेत", "is_correct": false },
+          { "option_id": 3, "text": "युरोपमध्ये", "is_correct": true },
+          { "option_id": 4, "text": "अमेरिकेत", "is_correct": false }
+        ],
+        "answer": "युरोपमध्ये"
+    },
+    {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "मध्ययुगीन मानवाचा आवडता छंद कोणता असावा?",
+        "options": [
+          { "option_id": 1, "text": "वाचन", "is_correct": false },
+          { "option_id": 2, "text": "चित्रकला (लेणी चित्रे)", "is_correct": true },
+          { "option_id": 3, "text": "पोहणे", "is_correct": false },
+          { "option_id": 4, "text": "धावणे", "is_correct": false }
+        ],
+        "answer": "चित्रकला (लेणी चित्रे)"
+    },
+    {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील सामाजिक रचनेत महत्त्वाचा बदल कोणता?",
+        "options": [
+          { "option_id": 1, "text": "एकटे राहणे", "is_correct": false },
+          { "option_id": 2, "text": "गाव-समूहाची भावना", "is_correct": true },
+          { "option_id": 3, "text": "सतत युद्ध करणे", "is_correct": false },
+          { "option_id": 4, "text": "भटके जीवन", "is_correct": false }
+        ],
+        "answer": "गाव-समूहाची भावना"
+    },
+    {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाने कशाचा शोध लावला असे मानले जाते?",
+        "options": [
+          { "option_id": 1, "text": "चाकाचा", "is_correct": false },
+          { "option_id": 2, "text": "आगीचा वापर", "is_correct": true },
+          { "option_id": 3, "text": "कागदाचा", "is_correct": false },
+          { "option_id": 4, "text": "विमानाचा", "is_correct": false }
+        ],
+        "answer": "आगीचा वापर"
+    },
+    {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "मध्ययुगातील मानव शिकारीसाठी कोणत्या प्राण्याचा वापर करू लागला असावा?",
+        "options": [
+          { "option_id": 1, "text": "वाघ", "is_correct": false },
+          { "option_id": 2, "text": "कुत्रा (पाळीव)", "is_correct": true },
+          { "option_id": 3, "text": "हत्ती", "is_correct": false },
+          { "option_id": 4, "text": "सिंह", "is_correct": false }
+        ],
+        "answer": "कुत्रा (पाळीव)"
+    },
+    {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील मानवाने कोणती दागदागिने वापरण्यास सुरुवात केली?",
+        "options": [
+          { "option_id": 1, "text": "प्लास्टिकचे", "is_correct": false },
+          { "option_id": 2, "text": "हाडांचे आणि शिंपल्यांचे", "is_correct": true },
+          { "option_id": 3, "text": "सोन्याचे", "is_correct": false },
+          { "option_id": 4, "text": "हिऱ्यांचे", "is_correct": false }
+        ],
+        "answer": "हाडांचे आणि शिंपल्यांचे"
+    },
+    {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाचा आवाज कसा असावा असे शास्त्रज्ञांचे मत आहे?",
+        "options": [
+          { "option_id": 1, "text": "पूर्ण विकसित भाषा", "is_correct": false },
+          { "option_id": 2, "text": "अस्फुट आवाज आणि खुणा", "is_correct": true },
+          { "option_id": 3, "text": "गाण्यासारखा", "is_correct": false },
+          { "option_id": 4, "text": "अजिबात आवाज नव्हता", "is_correct": false }
+        ],
+        "answer": "अस्फुट आवाज आणि खुणा"
+    },
+    {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील शेतीसाठी वापरली जाणारी मुख्य साधने कोणती होती?",
+        "options": [
+          { "option_id": 1, "text": "लोखंडी नांगर", "is_correct": false },
+          { "option_id": 2, "text": "दगडी आणि लाकडी अवजारे", "is_correct": true },
+          { "option_id": 3, "text": "ट्रॅक्टर", "is_correct": false },
+          { "option_id": 4, "text": "विद्युत पंप", "is_correct": false }
+        ],
+        "answer": "दगडी आणि लाकडी अवजारे"
+    },
+    {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "मध्ययुगातील मानवाने मासे पकडण्यासाठी काय वापरले?",
+        "options": [
+          { "option_id": 1, "text": "गळ", "is_correct": true },
+          { "option_id": 2, "text": "बंदूक", "is_correct": false },
+          { "option_id": 3, "text": "बाण", "is_correct": false },
+          { "option_id": 4, "text": "दगड", "is_correct": false }
+        ],
+        "answer": "गळ"
+    },
+    {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील मानवाने कशाचा वापर करून कापड विणण्यास सुरुवात केली?",
+        "options": [
+          { "option_id": 1, "text": "लोखंडी सुया", "is_correct": false },
+          { "option_id": 2, "text": "हाताने आणि साध्या साधनांनी", "is_correct": true },
+          { "option_id": 3, "text": "मशिनरी", "is_correct": false },
+          { "option_id": 4, "text": "विद्युत माग", "is_correct": false }
+        ],
+        "answer": "हाताने आणि साध्या साधनांनी"
+    },
+    {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाच्या काळात पर्यावरणात कोणता मोठा बदल झाला?",
+        "options": [
+          { "option_id": 1, "text": "उष्णता वाढली", "is_correct": false },
+          { "option_id": 2, "text": "हिमयुग (थंडी)", "is_correct": true },
+          { "option_id": 3, "text": "पाऊस पडणे बंद झाले", "is_correct": false },
+          { "option_id": 4, "text": "वावटळ आली", "is_correct": false }
+        ],
+        "answer": "हिमयुग (थंडी)"
+    },
+    {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन गाव-वसाहतींच्या मध्यभागी काय असे?",
+        "options": [
+          { "option_id": 1, "text": "मंदिर", "is_correct": false },
+          { "option_id": 2, "text": "धान्य कोठार किंवा मोकळी जागा", "is_correct": true },
+          { "option_id": 3, "text": "किल्ला", "is_correct": false },
+          { "option_id": 4, "text": "शाळा", "is_correct": false }
+        ],
+        "answer": "धान्य कोठार किंवा मोकळी जागा"
+    },
+    {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "मध्ययुगीन मानवाचा आहार वैविध्यपूर्ण होण्याचे कारण काय?",
+        "options": [
+          { "option_id": 1, "text": "हवेतील बदल व वनस्पतींची वाढ", "is_correct": true },
+          { "option_id": 2, "text": "नव्याने हॉटेल उघडली", "is_correct": false },
+          { "option_id": 3, "text": "जास्त पैसे आले", "is_correct": false },
+          { "option_id": 4, "text": "भूक जास्त लागली", "is_correct": false }
+        ],
+        "answer": "हवेतील बदल व वनस्पतींची वाढ"
+    },
+    {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "शक्तिमान मानवाच्या हत्यारांना काय म्हटले जाई?",
+        "options": [
+          { "option_id": 1, "text": "तलवार", "is_correct": false },
+          { "option_id": 2, "text": "हातकुऱ्हाड आणि तासण्या", "is_correct": true },
+          { "option_id": 3, "text": "मिसाईल", "is_correct": false },
+          { "option_id": 4, "text": "बंदूक", "is_correct": false }
+        ],
+        "answer": "हातकुऱ्हाड आणि तासण्या"
+    },
+    {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगाच्या शेवटी मानवाने कशाचा शोध लावला ज्याने क्रांती केली?",
+        "options": [
+          { "option_id": 1, "text": "विमानाचा", "is_correct": false },
+          { "option_id": 2, "text": "चाकाचा", "is_correct": true },
+          { "option_id": 3, "text": "संगणकाचा", "is_correct": false },
+          { "option_id": 4, "text": "विद्युत दिव्याचा", "is_correct": false }
+        ],
+        "answer": "चाकाचा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाने प्रामुख्याने कोठे वस्ती केली?",
+      "answer": "शक्तिमान मानवाने प्रामुख्याने गुहांमध्ये वस्ती केली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानव थंडीपासून संरक्षण करण्यासाठी कशाचा वापर करत असे?",
+      "answer": "शक्तिमान मानव थंडीपासून संरक्षण करण्यासाठी प्राण्यांच्या कातड्याचा आणि शेकोटीचा वापर करत असे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या निवाऱ्यात शेकोटीचे काय महत्त्व होते?",
+      "answer": "शेकोटीमुळे गुहेत उब मिळत असे आणि हिंस्र प्राण्यांपासून संरक्षण होत असे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बुद्धीमान मानवाने हंगामी तळ कोठे उभारले?",
+      "answer": "बुद्धीमान मानवाने निसर्गातील मोकळ्या जागेवर हंगामी तळ उभारले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "बुद्धीमान मानवाच्या हंगामी तळांची रचना कशी होती?",
+      "answer": "हे तळ लाकडी खांब, झाडाच्या फांद्या आणि कातड्याच्या साहाय्याने बनवलेल्या झोपड्यांच्या स्वरूपात होते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मध्ययुगीन काळात हवामानात कोणता बदल झाला?",
+      "answer": "मध्ययुगीन काळात हवामान अधिक उबदार होऊ लागले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हवामानातील बदलाचा मानवी आहारावर काय परिणाम झाला?",
+      "answer": "उबदार हवामानामुळे वनस्पतींची वाढ झाली आणि मानवाच्या आहारात फळे, कंदमुळे व धान्याचा समावेश वाढला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मॅमथ हा प्राणी नष्ट होण्याचे मुख्य कारण काय?",
+      "answer": "पर्यावरणातील बदल (हिमयुग संपणे) आणि मानवाने केलेली मोठ्या प्रमाणावरील शिकार ही मुख्य कारणे होती."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानव कोणत्या प्रकारचे प्राणी शिकार करत असे?",
+      "answer": "मध्ययुगातील मानव हरिण, रानडुक्कर, शेळी आणि मेंढी यांसारख्या चपळ व लहान प्राण्यांची शिकार करत असे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने मासेमारीसाठी कशाचा शोध लावला?",
+      "answer": "मध्ययुगातील मानवाने मासे पकडण्यासाठी हाडांचे किंवा लाकडाचे गळ तयार केले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मानव समूहाने एकाच ठिकाणी दीर्घकाळ राहण्याचे कारण काय?",
+      "answer": "धान्य पिकवण्यासाठी जमिनीची मशागत, पेरणी आणि कापणी या प्रक्रियेसाठी एकाच ठिकाणी राहणे आवश्यक झाले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगाची सुरुवात कोणत्या महत्त्वाच्या घटनेने झाली?",
+      "answer": "नवाश्मयुगाची सुरुवात शेती आणि पशुपालनाच्या प्रक्रियेने झाली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन घरे कशापासून बनवलेली असत?",
+      "answer": "नवाश्मयुगीन घरे माती आणि कुडाच्या भिंतींपासून बनवलेली असत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कुडाची भिंत म्हणजे काय?",
+      "answer": "वेताच्या काठ्या किंवा बांबूच्या जाळीवर शेण-मातीचा लेप देऊन तयार केलेली भिंत म्हणजे कुडाची भिंत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गाव-वसाहती कोठे स्थापन झाल्या?",
+      "answer": "नवाश्मयुगीन गाव-वसाहती प्रामुख्याने नद्यांच्या काठी आणि सुपीक जमिनीजवळ स्थापन झाल्या."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "शेतीमुळे मानवी अन्नात कोणता मुख्य बदल झाला?",
+      "answer": "शेतीमुळे मानवाच्या आहारात धान्याचा (कर्बोदकांचा) पुरवठा नियमित आणि भरपूर होऊ लागला."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने धान्याचा साठा का केला?",
+      "answer": "पुढील वर्षाची पेरणी करण्यासाठी आणि अन्नाची टंचाई भासू नये म्हणून धान्याचा साठा केला गेला."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील सामाजिक जीवनाचे मुख्य वैशिष्ट्य कोणते?",
+      "answer": "नवाश्मयुगात स्थिर गाव-वसाहती आणि एकत्रित कुटुंब पद्धतीचा विकास हे मुख्य वैशिष्ट्य होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "मानवाने सुरुवातीला कोणत्या प्राण्यांना पाळले?",
+      "answer": "मानवाने सुरुवातीला कुत्रा, शेळी, मेंढी आणि बैल यांसारख्या प्राण्यांना पाळले."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पशुपालनाचा मानवाला काय फायदा झाला?",
+      "answer": "पशुपालनामुळे मानवाला दूध, मांस आणि ओझे वाहण्यासाठी मदत मिळाली."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "हंगामी तळ म्हणजे काय?",
+      "answer": "विशिष्ट ऋतूत शिकारीच्या किंवा अन्नाच्या उपलब्धतेनुसार तात्पुरत्या स्वरूपात उभारलेले राहण्याचे ठिकाण म्हणजे हंगामी तळ."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील हत्यारे कशी होती?",
+      "answer": "मध्ययुगातील हत्यारे पुराश्मयुगापेक्षा लहान, चपळ आणि धनुष्यबाणासारखी प्रगत होती."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गावात धान्याची कोठारे कोठे असायची?",
+      "answer": "धान्याची कोठारे सहसा गाव-वसाहतीच्या मध्यवर्ती भागात किंवा सुरक्षित ठिकाणी असायची."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या काळात युरोपमध्ये कशाचे प्राबल्य होते?",
+      "answer": "शक्तिमान मानवाच्या काळात युरोपमध्ये हिमयुगाचे (अतिशय थंडीचे) प्राबल्य होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शेतीच्या प्रगतीमुळे मानवाची कोणती धावपळ थांबली?",
+      "answer": "शेतीमुळे अन्नासाठी रानावनात भटकण्याची आणि शिकारीसाठी वणवण करण्याची मानवाची धावपळ थांबली."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "मध्ययुगीन मानवाचा प्रमुख व्यवसाय कोणता होता?",
+      "answer": "मध्ययुगीन मानवाचा प्रमुख व्यवसाय शिकार आणि अन्न गोळा करणे हा होता."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगात लोकसंख्या का वाढली?",
+      "answer": "नियमित अन्न पुरवठा आणि स्थिर जीवनामुळे आरोग्य सुधारले आणि लोकसंख्या वाढली."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "चाकाचा शोध कधी लागला असे मानले जाते?",
+      "answer": "चाकाचा शोध नवाश्मयुगाच्या उत्तरार्धात लागला असे मानले जाते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे अवशेष प्रथम कोठे मिळाले?",
+      "answer": "शक्तिमान मानवाचे अवशेष प्रथम जर्मनीतील 'निअँडरथल' येथे मिळाले."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "बुद्धीमान मानवाच्या झोपड्यांची छप्पर कशाचे असायचे?",
+      "answer": "बुद्धीमान मानवाच्या झोपड्यांची छप्पर गवताचे किंवा प्राण्यांच्या कातड्याचे असायचे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन घरांचे आकार कसे असायचे?",
+      "answer": "नवाश्मयुगीन घरे सहसा चौकोनी किंवा आयताकृती असायची."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "मध्ययुगीन मानवाने कुत्र्याला का पाळले असावे?",
+      "answer": "शिकारीत मदत करण्यासाठी आणि संरक्षणासाठी मध्ययुगीन मानवाने कुत्र्याला पाळले असावे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "अश्मयुगातील तीन कालखंड कोणते?",
+      "answer": "पुराश्मयुग, मध्यश्मयुग आणि नवाश्मयुग हे अश्मयुगातील तीन कालखंड आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "शेतीसाठी पाण्याचा वापर मानवाने कसा केला?",
+      "answer": "मानवाने नद्यांच्या प्रवाहातून कालवे काढून किंवा साठवलेल्या पाण्याचा वापर करून शेती केली."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गाव-वसाहतींचा कारभार कोण पाहत असे?",
+      "answer": "गाव-वसाहतीचा कारभार वडीलधारी माणसे किंवा टोळीचे प्रमुख पाहत असत."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मानवाने मातीची भांडी भाजण्याची कला का शिकली?",
+      "answer": "भांडी टिकाऊ व्हावीत आणि त्यामध्ये अन्न शिजवता यावे यासाठी मानवाने ती भाजण्याची कला शिकली."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचा चेहरा कसा होता?",
+      "answer": "शक्तिमान मानवाचा चेहरा पुढे आलेला, जबडा मोठा आणि कपाळ पसरट होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील हवामान बदलाचा वनस्पतींवर काय परिणाम झाला?",
+      "answer": "हवामान उबदार झाल्यामुळे तृणधान्ये (जसे की गहू, बार्ली) नैसर्गिकरीत्या उगवू लागली."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने कोणत्या प्रकारचे कपडे वापरले असावेत?",
+      "answer": "नवाश्मयुगीन मानवाने प्राण्यांच्या कातड्यासोबतच वनस्पतींच्या धाग्यांपासून विणलेले कपडे वापरण्यास सुरुवात केली होती."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शेतीच्या शोधाने मानवाचे जीवन कसे बदलले?",
+      "answer": "शेतीच्या शोधामुळे मानवाचे भटके जीवन संपून तो एका ठिकाणी स्थिर झाला आणि संस्कृतीचा विकास झाला."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन संस्कृतीला 'क्रांती' का म्हटले जाते?",
+      "answer": "कारण या काळात मानवाने अन्नासाठी निसर्गावर अवलंबून राहण्याऐवजी स्वतः अन्न उत्पादन करण्यास सुरुवात केली."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाने दगडी हत्यारे कशी बनवली?",
+      "answer": "शक्तिमान मानवाने मोठ्या दगडांपासून चिलके काढून हातकुऱ्हाडी आणि तासण्या बनवल्या."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाचे स्थलांतर कशावर अवलंबून होते?",
+      "answer": "मध्ययुगातील मानवाचे स्थलांतर शिकारीची उपलब्धता आणि फळे-धान्यांच्या हंगामावर अवलंबून होते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाच्या धार्मिक कल्पना कशा होत्या?",
+      "answer": "नवाश्मयुगीन मानव निसर्गातील शक्तींची (सूर्य, पाऊस) पूजा करत असे आणि मृतांना पुरण्याची पद्धत पाळत असे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मॅमथ हा प्राणी हत्तीपेक्षा कसा वेगळा होता?",
+      "answer": "मॅमथ हा हत्तीपेक्षा आकाराने मोठा होता आणि त्याच्या अंगावर दाट केस होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने घरांमध्ये काय बांधले होते?",
+      "answer": "नवाश्मयुगीन मानवाने घरांमध्ये चुली आणि धान्य साठवण्यासाठी खड्डे किंवा कोठारे बांधली होती."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे हत्यारांचे तंत्र कोणते होते?",
+      "answer": "शक्तिमान मानवाचे हत्यारांचे तंत्र प्रामुख्याने दगडावर दगड मारून चिलके काढण्याचे होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने हाडांपासून काय बनवले?",
+      "answer": "मध्ययुगातील मानवाने हाडांपासून मासे पकडण्याचे गळ, सुया आणि दाभण बनवले."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने कशाची वाहतूक सुरू केली?",
+      "answer": "नवाश्मयुगीन मानवाने धान्याची आणि इतर वस्तूंची पाळीव प्राण्यांच्या किंवा चाकाच्या गाड्यांच्या साहाय्याने वाहतूक सुरू केली."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अश्मयुगातील मानवाचा विकास कशावरून ओळखला जातो?",
+      "answer": "अश्मयुगातील मानवाचा विकास त्याने तयार केलेल्या दगडांच्या हत्यारांच्या स्वरूपावरून ओळखला जातो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गावात संरक्षणाची काय व्यवस्था होती?",
+      "answer": "गाव-वसाहतीभोवती दगडी भिंती किंवा कुंपण घालून संरक्षणाची व्यवस्था केलेली असे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाने गुहेत चित्रकला केली होती का?",
+      "answer": "नाही, गुहेत चित्रकला करण्याचे पुरावे प्रामुख्याने बुद्धीमान मानवाच्या (मध्ययुगीन) काळातील आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील अन्नाचे संकलन कसे केले जाई?",
+      "answer": "रानधान्ये गोळा करून आणि सुकवून अन्नाचे संकलन केले जाई."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगात स्त्रियांचे शेतीतील योगदान काय होते?",
+      "answer": "नवाश्मयुगात स्त्रिया प्रामुख्याने पेरणी, खुरपणी आणि धान्याची मळणी यांसारखी शेतीची कामे करत असत."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचा मेंदू कसा होता?",
+      "answer": "शक्तिमान मानवाचा मेंदू आधुनिक मानवापेक्षा थोडा लहान पण पुराश्मयुगीन मानवापेक्षा मोठा होता."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील हत्यारांमध्ये कोणत्या लाकडाचा वापर होत असे?",
+      "answer": "मध्ययुगातील हत्यारांना दांडा लावण्यासाठी बांबू किंवा टणक लाकडाचा वापर होत असे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने औषधी वनस्पतींचा वापर केला का?",
+      "answer": "हो, नवाश्मयुगीन मानवाला परिसरातील विविध वनस्पतींच्या औषधी गुणधर्मांची माहिती झाली होती."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील मानवाचे राहणीमान पुराश्मयुगापेक्षा कसे वेगळे होते?",
+      "answer": "नवाश्मयुगीन मानव स्थिर, सुरक्षित आणि सुसंस्कृत घरात राहत होता, तर पुराश्मयुगीन मानव भटका आणि असुरक्षित होता."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाने आगीचा शोध कसा लावला असावा?",
+      "answer": "शक्तिमान मानवाने गारगोटीचे दगड एकमेकांवर घासून किंवा वीज पडल्याने लागलेल्या वणव्यावरून आगीचा शोध लावला असावा."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गाव-वसाहतींच्या अवशेषांना काय म्हणतात?",
+      "answer": "नवाश्मयुगीन गाव-वसाहतींच्या अवशेषांना 'पुरातत्त्वीय ढिगारे' किंवा 'पांढरी' असे म्हणतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने मासे साठवण्यासाठी काय केले?",
+      "answer": "मध्ययुगातील मानवाने मासे सुकवून किंवा धुरी देऊन साठवण्याची पद्धत सुरू केली."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने जमिनीची मशागत कशी केली?",
+      "answer": "नवाश्मयुगीन मानवाने दगडी कुदळी आणि लाकडी नांगरांच्या साहाय्याने जमिनीची मशागत केली."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचा मृत्यू झाल्यास तो काय करत असे?",
+      "answer": "शक्तिमान मानव मृतांना पुरत असे आणि त्यांच्यासोबत काही वस्तू किंवा फुले ठेवत असे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाच्या जीवनात कलेचे स्थान काय होते?",
+      "answer": "मध्ययुगातील मानव गुहाचित्रे काढून आणि हाडांचे दागिने बनवून आपली कला व्यक्त करत असे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने व्यापाराची सुरुवात कशी केली?",
+      "answer": "नवाश्मयुगीन मानवाने गरजेपेक्षा जास्त धान्याची किंवा वस्तूंची अदलाबदल (वस्तूविनिमय) करून व्यापाराची सुरुवात केली."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या कातड्याच्या कपड्यांना शिवण होती का?",
+      "answer": "हो, शक्तिमान मानवाने कातड्याचे तुकडे हाडांच्या सुयांनी शिवून कपडे तयार केले होते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगात कामाची विभागणी कशी होती?",
+      "answer": "नवाश्मयुगात कामाची विभागणी वयोगट आणि कौशल्यानुसार (उदा. शेती, शिकार, भांडी बनवणे) केली होती."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने अन्नासाठी कशाचा साठा केला?",
+      "answer": "मध्ययुगातील मानवाने सुकवलेली फळे, कंदमुळे आणि मासे यांचा साठा केला."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने घराच्या छतासाठी काय वापरले?",
+      "answer": "नवाश्मयुगीन मानवाने घराच्या छतासाठी गवत, पेंढा आणि झाडाच्या फांद्या वापरल्या."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे समूह किती मोठे असायचे?",
+      "answer": "शक्तिमान मानवाचे समूह साधारणपणे ३० ते ५० व्यक्तींचे असायचे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील मानवाने पाळीव प्राण्यांना कुठे ठेवले?",
+      "answer": "नवाश्मयुगातील मानवाने घरा शेजारी किंवा गाव-वसाहतीच्या परिसरात गोठे बांधून प्राण्यांना ठेवले."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने हत्यारांना गारगोटीचे छोटे तुकडे कसे लावले?",
+      "answer": "मध्ययुगातील मानवाने लाकडाच्या किंवा हाडाच्या खाचांमध्ये राळ वापरून गारगोटीचे छोटे तुकडे (सूक्ष्मास्त्रे) बसवले."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने कापूस पिकवला होता का?",
+      "answer": "हो, नवाश्मयुगाच्या उत्तरार्धात काही भागांत कापसाची लागवड आणि सुती कापडाचा वापर सुरू झाला होता."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचा आहार प्रामुख्याने शाकाहारी होता की मांसाहारी?",
+      "answer": "शक्तिमान मानवाचा आहार प्रामुख्याने मांसाहारी होता, पण तो थोड्या प्रमाणात फळेही खात असे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गाव-वसाहतींची रचना कशी होती?",
+      "answer": "नवाश्मयुगीन गाव-वसाहतींची रचना नियोजित असून घरांमध्ये ठराविक अंतर आणि सामायिक मोकळ्या जागा होत्या."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाच्या शिकारीत धनुष्यबाणाचा फायदा काय झाला?",
+      "answer": "धनुष्यबाणामुळे दूरवरील आणि चपळ प्राण्यांची शिकार करणे सोपे झाले."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने धान्याची मळणी कशी केली?",
+      "answer": "नवाश्मयुगीन मानवाने दगडी पाटा-वरवंटा वापरून किंवा लाकडी मुसळाने धान्याची मळणी केली."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाने दगडांची हत्यारे कशासाठी वापरली?",
+      "answer": "शक्तीमान मानवाने दगडी हत्यारे शिकार करण्यासाठी, कातडी सोलण्यासाठी आणि लाकूड तोडण्यासाठी वापरली."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाच्या दागिन्यांमध्ये कशाचा समावेश होता?",
+      "answer": "नवाश्मयुगीन मानवाच्या दागिन्यांमध्ये मणी, शिंपले, हाडे आणि रंगीत दगडांच्या माळांचा समावेश होता."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाच्या आहारात मध सामाविष्ट होते का?",
+      "answer": "हो, मध्ययुगातील मानवाने जंगलातून मध गोळा करून आपल्या आहारात त्याचा समावेश केला होता."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने मीठ कोठून मिळवले?",
+      "answer": "नवाश्मयुगीन मानवाने समुद्राच्या पाण्यापासून किंवा मिठाच्या खाणींतून मीठ मिळवले."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे राहणीमान भटक्या स्वरूपाचे का होते?",
+      "answer": "कारण तो अन्नाच्या आणि शिकारीच्या शोधात सतत एका ठिकाणाहून दुसऱ्या ठिकाणी जात असे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने मृतांना कोठे पुरले?",
+      "answer": "नवाश्मयुगीन मानव मृतांना सहसा घराच्या खाली किंवा गाव-वसाहतीच्या जवळ असलेल्या स्मशानभूमीत पुरत असे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाच्या समूहात प्रमुखाची काय भूमिका होती?",
+      "answer": "समूहाचा प्रमुख शिकारीचे नियोजन करणे आणि वादाचे निवारण करणे ही कामे पाहत असे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने धान्याचे पीठ कसे केले?",
+      "answer": "नवाश्मयुगीन मानवाने दोन दगडांच्या मध्ये धान्य रगडून (पाटा-वरवंटा) धान्याचे पीठ केले."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे कपडे शिवण्यासाठी धागा म्हणून काय वापरले जाई?",
+      "answer": "शक्तिमान मानवाचे कपडे शिवण्यासाठी प्राण्यांच्या शिरा किंवा वनस्पतींचे तंतू धागा म्हणून वापरले जाई."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने पावसाच्या पाण्यापासून संरक्षण कसे केले?",
+      "answer": "नवाश्मयुगीन मानवाने घराच्या छतावर पेंढ्याचा जाड थर लावून पावसाच्या पाण्यापासून संरक्षण केले."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने कंदमुळे उकडण्याची कला शिकली होती का?",
+      "answer": "हो, मध्ययुगातील मानवाने आगीवर किंवा गरम पाण्यात कंदमुळे उकडून खाण्यास सुरुवात केली होती."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने चाकाचा उपयोग कशासाठी केला?",
+      "answer": "नवाश्मयुगीन मानवाने चाकाचा उपयोग मातीची भांडी बनवण्यासाठी (कुंभाराचे चाक) आणि वाहतुकीसाठी केला."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या काळात बर्फाच्छादित प्रदेशात जगणे का कठीण होते?",
+      "answer": "अति थंडी, अन्नाचा अभाव आणि प्रतिकूल हवामानामुळे बर्फाच्छादित प्रदेशात जगणे कठीण होते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने घराचे मजले कसे बनवले?",
+      "answer": "नवाश्मयुगीन मानवाने जमिनीवर मातीचा थर देऊन आणि तो चोपून घराचे मजले (तळमजले) बनवले."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाने कोणत्या रंगांचा वापर चित्रकलेसाठी केला?",
+      "answer": "मध्ययुगातील मानवाने रंगीत दगड, वनस्पतींचा रस आणि प्राण्यांची चरबी मिसळून तयार केलेल्या रंगांचा वापर केला."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाच्या शेतीतील महत्त्वाचे पीक कोणते होते?",
+      "answer": "नवाश्मयुगीन मानवाच्या शेतीतील महत्त्वाची पिके गहू, बार्ली (जव) आणि मसूर ही होती."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे कपाळ कसे होते?",
+      "answer": "शक्तिमान मानवाचे कपाळ मागे सरकलेले आणि कमी उंचीचे होते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाने अन्नावर प्रक्रिया का केली?",
+      "answer": "अन्न पचण्यास हलके व्हावे आणि जास्त काळ टिकून राहावे यासाठी मानवाने अन्नावर प्रक्रिया (शिजवणे, सुकवणे) केली."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "मध्ययुगातील मानवाचा मासेमारीचा हंगाम कोणता असायचा?",
+      "answer": "मध्ययुगातील मानवाचा मासेमारीचा हंगाम प्रामुख्याने पावसाळा संपल्यानंतर आणि नद्यांचे पाणी कमी झाल्यावर असायचा."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाच्या सामाजिक उत्सवांचे स्वरूप काय होते?",
+      "answer": "नवाश्मयुगीन मानवाच्या सामाजिक उत्सवांमध्ये नाच-गाणी, धार्मिक विधी आणि सामायिक जेवणावळी असायच्या."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचा आणि आधुनिक मानवाचा संबंध काय आहे?",
+      "answer": "शक्तिमान मानव हा आधुनिक मानवाचा एक पूर्वज किंवा जवळचा नातेवाईक मानला जातो, ज्याची उत्क्रांती झाली."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाच्या वस्तूंमध्ये राखेचे थर का सापडतात?",
+      "answer": "कारण तो घरांमध्ये नियमितपणे शेकोटी पेटवत असे आणि चुलींचा वापर करत असे, ज्याची राख साचत असे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगाच्या शेवटी मानवाने कोणत्या धातूचा वापर सुरू केला?",
+      "answer": "नवाश्मयुगाच्या अगदी शेवटी मानवाने तांबे या धातूचा वापर करण्यास सुरुवात केली."
+    }
+  ]
+}

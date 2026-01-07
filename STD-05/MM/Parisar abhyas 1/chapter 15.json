@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 15,
+  "chapter_name": "संदेशवहन व प्रसारमाध्यमे",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कृत्रिम उपग्रह अवकाशात सोडण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "विमान", "is_correct": false },
+        { "option_id": 2, "text": "रॉकेट (अग्निबाण)", "is_correct": true },
+        { "option_id": 3, "text": "हेलिकॉप्टर", "is_correct": false },
+        { "option_id": 4, "text": "बलून", "is_correct": false }
+      ],
+      "answer": "रॉकेट (अग्निबाण)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारताने अवकाशात सोडलेल्या कृत्रिम उपग्रहांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भारतीय उपग्रह (ISRO)", "is_correct": false },
+        { "option_id": 2, "text": "आकाशगंगा", "is_correct": false },
+        { "option_id": 3, "text": "भारतीय प्रेक्षपण", "is_correct": false },
+        { "option_id": 4, "text": "भारतीय राष्ट्रीय उपग्रह (INSAT)", "is_correct": true }
+      ],
+      "answer": "भारतीय राष्ट्रीय उपग्रह (INSAT)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते संदेशवहनाचे साधन नाही?",
+      "options": [
+        { "option_id": 1, "text": "भ्रमणध्वनी", "is_correct": false },
+        { "option_id": 2, "text": "वृत्तपत्र", "is_correct": false },
+        { "option_id": 3, "text": "कपाट", "is_correct": true },
+        { "option_id": 4, "text": "संगणक", "is_correct": false }
+      ],
+      "answer": "कपाट"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "थेट प्रक्षेपण (Live Telecast) पाहण्यासाठी कशाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "रेडिओ", "is_correct": false },
+        { "option_id": 2, "text": "कृत्रिम उपग्रह", "is_correct": true },
+        { "option_id": 3, "text": "टपाल", "is_correct": false },
+        { "option_id": 4, "text": "वृत्तपत्र", "is_correct": false }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जागतिक स्तरावर माहितीची देवाणघेवाण करण्यासाठी काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "आकाशवाणी", "is_correct": false },
+        { "option_id": 2, "text": "दूरदर्शन", "is_correct": false },
+        { "option_id": 3, "text": "इंटरनेट (आंतरजाल)", "is_correct": true },
+        { "option_id": 4, "text": "तार यंत्र", "is_correct": false }
+      ],
+      "answer": "इंटरनेट (आंतरजाल)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मोबाईल फोनला मराठीत काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनी यंत्र", "is_correct": false },
+        { "option_id": 2, "text": "भ्रमणध्वनी", "is_correct": true },
+        { "option_id": 3, "text": "दुभाषी", "is_correct": false },
+        { "option_id": 4, "text": "संदेश यंत्र", "is_correct": false }
+      ],
+      "answer": "भ्रमणध्वनी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांचा कोणता 'अति-वापर' हानिकारक आहे?",
+      "options": [
+        { "option_id": 1, "text": "कमी वेळ पाहणे", "is_correct": false },
+        { "option_id": 2, "text": "सतत मोबाईल पाहणे", "is_correct": true },
+        { "option_id": 3, "text": "बातमी वाचणे", "is_correct": false },
+        { "option_id": 4, "text": "रेडिओ ऐकणे", "is_correct": false }
+      ],
+      "answer": "सतत मोबाईल पाहणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मनोरंजनाचे आधुनिक साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "कथा सांगणे", "is_correct": false },
+        { "option_id": 2, "text": "भजन", "is_correct": false },
+        { "option_id": 3, "text": "चित्रपट", "is_correct": true },
+        { "option_id": 4, "text": "नाटक", "is_correct": false }
+      ],
+      "answer": "चित्रपट"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते माध्यम केवळ श्राव्य (ऐकण्यासारखे) आहे?",
+      "options": [
+        { "option_id": 1, "text": "दूरदर्शन", "is_correct": false },
+        { "option_id": 2, "text": "रेडिओ", "is_correct": true },
+        { "option_id": 3, "text": "मोबाईल", "is_correct": false },
+        { "option_id": 4, "text": "संगणक", "is_correct": false }
+      ],
+      "answer": "रेडिओ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांचा चांगला परिणाम कोणता?",
+      "options": [
+        { "option_id": 1, "text": "वेळेचा अपव्यय", "is_correct": false },
+        { "option_id": 2, "text": "डोळ्यांना त्रास", "is_correct": false },
+        { "option_id": 3, "text": "घरबसल्या माहिती मिळणे", "is_correct": true },
+        { "option_id": 4, "text": "आळस वाढणे", "is_correct": false }
+      ],
+      "answer": "घरबसल्या माहिती मिळणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वृत्तपत्रे हे संदेशवहनाचे कोणत्या प्रकारचे साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "छापील", "is_correct": true },
+        { "option_id": 2, "text": "श्राव्य", "is_correct": false },
+        { "option_id": 3, "text": "दृश्य-श्राव्य", "is_correct": false },
+        { "option_id": 4, "text": "सांकेतिक", "is_correct": false }
+      ],
+      "answer": "छापील"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दूरदर्शनवर आपण काय करू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त ऐकू शकतो", "is_correct": false },
+        { "option_id": 2, "text": "पाहू आणि ऐकू शकतो", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वाचू शकतो", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्श करू शकतो", "is_correct": false }
+      ],
+      "answer": "पाहू आणि ऐकू शकतो"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भूकंप किंवा वादळाची पूर्वसूचना कशामुळे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "वर्तमानपत्र", "is_correct": false },
+        { "option_id": 2, "text": "टपाल", "is_correct": false },
+        { "option_id": 3, "text": "कृत्रिम उपग्रह", "is_correct": true },
+        { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "संदेशवहन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "जेवण करणे", "is_correct": false },
+        { "option_id": 2, "text": "माहितीची देवाणघेवाण", "is_correct": true },
+        { "option_id": 3, "text": "गाडी चालवणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "माहितीची देवाणघेवाण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जुन्या काळी संदेश पाठवण्यासाठी कशाचा वापर केला जाई?",
+      "options": [
+        { "option_id": 1, "text": "मोबाईल", "is_correct": false },
+        { "option_id": 2, "text": "सांडणीस्वार किंवा कबूतर", "is_correct": true },
+        { "option_id": 3, "text": "ई-मेल", "is_correct": false },
+        { "option_id": 4, "text": "व्हिडिओ कॉल", "is_correct": false }
+      ],
+      "answer": "सांडणीस्वार किंवा कबूतर"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांमुळे जग कसे झाले आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठे", "is_correct": false },
+        { "option_id": 2, "text": "जवळ आले आहे", "is_correct": true },
+        { "option_id": 3, "text": "दूर गेले आहे", "is_correct": false },
+        { "option_id": 4, "text": "बदलले नाही", "is_correct": false }
+      ],
+      "answer": "जवळ आले आहे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "माहिती साठवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "ई-मेल पाठवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "गणिते सोडवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मोबाईलचा सतत वापर केल्याने काय कमी होते?",
+      "options": [
+        { "option_id": 1, "text": "मैदानी खेळ", "is_correct": true },
+        { "option_id": 2, "text": "विद्युत बिल", "is_correct": false },
+        { "option_id": 3, "text": "माहिती", "is_correct": false },
+        { "option_id": 4, "text": "आरोग्य", "is_correct": false }
+      ],
+      "answer": "मैदानी खेळ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शाळा किंवा कॉलेजमध्ये शिक्षण घेण्यासाठी कोणते आधुनिक माध्यम वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पत्र", "is_correct": false },
+        { "option_id": 2, "text": "संगणक आणि प्रोजेक्टर", "is_correct": true },
+        { "option_id": 3, "text": "लाऊडस्पीकर", "is_correct": false },
+        { "option_id": 4, "text": "ढोल", "is_correct": false }
+      ],
+      "answer": "संगणक आणि प्रोजेक्टर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बातम्या वाचण्यासाठी सर्वात स्वस्त माध्यम कोणते?",
+      "options": [
+        { "option_id": 1, "text": "स्मार्टफोन", "is_correct": false },
+        { "option_id": 2, "text": "लॅपटॉप", "is_correct": false },
+        { "option_id": 3, "text": "वृत्तपत्र", "is_correct": true },
+        { "option_id": 4, "text": "टॅबलेट", "is_correct": false }
+      ],
+      "answer": "वृत्तपत्र"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कृत्रिम उपग्रह पृथ्वीच्या कोणत्या भागात फिरतात?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीखाली", "is_correct": false },
+        { "option_id": 3, "text": "बाहेरच्या अवकाशात (कक्षा)", "is_correct": true },
+        { "option_id": 4, "text": "ढगांच्या आत", "is_correct": false }
+      ],
+      "answer": "बाहेरच्या अवकाशात (कक्षा)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "इंटरनेटवरून आपण काय पाठवू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त मजकूर", "is_correct": false },
+        { "option_id": 2, "text": "फक्त चित्र", "is_correct": false },
+        { "option_id": 3, "text": "फक्त आवाज", "is_correct": false },
+        { "option_id": 4, "text": "माहिती, व्हिडिओ आणि फोटो", "is_correct": true }
+      ],
+      "answer": "माहिती, व्हिडिओ आणि फोटो"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "टपाल सेवेमुळे आपण काय पाठवतो?",
+      "options": [
+        { "option_id": 1, "text": "पाकीट आणि पत्रे", "is_correct": true },
+        { "option_id": 2, "text": "ई-मेल", "is_correct": false },
+        { "option_id": 3, "text": "रेडिओ लहरी", "is_correct": false },
+        { "option_id": 4, "text": "उपग्रह", "is_correct": false }
+      ],
+      "answer": "पाकीट आणि पत्रे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मोबाईलचा अतिवापर केल्याने कोणावर वाईट परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मुलांवर", "is_correct": false },
+        { "option_id": 2, "text": "केवळ वृद्धांवर", "is_correct": false },
+        { "option_id": 3, "text": "सर्व सजीवांवर आणि आरोग्यावर", "is_correct": true },
+        { "option_id": 4, "text": "फक्त निर्जीव वस्तूंवर", "is_correct": false }
+      ],
+      "answer": "सर्व सजीवांवर and आरोग्यावर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांमुळे कोणती क्रांती झाली आहे?",
+      "options": [
+        { "option_id": 1, "text": "औद्योगिक", "is_correct": false },
+        { "option_id": 2, "text": "माहिती तंत्रज्ञान", "is_correct": true },
+        { "option_id": 3, "text": "हरित क्रांती", "is_correct": false },
+        { "option_id": 4, "text": "धवल क्रांती", "is_correct": false }
+      ],
+      "answer": "माहिती तंत्रज्ञान"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रेडिओवरून प्रसारित होणाऱ्या कार्यक्रमांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "दूरदर्शन", "is_correct": false },
+        { "option_id": 2, "text": "आकाशवाणी", "is_correct": true },
+        { "option_id": 3, "text": "चित्रपट", "is_correct": false },
+        { "option_id": 4, "text": "वृत्तपत्र", "is_correct": false }
+      ],
+      "answer": "आकाशवाणी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मोबाईल मधील कॅमेऱ्याचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "गाणी ऐकण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "फोन करण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "फोटो काढण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "मेसेज वाचण्यासाठी", "is_correct": false }
+      ],
+      "answer": "फोटो काढण्यासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांमुळे वेळ आणि श्रम यांची काय होते?",
+      "options": [
+        { "option_id": 1, "text": "नासाडी", "is_correct": false },
+        { "option_id": 2, "text": "बचत", "is_correct": true },
+        { "option_id": 3, "text": "वाढ", "is_correct": false },
+        { "option_id": 4, "text": "गरज नसते", "is_correct": false }
+      ],
+      "answer": "बचत"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते मनोरंजनाचे जुने साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "टीव्ही", "is_correct": false },
+        { "option_id": 2, "text": "व्हिडिओ गेम", "is_correct": false },
+        { "option_id": 3, "text": "लोककला / पोवाडे", "is_correct": true },
+        { "option_id": 4, "text": "इंटरनेट", "is_correct": false }
+      ],
+      "answer": "लोककला / पोवाडे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मोबाईल फोन कोणत्या लहरींच्या सहाय्याने चालतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी लहरी", "is_correct": false },
+        { "option_id": 2, "text": "विद्युतचुंबकीय लहरी", "is_correct": true },
+        { "option_id": 3, "text": "ध्वनी लहरी (केवळ)", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश लहरी", "is_correct": false }
+      ],
+      "answer": "विद्युतचुंबकीय लहरी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांमुळे लोक एकमेकांशी कसे जोडले गेले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मानसिकरित्या", "is_correct": false },
+        { "option_id": 2, "text": "भावनिकरित्या", "is_correct": false },
+        { "option_id": 3, "text": "डिजिटल माध्यमातून", "is_correct": true },
+        { "option_id": 4, "text": "जोडले गेलेले नाहीत", "is_correct": false }
+      ],
+      "answer": "डिजिटल माध्यमातून"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "बातम्यांचे सर्वात जलद माध्यम कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मासिक", "is_correct": false },
+        { "option_id": 2, "text": "साप्ताहिक", "is_correct": false },
+        { "option_id": 3, "text": "इंटरनेट / न्यूज चॅनल", "is_correct": true },
+        { "option_id": 4, "text": "किताब", "is_correct": false }
+      ],
+      "answer": "इंटरनेट / न्यूज चॅनल"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "मोबाईलच्या बॅटरीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "विद्युत घट", "is_correct": true },
+        { "option_id": 2, "text": "विद्युत तार", "is_correct": false },
+        { "option_id": 3, "text": "बटण", "is_correct": false },
+        { "option_id": 4, "text": "बल्ब", "is_correct": false }
+      ],
+      "answer": "विद्युत घट"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "संगणकावर काम करताना काय महत्त्वाची असते?",
+      "options": [
+        { "option_id": 1, "text": "एकाग्रता", "is_correct": true },
+        { "option_id": 2, "text": "गाणी", "is_correct": false },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "गप्पा", "is_correct": false }
+      ],
+      "answer": "एकाग्रता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "इंटरनेट वापरण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "डेटा / वाय-फाय", "is_correct": true },
+        { "option_id": 2, "text": "केवळ विजेची", "is_correct": false },
+        { "option_id": 3, "text": "केवळ पाण्याची", "is_correct": false },
+        { "option_id": 4, "text": "कॅमेऱ्याची", "is_correct": false }
+      ],
+      "answer": "डेटा / वाय-फाय"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांचा चुकीचा वापर केल्याने काय होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "सायबर गुन्हे", "is_correct": true },
+        { "option_id": 2, "text": "प्रगती", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "ज्ञान वाढते", "is_correct": false }
+      ],
+      "answer": "सायबर गुन्हे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रेडिओ हे कोणत्या प्रकारचे साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "दृश्य", "is_correct": false },
+        { "option_id": 2, "text": "श्राव्य", "is_correct": true },
+        { "option_id": 3, "text": "स्पर्श", "is_correct": false },
+        { "option_id": 4, "text": "मुद्रित", "is_correct": false }
+      ],
+      "answer": "श्राव्य"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "दूरदर्शनवर दाखवले जाणारे शैक्षणिक कार्यक्रम कशासाठी असतात?",
+      "options": [
+        { "option_id": 1, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानात भर टाकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ज्ञानात भर टाकण्यासाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भ्रमणध्वनीमुळे आपण काय करू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "कुठूनही कोणाशीही बोलू शकतो", "is_correct": true },
+        { "option_id": 2, "text": "केवळ घरातून बोलू शकतो", "is_correct": false },
+        { "option_id": 3, "text": "विना बॅटरी चालतो", "is_correct": false },
+        { "option_id": 4, "text": "फक्त मेसेज पाठवू शकतो", "is_correct": false }
+      ],
+      "answer": "कुठूनही कोणाशीही बोलू शकतो"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांमुळे घरातील संवाद काय होतो?",
+      "options": [
+        { "option_id": 1, "text": "वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "कमी होतो", "is_correct": true },
+        { "option_id": 3, "text": "बदलत नाही", "is_correct": false },
+        { "option_id": 4, "text": "सुधारतो", "is_correct": false }
+      ],
+      "answer": "कमी होतो"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "उपग्रहाद्वारे माहिती कोठून कोठे पाठवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शहरात", "is_correct": false },
+        { "option_id": 2, "text": "फक्त देशात", "is_correct": false },
+        { "option_id": 3, "text": "संपूर्ण जगात", "is_correct": true },
+        { "option_id": 4, "text": "केवळ आकाशात", "is_correct": false }
+      ],
+      "answer": "संपूर्ण जगात"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मासिकांचा कालावधी कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "दररोज", "is_correct": false },
+        { "option_id": 2, "text": "महिन्यातून एकदा", "is_correct": true },
+        { "option_id": 3, "text": "वर्षातून एकदा", "is_correct": false },
+        { "option_id": 4, "text": "दर तासाला", "is_correct": false }
+      ],
+      "answer": "महिन्यातून एकदा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते सोशल मीडियाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "फेसबुक", "is_correct": false },
+        { "option_id": 2, "text": "व्हॉट्सॲप", "is_correct": false },
+        { "option_id": 3, "text": "इंस्टाग्राम", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मोबाईलचा प्रकाश डोळ्यांसाठी कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "चांगला", "is_correct": false },
+        { "option_id": 2, "text": "हानिकारक", "is_correct": true },
+        { "option_id": 3, "text": "थंड", "is_correct": false },
+        { "option_id": 4, "text": "काही फरक पडत नाही", "is_correct": false }
+      ],
+      "answer": "हानिकारक"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "व्हिडिओ कॉलिंगसाठी काय असणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त स्पीकर", "is_correct": false },
+        { "option_id": 2, "text": "फक्त माईक", "is_correct": false },
+        { "option_id": 3, "text": "कॅमेरा आणि इंटरनेट", "is_correct": true },
+        { "option_id": 4, "text": "केवळ बॅटरी", "is_correct": false }
+      ],
+      "answer": "कॅमेरा आणि इंटरनेट"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "वृत्तपत्रातून आपल्याला काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "बातम्या", "is_correct": false },
+        { "option_id": 2, "text": "लेख", "is_correct": false },
+        { "option_id": 3, "text": "जाहिराती", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "संगणकाचा मेंदू कशाला म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "माऊस", "is_correct": false },
+        { "option_id": 2, "text": "कीबोर्ड", "is_correct": false },
+        { "option_id": 3, "text": "CPU", "is_correct": true },
+        { "option_id": 4, "text": "मॉनिटर", "is_correct": false }
+      ],
+      "answer": "CPU"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शेतकऱ्यांसाठी हवामानाचा अंदाज कोणत्या माध्यमातून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "आकाशवाणी", "is_correct": false },
+        { "option_id": 2, "text": "दूरदर्शन", "is_correct": false },
+        { "option_id": 3, "text": "मोबाईल ॲप्स", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "संदेशवहनाचे सर्वात जलद साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "टपाल", "is_correct": false },
+        { "option_id": 2, "text": "तार", "is_correct": false },
+        { "option_id": 3, "text": "ई-मेल / मेसेज", "is_correct": true },
+        { "option_id": 4, "text": "पत्र", "is_correct": false }
+      ],
+      "answer": "ई-मेल / मेसेज"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शालेय प्रकल्पासाठी माहिती शोधण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "चित्रपट", "is_correct": false },
+        { "option_id": 3, "text": "इंटरनेट (शोध इंजिन)", "is_correct": true },
+        { "option_id": 4, "text": "जाहिराती", "is_correct": false }
+      ],
+      "answer": "इंटरनेट (शोध इंजिन)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "संदेशवहन म्हणजे काय?",
+      "answer": "माहितीची किंवा विचारांची देवाणघेवाण करणे म्हणजे संदेशवहन होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमे म्हणजे काय?",
+      "answer": "ज्या साधनांद्वारे एकाच वेळी अनेक लोकांशी संपर्क साधता येतो, त्यांना प्रसारमाध्यमे म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कृत्रिम उपग्रह कशाच्या मदतीने अवकाशात सोडले जातात?",
+      "answer": "कृत्रिम उपग्रह अग्निबाणाच्या (रॉकेटच्या) मदतीने अवकाशात सोडले जातात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "थेट प्रक्षेपण (Live) म्हणजे काय?",
+      "answer": "एखादी घटना घडत असतानाच ती दूरदर्शनवर प्रत्यक्ष पाहणे म्हणजे थेट प्रक्षेपण होय."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "इंटरनेटचे पूर्ण नाव काय?",
+      "answer": "इंटरनेटचे पूर्ण नाव 'आंतरजाल' असे आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "भ्रमणध्वनीचे (Mobile) दोन उपयोग लिहा.",
+      "answer": "बोलण्यासाठी आणि संदेश पाठवण्यासाठी भ्रमणध्वनीचा उपयोग होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांचे दोन फायदे सांगा.",
+      "answer": "जग जवळ येते आणि माहिती जलद गतीने मिळते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांचा एक तोटा सांगा.",
+      "answer": "त्यांच्या अतिवापरामुळे डोळ्यांचे आणि आरोग्याचे विकार होऊ शकतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दृश्य-श्राव्य साधन म्हणजे काय?",
+      "answer": "ज्या साधनाद्वारे आपण माहिती पाहू आणि ऐकू शकतो, त्याला दृश्य-श्राव्य साधन म्हणतात (उदा. टीव्ही)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "छापील प्रसारमाध्यमांची दोन उदाहरणे द्या.",
+      "answer": "वृत्तपत्रे आणि मासिके ही छापील प्रसारमाध्यमे आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जुन्या काळात संदेशवहन कसे चालायचे?",
+      "answer": "जुन्या काळात संदेशवहन सांडणीस्वार, कबूतर किंवा ढोल वाजवून केले जाई."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "आकाशवाणीवर कोणते कार्यक्रम प्रसारित होतात?",
+      "answer": "आकाशवाणीवर बातम्या, गाणी, नाटकं आणि शेतीविषयक माहिती प्रसारित होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर शिक्षणात कसा होतो?",
+      "answer": "अभ्यासाची माहिती शोधण्यासाठी आणि ऑनलाइन वर्गांसाठी संगणकाचा वापर होतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ई-मेल म्हणजे काय?",
+      "answer": "इंटरनेटद्वारे पाठवलेल्या इलेक्ट्रॉनिक पत्राला ई-मेल म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "दूरदर्शन संच कशावर चालतो?",
+      "answer": "दूरदर्शन संच विजेवर आणि केबल किंवा सॅटेलाईट कनेक्शनवर चालतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वर्तमानपत्रामुळे आपल्याला काय समजते?",
+      "answer": "वर्तमानपत्रामुळे देश-विदेशातील बातम्या, घटना आणि विविध घडामोडी समजतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "उपग्रहांचा उपयोग हवामानासाठी कसा होतो?",
+      "answer": "उपग्रह ढगांची हालचाल टिपून पावसाचा किंवा वादळाचा अंदाज देतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मनोरंजनासाठी कोणती प्रसारमाध्यमे वापरतात?",
+      "answer": "टीव्ही, रेडिओ, सिनेमा आणि मोबाईल ही मनोरंजनासाठी वापरली जातात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हे म्हणजे काय?",
+      "answer": "इंटरनेट किंवा संगणकाचा वापर करून केलेल्या बेकायदेशीर कृत्यांना सायबर गुन्हे म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "टपाल खात्याचे काम काय असते?",
+      "answer": "पत्रे, पाकिटे आणि पार्सल एका ठिकाणाहून दुसऱ्या ठिकाणी पोहोचवणे हे टपाल खात्याचे काम आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "जनसंपर्क म्हणजे काय?",
+      "answer": "एकाच वेळी अनेक लोकांशी संपर्क साधण्याच्या क्रियेला जनसंपर्क म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "भ्रमणध्वनीचे व्यसन म्हणजे काय?",
+      "answer": "सतत मोबाईलच्या आहारी जाणे आणि त्याशिवाय राहू न शकणे याला मोबाईलचे व्यसन म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉलिंगचा फायदा काय?",
+      "answer": "व्हिडिओ कॉलिंगमुळे आपण एकमेकांना पाहून संवाद साधू शकतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "जाहिरातींचे उद्दिष्ट काय असते?",
+      "answer": "एखाद्या वस्तूची किंवा सेवेची माहिती लोकांपर्यंत पोहोचवून विक्री वाढवणे हे जाहिरातींचे उद्दिष्ट असते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "माहिती तंत्रज्ञान म्हणजे काय?",
+      "answer": "माहिती मिळवणे, साठवणे आणि ती पाठवणे यासाठी वापरल्या जाणाऱ्या तंत्राला माहिती तंत्रज्ञान म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रेडिओला 'श्राव्य' साधन का म्हणतात?",
+      "answer": "कारण रेडिओवरून मिळणारी माहिती आपण फक्त ऐकू शकतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "संगणकात 'डेटा' म्हणजे काय?",
+      "answer": "संगणकात साठवलेली कोणतीही माहिती, आकडेवारी किंवा चित्रे म्हणजे डेटा होय."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "INSAT चे पूर्ण रूप काय?",
+      "answer": "Indian National Satellite (भारतीय राष्ट्रीय उपग्रह) हे INSAT चे पूर्ण रूप आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांमुळे घरातील संवाद का कमी होतो?",
+      "answer": "प्रत्येक व्यक्ती स्वतःच्या मोबाईल किंवा टीव्हीमध्ये व्यस्त राहिल्यामुळे घरातील संवाद कमी होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "सोशल मीडियाचे दोन प्रकार सांगा.",
+      "answer": "फेसबुक आणि व्हॉट्सॲप ही सोशल मीडियाची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "उपग्रहाद्वारे दूरध्वनी संपर्क कसा होतो?",
+      "answer": "आपला आवाज लहरींच्या स्वरूपात उपग्रहाकडे जातो आणि उपग्रह तो दुसऱ्या व्यक्तीपर्यंत पोहोचवतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "ग्रंथालये हे संदेशवहनाचे साधन कसे आहेत?",
+      "answer": "पुस्तकांमधून आपल्याला जुनी आणि नवीन माहिती मिळते, म्हणून ग्रंथालये माहितीचे स्रोत आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांचा वापर करताना कोणती काळजी घ्यावी?",
+      "answer": "प्रसारमाध्यमांचा वापर ठराविक वेळेपुरताच करावा आणि चुकीची माहिती पसरवू नये."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे काय?",
+      "answer": "इंटरनेटचा वापर करून वस्तूंची खरेदी-विक्री करणे म्हणजे ई-कॉमर्स होय."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "स्मार्टफोन म्हणजे काय?",
+      "answer": "ज्या मोबाईलमध्ये इंटरनेट आणि प्रगत संगणकीय कामे करण्याची सोय असते, त्याला स्मार्टफोन म्हणतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शाळांमध्ये संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "प्रगत शिक्षण देण्यासाठी आणि शालेय नोंदी ठेवण्यासाठी संगणकाचा उपयोग होतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चित्रपट हे मनोरंजनाचे साधन कसे आहे?",
+      "answer": "कथा, अभिनय आणि संगीताच्या माध्यमातून चित्रपट लोकांचे मनोरंजन करतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "बातम्यांचे चॅनेल्स आपल्याला काय माहिती देतात?",
+      "answer": "जगभरातील ताज्या घडामोडी आणि राजकीय, सामाजिक माहिती चॅनेल्स देतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "इंटरनेट सर्च इंजिन म्हणजे काय?",
+      "answer": "कोणतीही माहिती शोधण्यासाठी मदत करणाऱ्या वेबसाइटला सर्च इंजिन म्हणतात (उदा. गूगल)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांमुळे शिक्षणाचा प्रसार कसा होतो?",
+      "answer": "टीव्ही आणि इंटरनेटमुळे दुर्गम भागातील मुलांनाही तज्ज्ञ शिक्षकांचे मार्गदर्शन मिळते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "टपाल तिकीट कशासाठी असते?",
+      "answer": "पत्राच्या वाहतुकीचे शुल्क भरल्याचा पुरावा म्हणून टपाल तिकीट वापरले जाते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मोबाईलचा अतिवापर केल्याने निद्रानाश का होतो?",
+      "answer": "मोबाईलच्या स्क्रीनमधील निळ्या प्रकाशामुळे झोपेच्या चक्रावर परिणाम होतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सांकेतिक संदेश म्हणजे काय?",
+      "answer": "विशिष्ट खुणा किंवा आवाजाचा वापर करून दिलेला संदेश म्हणजे सांकेतिक संदेश होय."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "वेबसाइट म्हणजे काय?",
+      "answer": "इंटरनेटवरील माहितीचा असा संग्रह जो एका विशिष्ट पत्त्यावर उपलब्ध असतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांचा पर्यावरणासाठी काय फायदा आहे?",
+      "answer": "पर्यावरण जनजागृतीच्या मोहिमा प्रसारमाध्यमांमुळे लोकांपर्यंत पोहोचतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन बँकिंग म्हणजे काय?",
+      "answer": "इंटरनेटचा वापर करून बँकेचे व्यवहार करणे म्हणजे ऑनलाईन बँकिंग होय."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "व्हॉट्सॲपचे प्रमुख काम काय आहे?",
+      "answer": "झटपट संदेश, फोटो आणि व्हिडिओ पाठवण्यासाठी व्हॉट्सॲप वापरले जाते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "रेडिओ लहरी कोठून प्रसारित होतात?",
+      "answer": "रेडिओ लहरी आकाशवाणी केंद्रावरून प्रसारित केल्या जातात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "माहितीच्या विस्फोटाचा अर्थ काय?",
+      "answer": "खूप मोठ्या प्रमाणात आणि जलद गतीने माहिती उपलब्ध होणे म्हणजे माहितीचा विस्फोट होय."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "भविष्यात संदेशवहन कसे असेल?",
+      "answer": "भविष्यात संदेशवहन अधिक प्रगत, जलद आणि तंत्रज्ञानावर आधारित असेल."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "उपग्रह माहिती कशी गोळा करतात?",
+      "answer": "उपग्रह कॅमेरे आणि सेन्सर्सच्या मदतीने पृथ्वीचे फोटो घेऊन माहिती गोळा करतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "टेलिव्हिजनवर चित्र कसे दिसते?",
+      "answer": "उपग्रहाकडून आलेल्या लहरींचे रूपांतर संचामध्ये चित्रात केले जाते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "मोबाईल मधील सिम कार्डचे काम काय असते?",
+      "answer": "सिम कार्ड ग्राहकाची ओळख आणि नेटवर्क कनेक्टिव्हिटी प्रदान करते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "इंटरनेटमुळे अंतर कसे कमी झाले आहे?",
+      "answer": "कारण जगातील कोणत्याही कोपऱ्यातील व्यक्तीशी आपण क्षणात बोलू शकतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "संदेशवहनामुळे आपत्ती व्यवस्थापन सोपे का होते?",
+      "answer": "कारण मदतीचा संदेश आणि धोक्याची सूचना त्वरित सर्वत्र पसरवता येते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांचा व्यापार कसा होतो?",
+      "answer": "जाहिरातींच्या माध्यमातून प्रसारमाध्यमे उत्पन्न मिळवतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "ई-पेपर म्हणजे काय?",
+      "answer": "वृत्तपत्राची डिजिटल प्रत जी इंटरनेटवर वाचता येते, तिला ई-पेपर म्हणतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "आकाशवाणीवर भाषणे का दिली जातात?",
+      "answer": "महत्त्वाचे विचार आणि धोरणे जनतेपर्यंत पोहोचवण्यासाठी भाषणे दिली जातात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "मोबाईलचा गेमिंगसाठी अतिवापर करण्याचे धोके काय?",
+      "answer": "यामुळे चिडचिडेपणा वाढतो आणि अभ्यासावर दुर्लक्ष होते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "माहिती अधिकार म्हणजे काय?",
+      "answer": "शासकीय कामकाजाची माहिती मिळवण्याचा नागरिकांचा हक्क म्हणजे माहिती अधिकार होय."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "संदेशवहनातील 'गोपनीयता' म्हणजे काय?",
+      "answer": "आपला संदेश फक्त योग्य व्यक्तीलाच मिळणे आणि इतरांना तो न समजणे म्हणजे गोपनीयता."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "इंटरनेट सुरक्षितता म्हणजे काय?",
+      "answer": "इंटरनेट वापरताना स्वतःची वैयक्तिक माहिती सुरक्षित ठेवणे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "जीपीएस (GPS) म्हणजे काय?",
+      "answer": "उपग्रहाच्या मदतीने एखाद्या ठिकाणचे अचूक स्थान शोधण्याची प्रणाली म्हणजे जीपीएस."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "वृत्तपत्र वाचण्याचे महत्त्व सांगा.",
+      "answer": "वृत्तपत्र वाचल्यामुळे भाषेचे ज्ञान वाढते आणि चालू घडामोडी समजतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांमुळे लोकशाही कशी मजबूत होते?",
+      "answer": "लोकांपर्यंत खरी माहिती पोहोचवून प्रसारमाध्यमे लोकशाहीला बळकट करतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "चित्रपटांचे समाजावर होणारे परिणाम सांगा.",
+      "answer": "चित्रपट समाजातील प्रश्न मांडतात आणि लोकांच्या विचारांवर प्रभाव पाडतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "भ्रमणध्वनीवर मेसेज टाइप करण्यासाठी काय वापरतात?",
+      "answer": "भ्रमणध्वनीवर मेसेज टाइप करण्यासाठी व्हर्च्युअल कीबोर्ड वापरतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "ई-लर्निंग म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनिक माध्यमांचा वापर करून केलेले शिक्षण म्हणजे ई-लर्निंग."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "रेडिओ स्टेशन म्हणजे काय?",
+      "answer": "जिथून रेडिओ कार्यक्रम तयार करून प्रसारित केले जातात ते केंद्र."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "संगणक व्हायरस म्हणजे काय?",
+      "answer": "संगणकाची माहिती नष्ट करणारा किंवा कामात अडथळा आणणारा घातक प्रोग्राम."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "मासिकाचे वैशिष्ट्य काय असते?",
+      "answer": "मासिकात एकाच विषयावर सविस्तर लेख आणि माहिती असते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "मोबाईल चार्जरचे काम काय?",
+      "answer": "विद्युत ऊर्जेचा वापर करून मोबाईलची बॅटरी पुन्हा भरण्याचे काम चार्जर करतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "इंटरनेट बँकिंगसाठी काय आवश्यक आहे?",
+      "answer": "बँक खाते, इंटरनेट आणि पासवर्ड आवश्यक असतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांमुळे संस्कृतीची देवाणघेवाण कशी होते?",
+      "answer": "विविध देशांचे सण, कला आणि जीवनशैली प्रसारमाध्यमांमुळे सर्वांना समजते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "आपली माहिती उपग्रहापर्यंत कशी पोहोचते?",
+      "answer": "मोठ्या टॉवर्सच्या अँटेनामधून लहरींद्वारे माहिती उपग्रहाकडे जाते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "रेडिओचा शोध कोणी लावला?",
+      "answer": "मार्कोनी यांनी रेडिओचा शोध लावला."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "मोबाईलला 'स्मार्ट' का म्हणतात?",
+      "answer": "कारण तो एकाच वेळी अनेक कामे (कॅमेरा, घड्याळ, बँक, कॉम्प्युटर) करू शकतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "वृत्तपत्राचा संपादक काय करतो?",
+      "answer": "बातम्यांची निवड करणे आणि त्या प्रसिद्ध करणे हे संपादकाचे काम असते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "डिजिटल साक्षरता म्हणजे काय?",
+      "answer": "डिजिटल साधने आणि इंटरनेट वापरण्याचे ज्ञान असणे म्हणजे डिजिटल साक्षरता."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "ब्लॉग म्हणजे काय?",
+      "answer": "इंटरनेटवर स्वतःचे विचार किंवा माहिती व्यक्त करण्याचे एक व्यासपीठ."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "संदेशवहनातील अडथळा म्हणजे काय?",
+      "answer": "नेटवर्क नसणे किंवा तांत्रिक बिघाडामुळे संदेश न पोहोचणे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "उपग्रह पृथ्वीभोवती कसे फिरतात?",
+      "answer": "पृथ्वीच्या गुरुत्वाकर्षणामुळे उपग्रह एका विशिष्ट कक्षेत फिरतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "मोबाईल फोनची स्क्रीन कशाची बनलेली असते?",
+      "answer": "मोबाईल फोनची स्क्रीन काच आणि विशेष संवेदनशील थरांची बनलेली असते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "वायफाय (Wi-Fi) म्हणजे काय?",
+      "answer": "विना वायर इंटरनेट वापरण्याची एक तंत्रज्ञान पद्धत."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "वृत्तपत्रांचे वितरण कसे होते?",
+      "answer": "वृत्तपत्र विक्रेत्यांमार्फत घरोघरी वृत्तपत्रे पोहोचवली जातात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "आकाशवाणीवर 'वेळ' कशी सांगितली जाते?",
+      "answer": "विशिष्ट आवाजाच्या संकेताने (Beep) वेळ सांगितली जाते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ शेअरिंग साइटचे नाव सांगा.",
+      "answer": "यूट्यूब (YouTube) हे व्हिडिओ शेअरिंगचे मोठे माध्यम आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "टपाल खात्याचा पिन कोड (PIN) कशासाठी असतो?",
+      "answer": "विशिष्ट भाग किंवा पत्ता सहज ओळखण्यासाठी पिन कोड असतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "मोबाईल वापरताना हेडफोनचा वापर का करावा?",
+      "answer": "कानाला होणारा आवाज कमी करण्यासाठी आणि स्पष्ट ऐकण्यासाठी."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "उपग्रहाचा एक खगोलशास्त्रीय उपयोग सांगा.",
+      "answer": "ताऱ्यांचे आणि ग्रहांचे निरीक्षण करण्यासाठी उपग्रह वापरतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांमुळे जाहिरातींचा प्रभाव कसा पडतो?",
+      "answer": "लोकांच्या आवडीनिवडी आणि खरेदी करण्याच्या पद्धती जाहिरातींमुळे बदलतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "ई-पुस्तके (e-books) म्हणजे काय?",
+      "answer": "संगणक किंवा मोबाईलवर वाचता येणारी पुस्तके."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "संगणकाचा पासवर्ड का ठेवावा?",
+      "answer": "आपल्या माहितीच्या सुरक्षेसाठी आणि गोपनीयतेसाठी पासवर्ड ठेवावा."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "दूरदर्शनवरील विज्ञापनांचा उद्देश काय?",
+      "answer": "वस्तूची विक्री वाढवणे आणि नवीन उत्पादनांची माहिती देणे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंग म्हणजे काय?",
+      "answer": "एकाच वेळी अनेक लोक वेगवेगळ्या ठिकाणांहून व्हिडिओद्वारे मीटिंग करणे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "इंटरनेटवर माहिती कशी शोधायची?",
+      "answer": "ब्राउझरमध्ये जाऊन शोध इंजिनवर शब्द टाइप करून माहिती शोधता येते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "प्रसारमाध्यमांची विश्वासार्हता म्हणजे काय?",
+      "answer": "दिलेली माहिती किती खरी आणि अचूक आहे याला विश्वासार्हता म्हणतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "स्मार्ट वॉच कशासाठी वापरतात?",
+      "answer": "वेळेसोबतच फिटनेस आणि मेसेज पाहण्यासाठी स्मार्ट वॉच वापरतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "संदेशवहनाचे भविष्य काय आहे?",
+      "answer": "कृत्रिम बुद्धिमत्ता (AI) आणि अधिक प्रगत उपकरणे हे संदेशवहनाचे भविष्य आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "संदेशवहन व प्रसारमाध्यमांचा सारांश काय?",
+      "answer": "ही साधने प्रगतीसाठी उपयुक्त आहेत पण त्यांचा वापर समजुतीने करणे आवश्यक आहे."
+    }
+  ]
+}

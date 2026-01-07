@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 10,
+  "chapter_name": "ओळख भारताची",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारताच्या दक्षिणेला कोणता महासागर आहे?",
+      "options": [
+        { "option_id": 1, "text": "अरबी समुद्र", "is_correct": false },
+        { "option_id": 2, "text": "बंगालचा उपसागर", "is_correct": false },
+        { "option_id": 3, "text": "हिंदी महासागर", "is_correct": true },
+        { "option_id": 4, "text": "पॅसिफिक महासागर", "is_correct": false }
+      ],
+      "answer": "हिंदी महासागर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारताच्या पश्चिमेला कोणता समुद्र आहे?",
+      "options": [
+        { "option_id": 1, "text": "अरबी समुद्र", "is_correct": true },
+        { "option_id": 2, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_id": 3, "text": "तांबडा समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "बंगालचा उपसागर", "is_correct": false }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भारताची राजधानी कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "नवी दिल्ली", "is_correct": true },
+        { "option_id": 3, "text": "कोलकाता", "is_correct": false },
+        { "option_id": 4, "text": "चेन्नई", "is_correct": false }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "क्षेत्रफळाच्या दृष्टीने भारतातील सर्वात मोठे राज्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर प्रदेश", "is_correct": false },
+        { "option_id": 3, "text": "राजस्थान", "is_correct": true },
+        { "option_id": 4, "text": "मध्य प्रदेश", "is_correct": false }
+      ],
+      "answer": "राजस्थान"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "क्षेत्रफळाच्या दृष्टीने भारतातील सर्वात लहान राज्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "सिक्कीम", "is_correct": false },
+        { "option_id": 2, "text": "गोवा", "is_correct": true },
+        { "option_id": 3, "text": "केरळ", "is_correct": false },
+        { "option_id": 4, "text": "त्रिपुरा", "is_correct": false }
+      ],
+      "answer": "गोवा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारताच्या उत्तरेला कोणती पर्वत रांग आहे?",
+      "options": [
+        { "option_id": 1, "text": "सह्याद्री", "is_correct": false },
+        { "option_id": 2, "text": "सातपुडा", "is_correct": false },
+        { "option_id": 3, "text": "हिमालय", "is_correct": true },
+        { "option_id": 4, "text": "अरवली", "is_correct": false }
+      ],
+      "answer": "हिमालय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारतातील सर्वात लांब नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "यमुना", "is_correct": false },
+        { "option_id": 2, "text": "गोदावरी", "is_correct": false },
+        { "option_id": 3, "text": "गंगा", "is_correct": true },
+        { "option_id": 4, "text": "नर्मदा", "is_correct": false }
+      ],
+      "answer": "गंगा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अरबी समुद्रातील भारतीय बेटांचा समूह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "अंदमान", "is_correct": false },
+        { "option_id": 2, "text": "निकोबार", "is_correct": false },
+        { "option_id": 3, "text": "लक्षद्वीप", "is_correct": true },
+        { "option_id": 4, "text": "श्रीलंका", "is_correct": false }
+      ],
+      "answer": "लक्षद्वीप"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बंगालच्या उपसागरातील भारतीय बेटांचा समूह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "लक्षद्वीप", "is_correct": false },
+        { "option_id": 2, "text": "अंदमान आणि निकोबार", "is_correct": true },
+        { "option_id": 3, "text": "मालदीव", "is_correct": false },
+        { "option_id": 4, "text": "माजुली", "is_correct": false }
+      ],
+      "answer": "अंदमान आणि निकोबार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "थारचे वाळवंट भारताच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 3, "text": "वायव्य", "is_correct": true },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "वायव्य"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वात उंच पर्वत शिखर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "कळसूबाई", "is_correct": false },
+        { "option_id": 2, "text": "माउंट एव्हरेस्ट", "is_correct": true },
+        { "option_id": 3, "text": "कांचनगंगा", "is_correct": false },
+        { "option_id": 4, "text": "नंदादेवी", "is_correct": false }
+      ],
+      "answer": "माउंट एव्हरेस्ट"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भारताच्या मध्यातून जाणारे महत्त्वाचे वृत्त कोणते?",
+      "options": [
+        { "option_id": 1, "text": "विषुववृत्त", "is_correct": false },
+        { "option_id": 2, "text": "मकरवृत्त", "is_correct": false },
+        { "option_id": 3, "text": "कर्कवृत्त", "is_correct": true },
+        { "option_id": 4, "text": "ध्रुववृत्त", "is_correct": false }
+      ],
+      "answer": "कर्कवृत्त"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारताला कोणत्या पिकाचे कोठार म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "फळांचे", "is_correct": false },
+        { "option_id": 2, "text": "तृणधान्यांचे", "is_correct": true },
+        { "option_id": 3, "text": "मसाल्याचे", "is_correct": false },
+        { "option_id": 4, "text": "भाजीपाल्याचे", "is_correct": false }
+      ],
+      "answer": "तृणधान्यांचे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "काश्मीर हे कोणत्या उत्पादनासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद आणि केशर", "is_correct": true },
+        { "option_id": 2, "text": "हापूस आंबा", "is_correct": false },
+        { "option_id": 3, "text": "संत्री", "is_correct": false },
+        { "option_id": 4, "text": "द्राक्षे", "is_correct": false }
+      ],
+      "answer": "सफरचंद आणि केशर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "नागपूर कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "आंबा", "is_correct": false },
+        { "option_id": 2, "text": "केळी", "is_correct": false },
+        { "option_id": 3, "text": "संत्री", "is_correct": true },
+        { "option_id": 4, "text": "नारळ", "is_correct": false }
+      ],
+      "answer": "संत्री"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "जळगाव जिल्हा कोणत्या फळासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "द्राक्षे", "is_correct": false },
+        { "option_id": 2, "text": "केळी", "is_correct": true },
+        { "option_id": 3, "text": "चिकू", "is_correct": false },
+        { "option_id": 4, "text": "पेरू", "is_correct": false }
+      ],
+      "answer": "केळी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भारतात प्रामुख्याने कोणती शेती केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "यांत्रिक", "is_correct": false },
+        { "option_id": 2, "text": "जिरायती आणि बागायती", "is_correct": true },
+        { "option_id": 3, "text": "फक्त फळशेती", "is_correct": false },
+        { "option_id": 4, "text": "केवळ कोरडवाहू", "is_correct": false }
+      ],
+      "answer": "जिरायती आणि बागायती"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भारताचा राष्ट्रीय प्राणी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "सिंह", "is_correct": false },
+        { "option_id": 2, "text": "वाघ", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "बिबट्या", "is_correct": false }
+      ],
+      "answer": "वाघ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारताचा राष्ट्रीय पक्षी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पोपट", "is_correct": false },
+        { "option_id": 2, "text": "चिमणी", "is_correct": false },
+        { "option_id": 3, "text": "मोर", "is_correct": true },
+        { "option_id": 4, "text": "गरूड", "is_correct": false }
+      ],
+      "answer": "मोर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भारतातील सर्वोच्च शिखर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "कांचनगंगा", "is_correct": false },
+        { "option_id": 2, "text": "गॉडविन ऑस्टिन (K2)", "is_correct": true },
+        { "option_id": 3, "text": "अण्णामुडी", "is_correct": false },
+        { "option_id": 4, "text": "नंदादेवी", "is_correct": false }
+      ],
+      "answer": "गॉडविन ऑस्टिन (K2)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "चहाचे उत्पादन सर्वात जास्त कोणत्या राज्यात होते?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "आसाम", "is_correct": true },
+        { "option_id": 3, "text": "पंजाब", "is_correct": false },
+        { "option_id": 4, "text": "गुजरात", "is_correct": false }
+      ],
+      "answer": "आसाम"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कॉफीचे उत्पादन कोणत्या भागात जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर भारत", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण भारत", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व भारत", "is_correct": false },
+        { "option_id": 4, "text": "मध्य भारत", "is_correct": false }
+      ],
+      "answer": "दक्षिण भारत"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भारताचे दक्षिण टोक कोणत्या नावाने ओळखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कन्याकुमारी", "is_correct": false },
+        { "option_id": 2, "text": "इंदिरा पॉइंट", "is_correct": true },
+        { "option_id": 3, "text": "रामेश्वरम", "is_correct": false },
+        { "option_id": 4, "text": "तिरुवनंतपुरम", "is_correct": false }
+      ],
+      "answer": "इंदिरा पॉइंट"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नर्मदा नदी कोणत्या समुद्राला जाऊन मिळते?",
+      "options": [
+        { "option_id": 1, "text": "बंगालचा उपसागर", "is_correct": false },
+        { "option_id": 2, "text": "अरबी समुद्र", "is_correct": true },
+        { "option_id": 3, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_id": 4, "text": "पॅसिफिक महासागर", "is_correct": false }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भारताच्या पूर्वेला कोणता देश आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाकिस्तान", "is_correct": false },
+        { "option_id": 2, "text": "बांगलादेश", "is_correct": true },
+        { "option_id": 3, "text": "अफगाणिस्तान", "is_correct": false },
+        { "option_id": 4, "text": "श्रीलंका", "is_correct": false }
+      ],
+      "answer": "बांगलादेश"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मसाल्याच्या पदार्थांसाठी कोणते राज्य प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "पंजाब", "is_correct": false },
+        { "option_id": 2, "text": "हरियाणा", "is_correct": false },
+        { "option_id": 3, "text": "केरळ", "is_correct": true },
+        { "option_id": 4, "text": "बिहार", "is_correct": false }
+      ],
+      "answer": "केरळ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारतात सर्वाधिक पाऊस पडणारे ठिकाण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "चेरापुंजी", "is_correct": false },
+        { "option_id": 2, "text": "मौनसिनराम", "is_correct": true },
+        { "option_id": 3, "text": "महाबळेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "अंबोली", "is_correct": false }
+      ],
+      "answer": "मौनसिनराम"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "गंगा नदीचा उगम कोठे होतो?",
+      "options": [
+        { "option_id": 1, "text": "त्र्यंबकेश्वर", "is_correct": false },
+        { "option_id": 2, "text": "गंगोत्री", "is_correct": true },
+        { "option_id": 3, "text": "यमुनोत्री", "is_correct": false },
+        { "option_id": 4, "text": "महाबळेश्वर", "is_correct": false }
+      ],
+      "answer": "गंगोत्री"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भारतीय उपखंडातील सर्वात जुनी पर्वतरांग कोणती?",
+      "options": [
+        { "option_id": 1, "text": "हिमालय", "is_correct": false },
+        { "option_id": 2, "text": "अरवली", "is_correct": true },
+        { "option_id": 3, "text": "विंध्य", "is_correct": false },
+        { "option_id": 4, "text": "सातपुडा", "is_correct": false }
+      ],
+      "answer": "अरवली"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "अरबी समुद्रात मिळणारी नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "तापी", "is_correct": true },
+        { "option_id": 2, "text": "कृष्णा", "is_correct": false },
+        { "option_id": 3, "text": "कावेरी", "is_correct": false },
+        { "option_id": 4, "text": "महानदी", "is_correct": false }
+      ],
+      "answer": "तापी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याची राजधानी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "नागपूर", "is_correct": false },
+        { "option_id": 3, "text": "मुंबई", "is_correct": true },
+        { "option_id": 4, "text": "छत्रपती संभाजीनगर", "is_correct": false }
+      ],
+      "answer": "मुंबई"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "दक्षिण भारतातील सर्वात मोठी नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "कृष्णा", "is_correct": false },
+        { "option_id": 2, "text": "कावेरी", "is_correct": false },
+        { "option_id": 3, "text": "गोदावरी", "is_correct": true },
+        { "option_id": 4, "text": "पेनार", "is_correct": false }
+      ],
+      "answer": "गोदावरी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "नकाशात पर्वत दाखवण्यासाठी कोणता रंग वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "हिरवा", "is_correct": false },
+        { "option_id": 3, "text": "तपकिरी", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "तपकिरी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नकाशात पाणी दाखवण्यासाठी कोणता रंग वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": true },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "पांढरा", "is_correct": false },
+        { "option_id": 4, "text": "काळा", "is_correct": false }
+      ],
+      "answer": "निळा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारत हा देश कोणत्या खंडात आहे?",
+      "options": [
+        { "option_id": 1, "text": "आफ्रिका", "is_correct": false },
+        { "option_id": 2, "text": "युरोप", "is_correct": false },
+        { "option_id": 3, "text": "आशिया", "is_correct": true },
+        { "option_id": 4, "text": "अमेरिका", "is_correct": false }
+      ],
+      "answer": "आशिया"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भारताच्या पश्चिमेला कोणता देश आहे?",
+      "options": [
+        { "option_id": 1, "text": "चीन", "is_correct": false },
+        { "option_id": 2, "text": "नेपाळ", "is_correct": false },
+        { "option_id": 3, "text": "पाकिस्तान", "is_correct": true },
+        { "option_id": 4, "text": "म्यानमार", "is_correct": false }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भारताच्या दक्षिण दिशेला कोणता देश आहे?",
+      "options": [
+        { "option_id": 1, "text": "भूटान", "is_correct": false },
+        { "option_id": 2, "text": "श्रीलंका", "is_correct": true },
+        { "option_id": 3, "text": "अफगाणिस्तान", "is_correct": false },
+        { "option_id": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "श्रीलंका"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नकाशात खालची दिशा कोणती असते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "गहू उत्पादनात अग्रेसर राज्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "केरळ", "is_correct": false },
+        { "option_id": 2, "text": "पंजाब", "is_correct": true },
+        { "option_id": 3, "text": "ओरिसा", "is_correct": false },
+        { "option_id": 4, "text": "तामिळनाडू", "is_correct": false }
+      ],
+      "answer": "पंजाब"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती नदी दक्षिण वाहिनी आहे?",
+      "options": [
+        { "option_id": 1, "text": "गंगा", "is_correct": false },
+        { "option_id": 2, "text": "यमुना", "is_correct": false },
+        { "option_id": 3, "text": "वैनगंगा", "is_correct": true },
+        { "option_id": 4, "text": "नर्मदा", "is_correct": false }
+      ],
+      "answer": "वैनगंगा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "भारतात कोणती लोकशाही आहे?",
+      "options": [
+        { "option_id": 1, "text": "अप्रत्यक्ष", "is_correct": false },
+        { "option_id": 2, "text": "संसदीय", "is_correct": true },
+        { "option_id": 3, "text": "अध्यक्षीय", "is_correct": false },
+        { "option_id": 4, "text": "हुकूमशाही", "is_correct": false }
+      ],
+      "answer": "संसदीय"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "नारळ आणि सुपारीची झाडे जास्त कोठे आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "हिमालय पर्वतात", "is_correct": false },
+        { "option_id": 3, "text": "किनारपट्टीच्या भागात", "is_correct": true },
+        { "option_id": 4, "text": "माळावर", "is_correct": false }
+      ],
+      "answer": "किनारपट्टीच्या भागात"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "मराठी भाषा कोणत्या राज्याची मुख्य भाषा आहे?",
+      "options": [
+        { "option_id": 1, "text": "गुजरात", "is_correct": false },
+        { "option_id": 2, "text": "गोवा", "is_correct": false },
+        { "option_id": 3, "text": "महाराष्ट्र", "is_correct": true },
+        { "option_id": 4, "text": "कर्नाटक", "is_correct": false }
+      ],
+      "answer": "महाराष्ट्र"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "भारतातील वाळवंटी भागाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सह्याद्री", "is_correct": false },
+        { "option_id": 2, "text": "थारचे वाळवंट", "is_correct": true },
+        { "option_id": 3, "text": "गोबी", "is_correct": false },
+        { "option_id": 4, "text": "सहारा", "is_correct": false }
+      ],
+      "answer": "थारचे वाळवंट"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "नकाशात सूचीचे महत्त्व काय असते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा वाचण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "रंग भरण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "दिशा दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा सुंदर करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशा वाचण्यासाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "भारताच्या उत्तर सीमेवर कोणता देश आहे?",
+      "options": [
+        { "option_id": 1, "text": "चीन", "is_correct": true },
+        { "option_id": 2, "text": "श्रीलंका", "is_correct": false },
+        { "option_id": 3, "text": "मालदीव", "is_correct": false },
+        { "option_id": 4, "text": "इंडोनेशिया", "is_correct": false }
+      ],
+      "answer": "चीन"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "भारतात भात शेती प्रामुख्याने कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "कमी पावसाच्या प्रदेशात", "is_correct": false },
+        { "option_id": 2, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 3, "text": "जास्त पावसाच्या प्रदेशात", "is_correct": true },
+        { "option_id": 4, "text": "हिमालय पर्वतावर", "is_correct": false }
+      ],
+      "answer": "जास्त पावसाच्या प्रदेशात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भारताच्या मध्यभागी असलेले शहर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "दिल्ली", "is_correct": false },
+        { "option_id": 2, "text": "भोपाळ", "is_correct": false },
+        { "option_id": 3, "text": "नागपूर", "is_correct": true },
+        { "option_id": 4, "text": "पाटणा", "is_correct": false }
+      ],
+      "answer": "नागपूर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "बंगालच्या उपसागराला मिळणारी नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "तापी", "is_correct": false },
+        { "option_id": 2, "text": "नर्मदा", "is_correct": false },
+        { "option_id": 3, "text": "कृष्णा", "is_correct": true },
+        { "option_id": 4, "text": "माही", "is_correct": false }
+      ],
+      "answer": "कृष्णा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारताचे क्षेत्रफळ जगात कितव्या क्रमांकावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्या", "is_correct": false },
+        { "option_id": 2, "text": "पाचव्या", "is_correct": false },
+        { "option_id": 3, "text": "सातव्या", "is_correct": true },
+        { "option_id": 4, "text": "दहाव्या", "is_correct": false }
+      ],
+      "answer": "सातव्या"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भारताच्या चार मुख्य दिशांना काय आहे?",
+      "answer": "भारताच्या उत्तरेला हिमालय, दक्षिणेला हिंदी महासागर, पूर्वेला बंगालचा उपसागर आणि पश्चिमेला अरबी समुद्र आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भारताची लांबी (उत्तर-दक्षिण) किती आहे?",
+      "answer": "भारताची उत्तर-दक्षिण लांबी सुमारे ३,२१४ किमी आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भारताची रुंदी (पूर्व-पश्चिम) किती आहे?",
+      "answer": "भारताची पूर्व-पश्चिम रुंदी सुमारे २,९३३ किमी आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भारतीय द्वीपकल्प म्हणजे काय?",
+      "answer": "ज्या जमिनीच्या तीन बाजूंना पाणी आणि एका बाजूला जमीन असते, त्याला द्वीपकल्प म्हणतात. भारताच्या दक्षिण भागाला द्वीपकल्प म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारतात किती राज्ये आणि केंद्रशासित प्रदेश आहेत?",
+      "answer": "भारतात २८ राज्ये आणि ८ केंद्रशासित प्रदेश आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हिमालय पर्वतातून उगम पावणाऱ्या दोन नद्यांची नावे लिहा.",
+      "answer": "गंगा आणि सिंधू या हिमालय पर्वतातून उगम पावणाऱ्या नद्या आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भारतातील दोन वाळवंटी राज्यांची नावे सांगा.",
+      "answer": "राजस्थान आणि गुजरात (कच्छचा काही भाग) ही वाळवंटी प्रदेशाची राज्ये आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारताच्या ईशान्येकडील 'सात बहिणी' (Seven Sisters) पैकी कोणत्याही दोन राज्यांची नावे लिहा.",
+      "answer": "आसाम आणि मेघालय ही ईशान्येकडील राज्यांची नावे आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भारतातील सर्वात उंच शिखर कोणते व त्याची उंची किती?",
+      "answer": "भारतातील सर्वात उंच शिखर के-२ (गॉडविन ऑस्टिन) असून त्याची उंची ८,६११ मीटर आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भारताचा राष्ट्रीय खेळ कोणता?",
+      "answer": "भारताचा राष्ट्रीय खेळ हॉकी आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भारताच्या शेजारील पश्चिमेकडील राष्ट्राचे नाव काय?",
+      "answer": "पाकिस्तान हे भारताच्या पश्चिमेकडील शेजारी राष्ट्र आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अरबी समुद्रात कोणते बेट आहे?",
+      "answer": "लक्षद्वीप ही बेटे अरबी समुद्रात आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "बंगालच्या उपसागरात कोणती बेटे आहेत?",
+      "answer": "अंदमान आणि निकोबार ही बेटे बंगालच्या उपसागरात आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भारतातील मुख्य खाद्यान्न पिके कोणती?",
+      "answer": "तांदूळ (भात), गहू आणि ज्वारी ही भारतातील मुख्य खाद्यान्न पिके आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "गंगा नदीचा उगम कोठे होतो?",
+      "answer": "गंगा नदीचा उगम हिमालयातील गंगोत्री येथे होतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भारतातील सर्वात मोठे राज्य क्षेत्रफळानुसार सांगा.",
+      "answer": "राजस्थान हे क्षेत्रफळाने भारतातील सर्वात मोठे राज्य आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राच्या शेजारील दक्षिणेकडील राज्य कोणते?",
+      "answer": "कर्नाटक हे महाराष्ट्राच्या शेजारील दक्षिणेकडील राज्य आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नकाशात दिशा कशाने दर्शवतात?",
+      "answer": "नकाशात दिशा बाणाने (उत्तर दिशा दर्शवून) दर्शवतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भारतातील वाळवंटाला काय म्हणतात?",
+      "answer": "भारतातील वाळवंटाला 'थारचे वाळवंत' किंवा 'भारतीय महावाळवंत' म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नकाशात पर्वत आणि डोंगर कोणत्या रंगाने दाखवतात?",
+      "answer": "नकाशात पर्वत आणि डोंगर तपकिरी रंगाने दाखवतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नकाशात मैदाने कोणत्या रंगाने दाखवतात?",
+      "answer": "नकाशात मैदाने हिरव्या रंगाने दाखवतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "नकाशात पठारे कोणत्या रंगाने दाखवतात?",
+      "answer": "नकाशात पठारे पिवळ्या रंगाने दाखवतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "नकाशात पाणी कोणत्या रंगाने दाखवतात?",
+      "answer": "नकाशात पाणी निळ्या रंगाने दाखवतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारताच्या कोणत्या भागात चहाचे मळे जास्त आहेत?",
+      "answer": "भारताच्या आसाम आणि पश्चिम बंगाल (दार्जिलिंग) भागात चहाचे मळे जास्त आहेत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "केशराचे उत्पादन कोणत्या राज्यात होते?",
+      "answer": "केशराचे उत्पादन जम्मू आणि काश्मीर या प्रदेशात होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्याही दोन नद्यांची नावे सांगा ज्या अरबी समुद्राला मिळतात.",
+      "answer": "नर्मदा आणि तापी या नद्या अरबी समुद्राला मिळतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्याही दोन नद्यांची नावे सांगा ज्या बंगालच्या उपसागराला मिळतात.",
+      "answer": "गंगा आणि गोदावरी या नद्या बंगालच्या उपसागराला मिळतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "भारताचे दक्षिण टोक कोणते?",
+      "answer": "इंदिरा पॉइंट हे भारताचे सर्वात दक्षिणेकडील टोक आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नकाशातील 'सूची' म्हणजे काय?",
+      "answer": "नकाशात वापरलेली चिन्हे आणि खुणा यांचा अर्थ सांगणाऱ्या तक्त्याला 'सूची' म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "नकाशात 'प्रमाण' कशासाठी वापरतात?",
+      "answer": "जमिनीवरील अंतर आणि नकाशावरील अंतर यांचा संबंध दाखवण्यासाठी 'प्रमाण' वापरतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "भारतातील सर्वात लांब नदी कोणती?",
+      "answer": "गंगा ही भारतातील सर्वात लांब नदी आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राची उपराजधानी कोणती?",
+      "answer": "नागपूर ही महाराष्ट्राची उपराजधानी आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नकाशात 'वरची' दिशा कोणती असते?",
+      "answer": "नकाशात वरची दिशा नेहमी 'उत्तर' असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नकाशात 'उजवीकडील' दिशा कोणती असते?",
+      "answer": "नकाशात उजवीकडील दिशा 'पूर्व' असते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नकाशात 'डावीकडील' दिशा कोणती असते?",
+      "answer": "नकाशात डावीकडील दिशा 'पश्चिम' असते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "भारतात सर्वाधिक पाऊस कोठे पडतो?",
+      "answer": "मेघालय राज्यातील 'मौनसिनराम' येथे सर्वाधिक पाऊस पडतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सातपुडा पर्वत रांग कोणत्या राज्यात आहे?",
+      "answer": "सातपुडा पर्वत रांग प्रामुख्याने मध्य प्रदेश आणि महाराष्ट्र राज्यांत आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अरबी समुद्राला लागून असलेल्या कोणत्याही दोन राज्यांची नावे लिहा.",
+      "answer": "महाराष्ट्र आणि गुजरात ही अरबी समुद्राला लागून असलेली राज्ये आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "बंगालच्या उपसागराला लागून असलेल्या कोणत्याही दोन राज्यांची नावे लिहा.",
+      "answer": "ओरिसा (ओडिशा) आणि आंध्र प्रदेश ही बंगालच्या उपसागराला लागून असलेली राज्ये आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्याही दोन पठारांची नावे सांगा.",
+      "answer": "दख्खनचे पठार आणि माळवा पठार ही भारतातील प्रमुख पठारे आहेत."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भारतात शेती व्यवसायासाठी मुख्य स्त्रोत कोणता?",
+      "answer": "भारतात शेती व्यवसायासाठी पावसाचे पाणी हा मुख्य स्त्रोत आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भारतातील वाळवंटी भागात कोणती झाडे आढळतात?",
+      "answer": "वाळवंटी भागात बाभूळ, निवडुंग आणि खजुरासारखी काटेरी झाडे आढळतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नकाशा म्हणजे काय?",
+      "answer": "पृथ्वीच्या किंवा तिच्या एखाद्या भागाच्या सपाट पृष्ठभागावरील चित्रणाला नकाशा म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भारताची राष्ट्रभाषा कोणती आहे?",
+      "answer": "भारताची अधिकृत राष्ट्रभाषा हिंदी आहे (आणि इंग्रजी सह-भाषा आहे)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "भारतात कोणत्या प्रकारचे हवामान आढळते?",
+      "answer": "भारतात प्रामुख्याने मान्सून प्रकारचे (उष्णकटिबंधीय) हवामान आढळते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्याही दोन बेटांच्या समूहांची नावे लिहा.",
+      "answer": "अंदमान-निकोबार आणि लक्षद्वीप ही दोन बेटांच्या समूहांची नावे आहेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नकाशातील रंगाचा वापर कशासाठी केला जातो?",
+      "answer": "नकाशात जमिनीची उंची, पाण्याची खोली आणि विविध भूरूपे स्पष्टपणे दाखवण्यासाठी रंगांचा वापर केला जातो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "भारताच्या उत्तर सीमेवर कोणती पर्वतरांग संरक्षकाचे काम करते?",
+      "answer": "हिमालय पर्वतरांग भारताच्या उत्तर सीमेवर नैसर्गिक संरक्षकाचे काम करते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्याही दोन बंदरांची नावे सांगा.",
+      "answer": "मुंबई बंदर आणि विशाखापट्टणम बंदर ही भारतातील महत्त्वाची बंदरे आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "भारताचे राष्ट्रीय गीत कोणते?",
+      "answer": "भारताचे राष्ट्रीय गीत 'वंदे मातरम' आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "भारताचे राष्ट्रगीत कोणते?",
+      "answer": "भारताचे राष्ट्रगीत 'जन गण मन' आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "भारताची मुद्रा काय आहे?",
+      "answer": "भारताची अधिकृत चलन किंवा मुद्रा 'रुपया' आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "भारताच्या ध्वजाला काय म्हणतात?",
+      "answer": "भारताच्या ध्वजाला 'तिरंगा' म्हणतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "तिरांग्यात सर्वात वरचा रंग कोणता असतो?",
+      "answer": "तिरंग्यात सर्वात वरचा रंग 'केशरी' असतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "तिरंग्यात सर्वात खालचा रंग कोणता असतो?",
+      "answer": "तिरंग्यात सर्वात खालचा रंग 'हिरवा' असतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "तिरंग्यात मध्यभागी कोणता रंग असतो?",
+      "answer": "तिरंग्यात मध्यभागी 'पांढरा' रंग असतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "अशोक चक्र कोणत्या रंगाचे असते?",
+      "answer": "अशोक चक्र गडद निळ्या रंगाचे असते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "अशोक चक्रात किती आरे असतात?",
+      "answer": "अशोक चक्रात २४ आरे असतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "भारताचा राष्ट्रीय वृक्ष कोणता?",
+      "answer": "भारताचा राष्ट्रीय वृक्ष 'वड' आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "भारताचे राष्ट्रीय फूल कोणते?",
+      "answer": "भारताचे राष्ट्रीय फूल 'कमळ' आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "भारताचे राष्ट्रीय फळ कोणते?",
+      "answer": "भारताचे राष्ट्रीय फळ 'आंबा' आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "भारतात एकूण किती समुद्रकिनारा लाभला आहे?",
+      "answer": "भारताला सुमारे ७,५१७ किमी लांबीचा समुद्रकिनारा लाभला आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "भारतातील सर्वात प्राचीन शहर कोणते मानले जाते?",
+      "answer": "वाराणसी (काशी) हे भारतातील सर्वात प्राचीन शहरांपैकी एक मानले जाते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "सह्याद्री पर्वताला दुसऱ्या कोणत्या नावाने ओळखले जाते?",
+      "answer": "सह्याद्री पर्वताला 'पश्चिम घाट' या नावाने सुद्धा ओळखले जाते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "पूर्व घाटातील एका प्रसिद्ध पर्वताचे नाव सांगा.",
+      "answer": "महेंद्रगिरी हे पूर्व घाटातील एक प्रसिद्ध शिखर आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्या नद्यांना बारमाही नद्या म्हणतात?",
+      "answer": "ज्या नद्या हिमालयातील बर्फ वितळल्यामुळे वर्षभर वाहतात, त्यांना बारमाही नद्या म्हणतात (उदा. गंगा, सिंधू)."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "नकाशात लाल ठिपका कशासाठी वापरतात?",
+      "answer": "नकाशात लाल ठिपका प्रामुख्याने राजधानी किंवा मोठ्या शहरांचे स्थान दाखवण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "लक्षद्वीपची राजधानी कोणती आहे?",
+      "answer": "कवरत्ती ही लक्षद्वीपची राजधानी आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "अंदमान निकोबारची राजधानी कोणती?",
+      "answer": "पोर्ट ब्लेअर ही अंदमान निकोबारची राजधानी आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "भारतातील सर्वात लांब रेल्वे मार्ग कोठून कोठे जातो?",
+      "answer": "भारतातील सर्वात लांब रेल्वे मार्ग दिब्रुगड (आसाम) ते कन्याकुमारी (तामिळनाडू) असा जातो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "भारतात सर्वाधिक साक्षर राज्य कोणते?",
+      "answer": "केरळ हे भारतातील सर्वाधिक साक्षर राज्य आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "नकाशात रस्ते कोणत्या रंगाने किंवा चिन्हाने दाखवतात?",
+      "answer": "नकाशात रस्ते प्रामुख्याने लाल किंवा काळ्या रेषेने दाखवतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "भारताच्या मध्यभागी असलेले राज्य कोणते?",
+      "answer": "मध्य प्रदेश हे भारताच्या मध्यभागी असलेले राज्य आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "भारतातील हिरा खाणी कोठे आहेत?",
+      "answer": "मध्य प्रदेशातील 'पन्ना' येथे हिऱ्याच्या खाणी आहेत."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "भारतातील कोळसा उत्पादनासाठी प्रसिद्ध असलेले राज्य कोणते?",
+      "answer": "झारखंड हे कोळसा उत्पादनासाठी प्रसिद्ध राज्य आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "भारताचे क्षेत्रफळ सुमारे किती आहे?",
+      "answer": "भारताचे क्षेत्रफळ सुमारे ३२,८७,२६३ चौ.किमी आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "भारतातील चहासाठी प्रसिद्ध असलेले ठिकाण सांगा.",
+      "answer": "दार्जिलिंग हे चहासाठी प्रसिद्ध ठिकाण आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "भारतातील संत्र्यांसाठी प्रसिद्ध असलेले शहर कोणते?",
+      "answer": "नागपूर हे संत्र्यांसाठी प्रसिद्ध शहर आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "चिकूसाठी प्रसिद्ध असलेले ठिकाण कोणते?",
+      "answer": "डहाणू आणि घोलवड (महाराष्ट्र) चिकूसाठी प्रसिद्ध आहेत."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "भारतातील सर्वात मोठे गोड्या पाण्याचे सरोवर कोणते?",
+      "answer": "जम्मू आणि काश्मीरमधील 'वुलर सरोवर' हे सर्वात मोठे गोड्या पाण्याचे सरोवर आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "भारतातील खऱ्या पाण्याचे प्रसिद्ध सरोवर कोणते?",
+      "answer": "ओरिसातील 'चिल्का सरोवर' हे खऱ्या पाण्याचे मोठे सरोवर आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "भारतात एकूण किती भाषांना घटनात्मक मान्यता आहे?",
+      "answer": "भारतात एकूण २२ भाषांना घटनात्मक मान्यता आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "नकाशात विमानतळ दाखवण्यासाठी कोणते चिन्ह वापरतात?",
+      "answer": "नकाशात विमानतळ दाखवण्यासाठी विमानाचे छोटे चित्र किंवा चिन्ह वापरतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "नकाशात रेल्वे मार्ग कसा दाखवतात?",
+      "answer": "नकाशात रेल्वे मार्ग रेल्वेच्या रूळांसारख्या (काळ्या आणि पांढऱ्या पट्ट्यांच्या) रेषेने दाखवतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "भारताच्या शेजारील उत्तरेकडील एका देशाचे नाव सांगा.",
+      "answer": "नेपाळ हा भारताच्या उत्तरेकडील शेजारी देश आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "भारताच्या शेजारील पूर्वेकडील एका देशाचे नाव सांगा.",
+      "answer": "म्यानमार (ब्रह्मदेश) हा भारताच्या पूर्वेकडील शेजारी देश आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "भारताच्या ईशान्येला कोणता शेजारी देश आहे?",
+      "answer": "चीन हा भारताच्या ईशान्येला असलेला मोठा शेजारी देश आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "भारतातील कापूस उत्पादनात अग्रेसर राज्य कोणते?",
+      "answer": "महाराष्ट्र आणि गुजरात ही राज्ये कापूस उत्पादनात अग्रेसर आहेत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "भारतातील ऊस उत्पादनात अग्रेसर राज्य कोणते?",
+      "answer": "उत्तर प्रदेश आणि महाराष्ट्र ही ऊस उत्पादनात आघाडीवर आहेत."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "नकाशात राज्यांची सीमा कशी दाखवतात?",
+      "answer": "नकाशात राज्यांची सीमा तुटक रेषांनी (Dash-dot lines) दाखवतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "नकाशात आंतरराष्ट्रीय सीमा कशी दाखवतात?",
+      "answer": "नकाशात आंतरराष्ट्रीय सीमा ठळक तुटक रेषांनी दाखवतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "भारतात किती मुख्य ऋतू मानले जातात?",
+      "answer": "भारतात उन्हाळा, पावसाळा आणि हिवाळा हे तीन मुख्य ऋतू मानले जातात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "भारतातील कोणत्याही दोन ऐतिहासिक स्थळांची नावे सांगा.",
+      "answer": "ताजमहाल (आग्रा) आणि अजिंठा लेणी (छत्रपती संभाजीनगर) ही प्रसिद्ध ऐतिहासिक स्थळे आहेत."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "भारताचे बोधचिन्ह कोणते आहे?",
+      "answer": "चार सिंह असलेले 'राजमुद्रा' हे भारताचे बोधचिन्ह आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "भारताच्या राजमुद्रेखाली कोणते वाक्य लिहिले आहे?",
+      "answer": "भारताच्या राजमुद्रेखाली 'सत्यमेव जयते' हे वाक्य लिहिले आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "भारताच्या नकाशात मुंबई कुठे आहे?",
+      "answer": "मुंबई भारताच्या पश्चिम किनारपट्टीवर, अरबी समुद्राला लागून आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "भारताच्या नकाशात दिल्ली कुठे आहे?",
+      "answer": "दिल्ली भारताच्या उत्तर भागात आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "काश्मीरचे सफरचंद कशासाठी प्रसिद्ध आहेत?",
+      "answer": "काश्मीरची सफरचंदे त्यांच्या गोड चवीसाठी आणि लाल रंगासाठी जगप्रसिद्ध आहेत."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "भारतात 'सफेद सोने' कशाला म्हणतात?",
+      "answer": "भारतात कापसाला 'सफेद सोने' म्हणतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "आपल्या देशाचे पूर्ण नाव काय आहे?",
+      "answer": "आपल्या देशाचे पूर्ण नाव 'भारतीय प्रजासत्ताक' (Republic of India) आहे."
+    }
+  ]
+}

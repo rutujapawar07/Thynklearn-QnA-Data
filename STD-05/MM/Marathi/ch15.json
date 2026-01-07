@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 15,
+  "chapter_name": "आपल्या समस्या - आपले उपाय",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वाहतूक कोंडीमुळे कोणत्या प्रकारचे प्रदूषण वाढते?",
+      "options": [
+        { "option_id": 1, "text": "जल प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "वायू आणि ध्वनी प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "मृदा प्रदूषण", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "वायू आणि ध्वनी प्रदूषण"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "केला जाणारा कचरा कमी करण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "वस्तूंचा पुनर्वापर करणे", "is_correct": true },
+        { "option_id": 2, "text": "कचरा जाळणे", "is_correct": false },
+        { "option_id": 3, "text": "कचरा नदीत टाकणे", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचा वापर वाढवणे", "is_correct": false }
+      ],
+      "answer": "वस्तूंचा पुनर्वापर करणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाण्याची गळती थांबवण्यासाठी आपण काय करू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "नळ उघडा ठेवणे", "is_correct": false },
+        { "option_id": 2, "text": "गळणारे नळ दुरुस्त करणे", "is_correct": true },
+        { "option_id": 3, "text": "जास्त पाणी वापरणे", "is_correct": false },
+        { "option_id": 4, "text": "नळाकडे दुर्लक्ष करणे", "is_correct": false }
+      ],
+      "answer": "गळणारे नळ दुरुस्त करणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "गाड्यांचे हॉर्न", "is_correct": true },
+        { "option_id": 2, "text": "झाडे लावल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "सायकल चालवल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "कचरा वेचल्यामुळे", "is_correct": false }
+      ],
+      "answer": "गाड्यांचे हॉर्न"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "प्लास्टिकचा वापर टाळण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "कागदी किंवा कापडी पिशव्या", "is_correct": true },
+        { "option_id": 2, "text": "दुसरी प्लास्टिक पिशवी", "is_correct": false },
+        { "option_id": 3, "text": "रबर पिशवी", "is_correct": false },
+        { "option_id": 4, "text": "पॉलिथीन", "is_correct": false }
+      ],
+      "answer": "कागदी किंवा कापडी पिशव्या"
+    },
+    {
+        "question_id": 6,
+        "question_type": "MCQ",
+        "question": "खालीलपैकी कोणती एक मोठी सामाजिक समस्या आहे?",
+        "options": [
+          { "option_id": 1, "text": "खेळ खेळणे", "is_correct": false },
+          { "option_id": 2, "text": "वाढती लोकसंख्या", "is_correct": true },
+          { "option_id": 3, "text": "वाचन करणे", "is_correct": false },
+          { "option_id": 4, "text": "विश्रांती घेणे", "is_correct": false }
+        ],
+        "answer": "वाढती लोकसंख्या"
+    },
+    {
+        "question_id": 7,
+        "question_type": "MCQ",
+        "question": "रस्त्यांवरील गर्दी कमी करण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "स्वतःची गाडी वापरणे", "is_correct": false },
+          { "option_id": 2, "text": "सार्वजनिक वाहनांचा वापर करणे", "is_correct": true },
+          { "option_id": 3, "text": "रस्त्यावर धावणे", "is_correct": false },
+          { "option_id": 4, "text": "गाड्या जोरात चालवणे", "is_correct": false }
+        ],
+        "answer": "सार्वजनिक वाहनांचा वापर करणे"
+    },
+    {
+        "question_id": 8,
+        "question_type": "MCQ",
+        "question": "ओला कचरा आणि सुका कचरा वेगळा का करावा?",
+        "options": [
+          { "option_id": 1, "text": "जागा वाचवण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "योग्य विल्हेवाट लावण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "कचरा जाळण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "घाण करण्यासाठी", "is_correct": false }
+        ],
+        "answer": "योग्य विल्हेवाट लावण्यासाठी"
+    },
+    {
+        "question_id": 9,
+        "question_type": "MCQ",
+        "question": "वीज वाचवण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "दिवसभर दिवे चालू ठेवणे", "is_correct": false },
+          { "option_id": 2, "text": "गरज नसताना बटण बंद करणे", "is_correct": true },
+          { "option_id": 3, "text": "टीव्ही मोठा आवाज करणे", "is_correct": false },
+          { "option_id": 4, "text": "खिडक्या बंद ठेवणे", "is_correct": false }
+        ],
+        "answer": "गरज नसताना बटण बंद करणे"
+    },
+    {
+        "question_id": 10,
+        "question_type": "MCQ",
+        "question": "प्रदूषण टाळण्यासाठी वाहनांची काय करावी लागते?",
+        "options": [
+          { "option_id": 1, "text": "पीयूसी (PUC) तपासणी", "is_correct": true },
+          { "option_id": 2, "text": "रंगकाम", "is_correct": false },
+          { "option_id": 3, "text": "गाडी जोरात चालवणे", "is_correct": false },
+          { "option_id": 4, "text": "आरसा बदलणे", "is_correct": false }
+        ],
+        "answer": "पीयूसी (PUC) तपासणी"
+    },
+    {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "आपल्या समस्या सोडवण्यासाठी कोणाचे सहकार्य आवश्यक असते?",
+        "options": [
+          { "option_id": 1, "text": "केवळ सरकारचे", "is_correct": false },
+          { "option_id": 2, "text": "केवळ पोलिसांचे", "is_correct": false },
+          { "option_id": 3, "text": "सर्व नागरिकांचे", "is_correct": true },
+          { "option_id": 4, "text": "केवळ मुलांचे", "is_correct": false }
+        ],
+        "answer": "सर्व नागरिकांचे"
+    },
+    {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "रस्त्यावरील खड्डे कशाचा त्रास देतात?",
+        "options": [
+          { "option_id": 1, "text": "शांततेचा", "is_correct": false },
+          { "option_id": 2, "text": "वाहतुकीचा", "is_correct": true },
+          { "option_id": 3, "text": "पाण्याचा", "is_correct": false },
+          { "option_id": 4, "text": "अभ्यासाचा", "is_correct": false }
+        ],
+        "answer": "वाहतुकीचा"
+    },
+    {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "मोठ्या आवाजाचा ध्वनिक्षेपक लावल्याने काय होते?",
+        "options": [
+          { "option_id": 1, "text": "करमणूक", "is_correct": false },
+          { "option_id": 2, "text": "आनंद", "is_correct": false },
+          { "option_id": 3, "text": "ध्वनी प्रदूषण", "is_correct": true },
+          { "option_id": 4, "text": "वृक्षारोपण", "is_correct": false }
+        ],
+        "answer": "ध्वनी प्रदूषण"
+    },
+    {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक ठिकाणी थुंकल्यामुळे काय पसरतात?",
+        "options": [
+          { "option_id": 1, "text": "रोगजंतू", "is_correct": true },
+          { "option_id": 2, "text": "सुगंध", "is_correct": false },
+          { "option_id": 3, "text": "झाडे", "is_correct": false },
+          { "option_id": 4, "text": "स्वच्छता", "is_correct": false }
+        ],
+        "answer": "रोगजंतू"
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "पाणी वाचवण्यासाठी कोणती पद्धत योग्य आहे?",
+        "options": [
+          { "option_id": 1, "text": "नदीत कपडे धुणे", "is_correct": false },
+          { "option_id": 2, "text": "पुनर्वापर करणे", "is_correct": true },
+          { "option_id": 3, "text": "पाणी ओतून देणे", "is_correct": false },
+          { "option_id": 4, "text": "नळातून पाणी वाहू देणे", "is_correct": false }
+        ],
+        "answer": "पुनर्वापर करणे"
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question": "झाडे लावल्यामुळे काय कमी होते?",
+        "options": [
+          { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+          { "option_id": 2, "text": "प्रदूषण", "is_correct": true },
+          { "option_id": 3, "text": "पाऊस", "is_correct": false },
+          { "option_id": 4, "text": "स्वच्छता", "is_correct": false }
+        ],
+        "answer": "प्रदूषण"
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question": "बागेत कचरा कोठे टाकावा?",
+        "options": [
+          { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+          { "option_id": 2, "text": "कचराकुंडीत", "is_correct": true },
+          { "option_id": 3, "text": "झाडांखाली", "is_correct": false },
+          { "option_id": 4, "text": "बागेच्या बाहेर", "is_correct": false }
+        ],
+        "answer": "कचराकुंडीत"
+    },
+    {
+        "question_id": 18,
+        "question_type": "MCQ",
+        "question": "शाळा सुटताना होणारी गर्दी म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "उत्सव", "is_correct": false },
+          { "option_id": 2, "text": "समस्या", "is_correct": true },
+          { "option_id": 3, "text": "सोहळा", "is_correct": false },
+          { "option_id": 4, "text": "खेळ", "is_correct": false }
+        ],
+        "answer": "समस्या"
+    },
+    {
+        "question_id": 19,
+        "question_type": "MCQ",
+        "question": "विनाकारण हॉर्न वाजवणे काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "चांगली सवय", "is_correct": false },
+          { "option_id": 2, "text": "चुकीची सवय", "is_correct": true },
+          { "option_id": 3, "text": "संगीत", "is_correct": false },
+          { "option_id": 4, "text": "नियम", "is_correct": false }
+        ],
+        "answer": "चुकीची सवय"
+    },
+    {
+        "question_id": 20,
+        "question_type": "MCQ",
+        "question": "पिण्याचे पाणी स्वच्छ ठेवण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "पाणी उघडे ठेवणे", "is_correct": false },
+          { "option_id": 2, "text": "भांडे झाकून ठेवणे", "is_correct": true },
+          { "option_id": 3, "text": "पाण्यात हात घालणे", "is_correct": false },
+          { "option_id": 4, "text": "नदीत अंघोळ करणे", "is_correct": false }
+        ],
+        "answer": "भांडे झाकून ठेवणे"
+    },
+    {
+        "question_id": 21,
+        "question_type": "MCQ",
+        "question": "रस्त्यावरील दिवे दिवसा चालू असल्यास आपण काय करू?",
+        "options": [
+          { "option_id": 1, "text": "दुर्लक्ष करू", "is_correct": false },
+          { "option_id": 2, "text": "ते बंद करू किंवा तक्रार करू", "is_correct": true },
+          { "option_id": 3, "text": "तसेच राहू देऊ", "is_correct": false },
+          { "option_id": 4, "text": "हसू", "is_correct": false }
+        ],
+        "answer": "ते बंद करू किंवा तक्रार करू"
+    },
+    {
+        "question_id": 22,
+        "question_type": "MCQ",
+        "question": "पर्यावरण रक्षण म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "निसर्गाची काळजी घेणे", "is_correct": true },
+          { "option_id": 2, "text": "झाडे तोडणे", "is_correct": false },
+          { "option_id": 3, "text": "कचरा पसरवणे", "is_correct": false },
+          { "option_id": 4, "text": "पाणी वाया घालवणे", "is_correct": false }
+        ],
+        "answer": "निसर्गाची काळजी घेणे"
+    },
+    {
+        "question_id": 23,
+        "question_type": "MCQ",
+        "question": "कचऱ्यापासून खत तयार करणे याला काय म्हणतात?",
+        "options": [
+          { "option_id": 1, "text": "प्रदूषण", "is_correct": false },
+          { "option_id": 2, "text": "खतनिर्मिती", "is_correct": true },
+          { "option_id": 3, "text": "कचरा कुजणे", "is_correct": false },
+          { "option_id": 4, "text": "पाणी अडवणे", "is_correct": false }
+        ],
+        "answer": "खतनिर्मिती"
+    },
+    {
+        "question_id": 24,
+        "question_type": "MCQ",
+        "question": "आजारी माणसाला कशाची गरज असते?",
+        "options": [
+          { "option_id": 1, "text": "मोठ्या आवाजाची", "is_correct": false },
+          { "option_id": 2, "text": "शांततेची", "is_correct": true },
+          { "option_id": 3, "text": "धुराची", "is_correct": false },
+          { "option_id": 4, "text": "गर्दीची", "is_correct": false }
+        ],
+        "answer": "शांततेची"
+    },
+    {
+        "question_id": 25,
+        "question_type": "MCQ",
+        "question": "शाळेच्या परिसरात काय असावे?",
+        "options": [
+          { "option_id": 1, "text": "शांतता", "is_correct": true },
+          { "option_id": 2, "text": "गोंधळ", "is_correct": false },
+          { "option_id": 3, "text": "धुळीचे लोट", "is_correct": false },
+          { "option_id": 4, "text": "कचरा", "is_correct": false }
+        ],
+        "answer": "शांतता"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "भाजी आणायला जाताना काय सोबत न्यावे?",
+        "options": [
+          { "option_id": 1, "text": "प्लास्टिक पिशवी", "is_correct": false },
+          { "option_id": 2, "text": "कापडी पिशवी", "is_correct": true },
+          { "option_id": 3, "text": "काहीच नाही", "is_correct": false },
+          { "option_id": 4, "text": "कागद", "is_correct": false }
+        ],
+        "answer": "कापडी पिशवी"
+    },
+    {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "नदीतील पाणी कशामुळे दूषित होते?",
+        "options": [
+          { "option_id": 1, "text": "मासे पोहल्यामुळे", "is_correct": false },
+          { "option_id": 2, "text": "सांडपाणी सोडल्यामुळे", "is_correct": true },
+          { "option_id": 3, "text": "पाऊस पडल्यामुळे", "is_correct": false },
+          { "option_id": 4, "text": "झाडे लावल्यामुळे", "is_correct": false }
+        ],
+        "answer": "सांडपाणी सोडल्यामुळे"
+    },
+    {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "विनाकारण चालू असलेले नळ काय करतात?",
+        "options": [
+          { "option_id": 1, "text": "पाणी शुद्ध", "is_correct": false },
+          { "option_id": 2, "text": "पाण्याची नासाडी", "is_correct": true },
+          { "option_id": 3, "text": "पाणी साठवण", "is_correct": false },
+          { "option_id": 4, "text": "निसर्ग रक्षण", "is_correct": false }
+        ],
+        "answer": "पाण्याची नासाडी"
+    },
+    {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "स्वच्छता अभियान कशासाठी राबवले जाते?",
+        "options": [
+          { "option_id": 1, "text": "घाण करण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "परिसर स्वच्छ ठेवण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "रंग लावण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "फोटो काढण्यासाठी", "is_correct": false }
+        ],
+        "answer": "परिसर स्वच्छ ठेवण्यासाठी"
+    },
+    {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "कचऱ्याची कुंडी भरली असल्यास काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "बाहेर कचरा टाकावा", "is_correct": false },
+          { "option_id": 2, "text": "संबंधित अधिकाऱ्यांना कळवावे", "is_correct": true },
+          { "option_id": 3, "text": "कचरा जाळावा", "is_correct": false },
+          { "option_id": 4, "text": "तसेच सोडून द्यावे", "is_correct": false }
+        ],
+        "answer": "संबंधित अधिकाऱ्यांना कळवावे"
+    },
+    {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "कचऱ्यातून काय तयार होऊ शकते?",
+        "options": [
+          { "option_id": 1, "text": "खाऊ", "is_correct": false },
+          { "option_id": 2, "text": "खत किंवा ऊर्जा", "is_correct": true },
+          { "option_id": 3, "text": "पाणी", "is_correct": false },
+          { "option_id": 4, "text": "हवा", "is_correct": false }
+        ],
+        "answer": "खत किंवा ऊर्जा"
+    },
+    {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "सायकल चालवणे कशासाठी चांगले आहे?",
+        "options": [
+          { "option_id": 1, "text": "आरोग्य आणि पर्यावरणासाठी", "is_correct": true },
+          { "option_id": 2, "text": "धूर सोडण्यासाठी", "is_correct": false },
+          { "option_id": 3, "text": "गोंधळ करण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "आळस वाढवण्यासाठी", "is_correct": false }
+        ],
+        "answer": "आरोग्य आणि पर्यावरणासाठी"
+    },
+    {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "धूरामुळे डोळ्यांना काय होते?",
+        "options": [
+          { "option_id": 1, "text": "थंडावा मिळतो", "is_correct": false },
+          { "option_id": 2, "text": "जळजळ होते", "is_correct": true },
+          { "option_id": 3, "text": "चांगले दिसते", "is_correct": false },
+          { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+        ],
+        "answer": "जळजळ होते"
+    },
+    {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "धूर सोडणाऱ्या गाड्या काय पसरवतात?",
+        "options": [
+          { "option_id": 1, "text": "सुगंध", "is_correct": false },
+          { "option_id": 2, "text": "विषारी वायू", "is_correct": true },
+          { "option_id": 3, "text": "थंड हवा", "is_correct": false },
+          { "option_id": 4, "text": "फूल", "is_correct": false }
+        ],
+        "answer": "विषारी वायू"
+    },
+    {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "कचरा फेकणे ही कशी सवय आहे?",
+        "options": [
+          { "option_id": 1, "text": "चांगली", "is_correct": false },
+          { "option_id": 2, "text": "वाईट", "is_correct": true },
+          { "option_id": 3, "text": "सामान्य", "is_correct": false },
+          { "option_id": 4, "text": "आवश्यक", "is_correct": false }
+        ],
+        "answer": "वाईट"
+    },
+    {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "मुले बागेत काय करू शकतात?",
+        "options": [
+          { "option_id": 1, "text": "झाडे तोडू शकतात", "is_correct": false },
+          { "option_id": 2, "text": "स्वच्छता राखू शकतात", "is_correct": true },
+          { "option_id": 3, "text": "कचरा पसरवू शकतात", "is_correct": false },
+          { "option_id": 4, "text": "पाणी वाया घालवू शकतात", "is_correct": false }
+        ],
+        "answer": "स्वच्छता राखू शकतात"
+    },
+    {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "जंगले का वाचवावीत?",
+        "options": [
+          { "option_id": 1, "text": "लाकूड मिळवण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "पर्यावरणाचा समतोल राखण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "रस्ते बांधण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "प्राण्यांना मारण्यासाठी", "is_correct": false }
+        ],
+        "answer": "पर्यावरणाचा समतोल राखण्यासाठी"
+    },
+    {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "पिण्याच्या पाण्याचे स्रोत कोणते?",
+        "options": [
+          { "option_id": 1, "text": "गटार", "is_correct": false },
+          { "option_id": 2, "text": "नदी, विहीर, धरण", "is_correct": true },
+          { "option_id": 3, "text": "समुद्र", "is_correct": false },
+          { "option_id": 4, "text": "केमिकल टँक", "is_correct": false }
+        ],
+        "answer": "नदी, विहीर, धरण"
+    },
+    {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "प्रदूषणामुळे कोणाचे आरोग्य धोक्यात येते?",
+        "options": [
+          { "option_id": 1, "text": "केवळ मानवाचे", "is_correct": false },
+          { "option_id": 2, "text": "केवळ प्राण्यांचे", "is_correct": false },
+          { "option_id": 3, "text": "सर्व सजीवांचे", "is_correct": true },
+          { "option_id": 4, "text": "केवळ झाडांचे", "is_correct": false }
+        ],
+        "answer": "सर्व सजीवांचे"
+    },
+    {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "पावसाचे पाणी साठवण्याला काय म्हणतात?",
+        "options": [
+          { "option_id": 1, "text": "वॉटर हार्वेस्टिंग", "is_correct": true },
+          { "option_id": 2, "text": "पाणी वाया घालवणे", "is_correct": false },
+          { "option_id": 3, "text": "पूर", "is_correct": false },
+          { "option_id": 4, "text": "नदी भरणे", "is_correct": false }
+        ],
+        "answer": "वॉटर हार्वेस्टिंग"
+    },
+    {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "कचरा जाळल्याने काय होते?",
+        "options": [
+          { "option_id": 1, "text": "परिसर स्वच्छ होतो", "is_correct": false },
+          { "option_id": 2, "text": "वायू प्रदूषण होते", "is_correct": true },
+          { "option_id": 3, "text": "थंडावा मिळतो", "is_correct": false },
+          { "option_id": 4, "text": "पाऊस पडतो", "is_correct": false }
+        ],
+        "answer": "वायू प्रदूषण होते"
+    },
+    {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक नळाला तोटी नसल्यास काय होईल?",
+        "options": [
+          { "option_id": 1, "text": "पाणी साठेल", "is_correct": false },
+          { "option_id": 2, "text": "पाणी वाया जाईल", "is_correct": true },
+          { "option_id": 3, "text": "पाणी शुद्ध होईल", "is_correct": false },
+          { "option_id": 4, "text": "नळ सुंदर दिसेल", "is_correct": false }
+        ],
+        "answer": "पाणी वाया जाईल"
+    },
+    {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "आपली जबाबदारी काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "परिसर घाण करणे", "is_correct": false },
+          { "option_id": 2, "text": "परिसर स्वच्छ ठेवणे", "is_correct": true },
+          { "option_id": 3, "text": "इतरांना त्रास देणे", "is_correct": false },
+          { "option_id": 4, "text": "नियम तोडणे", "is_correct": false }
+        ],
+        "answer": "परिसर स्वच्छ ठेवणे"
+    },
+    {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "रस्त्यावरून चालताना कोठून चालावे?",
+        "options": [
+          { "option_id": 1, "text": "रस्त्याच्या मधून", "is_correct": false },
+          { "option_id": 2, "text": "फुटपाथवरून", "is_correct": true },
+          { "option_id": 3, "text": "गाडीच्या समोरून", "is_correct": false },
+          { "option_id": 4, "text": "कोठूनही", "is_correct": false }
+        ],
+        "answer": "फुटपाथवरून"
+    },
+    {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "शाळा किंवा दवाखान्याजवळ काय वाजवू नये?",
+        "options": [
+          { "option_id": 1, "text": "घंटा", "is_correct": false },
+          { "option_id": 2, "text": "हॉर्न", "is_correct": true },
+          { "option_id": 3, "text": "टाळ्या", "is_correct": false },
+          { "option_id": 4, "text": "तोंड", "is_correct": false }
+        ],
+        "answer": "हॉर्न"
+    },
+    {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "पाणी गाळून का प्यावे?",
+        "options": [
+          { "option_id": 1, "text": "चव लागण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "शुद्धतेसाठी", "is_correct": true },
+          { "option_id": 3, "text": "रंग बदलण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "थंड होण्यासाठी", "is_correct": false }
+        ],
+        "answer": "शुद्धतेसाठी"
+    },
+    {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "कचरा वेचणाऱ्यांना आपण काय म्हणावे?",
+        "options": [
+          { "option_id": 1, "text": "स्वच्छता दूत", "is_correct": true },
+          { "option_id": 2, "text": "भिकारी", "is_correct": false },
+          { "option_id": 3, "text": "कामगार", "is_correct": false },
+          { "option_id": 4, "text": "नोकर", "is_correct": false }
+        ],
+        "answer": "स्वच्छता दूत"
+    },
+    {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "प्रदूषणामुळे हवा कशी होते?",
+        "options": [
+          { "option_id": 1, "text": "थंड", "is_correct": false },
+          { "option_id": 2, "text": "विषारी आणि दूषित", "is_correct": true },
+          { "option_id": 3, "text": "स्वच्छ", "is_correct": false },
+          { "option_id": 4, "text": "सुगंधी", "is_correct": false }
+        ],
+        "answer": "विषारी आणि दूषित"
+    },
+    {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "सांडपाण्याचे व्यवस्थापन करणे म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "पाणी नदीत सोडणे", "is_correct": false },
+          { "option_id": 2, "text": "पाण्यावर प्रक्रिया करून विल्हेवाट लावणे", "is_correct": true },
+          { "option_id": 3, "text": "पाणी जमिनीत मुरवणे", "is_correct": false },
+          { "option_id": 4, "text": "पाणी साठवून ठेवणे", "is_correct": false }
+        ],
+        "answer": "पाण्यावर प्रक्रिया करून विल्हेवाट लावणे"
+    },
+    {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "पर्यावरण दिनानिमित्त काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "पार्टी करावी", "is_correct": false },
+          { "option_id": 2, "text": "वृक्षारोपण आणि जनजागृती करावी", "is_correct": true },
+          { "option_id": 3, "text": "फटाके फोडावेत", "is_correct": false },
+          { "option_id": 4, "text": "सुट्टी घ्यावी", "is_correct": false }
+        ],
+        "answer": "वृक्षारोपण आणि जनजागृती करावी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आपल्याला कोणत्या कोणत्या समस्यांना तोंड द्यावे लागते?",
+      "answer": "वाहतूक कोंडी, कचरा, प्रदूषण, पाण्याचे दुर्भिक्ष्य यांसारख्या समस्यांना आपल्याला तोंड द्यावे लागते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वाहतूक कोंडीमुळे काय होते?",
+      "answer": "वाहतूक कोंडीमुळे वेळेचा अपव्यय होतो आणि वायू व ध्वनी प्रदूषण वाढते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कचऱ्याची समस्या कशी सोडवता येईल?",
+      "answer": "कचरा कमी करून, ओला व सुका कचरा वेगळा करून आणि पुनर्वापर करून ही समस्या सोडवता येईल."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाण्याची बचत करण्यासाठी काय करावे?",
+      "answer": "नळाला तोटी लावणे, गळके नळ दुरुस्त करणे आणि पाण्याचा काटकसरीने वापर करणे आवश्यक आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण टाळण्यासाठी एक उपाय सांगा.",
+      "answer": "विनाकारण वाहनांचे हॉर्न वाजवू नयेत."
+    },
+    {
+        "question_id": 56,
+        "question_type": "SHORT",
+        "question": "वायू प्रदूषण कशामुळे होते?",
+        "answer": "वाहनांच्या धुरामुळे आणि कारखान्यांमधून निघणाऱ्या विषारी वायूंमुळे वायू प्रदूषण होते."
+    },
+    {
+        "question_id": 57,
+        "question_type": "SHORT",
+        "question": "परिसर स्वच्छ ठेवणे कोणाची जबाबदारी आहे?",
+        "answer": "परिसर स्वच्छ ठेवणे ही आपल्या सर्वांची म्हणजेच प्रत्येक नागरिकाची जबाबदारी आहे."
+    },
+    {
+        "question_id": 58,
+        "question_type": "SHORT",
+        "question": "प्लास्टिकचा वापर का टाळावा?",
+        "answer": "प्लास्टिक निसर्गात कुजत नाही, त्यामुळे पर्यावरणाचे नुकसान होते, म्हणून त्याचा वापर टाळावा."
+    },
+    {
+        "question_id": 59,
+        "question_type": "SHORT",
+        "question": "ओला कचरा म्हणजे काय?",
+        "answer": "फळांच्या साली, उरलेले अन्न, भाज्यांचे देठ यांसारख्या कुजणाऱ्या कचऱ्याला ओला कचरा म्हणतात."
+    },
+    {
+        "question_id": 60,
+        "question_type": "SHORT",
+        "question": "सुका कचरा म्हणजे काय?",
+        "answer": "कागद, प्लास्टिक, काच, धातू यांसारख्या न कुजणाऱ्या कचऱ्याला सुका कचरा म्हणतात."
+    },
+    {
+        "question_id": 61,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक ठिकाणी थुंकणे का चुकीचे आहे?",
+        "answer": "थुंकल्यामुळे रोगजंतू पसरतात आणि परिसराची अस्वच्छता होते."
+    },
+    {
+        "question_id": 62,
+        "question_type": "SHORT",
+        "question": "झाडे लावल्याचा फायदा काय होतो?",
+        "answer": "झाडे हवा शुद्ध ठेवतात आणि प्रदूषण कमी करण्यास मदत करतात."
+    },
+    {
+        "question_id": 63,
+        "question_type": "SHORT",
+        "question": "वीज कशी वाचवता येईल?",
+        "answer": "गरज नसताना दिवे आणि पंखे बंद ठेवून आपण वीज वाचवू शकतो."
+    },
+    {
+        "question_id": 64,
+        "question_type": "SHORT",
+        "question": "पिण्याचे पाणी कसे साठवावे?",
+        "answer": "पिण्याचे पाणी नेहमी झाकलेल्या भांड्यात आणि स्वच्छ जागी साठवावे."
+    },
+    {
+        "question_id": 65,
+        "question_type": "SHORT",
+        "question": "आरोग्य चांगले राहण्यासाठी काय करावे?",
+        "answer": "चांगले आरोग्य राहण्यासाठी परिसर स्वच्छ ठेवावा आणि सकस आहार घ्यावा."
+    },
+    {
+        "question_id": 66,
+        "question_type": "SHORT",
+        "question": "रस्त्यावरील खड्ड्यांमुळे काय त्रास होतो?",
+        "answer": "खड्ड्यांमुळे अपघात होऊ शकतात आणि प्रवासात वेळ लागतो."
+    },
+    {
+        "question_id": 67,
+        "question_type": "SHORT",
+        "question": "विनाकारण पाणी वाहू देणे ही कोणती समस्या आहे?",
+        "answer": "ही पाण्याची नासाडी असून भविष्यात पाणी टंचाई निर्माण करणारी समस्या आहे."
+    },
+    {
+        "question_id": 68,
+        "question_type": "SHORT",
+        "question": "सायकल वापरण्याचे फायदे सांगा.",
+        "answer": "सायकलमुळे व्यायाम होतो आणि इंधन वाचते, तसेच प्रदूषण होत नाही."
+    },
+    {
+        "question_id": 69,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक स्वच्छतागृह का वापरावे?",
+        "answer": "परिसर स्वच्छ आणि दुर्गंधीमुक्त ठेवण्यासाठी सार्वजनिक स्वच्छतागृहाचा वापर करावा."
+    },
+    {
+        "question_id": 70,
+        "question_type": "SHORT",
+        "question": "नदीतील पाणी प्रदूषित होऊ नये म्हणून काय काळजी घ्यावी?",
+        "answer": "नदीत कपडे धुऊ नयेत, जनावरे धुऊ नयेत आणि कचरा टाकू नये."
+    },
+    {
+        "question_id": 71,
+        "question_type": "SHORT",
+        "question": "कचराकुंडीचा वापर का करावा?",
+        "answer": "कचरा इकडे तिकडे पसरू नये आणि परिसर अस्वच्छ होऊ नये म्हणून कचराकुंडीचा वापर करावा."
+    },
+    {
+        "question_id": 72,
+        "question_type": "SHORT",
+        "question": "शांतता क्षेत्र (Silence Zone) म्हणजे काय?",
+        "answer": "शाळा, रुग्णालय यांसारख्या ठिकाणी जिथे आवाज करण्यास मनाई असते, त्याला शांतता क्षेत्र म्हणतात."
+    },
+    {
+        "question_id": 73,
+        "question_type": "SHORT",
+        "question": "लोकसंख्या वाढीमुळे कोणत्या समस्या निर्माण होतात?",
+        "answer": "लोकसंख्या वाढीमुळे राहण्यासाठी जागा, अन्नाचा पुरवठा आणि सोयीसुविधांवर ताण येतो."
+    },
+    {
+        "question_id": 74,
+        "question_type": "SHORT",
+        "question": "प्लास्टिक पिशव्यांऐवजी काय वापरावे?",
+        "answer": "कापडी किंवा कागदी पिशव्यांचा वापर करावा."
+    },
+    {
+        "question_id": 75,
+        "question_type": "SHORT",
+        "question": "प्रदूषण कमी करण्यासाठी वाहनांची कोणती तपासणी करावी?",
+        "answer": "वाहनांची नियमित 'पीयूसी' (PUC) तपासणी करावी."
+    },
+    {
+        "question_id": 76,
+        "question_type": "SHORT",
+        "question": "विहिरीच्या पाण्याचे रक्षण कसे करावे?",
+        "answer": "विहिरीत केर कचरा टाकू नये आणि विहिरीचा परिसर स्वच्छ ठेवावा."
+    },
+    {
+        "question_id": 77,
+        "question_type": "SHORT",
+        "question": "रस्त्यावर कचरा टाकणाऱ्याला तुम्ही काय सांगाल?",
+        "answer": "रस्त्यावर कचरा टाकू नका, कचराकुंडीचा वापर करा असे मी सांगेन."
+    },
+    {
+        "question_id": 78,
+        "question_type": "SHORT",
+        "question": "धुळीच्या प्रदूषणामुळे काय त्रास होतो?",
+        "answer": "धुळीमुळे श्वसनाचे आजार आणि डोळ्यांचे विकार होऊ शकतात."
+    },
+    {
+        "question_id": 79,
+        "question_type": "SHORT",
+        "question": "घरातील सांडपाण्याची विल्हेवाट कशी लावावी?",
+        "answer": "सांडपाणी उघड्यावर न सोडता ते गटारात किंवा शोषखड्ड्यात सोडावे."
+    },
+    {
+        "question_id": 80,
+        "question_type": "SHORT",
+        "question": "परिसर स्वच्छतेचे महत्त्व स्पष्ट करा.",
+        "answer": "परिसर स्वच्छ असल्यास आजार पसरत नाहीत आणि मन प्रसन्न राहते."
+    },
+    {
+        "question_id": 81,
+        "question_type": "SHORT",
+        "question": "वाहतुकीचे नियम का पाळावेत?",
+        "answer": "अपघात टाळण्यासाठी आणि वाहतूक सुरळीत राहण्यासाठी नियम पाळावेत."
+    },
+    {
+        "question_id": 82,
+        "question_type": "SHORT",
+        "question": "झाडांना पाणी देताना काय काळजी घ्यावी?",
+        "answer": "झाडांना पाणी देताना ते वाया जाणार नाही याची काळजी घ्यावी."
+    },
+    {
+        "question_id": 83,
+        "question_type": "SHORT",
+        "question": "वृक्षारोपण म्हणजे काय?",
+        "answer": "नवीन झाडे लावणे आणि त्यांची जोपासना करणे म्हणजे वृक्षारोपण होय."
+    },
+    {
+        "question_id": 84,
+        "question_type": "SHORT",
+        "question": "आपल्या समस्या आपण स्वतः कशा सोडवू शकतो?",
+        "answer": "लोकसहभागातून आणि जबाबदारीने वागून आपण समस्या सोडवू शकतो."
+    },
+    {
+        "question_id": 85,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक मालमत्तेचे रक्षण कसे करावे?",
+        "answer": "सार्वजनिक मालमत्तेचे नुकसान करू नये आणि तिची निगा राखावी."
+    },
+    {
+        "question_id": 86,
+        "question_type": "SHORT",
+        "question": "पर्यावरण मित्र (Eco-friendly) म्हणजे काय?",
+        "answer": "पर्यावरणाला हानी न पोहोचवता काम करणे किंवा वस्तू वापरणे म्हणजे पर्यावरण मित्र होय."
+    },
+    {
+        "question_id": 87,
+        "question_type": "SHORT",
+        "question": "कचऱ्याची कुंडी भरली असल्यास काय करावे?",
+        "answer": "त्याबद्दल महापालिका किंवा संबंधित ग्रामपंचायतीला कळवावे."
+    },
+    {
+        "question_id": 88,
+        "question_type": "SHORT",
+        "question": "ध्वनी प्रदूषणाचा वृद्धांवर काय परिणाम होतो?",
+        "answer": "मोठ्या आवाजामुळे वृद्धांना अस्वस्थता येते आणि त्यांच्या हृदयावर ताण येऊ शकतो."
+    },
+    {
+        "question_id": 89,
+        "question_type": "SHORT",
+        "question": "पाणी गाळणे का आवश्यक आहे?",
+        "answer": "पाण्यातील कचरा आणि माती दूर करण्यासाठी पाणी गाळणे आवश्यक आहे."
+    },
+    {
+        "question_id": 90,
+        "question_type": "SHORT",
+        "question": "आपल्या तक्रारी कोठे मांडाव्यात?",
+        "answer": "आपल्या समस्यांच्या तक्रारी संबंधित स्थानिक स्वराज्य संस्थेत मांडता येतात."
+    },
+    {
+        "question_id": 91,
+        "question_type": "SHORT",
+        "question": "बागेतील फुलांची काळजी कशी घ्यावी?",
+        "answer": "बागेतील फुले विनाकारण तोडू नयेत आणि रोपांना नियमित पाणी द्यावे."
+    },
+    {
+        "question_id": 92,
+        "question_type": "SHORT",
+        "question": "रस्त्यावरील दिवे रात्री उशिरापर्यंत चालू असल्यास काय करावे?",
+        "answer": "ते दिवे बंद करण्यासाठी जवळच्या कार्यालयात किंवा कर्मचाऱ्याला सांगावे."
+    },
+    {
+        "question_id": 93,
+        "question_type": "SHORT",
+        "question": "प्राण्यांची स्वच्छता कशी राखावी?",
+        "answer": "प्राण्यांना नदीत न धुता एका स्वतंत्र जागी धुवावे."
+    },
+    {
+        "question_id": 94,
+        "question_type": "SHORT",
+        "question": "अन्न वाया घालवणे का चुकीचे आहे?",
+        "answer": "अन्न तयार करण्यासाठी खूप कष्ट लागतात आणि जगात अनेक लोक उपाशी आहेत, म्हणून ते वाया घालवू नये."
+    },
+    {
+        "question_id": 95,
+        "question_type": "SHORT",
+        "question": "कचऱ्यातून खत कसे बनते?",
+        "answer": "ओला कचरा खड्ड्यात साठवून तो कुजल्यावर त्याचे खत बनते."
+    },
+    {
+        "question_id": 96,
+        "question_type": "SHORT",
+        "question": "शाळेच्या बागेत आपण काय मदत करू शकतो?",
+        "answer": "आपण बागेत झाडे लावू शकतो आणि कचरा उचलण्यास मदत करू शकतो."
+    },
+    {
+        "question_id": 97,
+        "question_type": "SHORT",
+        "question": "पाणी शुद्धीकरणासाठी काय वापरतात?",
+        "answer": "पाणी शुद्धीकरणासाठी तुरटी किंवा क्लोरीन वापरतात."
+    },
+    {
+        "question_id": 98,
+        "question_type": "SHORT",
+        "question": "तुमच्या गावात कोणती मोठी समस्या आहे?",
+        "answer": "माझ्या गावात पाण्याची कमतरता आणि अस्वच्छता ही मोठी समस्या आहे."
+    },
+    {
+        "question_id": 99,
+        "question_type": "SHORT",
+        "question": "प्रदूषण टाळण्यासाठी तुम्ही काय कराल?",
+        "answer": "मी झाडे लावेन आणि कमीत कमी प्लास्टिकचा वापर करेन."
+    },
+    {
+        "question_id": 100,
+        "question_type": "SHORT",
+        "question": "स्वच्छ भारत अभियानाचे ध्येय काय आहे?",
+        "answer": "संपूर्ण भारत देश स्वच्छ आणि रोगमुक्त करणे हे या अभियानाचे ध्येय आहे."
+    },
+    {
+        "question_id": 101,
+        "question_type": "SHORT",
+        "question": "वाहतुकीसाठी कोणता मार्ग सुरक्षित आहे?",
+        "answer": "रस्त्याच्या डाव्या बाजूने चालणे आणि नियम पाळणे हा सुरक्षित मार्ग आहे."
+    },
+    {
+        "question_id": 102,
+        "question_type": "SHORT",
+        "question": "पाणी साठवण्याची जुनी पद्धत कोणती?",
+        "answer": "विहीर आणि आड ही पाणी साठवण्याची जुनी पद्धत आहे."
+    },
+    {
+        "question_id": 103,
+        "question_type": "SHORT",
+        "question": "कचरा समस्या निवारणात मुलांची भूमिका काय असू शकते?",
+        "answer": "मुले इतरांना कचरा टाकू नका म्हणून सांगू शकतात आणि स्वतः स्वच्छता पाळू शकतात."
+    },
+    {
+        "question_id": 104,
+        "question_type": "SHORT",
+        "question": "दुचाकी चालवताना हेल्मेट का वापरावे?",
+        "answer": "अपघातापासून स्वतःच्या डोक्याचे रक्षण करण्यासाठी हेल्मेट वापरावे."
+    },
+    {
+        "question_id": 105,
+        "question_type": "SHORT",
+        "question": "झाडे तोडल्यामुळे काय नुकसान होते?",
+        "answer": "झाडे तोडल्यामुळे पाऊस कमी होतो आणि पर्यावरणातील उष्णता वाढते."
+    },
+    {
+        "question_id": 106,
+        "question_type": "SHORT",
+        "question": "मोठ्या शहरात कोणती समस्या जास्त असते?",
+        "answer": "मोठ्या शहरात वाहतूक कोंडी आणि हवा प्रदूषणाची समस्या जास्त असते."
+    },
+    {
+        "question_id": 107,
+        "question_type": "SHORT",
+        "question": "शाळेत कचरा डबा कोठे असावा?",
+        "answer": "शाळेत कचरा डबा प्रत्येक वर्गाबाहेर आणि मैदानाच्या कोपऱ्यात असावा."
+    },
+    {
+        "question_id": 108,
+        "question_type": "SHORT",
+        "question": "पाणी पिण्यासाठी कोणते साधन वापरावे?",
+        "answer": "पाणी पिण्यासाठी स्वच्छ पेला किंवा ओगराळे वापरावे."
+    },
+    {
+        "question_id": 109,
+        "question_type": "SHORT",
+        "question": "सा सायकलचा वापर वाढल्यास काय होईल?",
+        "answer": "सायकलचा वापर वाढल्यास वायू प्रदूषण कमी होईल आणि इंधनाची बचत होईल."
+    },
+    {
+        "question_id": 110,
+        "question_type": "SHORT",
+        "question": "पाणी अडवा पाणी जिरवा म्हणजे काय?",
+        "answer": "पावसाचे पाणी वाहून जाऊ न देता ते जमिनीत मुरवणे म्हणजे पाणी अडवा पाणी जिरवा होय."
+    },
+    {
+        "question_id": 111,
+        "question_type": "SHORT",
+        "question": "ओला कचरा कोठे टाकावा?",
+        "answer": "ओला कचरा हिरव्या रंगाच्या कचराकुंडीत टाकावा."
+    },
+    {
+        "question_id": 112,
+        "question_type": "SHORT",
+        "question": "सुका कचरा कोठे टाकावा?",
+        "answer": "सुका कचरा निळ्या रंगाच्या कचराकुंडीत टाकावा."
+    },
+    {
+        "question_id": 113,
+        "question_type": "SHORT",
+        "question": "रस्त्यावरील दिवे का लावले जातात?",
+        "answer": "रात्रीच्या वेळी सुरक्षित प्रवासासाठी आणि चोरी टाळण्यासाठी दिवे लावले जातात."
+    },
+    {
+        "question_id": 114,
+        "question_type": "SHORT",
+        "question": "स्वच्छ परिसर म्हणजे काय?",
+        "answer": "जिथे कचरा नाही, सांडपाणी साचलेले नाही आणि हवा ताजी आहे त्याला स्वच्छ परिसर म्हणतात."
+    },
+    {
+        "question_id": 115,
+        "question_type": "SHORT",
+        "question": "भाजीपाल्याचा कचरा कोणत्या प्रकारचा असतो?",
+        "answer": "भाजीपाल्याचा कचरा हा ओला आणि कुजणारा कचरा असतो."
+    },
+    {
+        "question_id": 116,
+        "question_type": "SHORT",
+        "question": "वृक्ष संवर्धन म्हणजे काय?",
+        "answer": "लावलेल्या झाडांचे जतन करणे आणि ती वाढवणे म्हणजे वृक्ष संवर्धन होय."
+    },
+    {
+        "question_id": 117,
+        "question_type": "SHORT",
+        "question": "वाहतूक चिन्हे कशासाठी असतात?",
+        "answer": "वाहतूक चिन्हे वाहन चालकांना मार्गदर्शन करण्यासाठी आणि अपघात टाळण्यासाठी असतात."
+    },
+    {
+        "question_id": 118,
+        "question_type": "SHORT",
+        "question": "दुषित पाण्यामुळे कोणते आजार होतात?",
+        "answer": "दुषित पाण्यामुळे टायफॉइड, कॉलरा आणि कावीळ यांसारखे आजार होतात."
+    },
+    {
+        "question_id": 119,
+        "question_type": "SHORT",
+        "question": "गावातील रस्ते कसे असावेत?",
+        "answer": "गावातील रस्ते पक्के, रुंद आणि स्वच्छ असावेत."
+    },
+    {
+        "question_id": 120,
+        "question_type": "SHORT",
+        "question": "आपल्या घरातील कचरा कोठे टाकावा?",
+        "answer": "घरातील कचरा कचराकुंडीत किंवा कचरागाडीतच टाकावा."
+    },
+    {
+        "question_id": 121,
+        "question_type": "SHORT",
+        "question": "नळाची गळती कशी ओळखाल?",
+        "answer": "नळ बंद असतानाही त्यातून पाणी टिपकत असेल तर ती नळाची गळती होय."
+    },
+    {
+        "question_id": 122,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक वाहने म्हणजे काय?",
+        "answer": "बस, रेल्वे यांसारखी सर्व लोकांसाठी उपलब्ध असलेली वाहने म्हणजे सार्वजनिक वाहने होय."
+    },
+    {
+        "question_id": 123,
+        "question_type": "SHORT",
+        "question": "शाळेच्या आवारात झाडे लावण्याचे महत्त्व सांगा.",
+        "answer": "शाळेच्या आवारात झाडे लावल्यामुळे सावली मिळते आणि वातावरण शुद्ध राहते."
+    },
+    {
+        "question_id": 124,
+        "question_type": "SHORT",
+        "question": "विनाकारण हॉर्न वाजवण्याचे तोटे सांगा.",
+        "answer": "विनाकारण हॉर्न वाजवल्यामुळे लोकांचे मानसिक आरोग्य बिघडते आणि एकाग्रता भंग पावते."
+    },
+    {
+        "question_id": 125,
+        "question_type": "SHORT",
+        "question": "जल संवर्धन म्हणजे काय?",
+        "answer": "पाण्याचा वापर जपून करणे आणि उपलब्ध पाणी साठवून ठेवणे म्हणजे जल संवर्धन होय."
+    },
+    {
+        "question_id": 126,
+        "question_type": "SHORT",
+        "question": "प्लास्टिक पिशव्या समुद्रात टाकल्याने काय होते?",
+        "answer": "समुद्रातील मासे आणि इतर जलचर प्राण्यांना इजा होते आणि ते मरू शकतात."
+    },
+    {
+        "question_id": 127,
+        "question_type": "SHORT",
+        "question": "कचऱ्याची गाडी कधी येते?",
+        "answer": "कचऱ्याची गाडी दररोज सकाळी निश्चित वेळी येते."
+    },
+    {
+        "question_id": 128,
+        "question_type": "SHORT",
+        "question": "ध्वनी प्रदूषणाचा मुलांवर काय परिणाम होतो?",
+        "answer": "मुलांच्या अभ्यासात अडथळा येतो आणि कानाच्या समस्या निर्माण होऊ शकतात."
+    },
+    {
+        "question_id": 129,
+        "question_type": "SHORT",
+        "question": "पाणी शुद्ध करण्यासाठी घरगुती उपाय सांगा.",
+        "answer": "पाणी उकळून थंड करणे हा सर्वोत्तम घरगुती शुद्धीकरणाचा उपाय आहे."
+    },
+    {
+        "question_id": 130,
+        "question_type": "SHORT",
+        "question": "विजेची बचत म्हणजे काय?",
+        "answer": "नैसर्गिक प्रकाशाचा वापर करणे आणि गरज नसलेली उपकरणे बंद करणे म्हणजे विजेची बचत होय."
+    },
+    {
+        "question_id": 131,
+        "question_type": "SHORT",
+        "question": "कचरा जाळण्यापेक्षा काय करणे उत्तम?",
+        "answer": "कचरा जाळण्यापेक्षा खतनिर्मितीसाठी वापरणे किंवा तो योग्य जागी विल्हेवाट लावणे उत्तम."
+    },
+    {
+        "question_id": 132,
+        "question_type": "SHORT",
+        "question": "रस्त्यावरील झाडे का महत्त्वाची आहेत?",
+        "answer": "रस्त्यावरील झाडे प्रवाशांना सावली देतात आणि वाहनांचा धूर शोषून घेतात."
+    },
+    {
+        "question_id": 133,
+        "question_type": "SHORT",
+        "question": "स्वच्छतेसाठी तुम्ही कोणत्या सवयी लावून घ्याल?",
+        "answer": "मी कोठेही कचरा टाकणार नाही आणि जेवणापूर्वी हात स्वच्छ धुवेन."
+    },
+    {
+        "question_id": 134,
+        "question_type": "SHORT",
+        "question": "वाढत्या लोकसंख्येचा पर्यावरणावर काय परिणाम होतो?",
+        "answer": "वाढत्या लोकसंख्येमुळे जंगले तोडली जातात आणि प्रदूषण वाढते."
+    },
+    {
+        "question_id": 135,
+        "question_type": "SHORT",
+        "question": "सांडपाणी साचल्यामुळे काय होते?",
+        "answer": "सांडपाणी साचल्यामुळे डास होतात आणि डेंग्यू, मलेरिया यांसारखे आजार पसरतात."
+    },
+    {
+        "question_id": 136,
+        "question_type": "SHORT",
+        "question": "नदीतील जलचरांचे रक्षण कसे करावे?",
+        "answer": "नदीचे पाणी प्रदूषित न करून आपण जलचरांचे रक्षण करू शकतो."
+    },
+    {
+        "question_id": 137,
+        "question_type": "SHORT",
+        "question": "जुनी पुस्तके किंवा वर्तमानपत्रे काय करावीत?",
+        "answer": "जुनी पुस्तके इतरांना द्यावीत किंवा रद्दीत देऊन त्यांचा पुनर्वापर करावा."
+    },
+    {
+        "question_id": 138,
+        "question_type": "SHORT",
+        "question": "तुम्ही पाण्याची बचत कशी कराल?",
+        "answer": "मी दात घासताना नळ बंद ठेवेन आणि बादलीने आंघोळ करेन."
+    },
+    {
+        "question_id": 139,
+        "question_type": "SHORT",
+        "question": "परिसर अस्वच्छ करणाऱ्याला तुम्ही काय सांगाल?",
+        "answer": "परिसर अस्वच्छ करू नका, यामुळे आपल्यालाच आजार होतील असे मी सांगेन."
+    },
+    {
+        "question_id": 140,
+        "question_type": "SHORT",
+        "question": "ध्वनी प्रदूषण मोजण्याचे एकक काय आहे?",
+        "answer": "ध्वनी प्रदूषण डेसिबल (dB) मध्ये मोजले जाते."
+    },
+    {
+        "question_id": 141,
+        "question_type": "SHORT",
+        "question": "आपली सृष्टी कशी टिकेल?",
+        "answer": "निसर्गाचा समतोल राखून आणि पर्यावरणाचे रक्षण करून आपली सृष्टी टिकेल."
+    },
+    {
+        "question_id": 142,
+        "question_type": "SHORT",
+        "question": "गाड्यांच्या धुरामुळे हवेत काय मिसळते?",
+        "answer": "गाड्यांच्या धुरामुळे कार्बन मोनोऑक्साइड आणि इतर विषारी वायू हवेत मिसळतात."
+    },
+    {
+        "question_id": 143,
+        "question_type": "SHORT",
+        "question": "विजेच्या उपकरणांचा सुरक्षित वापर कसा करावा?",
+        "answer": "ओल्या हाताने बटणाला हात लावू नये आणि काम झाल्यावर उपकरण बंद करावे."
+    },
+    {
+        "question_id": 144,
+        "question_type": "SHORT",
+        "question": "कचऱ्याची योग्य विल्हेवाट म्हणजे काय?",
+        "answer": "कचरा योग्य पद्धतीने कुजवून किंवा पुनर्वापर करून त्याची विल्हेवाट लावणे."
+    },
+    {
+        "question_id": 145,
+        "question_type": "SHORT",
+        "question": "नदीला लोक 'माता' का म्हणतात?",
+        "answer": "नदी आपल्याला जीवनदायी पाणी देते, म्हणून तिला माता म्हणतात."
+    },
+    {
+        "question_id": 146,
+        "question_type": "SHORT",
+        "question": "शाळेच्या मैदानाची स्वच्छता कशी राखावी?",
+        "answer": "मैदानावर कागदाचे कपटे किंवा खाऊचे वेष्टन टाकू नये."
+    },
+    {
+        "question_id": 147,
+        "question_type": "SHORT",
+        "question": "पावसाळ्यातील आरोग्याची काळजी कशी घ्यावी?",
+        "answer": "पावसाळ्यात पाणी उकळून प्यावे आणि साचलेल्या पाण्यापासून दूर राहावे."
+    },
+    {
+        "question_id": 148,
+        "question_type": "SHORT",
+        "question": "आपल्या समस्या सोडवण्यासाठी कोणाची मदत घ्यावी?",
+        "answer": "आपण शिक्षक, पालक आणि स्थानिक प्रशासनाची मदत घेऊ शकतो."
+    },
+    {
+        "question_id": 149,
+        "question_type": "SHORT",
+        "question": "स्वच्छतेच्या दोन चांगल्या सवयी सांगा.",
+        "answer": "नेहमी कचराकुंडीचा वापर करणे आणि दररोज आंघोळ करणे."
+    },
+    {
+        "question_id": 150,
+        "question_type": "SHORT",
+        "question": "प्रदूषणमुक्त दिवाळी कशी साजरी कराल?",
+        "answer": "मी फटाके न फोडता आणि मातीचे दिवे लावून दिवाळी साजरी करेन."
+    }
+  ]
+}

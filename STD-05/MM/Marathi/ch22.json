@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 22,
+  "chapter_name": "अति तिथे माती",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'अति तिथे माती' या नाटकातील राजाचे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "चकवाक्य", "is_correct": false },
+        { "option_id": 2, "text": "चक्रदित्य", "is_correct": true },
+        { "option_id": 3, "text": "विक्रमादित्य", "is_correct": false },
+        { "option_id": 4, "text": "भोजराज", "is_correct": false }
+      ],
+      "answer": "चक्रदित्य"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "महाराजांना कशाचा कंटाळा आला होता?",
+      "options": [
+        { "option_id": 1, "text": "राज्याचा", "is_correct": false },
+        { "option_id": 2, "text": "जेवणाचा", "is_correct": false },
+        { "option_id": 3, "text": "जुनाट नियमांचा", "is_correct": true },
+        { "option_id": 4, "text": "प्रजेचा", "is_correct": false }
+      ],
+      "answer": "जुनाट नियमांचा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "राज्यात सर्व गोष्टी कशात सुरू करायच्या होत्या?",
+      "options": [
+        { "option_id": 1, "text": "गाण्यात", "is_correct": true },
+        { "option_id": 2, "text": "नाचण्यात", "is_correct": false },
+        { "option_id": 3, "text": "मौन पाळून", "is_correct": false },
+        { "option_id": 4, "text": "इंग्रजी भाषेत", "is_correct": false }
+      ],
+      "answer": "गाण्यात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "महाराजांच्या राज्याचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "विजय नगर", "is_correct": false },
+        { "option_id": 2, "text": "कंजूस नगर", "is_correct": false },
+        { "option_id": 3, "text": "अजब नगर", "is_correct": false },
+        { "option_id": 4, "text": "कंजूसपूर", "is_correct": true }
+      ],
+      "answer": "कंजूसपूर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "प्रधानाने कोणाची आज्ञा मोडली नाही?",
+      "options": [
+        { "option_id": 1, "text": "देवाची", "is_correct": false },
+        { "option_id": 2, "text": "महाराजांची", "is_correct": true },
+        { "option_id": 3, "text": "राणीची", "is_correct": false },
+        { "option_id": 4, "text": "लोकांची", "is_correct": false }
+      ],
+      "answer": "महाराजांची"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कोणीही गाण्यात बोलले नाही तर काय मिळणार होते?",
+      "options": [
+        { "option_id": 1, "text": "बक्षीस", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षा", "is_correct": true },
+        { "option_id": 3, "text": "खाऊ", "is_correct": false },
+        { "option_id": 4, "text": "शाबासकी", "is_correct": false }
+      ],
+      "answer": "शिक्षा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "राजवाड्यात गाणे गात कोण आले?",
+      "options": [
+        { "option_id": 1, "text": "सैनिक", "is_correct": false },
+        { "option_id": 2, "text": "गवई", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "गवई"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गवई कोठून आले होते?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्या गावाहून", "is_correct": true },
+        { "option_id": 2, "text": "शेतातून", "is_correct": false },
+        { "option_id": 3, "text": "मंदिरातून", "is_correct": false },
+        { "option_id": 4, "text": "बाजारपेठेतून", "is_correct": false }
+      ],
+      "answer": "दुसऱ्या गावाहून"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "महाराजांनी गाण्याचा नियम केल्यावर पहारेकरी कसे बोलू लागले?",
+      "options": [
+        { "option_id": 1, "text": "हळू आवाजात", "is_correct": false },
+        { "option_id": 2, "text": "ओरडून", "is_correct": false },
+        { "option_id": 3, "text": "गाण्यात", "is_correct": true },
+        { "option_id": 4, "text": "रडून", "is_correct": false }
+      ],
+      "answer": "गाण्यात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "गवई कशासाठी आले होते?",
+      "options": [
+        { "option_id": 1, "text": "भांडण करायला", "is_correct": false },
+        { "option_id": 2, "text": "गाणे शिकवायला", "is_correct": false },
+        { "option_id": 3, "text": "गाण्याची कला दाखवायला", "is_correct": true },
+        { "option_id": 4, "text": "जेवायला", "is_correct": false }
+      ],
+      "answer": "गाण्याची कला दाखवायला"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "महाराजांनी राजवाड्यात कोणाला बंदी घातली होती?",
+      "options": [
+        { "option_id": 1, "text": "बोलण्याला", "is_correct": true },
+        { "option_id": 2, "text": "फिरण्याला", "is_correct": false },
+        { "option_id": 3, "text": "हसण्याला", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्याला", "is_correct": false }
+      ],
+      "answer": "बोलण्याला"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सकाळी उठल्यापासून रात्री झोपेपर्यंत काय करायचे होते?",
+      "options": [
+        { "option_id": 1, "text": "व्यायाम", "is_correct": false },
+        { "option_id": 2, "text": "गाणे", "is_correct": true },
+        { "option_id": 3, "text": "काम", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यास", "is_correct": false }
+      ],
+      "answer": "गाणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "स्वयंपाकी गाण्यातून काय सांगत होता?",
+      "options": [
+        { "option_id": 1, "text": "भाजी जळली", "is_correct": true },
+        { "option_id": 2, "text": "जेवण तयार आहे", "is_correct": false },
+        { "option_id": 3, "text": "बाजार संपला", "is_correct": false },
+        { "option_id": 4, "text": "राजा आला", "is_correct": false }
+      ],
+      "answer": "भाजी जळली"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "महाराजांच्या गाण्याच्या हट्टापायी काय नुकसान झाले?",
+      "options": [
+        { "option_id": 1, "text": "वाडा पडला", "is_correct": false },
+        { "option_id": 2, "text": "भाजी जळाली", "is_correct": true },
+        { "option_id": 3, "text": "चोर आले", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस पडला", "is_correct": false }
+      ],
+      "answer": "भाजी जळाली"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गाण्याच्या नियमामुळे लोक कसे वागू लागले?",
+      "options": [
+        { "option_id": 1, "text": "हुशार", "is_correct": false },
+        { "option_id": 2, "text": "वेड्यासारखे", "is_correct": true },
+        { "option_id": 3, "text": "शांत", "is_correct": false },
+        { "option_id": 4, "text": "आनंदी", "is_correct": false }
+      ],
+      "answer": "वेड्यासारखे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "महाराजांना शेवटी काय उमजले?",
+      "options": [
+        { "option_id": 1, "text": "गाणे चांगले आहे", "is_correct": false },
+        { "option_id": 2, "text": "अति तिथे माती होते", "is_correct": true },
+        { "option_id": 3, "text": "प्रधान मूर्ख आहे", "is_correct": false },
+        { "option_id": 4, "text": "राज्य मोठे आहे", "is_correct": false }
+      ],
+      "answer": "अति तिथे माती होते"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "महाराजांनी गाण्याचा नियम का रद्द केला?",
+      "options": [
+        { "option_id": 1, "text": "गळा दुखू लागला म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "राणी रागावली म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "त्रास होऊ लागला म्हणून", "is_correct": true },
+        { "option_id": 4, "text": "दुसरे राज्य जिंकले म्हणून", "is_correct": false }
+      ],
+      "answer": "त्रास होऊ लागला म्हणून"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'अति तिथे माती' या म्हणीचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "माती खाणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप माती असणे", "is_correct": false },
+        { "option_id": 3, "text": "कोणत्याही गोष्टीचा अतिरेक वाईट असतो", "is_correct": true },
+        { "option_id": 4, "text": "मातीचे घर", "is_correct": false }
+      ],
+      "answer": "कोणत्याही गोष्टीचा अतिरेक वाईट असतो"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "राज्यात दवंडी कोणी पिटवली?",
+      "options": [
+        { "option_id": 1, "text": "प्रधानाने", "is_correct": false },
+        { "option_id": 2, "text": "सैनिकाने", "is_correct": false },
+        { "option_id": 3, "text": "दवंडीवाल्याने", "is_correct": true },
+        { "option_id": 4, "text": "महाराजांनी", "is_correct": false }
+      ],
+      "answer": "दवंडीवाल्याने"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "महाराजांचा पारा का चढला?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस आल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "गाणे न मिळाल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "भाजी जळाल्याची बातमी गाण्यातून ऐकल्यामुळे", "is_correct": true },
+        { "option_id": 4, "text": "रात्री झाली म्हणून", "is_correct": false }
+      ],
+      "answer": "भाजी जळाल्याची बातमी गाण्यातून ऐकल्यामुळे"
+    },
+    {
+        "question_id": 21,
+        "question_type": "MCQ",
+        "question": "कशाची भाजी जळाली होती?",
+        "options": [
+          { "option_id": 1, "text": "वांग्याची", "is_correct": false },
+          { "option_id": 2, "text": "बटाट्याची", "is_correct": false },
+          { "option_id": 3, "text": "कांद्याची", "is_correct": true },
+          { "option_id": 4, "text": "मेथीची", "is_correct": false }
+        ],
+        "answer": "कांद्याची"
+      },
+      {
+        "question_id": 22,
+        "question_type": "MCQ",
+        "question": "महाराजांनी कोणाला आज्ञा दिली?",
+        "options": [
+          { "option_id": 1, "text": "प्रधानाला", "is_correct": true },
+          { "option_id": 2, "text": "गवयाला", "is_correct": false },
+          { "option_id": 3, "text": "राणीला", "is_correct": false },
+          { "option_id": 4, "text": "प्रजेला", "is_correct": false }
+        ],
+        "answer": "प्रधानाला"
+      },
+      {
+        "question_id": 23,
+        "question_type": "MCQ",
+        "question": "गवई गाणे गाऊन काय मागत होते?",
+        "options": [
+          { "option_id": 1, "text": "पैसे", "is_correct": false },
+          { "option_id": 2, "text": "बक्षीस", "is_correct": true },
+          { "option_id": 3, "text": "जेवण", "is_correct": false },
+          { "option_id": 4, "text": "पाणी", "is_correct": false }
+        ],
+        "answer": "बक्षीस"
+      },
+      {
+        "question_id": 24,
+        "question_type": "MCQ",
+        "question": "महाराजांनी गाण्याचा नियम केल्यावर कोण घाबरले?",
+        "options": [
+          { "option_id": 1, "text": "प्राणी", "is_correct": false },
+          { "option_id": 2, "text": "पक्षी", "is_correct": false },
+          { "option_id": 3, "text": "प्रजा", "is_correct": true },
+          { "option_id": 4, "text": "शत्रू", "is_correct": false }
+        ],
+        "answer": "प्रजा"
+      },
+      {
+        "question_id": 25,
+        "question_type": "MCQ",
+        "question": "नाटक कोणत्या विषयावर आधारित आहे?",
+        "options": [
+          { "option_id": 1, "text": "देशभक्ती", "is_correct": false },
+          { "option_id": 2, "text": "विनोद", "is_correct": true },
+          { "option_id": 3, "text": "भीती", "is_correct": false },
+          { "option_id": 4, "text": "इतिहास", "is_correct": false }
+        ],
+        "answer": "विनोद"
+      },
+      {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "महाराजांनी सकाळी उठल्यावर पहिले काय केले?",
+        "options": [
+          { "option_id": 1, "text": "आंघोळ", "is_correct": false },
+          { "option_id": 2, "text": "व्यायाम", "is_correct": false },
+          { "option_id": 3, "text": "गाणे म्हटले", "is_correct": true },
+          { "option_id": 4, "text": "न्याहारी", "is_correct": false }
+        ],
+        "answer": "गाणे म्हटले"
+      },
+      {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "राजवाड्याच्या दरवाज्यावर कोण उभे होते?",
+        "options": [
+          { "option_id": 1, "text": "पैलवान", "is_correct": false },
+          { "option_id": 2, "text": "पहारेकरी", "is_correct": true },
+          { "option_id": 3, "text": "भिकारी", "is_correct": false },
+          { "option_id": 4, "text": "मुलं", "is_correct": false }
+        ],
+        "answer": "पहारेकरी"
+      },
+      {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "गवयाला काय वाटले?",
+        "options": [
+          { "option_id": 1, "text": "लोक वेडे आहेत", "is_correct": true },
+          { "option_id": 2, "text": "लोक हुशार आहेत", "is_correct": false },
+          { "option_id": 3, "text": "लोक गरीब आहेत", "is_correct": false },
+          { "option_id": 4, "text": "लोक श्रीमंत आहेत", "is_correct": false }
+        ],
+        "answer": "लोक वेडे आहेत"
+      },
+      {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "प्रधानाने कोणाला बोलावले?",
+        "options": [
+          { "option_id": 1, "text": "सैनिकाला", "is_correct": false },
+          { "option_id": 2, "text": "दवंडीवाल्याला", "is_correct": true },
+          { "option_id": 3, "text": "शेतकऱ्याला", "is_correct": false },
+          { "option_id": 4, "text": "शिक्षकाला", "is_correct": false }
+        ],
+        "answer": "दवंडीवाल्याला"
+      },
+      {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "महाराजांच्या राजवाड्यात काय चालू होते?",
+        "options": [
+          { "option_id": 1, "text": "लढाई", "is_correct": false },
+          { "option_id": 2, "text": "गायन", "is_correct": true },
+          { "option_id": 3, "text": "शाळा", "is_correct": false },
+          { "option_id": 4, "text": "यज्ञ", "is_correct": false }
+        ],
+        "answer": "गायन"
+      },
+      {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "महाराजांनी गाणे बंद करायला का सांगितले?",
+        "options": [
+          { "option_id": 1, "text": "कामं अडकू लागली म्हणून", "is_correct": true },
+          { "option_id": 2, "text": "आवाज आवडला नाही म्हणून", "is_correct": false },
+          { "option_id": 3, "text": "रात्र झाली म्हणून", "is_correct": false },
+          { "option_id": 4, "text": "दुसरे नाटक करायचे होते म्हणून", "is_correct": false }
+        ],
+        "answer": "कामं अडकू लागली म्हणून"
+      },
+      {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "कशाचा अतिरेक झाला होता?",
+        "options": [
+          { "option_id": 1, "text": "खाण्याचा", "is_correct": false },
+          { "option_id": 2, "text": "गाण्याचा", "is_correct": true },
+          { "option_id": 3, "text": "फिरण्याचा", "is_correct": false },
+          { "option_id": 4, "text": "झोपण्याचा", "is_correct": false }
+        ],
+        "answer": "गाण्याचा"
+      },
+      {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "गवई कोणत्या थाटात आले होते?",
+        "options": [
+          { "option_id": 1, "text": "भिकारी", "is_correct": false },
+          { "option_id": 2, "text": "राजाच्या", "is_correct": false },
+          { "option_id": 3, "text": "मोठ्या गवयाच्या", "is_correct": true },
+          { "option_id": 4, "text": "सैनिकाच्या", "is_correct": false }
+        ],
+        "answer": "मोठ्या गवयाच्या"
+      },
+      {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "प्रधानाने दवंडीत काय जाहीर केले?",
+        "options": [
+          { "option_id": 1, "text": "सर्वांनी गाणे गायचे", "is_correct": true },
+          { "option_id": 2, "text": "सर्वांनी गप्प बसायचे", "is_correct": false },
+          { "option_id": 3, "text": "सर्वांनी नाचायचे", "is_correct": false },
+          { "option_id": 4, "text": "सर्वांनी सुट्टी घ्यायची", "is_correct": false }
+        ],
+        "answer": "सर्वांनी गाणे गायचे"
+      },
+      {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "महाराज स्वतःला काय समजत होते?",
+        "options": [
+          { "option_id": 1, "text": "मूर्ख", "is_correct": false },
+          { "option_id": 2, "text": "शहाणे", "is_correct": true },
+          { "option_id": 3, "text": "गायक", "is_correct": false },
+          { "option_id": 4, "text": "चित्रकार", "is_correct": false }
+        ],
+        "answer": "शहाणे"
+      },
+      {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "गवयाचे गाणे ऐकून महाराज काय झाले?",
+        "options": [
+          { "option_id": 1, "text": "खुश झाले", "is_correct": true },
+          { "option_id": 2, "text": "रागावले", "is_correct": false },
+          { "option_id": 3, "text": "रडू लागले", "is_correct": false },
+          { "option_id": 4, "text": "झोपले", "is_correct": false }
+        ],
+        "answer": "खुश झाले"
+      },
+      {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "राजवाड्यात गाणे अनिवार्य केल्याने काय झाले?",
+        "options": [
+          { "option_id": 1, "text": "कामात गोंधळ झाला", "is_correct": true },
+          { "option_id": 2, "text": "कामं वेगात झाली", "is_correct": false },
+          { "option_id": 3, "text": "सर्व श्रीमंत झाले", "is_correct": false },
+          { "option_id": 4, "text": "पाऊस पडला", "is_correct": false }
+        ],
+        "answer": "कामात गोंधळ झाला"
+      },
+      {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "दवंडीवाल्याने हातात काय धरले होते?",
+        "options": [
+          { "option_id": 1, "text": "काठी", "is_correct": false },
+          { "option_id": 2, "text": "ढोल/नगारा", "is_correct": true },
+          { "option_id": 3, "text": "फूल", "is_correct": false },
+          { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+        ],
+        "answer": "ढोल/नगारा"
+      },
+      {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "महाराजांना शेवटी काय करण्याची इच्छा झाली?",
+        "options": [
+          { "option_id": 1, "text": "राज्य सोडण्याची", "is_correct": false },
+          { "option_id": 2, "text": "सामान्यपणे बोलण्याची", "is_correct": true },
+          { "option_id": 3, "text": "गाणे शिकण्याची", "is_correct": false },
+          { "option_id": 4, "text": "राणीला भेटण्याची", "is_correct": false }
+        ],
+        "answer": "सामान्यपणे बोलण्याची"
+      },
+      {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "भाजी जळाल्याचे स्वयंपाकी गाण्यात सांगताना महाराजांना काय वाटले?",
+        "options": [
+          { "option_id": 1, "text": "वेळ फुकट गेला", "is_correct": true },
+          { "option_id": 2, "text": "गाणे छान आहे", "is_correct": false },
+          { "option_id": 3, "text": "भूक लागली नाही", "is_correct": false },
+          { "option_id": 4, "text": "स्वयंपाकी चांगला आहे", "is_correct": false }
+        ],
+        "answer": "वेळ फुकट गेला"
+      },
+      {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "गाण्याचा नियम कोणत्या नगरीत होता?",
+        "options": [
+          { "option_id": 1, "text": "कंजूसपूर", "is_correct": true },
+          { "option_id": 2, "text": "धुळे", "is_correct": false },
+          { "option_id": 3, "text": "पुणे", "is_correct": false },
+          { "option_id": 4, "text": "कोल्हापूर", "is_correct": false }
+        ],
+        "answer": "कंजूसपूर"
+      },
+      {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "नाटकातील पात्रांची संख्या किती आहे?",
+        "options": [
+          { "option_id": 1, "text": "२", "is_correct": false },
+          { "option_id": 2, "text": "४", "is_correct": false },
+          { "option_id": 3, "text": "५-६", "is_correct": true },
+          { "option_id": 4, "text": "१०", "is_correct": false }
+        ],
+        "answer": "५-६"
+      },
+      {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "महाराज गाण्यातून कोणाला हाक मारतात?",
+        "options": [
+          { "option_id": 1, "text": "प्रधानाला", "is_correct": true },
+          { "option_id": 2, "text": "आईला", "is_correct": false },
+          { "option_id": 3, "text": "मित्राला", "is_correct": false },
+          { "option_id": 4, "text": "पाहुण्यांना", "is_correct": false }
+        ],
+        "answer": "प्रधानाला"
+      },
+      {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "कोणीही साधं बोललं तर काय शिक्षा होती?",
+        "options": [
+          { "option_id": 1, "text": "तुरुंगवास", "is_correct": false },
+          { "option_id": 2, "text": "हत्तीच्या पायी देणे", "is_correct": false },
+          { "option_id": 3, "text": "कडक शिक्षा", "is_correct": true },
+          { "option_id": 4, "text": "दंड", "is_correct": false }
+        ],
+        "answer": "कडक शिक्षा"
+      },
+      {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "गवयाचे नाव नाटकात काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "तानसेन", "is_correct": false },
+          { "option_id": 2, "text": "सतारसेन", "is_correct": true },
+          { "option_id": 3, "text": "गायकर", "is_correct": false },
+          { "option_id": 4, "text": "सूरदास", "is_correct": false }
+        ],
+        "answer": "सतारसेन"
+      },
+      {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "लोकांना गाणे गायला का लावले?",
+        "options": [
+          { "option_id": 1, "text": "राजाला बदल हवा होता म्हणून", "is_correct": true },
+          { "option_id": 2, "text": "लोकांना गाता येत नव्हते म्हणून", "is_correct": false },
+          { "option_id": 3, "text": "स्पर्धा होती म्हणून", "is_correct": false },
+          { "option_id": 4, "text": "सण होता म्हणून", "is_correct": false }
+        ],
+        "answer": "राजाला बदल हवा होता म्हणून"
+      },
+      {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "गवई गाण्याने कोणाची स्तुती करतो?",
+        "options": [
+          { "option_id": 1, "text": "देवाची", "is_correct": false },
+          { "option_id": 2, "text": "महाराजांची", "is_correct": true },
+          { "option_id": 3, "text": "निसर्गाची", "is_correct": false },
+          { "option_id": 4, "text": "स्वतःची", "is_correct": false }
+        ],
+        "answer": "महाराजांची"
+      },
+      {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "राज्यात कोणता गोंधळ उडाला?",
+        "options": [
+          { "option_id": 1, "text": "आगीचा", "is_correct": false },
+          { "option_id": 2, "text": "चोरीचा", "is_correct": false },
+          { "option_id": 3, "text": "गाण्याचा अतिरेक", "is_correct": true },
+          { "option_id": 4, "text": "पाण्याचा", "is_correct": false }
+        ],
+        "answer": "गाण्याचा अतिरेक"
+      },
+      {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "महाराजांनी शेवटी गाणे का बंद केले?",
+        "options": [
+          { "option_id": 1, "text": "मज्जा आली नाही", "is_correct": false },
+          { "option_id": 2, "text": "लोकांनी तक्रार केली", "is_correct": false },
+          { "option_id": 3, "text": "गाण्याने नुकसान झाले", "is_correct": true },
+          { "option_id": 4, "text": "रात्री झाली", "is_correct": false }
+        ],
+        "answer": "गाण्याने नुकसान झाले"
+      },
+      {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "कशाची वेळ टळून गेली होती?",
+        "options": [
+          { "option_id": 1, "text": "जेवणाची", "is_correct": true },
+          { "option_id": 2, "text": "झोपण्याची", "is_correct": false },
+          { "option_id": 3, "text": "खेळण्याची", "is_correct": false },
+          { "option_id": 4, "text": "शाळेची", "is_correct": false }
+        ],
+        "answer": "जेवणाची"
+      },
+      {
+        "question_id": 51,
+        "question_type": "SHORT",
+        "question": "'अति तिथे माती' या पाठाचे लेखक कोण आहेत?",
+        "answer": "या पाठाचे लेखक द. मा. मिरासदार हे आहेत."
+      },
+      {
+        "question_id": 52,
+        "question_type": "SHORT",
+        "question": "चक्रदित्य महाराजांना कशाचा वीट आला होता?",
+        "answer": "चक्रदित्य महाराजांना राज्याच्या जुनाट नियमांचा आणि साचेबद्ध बोलण्याचा वीट आला होता."
+      },
+      {
+        "question_id": 53,
+        "question_type": "SHORT",
+        "question": "महाराजांनी कोणता नवीन नियम काढला?",
+        "answer": "राज्यात सर्वांनी गाण्यातच बोलावे, असा नवीन नियम महाराजांनी काढला."
+      },
+      {
+        "question_id": 54,
+        "question_type": "SHORT",
+        "question": "दवंडीवाल्याने दवंडीत काय सांगितले?",
+        "answer": "दवंडीवाल्याने सांगितले की, उद्यापासून राज्यात सर्वांनी गाण्यातच बोलावे, साधा संवाद केल्यास शिक्षा होईल."
+      },
+      {
+        "question_id": 55,
+        "question_type": "SHORT",
+        "question": "प्रधानाला महाराजांच्या निर्णयाबद्दल काय वाटले?",
+        "answer": "प्रधानाला महाराजांचा निर्णय विचित्र वाटला, पण त्याने आज्ञेचे पालन केले."
+      },
+      {
+        "question_id": 56,
+        "question_type": "SHORT",
+        "question": "स्वयंपाकी का घाबरला होता?",
+        "answer": "स्वयंपाकी भाजी जळाल्यामुळे आणि ती गोष्ट गाण्यातून सांगावी लागत असल्यामुळे घाबरला होता."
+      },
+      {
+        "question_id": 57,
+        "question_type": "SHORT",
+        "question": "महाराजांना भूक का लागली होती?",
+        "answer": "जेवणाची वेळ होऊन गेली होती आणि गाण्याच्या गोंधळात जेवण मिळायला उशीर झाला होता."
+      },
+      {
+        "question_id": 58,
+        "question_type": "SHORT",
+        "question": "महाराजांनी भाजी का खाल्ली नाही?",
+        "answer": "कांद्याची भाजी पूर्णपणे जळून कोळसा झाली होती, म्हणून महाराजांनी ती खाल्ली नाही."
+      },
+      {
+        "question_id": 59,
+        "question_type": "SHORT",
+        "question": "महाराजांच्या राज्याचे नाव काय?",
+        "answer": "महाराजांच्या राज्याचे नाव कंजूसपूर असे होते."
+      },
+      {
+        "question_id": 60,
+        "question_type": "SHORT",
+        "question": "बाहेरून आलेल्या गवयाचे नाव काय होते?",
+        "answer": "बाहेरून आलेल्या गवयाचे नाव सतारसेन होते."
+      },
+      {
+        "question_id": 61,
+        "question_type": "SHORT",
+        "question": "सतारसेन महाराजांच्या दरबारात का आला होता?",
+        "answer": "सतारसेन आपली गायन कला दाखवण्यासाठी आणि बक्षीस मिळवण्यासाठी आला होता."
+      },
+      {
+        "question_id": 62,
+        "question_type": "SHORT",
+        "question": "पहारेकऱ्याने सतारसेनला गाण्यात काय विचारले?",
+        "answer": "पहारेकऱ्याने गाण्यातून विचारले की, तू कोण आहेस आणि इथे का आला आहेस?"
+      },
+      {
+        "question_id": 63,
+        "question_type": "SHORT",
+        "question": "सतारसेनने पहारेकऱ्याला काय उत्तर दिले?",
+        "answer": "सतारसेनने गाण्यातूनच सांगितले की मी एक गवई आहे आणि राजाला भेटायला आलो आहे."
+      },
+      {
+        "question_id": 64,
+        "question_type": "SHORT",
+        "question": "गाण्याच्या नियमामुळे कामात काय अडथळा येत होता?",
+        "answer": "साध्या गोष्टी सांगायलाही खूप वेळ लागत होता, त्यामुळे महत्त्वाची कामे रखडत होती."
+      },
+      {
+        "question_id": 65,
+        "question_type": "SHORT",
+        "question": "महाराजांना गाण्याचा नियम कधी रद्द करावा लागला?",
+        "answer": "जेव्हा स्वतःच्या जेवणाचे नुकसान झाले आणि सगळीकडे गोंधळ उडाला, तेव्हा नियम रद्द करावा लागला."
+      },
+      {
+        "question_id": 66,
+        "question_type": "SHORT",
+        "question": "नाटकातील विनोदी प्रसंग कोणता आहे?",
+        "answer": "स्वयंपाक्याने भाजी जळाल्याची बातमी रडत रडत गाण्यात सांगणे, हा विनोदी प्रसंग आहे."
+      },
+      {
+        "question_id": 67,
+        "question_type": "SHORT",
+        "question": "प्रजा महाराजांच्या नवीन नियमामुळे खुश होती का?",
+        "answer": "नाही, प्रजा या विचित्र नियमामुळे गोंधळलेली आणि काळजीत होती."
+      },
+      {
+        "question_id": 68,
+        "question_type": "SHORT",
+        "question": "गाण्यात बोलणे सक्तीचे केल्यावर काय झाले?",
+        "answer": "गाण्यात बोलणे सक्तीचे केल्यावर लोक वेड्यासारखे वागू लागले आणि कामाचा बट्ट्याबोळ झाला."
+      },
+      {
+        "question_id": 69,
+        "question_type": "SHORT",
+        "question": "महाराजांनी नियम रद्द करताना काय म्हटले?",
+        "answer": "महाराजांनी म्हटले की, आता गाणे बंद करा, आपण साध्या भाषेतच बोलूया."
+      },
+      {
+        "question_id": 70,
+        "question_type": "SHORT",
+        "question": "या पाठातून काय बोध मिळतो?",
+        "answer": "कोणत्याही गोष्टीचा अतिरेक करू नये, कारण 'अति तिथे माती' होते, हा बोध मिळतो."
+      },
+      {
+        "question_id": 71,
+        "question_type": "SHORT",
+        "question": "दवंडी म्हणजे काय?",
+        "answer": "लोकांना महत्त्वाची सूचना देण्यासाठी ढोल वाजवून केलेली घोषणा म्हणजे दवंडी."
+      },
+      {
+        "question_id": 72,
+        "question_type": "SHORT",
+        "question": "महाराजांच्या प्रकृतीवर गाण्याचा काय परिणाम झाला?",
+        "answer": "सारखे गाणे ऐकून आणि स्वतः गाऊन महाराजांचे डोके दुखू लागले होते."
+      },
+      {
+        "question_id": 73,
+        "question_type": "SHORT",
+        "question": "स्वयंपाक्याने भाजी जळाल्यावर काय केले?",
+        "answer": "स्वयंपाक्याने ती गोष्ट गाण्यातून सांगण्याचा प्रयत्न केला ज्यामुळे उशीर झाला."
+      },
+      {
+        "question_id": 74,
+        "question_type": "SHORT",
+        "question": "कशाच्या अतिरेकामुळे राज्यात गोंधळ उडाला?",
+        "answer": "गाण्याच्या अतिरेकामुळे राज्यात गोंधळ उडाला."
+      },
+      {
+        "question_id": 75,
+        "question_type": "SHORT",
+        "question": "महाराजांना स्वतःचा निर्णय चुकीचा का वाटला?",
+        "answer": "जेव्हा त्यांना भुकेले राहावे लागले, तेव्हा त्यांना आपला निर्णय चुकीचा वाटला."
+      },
+      {
+        "question_id": 76,
+        "question_type": "SHORT",
+        "question": "गवयाने गाणे सुरू केल्यावर काय झाले?",
+        "answer": "गवयाने गाणे सुरू केल्यावर महाराज खुश झाले पण नंतर कंटाळले."
+      },
+      {
+        "question_id": 77,
+        "question_type": "SHORT",
+        "question": "प्रधानाने दवंडी पिटवायला कोणाला सांगितले?",
+        "answer": "प्रधानाने दवंडी पिटवायला राज्याच्या दवंडीवाल्याला सांगितले."
+      },
+      {
+        "question_id": 78,
+        "question_type": "SHORT",
+        "question": "राजवाड्यातील शिस्त कशी होती?",
+        "answer": "राजवाड्यात कडक शिस्त होती, पण राजाच्या लहरीपणामुळे ती बिघडली होती."
+      },
+      {
+        "question_id": 79,
+        "question_type": "SHORT",
+        "question": "महाराजांनी प्रधानाला काय बजावले?",
+        "answer": "नियम मोडणाऱ्याला कडक शिक्षा होईल, असे महाराजांनी प्रधानाला बजावले."
+      },
+      {
+        "question_id": 80,
+        "question_type": "SHORT",
+        "question": "साध्या संवादाला महाराजांनी काय नाव दिले होते?",
+        "answer": "साध्या संवादाला त्यांनी 'जुनाट आणि कंटाळवाणे बोलणे' असे म्हटले होते."
+      },
+      {
+        "question_id": 81,
+        "question_type": "SHORT",
+        "question": "महाराजांच्या गाण्याच्या नियमाचा फायदा कोणाला झाला?",
+        "answer": "या नियमाचा कोणालाही फायदा झाला नाही, उलट सर्वांचे नुकसान झाले."
+      },
+      {
+        "question_id": 82,
+        "question_type": "SHORT",
+        "question": "स्वयंपाक्याचे गाणे ऐकून महाराज का चिडले?",
+        "answer": "तो गाणे लांबवत होता आणि भाजी जळत होती, म्हणून महाराज चिडले."
+      },
+      {
+        "question_id": 83,
+        "question_type": "SHORT",
+        "question": "राजवाड्यातील वातावरण कसे झाले होते?",
+        "answer": "राजवाड्यातील वातावरण गाण्यामुळे कोलाहलपूर्ण आणि हास्यास्पद झाले होते."
+      },
+      {
+        "question_id": 84,
+        "question_type": "SHORT",
+        "question": "महाराजांनी गाणे थांबवण्यासाठी काय केले?",
+        "answer": "महाराजांनी मोठ्याने ओरडून 'बस्स' म्हटले आणि गाणे थांबवले."
+      },
+      {
+        "question_id": 85,
+        "question_type": "SHORT",
+        "question": "सतारसेनने दरबारात काय सादर केले?",
+        "answer": "सतारसेनने दरबारात शास्त्रीय संगीत आणि राजाची स्तुती गाण्यातून सादर केली."
+      },
+      {
+        "question_id": 86,
+        "question_type": "SHORT",
+        "question": "प्रजा संकटात का आली होती?",
+        "answer": "दैनंदिन व्यवहार गाण्यात करणे अशक्य असल्याने प्रजा संकटात आली होती."
+      },
+      {
+        "question_id": 87,
+        "question_type": "SHORT",
+        "question": "महाराजांनी शेवटी कोणत्या शब्दांत कबुली दिली?",
+        "answer": "महाराजांनी कबूल केले की, कोणत्याही गोष्टीचा अतिरेक वाईट असतो."
+      },
+      {
+        "question_id": 88,
+        "question_type": "SHORT",
+        "question": "कांद्याची भाजी कोणी केली होती?",
+        "answer": "कांद्याची भाजी राज्याच्या स्वयंपाक्याने केली होती."
+      },
+      {
+        "question_id": 89,
+        "question_type": "SHORT",
+        "question": "महाराजांच्या लहरीपणाचे उदाहरण द्या.",
+        "answer": "अचानक गाण्यात बोलण्याचा नियम लागू करणे हे त्यांच्या लहरीपणाचे उदाहरण आहे."
+      },
+      {
+        "question_id": 90,
+        "question_type": "SHORT",
+        "question": "सतारसेनला काय बक्षीस मिळाले?",
+        "answer": "सुरुवातीला राजा खुश झाला होता पण नंतर गोंधळामुळे बक्षीस मिळणे अवघड झाले."
+      },
+      {
+        "question_id": 91,
+        "question_type": "SHORT",
+        "question": "नाटकाचा शेवट कसा होतो?",
+        "answer": "नाटकाचा शेवट राजाचा हट्ट सुटण्याने आणि नियम रद्द होण्याने होतो."
+      },
+      {
+        "question_id": 92,
+        "question_type": "SHORT",
+        "question": "महाराज स्वतः गात होते का?",
+        "answer": "हो, महाराज स्वतःही सर्वांशी गाण्यातच बोलत होते."
+      },
+      {
+        "question_id": 93,
+        "question_type": "SHORT",
+        "question": "प्रधानाने राजाला विरोध का केला नाही?",
+        "answer": "राजाची आज्ञा पाळणे हे प्रधानाचे कर्तव्य होते, म्हणून त्याने विरोध केला नाही."
+      },
+      {
+        "question_id": 94,
+        "question_type": "SHORT",
+        "question": "गाण्याचा नियम कोणत्या वेळेपासून सुरू झाला?",
+        "answer": "गाण्याचा नियम दुसऱ्या दिवशी सूर्योदयापासून सुरू झाला."
+      },
+      {
+        "question_id": 95,
+        "question_type": "SHORT",
+        "question": "राजवाड्यात कोणाचे गाणे ऐकू येत होते?",
+        "answer": "राजवाड्यात नोकर, सैनिक आणि राजा अशा सर्वांचे गाणे ऐकू येत होते."
+      },
+      {
+        "question_id": 96,
+        "question_type": "SHORT",
+        "question": "स्वयंपाक्याला रडू का येत होते?",
+        "answer": "त्याला भीती वाटत होती की राजा त्याला शिक्षा करेल कारण भाजी जळाली होती."
+      },
+      {
+        "question_id": 97,
+        "question_type": "SHORT",
+        "question": "महाराजांच्या राजवाड्यात शांतता का नव्हती?",
+        "answer": "दिवसभर लोक गात ओरडत असल्याने राजवाड्यात शांतता नव्हती."
+      },
+      {
+        "question_id": 98,
+        "question_type": "SHORT",
+        "question": "कोणता नियम प्रजेला त्रासदायक ठरला?",
+        "answer": "फक्त गाण्यातच बोलण्याचा नियम प्रजेला त्रासदायक ठरला."
+      },
+      {
+        "question_id": 99,
+        "question_type": "SHORT",
+        "question": "द. मा. मिरासदार हे कोणत्या प्रकारचे लेखक आहेत?",
+        "answer": "द. मा. मिरासदार हे प्रसिद्ध विनोदी लेखक आहेत."
+      },
+      {
+        "question_id": 100,
+        "question_type": "SHORT",
+        "question": "नाटकाचे शीर्षक सार्थ आहे का?",
+        "answer": "हो, नाटकाचे शीर्षक सार्थ आहे कारण राजाच्या अतिरेकी नियमामुळे सर्व नाश झाला होता."
+      },
+      {
+        "question_id": 101,
+        "question_type": "SHORT",
+        "question": "गवई आल्यावर पहारेकऱ्याने काय केले?",
+        "answer": "पहारेकऱ्याने त्याला गाण्यातूनच थांबवले आणि त्याची चौकशी केली."
+      },
+      {
+        "question_id": 102,
+        "question_type": "SHORT",
+        "question": "महाराजांनी भाजी का मागवली?",
+        "answer": "त्यांना खूप भूक लागली होती, म्हणून त्यांनी भाजी मागवली."
+      },
+      {
+        "question_id": 103,
+        "question_type": "SHORT",
+        "question": "जळाल्या भाजीचा वास कोठपर्यंत आला?",
+        "answer": "जळाल्या भाजीचा वास राजाच्या नाकापर्यंत आला होता."
+      },
+      {
+        "question_id": 104,
+        "question_type": "SHORT",
+        "question": "राजवाड्यात गाणे कधी थांबले?",
+        "answer": "जेव्हा राजाने स्वतः ओरडून नियम रद्द केला, तेव्हा गाणे थांबले."
+      },
+      {
+        "question_id": 105,
+        "question_type": "SHORT",
+        "question": "कशाचा कोळसा झाला होता?",
+        "answer": "कांद्याच्या भाजीचा कोळसा झाला होता."
+      },
+      {
+        "question_id": 106,
+        "question_type": "SHORT",
+        "question": "सतारसेन कोठे राहत होता?",
+        "answer": "सतारसेन दुसऱ्या राज्यात किंवा गावी राहत होता."
+      },
+      {
+        "question_id": 107,
+        "question_type": "SHORT",
+        "question": "महाराजांचा राग का अनावर झाला?",
+        "answer": "भूक लागलेली असताना गाण्यामुळे जेवण खराब झाले, म्हणून राजाचा राग अनावर झाला."
+      },
+      {
+        "question_id": 108,
+        "question_type": "SHORT",
+        "question": "या पाठातील मुख्य पात्र कोण आहे?",
+        "answer": "या पाठातील मुख्य पात्र चक्रदित्य महाराज हे आहेत."
+      },
+      {
+        "question_id": 109,
+        "question_type": "SHORT",
+        "question": "राजवाड्यात गाणे गाणे कशामुळे सुरू झाले?",
+        "answer": "राजाच्या लहरी आणि नवीन नियमामुळे गाणे सुरू झाले."
+      },
+      {
+        "question_id": 110,
+        "question_type": "SHORT",
+        "question": "लेखकांनी या पाठात काय टिंगल केली आहे?",
+        "answer": "लेखकांनी सत्ताधाऱ्यांच्या विचित्र नियमांची आणि लहरीपणाची टिंगल केली आहे."
+      },
+      {
+        "question_id": 111,
+        "question_type": "SHORT",
+        "question": "स्वयंपाक्याला गाण्याचे ज्ञान होते का?",
+        "answer": "नाही, तो फक्त राजाच्या भीतीपोटी गाण्याचा प्रयत्न करत होता."
+      },
+      {
+        "question_id": 112,
+        "question_type": "SHORT",
+        "question": "प्रधानाने कोणाची बाजू घेतली?",
+        "answer": "प्रधानाने कोणाचीही बाजू न घेता फक्त राजाची आज्ञा पाळली."
+      },
+      {
+        "question_id": 113,
+        "question_type": "SHORT",
+        "question": "गवयाने राजाची स्तुती कशी केली?",
+        "answer": "गवयाने राजाला 'महान गायक' आणि 'कलाप्रेमी' म्हणून गाण्यातून स्तुती केली."
+      },
+      {
+        "question_id": 114,
+        "question_type": "SHORT",
+        "question": "गाण्याचा परिणाम राज्याच्या कामावर कसा झाला?",
+        "answer": "राज्याची सर्व कामे ठप्प झाली आणि गोंधळ उडाला."
+      },
+      {
+        "question_id": 115,
+        "question_type": "SHORT",
+        "question": "राजाला कधी पश्चाताप झाला?",
+        "answer": "जेव्हा स्वतःचे जेवण जळाले आणि गळा दुखू लागला, तेव्हा राजाला पश्चाताप झाला."
+      },
+      {
+        "question_id": 116,
+        "question_type": "SHORT",
+        "question": "लोक साधे बोलले तर पहारेकरी काय करत?",
+        "answer": "पहारेकरी त्यांना पकडून राजासमोर हजर करत किंवा गाण्याची आठवण करून देत."
+      },
+      {
+        "question_id": 117,
+        "question_type": "SHORT",
+        "question": "चक्रदित्य महाराजांचा स्वभाव कसा होता?",
+        "answer": "चक्रदित्य महाराज लहरी, हट्टी आणि स्वतःला शहाणे समजणारे होते."
+      },
+      {
+        "question_id": 118,
+        "question_type": "SHORT",
+        "question": "दवंडीवाल्याने नगारा का वाजवला?",
+        "answer": "लोकांचे लक्ष वेधून घेण्यासाठी त्याने नगारा वाजवला."
+      },
+      {
+        "question_id": 119,
+        "question_type": "SHORT",
+        "question": "नाटकातील संवाद कसे आहेत?",
+        "answer": "नाटकातील संवाद लयबद्ध, यमक जुळवणारे आणि विनोदी आहेत."
+      },
+      {
+        "question_id": 120,
+        "question_type": "SHORT",
+        "question": "अति तिथे माती होणे म्हणजे काय?",
+        "answer": "मर्यादेबाहेर गेलेल्या कोणत्याही गोष्टीचा शेवट वाईट होणे."
+      },
+      {
+        "question_id": 121,
+        "question_type": "SHORT",
+        "question": "नाटकातील प्रमुख संघर्ष कोणता?",
+        "answer": "राजाचा हट्ट विरुद्ध प्रजेची अडचण हा प्रमुख संघर्ष आहे."
+      },
+      {
+        "question_id": 122,
+        "question_type": "SHORT",
+        "question": "गवयाला राजवाड्यात शिरताना अडचण का आली?",
+        "answer": "पहारेकरी गाण्यात बोलल्यामुळे त्याला काहीच समजत नव्हते, म्हणून अडचण आली."
+      },
+      {
+        "question_id": 123,
+        "question_type": "SHORT",
+        "question": "महाराजांनी गाणे कधी शिकले होते?",
+        "answer": "नाटकात तसा उल्लेख नाही, ते फक्त हौस म्हणून गात होते."
+      },
+      {
+        "question_id": 124,
+        "question_type": "SHORT",
+        "question": "प्रधानाचे काम काय होते?",
+        "answer": "राजाच्या आज्ञेची अंमलबजावणी करणे हे प्रधानाचे काम होते."
+      },
+      {
+        "question_id": 125,
+        "question_type": "SHORT",
+        "question": "गाण्यातून बोलणे सक्तीचे केल्यावर संगीताचा काय झाला?",
+        "answer": "संगीताचा अपमान झाला कारण लोक विनाकारण ओरडत होते."
+      },
+      {
+        "question_id": 126,
+        "question_type": "SHORT",
+        "question": "स्वयंपाक्याचे गाणे पाहून कोणाला हसू आले?",
+        "answer": "हे वाचताना किंवा पाहताना प्रेक्षकांना/वाचकांना हसू येते."
+      },
+      {
+        "question_id": 127,
+        "question_type": "SHORT",
+        "question": "महाराजांनी गाणे बंद करण्याचा आदेश कोणत्या भाषेत दिला?",
+        "answer": "महाराजांनी तो आदेश साध्या आणि स्पष्ट भाषेत दिला."
+      },
+      {
+        "question_id": 128,
+        "question_type": "SHORT",
+        "question": "राजवाड्यात गाणे गाण्याचे बंधन कोणाला होते?",
+        "answer": "राजवाड्यातील नोकरांपासून राजापर्यंत सर्वांना हे बंधन होते."
+      },
+      {
+        "question_id": 129,
+        "question_type": "SHORT",
+        "question": "गवई पळून का गेला असावा?",
+        "answer": "राज्यातील वेडेपणा पाहून आणि बक्षीस मिळणार नाही असे वाटल्याने तो पळून जाण्याची शक्यता होती."
+      },
+      {
+        "question_id": 130,
+        "question_type": "SHORT",
+        "question": "पाठात 'कोळसा' हा शब्द कशासाठी वापरला आहे?",
+        "answer": "जळालेल्या भाजीच्या अवस्थेचे वर्णन करण्यासाठी 'कोळसा' शब्द वापरला आहे."
+      },
+      {
+        "question_id": 131,
+        "question_type": "SHORT",
+        "question": "नाटकातील विनोदी परिणाम कशामुळे साधला आहे?",
+        "answer": "अस्वाभाविक परिस्थितीत लोक कसे वागतात, यातून विनोदी परिणाम साधला आहे."
+      },
+      {
+        "question_id": 132,
+        "question_type": "SHORT",
+        "question": "महाराजांना संगीताची आवड होती का?",
+        "answer": "त्यांना आवड होती पण ती अतिरेकी आणि चुकीच्या पद्धतीची होती."
+      },
+      {
+        "question_id": 133,
+        "question_type": "SHORT",
+        "question": "प्रजेच्या मनात राजाबद्दल काय भावना होती?",
+        "answer": "प्रजेच्या मनात राजाच्या लहरीपणामुळे भीती आणि राग होता."
+      },
+      {
+        "question_id": 134,
+        "question_type": "SHORT",
+        "question": "राजवाड्याच्या कामाची गती का मंदावली?",
+        "answer": "प्रत्येक गोष्ट सुरात म्हणण्याच्या प्रयत्नात वेळ वाया जात होता."
+      },
+      {
+        "question_id": 135,
+        "question_type": "SHORT",
+        "question": "भाजी जळाल्याची तक्रार कोणी केली?",
+        "answer": "स्वतः राजाने वासावरून भाजी जळाल्याचे ओळखले."
+      },
+      {
+        "question_id": 136,
+        "question_type": "SHORT",
+        "question": "महाराजांच्या नवीन कायद्याचे नाव काय देता येईल?",
+        "answer": "सक्तीचे गायन कायदा."
+      },
+      {
+        "question_id": 137,
+        "question_type": "SHORT",
+        "question": "लेखकांनी कोणावर टीका केली आहे?",
+        "answer": "विनाकारण नियम लादणाऱ्या राज्यकर्त्यांवर लेखकांनी टीका केली आहे."
+      },
+      {
+        "question_id": 138,
+        "question_type": "SHORT",
+        "question": "स्वयंपाक्याचे गाणे संपायच्या आधी काय झाले?",
+        "answer": "स्वयंपाक्याचे गाणे संपायच्या आधीच भाजी पूर्ण जळून खाक झाली."
+      },
+      {
+        "question_id": 139,
+        "question_type": "SHORT",
+        "question": "राजाचा पारा चढणे म्हणजे काय?",
+        "answer": "राजाला खूप राग येणे."
+      },
+      {
+        "question_id": 140,
+        "question_type": "SHORT",
+        "question": "नाटकाचा संदेश काय आहे?",
+        "answer": "विवेकाने वागावे आणि कोणत्याही गोष्टीचा अतिरेक टाळावा."
+      },
+      {
+        "question_id": 141,
+        "question_type": "SHORT",
+        "question": "राजवाड्यातील नोकर कशात रमले होते?",
+        "answer": "नोकर गाण्याच्या सक्तीमुळे केवळ गाण्यातच रमल्याचे भासवत होते."
+      },
+      {
+        "question_id": 142,
+        "question_type": "SHORT",
+        "question": "सतारसेनने राजाला काय समजवले?",
+        "answer": "सतारसेनने राजाला संगीताचे खरे महत्त्व समजावण्याचा प्रयत्न केला."
+      },
+      {
+        "question_id": 143,
+        "question_type": "SHORT",
+        "question": "दवंडीवाल्याचा पोशाख कसा असावा?",
+        "answer": "पारंपारिक पायजमा, अंगरखा आणि डोक्याला फेटा असा पोशाख असावा."
+      },
+      {
+        "question_id": 144,
+        "question_type": "SHORT",
+        "question": "महाराजांनी सुटकेचा निश्वास कधी टाकला?",
+        "answer": "जेव्हा त्यांनी स्वतःच गाणे बंद करण्याचा निर्णय घेतला तेव्हा."
+      },
+      {
+        "question_id": 145,
+        "question_type": "SHORT",
+        "question": "राज्यात पुन्हा शांतता कशी आली?",
+        "answer": "गाण्याचा नियम रद्द झाल्यामुळे राज्यात पुन्हा शांतता आली."
+      },
+      {
+        "question_id": 146,
+        "question_type": "SHORT",
+        "question": "नाटकाचे स्वरूप काय आहे?",
+        "answer": "हे एक प्रहसन किंवा विनोदी एकांकिका स्वरूपाचे नाटक आहे."
+      },
+      {
+        "question_id": 147,
+        "question_type": "SHORT",
+        "question": "राजाला कोणत्या गोष्टीचे भान राहिले नव्हते?",
+        "answer": "लोकांच्या अडचणींचे आणि वेळेचे भान राजाला राहिले नव्हते."
+      },
+      {
+        "question_id": 148,
+        "question_type": "SHORT",
+        "question": "स्वयंपाकी कोणासमोर उभा होता?",
+        "answer": "स्वयंपाकी थरथरत राजासमोर उभा होता."
+      },
+      {
+        "question_id": 149,
+        "question_type": "SHORT",
+        "question": "राजवाड्याची शोभा कशामुळे कमी झाली?",
+        "answer": "विचित्र गाण्यांच्या ओरडण्यामुळे राजवाड्याची शोभा कमी झाली."
+      },
+      {
+        "question_id": 150,
+        "question_type": "SHORT",
+        "question": "पाठ वाचताना तुम्हाला काय वाटले?",
+        "answer": "पाठ वाचताना खूप मजा आली आणि अतिरेकी वागण्याचे तोटे समजले."
+      }
+    ]
+  }

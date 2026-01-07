@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 25,
+  "chapter_name": "सामाजिक आरोग्य",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सामाजिक आरोग्य धोक्यात येण्याचे मुख्य कारण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "व्यायाम", "is_correct": false },
+        { "option_id": 2, "text": "व्यसनाधीनता", "is_correct": true },
+        { "option_id": 3, "text": "वाचन", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "व्यसनाधीनता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती गोष्ट सामाजिक आरोग्यासाठी चांगली आहे?",
+      "options": [
+        { "option_id": 1, "text": "जास्त वेळ टीव्ही पाहणे", "is_correct": false },
+        { "option_id": 2, "text": "मैदानी खेळ खेळणे", "is_correct": true },
+        { "option_id": 3, "text": "सतत चिडचिड करणे", "is_correct": false },
+        { "option_id": 4, "text": "एकटे राहणे", "is_correct": false }
+      ],
+      "answer": "मैदानी खेळ खेळणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "तंबाखू सेवनामुळे कोणता भयानक रोग होऊ शकतो?",
+      "options": [
+        { "option_id": 1, "text": "ताप", "is_correct": false },
+        { "option_id": 2, "text": "खोकला", "is_correct": false },
+        { "option_id": 3, "text": "कर्करोग (Cancer)", "is_correct": true },
+        { "option_id": 4, "text": "सर्दी", "is_correct": false }
+      ],
+      "answer": "कर्करोग (Cancer)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मद्यपानामुळे शरीराचा कोणता अवयव प्रामुख्याने खराब होतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": false },
+        { "option_id": 2, "text": "यकृत (Liver)", "is_correct": true },
+        { "option_id": 3, "text": "कान", "is_correct": false },
+        { "option_id": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "यकृत (Liver)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "व्यसनाधीन व्यक्तीचा प्रभाव कोणावर पडतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ स्वतःवर", "is_correct": false },
+        { "option_id": 2, "text": "फक्त शेजाऱ्यांवर", "is_correct": false },
+        { "option_id": 3, "text": "संपूर्ण कुटुंबावर", "is_correct": true },
+        { "option_id": 4, "text": "कोणावरही नाही", "is_correct": false }
+      ],
+      "answer": "संपूर्ण कुटुंबावर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कोणती कृती सामाजिक सौहार्द वाढवते?",
+      "options": [
+        { "option_id": 1, "text": "भांडण करणे", "is_correct": false },
+        { "option_id": 2, "text": "इतरांना मदत करणे", "is_correct": true },
+        { "option_id": 3, "text": "कचरा रस्त्यावर टाकणे", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्याने गाणी लावणे", "is_correct": false }
+      ],
+      "answer": "इतरांना मदत करणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "निकोटीन हा घातक पदार्थ कशात असतो?",
+      "options": [
+        { "option_id": 1, "text": "दुधात", "is_correct": false },
+        { "option_id": 2, "text": "तंबाखूमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "फळांच्या रसात", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "तंबाखूमध्ये"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चांगल्या आरोग्यासाठी कोणती सवय गरजेची आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेळेवर झोपणे", "is_correct": true },
+        { "option_id": 2, "text": "रात्रभर जागे राहणे", "is_correct": false },
+        { "option_id": 3, "text": "बाहेरचे अन्न खाणे", "is_correct": false },
+        { "option_id": 4, "text": "हात न धुता जेवणे", "is_correct": false }
+      ],
+      "answer": "वेळेवर झोपणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक ठिकाणी थुंकल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छता राहते", "is_correct": false },
+        { "option_id": 2, "text": "रोगांचा प्रसार होतो", "is_correct": true },
+        { "option_id": 3, "text": "हवा शुद्ध होते", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "रोगांचा प्रसार होतो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मद्यपानामुळे माणसाचे कशावरचे नियंत्रण सुटते?",
+      "options": [
+        { "option_id": 1, "text": "आवाजावरचे", "is_correct": false },
+        { "option_id": 2, "text": "स्नायूंवरचे व मेंदूवरचे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ चालण्यावरचे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त डोळ्यांवरचे", "is_correct": false }
+      ],
+      "answer": "स्नायूंवरचे व मेंदूवरचे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आरोग्य म्हणजे केवळ रोगाचा अभाव नाही, तर ती एक ________ स्थिती आहे.",
+      "options": [
+        { "option_id": 1, "text": "आर्थिक", "is_correct": false },
+        { "option_id": 2, "text": "शारीरिक, मानसिक व सामाजिक सुस्थिती", "is_correct": true },
+        { "option_id": 3, "text": "फक्त शारीरिक", "is_correct": false },
+        { "option_id": 4, "text": "फक्त मानसिक", "is_correct": false }
+      ],
+      "answer": "शारीरिक, मानसिक व सामाजिक सुस्थिती"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सामाजिक स्वास्थ्यासाठी काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "मित्र बनवणे", "is_correct": false },
+        { "option_id": 2, "text": "द्वेष आणि मत्सर", "is_correct": true },
+        { "option_id": 3, "text": "अभ्यास करणे", "is_correct": false },
+        { "option_id": 4, "text": "सहलीला जाणे", "is_correct": false }
+      ],
+      "answer": "द्वेष आणि मत्सर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अमली पदार्थांच्या सेवनामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शक्ती वाढते", "is_correct": false },
+        { "option_id": 2, "text": "बुद्धी तल्लख होते", "is_correct": false },
+        { "option_id": 3, "text": "शारीरिक व मानसिक अध:पतन होते", "is_correct": true },
+        { "option_id": 4, "text": "काही परिणाम होत नाही", "is_correct": false }
+      ],
+      "answer": "शारीरिक व मानसिक अध:पतन होते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कुटुंबाचे सामाजिक आरोग्य कशावर अवलंबून असते?",
+      "options": [
+        { "option_id": 1, "text": "घरातील पैशांवर", "is_correct": false },
+        { "option_id": 2, "text": "घरातील व्यक्तींच्या परस्पर संबंधांवर", "is_correct": true },
+        { "option_id": 3, "text": "घराच्या आकारावर", "is_correct": false },
+        { "option_id": 4, "text": "टीव्हीच्या संख्येवर", "is_correct": false }
+      ],
+      "answer": "घरातील व्यक्तींच्या परस्पर संबंधांवर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "तंबाखूच्या धुरामुळे कोणाला त्रास होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पिणाऱ्याला", "is_correct": false },
+        { "option_id": 2, "text": "आजूबाजूच्या व्यक्तींना सुद्धा", "is_correct": true },
+        { "option_id": 3, "text": "कोणालाच नाही", "is_correct": false },
+        { "option_id": 4, "text": "फक्त लहान मुलांना", "is_correct": false }
+      ],
+      "answer": "आजूबाजूच्या व्यक्तींना सुद्धा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "एड्स (AIDS) हा रोग टाळण्यासाठी काय महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "अमली पदार्थांपासून दूर राहणे", "is_correct": true },
+        { "option_id": 2, "text": "रोज गोड खाणे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त पाणी पिणे", "is_correct": false },
+        { "option_id": 4, "text": "कमी झोपणे", "is_correct": false }
+      ],
+      "answer": "अमली पदार्थांपासून दूर राहणे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "व्यसनी माणसाची आर्थिक स्थिती कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "खूप चांगली होते", "is_correct": false },
+        { "option_id": 2, "text": "खालावते (कर्जबाजारी होतो)", "is_correct": true },
+        { "option_id": 3, "text": "बदलत नाही", "is_correct": false },
+        { "option_id": 4, "text": "तो श्रीमंत होतो", "is_correct": false }
+      ],
+      "answer": "खालावते (कर्जबाजारी होतो)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सामाजिक आरोग्यासाठी घातक गोष्ट ओळखा:",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "वृक्षारोपण", "is_correct": false },
+        { "option_id": 3, "text": "अंधश्रद्धा", "is_correct": true },
+        { "option_id": 4, "text": "स्वच्छता", "is_correct": false }
+      ],
+      "answer": "अंधश्रद्धा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "दारू पिऊन गाडी चालवल्यामुळे काय होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "लवकर पोहोचतो", "is_correct": false },
+        { "option_id": 2, "text": "अपघात होऊ शकतो", "is_correct": true },
+        { "option_id": 3, "text": "पेट्रोल वाचते", "is_correct": false },
+        { "option_id": 4, "text": "आनंद मिळतो", "is_correct": false }
+      ],
+      "answer": "अपघात होऊ शकतो"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मुलांना चांगली वळण कोठे लागतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "घर आणि शाळेत", "is_correct": true },
+        { "option_id": 3, "text": "मोबाईलवर", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "घर आणि शाळेत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सामाजिक स्वास्थ्य बिघडवण्यास कारणीभूत घटक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शांतता", "is_correct": false },
+        { "option_id": 2, "text": "गलिच्छ वस्ती", "is_correct": true },
+        { "option_id": 3, "text": "बागकाम", "is_correct": false },
+        { "option_id": 4, "text": "वाचनालय", "is_correct": false }
+      ],
+      "answer": "गलिच्छ वस्ती"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "निकोटीनमुळे शरीराच्या कोणत्या क्रियेवर परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "रक्तवाहिन्या आकुंचन पावतात", "is_correct": true },
+        { "option_id": 2, "text": "हाडे मजबूत होतात", "is_correct": false },
+        { "option_id": 3, "text": "भूक वाढते", "is_correct": false },
+        { "option_id": 4, "text": "झोप चांगली लागते", "is_correct": false }
+      ],
+      "answer": "रक्तवाहिन्या आकुंचन पावतात"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गुटख्यामध्ये कोणता घातक घटक असतो?",
+      "options": [
+        { "option_id": 1, "text": "व्हिटॅमिन", "is_correct": false },
+        { "option_id": 2, "text": "कॅल्शिअम", "is_correct": false },
+        { "option_id": 3, "text": "तंबाखू व रासायनिक द्रव्ये", "is_correct": true },
+        { "option_id": 4, "text": "मध", "is_correct": false }
+      ],
+      "answer": "तंबाखू व रासायनिक द्रव्ये"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते व्यसन नाही?",
+      "options": [
+        { "option_id": 1, "text": "विडी पिणे", "is_correct": false },
+        { "option_id": 2, "text": "दारू पिणे", "is_correct": false },
+        { "option_id": 3, "text": "रोज दूध पिणे", "is_correct": true },
+        { "option_id": 4, "text": "सिगारेट ओढणे", "is_correct": false }
+      ],
+      "answer": "रोज दूध पिणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सामाजिक आरोग्याची पहिली पायरी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःची स्वच्छता", "is_correct": true },
+        { "option_id": 2, "text": "दुसऱ्याला दोष देणे", "is_correct": false },
+        { "option_id": 3, "text": "भरपूर पैसा कमवणे", "is_correct": false },
+        { "option_id": 4, "text": "मोठी गाडी घेणे", "is_correct": false }
+      ],
+      "answer": "स्वतःची स्वच्छता"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मद्यपानामुळे कुटुंबावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "कुटुंब आनंदी राहते", "is_correct": false },
+        { "option_id": 2, "text": "मुलांचे शिक्षण सुटते व गरिबी येते", "is_correct": true },
+        { "option_id": 3, "text": "कुटुंबाचा सन्मान वाढतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "मुलांचे शिक्षण सुटते व गरिबी येते"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशामुळे तोंड व घशाचा कॅन्सर होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाणी पिण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "तंबाखू खाण्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "फळे खाण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "भाजी खाण्यामुळे", "is_correct": false }
+      ],
+      "answer": "तंबाखू खाण्यामुळे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "चांगल्या समाजासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकता व सहकार्य", "is_correct": true },
+        { "option_id": 2, "text": "भांडणे", "is_correct": false },
+        { "option_id": 3, "text": "एकमेकांचा द्वेष", "is_correct": false },
+        { "option_id": 4, "text": "भेदभाव", "is_correct": false }
+      ],
+      "answer": "एकता व सहकार्य"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "व्यसनाधीन माणसाची समाजात काय अवस्था होते?",
+      "options": [
+        { "option_id": 1, "text": "खूप आदर मिळतो", "is_correct": false },
+        { "option_id": 2, "text": "मान-सन्मान कमी होतो", "is_correct": true },
+        { "option_id": 3, "text": "लोक घाबरतात", "is_correct": false },
+        { "option_id": 4, "text": "तो नेता होतो", "is_correct": false }
+      ],
+      "answer": "मान-सन्मान कमी होतो"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मानसिक ताण कमी करण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "दारू प्यावी", "is_correct": false },
+        { "option_id": 2, "text": "छंद जोपासावे किंवा मित्रांशी बोलावे", "is_correct": true },
+        { "option_id": 3, "text": "कोणाशीही बोलू नये", "is_correct": false },
+        { "option_id": 4, "text": "राग करावा", "is_correct": false }
+      ],
+      "answer": "छंद जोपासावे किंवा मित्रांशी बोलावे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक आरोग्य राखण्यासाठी शासनाने कशावर बंदी घातली आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळेवर", "is_correct": false },
+        { "option_id": 2, "text": "सार्वजनिक ठिकाणी थुंकण्यावर व धुम्रपानावर", "is_correct": true },
+        { "option_id": 3, "text": "बोलण्यावर", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यावर", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक ठिकाणी थुंकण्यावर व धुम्रपानावर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "आरोग्यपूर्ण आयुष्यासाठी कोणता आहार घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "तळलेले पदार्थ", "is_correct": false },
+        { "option_id": 2, "text": "संतुलित आहार", "is_correct": true },
+        { "option_id": 3, "text": "फक्त चॉकलेट", "is_correct": false },
+        { "option_id": 4, "text": "जास्त तिखट अन्न", "is_correct": false }
+      ],
+      "answer": "संतुलित आहार"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "व्यसनामुळे कशाचा नाश होतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ पैशाचा", "is_correct": false },
+        { "option_id": 2, "text": "पैसा, आरोग्य आणि चारित्र्याचा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वेळेचा", "is_correct": false },
+        { "option_id": 4, "text": "कशाचाच नाही", "is_correct": false }
+      ],
+      "answer": "पैसा, आरोग्य आणि चारित्र्याचा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "लहान मुलांवर व्यसनाचा प्रभाव पडू नये म्हणून काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना व्यसनांपासून दूर ठेवावे", "is_correct": true },
+        { "option_id": 2, "text": "त्यांना पैसे द्यावे", "is_correct": false },
+        { "option_id": 3, "text": "त्यांना एकटे सोडावे", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना टीव्ही पाहू द्यावा", "is_correct": false }
+      ],
+      "answer": "त्यांना व्यसनांपासून दूर ठेवावे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता अमली पदार्थ नाही?",
+      "options": [
+        { "option_id": 1, "text": "गांजा", "is_correct": false },
+        { "option_id": 2, "text": "कोकेन", "is_correct": false },
+        { "option_id": 3, "text": "शहाळ्याचे पाणी", "is_correct": true },
+        { "option_id": 4, "text": "चरस", "is_correct": false }
+      ],
+      "answer": "शहाळ्याचे पाणी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "मद्यपी माणसाच्या घरात नेहमी काय असते?",
+      "options": [
+        { "option_id": 1, "text": "शांतता", "is_correct": false },
+        { "option_id": 2, "text": "भांडण व अशांती", "is_correct": true },
+        { "option_id": 3, "text": "आनंद", "is_correct": false },
+        { "option_id": 4, "text": "सुबत्ता", "is_correct": false }
+      ],
+      "answer": "भांडण व अशांती"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "व्यसनापासून मुक्ती मिळवण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "खूप पैसे", "is_correct": false },
+        { "option_id": 2, "text": "प्रबळ इच्छाशक्ती", "is_correct": true },
+        { "option_id": 3, "text": "कोणालाही न सांगणे", "is_correct": false },
+        { "option_id": 4, "text": "सतत झोपणे", "is_correct": false }
+      ],
+      "answer": "प्रबळ इच्छाशक्ती"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "निरोगी व्यक्ती म्हणजे _________.",
+      "options": [
+        { "option_id": 1, "text": "जी आजारी पडत नाही", "is_correct": false },
+        { "option_id": 2, "text": "जी शारीरिक व मानसिकदृष्ट्या सक्षम आहे", "is_correct": true },
+        { "option_id": 3, "text": "जी फक्त व्यायाम करते", "is_correct": false },
+        { "option_id": 4, "text": "जी खूप खाते", "is_correct": false }
+      ],
+      "answer": "जी शारीरिक व मानसिकदृष्ट्या सक्षम आहे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सिगारेटच्या पाकिटावर कोणती चेतावणी असते?",
+      "options": [
+        { "option_id": 1, "text": "खूप प्या", "is_correct": false },
+        { "option_id": 2, "text": "धुम्रपान आरोग्यास घातक आहे", "is_correct": true },
+        { "option_id": 3, "text": "हे आरोग्यदायी आहे", "is_correct": false },
+        { "option_id": 4, "text": "मज्जा करा", "is_correct": false }
+      ],
+      "answer": "धुम्रपान आरोग्यास घातक आहे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सामाजिक आरोग्य चांगले असेल तर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "देशाची प्रगती होते", "is_correct": true },
+        { "option_id": 2, "text": "काही फरक पडत नाही", "is_correct": false },
+        { "option_id": 3, "text": "लोक आळशी होतात", "is_correct": false },
+        { "option_id": 4, "text": "भांडणे वाढतात", "is_correct": false }
+      ],
+      "answer": "देशाची प्रगती होते"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ दात व हिरड्या खराब करतो?",
+      "options": [
+        { "option_id": 1, "text": "पालेभाज्या", "is_correct": false },
+        { "option_id": 2, "text": "खारीक", "is_correct": false },
+        { "option_id": 3, "text": "तंबाखू व मावा", "is_correct": true },
+        { "option_id": 4, "text": "सफरचंद", "is_correct": false }
+      ],
+      "answer": "तंबाखू व मावा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "गर्दीच्या ठिकाणी काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "थुंकणे", "is_correct": true },
+        { "option_id": 2, "text": "चालणे", "is_correct": false },
+        { "option_id": 3, "text": "बघणे", "is_correct": false },
+        { "option_id": 4, "text": "मास्क लावणे", "is_correct": false }
+      ],
+      "answer": "थुंकणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "व्यसनी व्यक्तीला कोणत्या मदतीची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "व्यसनमुक्ती केंद्र आणि समुपदेशन", "is_correct": true },
+        { "option_id": 2, "text": "शिक्षा", "is_correct": false },
+        { "option_id": 3, "text": "भरपूर दारू", "is_correct": false },
+        { "option_id": 4, "text": "एकटेपण", "is_correct": false }
+      ],
+      "answer": "व्यसनमुक्ती केंद्र and समुपदेशन"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मद्यपानामुळे अन्नाचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "चांगले पचन होते", "is_correct": false },
+        { "option_id": 2, "text": "पचन नीट होत नाही", "is_correct": true },
+        { "option_id": 3, "text": "काहीही होत नाही", "is_correct": false },
+        { "option_id": 4, "text": "भूक वाढते", "is_correct": false }
+      ],
+      "answer": "पचन नीट होत नाही"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आरोग्य म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "नुसते व्यायाम करणे", "is_correct": false },
+        { "option_id": 2, "text": "शारीरिक, मानसिक व सामाजिक सुस्थिती", "is_correct": true },
+        { "option_id": 3, "text": "खूप जाड होणे", "is_correct": false },
+        { "option_id": 4, "text": "खूप पैसे असणे", "is_correct": false }
+      ],
+      "answer": "शारीरिक, मानसिक व सामाजिक सुस्थिती"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सामाजिक आरोग्यावर कशाचा परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छता", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 3, "text": "प्रदूषण", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "निरोगी राहण्यासाठी काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "फळे खाणे", "is_correct": false },
+        { "option_id": 2, "text": "अमली पदार्थांचे सेवन", "is_correct": true },
+        { "option_id": 3, "text": "खेळणे", "is_correct": false },
+        { "option_id": 4, "text": "पोहणे", "is_correct": false }
+      ],
+      "answer": "अमली पदार्थांचे सेवन"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "दारू पिणाऱ्या माणसाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "व्यसनी", "is_correct": true },
+        { "option_id": 2, "text": "खेळाडू", "is_correct": false },
+        { "option_id": 3, "text": "विद्वान", "is_correct": false },
+        { "option_id": 4, "text": "निरोगी", "is_correct": false }
+      ],
+      "answer": "व्यसनी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कर्करोगावर उपचार करणे _________.",
+      "options": [
+        { "option_id": 1, "text": "खूप सोपे असते", "is_correct": false },
+        { "option_id": 2, "text": "कठिण व महाग असते", "is_correct": true },
+        { "option_id": 3, "text": "मोफत असते", "is_correct": false },
+        { "option_id": 4, "text": "गरज नसते", "is_correct": false }
+      ],
+      "answer": "कठिण व महाग असते"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "व्यसनाधीनतेमुळे कोणाचे नुकसान होते?",
+      "options": [
+        { "option_id": 1, "text": "देशाचे", "is_correct": false },
+        { "option_id": 2, "text": "कुटुंबाचे", "is_correct": false },
+        { "option_id": 3, "text": "व्यक्तीचे", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्वांचे", "is_correct": true }
+      ],
+      "answer": "वरील सर्वांचे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आरोग्य म्हणजे काय?",
+      "answer": "आरोग्य म्हणजे केवळ रोगाचा अभाव नसून शारीरिक, मानसिक आणि सामाजिकदृष्ट्या पूर्णत: सुस्थितीत असणे होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्य कशाला म्हणतात?",
+      "answer": "समाजातील व्यक्तींचे आरोग्य आणि त्यांच्यातील परस्पर संबंध चांगले असणे याला सामाजिक आरोग्य म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीनता म्हणजे काय?",
+      "answer": "एखाद्या घातक पदार्थाची (उदा. तंबाखू, दारू) सवय लागणे आणि त्याशिवाय राहता न येणे याला व्यसनाधीनता म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "तंबाखू सेवनाचे दोन तोटे सांगा.",
+      "answer": "१. तोंड, घसा आणि फुफ्फुसाचा कर्करोग होतो. २. दात आणि हिरड्या खराब होतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मद्यपानामुळे मेंदूवर काय परिणाम होतो?",
+      "answer": "मद्यपानामुळे मेंदूचे शरीराच्या स्नायूंवरचे नियंत्रण सुटते आणि विचार करण्याची क्षमता कमी होते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांचे सेवन आरोग्यास घातक का आहे?",
+      "answer": "अमली पदार्थांमुळे मज्जासंस्थेवर परिणाम होतो, बुद्धी मंदावते आणि माणसाचे शारीरिक व मानसिक अध:पतन होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्य धोक्यात येणारी दोन कारणे लिहा.",
+      "answer": "व्यसनाधीनता आणि सार्वजनिक अस्वच्छता ही सामाजिक आरोग्य धोक्यात येणारी मुख्य कारणे आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "व्यसनी व्यक्तीच्या कुटुंबाची आर्थिक स्थिती का खालावते?",
+      "answer": "व्यसनी व्यक्ती पैशांचा अपव्यय अंमली पदार्थांवर करते आणि आजारपणामुळे कामावर जाऊ शकत नाही, म्हणून आर्थिक स्थिती खालावते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "धुम्रपानामुळे इतरांना काय त्रास होतो?",
+      "answer": "सिगारेट किंवा विडीचा धूर श्वासावाटे इतरांच्या शरीरात जातो, ज्यामुळे त्यांनाही श्वसनाचे आजार होऊ शकतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "निकोटीन म्हणजे काय?",
+      "answer": "तंबाखूमध्ये असलेला एक विषारी आणि घातक घटक म्हणजे निकोटीन होय."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "व्यसनमुक्त होण्यासाठी काय करावे?",
+      "answer": "व्यसनमुक्त होण्यासाठी प्रबळ इच्छाशक्ती, डॉक्टरांची मदत आणि व्यसनमुक्ती केंद्रांची मदत घ्यावी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सामाजिक स्वास्थ्य टिकवण्यासाठी आपण काय करू शकतो?",
+      "answer": "आपण परिसर स्वच्छ ठेवू शकतो आणि व्यसनांपासून दूर राहून इतरांनाही त्याबद्दल जागृत करू शकतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी थुंकल्यामुळे कोणते रोग पसरतात?",
+      "answer": "क्षयरोग (TB), स्वाईन फ्लू आणि इतर संसर्गजन्य रोग सार्वजनिक ठिकाणी थुंकल्यामुळे पसरतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांची नावे सांगा.",
+      "answer": "गांजा, कोकेन, हिरोईन, चरस ही अमली पदार्थांची काही उदाहरणे आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मद्यपानामुळे यकृतावर काय परिणाम होतो?",
+      "answer": "मद्यपानामुळे यकृताला सूज येते आणि हळूहळू ते काम करणे बंद करते (Liver Cirrhosis)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "तंबाखू खाणाऱ्या व्यक्तीच्या तोंडात कोणते बदल दिसतात?",
+      "answer": "तंबाखूमुळे तोंडात पांढरे चट्टे पडतात आणि हळूहळू जखमा होऊन कर्करोग होतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "निरोगी समाज म्हणजे काय?",
+      "answer": "ज्या समाजातील लोक शारीरिक आणि मानसिकदृष्ट्या सुदृढ असतात आणि एकमेकांशी प्रेमाने वागतात, त्याला निरोगी समाज म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "शाळेत सामाजिक आरोग्याचे महत्त्व का शिकवले जाते?",
+      "answer": "मुलांना लहानपणापासूनच चांगल्या सवयी लागाव्या आणि त्यांनी व्यसनांपासून दूर राहावे म्हणून हे शिकवले जाते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीनतेचा सर्वात मोठा फटका कोणाला बसतो?",
+      "answer": "व्यसनाधीनतेचा सर्वात मोठा फटका त्या व्यक्तीच्या मुलांना आणि घरातील महिलांना बसतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आरोग्यपूर्ण जीवनासाठी विरंगुळा का आवश्यक आहे?",
+      "answer": "विरंगुळ्यामुळे मानसिक ताण कमी होतो आणि माणसाला नवीन काम करण्यासाठी उत्साह मिळतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "काय खाल्ल्याने सामाजिक आरोग्य सुधारते?",
+      "answer": "केवळ खाण्याने नाही, तर संतुलित आहार आणि चांगल्या सामाजिक वागणुकीने आरोग्य सुधारते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीनतेची लक्षणे कोणती?",
+      "answer": "कामात लक्ष न लागणे, सतत चिडचिड करणे, भूक न लागणे आणि विशिष्ट पदार्थाची सतत तलफ होणे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "गुटख्यावर बंदी का असावी?",
+      "answer": "गुटख्यामुळे तोंडाचा कर्करोग होतो आणि तो खाऊन लोक सार्वजनिक ठिकाणी थुंकतात, म्हणून त्यावर बंदी असावी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "मद्यपी व्यक्ती रस्त्यावर का अडखळते?",
+      "answer": "दारूमुळे मेंदूचा शरीरावरचा तोल सांभाळण्याचे नियंत्रण सुटते, म्हणून ती व्यक्ती अडखळते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कर्करोग कशामुळे होऊ शकतो?",
+      "answer": "तंबाखू, सिगारेट, मद्यपान आणि काही वेळा प्रदूषित वातावरणामुळे कर्करोग होऊ शकतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "एकटा राहणारा माणूस व्यसनाकडे का वळतो?",
+      "answer": "मानसिक ताण, नैराश्य किंवा मित्रांच्या चुकीच्या संगतीमुळे एकटा माणूस व्यसनाकडे वळू शकतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीनतेमुळे सामाजिक शांतता कशी भंग पावते?",
+      "answer": "व्यसनी लोक रस्त्यावर दंगामस्ती करतात, भांडणे करतात, ज्यामुळे सामाजिक शांतता भंग पावते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "चांगल्या संगतीचे महत्त्व सांगा.",
+      "answer": "चांगली संगत आपल्याला चांगल्या सवयी लावते आणि व्यसनांपासून दूर राहण्यास मदत करते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आरोग्य रक्षणासाठी खेळाचे महत्त्व काय?",
+      "answer": "खेळामुळे शरीर सुदृढ राहते, सांघिक भावना वाढते आणि मानसिक प्रसन्नता मिळते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांची विक्री करणे हा गुन्हा का आहे?",
+      "answer": "कारण अमली पदार्थ तरुण पिढीचा नाश करतात आणि समाजात गुन्हेगारी वाढवतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मानसिक आरोग्य सुधारण्यासाठी काय करावे?",
+      "answer": "योगासने, ध्यानधारणा आणि आपल्या भावना विश्वासू व्यक्तीजवळ व्यक्त केल्याने मानसिक आरोग्य सुधारते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "तंबाखूमुक्त शाळा मोहिमेचा उद्देश काय?",
+      "answer": "शाळेच्या परिसरात तंबाखू विक्री बंद करणे आणि विद्यार्थ्यांना तंबाखूच्या दुष्परिणामांची माहिती देणे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "व्यसनी माणसाला समाजात हीन का मानले जाते?",
+      "answer": "कारण तो स्वतःच्या जबाबदाऱ्या विसरतो आणि अनेकदा अशोभनीय वर्तन करतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सामाजिक स्वास्थ्यासाठी सार्वजनिक स्वच्छता का महत्त्वाची आहे?",
+      "answer": "स्वच्छतेमुळे रोगराई पसरत नाही आणि सर्वांना आनंदी वातावरणात राहता येते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मद्यपानामुळे होणारे अपघात कसे टाळता येतील?",
+      "answer": "दारू पिऊन गाडी न चालवणे आणि कडक कायदे पाळल्याने अपघात टाळता येतील."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कोणत्याही व्यसनाची सुरुवात सहसा कशी होते?",
+      "answer": "मित्रांच्या आग्रहाखातर किंवा केवळ कुतूहल म्हणून व्यसनाची सुरुवात होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील व्यसनी व्यक्तीला कसे सुधारावे?",
+      "answer": "त्याला प्रेम द्यावे, त्याला न रागावता व्यसनाचे तोटे समजावून सांगावे आणि डॉक्टरांची मदत घ्यावी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "आरोग्य हीच खरी संपत्ती का आहे?",
+      "answer": "कारण शरीर निरोगी असेल तरच माणूस काम करू शकतो आणि जीवनाचा आनंद घेऊ शकतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "एड्स रोगाचा प्रसार अमली पदार्थांशी कसा संबंधित आहे?",
+      "answer": "अमली पदार्थांसाठी एकाच सुईचा वापर केल्यामुळे एड्सचा विषाणू एकाकडून दुसऱ्याकडे पसरू शकतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "व्यसनमुक्त भारतासाठी तुमची काय भूमिका असेल?",
+      "answer": "मी स्वतः कोणत्याही व्यसनापासून दूर राहीन आणि माझ्या मित्रांना व नातेवाईकांना त्यापासून दूर राहण्याचे आवाहन करीन."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "छंद जोपासण्याचे फायदे काय?",
+      "answer": "छंदामुळे वेळ सत्कारणी लागतो, ताण कमी होतो आणि वाईट सवयींपासून मन दूर राहते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "धुम्रपानामुळे फुफ्फुसाचे काय होते?",
+      "answer": "फुफ्फुसात डांबर (Tar) साचते, ज्यामुळे श्वास घेण्यास त्रास होतो आणि फुफ्फुसाचा कर्करोग होतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "समाजसेवेचा आरोग्याशी काय संबंध?",
+      "answer": "समाजसेवा केल्याने मानसिक समाधान मिळते, जे उत्तम आरोग्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांचे व्यसन लवकर का लागते?",
+      "answer": "त्यातील रासायनिक द्रव्यांमुळे मेंदूला त्याची सवय लवकर होते आणि शरीर त्या पदार्थाची मागणी करू लागते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "तंबाखूजन्य पदार्थांची नावे लिहा.",
+      "answer": "विडी, सिगारेट, गुटखा, मावा, तपकीर आणि मशेरी ही तंबाखूजन्य पदार्थांची नावे आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "जागतिक आरोग्य दिन कधी साजरा होतो?",
+      "answer": "जागतिक आरोग्य दिन ७ एप्रिल रोजी साजरा केला जातो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "व्यसनामुळे घराची आर्थिक ओढाताण का होते?",
+      "answer": "मिळवलेला सर्व पैसा व्यसनावर खर्च होतो आणि औषधोपचाराचा खर्च वाढतो, म्हणून आर्थिक ओढाताण होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मुलांना खेळाची मैदाने का उपलब्ध असावीत?",
+      "answer": "जेणेकरून मुले मोबाईलच्या आहारी न जाता शारीरिक व्यायाम करतील आणि निरोगी राहतील."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्य चांगले ठेवण्यासाठी दोन संदेश लिहा.",
+      "answer": "१. व्यसने सोडा, आयुष्य जोडा. २. स्वच्छता पाळा, रोग टाळा."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "निरोगी राहण्यासाठी महत्त्वाची त्रिसूत्री कोणती?",
+      "answer": "चांगला आहार, नियमित व्यायाम आणि व्यसनमुक्ती ही निरोगी राहण्याची त्रिसूत्री आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांमुळे कोणत्या कौटुंबिक समस्या निर्माण होतात?",
+      "answer": "भांडणे, घटस्फोट, मुलांचे दुर्लक्ष आणि आर्थिक दिवाळखोरी या समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "दारूमुळे रस्ते अपघातात वाढ का होते?",
+      "answer": "दारूमुळे ड्रायव्हरचा वेग आणि अंतराचा अंदाज चुकतो, तसेच त्याची प्रतिक्रिया देण्याची गती मंदावते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "मशेरी लावल्यामुळे दातांवर काय परिणाम होतो?",
+      "answer": "दात काळे पडतात आणि हिरड्या कमकुवत होऊन दात लवकर पडतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "सामाजिक स्वास्थ्यासाठी समता का गरजेची आहे?",
+      "answer": "जेव्हा समाजात भेदभाव नसतो, तेव्हा लोक एकमेकांना मदत करतात आणि आरोग्यपूर्ण वातावरण राहते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "शाळांच्या १०० मीटर परिसरात तंबाखू विक्री का बंद आहे?",
+      "answer": "लहान मुलांना तंबाखूची सहज उपलब्धता होऊ नये आणि त्यांना व्यसनांपासून वाचवण्यासाठी ही बंदी आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांचे व्यसन जडलेल्या व्यक्तीचे पुनर्वसन कसे करतात?",
+      "answer": "व्यसनमुक्ती केंद्रात त्यांना तज्ज्ञ डॉक्टरांच्या देखरेखीखाली ठेवून, औषधे आणि समुपदेशन देऊन त्यांचे पुनर्वसन करतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "आरोग्यपूर्ण समाजासाठी साक्षरता का महत्त्वाची आहे?",
+      "answer": "साक्षरतेमुळे लोकांना रोगांची माहिती मिळते आणि ते अंधश्रद्धेला बळी पडत नाहीत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "तंबाखूच्या सेवनाने भूक का मरते?",
+      "answer": "तंबाखूतील निकोटीनमुळे पचनसंस्थेवर परिणाम होतो आणि भूक लागण्याची संवेदना मंदावते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "व्यसनामुळे माणसाची बुद्धी का भ्रष्ट होते?",
+      "answer": "अमली पदार्थ थेट मेंदूच्या पेशींवर हल्ला करतात, ज्यामुळे निर्णय घेण्याची क्षमता नष्ट होते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "एक सुदृढ नागरिक म्हणून तुमची कर्तव्ये कोणती?",
+      "answer": "स्वतः निरोगी राहणे, समाजातील अस्वच्छता दूर करणे आणि व्यसनमुक्तीसाठी प्रयत्न करणे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कर्करोगाची सुरुवातीची लक्षणे कोणती असू शकतात?",
+      "answer": "तोंडात न भरणारी जखम, गिळताना त्रास होणे किंवा गाठ येणे ही काही लक्षणे असू शकतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्य आणि आर्थिक प्रगती यांचा काय संबंध आहे?",
+      "answer": "लोक निरोगी असतील तरच ते काम करू शकतात, ज्यामुळे देशाचे उत्पन्न वाढते आणि प्रगती होते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "मोबाईलचा अतिवापर सामाजिक आरोग्याला घातक कसा?",
+      "answer": "मोबाईलमुळे लोक प्रत्यक्ष संवाद टाळतात, एकलकोंडे होतात आणि मैदानी खेळांकडे दुर्लक्ष करतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "तंबाखू चघळल्याने लाळेचे काय होते?",
+      "answer": "लाळ विषारी बनते आणि ती गिळल्यामुळे पोटाचे व अन्ननलिकेचे आजार होतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "अंधश्रद्धा सामाजिक आरोग्याला कशी बाधक ठरते?",
+      "answer": "लोक आजारपणात डॉक्टरांकडे न जाता भोंदू बाबांकडे जातात, ज्यामुळे जीव जाऊ शकतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "व्यसनी व्यक्तीला कोणत्या रोगांचा धोका जास्त असतो?",
+      "answer": "हृदयरोग, कर्करोग, एड्स आणि यकृताचे आजार होण्याचा धोका जास्त असतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "आरोग्यासाठी पाण्याचे महत्त्व काय?",
+      "answer": "पुरेसे पाणी पिल्याने शरीरातील विषारी द्रव्ये बाहेर पडतात आणि पचन क्रिया सुधारते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीन व्यक्तीने व्यसन सोडल्यावर काय फायदे होतात?",
+      "answer": "आरोग्य सुधारते, कुटुंबात आनंद येतो आणि समाजात पुन्हा मान मिळतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्य टिकवण्यासाठी कायद्याची काय गरज आहे?",
+      "answer": "कायद्यामुळे घातक पदार्थांच्या विक्रीवर नियंत्रण राहते आणि सार्वजनिक ठिकाणी गैरवर्तन करणाऱ्यांवर वचक बसतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "तुम्ही तुमच्या मित्राला व्यसनापासून कसे वाचवाल?",
+      "answer": "त्याला व्यसनाचे तोटे सांगेन, त्याला चांगल्या छंदात गुंतवून ठेवीन आणि गरज पडल्यास त्याच्या पालकांशी बोलेन."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "तंबाखू खाणे आणि सिगारेट ओढणे यांपैकी काय जास्त घातक आहे?",
+      "answer": "दोन्हीही समान घातक आहेत कारण दोन्हीमध्ये निकोटीन असते आणि दोन्हीमुळे कर्करोग होतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "निरोगी राहण्यासाठी मानसिक शांतता का हवी?",
+      "answer": "मानसिक शांतता असेल तरच शरीर रोगांशी लढण्यासाठी सक्षम राहते आणि झोप चांगली लागते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक बागांचे महत्त्व सांगा.",
+      "answer": "बागांमुळे लोकांना शुद्ध हवा मिळते आणि फिरण्यासाठी व व्यायामासाठी जागा मिळते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "व्यसनी लोकांच्या मुलांवर काय परिणाम होतो?",
+      "answer": "त्यांना शिक्षणाच्या संधी मिळत नाहीत, ते कुपोषित राहू शकतात आणि मानसिक दडपणाखाली जगतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्याची जबाबदारी कोणाची आहे?",
+      "answer": "सामाजिक आरोग्य राखणे ही शासन आणि प्रत्येक नागरिक या दोघांचीही संयुक्त जबाबदारी आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "व्यसनमुक्त आयुष्य म्हणजे काय?",
+      "answer": "ज्या आयुष्यात कोणतेही अमली पदार्थाचे बंधन नाही आणि माणूस पूर्णपणे स्वतंत्र व आनंदी आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "शालेय आरोग्य तपासणी का महत्त्वाची असते?",
+      "answer": "जेणेकरून मुलांमधील आजारांचे निदान सुरुवातीलाच होईल आणि त्यांच्यावर वेळेवर उपचार करता येतील."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "तंबाखू सेवनामुळे होणारा आर्थिक तोटा सांगा.",
+      "answer": "व्यसनावर होणारा खर्च आणि नंतर कर्करोगाच्या उपचारासाठी लागणारा लाखो रुपयांचा खर्च यामुळे कुटुंब देशोधडीला लागते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "व्यसनमुक्ती केंद्रात काय केले जाते?",
+      "answer": "तेथे रुग्णाचे शारीरिक डिटॉक्सिफिकेशन, समुपदेशन आणि योगाभ्यास करवून घेतला जातो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "निरोगी भविष्यासाठी तुम्ही कोणता संकल्प कराल?",
+      "answer": "मी कधीही कोणत्याही व्यसनाला बळी पडणार नाही आणि इतरांनाही तंबाखू व दारूपासून दूर ठेवीन."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्यासाठी स्वच्छ पाणी का हवे?",
+      "answer": "दूषित पाण्यामुळे कॉलरा, टायफॉइड सारखे साथीचे रोग पसरतात, जे सामाजिक आरोग्य बिघडवतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "मद्यपी व्यक्तीच्या वागण्याने शेजाऱ्यांना काय त्रास होतो?",
+      "answer": "रात्रीच्या वेळी गोंधळ, शिवीगाळ आणि असुरक्षिततेचे वातावरण निर्माण होते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "प्रौढ शिक्षणाचा आरोग्याशी काय संबंध?",
+      "answer": "प्रौढ सुशिक्षित असतील तर ते आपल्या कुटुंबाचे आरोग्य आणि पोषण चांगल्या प्रकारे सांभाळू शकतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "अमली पदार्थांचे सेवन रोखण्यासाठी शासनाने काय करावे?",
+      "answer": "तस्करी रोखावी, जनजागृती करावी आणि विक्री करणाऱ्यांना कठोर शिक्षा करावी."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "आरोग्यपूर्ण आहार म्हणजे काय?",
+      "answer": "ज्या आहारात कर्बोदके, प्रथिने, जीवनसत्त्वे आणि खनिजे योग्य प्रमाणात असतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीन व्यक्तीची कार्यक्षमता का कमी होते?",
+      "answer": "सततच्या आजारपणामुळे आणि मेंदूच्या थकव्यामुळे ती व्यक्ती पूर्ण क्षमतेने काम करू शकत नाही."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सामाजिक स्वास्थ्यासाठी शांतता का आवश्यक आहे?",
+      "answer": "शांततेमुळे लोकांचा मानसिक ताण कमी होतो आणि गुन्हेगारीचे प्रमाण घटते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "सिगारेटमधील कार्बन मोनोऑक्साइडचा काय परिणाम होतो?",
+      "answer": "रक्तातील ऑक्सिजन वाहून नेण्याची क्षमता कमी होते, ज्यामुळे दम लागतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्यावर परिणाम करणारे हवामान घटक कोणते?",
+      "answer": "अति उष्णता, थंडी किंवा पाऊस आणि वाढते प्रदूषण सामाजिक आरोग्यावर परिणाम करतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "तुम्ही तुमच्या गावातील स्वच्छतेसाठी काय कराल?",
+      "answer": "मी कचरा व्यवस्थापन करेन आणि लोकांना उघड्यावर थुंकण्यापासून परावृत्त करेन."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "मद्यपानामुळे होणारी 'हँगओव्हर' म्हणजे काय?",
+      "answer": "दारूच्या अतिसेवनानंतर दुसऱ्या दिवशी होणारी डोकेदुखी आणि मळमळ म्हणजेच हँगओव्हर."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "कर्करोग हा संसर्गजन्य रोग आहे का?",
+      "answer": "नाही, कर्करोग हा संसर्गजन्य रोग नाही; तो एकाकडून दुसऱ्याला स्पर्श केल्याने पसरत नाही."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "आरोग्य केंद्रांचे कार्य काय असते?",
+      "answer": "लोकांना मोफत उपचार देणे, लसीकरण करणे आणि आरोग्याबाबत मार्गदर्शन करणे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "व्यसनाधीनतेमुळे आयुष्यातील कोणती सुखं हरवतात?",
+      "answer": "कुटुंबाचे प्रेम, मुलांची प्रगती, सामाजिक प्रतिष्ठा आणि शारीरिक आरोग्य हरवते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "निरोगी राहण्यासाठी पुरेशी झोप का आवश्यक आहे?",
+      "answer": "झोपेमुळे शरीरातील पेशींची दुरुस्ती होते आणि मेंदूला विश्रांती मिळते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "तंबाखूमुळे होणाऱ्या घशाच्या कॅन्सरमध्ये काय त्रास होतो?",
+      "answer": "बोलताना त्रास होतो, आवाज बसतो आणि अन्न गिळणे अशक्य होते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "व्यसनमुक्त होण्यासाठी कुटुंबाचे सहकार्य का लागते?",
+      "answer": "कारण कुटुंबाच्या प्रेमामुळे आणि पाठिंब्यामुळे व्यक्तीचा आत्मविश्वास वाढतो आणि ती व्यसनापासून दूर राहू शकते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "सामाजिक आरोग्यासाठी लोकसंख्या नियंत्रण का हवे?",
+      "answer": "लोकसंख्या मर्यादित असेल तर सर्वांना आरोग्य सोयी आणि सोयीसुविधा चांगल्या प्रकारे मिळतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आरोग्य हीच संपत्ती या म्हणीचा अर्थ सांगा.",
+      "answer": "संपत्ती कितीही असली तरी ती भोगण्यासाठी शरीर निरोगी असणे सर्वात महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "तंबाखू विरुद्ध जागतिक दिन कधी साजरा होतो?",
+      "answer": "३१ मे हा दिवस जागतिक तंबाखू विरोधी दिन म्हणून साजरा केला जातो."
+    }
+  ]
+}

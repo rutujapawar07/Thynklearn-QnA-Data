@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 1,
+  "chapter_name": "आपली पृथ्वी, आपली सूर्यमाला",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आकाशातील सर्व वस्तूंना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तारे", "is_correct": false },
+        { "option_id": 2, "text": "ग्रह", "is_correct": false },
+        { "option_id": 3, "text": "खगोलीय वस्तू", "is_correct": true },
+        { "option_id": 4, "text": "उपग्रह", "is_correct": false }
+      ],
+      "answer": "खगोलीय वस्तू"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ज्या चांदण्या लुकलुकतात त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ग्रह", "is_correct": false },
+        { "option_id": 2, "text": "तारे", "is_correct": true },
+        { "option_id": 3, "text": "बटू ग्रह", "is_correct": false },
+        { "option_id": 4, "text": "लघुग्रह", "is_correct": false }
+      ],
+      "answer": "तारे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सूर्य हा एक ________ आहे.",
+      "options": [
+        { "option_id": 1, "text": "ग्रह", "is_correct": false },
+        { "option_id": 2, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 3, "text": "तारा", "is_correct": true },
+        { "option_id": 4, "text": "लघुग्रह", "is_correct": false }
+      ],
+      "answer": "तारा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ज्या चांदण्या लुकलुकत नाहीत त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तारे", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "ग्रह", "is_correct": true },
+        { "option_id": 4, "text": "स्वयंप्रकाशी वस्तू", "is_correct": false }
+      ],
+      "answer": "ग्रह"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला प्रकाश कोणाकडून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राकडून", "is_correct": false },
+        { "option_id": 2, "text": "सूर्याकडून", "is_correct": true },
+        { "option_id": 3, "text": "मंगळाकडून", "is_correct": false },
+        { "option_id": 4, "text": "ताऱ्यांकडून", "is_correct": false }
+      ],
+      "answer": "सूर्याकडून"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ग्रहांच्या सूर्याभोवती फिरण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परिवलन", "is_correct": false },
+        { "option_id": 2, "text": "परिभ्रमण", "is_correct": true },
+        { "option_id": 3, "text": "गुरुत्वाकर्षण", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाशन", "is_correct": false }
+      ],
+      "answer": "परिभ्रमण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा नैसर्गिक उपग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "मंगळ", "is_correct": false },
+        { "option_id": 3, "text": "चंद्र", "is_correct": true },
+        { "option_id": 4, "text": "गुरु", "is_correct": false }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेतील सर्वात मोठा ग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "शनि", "is_correct": false },
+        { "option_id": 3, "text": "गुरु", "is_correct": true },
+        { "option_id": 4, "text": "शुक्र", "is_correct": false }
+      ],
+      "answer": "गुरु"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मंगळ आणि गुरु या ग्रहांच्या दरम्यान असलेल्या लहान खगोलीय वस्तूंच्या पट्ट्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बटू ग्रह", "is_correct": false },
+        { "option_id": 2, "text": "लघुग्रहांचा पट्टा", "is_correct": true },
+        { "option_id": 3, "text": "धूमकेतू", "is_correct": false },
+        { "option_id": 4, "text": "उपग्रह", "is_correct": false }
+      ],
+      "answer": "लघुग्रहांचा पट्टा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "प्लूटो हा कोणत्या प्रकारचा खगोल आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुख्य ग्रह", "is_correct": false },
+        { "option_id": 2, "text": "बटू ग्रह", "is_correct": true },
+        { "option_id": 3, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 4, "text": "तारा", "is_correct": false }
+      ],
+      "answer": "बटू ग्रह"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खगोलीय वस्तूंमध्ये एकमेकांना स्वतःकडे खेचण्याची कोणती शक्ती असते?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय शक्ती", "is_correct": false },
+        { "option_id": 2, "text": "स्थितिक विद्युत शक्ती", "is_correct": false },
+        { "option_id": 3, "text": "गुरुत्वाकर्षण शक्ती", "is_correct": true },
+        { "option_id": 4, "text": "यांत्रिक शक्ती", "is_correct": false }
+      ],
+      "answer": "गुरुत्वाकर्षण शक्ती"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पृथ्वीपासून दूर आकाशात जाण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "विमान", "is_correct": false },
+        { "option_id": 2, "text": "अग्निबाण (रॉकेट)", "is_correct": true },
+        { "option_id": 3, "text": "हेलिकॉप्टर", "is_correct": false },
+        { "option_id": 4, "text": "पॅराशूट", "is_correct": false }
+      ],
+      "answer": "अग्निबाण (रॉकेट)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारतीय अंतराळ मोहिमेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "NASA", "is_correct": false },
+        { "option_id": 2, "text": "ISRO", "is_correct": true },
+        { "option_id": 3, "text": "ESA", "is_correct": false },
+        { "option_id": 4, "text": "ROSCOSMOS", "is_correct": false }
+      ],
+      "answer": "ISRO"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अंतराळात जाणारे पहिले भारतीय अंतराळवीर कोण?",
+      "options": [
+        { "option_id": 1, "text": "राकेश शर्मा", "is_correct": true },
+        { "option_id": 2, "text": "कल्पना चावला", "is_correct": false },
+        { "option_id": 3, "text": "सुनिता विल्यम्स", "is_correct": false },
+        { "option_id": 4, "text": "रवीश मल्होत्रा", "is_correct": false }
+      ],
+      "answer": "राकेश शर्मा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मानवाने तयार केलेल्या उपग्रहांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक उपग्रह", "is_correct": false },
+        { "option_id": 2, "text": "बटू ग्रह", "is_correct": false },
+        { "option_id": 3, "text": "कृत्रिम उपग्रह", "is_correct": true },
+        { "option_id": 4, "text": "धूमकेतू", "is_correct": false }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सूर्यापासून सर्वात जवळचा ग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "मंगळ", "is_correct": false },
+        { "option_id": 3, "text": "बुध", "is_correct": true },
+        { "option_id": 4, "text": "शुक्र", "is_correct": false }
+      ],
+      "answer": "बुध"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कोणत्या ग्रहाला 'लाल ग्रह' म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शुक्र", "is_correct": false },
+        { "option_id": 2, "text": "मंगळ", "is_correct": true },
+        { "option_id": 3, "text": "शनी", "is_correct": false },
+        { "option_id": 4, "text": "नेपच्यून", "is_correct": false }
+      ],
+      "answer": "मंगळ"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या गुरुत्वाकर्षण कक्षेबाहेर जाण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "प्रचंड वेग", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "विद्युत शक्ती", "is_correct": false }
+      ],
+      "answer": "प्रचंड वेग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारतीय अंतराळ संशोधन संस्थेचे मुख्य कार्यालय कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "दिल्ली", "is_correct": false },
+        { "option_id": 3, "text": "बेंगळुरू", "is_correct": true },
+        { "option_id": 4, "text": "चेन्नई", "is_correct": false }
+      ],
+      "answer": "बेंगळुरू"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चंद्रयान-१ मोहीम कधी राबवण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "२००५", "is_correct": false },
+        { "option_id": 2, "text": "२००८", "is_correct": true },
+        { "option_id": 3, "text": "२०१४", "is_correct": false },
+        { "option_id": 4, "text": "२०२०", "is_correct": false }
+      ],
+      "answer": "२००८"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मंगळयान मोहीम (MOM) कधी यशस्वी झाली?",
+      "options": [
+        { "option_id": 1, "text": "२००८", "is_correct": false },
+        { "option_id": 2, "text": "२०१२", "is_correct": false },
+        { "option_id": 3, "text": "२०१४", "is_correct": true },
+        { "option_id": 4, "text": "२०१८", "is_correct": false }
+      ],
+      "answer": "२०१४"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ग्रहांचे स्वतःभोवती फिरणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "परिभ्रमण", "is_correct": false },
+        { "option_id": 2, "text": "परिवलन", "is_correct": true },
+        { "option_id": 3, "text": "उत्क्रांती", "is_correct": false },
+        { "option_id": 4, "text": "गती", "is_correct": false }
+      ],
+      "answer": "परिवलन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेतील केंद्रस्थानी कोण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "गुरु", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": true },
+        { "option_id": 4, "text": "चंद्र", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कोणता तारा दिवसा दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "ध्रुव तारा", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": true },
+        { "option_id": 3, "text": "शुक्र", "is_correct": false },
+        { "option_id": 4, "text": "मंगळ", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता 'बाह्यग्रह' आहे?",
+      "options": [
+        { "option_id": 1, "text": "बुध", "is_correct": false },
+        { "option_id": 2, "text": "शुक्र", "is_correct": false },
+        { "option_id": 3, "text": "शनी", "is_correct": true },
+        { "option_id": 4, "text": "मंगळ", "is_correct": false }
+      ],
+      "answer": "शनी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे सूर्यापासूनचे स्थान कितवे आहे?",
+      "options": [
+        { "option_id": 1, "text": "पहिले", "is_correct": false },
+        { "option_id": 2, "text": "दुसरे", "is_correct": false },
+        { "option_id": 3, "text": "तिसरे", "is_correct": true },
+        { "option_id": 4, "text": "चौथे", "is_correct": false }
+      ],
+      "answer": "तिसरे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कधीही न विझणारा दिवा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वीज", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": true },
+        { "option_id": 3, "text": "चंद्र", "is_correct": false },
+        { "option_id": 4, "text": "मशाल", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ताऱ्यांकडे स्वतःचा काय असतो?",
+      "options": [
+        { "option_id": 1, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाश", "is_correct": true },
+        { "option_id": 3, "text": "लघुग्रह", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "प्रकाश"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेत एकूण किती मुख्य ग्रह आहेत?",
+      "options": [
+        { "option_id": 1, "text": "७", "is_correct": false },
+        { "option_id": 2, "text": "८", "is_correct": true },
+        { "option_id": 3, "text": "९", "is_correct": false },
+        { "option_id": 4, "text": "१०", "is_correct": false }
+      ],
+      "answer": "८"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कशाच्या साहाय्याने आपण अवकाशातील वस्तूंचे निरीक्षण करतो?",
+      "options": [
+        { "option_id": 1, "text": "सूक्ष्मदर्शक", "is_correct": false },
+        { "option_id": 2, "text": "दुर्बिण (Telescope)", "is_correct": true },
+        { "option_id": 3, "text": "भिंग", "is_correct": false },
+        { "option_id": 4, "text": "आरसा", "is_correct": false }
+      ],
+      "answer": "दुर्बिण (Telescope)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हवेचा अंदाज वर्तवण्यासाठी कशाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "विमान", "is_correct": false },
+        { "option_id": 2, "text": "कृत्रिम उपग्रह", "is_correct": true },
+        { "option_id": 3, "text": "रॉकेट", "is_correct": false },
+        { "option_id": 4, "text": "फुगे", "is_correct": false }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कोणता ग्रह सर्वात तेजस्वी दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "शुक्र", "is_correct": true },
+        { "option_id": 2, "text": "शनी", "is_correct": false },
+        { "option_id": 3, "text": "नेपच्यून", "is_correct": false },
+        { "option_id": 4, "text": "बुध", "is_correct": false }
+      ],
+      "answer": "शुक्र"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे तापमान आणि प्रकाश कोणावर अवलंबून आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": true },
+        { "option_id": 3, "text": "मंगळ", "is_correct": false },
+        { "option_id": 4, "text": "गुरु", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या स्वतःभोवती फिरण्याच्या गतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कक्षीय गती", "is_correct": false },
+        { "option_id": 2, "text": "अक्षीय गती", "is_correct": true },
+        { "option_id": 3, "text": "सरळ गती", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर गती", "is_correct": false }
+      ],
+      "answer": "अक्षीय गती"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारताने चंद्रावर धाडलेल्या पहिल्या यानाचे नाव काय?",
+      "options": [
+        { "option_id": 1, "text": "आर्यभट्ट", "is_correct": false },
+        { "option_id": 2, "text": "मंगळयान", "is_correct": false },
+        { "option_id": 3, "text": "चंद्रयान-१", "is_correct": true },
+        { "option_id": 4, "text": "रोहिणी", "is_correct": false }
+      ],
+      "answer": "चंद्रयान-१"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कोणता ग्रह कड्यांसाठी ओळखला जातो?",
+      "options": [
+        { "option_id": 1, "text": "गुरु", "is_correct": false },
+        { "option_id": 2, "text": "शनी", "is_correct": true },
+        { "option_id": 3, "text": "युरेनस", "is_correct": false },
+        { "option_id": 4, "text": "नेपच्यून", "is_correct": false }
+      ],
+      "answer": "शनी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "खगोलशास्त्रज्ञ अवकाशाचा अभ्यास करण्यासाठी कोणत्या जागेचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "वेधशाळा", "is_correct": true },
+        { "option_id": 3, "text": "ग्रंथालय", "is_correct": false },
+        { "option_id": 4, "text": "प्रयोगशाळा", "is_correct": false }
+      ],
+      "answer": "वेधशाळा"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पृथ्वीची गुरुत्वाकर्षण शक्ती कोणत्या दिशेला असते?",
+      "options": [
+        { "option_id": 1, "text": "वरच्या दिशेला", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीच्या केंद्राकडे", "is_correct": true },
+        { "option_id": 3, "text": "सूर्याकडे", "is_correct": false },
+        { "option_id": 4, "text": "पूर्वेकडे", "is_correct": false }
+      ],
+      "answer": "पृथ्वीच्या केंद्राकडे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अंतराळात वजनहीनतेचा अनुभव का येतो?",
+      "options": [
+        { "option_id": 1, "text": "हवा नसल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वाकर्षण कमी असल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "वेग जास्त असल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "अंधार असल्यामुळे", "is_correct": false }
+      ],
+      "answer": "गुरुत्वाकर्षण कमी असल्यामुळे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सूर्याचा आकार पृथ्वीच्या तुलनेत कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "समान", "is_correct": false },
+        { "option_id": 3, "text": "खूप मोठा", "is_correct": true },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "खूप मोठा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या पृष्ठभागावरून फेकलेली वस्तू शेवटी कोठे पडते?",
+      "options": [
+        { "option_id": 1, "text": "आकाशात", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवर", "is_correct": true },
+        { "option_id": 3, "text": "चंद्रावर", "is_correct": false },
+        { "option_id": 4, "text": "ढगात", "is_correct": false }
+      ],
+      "answer": "जमिनीवर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "अवकाश मोहिमेत इंधन जाळण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "कोळसा", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिडायझर आणि इंधन", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "सौर ऊर्जा", "is_correct": false }
+      ],
+      "answer": "ऑक्सिडायझर आणि इंधन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "राकेश शर्मा यांनी अंतराळातून भारताकडे पाहून काय म्हटले?",
+      "options": [
+        { "option_id": 1, "text": "जय हिंद", "is_correct": false },
+        { "option_id": 2, "text": "सारे जहाँ से अच्छा हिंदोस्ताँ हमारा", "is_correct": true },
+        { "option_id": 3, "text": "वंदे मातरम", "is_correct": false },
+        { "option_id": 4, "text": "भारत माता की जय", "is_correct": false }
+      ],
+      "answer": "सारे जहाँ से अच्छा हिंदोस्ताँ हमारा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खगोल फिरत नाही?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "चंद्र", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी सर्व फिरतात", "is_correct": true }
+      ],
+      "answer": "यांपैकी सर्व फिरतात"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "ग्रह कोणाभोवती फिरतात?",
+      "options": [
+        { "option_id": 1, "text": "ताऱ्यांभोवती", "is_correct": true },
+        { "option_id": 2, "text": "उपग्रहाभोवती", "is_correct": false },
+        { "option_id": 3, "text": "ढगांभोवती", "is_correct": false },
+        { "option_id": 4, "text": "लघुग्रहाभोवती", "is_correct": false }
+      ],
+      "answer": "ताऱ्यांभोवती"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सूर्याचा प्रकाश पृथ्वीवर पोहोचण्यास किती वेळ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "२ मिनिटे", "is_correct": false },
+        { "option_id": 2, "text": "५ मिनिटे", "is_correct": false },
+        { "option_id": 3, "text": "सुमारे ८ मिनिटे", "is_correct": true },
+        { "option_id": 4, "text": "१० मिनिटे", "is_correct": false }
+      ],
+      "answer": "सुमारे ८ मिनिटे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कृत्रिम उपग्रह कशाच्या साहाय्याने अवकाशात सोडले जातात?",
+      "options": [
+        { "option_id": 1, "text": "विमान", "is_correct": false },
+        { "option_id": 2, "text": "अग्निबाण", "is_correct": true },
+        { "option_id": 3, "text": "फुगा", "is_correct": false },
+        { "option_id": 4, "text": "दोरी", "is_correct": false }
+      ],
+      "answer": "अग्निबाण"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "बटू ग्रहाचा स्वतःचा मार्ग कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "वाकडा", "is_correct": false },
+        { "option_id": 2, "text": "स्वतंत्र", "is_correct": true },
+        { "option_id": 3, "text": "नसतो", "is_correct": false },
+        { "option_id": 4, "text": "दुसऱ्या ग्रहावर अवलंबून", "is_correct": false }
+      ],
+      "answer": "स्वतंत्र"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "तारे कशाने बनलेले असतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "गरम वायू", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "बर्फ", "is_correct": false }
+      ],
+      "answer": "गरम वायू"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आपली पृथ्वी कोणत्या दीर्घिकेचा भाग आहे?",
+      "options": [
+        { "option_id": 1, "text": "अँड्रोमेडा", "is_correct": false },
+        { "option_id": 2, "text": "मंदाकिनी (Milky Way)", "is_correct": true },
+        { "option_id": 3, "text": "सोमेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "नक्षत्र", "is_correct": false }
+      ],
+      "answer": "मंदाकिनी (Milky Way)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "तारे कशाला म्हणतात?",
+      "answer": "ज्या खगोलीय वस्तू लुकलुकतात आणि ज्यांना स्वतःचा प्रकाश असतो, त्यांना तारे म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "ग्रह म्हणजे काय?",
+      "answer": "ज्या खगोलीय वस्तू लुकलुकत नाहीत आणि ज्यांना स्वतःचा प्रकाश नसतो, त्यांना ग्रह म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सूर्यमाला कशास म्हणतात?",
+      "answer": "सूर्य आणि त्याच्याभोवती फिरणाऱ्या ग्रह, उपग्रह, लघुग्रह व बटू ग्रह यांना मिळून सूर्यमाला म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "उपग्रह म्हणजे काय?",
+      "answer": "काही खगोलीय वस्तू ग्रहांभोवती फिरतात, त्यांना उपग्रह म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेतील ग्रहांची नावे क्रमाने सांगा.",
+      "answer": "बुध, शुक्र, पृथ्वी, मंगळ, गुरु, शनी, युरेनस आणि नेपच्यून अशी सूर्यमालेतील ग्रहांची नावे आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बटू ग्रह कोणास म्हणतात?",
+      "answer": "सूर्याभोवती प्रदक्षिणा घालणाऱ्या लहान आकाराच्या खगोलीय वस्तूंना बटू ग्रह म्हणतात (उदा. प्लूटो)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लघुग्रह म्हणजे काय?",
+      "answer": "मंगळ व गुरु या ग्रहांच्या दरम्यान असलेल्या असंख्य लहान खगोलीय वस्तूंना लघुग्रह म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "गुरुत्वाकर्षण म्हणजे काय?",
+      "answer": "खगोलीय वस्तूंमध्ये एकमेकांना स्वतःकडे खेचण्याची किंवा आकर्षित करण्याची जी शक्ती असते, तिला गुरुत्वाकर्षण म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अवकाश म्हणजे काय?",
+      "answer": "ग्रह, तारे यांच्या दरम्यान असलेल्या रिकाम्या जागेला अवकाश किंवा अंतरिक्ष म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भारतीय अंतराळ संशोधन संस्थेचे (ISRO) पूर्ण नाव काय?",
+      "answer": "ISRO चे पूर्ण नाव इंडियन स्पेस रिसर्च ऑर्गनायझेशन (Indian Space Research Organisation) असे आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "राकेश शर्मा यांनी अंतराळात किती दिवस वास्तव्य केले?",
+      "answer": "राकेश शर्मा यांनी अंतराळात ८ दिवस वास्तव्य केले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कृत्रिम उपग्रहांचे दोन उपयोग लिहा.",
+      "answer": "१. हवामानाचा अंदाज घेण्यासाठी आणि २. दळणवळणासाठी (टीव्ही, मोबाईल इ.) कृत्रिम उपग्रहांचा वापर होतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेत पृथ्वीचे स्थान कोठे आहे?",
+      "answer": "पृथ्वी ही सूर्यमालेतील सूर्यापासूनच्या तिसऱ्या स्थानावर असलेला ग्रह आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तारे लुकलुकताना का दिसतात?",
+      "answer": "ताऱ्यांचा प्रकाश वातावरणाच्या थरातून येताना दिशा बदलतो, म्हणून ते आपल्याला लुकलुकताना दिसतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चंद्राला स्वतःचा प्रकाश असतो का?",
+      "answer": "नाही, चंद्राला स्वतःचा प्रकाश नसतो; तो सूर्याच्या प्रकाशाने चमकतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ग्रहाची कक्षा म्हणजे काय?",
+      "answer": "प्रत्येक ग्रह सूर्याभोवती एका ठराविक मार्गावरून फिरतो, त्या मार्गाला त्या ग्रहाची 'कक्षा' म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सूर्याची सर्वात मोठी शक्ती कोणती?",
+      "answer": "सूर्याची गुरुत्वाकर्षण शक्ती ही त्याची सर्वात मोठी शक्ती आहे, ज्यामुळे सर्व ग्रह त्याच्याभोवती फिरतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मंगळयान मोहिमेचे उद्दिष्ट काय होते?",
+      "answer": "मंगळ ग्रहाचा अभ्यास करणे आणि भारताचे अंतराळ तंत्रज्ञान सिद्ध करणे हे या मोहिमेचे मुख्य उद्दिष्ट होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पृथ्वीची गुरुत्वाकर्षण शक्ती वस्तू कोठे खेचते?",
+      "answer": "पृथ्वीची गुरुत्वाकर्षण शक्ती सर्व वस्तूंना आपल्या केंद्राकडे म्हणजेच खालच्या दिशेला खेचते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अग्निबाण तंत्राचा उपयोग कशासाठी केला जातो?",
+      "answer": "खूप वजनदार उपग्रह किंवा यान अवकाशात पृथ्वीच्या गुरुत्वाकर्षणाबाहेर नेण्यासाठी अग्निबाण तंत्राचा उपयोग होतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "भारतीय मूळ असणाऱ्या दोन महिला अंतराळवीरांची नावे सांगा.",
+      "answer": "कल्पना चावला आणि सुनीता विल्यम्स ही भारतीय मूळ असणाऱ्या दोन महिला अंतराळवीरांची नावे आहेत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "तारे दिवसा का दिसत नाहीत?",
+      "answer": "सूर्याच्या प्रखर प्रकाशामुळे तारे दिवसा दिसत नाहीत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "चंद्र कोणाभोवती फिरतो?",
+      "answer": "चंद्र हा पृथ्वीचा उपग्रह असून तो पृथ्वीभोवती फिरतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेतील सर्वात लहान ग्रह कोणता?",
+      "answer": "बुध हा सूर्यमालेतील सर्वात लहान ग्रह आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भ्रमणध्वनी (Mobile) चालण्यासाठी कशाची मदत होते?",
+      "answer": "भ्रमणध्वनी चालण्यासाठी कृत्रिम उपग्रहांची मदत होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सूर्याचा रंग कसा दिसतो?",
+      "answer": "सूर्य हा पिवळसर रंगाचा दिसतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्र म्हणजे काय?",
+      "answer": "खगोल व अवकाश यांचा अभ्यास करणाऱ्या शास्त्राला खगोलशास्त्र म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "गुरु ग्रहाचे वैशिष्ट्य काय?",
+      "answer": "गुरु हा सूर्यमालेतील सर्वात मोठा ग्रह आहे आणि तो प्रामुख्याने वायूंनी बनलेला आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अंतराळवीर म्हणजे काय?",
+      "answer": "जे शास्त्रज्ञ किंवा व्यक्ती अवकाशात प्रवास करतात, त्यांना अंतराळवीर म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पृथ्वी स्थिर आहे की फिरते?",
+      "answer": "पृथ्वी स्वतःभोवती आणि सूर्याभोवती अशा दोन्ही प्रकारे फिरते, ती स्थिर नाही."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "शून्य गुरुत्वाकर्षण म्हणजे काय?",
+      "answer": "ज्या ठिकाणी गुरुत्वाकर्षण शक्ती कार्य करत नाही, त्याला शून्य गुरुत्वाकर्षण म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "तारे स्वयंप्रकाशी असतात का?",
+      "answer": "हो, तारे स्वयंप्रकाशी असतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "सूर्य पृथ्वीपासून किती अंतरावर आहे?",
+      "answer": "सूर्य पृथ्वीपासून सुमारे १५ कोटी किलोमीटर अंतरावर आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "उपग्रहांना प्रकाश कोठून मिळतो?",
+      "answer": "उपग्रहांना सूर्याकडून प्रकाश मिळतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे फिरणे थांबले तर काय होईल?",
+      "answer": "पृथ्वीचे फिरणे थांबले तर दिवस आणि रात्र होणार नाहीत आणि जीवनचक्र विस्कळीत होईल."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अंतराळ मोहिमा कशासाठी राबवल्या जातात?",
+      "answer": "ब्रह्मांड, इतर ग्रह आणि जीवसृष्टीचा शोध घेण्यासाठी अंतराळ मोहिमा राबवल्या जातात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नेपच्यून हा ग्रह सूर्यापासून किती अंतरावर आहे?",
+      "answer": "नेपच्यून हा सूर्यमालेतील सूर्यापासून सर्वात दूर असलेला ग्रह आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर सजीव सृष्टी का आहे?",
+      "answer": "पृथ्वीवर हवा, पाणी आणि योग्य तापमान असल्यामुळे सजीव सृष्टी आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शुक्र ग्रहाचे एक वैशिष्ट्य सांगा.",
+      "answer": "शुक्र हा सूर्यमालेतील सर्वात उष्ण आणि तेजस्वी ग्रह आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "कृत्रिम उपग्रह कशावर चालतात?",
+      "answer": "कृत्रिम उपग्रह हे प्रामुख्याने सौर ऊर्जेवर (Solar Energy) चालतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अग्निबाणामध्ये इंधन म्हणून काय वापरतात?",
+      "answer": "अग्निबाणामध्ये विशेष प्रकारचे द्रव किंवा स्थायू इंधन वापरले जाते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "प्लूटोला ग्रहांच्या यादीतून का वगळले?",
+      "answer": "प्लूटोचा आकार अत्यंत लहान असल्यामुळे त्याला बटू ग्रह मानले जाते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मंगळाचा रंग लाल का दिसतो?",
+      "answer": "मंगळाच्या पृष्ठभागावर लोह ऑक्साईडचे प्रमाण जास्त असल्याने तो लाल दिसतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर ऋतू कशामुळे होतात?",
+      "answer": "पृथ्वीच्या सूर्याभोवती फिरण्यामुळे (परिभ्रमण) ऋतू होतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "भारताच्या पहिल्या कृत्रिम उपग्रहाचे नाव काय?",
+      "answer": "भारताच्या पहिल्या कृत्रिम उपग्रहाचे नाव 'आर्यभट्ट' आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "रात्र कशामुळे होते?",
+      "answer": "पृथ्वीच्या परिवलनामुळे (स्वतःभोवती फिरणे) जो भाग सूर्याच्या विरुद्ध असतो, तिथे रात्र होते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा शोध कोणी लावला?",
+      "answer": "दुर्बिणीचा शोध गॅलिलिओ गॅलीली या शास्त्रज्ञाने लावला."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "अंतराळातून पृथ्वी कशी दिसते?",
+      "answer": "अंतराळातून पृथ्वी निळसर रंगाच्या चेंडूसारखी दिसते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सूर्यमाला कोणत्या दीर्घिकेचा एक छोटा भाग आहे?",
+      "answer": "सूर्यमाला 'मंदाकिनी' (Milky Way) या दीर्घिकेचा एक छोटा भाग आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सूर्याची ऊर्जा कशापासून तयार होते?",
+      "answer": "सूर्याची ऊर्जा ही त्याच्या केंद्रातील हायड्रोजन वायूच्या एकत्रीकरणातून तयार होते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "गुरुत्वाकर्षण शक्तीचा शोध कोणी लावला?",
+      "answer": "गुरुत्वाकर्षण शक्तीचा शोध सर आयझॅक न्यूटन यांनी लावला."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्रात 'प्रकाशवर्ष' म्हणजे काय?",
+      "answer": "प्रकाशाने एका वर्षात कापलेल्या अंतराला प्रकाशवर्ष म्हणतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "ताऱ्यांचे आयुष्य संपल्यावर काय होते?",
+      "answer": "ताऱ्यांचे आयुष्य संपल्यावर त्यांचा स्फोट होऊन ते नष्ट होतात किंवा 'कृष्णविवर' बनतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे स्वतःचे प्रकाश स्रोत आहेत का?",
+      "answer": "नाही, पृथ्वीला स्वतःचा प्रकाश नाही, ती परावर्तित प्रकाशाने दिसते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "कोणत्या ग्रहावर पाणी आढळण्याची शक्यता सर्वात जास्त आहे?",
+      "answer": "मंगळ ग्रहावर पाणी आढळण्याची शक्यता सर्वात जास्त वर्तवली जाते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "उपग्रहांचा आकार ग्रहांपेक्षा कसा असतो?",
+      "answer": "उपग्रहांचा आकार ग्रहांपेक्षा लहान असतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा अक्ष कलेला (Tilted) आहे का?",
+      "answer": "हो, पृथ्वीचा अक्ष २३.५ अंशांनी कलेला आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "सूर्य मावळणे म्हणजे काय?",
+      "answer": "पृथ्वीच्या परिवलनामुळे आपण सूर्याच्या विरुद्ध दिशेला जाणे म्हणजे सूर्य मावळणे होय."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेत वायूग्रह कोणते आहेत?",
+      "answer": "गुरु, शनी, युरेनस आणि नेपच्यून यांना वायूग्रह म्हणतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "शुक्र ग्रहावर दिवस किती मोठा असतो?",
+      "answer": "शुक्राचा एक दिवस हा त्याच्या एका वर्षापेक्षा मोठा असतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या वातावरणात कोणते वायू आहेत?",
+      "answer": "नायट्रोजन, ऑक्सिजन, कार्बन डायऑक्साइड यांसारखे वायू पृथ्वीच्या वातावरणात आहेत."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "ताऱ्यांचे तापमान किती असते?",
+      "answer": "ताऱ्यांचे तापमान हजारो अंश सेल्सिअस असते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "शनीच्या कड्या कशाने बनलेल्या आहेत?",
+      "answer": "शनीच्या कड्या बर्फाचे तुकडे आणि धूळ यांनी बनलेल्या आहेत."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "सूर्योदय कोठे होतो?",
+      "answer": "पृथ्वी पश्चिमेकडून पूर्वेकडे फिरत असल्यामुळे सूर्योदय पूर्वेला होतो असे वाटते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "काय पृथ्वी पूर्णपणे गोल आहे?",
+      "answer": "नाही, पृथ्वी ध्रुवांकडे थोडी चपटी आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "इस्रोने पाठवलेल्या 'मंगलयान' ची गती किती होती?",
+      "answer": "मंगलयान प्रचंड वेगाने अवकाशात धाडले गेले होते जेणेकरून ते पृथ्वीचे गुरुत्वाकर्षण पार करू शकेल."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "अवकाश कचरा म्हणजे काय?",
+      "answer": "निकामी झालेले उपग्रह आणि त्यांचे सुटे भाग जे अवकाशात फिरत राहतात, त्यांना अवकाश कचरा म्हणतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "ग्रह स्वतःभोवती फिरतात का?",
+      "answer": "हो, सर्व ग्रह स्वतःभोवती फिरतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "ताऱ्यांमधील अंतर कशात मोजतात?",
+      "answer": "ताऱ्यांमधील अंतर 'प्रकाशवर्ष' या एककात मोजतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "धूमकेतू म्हणजे काय?",
+      "answer": "बर्फ आणि धुलीकण यांनी बनलेली खगोलीय वस्तू जिला लांब शेपटी असते, तिला धूमकेतू म्हणतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "चंद्रावर पाऊल ठेवणारा पहिला माणूस कोण?",
+      "answer": "नील आर्मस्ट्राँग हा चंद्रावर पाऊल ठेवणारा पहिला माणूस होता."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या केंद्राजवळ गुरुत्वाकर्षण किती असते?",
+      "answer": "पृथ्वीच्या केंद्राजवळ गुरुत्वाकर्षण शून्य असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेतील सर्वात उष्ण ग्रह कोणता?",
+      "answer": "शुक्र हा सूर्यमालेतील सर्वात उष्ण ग्रह आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "नकाशे तयार करण्यासाठी कशाचा वापर होतो?",
+      "answer": "नकाशे तयार करण्यासाठी कृत्रिम उपग्रहांनी घेतलेल्या छायाचित्रांचा वापर होतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे एक परिवलन किती वेळात पूर्ण होते?",
+      "answer": "पृथ्वीचे एक परिवलन पूर्ण होण्यास २४ तास लागतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे एक परिभ्रमण किती दिवसांत पूर्ण होते?",
+      "answer": "पृथ्वीचे एक परिभ्रमण ३६५ दिवस आणि ६ तासांत पूर्ण होते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "कोणता ग्रह निळा दिसतो?",
+      "answer": "पृथ्वी हा ग्रह निळा दिसतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "चंद्र पृथ्वीभोवती किती दिवसात एक फेरी पूर्ण करतो?",
+      "answer": "चंद्र पृथ्वीभोवती सुमारे २७.३ दिवसात एक फेरी पूर्ण करतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "अंतराळ स्थानक (Space Station) म्हणजे काय?",
+      "answer": "अवकाशात शास्त्रज्ञांना राहण्यासाठी आणि प्रयोग करण्यासाठी बांधलेले कृत्रिम केंद्र म्हणजे अंतराळ स्थानक होय."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "लघुग्रहांचा पट्टा कोठे आहे?",
+      "answer": "लघुग्रहांचा पट्टा मंगळ आणि गुरु या ग्रहांच्या दरम्यान आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "सूर्य कोणत्या दिशेला मावळतो?",
+      "answer": "सूर्य पश्चिम दिशेला मावळतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "राकेश शर्मा यांनी कोणत्या देशाच्या मदतीने अंतराळात प्रवास केला?",
+      "answer": "राकेश शर्मा यांनी सोव्हिएत युनियनच्या (रशिया) मदतीने अंतराळात प्रवास केला."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "अग्निबाणामध्ये कशाचा साठा असतो?",
+      "answer": "अग्निबाणामध्ये मोठ्या प्रमाणात इंधनाचा साठा असतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "अवकाश यान म्हणजे काय?",
+      "answer": "अवकाशात जाण्यासाठी वापरल्या जाणाऱ्या वाहनाला अवकाश यान म्हणतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "आपल्या सूर्यमालेचा मुख्य आधार कोण आहे?",
+      "answer": "आपल्या सूर्यमालेचा मुख्य आधार सूर्य आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "कोणत्या ग्रहाला सकाळी किंवा संध्याकाळी 'शुक्र तारा' म्हणतात?",
+      "answer": "शुक्र ग्रहालाच 'शुक्र तारा' असे संबोधले जाते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "तारे स्वयंप्रकाशी आहेत की परप्रकाशित?",
+      "answer": "तारे स्वयंप्रकाशी आहेत."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे संरक्षण कवच कोणते?",
+      "answer": "पृथ्वीचे ओझोन थर आणि वातावरण हे तिचे संरक्षण कवच आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "उपग्रह कोणाच्या भोवती फिरतात?",
+      "answer": "उपग्रह ग्रहांच्या भोवती फिरतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेतील सर्वात सुंदर ग्रह कोणता मानला जातो?",
+      "answer": "शनी हा त्याच्या कड्यांमुळे सर्वात सुंदर ग्रह मानला जातो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "गुरुत्वाकर्षण शक्तीमुळे काय होते?",
+      "answer": "गुरुत्वाकर्षण शक्तीमुळे ग्रह ताऱ्यांभोवती आणि उपग्रह ग्रहांभोवती फिरतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "अवकाश मोहिमेचे महत्व काय?",
+      "answer": "विज्ञानाची प्रगती आणि विश्वाचे गूढ उकलण्यासाठी अवकाश मोहिमेचे महत्व आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "नक्षत्रे म्हणजे काय?",
+      "answer": "ताऱ्यांच्या विशिष्ट आकृतीबंधाला नक्षत्रे म्हणतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा उत्तर ध्रुव कोठे आहे?",
+      "answer": "पृथ्वीच्या वरच्या टोकाला उत्तर ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्रज्ञ आकाशाचे निरीक्षण केव्हा करतात?",
+      "answer": "खगोलशास्त्रज्ञ आकाशाचे निरीक्षण प्रामुख्याने रात्रीच्या वेळी करतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "सूर्य पृथ्वीच्या किती पटीने मोठा आहे?",
+      "answer": "सूर्य पृथ्वीच्या सुमारे १३ लाख पटीने मोठा आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "अंतराळात जाण्यासाठी लागणाऱ्या वेगाला काय म्हणतात?",
+      "answer": "त्याला 'मुक्ती वेग' (Escape Velocity) म्हणतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या परिभ्रमण मार्गाला काय म्हणतात?",
+      "answer": "पृथ्वीच्या परिभ्रमण मार्गाला 'पृथ्वीची कक्षा' म्हणतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "अग्निबाणाचे मुख्य भाग कोणते?",
+      "answer": "इंधन कक्ष, इंजिन आणि पेलोड हे अग्निबाणाचे मुख्य भाग आहेत."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "सूर्यमालेत किती तारे आहेत?",
+      "answer": "सूर्यमालेत फक्त एकच तारा आहे, तो म्हणजे सूर्य."
+    }
+  ]
+}

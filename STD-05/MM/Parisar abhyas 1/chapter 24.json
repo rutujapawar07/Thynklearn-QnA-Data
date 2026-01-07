@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 24,
+  "chapter_name": "पदार्थ, वस्तू आणि ऊर्जा",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "प्रत्येक पदार्थ कशाचा बनलेला असतो?",
+      "options": [
+        { "option_id": 1, "text": "वस्तूचा", "is_correct": false },
+        { "option_id": 2, "text": "कणांचा", "is_correct": true },
+        { "option_id": 3, "text": "ऊर्जेचा", "is_correct": false },
+        { "option_id": 4, "text": "रंगाचा", "is_correct": false }
+      ],
+      "answer": "कणांचा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पदार्थाच्या लहानात लहान कणाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अणू", "is_correct": false },
+        { "option_id": 2, "text": "रेणू", "is_correct": false },
+        { "option_id": 3, "text": "सूक्ष्मकण", "is_correct": true },
+        { "option_id": 4, "text": "अवयव", "is_correct": false }
+      ],
+      "answer": "सूक्ष्मकण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खडूने फळ्यावर लिहिल्यास फळ्याखाली काय जमा होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "खडूची भुकटी", "is_correct": true },
+        { "option_id": 3, "text": "कापूस", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "खडूची भुकटी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "वस्तू कशापासून बनलेल्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "ऊर्जेपासून", "is_correct": false },
+        { "option_id": 2, "text": "काहीही नाही", "is_correct": false },
+        { "option_id": 3, "text": "पदार्थांपासून", "is_correct": true },
+        { "option_id": 4, "text": "अंधारापासून", "is_correct": false }
+      ],
+      "answer": "पदार्थांपासून"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ स्थायू रूपात असतो?",
+      "options": [
+        { "option_id": 1, "text": "तेल", "is_correct": false },
+        { "option_id": 2, "text": "लोखंड", "is_correct": true },
+        { "option_id": 3, "text": "दूध", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "लोखंड"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाणी गरम केल्यावर त्याचे रूपांतर कशात होते?",
+      "options": [
+        { "option_id": 1, "text": "बर्फात", "is_correct": false },
+        { "option_id": 2, "text": "वाफेत", "is_correct": true },
+        { "option_id": 3, "text": "दुधात", "is_correct": false },
+        { "option_id": 4, "text": "तेलात", "is_correct": false }
+      ],
+      "answer": "वाफेत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पदार्थाच्या मुख्य अवस्था किती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "तीन", "is_correct": true },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कापूर उघड्यावर ठेवल्यास त्याचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आकार वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "पाणी होते", "is_correct": false },
+        { "option_id": 3, "text": "हळूहळू नाहीसा होतो", "is_correct": true },
+        { "option_id": 4, "text": "लोखंड होते", "is_correct": false }
+      ],
+      "answer": "हळूहळू नाहीसा होतो"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "एका अवस्थेतून दुसऱ्या अवस्थेत जाण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अवस्थांतर", "is_correct": true },
+        { "option_id": 2, "text": "रुपांतर", "is_correct": false },
+        { "option_id": 3, "text": "बदल", "is_correct": false },
+        { "option_id": 4, "text": "स्थलांतर", "is_correct": false }
+      ],
+      "answer": "अवस्थांतर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कार्य करण्याच्या क्षमतेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शक्ती", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "बळ", "is_correct": false },
+        { "option_id": 4, "text": "वेग", "is_correct": false }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गाड्या चालवण्यासाठी इंधन म्हणून कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "दगडांचा", "is_correct": false },
+        { "option_id": 3, "text": "पेट्रोलचा", "is_correct": true },
+        { "option_id": 4, "text": "हवेचा", "is_correct": false }
+      ],
+      "answer": "पेट्रोलचा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वनस्पती अन्न तयार करण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राचा प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "सूर्यप्रकाश", "is_correct": true },
+        { "option_id": 3, "text": "विद्युत प्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "दिवा", "is_correct": false }
+      ],
+      "answer": "सूर्यप्रकाश"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "इंधनाच्या ज्वलनातून कोणती ऊर्जा मिळते?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनी ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "उष्णता ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "स्थितिज ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकीय ऊर्जा", "is_correct": false }
+      ],
+      "answer": "उष्णता ऊर्जा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "विजेवर चालणारे साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "सायकल", "is_correct": false },
+        { "option_id": 2, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 3, "text": "इस्त्री", "is_correct": true },
+        { "option_id": 4, "text": "होडी", "is_correct": false }
+      ],
+      "answer": "इस्त्री"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ऊर्जेचा सर्वात मोठा नैसर्गिक स्रोत कोणता?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": false },
+        { "option_id": 2, "text": "वारा", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": true },
+        { "option_id": 4, "text": "कोळसा", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पवनचक्कीद्वारे कोणती ऊर्जा निर्माण केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "वीज", "is_correct": true },
+        { "option_id": 2, "text": "वारा", "is_correct": false },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "अन्न", "is_correct": false }
+      ],
+      "answer": "वीज"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी प्रवाही पदार्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्माण होण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशाची", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जेची", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 4, "text": "अंधाराची", "is_correct": false }
+      ],
+      "answer": "ऊर्जेची"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "बर्फाचे पाण्यात रूपांतर होणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गोठणे", "is_correct": false },
+        { "option_id": 2, "text": "वितळणे", "is_correct": true },
+        { "option_id": 3, "text": "उकळणे", "is_correct": false },
+        { "option_id": 4, "text": "जळणे", "is_correct": false }
+      ],
+      "answer": "वितळणे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सूर्यप्रकाशाचा वापर करून वीज तयार करणाऱ्या उपकरणाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बॅटरी", "is_correct": false },
+        { "option_id": 2, "text": "सौरघट", "is_correct": true },
+        { "option_id": 3, "text": "मोटार", "is_correct": false },
+        { "option_id": 4, "text": "जनरेटर", "is_correct": false }
+      ],
+      "answer": "सौरघट"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ पाण्यात विरघळतो?",
+      "options": [
+        { "option_id": 1, "text": "वाळू", "is_correct": false },
+        { "option_id": 2, "text": "साखर", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "साखर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वाफेचे थंडावा मिळाल्यावर पाण्यात रूपांतर होण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 2, "text": "संघनन", "is_correct": true },
+        { "option_id": 3, "text": "ज्वलन", "is_correct": false },
+        { "option_id": 4, "text": "मिश्रण", "is_correct": false }
+      ],
+      "answer": "संघनन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सौर चुलीत कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "गॅस", "is_correct": false },
+        { "option_id": 3, "text": "सौर ऊर्जा", "is_correct": true },
+        { "option_id": 4, "text": "कोळसा", "is_correct": false }
+      ],
+      "answer": "सौर ऊर्जा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पदार्थाच्या सूक्ष्मकणांना आपण काय म्हणू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळ्यांनी दिसणारे", "is_correct": false },
+        { "option_id": 2, "text": "अतिसूक्ष्म", "is_correct": true },
+        { "option_id": 3, "text": "अदृश्य", "is_correct": false },
+        { "option_id": 4, "text": "रंगहीन", "is_correct": false }
+      ],
+      "answer": "अतिसूक्ष्म"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "डिझेल हे कशाचे रूप आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्थायू", "is_correct": false },
+        { "option_id": 2, "text": "द्रव", "is_correct": true },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "प्लाझ्मा", "is_correct": false }
+      ],
+      "answer": "द्रव"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "बर्फ कोणत्या अवस्थेत असतो?",
+      "options": [
+        { "option_id": 1, "text": "द्रव", "is_correct": false },
+        { "option_id": 2, "text": "वायू", "is_correct": false },
+        { "option_id": 3, "text": "स्थायू", "is_correct": true },
+        { "option_id": 4, "text": "गरम", "is_correct": false }
+      ],
+      "answer": "स्थायू"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सायकल चालवण्यासाठी कोणती ऊर्जा लागते?",
+      "options": [
+        { "option_id": 1, "text": "विद्युत ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "स्नायू ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "सौर ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "स्नायू ऊर्जा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "गॅस शेगडीत कोणते इंधन असते?",
+      "options": [
+        { "option_id": 1, "text": "LPG", "is_correct": true },
+        { "option_id": 2, "text": "पेट्रोल", "is_correct": false },
+        { "option_id": 3, "text": "डिझेल", "is_correct": false },
+        { "option_id": 4, "text": "कोळसा", "is_correct": false }
+      ],
+      "answer": "LPG"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पदार्थाची अवस्था बदलण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 2, "text": "उष्णतेची", "is_correct": true },
+        { "option_id": 3, "text": "हवेची", "is_correct": false },
+        { "option_id": 4, "text": "रंगाची", "is_correct": false }
+      ],
+      "answer": "उष्णतेची"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी वायू पदार्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "दुध", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "मध", "is_correct": false },
+        { "option_id": 4, "text": "मोहरी", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वस्तूला आकार कशामुळे प्राप्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "त्यातील पदार्थामुळे", "is_correct": true },
+        { "option_id": 2, "text": "रंगामुळे", "is_correct": false },
+        { "option_id": 3, "text": "वासा मुळे", "is_correct": false },
+        { "option_id": 4, "text": "अंधारामुळे", "is_correct": false }
+      ],
+      "answer": "त्यातील पदार्थामुळे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "लाऊडस्पीकर मधून कोणती ऊर्जा बाहेर पडते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "ध्वनी ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "स्थितिज ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकीय ऊर्जा", "is_correct": false }
+      ],
+      "answer": "ध्वनी ऊर्जा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "केरोसिन (घासलेट) कोणत्या अवस्थेत असते?",
+      "options": [
+        { "option_id": 1, "text": "स्थायू", "is_correct": false },
+        { "option_id": 2, "text": "द्रव", "is_correct": true },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "कठोर", "is_correct": false }
+      ],
+      "answer": "द्रव"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रेडिओ चालवण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "बॅटरी किंवा वीज", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "बॅटरी किंवा वीज"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "बर्फाला उष्णता दिल्यास त्याचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "वाफ होते", "is_correct": false },
+        { "option_id": 2, "text": "पाणी होते", "is_correct": true },
+        { "option_id": 3, "text": "दगड होतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "पाणी होते"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अंधारात पाहण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनीची", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाशाची", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 4, "text": "वासाची", "is_correct": false }
+      ],
+      "answer": "प्रकाशाची"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पदार्थाच्या कणांची मांडणी कशात सर्वात जवळ असते?",
+      "options": [
+        { "option_id": 1, "text": "द्रव", "is_correct": false },
+        { "option_id": 2, "text": "वायू", "is_correct": false },
+        { "option_id": 3, "text": "स्थायू", "is_correct": true },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "स्थायू"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ऊर्जेचे रूप नाही?",
+      "options": [
+        { "option_id": 1, "text": "उष्णता", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 3, "text": "ध्वनी", "is_correct": false },
+        { "option_id": 4, "text": "खुर्ची", "is_correct": true }
+      ],
+      "answer": "खुर्ची"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "नेफ्थॅलीनच्या गोळ्यांचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या होतात", "is_correct": false },
+        { "option_id": 2, "text": "आकार लहान होतो", "is_correct": true },
+        { "option_id": 3, "text": "रंग बदलतो", "is_correct": false },
+        { "option_id": 4, "text": "पाणी होते", "is_correct": false }
+      ],
+      "answer": "आकार लहान होतो"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सौर ऊर्जेचा वापर करून चालणारे वाहन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 2, "text": "सौर कार", "is_correct": true },
+        { "option_id": 3, "text": "स्टीम इंजिन", "is_correct": false },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "सौर कार"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पाणी गोठल्यावर काय बनते?",
+      "options": [
+        { "option_id": 1, "text": "वाफ", "is_correct": false },
+        { "option_id": 2, "text": "बर्फ", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "दूध", "is_correct": false }
+      ],
+      "answer": "बर्फ"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मिक्सर चालवण्यासाठी कोणती ऊर्जा वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "विद्युत ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "स्नायू ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "विद्युत ऊर्जा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते इंधन प्रदूषण कमी करते?",
+      "options": [
+        { "option_id": 1, "text": "कोळसा", "is_correct": false },
+        { "option_id": 2, "text": "CNG", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "डिझेल", "is_correct": false }
+      ],
+      "answer": "CNG"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "घराच्या छतावर बसवलेले सोलर पॅनेल काय तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "वीज", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "अन्न", "is_correct": false }
+      ],
+      "answer": "वीज"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "लोखंडाचा तवा गरम केल्यावर तो कोणत्या ऊर्जेचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनी", "is_correct": false },
+        { "option_id": 2, "text": "उष्णता", "is_correct": true },
+        { "option_id": 3, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकीय", "is_correct": false }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "बाष्पीभवन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बर्फ होणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याची वाफ होणे", "is_correct": true },
+        { "option_id": 3, "text": "गोठणे", "is_correct": false },
+        { "option_id": 4, "text": "वितळणे", "is_correct": false }
+      ],
+      "answer": "पाण्याची वाफ होणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मेणबत्ती जळल्यावर कोणते रूप बदलते?",
+      "options": [
+        { "option_id": 1, "text": "द्रव आणि वायू", "is_correct": true },
+        { "option_id": 2, "text": "फक्त स्थायू", "is_correct": false },
+        { "option_id": 3, "text": "काहीही नाही", "is_correct": false },
+        { "option_id": 4, "text": "केवळ प्रकाश", "is_correct": false }
+      ],
+      "answer": "द्रव आणि वायू"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "विद्युत ऊर्जेचे रूपांतर प्रकाश ऊर्जेत कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "पंखा", "is_correct": false },
+        { "option_id": 2, "text": "बल्ब", "is_correct": true },
+        { "option_id": 3, "text": "इस्त्री", "is_correct": false },
+        { "option_id": 4, "text": "घंटी", "is_correct": false }
+      ],
+      "answer": "बल्ब"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "अन्न शिजवण्यासाठी सौर ऊर्जेचा कोणता भाग वापरला जातो?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "उष्णता", "is_correct": true },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "ध्वनी", "is_correct": false }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "निसर्गात पदार्थ किती स्थितीत आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": false },
+        { "option_id": 3, "text": "तीन", "is_correct": true },
+        { "option_id": 4, "text": "अनेक", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पदार्थ कशाचा बनलेला असतो?",
+      "answer": "पदार्थ सूक्ष्म कणांचा बनलेला असतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वस्तू कशापासून तयार होतात?",
+      "answer": "वस्तू पदार्थांपासून तयार होतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पदार्थाच्या तीन अवस्था सांगा.",
+      "answer": "स्थायू, द्रव आणि वायू या पदार्थाच्या तीन अवस्था आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अवस्थांतर म्हणजे काय?",
+      "answer": "पदार्थाचे एका अवस्थेतून दुसऱ्या अवस्थेत बदलणे म्हणजे अवस्थांतर होय."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ऊर्जा म्हणजे काय?",
+      "answer": "कार्य करण्याच्या क्षमतेला ऊर्जा म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "इंधन म्हणजे काय?",
+      "answer": "जे पदार्थ जळल्यावर उष्णता देतात, त्यांना इंधन म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "स्थायू पदार्थाचे दोन उदाहरण द्या.",
+      "answer": "दगड आणि लोखंड."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "द्रव पदार्थाचे दोन उदाहरण द्या.",
+      "answer": "पाणी आणि तेल."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वायू पदार्थाचे दोन उदाहरण द्या.",
+      "answer": "हवा आणि ऑक्सिजन."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बाष्पीभवन कशामुळे होते?",
+      "answer": "उष्णतेमुळे द्रवाचे रूपांतर वाफेत होण्याला बाष्पीभवन म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "वाफेला थंडावा मिळाल्यावर तिचे रूपांतर पुन्हा पाण्यात होणे म्हणजे संघनन."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सूर्य हा ऊर्जेचा कोणता स्रोत आहे?",
+      "answer": "सूर्य हा ऊर्जेचा सर्वात मोठा नैसर्गिक स्रोत आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "स्नायू ऊर्जा कुठे वापरली जाते?",
+      "answer": "सामानाची ने-आण करणे, सायकल चालवणे इत्यादी कामात स्नायू ऊर्जा वापरली जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सौर ऊर्जा म्हणजे काय?",
+      "answer": "सूर्यापासून मिळणाऱ्या ऊर्जेला सौर ऊर्जा म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पवन ऊर्जा म्हणजे काय?",
+      "answer": "वाऱ्यापासून मिळणाऱ्या ऊर्जेला पवन ऊर्जा म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "विद्युत ऊर्जेवर चालणाऱ्या दोन उपकरणांची नावे लिहा.",
+      "answer": "विजेचा दिवा (बल्ब) आणि पंखा."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "प्रकाश ऊर्जा कशासाठी आवश्यक आहे?",
+      "answer": "वस्तू पाहण्यासाठी आणि वनस्पतींना अन्न तयार करण्यासाठी प्रकाश ऊर्जा आवश्यक आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ध्वनी ऊर्जा कशी निर्माण होते?",
+      "answer": "एखाद्या वस्तूच्या कंपनामुळे ध्वनी ऊर्जा निर्माण होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "खडूची भुकटी म्हणजे काय आहे?",
+      "answer": "खडूची भुकटी म्हणजे खडूचे सूक्ष्मकण आहेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाणी बर्फात कधी रूपांतरित होते?",
+      "answer": "जेव्हा पाण्याचे तापमान खूप कमी होते (गोठण बिंदू), तेव्हा त्याचे बर्फात रूपांतर होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "रॉकेल जळल्यावर कोणती ऊर्जा मिळते?",
+      "answer": "उष्णता आणि प्रकाश ऊर्जा मिळते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "साखर पाण्यात विरघळल्यावर काय तयार होते?",
+      "answer": "साखरेचे द्रावण तयार होते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "स्थायू पदार्थाचा आकार निश्चित असतो का?",
+      "answer": "हो, स्थायू पदार्थाला निश्चित आकार असतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "द्रव पदार्थ ज्या भांड्यात ठेवतो त्याचा आकार घेतात का?",
+      "answer": "हो, द्रव पदार्थ भांड्याचा आकार घेतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हवेला स्वतःचा आकार असतो का?",
+      "answer": "नाही, हवा उपलब्ध असलेली सर्व जागा व्यापते, तिला निश्चित आकार नसतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "बर्फाचे पाणी होणे हे कोणत्या प्रकारचा बदल आहे?",
+      "answer": "हे पदार्थाचे अवस्थांतर आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पदार्थाचे सूक्ष्मकण आपल्याला साध्या डोळ्यांनी दिसतात का?",
+      "answer": "नाही, अतिसूक्ष्म कण डोळ्यांनी दिसत नाहीत, ते भुकटीच्या स्वरूपात दिसू शकतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "मोटारसायकल चालवण्यासाठी कोणते इंधन लागते?",
+      "answer": "पेट्रोल लागते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अन्न शिजवण्यासाठी आपण कोणती ऊर्जा वापरतो?",
+      "answer": "उष्णता ऊर्जा."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "सौरघटाचा उपयोग काय?",
+      "answer": "सूर्यप्रकाशापासून वीज तयार करण्यासाठी सौरघटाचा उपयोग होतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "इस्त्रीत ऊर्जेचे रूपांतर कशात होते?",
+      "answer": "विद्युत ऊर्जेचे रूपांतर उष्णता ऊर्जेत होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी जमिनीवर पडल्यावर काय होते?",
+      "answer": "काही पाणी जिरते आणि काही पाण्याचे बाष्पीभवन होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वाफेला थंड केल्यावर काय मिळते?",
+      "answer": "वाफेला थंड केल्यावर पाणी मिळते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नेफ्थॅलीनच्या गोळ्या कपाटात का ठेवतात?",
+      "answer": "कपड्यांचे कीकांपासून रक्षण करण्यासाठी आणि सुवासासाठी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पदार्थाचे गुणधर्म कशावर अवलंबून असतात?",
+      "answer": "पदार्थाचे गुणधर्म त्यातील कणांच्या मांडणीवर अवलंबून असतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "डिझेल हे कोणत्या प्रकारचे इंधन आहे?",
+      "answer": "डिझेल हे द्रव स्वरूपातील खनिज इंधन आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पवनचक्की कुठे लावली जाते?",
+      "answer": "जिथे वाऱ्याचा वेग जास्त असतो अशा मोकळ्या जागी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "बल्ब लावल्यावर कोणती ऊर्जा मिळते?",
+      "answer": "प्रकाश ऊर्जा आणि थोड्या प्रमाणात उष्णता ऊर्जा."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "चुंबक कोणत्या ऊर्जेचा वापर करतो?",
+      "answer": "चुंबकीय ऊर्जेचा."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अन्न खाल्ल्यावर आपल्याला कोणती ऊर्जा मिळते?",
+      "answer": "अन्न खाल्ल्यावर आपल्याला काम करण्यासाठी रासायनिक/स्नायू ऊर्जा मिळते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "लाकूड जळणे हा कोणता बदल आहे?",
+      "answer": "हे ज्वलन असून त्यातून नवी ऊर्जा मिळते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पेट्रोल संपल्यावर गाडी चालू शकते का?",
+      "answer": "नाही, कारण गाडीला चालण्यासाठी ऊर्जेची (इंधनाची) गरज असते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पदार्थाची स्थिती कशावर ठरते?",
+      "answer": "पदार्थाचे तापमान आणि दाब यावर त्याची स्थिती ठरते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "पाणी उकळल्यावर काय बाहेर येते?",
+      "answer": "पाणी उकळल्यावर वाफ बाहेर येते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "घरातील गॅसचा वास का येतो?",
+      "answer": "गॅस गळती झाल्यास तो वायू स्वरूपात हवेत मिसळतो म्हणून वास येतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मेणबत्ती वितळणे म्हणजे काय?",
+      "answer": "मेणाचे स्थायू मधून द्रव अवस्थेत जाणे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "विजेची बचत का करावी?",
+      "answer": "वीज तयार करण्यासाठी मर्यादित संसाधने वापरली जातात, म्हणून बचत करावी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वाफेचे ढग कसे बनतात?",
+      "answer": "जलाशयातील पाण्याचे बाष्पीभवन होऊन वाफ वर जाते आणि तिथे संघननामुळे ढग बनतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कोळसा कोणत्या अवस्थेत असतो?",
+      "answer": "कोळसा स्थायू अवस्थेत असतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सायकलच्या चाकात काय भरले जाते?",
+      "answer": "सायकलच्या चाकात हवा (वायू) भरली जाते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "पदार्थाची चव कशामुळे कळते?",
+      "answer": "पदार्थातील रासायनिक गुणधर्मांमुळे चव कळते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "बर्फाचे तुकडे पाण्यात तरंगतात का?",
+      "answer": "हो, बर्फाची घनता पाण्यापेक्षा कमी असल्याने ते तरंगतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "दिवसा सूर्यप्रकाश नसला तर काय होईल?",
+      "answer": "सर्वत्र अंधार होईल आणि वनस्पती स्वतःचे अन्न तयार करू शकणार नाहीत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "कठोर पदार्थ म्हणजे काय?",
+      "answer": "ज्या पदार्थाचा आकार सहज बदलत नाही, त्यांना कठोर पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मऊ पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ सहज दाबले जातात, त्यांना मऊ पदार्थ म्हणतात (उदा. कापूस)."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "रॉकेट उडवण्यासाठी काय वापरतात?",
+      "answer": "रॉकेटमध्ये विशेष प्रकारचे इंधन ऊर्जेसाठी वापरतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पाणी किती अंशावर उकळते?",
+      "answer": "पाणी साधारणपणे १०० अंश सेल्सिअसवर उकळते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ऊर्जा निर्माण करता येते का?",
+      "answer": "ऊर्जा नष्ट करता येत नाही किंवा नव्याने निर्माण करता येत नाही, फक्त तिचे रूपांतर करता येते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "वायूला दाब दिल्यास काय होते?",
+      "answer": "वायूला दाब दिल्यास त्याचे आकारमान कमी होते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पदार्थाची पारदर्शकता म्हणजे काय?",
+      "answer": "ज्या पदार्थातून प्रकाश आरपार जाऊ शकतो, त्याला पारदर्शक पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "अपारदर्शक पदार्थ कोणते?",
+      "answer": "ज्यातून प्रकाश पलीकडे जाऊ शकत नाही (उदा. लाकूड, भिंत)."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "पेट्रोलचा वास का येतो?",
+      "answer": "पेट्रोल हे बाष्पशील असल्याने त्याचे सूक्ष्मकण हवेत पसरतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात खोबरेल तेल गोठते का?",
+      "answer": "हो, थंडीमुळे द्रवाचे रूपांतर स्थायू मध्ये होते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "साली गरम का होतात?",
+      "answer": "घर्षणामुळे उष्णता ऊर्जा निर्माण होते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "सोलर वॉटर हीटरचा उपयोग काय?",
+      "answer": "सूर्यप्रकाशाचा वापर करून पाणी गरम करण्यासाठी."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पदार्थाची विद्राव्यता म्हणजे काय?",
+      "answer": "पदार्थाचे पाण्यात किंवा इतर द्रवात विरघळणे म्हणजे विद्राव्यता."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "गरम चहा थंड का होतो?",
+      "answer": "चहातील उष्णता सभोवतालच्या हवेत मिसळल्यामुळे तो थंड होतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "स्थायू पदार्थाला उष्णता दिल्यास काय होते?",
+      "answer": "बऱ्याचदा स्थायूचे द्रवात रूपांतर होते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "पदार्थाचे वजन कशामुळे असते?",
+      "answer": "पदार्थातील कणांच्या एकूण वस्तुमानामुळे त्याला वजन असते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "वायू सर्व दिशांना पसरतो का?",
+      "answer": "हो, वायूला विशिष्ट दिशा नसते, तो सर्व उपलब्ध जागा व्यापतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा वापर कमी कसा करावा?",
+      "answer": "गरज नसताना दिवे-पंख्यांचे बटण बंद करून."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "धनुष्यातून बाण सुटताना कोणती ऊर्जा वापरली जाते?",
+      "answer": "स्थितिज ऊर्जेचे रूपांतर गतिज ऊर्जेत होते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "धबधब्यातून पडणारे पाणी कोणती ऊर्जा दर्शवते?",
+      "answer": "गतिज ऊर्जा."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "लोखंडाचे पत्रे गंजतात का?",
+      "answer": "हो, हवा आणि पाणी यांच्या संपर्कात आल्यावर रासायनिक क्रियेमुळे लोखंड गंजते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "बर्फ गरम केल्यावर काय होते?",
+      "answer": "बर्फाचे पाण्यात रूपांतर होते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "काचेचा पेला फुटल्यावर काय होते?",
+      "answer": "काचेचे अनेक लहान तुकडे (कण) होतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पदार्थाचा रंग कशामुळे दिसतो?",
+      "answer": "पदार्थ विशिष्ट प्रकाश किरणे परावर्तित करतो, त्यामुळे त्याचा रंग दिसतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पेट्रोल उघड्यावर ठेवल्यास काय होईल?",
+      "answer": "पेट्रोलचे लवकर बाष्पीभवन होऊन ते संपून जाईल."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "दुधाचे दही होणे हा कोणता बदल आहे?",
+      "answer": "हा रासायनिक बदल आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पदार्थाच्या सूक्ष्म कणांच्या अभ्यासाला काय म्हणतात?",
+      "answer": "रेणवीय अभ्यास किंवा रसायनशास्त्र."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "हवा आपल्याला का दिसत नाही?",
+      "answer": "हवा रंगहीन आणि पारदर्शक असल्यामुळे दिसत नाही."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "पाणी उंचावरून खाली का पडते?",
+      "answer": "पृथ्वीच्या गुरुत्वाकर्षणामुळे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "चुंबकीय पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ चुंबकाकडे आकर्षित होतात (उदा. लोखंड)."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "स्थायू पदार्थाचे कणांमध्ये रूपांतर कसे करता येते?",
+      "answer": "कुटून, दळून किंवा घासून."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा अपव्यय म्हणजे काय?",
+      "answer": "गरज नसताना ऊर्जा वापरणे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "सौर उर्जेचा एक फायदा सांगा.",
+      "answer": "ती मोफत मिळते आणि प्रदूषण करत नाही."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक वायू इंधन म्हणून वापरतात का?",
+      "answer": "हो, सीएनजी (CNG) स्वरूपात वाहनांसाठी वापरतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पाण्याचे बाष्प कोठे असते?",
+      "answer": "पाण्याचे बाष्प हवेत सर्वत्र असते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "इंधन ज्वलनासाठी कशाची गरज असते?",
+      "answer": "ऑक्सिजन (हवा) ची गरज असते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "विद्युत घटात (Cell) कोणती ऊर्जा असते?",
+      "answer": "रासायनिक ऊर्जा साठवलेली असते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "ध्वनी एका ठिकाणाहून दुसऱ्या ठिकाणी कसा जातो?",
+      "answer": "हवेतील लहरींमार्फत."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "पाणी गोठवल्यावर त्याचा आकार वाढतो का?",
+      "answer": "हो, बर्फ झाल्यावर पाण्याचे आकारमान थोडे वाढते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "गरम वाफेचा दाब इंजिन चालवू शकतो का?",
+      "answer": "हो, वाफ इंजिन याच तत्त्वावर चालते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "स्थायू पदार्थाचा आकार कसा बदलता येतो?",
+      "answer": "बाहेरून बल लावून किंवा तोडून."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "द्रव पदार्थ उतारावरून कुठे वाहतात?",
+      "answer": "द्रव पदार्थ नेहमी खालच्या दिशेला वाहतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "सौर ऊर्जा साठवता येते का?",
+      "answer": "हो, बॅटरीमध्ये साठवता येते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "हवेचे प्रदूषण कशामुळे होते?",
+      "answer": "इंधने जळल्यामुळे निघणाऱ्या धुरामुळे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पदार्थ गरम केल्यावर कणांची हालचाल वाढते का?",
+      "answer": "हो, उष्णतेमुळे कणांची ऊर्जा वाढते आणि हालचाल गतिमान होते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "लाकूड हा पदार्थाचा कोणता प्रकार आहे?",
+      "answer": "स्थायू पदार्थ."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "ऊर्जा संकट टाळण्यासाठी काय करावे?",
+      "answer": "ऊर्जेचा जपून वापर आणि अपारंपारिक स्रोतांचा (सूर्य, वारा) वापर करावा."
+    }
+  ]
+}

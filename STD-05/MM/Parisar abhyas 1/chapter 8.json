@@ -1,0 +1,1207 @@
+{
+  "chapter_id": 8,
+  "chapter_name": "सार्वजनिक सुविधा आणि माझी शाळा",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती सेवा सार्वजनिक सेवा आहे?",
+      "options": [
+        { "option_id": 1, "text": "खाजगी वाहन", "is_correct": false },
+        { "option_id": 2, "text": "बस सेवा", "is_correct": true },
+        { "option_id": 3, "text": "स्वतःचे घर", "is_correct": false },
+        { "option_id": 4, "text": "वैयक्तिक मोबाईल", "is_correct": false }
+      ],
+      "answer": "बस सेवा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक सेवांचा लाभ आपण सर्वांनी कसा घेतला पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "बेजबाबदारपणे", "is_correct": false },
+        { "option_id": 2, "text": "फक्त स्वतःचा विचार करून", "is_correct": false },
+        { "option_id": 3, "text": "जबाबदारीने", "is_correct": true },
+        { "option_id": 4, "text": "वापर न करता", "is_correct": false }
+      ],
+      "answer": "जबाबदारीने"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शाळेच्या बाहेरच्या जगाशी असणारा संबंध म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त खेळ", "is_correct": false },
+        { "option_id": 2, "text": "शालेय परिसर", "is_correct": false },
+        { "option_id": 3, "text": "समाज आणि शाळा यांचा संबंध", "is_correct": true },
+        { "option_id": 4, "text": "सहली", "is_correct": false }
+      ],
+      "answer": "समाज आणि शाळा यांचा संबंध"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शाळेच्या विकासासाठी कोणाचा वाटा महत्त्वाचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शिक्षकांचा", "is_correct": false },
+        { "option_id": 2, "text": "फक्त मुख्याध्यापकांचा", "is_correct": false },
+        { "option_id": 3, "text": "पालक आणि समाज", "is_correct": true },
+        { "option_id": 4, "text": "फक्त विद्यार्थ्यांचा", "is_correct": false }
+      ],
+      "answer": "पालक आणि समाज"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शाळेत आपण कशासाठी येतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त जेवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "शिकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भांडण करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शिकण्यासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गावच्या विकासात कोणाचे योगदान असते?",
+      "options": [
+        { "option_id": 1, "text": "परक्या लोकांचे", "is_correct": false },
+        { "option_id": 2, "text": "गावच्या सर्व नागरिकांचे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त श्रीमंतांचे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त मंत्र्यांचे", "is_correct": false }
+      ],
+      "answer": "गावच्या सर्व नागरिकांचे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शाळा ही समाजाची काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठी इमारत", "is_correct": false },
+        { "option_id": 2, "text": "छोटा भाग", "is_correct": true },
+        { "option_id": 3, "text": "जबाबदारी नाही", "is_correct": false },
+        { "option_id": 4, "text": "करमणुकीचे साधन", "is_correct": false }
+      ],
+      "answer": "छोटा भाग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक ठिकाणी पाणी पिण्याची सोय कशाने होते?",
+      "options": [
+        { "option_id": 1, "text": "नळ आणि पाणपोई", "is_correct": true },
+        { "option_id": 2, "text": "तलाव", "is_correct": false },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "खाजगी बाटली", "is_correct": false }
+      ],
+      "answer": "नळ आणि पाणपोई"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शाळेच्या मैदानावर आपण काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "अभ्यास", "is_correct": false },
+        { "option_id": 2, "text": "खेळ", "is_correct": true },
+        { "option_id": 3, "text": "भांडण", "is_correct": false },
+        { "option_id": 4, "text": "कचरा टाकतो", "is_correct": false }
+      ],
+      "answer": "खेळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ग्रामपंचायतीमार्फत कोणती सोय केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "परदेश प्रवास", "is_correct": false },
+        { "option_id": 2, "text": "रस्त्यांवरील दिवे", "is_correct": true },
+        { "option_id": 3, "text": "चित्रपट गृह", "is_correct": false },
+        { "option_id": 4, "text": "हॉटेल", "is_correct": false }
+      ],
+      "answer": "रस्त्यांवरील दिवे"
+    },
+    {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "शाळेत सर्वांना समान काय असते?",
+        "options": [
+          { "option_id": 1, "text": "गुण", "is_correct": false },
+          { "option_id": 2, "text": "संधी", "is_correct": true },
+          { "option_id": 3, "text": "खिशातले पैसे", "is_correct": false },
+          { "option_id": 4, "text": "घरातील सुखसोयी", "is_correct": false }
+        ],
+        "answer": "संधी"
+    },
+    {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "पालक-शिक्षक संघामुळे काय होते?",
+        "options": [
+          { "option_id": 1, "text": "शिक्षकांचा अपमान", "is_correct": false },
+          { "option_id": 2, "text": "पालकांचा वेळ जातो", "is_correct": false },
+          { "option_id": 3, "text": "संवाद वाढतो", "is_correct": true },
+          { "option_id": 4, "text": "शाळा बंद पडते", "is_correct": false }
+        ],
+        "answer": "संवाद वाढतो"
+    },
+    {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "पत्रव्यवहार करण्यासाठी आपण कशाचा वापर करतो?",
+        "options": [
+          { "option_id": 1, "text": "विमान", "is_correct": false },
+          { "option_id": 2, "text": "टपाल सेवा", "is_correct": true },
+          { "option_id": 3, "text": "पुस्तकालय", "is_correct": false },
+          { "option_id": 4, "text": "रुग्णालय", "is_correct": false }
+        ],
+        "answer": "टपाल सेवा"
+    },
+    {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "आजारी पडल्यावर आपण कोठे जातो?",
+        "options": [
+          { "option_id": 1, "text": "शाळा", "is_correct": false },
+          { "option_id": 2, "text": "दवाखाना / प्राथमिक आरोग्य केंद्र", "is_correct": true },
+          { "option_id": 3, "text": "बँक", "is_correct": false },
+          { "option_id": 4, "text": "बाजार", "is_correct": false }
+        ],
+        "answer": "दवाखाना / प्राथमिक आरोग्य केंद्र"
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "पैशांची सुरक्षितता आणि व्यवहार यासाठी काय असते?",
+        "options": [
+          { "option_id": 1, "text": "बँक", "is_correct": true },
+          { "option_id": 2, "text": "खेळाचे मैदान", "is_correct": false },
+          { "option_id": 3, "text": "रुग्णालय", "is_correct": false },
+          { "option_id": 4, "text": "बस स्थानक", "is_correct": false }
+        ],
+        "answer": "बँक"
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question": "शाळेला मदत करण्यासाठी माजी विद्यार्थी काय करू शकतात?",
+        "options": [
+          { "option_id": 1, "text": "शाळेचे नुकसान", "is_correct": false },
+          { "option_id": 2, "text": "ग्रंथालयासाठी पुस्तके देणे", "is_correct": true },
+          { "option_id": 3, "text": "शिक्षकांना त्रास देणे", "is_correct": false },
+          { "option_id": 4, "text": "शाळेत न येणे", "is_correct": false }
+        ],
+        "answer": "ग्रंथालयासाठी पुस्तके देणे"
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक नळाला तोटी नसेल तर काय होईल?",
+        "options": [
+          { "option_id": 1, "text": "पाणी वाचेल", "is_correct": false },
+          { "option_id": 2, "text": "पाणी वाया जाईल", "is_correct": true },
+          { "option_id": 3, "text": "पाणी शुद्ध होईल", "is_correct": false },
+          { "option_id": 4, "text": "काहीच होणार नाही", "is_correct": false }
+        ],
+        "answer": "पाणी वाया जाईल"
+    },
+    {
+        "question_id": 18,
+        "question_type": "MCQ",
+        "question": "अग्निशामक दल ही कोणती सेवा आहे?",
+        "options": [
+          { "option_id": 1, "text": "खाजगी", "is_correct": false },
+          { "option_id": 2, "text": "सार्वजनिक", "is_correct": true },
+          { "option_id": 3, "text": "कौटुंबिक", "is_correct": false },
+          { "option_id": 4, "text": "मनोरंजनाची", "is_correct": false }
+        ],
+        "answer": "सार्वजनिक"
+    },
+    {
+        "question_id": 19,
+        "question_type": "MCQ",
+        "question": "शाळेत स्वच्छतेची जबाबदारी कोणाची आहे?",
+        "options": [
+          { "option_id": 1, "text": "फक्त शिपायांची", "is_correct": false },
+          { "option_id": 2, "text": "फक्त मुख्याध्यापकांची", "is_correct": false },
+          { "option_id": 3, "text": "प्रत्येक विद्यार्थ्याची व सर्वांची", "is_correct": true },
+          { "option_id": 4, "text": "शाळा बाहेरील लोकांची", "is_correct": false }
+        ],
+        "answer": "प्रत्येक विद्यार्थ्याची व सर्वांची"
+    },
+    {
+        "question_id": 20,
+        "question_type": "MCQ",
+        "question": "पुस्तके वाचण्यासाठी शाळेत काय असते?",
+        "options": [
+          { "option_id": 1, "text": "प्रयोगशाळा", "is_correct": false },
+          { "option_id": 2, "text": "ग्रंथालय", "is_correct": true },
+          { "option_id": 3, "text": "क्रीडा विभाग", "is_correct": false },
+          { "option_id": 4, "text": "उपाहारगृह", "is_correct": false }
+        ],
+        "answer": "ग्रंथालय"
+    },
+    {
+        "question_id": 21,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक वाहतुकीचा वापर केल्याने कशाची बचत होते?",
+        "options": [
+          { "option_id": 1, "text": "पाण्याची", "is_correct": false },
+          { "option_id": 2, "text": "इंधनाची", "is_correct": true },
+          { "option_id": 3, "text": "पुस्तकांची", "is_correct": false },
+          { "option_id": 4, "text": "रस्त्यांची", "is_correct": false }
+        ],
+        "answer": "इंधनाची"
+    },
+    {
+        "question_id": 22,
+        "question_type": "MCQ",
+        "question": "शाळेच्या स्नेहसंमेलनात कोणाला बोलावले जाते?",
+        "options": [
+          { "option_id": 1, "text": "परदेशी पर्यटक", "is_correct": false },
+          { "option_id": 2, "text": "पालक आणि समाज बांधव", "is_correct": true },
+          { "option_id": 3, "text": "चित्रपट नट", "is_correct": false },
+          { "option_id": 4, "text": "कोणालाही नाही", "is_correct": false }
+        ],
+        "answer": "पालक आणि समाज बांधव"
+    },
+    {
+        "question_id": 23,
+        "question_type": "MCQ",
+        "question": "रस्त्यावर कचरा टाकणे ही कोणती गोष्ट आहे?",
+        "options": [
+          { "option_id": 1, "text": "चांगली", "is_correct": false },
+          { "option_id": 2, "text": "अयोग्य", "is_correct": true },
+          { "option_id": 3, "text": "गौरवाची", "is_correct": false },
+          { "option_id": 4, "text": "गर्वाची", "is_correct": false }
+        ],
+        "answer": "अयोग्य"
+    },
+    {
+        "question_id": 24,
+        "question_type": "MCQ",
+        "question": "प्रयोगांसाठी शाळेत काय असते?",
+        "options": [
+          { "option_id": 1, "text": "मैदान", "is_correct": false },
+          { "option_id": 2, "text": "प्रयोगशाळा", "is_correct": true },
+          { "option_id": 3, "text": "स्वयंपाकघर", "is_correct": false },
+          { "option_id": 4, "text": "पार्किंग", "is_correct": false }
+        ],
+        "answer": "प्रयोगशाळा"
+    },
+    {
+        "question_id": 25,
+        "question_type": "MCQ",
+        "question": "पिण्याच्या पाण्याची टाकी कशी ठेवावी?",
+        "options": [
+          { "option_id": 1, "text": "उघडी", "is_correct": false },
+          { "option_id": 2, "text": "झाकलेली आणि स्वच्छ", "is_correct": true },
+          { "option_id": 3, "text": "घाणेरडी", "is_correct": false },
+          { "option_id": 4, "text": "भरलेली नसावी", "is_correct": false }
+        ],
+        "answer": "झाकलेली आणि स्वच्छ"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "शाळेतील फर्निचरची काळजी कोणी घ्यावी?",
+        "options": [
+          { "option_id": 1, "text": "दुसऱ्या शाळेतील मुलांनी", "is_correct": false },
+          { "option_id": 2, "text": "आपण सर्वांनी", "is_correct": true },
+          { "option_id": 3, "text": "फक्त सरकारने", "is_correct": false },
+          { "option_id": 4, "text": "कोणीच नाही", "is_correct": false }
+        ],
+        "answer": "आपण सर्वांनी"
+    },
+    {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "शाळा कोणत्या रंगाची असावी?",
+        "options": [
+          { "option_id": 1, "text": "भडक", "is_correct": false },
+          { "option_id": 2, "text": "प्रसन्न", "is_correct": true },
+          { "option_id": 3, "text": "काळा", "is_correct": false },
+          { "option_id": 4, "text": "रंग नसलेला", "is_correct": false }
+        ],
+        "answer": "प्रसन्न"
+    },
+    {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक शौचालयाचा वापर केल्यानंतर काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "बाहेर पळावे", "is_correct": false },
+          { "option_id": 2, "text": "पुरेसे पाणी टाकावे", "is_correct": true },
+          { "option_id": 3, "text": "लाइट चालू ठेवावा", "is_correct": false },
+          { "option_id": 4, "text": "तिथे कचरा टाकावा", "is_correct": false }
+        ],
+        "answer": "पुरेसे पाणी टाकावे"
+    },
+    {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "शाळेत बसण्यासाठी काय असते?",
+        "options": [
+          { "option_id": 1, "text": "पलंग", "is_correct": false },
+          { "option_id": 2, "text": "बाके (Benches)", "is_correct": true },
+          { "option_id": 3, "text": "सोफा", "is_correct": false },
+          { "option_id": 4, "text": "सतरंजी नको", "is_correct": false }
+        ],
+        "answer": "बाके (Benches)"
+    },
+    {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "आपली शाळा आपल्याला कोणाप्रमाणे वाटते?",
+        "options": [
+          { "option_id": 1, "text": "तुरुंगासारखी", "is_correct": false },
+          { "option_id": 2, "text": "दुसऱ्या घरासारखी", "is_correct": true },
+          { "option_id": 3, "text": "बाजारपेठेसारखी", "is_correct": false },
+          { "option_id": 4, "text": "हॉटेलसारखी", "is_correct": false }
+        ],
+        "answer": "दुसऱ्या घरासारखी"
+    },
+    {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "शाळेतील पिण्याचे पाणी कसे असावे?",
+        "options": [
+          { "option_id": 1, "text": "खारे", "is_correct": false },
+          { "option_id": 2, "text": "शुद्ध आणि सुरक्षित", "is_correct": true },
+          { "option_id": 3, "text": "उघड्यावरचे", "is_correct": false },
+          { "option_id": 4, "text": "गरम", "is_correct": false }
+        ],
+        "answer": "शुद्ध आणि सुरक्षित"
+    },
+    {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "शाळेच्या बागेतील रोपांना काय द्यावे?",
+        "options": [
+          { "option_id": 1, "text": "केरकचरा", "is_correct": false },
+          { "option_id": 2, "text": "पाणी", "is_correct": true },
+          { "option_id": 3, "text": "दगड", "is_correct": false },
+          { "option_id": 4, "text": "काहीही नको", "is_correct": false }
+        ],
+        "answer": "पाणी"
+    },
+    {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक ठिकाणी मोठ्याने ओरडणे हे काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "शिष्टाचार", "is_correct": false },
+          { "option_id": 2, "text": "गैरवर्तन", "is_correct": true },
+          { "option_id": 3, "text": "मनोरंजन", "is_correct": false },
+          { "option_id": 4, "text": "मदत", "is_correct": false }
+        ],
+        "answer": "गैरवर्तन"
+    },
+    {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "शाळेची घंटा कशासाठी वाजते?",
+        "options": [
+          { "option_id": 1, "text": "गाणी ऐकण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "तास संपल्याचे किंवा सुरू झाल्याचे समजण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "पक्षांना बोलावण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "उगीचच", "is_correct": false }
+        ],
+        "answer": "तास संपल्याचे किंवा सुरू झाल्याचे समजण्यासाठी"
+    },
+    {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "बसमध्ये चढताना काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "धक्काबुक्की", "is_correct": false },
+          { "option_id": 2, "text": "रांग लावावी", "is_correct": true },
+          { "option_id": 3, "text": "खिडकीतून चढावे", "is_correct": false },
+          { "option_id": 4, "text": "बस थांबण्याआधी उडी मारावी", "is_correct": false }
+        ],
+        "answer": "रांग लावावी"
+    },
+    {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "शाळेतील संगणक कशासाठी असतात?",
+        "options": [
+          { "option_id": 1, "text": "खेळ खेळण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "माहिती मिळवण्यासाठी व शिकण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "तोडण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "साठवून ठेवण्यासाठी", "is_correct": false }
+        ],
+        "answer": "माहिती मिळवण्यासाठी व शिकण्यासाठी"
+    },
+    {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "विजेची बचत करण्यासाठी काय करावे?",
+        "options": [
+          { "option_id": 1, "text": "दिवे चालू ठेवावेत", "is_correct": false },
+          { "option_id": 2, "text": "गरज नसेल तेव्हा दिवे बंद करावेत", "is_correct": true },
+          { "option_id": 3, "text": "लाइटची वायर कापून टाकावी", "is_correct": false },
+          { "option_id": 4, "text": "अंधारात राहावे", "is_correct": false }
+        ],
+        "answer": "गरज नसेल तेव्हा दिवे बंद करावेत"
+    },
+    {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "शाळेचा गणवेश घातल्यामुळे काय येते?",
+        "options": [
+          { "option_id": 1, "text": "अहंकार", "is_correct": false },
+          { "option_id": 2, "text": "समानता आणि शिस्त", "is_correct": true },
+          { "option_id": 3, "text": "गरिबी", "is_correct": false },
+          { "option_id": 4, "text": "आळस", "is_correct": false }
+        ],
+        "answer": "समानता आणि शिस्त"
+    },
+    {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "सार्वजनिक वाचनालयात आपण कसे बसले पाहिजे?",
+        "options": [
+          { "option_id": 1, "text": "मोठ्याने बोलत", "is_correct": false },
+          { "option_id": 2, "text": "शांतता पाळून", "is_correct": true },
+          { "option_id": 3, "text": "गाणी म्हणत", "is_correct": false },
+          { "option_id": 4, "text": "जेवण करत", "is_correct": false }
+        ],
+        "answer": "शांतता पाळून"
+    },
+    {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "गावातील रस्ते स्वच्छ ठेवणे ही कोणाची जबाबदारी आहे?",
+        "options": [
+          { "option_id": 1, "text": "फक्त स्वच्छता कर्मचाऱ्यांची", "is_correct": false },
+          { "option_id": 2, "text": "गावातील प्रत्येक नागरिकाची", "is_correct": true },
+          { "option_id": 3, "text": "कोणाचीच नाही", "is_correct": false },
+          { "option_id": 4, "text": "फक्त मुलांची", "is_correct": false }
+        ],
+        "answer": "गावातील प्रत्येक नागरिकाची"
+    },
+    {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "शाळेच्या भिंतीवर काय करणे चुकीचे आहे?",
+        "options": [
+          { "option_id": 1, "text": "सुविचार लिहिणे", "is_correct": false },
+          { "option_id": 2, "text": "रेघोट्या मारणे किंवा घाण करणे", "is_correct": true },
+          { "option_id": 3, "text": "नकाशा लावणे", "is_correct": false },
+          { "option_id": 4, "text": "पेंटिंग करणे (अनुमतीने)", "is_correct": false }
+        ],
+        "answer": "रेघोट्या मारणे किंवा घाण करणे"
+    },
+    {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "खेळाच्या साहित्याची काळजी कोणी घ्यावी?",
+        "options": [
+          { "option_id": 1, "text": "खेळणाऱ्या सर्व मुलांनी", "is_correct": true },
+          { "option_id": 2, "text": "फक्त पी.टी. सरांनी", "is_correct": false },
+          { "option_id": 3, "text": "कोणीही नको", "is_correct": false },
+          { "option_id": 4, "text": "दुसऱ्या शाळेतील मुलांनी", "is_correct": false }
+        ],
+        "answer": "खेळणाऱ्या सर्व मुलांनी"
+    },
+    {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "शाळेतील मधल्या सुटीचा उपयोग कशासाठी करावा?",
+        "options": [
+          { "option_id": 1, "text": "भांडण करण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "जेवण आणि विश्रांतीसाठी", "is_correct": true },
+          { "option_id": 3, "text": "शाळेबाहेर पळून जाण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "वर्गातील वस्तू तोडण्यासाठी", "is_correct": false }
+        ],
+        "answer": "जेवण आणि विश्रांतीसाठी"
+    },
+    {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "स्थानिक स्वराज्य संस्था म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "खाजगी कंपनी", "is_correct": false },
+          { "option_id": 2, "text": "ग्रामपंचायत, नगरपालिका, महानगरपालिका", "is_correct": true },
+          { "option_id": 3, "text": "खेळाचा क्लब", "is_correct": false },
+          { "option_id": 4, "text": "कुटुंब", "is_correct": false }
+        ],
+        "answer": "ग्रामपंचायत, नगरपालिका, महानगरपालिका"
+    },
+    {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "शाळेत आपण काय पाळले पाहिजे?",
+        "options": [
+          { "option_id": 1, "text": "नियम आणि शिस्त", "is_correct": true },
+          { "option_id": 2, "text": "अशिस्त", "is_correct": false },
+          { "option_id": 3, "text": "गोंधळ", "is_correct": false },
+          { "option_id": 4, "text": "पक्षपात", "is_correct": false }
+        ],
+        "answer": "नियम आणि शिस्त"
+    },
+    {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "शाळेतील शिक्षकांशी आपण कसे वागले पाहिजे?",
+        "options": [
+          { "option_id": 1, "text": "उद्धटपणे", "is_correct": false },
+          { "option_id": 2, "text": "आदराने", "is_correct": true },
+          { "option_id": 3, "text": "दुर्लक्ष करून", "is_correct": false },
+          { "option_id": 4, "text": "घाबरून", "is_correct": false }
+        ],
+        "answer": "आदराने"
+    },
+    {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "विमानतळ ही कोणत्या प्रकारची सुविधा आहे?",
+        "options": [
+          { "option_id": 1, "text": "वैयक्तिक", "is_correct": false },
+          { "option_id": 2, "text": "सार्वजनिक वाहतूक", "is_correct": true },
+          { "option_id": 3, "text": "शालेय", "is_correct": false },
+          { "option_id": 4, "text": "घरातील", "is_correct": false }
+        ],
+        "answer": "सार्वजनिक वाहतूक"
+    },
+    {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "शाळेच्या वाचनालयातील पुस्तके कशी हाताळावीत?",
+        "options": [
+          { "option_id": 1, "text": "पानं फाडून", "is_correct": false },
+          { "option_id": 2, "text": "काळजीपूर्वक", "is_correct": true },
+          { "option_id": 3, "text": "त्यावर चित्रे काढून", "is_correct": false },
+          { "option_id": 4, "text": "हरवून टाकावीत", "is_correct": false }
+        ],
+        "answer": "काळजीपूर्वक"
+    },
+    {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "शाळेमुळे आपल्या व्यक्तिमत्वाचा काय होतो?",
+        "options": [
+          { "option_id": 1, "text": "नाश", "is_correct": false },
+          { "option_id": 2, "text": "विकास", "is_correct": true },
+          { "option_id": 3, "text": "संकोच", "is_correct": false },
+          { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+        ],
+        "answer": "विकास"
+    },
+    {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "शाळेतील सुसंवादामुळे काय वाढते?",
+        "options": [
+          { "option_id": 1, "text": "शत्रुत्व", "is_correct": false },
+          { "option_id": 2, "text": "परस्पर सहकार्य", "is_correct": true },
+          { "option_id": 3, "text": "तणाव", "is_correct": false },
+          { "option_id": 4, "text": "अविश्वास", "is_correct": false }
+        ],
+        "answer": "परस्पर सहकार्य"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक सुविधा म्हणजे काय?",
+      "answer": "आपल्या सर्वांसाठी असणाऱ्या सोयींना सार्वजनिक सुविधा म्हणतात, जसे की पाणीपुरवठा, वीज, वाहतूक इ."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "स्थानिक स्वराज्य संस्था कोणत्या सेवा पुरवतात?",
+      "answer": "स्थानिक स्वराज्य संस्था पाणीपुरवठा, सार्वजनिक स्वच्छता, रस्त्यांवरील दिवे यांसारख्या सेवा पुरवतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शाळा ही समाजाची काय मानली जाते?",
+      "answer": "शाळा ही समाजाचा एक छोटासा भाग मानली जाते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शाळेच्या विकासासाठी कोणाचे सहकार्य आवश्यक असते?",
+      "answer": "शाळेच्या विकासासाठी पालक, माजी विद्यार्थी, समाजातील नागरिक आणि दानशूर व्यक्तींचे सहकार्य आवश्यक असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक वाहतुकीची उदाहरणे द्या.",
+      "answer": "बस, रेल्वे आणि विमान ही सार्वजनिक वाहतुकीची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बँकेचा उपयोग कशासाठी होतो?",
+      "answer": "पैशांची बचत करणे, सुरक्षित ठेवणे आणि आर्थिक व्यवहार करण्यासाठी बँकेचा उपयोग होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "टपाल सेवेचे महत्त्व काय?",
+      "answer": "पत्रव्यवहार करणे आणि जगाशी संपर्क साधण्यासाठी टपाल सेवा महत्त्वाची आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शाळेत मिळणाऱ्या सोयींची यादी करा.",
+      "answer": "मैदान, ग्रंथालय, पिण्याचे पाणी, स्वच्छतागृह, संगणक कक्ष, प्रयोगशाळा इ."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "शाळेत सर्वांना समान संधी का असावी?",
+      "options": null,
+      "answer": "प्रत्येक मुला-मुलीला शिकण्याचा आणि प्रगती करण्याचा अधिकार असल्यामुळे समान संधी असावी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पालक-शिक्षक संघ का महत्त्वाचा आहे?",
+      "answer": "विद्यार्थ्यांच्या प्रगतीवर चर्चा करण्यासाठी आणि शाळा व पालक यांच्यात समन्वय साधण्यासाठी हा संघ महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आपण सार्वजनिक सेवांचा वापर कसा केला पाहिजे?",
+      "answer": "आपण सार्वजनिक सेवांचा वापर जबाबदारीने आणि काळजीपूर्वक केला पाहिजे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शाळेतील स्वच्छतेसाठी तुम्ही काय कराल?",
+      "answer": "आम्ही कचरा कचराकुंडीत टाकू आणि वर्गातील व परिसरातील स्वच्छता राखू."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शाळेच्या बागेची काळजी कशी घ्याल?",
+      "answer": "रोपांना पाणी देऊन आणि त्यांची पाने-फुले न तोडता आम्ही बागेची काळजी घेऊ."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ग्रामपंचायत काय काम करते?",
+      "answer": "गावच्या गरजा ओळखून तिथे पाणी, रस्ते आणि स्वच्छतेच्या सोयी पुरवण्याचे काम ग्रामपंचायत करते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शाळेतील ग्रंथालयाचे नियम कोणते असावेत?",
+      "answer": "शांतता राखणे, पुस्तके वेळेवर परत करणे आणि ती न फाडणे हे नियम असावेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "माजी विद्यार्थी शाळेला कशी मदत करतात?",
+      "answer": "माजी विद्यार्थी आर्थिक मदत देऊन, खेळणी देऊन किंवा ग्रंथालयाला पुस्तके देऊन मदत करतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "शाळेच्या बाहेर कचरा का टाकू नये?",
+      "answer": "कचऱ्यामुळे दुर्गंधी पसरते आणि आरोग्य धोक्यात येते, म्हणून कचरा टाकू नये."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पिण्याच्या पाण्याच्या ठिकाणी काय काळजी घ्यावी?",
+      "answer": "तिथे पाण्याचा अपव्यय टाळावा आणि परिसर कोरडा व स्वच्छ ठेवावा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शाळेतील संगणक कशासाठी वापरावा?",
+      "answer": "नवीन माहिती मिळवण्यासाठी, कोडी सोडवण्यासाठी आणि शैक्षणिक अभ्यासासाठी वापरावा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक नळ गळत असल्यास काय करावे?",
+      "answer": "तो नळ दुरुस्त करण्यासाठी संबंधित यंत्रणेला किंवा ग्रामपंचायतीला कळवावे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "शाळेच्या स्नेहसंमेलनाचा फायदा काय?",
+      "answer": "विद्यार्थ्यांच्या अंगी असलेल्या कलागुणांना वाव मिळतो आणि समाजाशी संपर्क वाढतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सहकार्य म्हणजे काय?",
+      "answer": "एकमेकांच्या मदतीने कोणतेही काम यशस्वी करणे म्हणजे सहकार्य होय."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "शाळेतील फर्निचरची काळजी का घ्यावी?",
+      "answer": "ते शाळेची मालमत्ता आहे आणि पुढील अनेक वर्षांच्या विद्यार्थ्यांसाठी ते टिकले पाहिजे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "प्राथमिक आरोग्य केंद्र काय सेवा देते?",
+      "answer": "ते आजारी लोकांवर उपचार करते आणि लसीकरण व आरोग्याबाबत जनजागृती करते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी शांतता का राखावी?",
+      "answer": "दुसऱ्या लोकांना त्रास होऊ नये आणि कामे सुरळीत पार पडावीत यासाठी शांतता राखावी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शाळा आणि घर यात काय साम्य आहे?",
+      "answer": "दोन्ही ठिकाणी आपल्याला प्रेम, सुरक्षितता आणि काहीतरी नवीन शिकायला मिळते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक वाहतुकीचा वापर का करावा?",
+      "answer": "त्यामुळे रत्यांवरील गर्दी कमी होते, प्रदूषण कमी होते आणि इंधनाची बचत होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शाळेतील नियमांचे पालन का करावे?",
+      "answer": "शाळेचे कामकाज शिस्तबद्ध चालण्यासाठी नियमांचे पालन करणे आवश्यक आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पालकांनी शाळेला कशी भेट द्यावी?",
+      "answer": "पालकांनी अधूनमधून शाळेत जाऊन आपल्या पाल्याच्या प्रगतीबद्दल शिक्षकांशी चर्चा करावी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "क्रीडा स्पर्धेचे महत्त्व सांगा.",
+      "answer": "क्रीडा स्पर्धेमुळे आरोग्य सुधारते आणि मुलांमध्ये सांघिक भावना निर्माण होते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "शाळेतील मध्यान्ह भोजन योजनेचा फायदा काय?",
+      "answer": "सर्व मुलांना सकस आहार मिळतो आणि एकत्र बसून जेवल्यामुळे सामाजिक एकता वाढते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक शौचालयाची स्वच्छता का महत्त्वाची आहे?",
+      "answer": "स्वच्छता न राखल्यास रोगराई पसरू शकते, म्हणून ती महत्त्वाची आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शाळेत मैत्रीचे महत्त्व काय?",
+      "answer": "मैत्रीमुळे आपल्याला शाळेत येण्याची ओढ लागते आणि आपण एकमेकांना मदत करायला शिकतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियम कोणासाठी आहेत?",
+      "answer": "वाहतुकीचे नियम आपल्या सर्वांच्या सुरक्षिततेसाठी आहेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "शाळेचा गणवेश आपल्याला काय शिकवतो?",
+      "answer": "तो आपल्याला समानता आणि शिस्त शिकवतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आपल्या शाळेबद्दल आपल्याला काय वाटते?",
+      "answer": "आपल्याला आपल्या शाळेबद्दल अभिमान आणि ओढ वाटते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शाळेची मालमत्ता कोणाची आहे?",
+      "answer": "शाळेची मालमत्ता ही सार्वजनिक असून ती आपल्या सर्वांची आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शाळेत खेळाचे मैदान का असावे?",
+      "answer": "शारीरिक व्यायाम आणि खेळाच्या कौशल्यांचा विकास होण्यासाठी मैदान असावे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शाळेत पिण्याच्या पाण्याची टाकी कधी स्वच्छ करावी?",
+      "answer": "ती नियमितपणे ठराविक कालावधीनंतर स्वच्छ करावी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक बागेत आपण काय करू नये?",
+      "answer": "फुले तोडू नयेत, झाडांची हानी करू नये आणि कचरा पसरवू नये."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शिक्षकांशी संवाद साधल्याने काय होते?",
+      "answer": "आपल्या शंका दूर होतात आणि अभ्यास करणे सोपे जाते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "आपण शाळेला कोणती भेट देऊ शकतो?",
+      "answer": "आपण एखादे रोप किंवा आपल्याकडील जुनी चांगली पुस्तके शाळेला देऊ शकतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "शाळेत कोणाची उपस्थिती महत्त्वाची आहे?",
+      "answer": "विद्यार्थी, शिक्षक आणि शिक्षकेतर कर्मचारी सर्वांची उपस्थिती महत्त्वाची आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक दिवे कधी बंद करावेत?",
+      "answer": "सूर्योदयानंतर किंवा पुरेसा नैसर्गिक प्रकाश असताना ते बंद करावेत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शाळेच्या स्नेहसंमेलनात कोणत्या कला सादर केल्या जातात?",
+      "answer": "गायन, वादन, नृत्य, नाटक इत्यादी कला सादर केल्या जातात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "जबाबदार नागरिक म्हणून आपले कर्तव्य काय?",
+      "answer": "सार्वजनिक मालमत्तेचे जतन करणे आणि नियमांचे पालन करणे हे आपले कर्तव्य आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शाळेतील प्रदर्शनाचा उपयोग काय?",
+      "answer": "विज्ञानाचे प्रयोग किंवा चित्रकला पाहिल्यास ज्ञानात भर पडते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शाळेमुळे आपल्याला कोणती कौशल्ये मिळतात?",
+      "answer": "वाचन, लेखन, खेळणे, वक्तृत्व आणि सहकार्य ही कौशल्ये मिळतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "पाणी वाचवण्यासाठी आपण काय करू शकतो?",
+      "answer": "नळ उघडा सोडू नये आणि गरजेपुरतेच पाणी वापरावे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "माझी शाळा मला का आवडते?",
+      "answer": "माझ्या शाळेत चांगले शिक्षक, मित्र आणि खेळायला मैदान असल्यामुळे मला ती आवडते."
+    },
+    {
+        "question_id": 101,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक ठिकाणी थुंकणे का चुकीचे आहे?",
+        "answer": "त्यामुळे अस्वच्छता पसरते आणि जंतूंच्या प्रसारामुळे आजार होऊ शकतात."
+    },
+    {
+        "question_id": 102,
+        "question_type": "SHORT",
+        "question": "शाळेतील वेळेचे नियोजन का महत्त्वाचे आहे?",
+        "answer": "वेळेचे नियोजन केल्यामुळे सर्व विषय नीट शिकता येतात आणि शिस्त लागते."
+    },
+    {
+        "question_id": 103,
+        "question_type": "SHORT",
+        "question": "नगरपालिका कोठे काम करते?",
+        "answer": "नगरपालिका ही छोट्या शहरांमध्ये सार्वजनिक सेवा देण्याचे काम करते."
+    },
+    {
+        "question_id": 104,
+        "question_type": "SHORT",
+        "question": "रुग्णवाहिका कधी बोलवावी?",
+        "answer": "जेव्हा कोणी गंभीर आजारी असते किंवा अपघात होतो, तेव्हा रुग्णवाहिका बोलवावी."
+    },
+    {
+        "question_id": 105,
+        "question_type": "SHORT",
+        "question": "शाळेच्या प्रवेशद्वारावर काय लिहिलेले असते?",
+        "answer": "बहुतेक वेळा शाळेचे नाव आणि 'सुस्वागतम' किंवा एखादा सुविचार लिहिलेला असतो."
+    },
+    {
+        "question_id": 106,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक मालमत्तेचे नुकसान करणे म्हणजे काय?",
+        "answer": "स्वतःचेच नुकसान करणे होय, कारण ती मालमत्ता आपल्या सर्वांच्या पैशातून उभी केलेली असते."
+    },
+    {
+        "question_id": 107,
+        "question_type": "SHORT",
+        "question": "शाळेत सहली का काढल्या जातात?",
+        "answer": "विद्यार्थ्यांना प्रत्यक्ष पाहणी करून ज्ञान मिळावे आणि आनंद मिळावा यासाठी सहली काढल्या जातात."
+    },
+    {
+        "question_id": 108,
+        "question_type": "SHORT",
+        "question": "ग्रंथालयातील पुस्तकांवर पेनाने का लिहू नये?",
+        "answer": "कारण त्यामुळे पुस्तक घाण होते आणि इतर वाचकांना वाचायला त्रास होतो."
+    },
+    {
+        "question_id": 109,
+        "question_type": "SHORT",
+        "question": "शाळेत बागकाम केल्याने काय शिकायला मिळते?",
+        "answer": "निसर्गाची ओढ लागते आणि कष्टाचे महत्त्व समजते."
+    },
+    {
+        "question_id": 110,
+        "question_type": "SHORT",
+        "question": "शाळेतील सुचनाफलकाचा उपयोग काय?",
+        "answer": "शाळेतील महत्त्वाच्या बातम्या आणि सुचना सर्व विद्यार्थ्यांना एकाच वेळी समजण्यासाठी उपयोग होतो."
+    },
+    {
+        "question_id": 111,
+        "question_type": "SHORT",
+        "question": "कचराकुंडीचे दोन प्रकार कोणते?",
+        "answer": "ओला कचरा आणि सुका कचरा गोळा करण्यासाठी दोन प्रकारच्या कुंड्या असतात."
+    },
+    {
+        "question_id": 112,
+        "question_type": "SHORT",
+        "question": "शाळेची भिंत रंगवताना कोणाची मदत घेतली जाते?",
+        "answer": "चित्रकार किंवा कला शिक्षकांची आणि विद्यार्थ्यांची मदत घेतली जाते."
+    },
+    {
+        "question_id": 113,
+        "question_type": "SHORT",
+        "question": "शाळेत प्रथमोपचार पेटी का असते?",
+        "answer": "खेळताना कोणाला छोटी जखम झाल्यास तात्काळ उपचार करण्यासाठी ती असते."
+    },
+    {
+        "question_id": 114,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक उत्सव शाळेत साजरे केल्याने काय होते?",
+        "answer": "विद्यार्थ्यांमध्ये सामाजिक एकात्मता आणि संस्कृतीबद्दल आदर निर्माण होतो."
+    },
+    {
+        "question_id": 115,
+        "question_type": "SHORT",
+        "question": "आपल्या शाळेचे नाव काय आहे?",
+        "answer": "(विद्यार्थ्याने आपल्या शाळेचे नाव लिहावे)."
+    },
+    {
+        "question_id": 116,
+        "question_type": "SHORT",
+        "question": "शाळेतील शिपाई काका काय काम करतात?",
+        "answer": "ते शाळेची घंटा वाजवतात आणि शाळेच्या कामकाजात मदत करतात."
+    },
+    {
+        "question_id": 117,
+        "question_type": "SHORT",
+        "question": "ग्रामसभा म्हणजे काय?",
+        "answer": "गावातील सर्व प्रौढ नागरिकांची मिळून होणारी सभा म्हणजे ग्रामसभा होय."
+    },
+    {
+        "question_id": 118,
+        "question_type": "SHORT",
+        "question": "शाळेत विज्ञानाचे महत्त्व काय?",
+        "answer": "विज्ञानामुळे आपल्याला आपल्या सभोवतालचे जग समजते आणि अंधश्रद्धा दूर होतात."
+    },
+    {
+        "question_id": 119,
+        "question_type": "SHORT",
+        "question": "शाळेतील प्रत्येक वस्तू ही काय आहे?",
+        "answer": "ती आपली राष्ट्रीय संपत्ती आहे."
+    },
+    {
+        "question_id": 120,
+        "question_type": "SHORT",
+        "question": "शाळेत आपण एकमेकांशी कसे वागले पाहिजे?",
+        "answer": "आम्ही एकमेकांशी प्रेमाने आणि सहकार्याने वागले पाहिजे."
+    },
+    {
+        "question_id": 121,
+        "question_type": "SHORT",
+        "question": "शाळेच्या प्रगतीसाठी पालकांनी काय करावे?",
+        "answer": "पालकांनी वेळोवेळी शाळेला भेट देऊन सहकार्य करावे."
+    },
+    {
+        "question_id": 122,
+        "question_type": "SHORT",
+        "question": "शाळेत ध्वजारोहण कधी केले जाते?",
+        "answer": "१५ ऑगस्ट आणि २६ जानेवारी यांसारख्या राष्ट्रीय सणांना ध्वजारोहण केले जाते."
+    },
+    {
+        "question_id": 123,
+        "question_type": "SHORT",
+        "question": "संगणकामुळे अभ्यास कसा सोपा होतो?",
+        "answer": "चित्रे, व्हिडिओ आणि इंटरनेटवरील माहितीमुळे कठीण संकल्पना सहज समजतात."
+    },
+    {
+        "question_id": 124,
+        "question_type": "SHORT",
+        "question": "शाळेतील पिण्याच्या पाण्याची टाकी कोणी स्वच्छ करावी?",
+        "answer": "शाळा प्रशासनाने नियुक्त केलेल्या व्यक्तीने ती स्वच्छ करावी."
+    },
+    {
+        "question_id": 125,
+        "question_type": "SHORT",
+        "question": "शाळेतील परिपाठाचा फायदा काय?",
+        "answer": "विद्यार्थ्यांच्या मनातील भीती दूर होते आणि चांगले सुविचार ऐकायला मिळतात."
+    },
+    {
+        "question_id": 126,
+        "question_type": "SHORT",
+        "question": "पालक-शिक्षक सभेला जाणे का आवश्यक आहे?",
+        "answer": "मुलांच्या शिक्षणात पालकांचा सहभाग वाढवण्यासाठी ते आवश्यक आहे."
+    },
+    {
+        "question_id": 127,
+        "question_type": "SHORT",
+        "question": "शाळेत वृक्षारोपण का करावे?",
+        "answer": "पर्यावरण शुद्ध ठेवण्यासाठी आणि शाळेची शोभा वाढवण्यासाठी वृक्षारोपण करावे."
+    },
+    {
+        "question_id": 128,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक वाहतुकीत वृद्ध व्यक्तींना काय करावे?",
+        "answer": "त्यांना बसण्यासाठी आपली जागा द्यावी आणि मदत करावी."
+    },
+    {
+        "question_id": 129,
+        "question_type": "SHORT",
+        "question": "शाळेच्या वर्गात खेळ का खेळू नयेत?",
+        "answer": "त्यामुळे फर्निचरचे नुकसान होऊ शकते आणि अभ्यास करणाऱ्या इतरांना त्रास होतो."
+    },
+    {
+        "question_id": 130,
+        "question_type": "SHORT",
+        "question": "शाळेच्या मैदानाची स्वच्छता कशी राखाल?",
+        "answer": "कचरा टाकू नये आणि दगड-धोंडे वेचून बाजूला करू."
+    },
+    {
+        "question_id": 131,
+        "question_type": "SHORT",
+        "question": "शिक्षणाची वारी म्हणजे काय?",
+        "answer": "नवीन शैक्षणिक उपक्रमांची माहिती सर्व शिक्षक आणि विद्यार्थ्यांपर्यंत पोहोचवण्यासाठी केलेली वारी."
+    },
+    {
+        "question_id": 132,
+        "question_type": "SHORT",
+        "question": "शाळेतील हस्तकला प्रदर्शनाचा हेतू काय?",
+        "answer": "मुलांनी बनवलेल्या कलाकृतींचे कौतुक करणे आणि प्रोत्साहन देणे."
+    },
+    {
+        "question_id": 133,
+        "question_type": "SHORT",
+        "question": "ग्रामपंचायतीला उत्पन्न कोठून मिळते?",
+        "answer": "नागरिकांकडून घेतलेल्या घरापट्टी आणि पाणीपट्टी यांसारख्या करांमधून उत्पन्न मिळते."
+    },
+    {
+        "question_id": 134,
+        "question_type": "SHORT",
+        "question": "शाळेत शालेय मंत्रिमंडळ का असते?",
+        "answer": "विद्यार्थ्यांना लोकशाहीचे कार्य आणि जबाबदारीची जाणीव व्हावी यासाठी ते असते."
+    },
+    {
+        "question_id": 135,
+        "question_type": "SHORT",
+        "question": "शाळेतील मध्यान्ह भोजनानंतर ताटे कोठे धुवावीत?",
+        "answer": "भोजनानंतर ताटे योग्य ठिकाणी किंवा नळावर धुवून स्वच्छ ठेवावीत."
+    },
+    {
+        "question_id": 136,
+        "question_type": "SHORT",
+        "question": "शाळेमुळे गावाचे नाव कसे मोठे होते?",
+        "answer": "जेव्हा शाळेतील विद्यार्थी परीक्षेत किंवा खेळात उत्तम कामगिरी करतात तेव्हा गावाचे नाव मोठे होते."
+    },
+    {
+        "question_id": 137,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक रस्त्यांवरील खड्डे कशाचा त्रास देतात?",
+        "answer": "वाहतुकीला अडथळा निर्माण होतो आणि अपघाताची भीती असते."
+    },
+    {
+        "question_id": 138,
+        "question_type": "SHORT",
+        "question": "शाळेत स्काउट आणि गाईडचे महत्त्व काय?",
+        "answer": "मुलांमध्ये शिस्त, सेवाभावी वृत्ती आणि आत्मनिर्भरता निर्माण होते."
+    },
+    {
+        "question_id": 139,
+        "question_type": "SHORT",
+        "question": "शाळेत आपण कशाचा आदर केला पाहिजे?",
+        "answer": "आम्ही राष्ट्रगीत, राष्ट्रध्वज आणि आपल्या गुरुजनांचा आदर केला पाहिजे."
+    },
+    {
+        "question_id": 140,
+        "question_type": "SHORT",
+        "question": "पिण्याचे पाणी स्वच्छ करण्यासाठी शाळेत काय असते?",
+        "answer": "जलशुद्धीकरण यंत्र (Water Filter/Purifier) असते."
+    },
+    {
+        "question_id": 141,
+        "question_type": "SHORT",
+        "question": "शाळेतील स्नेहसंमेलन कोणत्या महिन्यात असते?",
+        "answer": "बहुतेकदा डिसेंबर किंवा जानेवारी महिन्यात असते."
+    },
+    {
+        "question_id": 142,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक ठिकाणी वाचनालय का असावे?",
+        "answer": "लोकांमध्ये वाचनाची आवड निर्माण होण्यासाठी आणि ज्ञान मिळवण्यासाठी ते असावे."
+    },
+    {
+        "question_id": 143,
+        "question_type": "SHORT",
+        "question": "शाळेत आपण नवीन काय शिकतो?",
+        "answer": "आम्ही चांगले विचार, मूल्ये आणि जगाविषयीची माहिती शिकतो."
+    },
+    {
+        "question_id": 144,
+        "question_type": "SHORT",
+        "question": "ग्रामपंचायतीचे कार्यालय कोठे असते?",
+        "answer": "ते गावातील मध्यवर्ती ठिकाणी किंवा चावडी जवळ असते."
+    },
+    {
+        "question_id": 145,
+        "question_type": "SHORT",
+        "question": "शाळेत आपण मोठ्यांशी कसे वागावे?",
+        "answer": "आम्ही नेहमी सौजन्याने आणि नम्रतेने वागावे."
+    },
+    {
+        "question_id": 146,
+        "question_type": "SHORT",
+        "question": "शाळेत दप्तर कसे असावे?",
+        "answer": "दप्तर टापटीप असावे आणि त्यात फक्त आवश्यक असलेल्या गोष्टी असाव्यात."
+    },
+    {
+        "question_id": 147,
+        "question_type": "SHORT",
+        "question": "सार्वजनिक वाहतूक ही कशाची सोय आहे?",
+        "answer": "एका ठिकाणाहून दुसऱ्या ठिकाणी जाण्यासाठी ती लोकांची सोय आहे."
+    },
+    {
+        "question_id": 148,
+        "question_type": "SHORT",
+        "question": "शाळेत आपण कोणाला मदत करू शकतो?",
+        "answer": "आम्ही अभ्यासात मागे असलेल्या मित्रांना किंवा अपंग सहकाऱ्यांना मदत करू शकतो."
+    },
+    {
+        "question_id": 149,
+        "question_type": "SHORT",
+        "question": "शाळेच्या स्नेहसंमेलनाची तयारी कोण करते?",
+        "answer": "शिक्षक आणि विद्यार्थी मिळून स्नेहसंमेलनाची तयारी करतात."
+    },
+    {
+        "question_id": 150,
+        "question_type": "SHORT",
+        "question": "शाळा ही आपल्या जीवनातील काय आहे?",
+        "answer": "शाळा ही आपल्या उज्ज्वल भविष्याची पायाभरणी आहे."
+    }
+  ]
+}

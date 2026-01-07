@@ -1,0 +1,323 @@
+{
+  "chapter_id": 22,
+  "chapter_name": "वाढ आणि व्यक्तिमत्त्व विकास",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "जन्मापासून प्रौढावस्थेपर्यंत शरीराच्या आकारात आणि वजनात होणाऱ्या बदलाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "वाढ", "is_correct": true },
+        { "option_id": 3, "text": "करमणूक", "is_correct": false },
+        { "option_id": 4, "text": "स्मरणशक्ती", "is_correct": false }
+      ],
+      "answer": "वाढ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बाळाला सुरुवातीला स्वतःची कामे करण्यासाठी कोणावर अवलंबून राहावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "मित्रांवर", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षकांवर", "is_correct": false },
+        { "option_id": 3, "text": "पालकांवर", "is_correct": true },
+        { "option_id": 4, "text": "कोणावरही नाही", "is_correct": false }
+      ],
+      "answer": "पालकांवर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "एखादे काम स्वतःहून करायला शिकण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कौशल्य संपादन", "is_correct": true },
+        { "option_id": 2, "text": "आनुवंशिकता", "is_correct": false },
+        { "option_id": 3, "text": "उंची वाढणे", "is_correct": false },
+        { "option_id": 4, "text": "झोप घेणे", "is_correct": false }
+      ],
+      "answer": "कौशल्य संपादन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मानसाची उंची साधारणपणे कोणत्या वयापर्यंत वाढते?",
+      "options": [
+        { "option_id": 1, "text": "१० वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "१८ ते २० वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "४० वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "आयुष्यभर", "is_correct": false }
+      ],
+      "answer": "१८ ते २० वर्षे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पालकांची काही वैशिष्ट्ये मुलांमध्ये येण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "वाढ", "is_correct": false },
+        { "option_id": 3, "text": "आनुवंशिकता", "is_correct": true },
+        { "option_id": 4, "text": "सराव", "is_correct": false }
+      ],
+      "answer": "आनुवंशिकता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते कौशल्य सरावाने मिळवता येते?",
+      "options": [
+        { "option_id": 1, "text": "सायकल चालवणे", "is_correct": true },
+        { "option_id": 2, "text": "रक्तगट", "is_correct": false },
+        { "option_id": 3, "text": "उंची", "is_correct": false },
+        { "option_id": 4, "text": "त्वचेचा रंग", "is_correct": false }
+      ],
+      "answer": "सायकल चालवणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कोणत्या गोष्टीमुळे व्यक्तीचे व्यक्तिमत्त्व समृद्ध होते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ उंची वाढल्याने", "is_correct": false },
+        { "option_id": 2, "text": "नवीन कौशल्ये आत्मसात केल्याने", "is_correct": true },
+        { "option_id": 3, "text": "जास्त वेळ झोपल्याने", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही पाहिल्याने", "is_correct": false }
+      ],
+      "answer": "नवीन कौशल्ये आत्मसात केल्याने"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चांगले आरोग्य राखण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "पौष्टिक आहार", "is_correct": true },
+        { "option_id": 2, "text": "तळलेले पदार्थ", "is_correct": false },
+        { "option_id": 3, "text": "व्यायामाचा अभाव", "is_correct": false },
+        { "option_id": 4, "text": "अपुरी झोप", "is_correct": false }
+      ],
+      "answer": "पौष्टिक आहार"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वाढ थांबली तरी काय चालू राहते?",
+      "options": [
+        { "option_id": 1, "text": "उंची वाढणे", "is_correct": false },
+        { "option_id": 2, "text": "नवीन गोष्टी शिकणे", "is_correct": true },
+        { "option_id": 3, "text": "हाडांची लांबी वाढणे", "is_correct": false },
+        { "option_id": 4, "text": "वजन दररोज १ किलो वाढणे", "is_correct": false }
+      ],
+      "answer": "नवीन गोष्टी शिकणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "स्वतंत्र होणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्याचे काम करणे", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःची कामे स्वतः करायला शिकणे", "is_correct": true },
+        { "option_id": 3, "text": "घराबाहेर राहणे", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत न जाणे", "is_correct": false }
+      ],
+      "answer": "स्वतःची कामे स्वतः करायला शिकणे"
+    },
+    { "question_id": 11, "question_type": "MCQ", "question": "बाळ सुरुवातीला कोणाकडे पाहून हसते?", "options": [{ "option_id": 1, "text": " अनोळखी व्यक्तीकडे", "is_correct": false }, { "option_id": 2, "text": "ओळखीच्या व्यक्तीकडे", "is_correct": true }], "answer": "ओळखीच्या व्यक्तीकडे" },
+    { "question_id": 12, "question_type": "MCQ", "question": "कौशल्ये कशामुळे सुधारतात?", "options": [{ "option_id": 1, "text": "सरावामुळे", "is_correct": true }, { "option_id": 2, "text": "आळसामुळे", "is_correct": false }], "answer": "सरावामुळे" },
+    { "question_id": 13, "question_type": "MCQ", "question": "व्यायामामुळे काय सुधारते?", "options": [{ "option_id": 1, "text": "आरोग्य", "is_correct": true }, { "option_id": 2, "text": "उंची (वय संपल्यावर)", "is_correct": false }], "answer": "आरोग्य" },
+    { "question_id": 14, "question_type": "MCQ", "question": "शाळेत आपण काय शिकतो?", "options": [{ "option_id": 1, "text": "फक्त खेळणे", "is_correct": false }, { "option_id": 2, "text": "विविध कौशल्ये आणि ज्ञान", "is_correct": true }], "answer": "विविध कौशल्ये आणि ज्ञान" },
+    { "question_id": 15, "question_type": "MCQ", "question": "कोणती गोष्ट आनुवंशिक नाही?", "options": [{ "option_id": 1, "text": "डोळ्यांचा रंग", "is_correct": false }, { "option_id": 2, "text": "पोहणे शिकणे", "is_correct": true }], "answer": "पोहणे शिकणे" },
+    { "question_id": 16, "question_type": "MCQ", "question": "आई-वडिलांची उंची जास्त असल्यास मुलांची उंची कशी असण्याची शक्यता असते?", "options": [{ "option_id": 1, "text": "जास्त", "is_correct": true }, { "option_id": 2, "text": "नेहमी कमी", "is_correct": false }], "answer": "जास्त" },
+    { "question_id": 17, "question_type": "MCQ", "question": "समतोल आहारात कशाचा समावेश असावा?", "options": [{ "option_id": 1, "text": "भाज्या आणि फळे", "is_correct": true }, { "option_id": 2, "text": "केवळ चॉकलेट", "is_correct": false }], "answer": "भाज्या आणि फळे" },
+    { "question_id": 18, "question_type": "MCQ", "question": "कोणती सवय व्यक्तिमत्त्वासाठी चांगली आहे?", "options": [{ "option_id": 1, "text": "खोटे बोलणे", "is_correct": false }, { "option_id": 2, "text": "वेळेचे पालन करणे", "is_correct": true }], "answer": "वेळेचे पालन करणे" },
+    { "question_id": 19, "question_type": "MCQ", "question": "वाढ कशावर मोजली जाते?", "options": [{ "option_id": 1, "text": "वजन आणि उंची", "is_correct": true }, { "option_id": 2, "text": "बुद्धिमत्ता", "is_correct": false }], "answer": "वजन आणि उंची" },
+    { "question_id": 20, "question_type": "MCQ", "question": "एखाद्या कलेमध्ये प्राविण्य मिळवणे म्हणजे काय?", "options": [{ "option_id": 1, "text": "वाढ", "is_correct": false }, { "option_id": 2, "text": "विकास", "is_correct": true }], "answer": "विकास" },
+    { "question_id": 21, "question_type": "MCQ", "question": "बाळ पालथा पडायला किती महिन्यात शिकते?", "options": [{ "option_id": 1, "text": "१", "is_correct": false }, { "option_id": 2, "text": "४ ते ५", "is_correct": true }], "answer": "४ ते ५" },
+    { "question_id": 22, "question_type": "MCQ", "question": "बोलणे शिकणे हे काय आहे?", "options": [{ "option_id": 1, "text": "कौशल्य", "is_correct": true }, { "option_id": 2, "text": "आनुवंशिक गुण", "is_correct": false }], "answer": "कौशल्य" },
+    { "question_id": 23, "question_type": "MCQ", "question": "आपल्या स्वभाव वैशिष्ट्यांना काय म्हणतात?", "options": [{ "option_id": 1, "text": "व्यक्तिमत्त्व", "is_correct": true }, { "option_id": 2, "text": "वाढ", "is_correct": false }], "answer": "व्यक्तिमत्त्व" },
+    { "question_id": 24, "question_type": "MCQ", "question": "व्यक्तीचे व्यक्तिमत्त्व कशामुळे बदलते?", "options": [{ "option_id": 1, "text": "अनुभव आणि शिक्षण", "is_correct": true }, { "option_id": 2, "text": "कपड्यांमुळे", "is_correct": false }], "answer": "अनुभव आणि शिक्षण" },
+    { "question_id": 25, "question_type": "MCQ", "question": "शरीराची ताकद कशामुळे वाढते?", "options": [{ "option_id": 1, "text": "व्यायाम", "is_correct": true }, { "option_id": 2, "text": "जास्त झोप", "is_correct": false }], "answer": "व्यायाम" },
+    { "question_id": 26, "question_type": "MCQ", "question": "कौशल्ये शिकल्याने आपण काय होतो?", "options": [{ "option_id": 1, "text": "परावलंबी", "is_correct": false }, { "option_id": 2, "text": "आत्मनिर्भर", "is_correct": true }], "answer": "आत्मनिर्भर" },
+    { "question_id": 27, "question_type": "MCQ", "question": "बुद्धीचा विकास कशामुळे होतो?", "options": [{ "option_id": 1, "text": "अभ्यास आणि विचार", "is_correct": true }, { "option_id": 2, "text": "टीव्ही पाहिल्याने", "is_correct": false }], "answer": "अभ्यास आणि विचार" },
+    { "question_id": 28, "question_type": "MCQ", "question": "चांगल्या सवयी कोठून लागतात?", "options": [{ "option_id": 1, "text": "घर आणि शाळा", "is_correct": true }, { "option_id": 2, "text": "केवळ बाजारात", "is_correct": false }], "answer": "घर आणि शाळा" },
+    { "question_id": 29, "question_type": "MCQ", "question": "वाढ पूर्ण झाल्यावर व्यक्तीला काय म्हणतात?", "options": [{ "option_id": 1, "text": "प्रौढ", "is_correct": true }, { "option_id": 2, "text": "शिशु", "is_correct": false }], "answer": "प्रौढ" },
+    { "question_id": 30, "question_type": "MCQ", "question": "आनुवंशिकता कोणाकडून मिळते?", "options": [{ "option_id": 1, "text": "पालकांकडून", "is_correct": true }, { "option_id": 2, "text": "मित्रांकडून", "is_correct": false }], "answer": "पालकांकडून" },
+    { "question_id": 31, "question_type": "MCQ", "question": "कोणता घटक वाढीसाठी अपायकारक आहे?", "options": [{ "option_id": 1, "text": "कुपोषण", "is_correct": true }, { "option_id": 2, "text": "स्वच्छता", "is_correct": false }], "answer": "कुपोषण" },
+    { "question_id": 32, "question_type": "MCQ", "question": "व्यक्तिमत्त्व विकासात कशाचा समावेश होतो?", "options": [{ "option_id": 1, "text": "शारीरिक आणि मानसिक बदल", "is_correct": true }, { "option_id": 2, "text": "केवळ उंच होणे", "is_correct": false }], "answer": "शारीरिक आणि मानसिक बदल" },
+    { "question_id": 33, "question_type": "MCQ", "question": "नवीन भाषा शिकणे हे काय आहे?", "options": [{ "option_id": 1, "text": "कौशल्य", "is_correct": true }, { "option_id": 2, "text": "वाढ", "is_correct": false }], "answer": "कौशल्य" },
+    { "question_id": 34, "question_type": "MCQ", "question": "आरोग्य म्हणजे काय?", "options": [{ "option_id": 1, "text": "रोगांचा अभाव आणि सुदृढता", "is_correct": true }, { "option_id": 2, "text": "केवळ औषधे घेणे", "is_correct": false }], "answer": "रोगांचा अभाव आणि सुदृढता" },
+    { "question_id": 35, "question_type": "MCQ", "question": "वाढ मोजण्यासाठी कशाचा वापर करतात?", "options": [{ "option_id": 1, "text": "मीटर आणि वजनकाटा", "is_correct": true }, { "option_id": 2, "text": "घड्याळ", "is_correct": false }], "answer": "मीटर आणि वजनकाटा" },
+    { "question_id": 36, "question_type": "MCQ", "question": "कौशल्य विकासासाठी काय करावे लागते?", "options": [{ "option_id": 1, "text": "सराव", "is_correct": true }, { "option_id": 2, "text": "आळस", "is_correct": false }], "answer": "सराव" },
+    { "question_id": 37, "question_type": "MCQ", "question": "स्वच्छतेच्या सवयी कशासाठी हव्यात?", "options": [{ "option_id": 1, "text": "आरोग्यासाठी", "is_correct": true }, { "option_id": 2, "text": "केवळ फॅशनसाठी", "is_correct": false }], "answer": "आरोग्यासाठी" },
+    { "question_id": 38, "question_type": "MCQ", "question": "बालपणापासून प्रौढावस्थेपर्यंत काय बदलते?", "options": [{ "option_id": 1, "text": "समज आणि विचार करण्याची पद्धत", "is_correct": true }, { "option_id": 2, "text": "काहीही बदलत नाही", "is_correct": false }], "answer": "समज आणि विचार करण्याची पद्धत" },
+    { "question_id": 39, "question_type": "MCQ", "question": "हाडांच्या मजबुतीसाठी काय हवे?", "options": [{ "option_id": 1, "text": "कॅल्शियम", "is_correct": true }, { "option_id": 2, "text": "केवळ साखर", "is_correct": false }], "answer": "कॅल्शियम" },
+    { "question_id": 40, "question_type": "MCQ", "question": "कौशल्ये शिकल्याने कामाचा वेग काय होतो?", "options": [{ "option_id": 1, "text": "वाढतो", "is_correct": true }, { "option_id": 2, "text": "कमी होतो", "is_correct": false }], "answer": "वाढतो" },
+    { "question_id": 41, "question_type": "MCQ", "question": "कोणता खेळ कौशल्याचा आहे?", "options": [{ "option_id": 1, "text": "बुद्धिबळ", "is_correct": true }, { "option_id": 2, "text": "केवळ गप्पा मारणे", "is_correct": false }], "answer": "बुद्धिबळ" },
+    { "question_id": 42, "question_type": "MCQ", "question": "वाढीचा वेग सर्वांचा कसा असतो?", "options": [{ "option_id": 1, "text": "भिन्न", "is_correct": true }, { "option_id": 2, "text": "एकसारखा", "is_correct": false }], "answer": "भिन्न" },
+    { "question_id": 43, "question_type": "MCQ", "question": "आपल्या आवडीनिवडी कशावर अवलंबून असतात?", "options": [{ "option_id": 1, "text": "वैयक्तिक स्वभाव आणि परिसर", "is_correct": true }, { "option_id": 2, "text": "केवळ जाहिरातींवर", "is_correct": false }], "answer": "वैयक्तिक स्वभाव और परिसर" },
+    { "question_id": 44, "question_type": "MCQ", "question": "कष्टाची कामे करण्यासाठी काय लागते?", "options": [{ "option_id": 1, "text": "शारीरिक क्षमता", "is_correct": true }, { "option_id": 2, "text": "शारीरिक अशक्तपणा", "is_correct": false }], "answer": "शारीरिक क्षमता" },
+    { "question_id": 45, "question_type": "MCQ", "question": "दुसऱ्याला मदत करणे हा कोणता गुण आहे?", "options": [{ "option_id": 1, "text": "मानवतावादी", "is_correct": true }, { "option_id": 2, "text": "वाईट", "is_correct": false }], "answer": "मानवतावादी" },
+    { "question_id": 46, "question_type": "MCQ", "question": "स्मरणशक्ती वाढवण्यासाठी काय करावे?", "options": [{ "option_id": 1, "text": "एकाग्रता आणि वाचन", "is_correct": true }, { "option_id": 2, "text": "रात्रभर जागणे", "is_correct": false }], "answer": "एकाग्रता आणि वाचन" },
+    { "question_id": 47, "question_type": "MCQ", "question": "कोणती कृती विकासाचे लक्षण आहे?", "options": [{ "option_id": 1, "text": "नवे तंत्रज्ञान शिकणे", "is_correct": true }, { "option_id": 2, "text": "केवळ झोपून राहणे", "is_correct": false }], "answer": "नवे तंत्रज्ञान शिकणे" },
+    { "question_id": 48, "question_type": "MCQ", "question": "बाळाची हालचाल सुरुवातीला कशी असते?", "options": [{ "option_id": 1, "text": "अनियंत्रित", "is_correct": true }, { "option_id": 2, "text": "धावण्यासारखी", "is_correct": false }], "answer": "अनियंत्रित" },
+    { "question_id": 49, "question_type": "MCQ", "question": "स्वभावातील चांगुलपणा कशावर परिणाम करतो?", "options": [{ "option_id": 1, "text": "मैत्री आणि नात्यांवर", "is_correct": true }, { "option_id": 2, "text": "उंचीवर", "is_correct": false }], "answer": "मैत्री आणि नात्यांवर" },
+    { "question_id": 50, "question_type": "MCQ", "question": "आपली स्वतःची ओळख कशामुळे निर्माण होते?", "options": [{ "option_id": 1, "text": "कर्तृत्व आणि व्यक्तिमत्त्वामुळे", "is_correct": true }, { "option_id": 2, "text": "केवळ नावाने", "is_correct": false }], "answer": "कर्तृत्व आणि व्यक्तिमत्त्वामुळे" },
+
+    { "question_id": 51, "question_type": "SHORT", "question": "वाढ म्हणजे काय?", "answer": "वयानुसार शरीराची उंची आणि वजन वाढणे याला वाढ म्हणतात." },
+    { "question_id": 52, "question_type": "SHORT", "question": "कौशल्य म्हणजे काय?", "answer": "एखादे काम करण्याची क्षमता किंवा पद्धत आत्मसात करणे म्हणजे कौशल्य होय." },
+    { "question_id": 53, "question_type": "SHORT", "question": "व्यक्तिमत्त्व म्हणजे काय?", "answer": "एखाद्या व्यक्तीचे शारीरिक रूप, बुद्धी, कौशल्ये आणि स्वभाव यांचा एकत्रित परिणाम म्हणजे व्यक्तिमत्त्व होय." },
+    { "question_id": 54, "question_type": "SHORT", "question": "आनुवंशिकता म्हणजे काय?", "answer": "पालकांची काही शारीरिक किंवा मानसिक वैशिष्ट्ये मुलांमध्ये उतरण्याच्या प्रक्रियेला आनुवंशिकता म्हणतात." },
+    { "question_id": 55, "question_type": "SHORT", "question": "बाळाचे पहिले कौशल्य कोणते?", "answer": "मान धरणे किंवा आईला ओळखून हसणे हे बाळाचे पहिले कौशल्य असू शकते." },
+    { "question_id": 56, "question_type": "SHORT", "question": "विकास म्हणजे काय?", "answer": "वयानुसार नवीन कौशल्ये शिकणे आणि स्वतःला सक्षम बनवणे याला विकास म्हणतात." },
+    { "question_id": 57, "question_type": "SHORT", "question": "वाढ कोणत्या वयापर्यंत होते?", "answer": "मानवी वाढ साधारणपणे १८ ते २० वर्षांपर्यंत होते." },
+    { "question_id": 58, "question_type": "SHORT", "question": "कौशल्ये कशामुळे प्राप्त होतात?", "answer": "कौशल्ये शिक्षण, सराव आणि मार्गदर्शनामुळे प्राप्त होतात." },
+    { "question_id": 59, "question_type": "SHORT", "question": "शारीरिक वाढीसाठी काय आवश्यक आहे?", "answer": "पौष्टिक आहार, पुरेशी झोप आणि नियमित व्यायाम आवश्यक आहे." },
+    { "question_id": 60, "question_type": "SHORT", "question": "कौशल्याचा एक फायदा सांगा.", "answer": "कौशल्यामुळे आपण आत्मनिर्भर होतो आणि कामे अचूकपणे करू शकतो." },
+    { "question_id": 61, "question_type": "SHORT", "question": "स्वतंत्र होणे म्हणजे काय?", "answer": "दुसऱ्याच्या मदतीशिवाय आपली दैनंदिन कामे स्वतः करणे म्हणजे स्वतंत्र होणे होय." },
+    { "question_id": 62, "question_type": "SHORT", "question": "कुपोषणाचा वाढीवर काय परिणाम होतो?", "answer": "कुपोषणामुळे वाढ खुंटते आणि आरोग्य बिघडते." },
+    { "question_id": 63, "question_type": "SHORT", "question": "कोणती वैशिष्ट्ये आनुवंशिक असू शकतात?", "answer": "उंची, डोळ्यांचा रंग, केसांचा प्रकार आणि त्वचेचा रंग आनुवंशिक असू शकतात." },
+    { "question_id": 64, "question_type": "SHORT", "question": "व्यक्तिमत्त्व विकासात शिक्षणाचे महत्त्व काय?", "answer": "शिक्षणामुळे विचारांची कक्षा रुंदावते आणि नवीन कौशल्ये मिळतात." },
+    { "question_id": 65, "question_type": "SHORT", "question": "बाळाला चालण्यासाठी कशाची गरज असते?", "answer": "स्नायूंच्या मजबुतीची आणि संयमाची गरज असते." },
+    { "question_id": 66, "question_type": "SHORT", "question": "स्वतःचे काम स्वतः करण्याचे महत्त्व काय?", "answer": "त्यामुळे आत्मविश्वास वाढतो." },
+    { "question_id": 67, "question_type": "SHORT", "question": "स्वभावाचे दोन पैलू सांगा.", "answer": "शांत स्वभाव आणि रागीट स्वभाव." },
+    { "question_id": 68, "question_type": "SHORT", "question": "वाढ आणि विकास यातील फरक काय?", "answer": "वाढ शारीरिक असते, तर विकास हा गुणात्मक आणि कौशल्यात्मक असतो." },
+    { "question_id": 69, "question_type": "SHORT", "question": "काय सराव केल्याशिवाय कौशल्य मिळते?", "answer": "नाही, कोणत्याही कौशल्यासाठी सराव अत्यंत आवश्यक आहे." },
+    { "question_id": 70, "question_type": "SHORT", "question": "चांगल्या व्यक्तिमत्त्वाचे एक लक्षण सांगा.", "answer": "इतरांशी आदराने वागणे." },
+    { "question_id": 71, "question_type": "SHORT", "question": "बाळ रांगायला कधी शिकते?", "answer": "साधारणपणे ७ ते ८ महिन्यांचे झाल्यावर." },
+    { "question_id": 72, "question_type": "SHORT", "question": "व्यायामाचा कोणताही एक प्रकार सांगा.", "answer": "चालणे किंवा योगासने." },
+    { "question_id": 73, "question_type": "SHORT", "question": "पौष्टिक आहार म्हणजे काय?", "answer": "ज्या आहारात सर्व जीवनसत्त्वे, प्रथिने आणि खनिजे असतात." },
+    { "question_id": 74, "question_type": "SHORT", "question": "वाढ मोजण्याचे एकक काय?", "answer": "उंची सेंटीमीटरमध्ये आणि वजन किलोग्राममध्ये मोजतात." },
+    { "question_id": 75, "question_type": "SHORT", "question": "स्वतःला कसे सुधारावे?", "answer": "स्वतःच्या चुका शोधून त्या सुधारण्याचा प्रयत्न करून." },
+    { "question_id": 76, "question_type": "SHORT", "question": "पालकांशिवाय आपण कोणाकडून कौशल्ये शिकतो?", "answer": "शिक्षक, मित्र आणि परिसरातील व्यक्तींकडून." },
+    { "question_id": 77, "question_type": "SHORT", "question": "वाढ थांबल्यावर काय वाढते?", "answer": "वाढ थांबल्यावर अनुभव आणि ज्ञान वाढते." },
+    { "question_id": 78, "question_type": "SHORT", "question": "मानसिक विकास म्हणजे काय?", "answer": "बुद्धीचा विकास आणि भावनांवर नियंत्रण मिळवणे म्हणजे मानसिक विकास." },
+    { "question_id": 79, "question_type": "SHORT", "question": "शारीरिक क्षमतेचे महत्त्व काय?", "answer": "शारीरिक क्षमतेमुळे आपण कष्टाची कामे थकल्याशिवाय करू शकतो." },
+    { "question_id": 80, "question_type": "SHORT", "question": "वेळेचे नियोजन कशासाठी आवश्यक आहे?", "answer": "यश मिळवण्यासाठी आणि शिस्त लागण्यासाठी." },
+    { "question_id": 81, "question_type": "SHORT", "question": "आनुवंशिकता संपूर्ण व्यक्तिमत्त्व ठरवते का?", "answer": "नाही, परिस्थिती आणि प्रयत्नही व्यक्तिमत्त्व ठरवतात." },
+    { "question_id": 82, "question_type": "SHORT", "question": "साक्षरता म्हणजे काय?", "answer": "लिहिता-वाचता येण्याची क्षमता." },
+    { "question_id": 83, "question_type": "SHORT", "question": "स्वच्छतेच्या दोन सवयी सांगा.", "answer": "जेवणापूर्वी हात धुणे आणि रोज आंघोळ करणे." },
+    { "question_id": 84, "question_type": "SHORT", "question": "कौशल्य शिक्षणाचे एक उदाहरण द्या.", "answer": "गणित सोडवणे किंवा चित्र काढणे." },
+    { "question_id": 85, "question_type": "SHORT", "question": "मुलांची उंची कोणासारखी असते?", "answer": "बहुतेकदा मुलांची उंची त्यांच्या आई किंवा वडिलांसारखी असते." },
+    { "question_id": 86, "question_type": "SHORT", "question": "वाढ ही आयुष्यभर चालणारी प्रक्रिया आहे का?", "answer": "नाही, शारीरिक वाढ ठराविक वयानंतर थांबते." },
+    { "question_id": 87, "question_type": "SHORT", "question": "विकासाची प्रक्रिया कधी थांबते?", "answer": "विकासाची प्रक्रिया आयुष्यभर चालू राहू शकते." },
+    { "question_id": 88, "question_type": "SHORT", "question": "प्राण्यांमध्ये कौशल्ये असतात का?", "answer": "हो, पण मानवामध्ये ती अधिक प्रगत स्वरूपात असतात." },
+    { "question_id": 89, "question_type": "SHORT", "question": "आत्मविश्वास कशामुळे येतो?", "answer": "ज्ञान आणि कौशल्यांमुळे आत्मविश्वास येतो." },
+    { "question_id": 90, "question_type": "SHORT", "question": "चांगल्या मित्रांचे महत्त्व काय?", "answer": "चांगले मित्र आपल्याला चांगली कौशल्ये शिकायला मदत करतात." },
+    { "question_id": 91, "question_type": "SHORT", "question": "बाळाचे वजन जन्मानंतर वाढते का?", "answer": "हो, बाळाचे वजन वेगाने वाढते." },
+    { "question_id": 92, "question_type": "SHORT", "question": "कोणता आहार टाळावा?", "answer": "फास्ट फूड आणि जास्त साखर असलेले पदार्थ टाळावेत." },
+    { "question_id": 93, "question_type": "SHORT", "question": "एकाग्रता कशी वाढवावी?", "answer": "ध्यान आणि आवडीच्या कामात लक्ष देऊन." },
+    { "question_id": 94, "question_type": "SHORT", "question": "सामाजिक विकास म्हणजे काय?", "answer": "समाजात इतरांशी मिळूनमिसळून वागणे म्हणजे सामाजिक विकास." },
+    { "question_id": 95, "question_type": "SHORT", "question": "स्वतःच्या कामाची यादी का करावी?", "answer": "वेळेचे व्यवस्थापन करण्यासाठी." },
+    { "question_id": 96, "question_type": "SHORT", "question": "कौशल्यामुळे काय वाचते?", "answer": "कौशल्यामुळे वेळ आणि श्रम वाचतात." },
+    { "question_id": 97, "question_type": "SHORT", "question": "भावनिक संतुलन का हवे?", "answer": "योग्य निर्णय घेण्यासाठी भावनिक संतुलन हवे." },
+    { "question_id": 98, "question_type": "SHORT", "question": "वाढ मोजण्यासाठी कशाचा तक्ता वापरतात?", "answer": "वयोगट आणि उंचीचा तक्ता." },
+    { "question_id": 99, "question_type": "SHORT", "question": "अन्न शिजवणे हे काय आहे?", "answer": "हे एक शिकलेले कौशल्य आहे." },
+    { "question_id": 100, "question_type": "SHORT", "question": "बालपण म्हणजे काय?", "answer": "जन्मापासून साधारणतः १२-१३ वर्षांपर्यंतचा काळ." },
+    { "question_id": 101, "question_type": "SHORT", "question": "प्रौढावस्था म्हणजे काय?", "answer": "१८ वर्षांनंतरचा शारीरिकदृष्ट्या परिपक्व काळ." },
+    { "question_id": 102, "question_type": "SHORT", "question": "स्मरणशक्तीचे महत्त्व सांगा.", "answer": "शिकलेल्या गोष्टी लक्षात ठेवण्यासाठी." },
+    { "question_id": 103, "question_type": "SHORT", "question": "स्वच्छता आरोग्याशी कशी संबंधित आहे?", "answer": "स्वच्छतेमुळे जंतूंचा प्रसार थांबतो आणि आपण आजारी पडत नाही." },
+    { "question_id": 104, "question_type": "SHORT", "question": "क्रीडा प्रकारांचा फायदा काय?", "answer": "शारीरिक हालचाल आणि टीमवर्क शिकता येते." },
+    { "question_id": 105, "question_type": "SHORT", "question": "कौतुक केल्याने काय होते?", "answer": "उत्साह वाढतो आणि नवीन शिकण्याची प्रेरणा मिळते." },
+    { "question_id": 106, "question_type": "SHORT", "question": "अपयशातून काय शिकावे?", "answer": "अपयशातून पुन्हा प्रयत्न करण्याची जिद्द शिकावी." },
+    { "question_id": 107, "question_type": "SHORT", "question": "व्यक्तिमत्त्व आणि कपडे यांचा संबंध आहे का?", "answer": "कपड्यांमुळे बाह्य रूप दिसते, पण आतील गुण खरे व्यक्तिमत्त्व ठरवतात." },
+    { "question_id": 108, "question_type": "SHORT", "question": "प्रभावी संवाद म्हणजे काय?", "answer": "आपले विचार इतरांना नीट समजावून सांगणे." },
+    { "question_id": 109, "question_type": "SHORT", "question": "सतत शिकत राहणे का गरजेचे आहे?", "answer": "बदलत्या जगासोबत राहण्यासाठी." },
+    { "question_id": 110, "question_type": "SHORT", "question": "वाढ खुंटण्याची कारणे सांगा.", "answer": "आजारपण, अपुरा आहार आणि व्यायामाचा अभाव." },
+    { "question_id": 111, "question_type": "SHORT", "question": "जिद्द म्हणजे काय?", "answer": "कठोर परिश्रमाने ध्येय गाठण्याची तयारी." },
+    { "question_id": 112, "question_type": "SHORT", "question": "मोठ्यांचा मान का राखावा?", "answer": "त्यांच्या अनुभवातून आपल्याला शिकायला मिळते म्हणून." },
+    { "question_id": 113, "question_type": "SHORT", "question": "वेळेवर झोपण्याचे फायदे काय?", "answer": "शरीराला विश्रांती मिळते आणि मेंदू ताजेतवाना होतो." },
+    { "question_id": 114, "question_type": "SHORT", "question": "आपल्या आवडी कशा विकसित होतात?", "answer": "नवनवीन गोष्टींच्या संपर्कात आल्यावर." },
+    { "question_id": 115, "question_type": "SHORT", "question": "प्रामाणिकपणा कशासाठी हवा?", "answer": "लोकांचा विश्वास संपादन करण्यासाठी." },
+    { "question_id": 116, "question_type": "SHORT", "question": "कौशल्य मिळवण्यासाठी कोणाचे मार्गदर्शन घ्यावे?", "answer": "त्या क्षेत्रातील तज्ज्ञांचे किंवा शिक्षकांचे." },
+    { "question_id": 117, "question_type": "SHORT", "question": "उंची आणि आनुवंशिकता यांचा काय संबंध?", "answer": "उंची प्रामुख्याने आनुवंशिकतेवर अवलंबून असते." },
+    { "question_id": 118, "question_type": "SHORT", "question": "स्व-शिस्त म्हणजे काय?", "answer": "स्वतःवर नियंत्रण ठेवून नियमांचे पालन करणे." },
+    { "question_id": 119, "question_type": "SHORT", "question": "पर्यावरणाचा व्यक्तिमत्त्वावर काय परिणाम होतो?", "answer": "चांगल्या पर्यावरणामुळे सकारात्मक विचार वाढतात." },
+    { "question_id": 120, "question_type": "SHORT", "question": "वाढीसाठी दूध का आवश्यक आहे?", "answer": "दुधात हाडांच्या वाढीसाठी आवश्यक कॅल्शियम असते." },
+    { "question_id": 121, "question_type": "SHORT", "question": "भाषा हे कौशल्य आहे का?", "answer": "हो, बोलणे आणि लिहिणे हे कौशल्य आहे." },
+    { "question_id": 122, "question_type": "SHORT", "question": "आत्मनिर्भरतेचा आनंद काय असतो?", "answer": "कोणाच्याही मदतीशिवाय काम पूर्ण केल्याचा गर्व." },
+    { "question_id": 123, "question_type": "SHORT", "question": "नव्या सवयी कशा लावाव्यात?",
+      "answer": "छोट्या गोष्टींपासून सुरुवात करून आणि सातत्य ठेवून."
+    },
+    { "question_id": 124, "question_type": "SHORT", "question": "वाढीचा दर रात्री जास्त असतो का?",
+      "answer": "हो, झोपेत शरीराची वाढ आणि दुरुस्ती वेगाने होते."
+    },
+    { "question_id": 125, "question_type": "SHORT", "question": "शरीर सुदृढ कधी होते?",
+      "answer": "जेव्हा सर्व अवयव नीट कार्य करतात."
+    },
+    { "question_id": 126, "question_type": "SHORT", "question": "शौचालयाचा वापर का करावा?",
+      "answer": "स्वच्छता राखण्यासाठी आणि आजार टाळण्यासाठी."
+    },
+    { "question_id": 127, "question_type": "SHORT", "question": "शिकण्याची जिद्द कोठे असावी?",
+      "answer": "शाळेत, घरात आणि मैदानावरही."
+    },
+    { "question_id": 128, "question_type": "SHORT", "question": "वाढीच्या काळात पाण्याचे महत्त्व काय?",
+      "answer": "शरीरातील टाकाऊ पदार्थ बाहेर टाकण्यासाठी पाणी हवे."
+    },
+    { "question_id": 129, "question_type": "SHORT", "question": "व्यक्तीचे मूल्य कशावरून ठरते?",
+      "answer": "त्याच्या स्वभावावरून आणि कामावरून."
+    },
+    { "question_id": 130, "question_type": "SHORT", "question": "कौशल्य आत्मसात करताना होणाऱ्या चुकांचे काय?",
+      "answer": "चुकांमधून शिकून सराव चालू ठेवावा."
+    },
+    { "question_id": 131, "question_type": "SHORT", "question": "मेंदूचा विकास कधी होतो?",
+      "answer": "बालपणापासूनच मेंदूचा विकास वेगाने होतो."
+    },
+    { "question_id": 132, "question_type": "SHORT", "question": "मैदानी खेळांचे फायदे काय?",
+      "answer": "शारीरिक ताकद आणि फुफ्फुसांची क्षमता वाढते."
+    },
+    { "question_id": 133, "question_type": "SHORT", "question": "प्रौढ व्यक्तींची उंची का वाढत नाही?",
+      "answer": "कारण त्यांच्या हाडांची वाढ पूर्ण झालेली असते."
+    },
+    { "question_id": 134, "question_type": "SHORT", "question": "कौशल्याचा रोजच्या जीवनात वापर सांगा.",
+      "answer": "वेळेवर आवरणे, नीट डबा भरणे इत्यादी."
+    },
+    { "question_id": 135, "question_type": "SHORT", "question": "वाढीसाठी सूर्यप्रकाश का हवा?",
+      "answer": "सूर्यप्रकाशामुळे ड-जीवनसत्त्व मिळते."
+    },
+    { "question_id": 136, "question_type": "SHORT", "question": "विचार करण्याची शक्ती कशामुळे वाढते?",
+      "answer": "वाचन आणि कोड्यांचा सराव केल्यामुळे."
+    },
+    { "question_id": 137, "question_type": "SHORT", "question": "चांगला स्वभाव कसा बनतो?",
+      "answer": "चांगल्या विचारांमुळे आणि चांगल्या संगतीमुळे."
+    },
+    { "question_id": 138, "question_type": "SHORT", "question": "शरीराचा तोल सांभाळणे हे काय आहे?",
+      "answer": "एक शारीरिक कौशल्य."
+    },
+    { "question_id": 139, "question_type": "SHORT", "question": "वाढीच्या खुणा कोणत्या?",
+      "answer": "कपडे लहान होणे, चपला न बसणे."
+    },
+    { "question_id": 140, "question_type": "SHORT", "question": "व्यक्तिमत्त्वात बदल करणे शक्य आहे का?",
+      "answer": "हो, सरावाने आणि जाणीवपूर्वक प्रयत्न केल्यास बदल शक्य आहे."
+    },
+    { "question_id": 141, "question_type": "SHORT", "question": "वाचन केल्याने काय समृद्ध होते?",
+      "answer": "शब्दसंपत्ती आणि ज्ञान."
+    },
+    { "question_id": 142, "question_type": "SHORT", "question": "नखे का कापावीत?",
+      "answer": "नखांमधील घाण अन्नावाटे पोटात जाऊ नये म्हणून."
+    },
+    { "question_id": 143, "question_type": "SHORT", "question": "स्वयंचलित कौशल्याचे उदाहरण द्या.",
+      "answer": "चालताना पायांच्या हालचालीकडे लक्ष न देता चालणे."
+    },
+    { "question_id": 144, "question_type": "SHORT", "question": "आरोग्यपूर्ण जीवनशैली म्हणजे काय?",
+      "answer": "वेळेवर जेवण, झोप आणि व्यायाम."
+    },
+    { "question_id": 145, "question_type": "SHORT", "question": "मुलांच्या वाढीत पालकांचा सहभाग काय असतो?",
+      "answer": "त्यांना पौष्टिक आहार आणि शिक्षण पुरवणे."
+    },
+    { "question_id": 146, "question_type": "SHORT", "question": "सृजनशीलता म्हणजे काय?",
+      "answer": "नवीन काहीतरी निर्माण करण्याची क्षमता."
+    },
+    { "question_id": 147, "question_type": "SHORT", "question": "व्यक्तिमत्त्व विकासासाठी छंद का जोपासावेत?",
+      "answer": "मन प्रसन्न राहण्यासाठी आणि कल्पकता वाढवण्यासाठी."
+    },
+    { "question_id": 148, "question_type": "SHORT", "question": "वाढ मोजताना कशाची नोंद ठेवावी?",
+      "answer": "तारीख, वजन आणि उंची."
+    },
+    { "question_id": 149, "question_type": "SHORT", "question": "शांत राहणे का महत्त्वाचे आहे?",
+      "answer": "रागावर नियंत्रण मिळवण्यासाठी आणि योग्य विचारांसाठी."
+    },
+    { "question_id": 150, "question_type": "SHORT", "question": "शेवटी, व्यक्तिमत्त्व म्हणजे काय आहे?",
+      "answer": "आपण इतरांशी कसे वागतो आणि आपण स्वतःला कसे घडवतो याचे स्वरूप."
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 8,
+  "chapter_name": "स्थिर जीवनाची सुरुवात",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मानवाने सर्वात प्रथम कोणता प्राणी माणसाळवला?",
+      "options": [
+        { "option_id": 1, "text": "गाय", "is_correct": false },
+        { "option_id": 2, "text": "बैल", "is_correct": false },
+        { "option_id": 3, "text": "कुत्रा", "is_correct": true },
+        { "option_id": 4, "text": "घोडा", "is_correct": false }
+      ],
+      "answer": "कुत्रा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "नव्या अश्मयुगाचे मुख्य वैशिष्ट्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "शिकार करणे", "is_correct": false },
+        { "option_id": 2, "text": "फळे गोळा करणे", "is_correct": false },
+        { "option_id": 3, "text": "शेतीची सुरुवात", "is_correct": true },
+        { "option_id": 4, "text": "भटके जीवन", "is_correct": false }
+      ],
+      "answer": "शेतीची सुरुवात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कुत्रा या प्राण्याचा उपयोग मानवाला प्रामुख्याने कशासाठी झाला?",
+      "options": [
+        { "option_id": 1, "text": "शेतीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "शिकारीत मदत करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "दूध मिळवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वाहतुकीसाठी", "is_correct": false }
+      ],
+      "answer": "शिकारीत मदत करण्यासाठी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शेतीचे पुरावे सर्वात आधी कोठे सापडले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मेहरगड", "is_correct": true },
+        { "option_id": 2, "text": "हडप्पा", "is_correct": false },
+        { "option_id": 3, "text": "लोथल", "is_correct": false },
+        { "option_id": 4, "text": "धोलविरा", "is_correct": false }
+      ],
+      "answer": "मेहरगड"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सुरुवातीच्या काळात शेतीचे काम करण्यासाठी कशाचा वापर केला जात असे?",
+      "options": [
+        { "option_id": 1, "text": "लोखंडी नांगर", "is_correct": false },
+        { "option_id": 2, "text": "टोकदार काठी", "is_correct": true },
+        { "option_id": 3, "text": "ट्रॅक्टर", "is_correct": false },
+        { "option_id": 4, "text": "दगडी विळा", "is_correct": false }
+      ],
+      "answer": "टोकदार काठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भांडी बनवण्यासाठी मानवाने कशाचा शोध लावला?",
+      "options": [
+        { "option_id": 1, "text": "लोखंडाचा", "is_correct": false },
+        { "option_id": 2, "text": "चाकाचा", "is_correct": true },
+        { "option_id": 3, "text": "विजेचा", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचा", "is_correct": false }
+      ],
+      "answer": "चाकाचा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मेहरगड हे ठिकाण सध्या कोणत्या देशात आहे?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "पाकिस्तान", "is_correct": true },
+        { "option_id": 3, "text": "नेपाळ", "is_correct": false },
+        { "option_id": 4, "text": "श्रीलंका", "is_correct": false }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मानवाच्या स्थिर जीवनाला कशामुळे गती मिळाली?",
+      "options": [
+        { "option_id": 1, "text": "युद्धामुळे", "is_correct": false },
+        { "option_id": 2, "text": "शेती आणि पशुपालनामुळे", "is_correct": true },
+        { "option_id": 3, "text": "भटकंतीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "नव्या शस्त्रांमुळे", "is_correct": false }
+      ],
+      "answer": "शेती आणि पशुपालनामुळे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगीन मानवाचा आहार प्रामुख्याने काय होता?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मांस", "is_correct": false },
+        { "option_id": 2, "text": "धान्य आणि फळे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ कंदमुळे", "is_correct": false },
+        { "option_id": 4, "text": "मासे", "is_correct": false }
+      ],
+      "answer": "धान्य आणि फळे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मानवाने पाळलेला दुसरा प्राणी कोणता असावा?",
+      "options": [
+        { "option_id": 1, "text": "गाय", "is_correct": false },
+        { "option_id": 2, "text": "शेळी-मेंढी", "is_correct": true },
+        { "option_id": 3, "text": "उंट", "is_correct": false },
+        { "option_id": 4, "text": "हात्ती", "is_correct": false }
+      ],
+      "answer": "शेळी-मेंढी"
+    },
+    {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "अन्न शिजवण्यासाठी मानवाने कशाचा वापर सुरू केला?",
+        "options": [
+          { "option_id": 1, "text": "दगडी पाटे", "is_correct": false },
+          { "option_id": 2, "text": "मातीची भांडी", "is_correct": true },
+          { "option_id": 3, "text": "काच", "is_correct": false },
+          { "option_id": 4, "text": "लोखंडी कढई", "is_correct": false }
+        ],
+        "answer": "मातीची भांडी"
+    },
+    {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "चाकाचा उपयोग सर्वात आधी कशासाठी झाला असावा?",
+        "options": [
+          { "option_id": 1, "text": "गाडी ओढण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "भांडी बनवण्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "विहीर खणण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "पाणी काढण्यासाठी", "is_correct": false }
+        ],
+        "answer": "भांडी बनवण्यासाठी"
+    },
+    {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "शेतीमुळे मानवी समूहाला काय प्राप्त झाले?",
+        "options": [
+          { "option_id": 1, "text": "अन्नाची शाश्वती", "is_correct": true },
+          { "option_id": 2, "text": "जास्त थकवा", "is_correct": false },
+          { "option_id": 3, "text": "भटकंतीची सवय", "is_correct": false },
+          { "option_id": 4, "text": "केवळ फळे", "is_correct": false }
+        ],
+        "answer": "अन्नाची शाश्वती"
+    },
+    {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन गाव-वसाहतींच्या सीमा कशाने निश्चित केल्या जात?",
+        "options": [
+          { "option_id": 1, "text": "तारांच्या कुंपणाने", "is_correct": false },
+          { "option_id": 2, "text": "दगड किंवा मातीच्या भिंतींनी", "is_correct": true },
+          { "option_id": 3, "text": "नद्यांनी", "is_correct": false },
+          { "option_id": 4, "text": "केवळ झाडांनी", "is_correct": false }
+        ],
+        "answer": "दगड किंवा मातीच्या भिंतींनी"
+    },
+    {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "गावातील अंतर्गत व्यवहार सुरळीत चालवण्यासाठी कशाची गरज निर्माण झाली?",
+        "options": [
+          { "option_id": 1, "text": "पुस्तकांची", "is_correct": false },
+          { "option_id": 2, "text": "नियमावली आणि प्रमुखाची", "is_correct": true },
+          { "option_id": 3, "text": "पैशांची", "is_correct": false },
+          { "option_id": 4, "text": "मोठ्या सैन्याची", "is_correct": false }
+        ],
+        "answer": "नियमावली आणि प्रमुखाची"
+    },
+    {
+        "question_id": 16,
+        "question_type": "MCQ",
+        "question": "पशुपालनाचे किती प्रमुख टप्पे आहेत?",
+        "options": [
+          { "option_id": 1, "text": "एक", "is_correct": false },
+          { "option_id": 2, "text": "दोन", "is_correct": false },
+          { "option_id": 3, "text": "तीन", "is_correct": true },
+          { "option_id": 4, "text": "चार", "is_correct": false }
+        ],
+        "answer": "तीन"
+    },
+    {
+        "question_id": 17,
+        "question_type": "MCQ",
+        "question": "कुडाची घरे बनवण्यासाठी कशाचा वापर केला जात असे?",
+        "options": [
+          { "option_id": 1, "text": "विटा", "is_correct": false },
+          { "option_id": 2, "text": "सिमेंट", "is_correct": false },
+          { "option_id": 3, "text": "काठ्या आणि शेणमाती", "is_correct": true },
+          { "option_id": 4, "text": "केवळ लोखंड", "is_correct": false }
+        ],
+        "answer": "काठ्या आणि शेणमाती"
+    },
+    {
+        "question_id": 18,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील लोक पूर्वजांची पूजा का करत?",
+        "options": [
+          { "option_id": 1, "text": "आदरापोटी आणि श्रद्धेपोटी", "is_correct": true },
+          { "option_id": 2, "text": "केवळ भीतीपोटी", "is_correct": false },
+          { "option_id": 3, "text": "मजा म्हणून", "is_correct": false },
+          { "option_id": 4, "text": "दुसऱ्यांकडे पाहून", "is_correct": false }
+        ],
+        "answer": "आदरापोटी आणि श्रद्धेपोटी"
+    },
+    {
+        "question_id": 19,
+        "question_type": "MCQ",
+        "question": "वस्तूंच्या देवाणघेवाणीतून कशाची सुरुवात झाली?",
+        "options": [
+          { "option_id": 1, "text": "युद्धाची", "is_correct": false },
+          { "option_id": 2, "text": "व्यापाराची", "is_correct": true },
+          { "option_id": 3, "text": "लेखनाची", "is_correct": false },
+          { "option_id": 4, "text": "खेळांची", "is_correct": false }
+        ],
+        "answer": "व्यापाराची"
+    },
+    {
+        "question_id": 20,
+        "question_type": "MCQ",
+        "question": "कौशल्य प्राप्त झालेल्या कारागिरांनी कोणत्या वस्तू बनवल्या?",
+        "options": [
+          { "option_id": 1, "text": "संगणक", "is_correct": false },
+          { "option_id": 2, "text": "मणी आणि मातीची भांडी", "is_correct": true },
+          { "option_id": 3, "text": "विमाने", "is_correct": false },
+          { "option_id": 4, "text": "प्लास्टिक पिशव्या", "is_correct": false }
+        ],
+        "answer": "मणी आणि मातीची भांडी"
+    },
+    {
+        "question_id": 21,
+        "question_type": "MCQ",
+        "question": "शेतीमुळे मानवाला एकाच ठिकाणी का राहावे लागले?",
+        "options": [
+          { "option_id": 1, "text": "पिकांच्या निगा आणि वाढीसाठी", "is_correct": true },
+          { "option_id": 2, "text": "थकवा आल्यामुळे", "is_correct": false },
+          { "option_id": 3, "text": "पाऊस पडल्यामुळे", "is_correct": false },
+          { "option_id": 4, "text": "दुसरे काम नसल्यामुळे", "is_correct": false }
+        ],
+        "answer": "पिकांच्या निगा आणि वाढीसाठी"
+    },
+    {
+        "question_id": 22,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील स्त्रिया कशाचे अलंकार वापरत?",
+        "options": [
+          { "option_id": 1, "text": "केवळ सोन्याचे", "is_correct": false },
+          { "option_id": 2, "text": "मातीचे मणी, हाडे आणि शंख शिंपल्यांचे", "is_correct": true },
+          { "option_id": 3, "text": "प्लॅटिनमचे", "is_correct": false },
+          { "option_id": 4, "text": "काचेचे", "is_correct": false }
+        ],
+        "answer": "मातीचे मणी, हाडे आणि शंख शिंपल्यांचे"
+    },
+    {
+        "question_id": 23,
+        "question_type": "MCQ",
+        "question": "शेतीसाठी पाण्याचा वापर मानवाने सर्वात आधी कसा केला?",
+        "options": [
+          { "option_id": 1, "text": "नळाद्वारे", "is_correct": false },
+          { "option_id": 2, "text": "नदीकाठच्या जमिनीवर नैसर्गिकरीत्या", "is_correct": true },
+          { "option_id": 3, "text": "पाणी विकत घेऊन", "is_correct": false },
+          { "option_id": 4, "text": "साठवलेल्या बादलीने", "is_correct": false }
+        ],
+        "answer": "नदीकाठच्या जमिनीवर नैसर्गिकरीत्या"
+    },
+    {
+        "question_id": 24,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन समाजात 'प्रमुख' व्यक्तीची निवड कोणत्या निकषावर केली जाई?",
+        "options": [
+          { "option_id": 1, "text": "सर्वात श्रीमंत", "is_correct": false },
+          { "option_id": 2, "text": "अनुभवी आणि ज्येष्ठ", "is_correct": true },
+          { "option_id": 3, "text": "सर्वात उंच", "is_correct": false },
+          { "option_id": 4, "text": "परदेशी माणूस", "is_correct": false }
+        ],
+        "answer": "अनुभवी आणि ज्येष्ठ"
+    },
+    {
+        "question_id": 25,
+        "question_type": "MCQ",
+        "question": "मानवाने शेतीचे ज्ञान कोणाकडून मिळवले असावे?",
+        "options": [
+          { "option_id": 1, "text": "पुस्तकांमधून", "is_correct": false },
+          { "option_id": 2, "text": "निसर्गातील निरीक्षण आणि अनुभवांतून", "is_correct": true },
+          { "option_id": 3, "text": "स्वप्नातून", "is_correct": false },
+          { "option_id": 4, "text": "देवाकडून", "is_correct": false }
+        ],
+        "answer": "निसर्गातील निरीक्षण आणि अनुभवांतून"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "मातीची भांडी भाजण्यासाठी कशाचा वापर केला जाई?",
+        "options": [
+          { "option_id": 1, "text": "गॅस शेगडी", "is_correct": false },
+          { "option_id": 2, "text": "आवा (भट्टी)", "is_correct": true },
+          { "option_id": 3, "text": "फक्त उन्हाचा", "is_correct": false },
+          { "option_id": 4, "text": "गरम पाण्याचा", "is_correct": false }
+        ],
+        "answer": "आवा (भट्टी)"
+    },
+    {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील लोक मृत व्यक्तींना कोठे पुरत असत?",
+        "options": [
+          { "option_id": 1, "text": "नदीमध्ये", "is_correct": false },
+          { "option_id": 2, "text": "घराखाली किंवा घराच्या अंगणात", "is_correct": true },
+          { "option_id": 3, "text": "जंगलात लांब", "is_correct": false },
+          { "option_id": 4, "text": "पर्वतावर", "is_correct": false }
+        ],
+        "answer": "घराखाली किंवा घराच्या अंगणात"
+    },
+    {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "शेतीसाठी लागणारे पाणी मानवाने कसे साठवले?",
+        "options": [
+          { "option_id": 1, "text": "कालवे काढून", "is_correct": true },
+          { "option_id": 2, "text": "टाक्यांमध्ये", "is_correct": false },
+          { "option_id": 3, "text": "घागरीत", "is_correct": false },
+          { "option_id": 4, "text": "जमिनीत खोल", "is_correct": false }
+        ],
+        "answer": "कालवे काढून"
+    },
+    {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "व्यापारामुळे कशाची देवाणघेवाण वाढली?",
+        "options": [
+          { "option_id": 1, "text": "केवळ भांडणांची", "is_correct": false },
+          { "option_id": 2, "text": "वस्तू आणि विचारांची", "is_correct": true },
+          { "option_id": 3, "text": "पावसाची", "is_correct": false },
+          { "option_id": 4, "text": "प्राण्यांची शिकार करण्याची", "is_correct": false }
+        ],
+        "answer": "वस्तू आणि विचारांची"
+    },
+    {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन गाव-वसाहतींमध्ये काय विकसित झाले?",
+        "options": [
+          { "option_id": 1, "text": "सांस्कृतिक संबंध", "is_correct": true },
+          { "option_id": 2, "text": "मोठ्या फॅक्टरी", "is_correct": false },
+          { "option_id": 3, "text": "विमानतळ", "is_correct": false },
+          { "option_id": 4, "text": "केवळ शिकारीचे तंत्र", "is_correct": false }
+        ],
+        "answer": "सांस्कृतिक संबंध"
+    },
+    {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "मानवाने शेतीचे ज्ञान प्राप्त केल्यावर कशाची गरज कमी झाली?",
+        "options": [
+          { "option_id": 1, "text": "पाण्याची", "is_correct": false },
+          { "option_id": 2, "text": "भटकंतीची", "is_correct": true },
+          { "option_id": 3, "text": "कपड्यांची", "is_correct": false },
+          { "option_id": 4, "text": "झोपेची", "is_correct": false }
+        ],
+        "answer": "भटकंतीची"
+    },
+    {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील लोक अन्न दीर्घकाळ टिकवण्यासाठी काय करत?",
+        "options": [
+          { "option_id": 1, "text": "फ्रिजमध्ये ठेवत", "is_correct": false },
+          { "option_id": 2, "text": "वाळवून किंवा मिठाचा वापर करून साठवत", "is_correct": true },
+          { "option_id": 3, "text": "बर्फाखाली दाबत", "is_correct": false },
+          { "option_id": 4, "text": "ते उकळून ठेवत", "is_correct": false }
+        ],
+        "answer": "वाळवून किंवा मिठाचा वापर करून साठवत"
+    },
+    {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "गाव-वसाहतींचे रक्षण करण्याची जबाबदारी कोणाकडे होती?",
+        "options": [
+          { "option_id": 1, "text": "बाहेरील लोकांकडे", "is_correct": false },
+          { "option_id": 2, "text": "गावातील प्रमुखाकडे आणि तरुणांकडे", "is_correct": true },
+          { "option_id": 3, "text": "प्राण्यांकडे", "is_correct": false },
+          { "option_id": 4, "text": "केवळ लहान मुलांकडे", "is_correct": false }
+        ],
+        "answer": "गावातील प्रमुखाकडे आणि तरुणांकडे"
+    },
+    {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "शेतीसाठी सर्वात आधी कोणत्या प्राण्यांचा वापर झाला असावा?",
+        "options": [
+          { "option_id": 1, "text": "बैल", "is_correct": true },
+          { "option_id": 2, "text": "वाघ", "is_correct": false },
+          { "option_id": 3, "text": "हात्ती", "is_correct": false },
+          { "option_id": 4, "text": "सिंह", "is_correct": false }
+        ],
+        "answer": "बैल"
+    },
+    {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "मानवाने तयार केलेल्या मातीच्या भांड्यांचा रंग प्रामुख्याने कोणता होता?",
+        "options": [
+          { "option_id": 1, "text": "निळा", "is_correct": false },
+          { "option_id": 2, "text": "लाल किंवा काळा", "is_correct": true },
+          { "option_id": 3, "text": "गुलाबी", "is_correct": false },
+          { "option_id": 4, "text": "पांढरा", "is_correct": false }
+        ],
+        "answer": "लाल किंवा काळा"
+    },
+    {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील लोक कपडे कशाचे वापरत?",
+        "options": [
+          { "option_id": 1, "text": "प्लास्टिक", "is_correct": false },
+          { "option_id": 2, "text": "कापूस किंवा लोकरीचे विणलेले", "is_correct": true },
+          { "option_id": 3, "text": "फक्त झाडाच्या सालीचे", "is_correct": false },
+          { "option_id": 4, "text": "लोखंडी तारांचे", "is_correct": false }
+        ],
+        "answer": "कापूस किंवा लोकरीचे विणलेले"
+    },
+    {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "वाहतुकीसाठी चाकाचा वापर केल्यामुळे काय बदल झाला?",
+        "options": [
+          { "option_id": 1, "text": "प्रवास वेळ खाऊ झाला", "is_correct": false },
+          { "option_id": 2, "text": "प्रवास आणि ओझे वाहणे सोपे झाले", "is_correct": true },
+          { "option_id": 3, "text": "भूक जास्त लागली", "is_correct": false },
+          { "option_id": 4, "text": "काहीही बदल झाला नाही", "is_correct": false }
+        ],
+        "answer": "प्रवास आणि ओझे वाहणे सोपे झाले"
+    },
+    {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "गावातील प्रमुखाचे एक महत्त्वाचे कार्य कोणते होते?",
+        "options": [
+          { "option_id": 1, "text": "उत्सव आणि धार्मिक विधींचे आयोजन करणे", "is_correct": true },
+          { "option_id": 2, "text": "सर्वांना घराबाहेर काढणे", "is_correct": false },
+          { "option_id": 3, "text": "केवळ स्वतःसाठी अन्न गोळा करणे", "is_correct": false },
+          { "option_id": 4, "text": "शेजारील गावाशी युद्ध करणे", "is_correct": false }
+        ],
+        "answer": "उत्सव आणि धार्मिक विधींचे आयोजन करणे"
+    },
+    {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील लोक कशाची पूजा करत असत?",
+        "options": [
+          { "option_id": 1, "text": "निसर्गातील शक्ती आणि पूर्वजांची", "is_correct": true },
+          { "option_id": 2, "text": "फक्त दगडांची", "is_correct": false },
+          { "option_id": 3, "text": "मोठ्या इमारतींची", "is_correct": false },
+          { "option_id": 4, "text": "आरशाची", "is_correct": false }
+        ],
+        "answer": "निसर्गातील शक्ती आणि पूर्वजांची"
+    },
+    {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "शेतीमुळे मानवी समूहाची लोकसंख्या का वाढली?",
+        "options": [
+          { "option_id": 1, "text": "मुबलक अन्न उपलब्ध झाल्यामुळे", "is_correct": true },
+          { "option_id": 2, "text": "खूप व्यायामामुळे", "is_correct": false },
+          { "option_id": 3, "text": "हवामान गरम झाल्यामुळे", "is_correct": false },
+          { "option_id": 4, "text": "पाणी जास्त पिल्यामुळे", "is_correct": false }
+        ],
+        "answer": "मुबलक अन्न उपलब्ध झाल्यामुळे"
+    },
+    {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगातील घरांची मांडणी कशी होती?",
+        "options": [
+          { "option_id": 1, "text": "विखुरलेली", "is_correct": false },
+          { "option_id": 2, "text": "एकमेकांच्या जवळ आणि रांगेत", "is_correct": true },
+          { "option_id": 3, "text": "केवळ टेकडीवर", "is_correct": false },
+          { "option_id": 4, "text": "पाण्यामध्ये", "is_correct": false }
+        ],
+        "answer": "एकमेकांच्या जवळ आणि रांगेत"
+    },
+    {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "मिठामुळे मानवाच्या जीवनात कोणता बदल झाला?",
+        "options": [
+          { "option_id": 1, "text": "अन्नाची चव वाढली आणि साठवणूक सोपी झाली", "is_correct": true },
+          { "option_id": 2, "text": "कपडे पांढरे झाले", "is_correct": false },
+          { "option_id": 3, "text": "घर बांधणे सोपे झाले", "is_correct": false },
+          { "option_id": 4, "text": "काहीही बदल झाला नाही", "is_correct": false }
+        ],
+        "answer": "अन्नाची चव वाढली आणि साठवणूक सोपी झाली"
+    },
+    {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन मानवाचा प्रमुख व्यवसाय कोणता होता?",
+        "options": [
+          { "option_id": 1, "text": "केवळ शिकार", "is_correct": false },
+          { "option_id": 2, "text": "शेती आणि पशुपालन", "is_correct": true },
+          { "option_id": 3, "text": "सॉफ्टवेअर इंजिनिअरिंग", "is_correct": false },
+          { "option_id": 4, "text": "खाणकाम", "is_correct": false }
+        ],
+        "answer": "शेती आणि पशुपालन"
+    },
+    {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "कुटुंबातील लोकांमध्ये कामाची वाटणी कशाच्या आधारे केली जाई?",
+        "options": [
+          { "option_id": 1, "text": "केवळ वयानुसार", "is_correct": false },
+          { "option_id": 2, "text": "कौशल्य आणि कुवतीनुसार", "is_correct": true },
+          { "option_id": 3, "text": "श्रीमंतीनुसार", "is_correct": false },
+          { "option_id": 4, "text": "नशिबानुसार", "is_correct": false }
+        ],
+        "answer": "कौशल्य आणि कुवतीनुसार"
+    },
+    {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "मानवाच्या स्थिर जीवनातील सर्वात महत्त्वाची घटना कोणती?",
+        "options": [
+          { "option_id": 1, "text": "गावे वसणे", "is_correct": true },
+          { "option_id": 2, "text": "पुन्हा जंगलात जाणे", "is_correct": false },
+          { "option_id": 3, "text": "नवे प्राणी शोधणे", "is_correct": false },
+          { "option_id": 4, "text": "मोठ्या सहली करणे", "is_correct": false }
+        ],
+        "answer": "गावे वसणे"
+    },
+    {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "मातीच्या भांड्यांवर नक्षी काढण्यासाठी कशाचा वापर केला जाई?",
+        "options": [
+          { "option_id": 1, "text": "नैसर्गिक रंगांचा", "is_correct": true },
+          { "option_id": 2, "text": "प्लॅस्टिक रंगांचा", "is_correct": false },
+          { "option_id": 3, "text": "पेनचा", "is_correct": false },
+          { "option_id": 4, "text": "तेलाचा", "is_correct": false }
+        ],
+        "answer": "नैसर्गिक रंगांचा"
+    },
+    {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन संस्कृतीला काय म्हटले जाते?",
+        "options": [
+          { "option_id": 1, "text": "भटकी संस्कृती", "is_correct": false },
+          { "option_id": 2, "text": "स्थिर गाव-वसाहतींची संस्कृती", "is_correct": true },
+          { "option_id": 3, "text": "पर्वतीय संस्कृती", "is_correct": false },
+          { "option_id": 4, "text": "सागरी संस्कृती", "is_correct": false }
+        ],
+        "answer": "स्थिर गाव-वसाहतींची संस्कृती"
+    },
+    {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "शेतीमुळे मानवाला कोणती नवीन कौशल्ये शिकता आली?",
+        "options": [
+          { "option_id": 1, "text": "अन्न साठवण आणि वाटप", "is_correct": true },
+          { "option_id": 2, "text": "विमान उडवणे", "is_correct": false },
+          { "option_id": 3, "text": "फक्त धावणे", "is_correct": false },
+          { "option_id": 4, "text": "प्राण्यांशी बोलणे", "is_correct": false }
+        ],
+        "answer": "अन्न साठवण आणि वाटप"
+    },
+    {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "गावातील सण आणि उत्सव कशासाठी साजरे केले जात?",
+        "options": [
+          { "option_id": 1, "text": "एकता वाढवण्यासाठी", "is_correct": true },
+          { "option_id": 2, "text": "दुसऱ्याला त्रास देण्यासाठी", "is_correct": false },
+          { "option_id": 3, "text": "फक्त खाण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "वेळ घालवण्यासाठी", "is_correct": false }
+        ],
+        "answer": "एकता वाढवण्यासाठी"
+    },
+    {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "नवाश्मयुगीन हत्यारे कशी होती?",
+        "options": [
+          { "option_id": 1, "text": "ओबडधोबड", "is_correct": false },
+          { "option_id": 2, "text": "घासून गुळगुळीत केलेली आणि धारदार", "is_correct": true },
+          { "option_id": 3, "text": "केवळ लाकडी", "is_correct": false },
+          { "option_id": 4, "text": "लोखंडी", "is_correct": false }
+        ],
+        "answer": "घासून गुळगुळीत केलेली आणि धारदार"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "मानवाच्या स्थिर जीवनाची सुरुवात कशामुळे झाली?",
+      "answer": "शेतीची सुरुवात झाल्यामुळे अन्नासाठी मानवाचे भटकणे थांबले आणि स्थिर जीवनाची सुरुवात झाली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मानवाने सर्वात आधी कोणता प्राणी माणसाळवला?",
+      "answer": "मानवाने सर्वात आधी कुत्रा हा प्राणी माणसाळवला."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शेतीसाठी मानवाला एकाच ठिकाणी राहणे का आवश्यक झाले?",
+      "answer": "पिकांच्या निगा, पिकांचे संरक्षण आणि धान्याची काढणी करण्यासाठी मानवाला एकाच ठिकाणी राहणे आवश्यक झाले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मेहरगड येथे कशाचे पुरावे मिळाले आहेत?",
+      "answer": "मेहरगड येथे नवाश्मयुगीन शेती आणि पशुपालनाचे सर्वात जुने पुरावे मिळाले आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पशुपालनाचे तीन टप्पे कोणते?",
+      "answer": "१. रानटी प्राण्यांना पकडून ताब्यात घेणे. २. त्यांना मानवाच्या सहवासात राहण्याची सवय लावणे. ३. त्यांच्याकडून दूध व श्रमाची कामे करून घेणे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कुडाची घरे म्हणजे काय?",
+      "answer": "काठ्यांच्या सांगाड्याला शेणमाती लावून तयार केलेल्या भिंतींच्या घरांना कुडाची घरे म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चाकाच्या शोधामुळे मानवी जीवनात कोणता बदल झाला?",
+      "answer": "चाकाच्या शोधामुळे मातीची भांडी तयार करणे आणि वाहतुकीची कामे जलद व सोपी झाली."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गावात प्रमुखाची निवड का केली जाई?",
+      "answer": "गावातील अंतर्गत व्यवहार सुरळीत चालावेत आणि गावाचे संरक्षण व्हावे यासाठी प्रमुखाची निवड केली जाई."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील स्त्रिया कशाचे अलंकार वापरत?",
+      "answer": "स्त्रिया मातीच्या मण्यांचे, हाडांचे, शंख-शिंपल्यांचे आणि नंतरच्या काळात तांब्याचे अलंकार वापरत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "व्यापार कसा सुरू झाला?",
+      "answer": "आपल्या गरजेच्या वस्तू इतरांकडून मिळवण्यासाठी वस्तूंच्या बदल्यात वस्तू देण्याची पद्धत सुरू झाली, यातूनच व्यापार सुरू झाला."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कुत्रा माणसाळवण्याचा उपयोग काय झाला?",
+      "answer": "शिकारीत मदत मिळवणे आणि वस्तीचे रक्षण करणे यासाठी कुत्र्याचा उपयोग झाला."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाचा मुख्य आहार काय होता?",
+      "answer": "गहू, बार्ली यांसारखी धान्ये, मांस आणि प्राण्यांचे दूध हा मानवाचा मुख्य आहार होता."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शेतीचे अवजार म्हणून सुरुवातीला कशाचा वापर केला गेला?",
+      "answer": "सुरुवातीला जमिनीत बिया पेरण्यासाठी टोकदार काठीचा वापर शेतीचे अवजार म्हणून केला गेला."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील हत्यारे कशी होती?",
+      "answer": "ती घासून गुळगुळीत केलेली आणि धारदार बनवलेली होती."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन गाव-वसाहती कोठे वसल्या?",
+      "answer": "पाण्याची उपलब्धता पाहून प्रामुख्याने नद्यांच्या काठी किंवा पाणवठ्याजवळ गाव-वसाहती वसल्या."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मातीची भांडी भाजण्याची गरज का भासली?",
+      "answer": "भांडी कच्ची राहू नयेत आणि ती जास्त काळ टिकून त्यात पाणी किंवा अन्न साठवता यावे यासाठी ती भाजण्याची गरज भासली."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "गावातील अंतर्गत वाद कोण सोडवत असे?",
+      "answer": "गावातील प्रमुख आणि वडीलधारी मंडळी अंतर्गत वाद सोडवत असत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मृत व्यक्तींसोबत वस्तू का पुरल्या जात?",
+      "answer": "मृत्यूत्तर जीवनावर असलेल्या श्रद्धेपोटी मृत व्यक्तीला परत त्या वस्तू लागतील या भावनेतून त्या पुरल्या जात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शेतीमुळे मानवी जीवनाला स्थिरता कशी मिळाली?",
+      "answer": "अन्नाची शाश्वती मिळाल्यामुळे अन्नासाठी फिरणे बंद झाले आणि मानवी जीवनाला स्थिरता मिळाली."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील लोक पूर्वजांची पूजा का करत?",
+      "answer": "पूर्वजांच्या मार्गदर्शनाचा आणि आशीर्वादाचा लाभ मिळावा या श्रद्धेपोटी त्यांची पूजा केली जाई."
+    },
+    {
+        "question_id": 71,
+        "question_type": "SHORT",
+        "question": "चाकाचा शोध कधी लागला असावा?",
+        "answer": "चाकाचा शोध नवाश्मयुगाच्या उत्तरार्धात लागला असावा."
+    },
+    {
+        "question_id": 72,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे कोणत्या नवीन उद्योगाचा उगम झाला?",
+        "answer": "धान्य साठवण्यासाठी मातीची भांडी बनवणे आणि टोपल्या विणणे यांसारख्या उद्योगांचा उगम झाला."
+    },
+    {
+        "question_id": 73,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगीन मानवाचे घर कसे असायचे?",
+        "answer": "त्यांचे घर चौकोनी किंवा आयताकृती असून ते काठ्या, माती आणि गवतापासून बनवलेले असायचे."
+    },
+    {
+        "question_id": 74,
+        "question_type": "SHORT",
+        "question": "पशुपालनामुळे मानवाच्या आहारात काय बदल झाला?",
+        "answer": "आहारात दूध आणि दुग्धजन्य पदार्थांचा समावेश झाला."
+    },
+    {
+        "question_id": 75,
+        "question_type": "SHORT",
+        "question": "गावाभोवती संरक्षक भिंती का बांधल्या जात?",
+        "answer": "जंगली प्राण्यांपासून आणि इतर टोळ्यांपासून संरक्षण मिळावे यासाठी संरक्षक भिंती बांधल्या जात."
+    },
+    {
+        "question_id": 76,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक कपडे विणण्यासाठी कशाचा वापर करत?",
+        "answer": "ते कापूस आणि लोकरीचा वापर कपडे विणण्यासाठी करत असत."
+    },
+    {
+        "question_id": 77,
+        "question_type": "SHORT",
+        "question": "कौशल्य प्राप्त कारागीर म्हणजे काय?",
+        "answer": "ज्या व्यक्ती एखाद्या विशिष्ट कामात (उदा. भांडी बनवणे, मणी तयार करणे) निपुण असत, त्यांना कौशल्य प्राप्त कारागीर म्हणत."
+    },
+    {
+        "question_id": 78,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगीन व्यापारात मिठाचे महत्त्व काय होते?",
+        "answer": "मीठ सर्वत्र उपलब्ध नसल्यामुळे त्याची लांबून आयात करावी लागे, त्यामुळे त्याला व्यापारात मोठे महत्त्व होते."
+    },
+    {
+        "question_id": 79,
+        "question_type": "SHORT",
+        "question": "गावातील सण कोणाद्वारे आयोजित केले जात?",
+        "answer": "गावातील सण आणि सामूहिक उत्सव ग्रामप्रमुखाद्वारे आयोजित केले जात."
+    },
+    {
+        "question_id": 80,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील मातीची भांडी कशी तयार केली जात?",
+        "answer": "सुरुवातीला हाताने आणि नंतर चाकाचा वापर करून ती तयार केली जात."
+    },
+    {
+        "question_id": 81,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे मानवी समूहात सहकार्य का वाढले?",
+        "answer": "मोठ्या क्षेत्रावर शेती करणे आणि पिकांचे रक्षण करणे एकट्याला शक्य नसल्यामुळे समूहात सहकार्य वाढले."
+    },
+    {
+        "question_id": 82,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगीन समाजात स्त्रियांचे स्थान काय होते?",
+        "answer": "स्त्रिया शेतीची कामे आणि घरकामात महत्त्वाची भूमिका बजावत असत."
+    },
+    {
+        "question_id": 83,
+        "question_type": "SHORT",
+        "question": "वाहतुकीसाठी कोणत्या प्राण्यांचा वापर सुरू झाला?",
+        "answer": "बैल, उंट, गाढव आणि घोडा यांसारख्या प्राण्यांचा वापर वाहतुकीसाठी सुरू झाला."
+    },
+    {
+        "question_id": 84,
+        "question_type": "SHORT",
+        "question": "मानवाने अन्न साठवण्याची पद्धत कशी शोधली?",
+        "answer": "हंगाम संपल्यावरही अन्न मिळावे यासाठी मानवाने धान्य कोठारे आणि मातीची भांडी यांचा वापर सुरू केला."
+    },
+    {
+        "question_id": 85,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोकांच्या धार्मिक कल्पना कशावर आधारित होत्या?",
+        "answer": "निसर्गातील शक्ती (सूर्य, पाऊस इ.) आणि पुनर्जन्मावर त्यांच्या कल्पना आधारित होत्या."
+    },
+    {
+        "question_id": 86,
+        "question_type": "SHORT",
+        "question": "कामांची विभागणी का आवश्यक ठरली?",
+        "answer": "लोकसंख्या वाढल्यामुळे आणि नवीन उद्योगांची निर्मिती झाल्यामुळे कामांची विभागणी आवश्यक ठरली."
+    },
+    {
+        "question_id": 87,
+        "question_type": "SHORT",
+        "question": "मातीची भांडी भाजण्याची 'आवा' पद्धत म्हणजे काय?",
+        "answer": "भट्टीमध्ये मातीची भांडी रचून ती उच्च तापमानाला भाजण्याच्या पद्धतीला 'आवा' म्हणतात."
+    },
+    {
+        "question_id": 88,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगीन गावे कोठे निर्माण झाली?",
+        "answer": "गावे प्रामुख्याने नद्यांच्या खोऱ्यात निर्माण झाली, जिथे सुपीक जमीन उपलब्ध होती."
+    },
+    {
+        "question_id": 89,
+        "question_type": "SHORT",
+        "question": "पशुपालनाचे महत्त्व काय आहे?",
+        "answer": "पशुपालनामुळे मानवाला नियमित अन्न, शेतीसाठी श्रम आणि वाहतुकीची साधने मिळाली."
+    },
+    {
+        "question_id": 90,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील हत्यारे कशाची बनलेली असत?",
+        "answer": "ती प्रामुख्याने कठीण दगडांची आणि हाडांची बनलेली असत."
+    },
+    {
+        "question_id": 91,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनात कलेचा काय वाटा होता?",
+        "answer": "मानवाने आपल्या भावना आणि संस्कृती व्यक्त करण्यासाठी मातीच्या भांड्यांवर नक्षीकाम आणि मूर्तीकाम सुरू केले."
+    },
+    {
+        "question_id": 92,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींमध्ये सामूहिक मालमत्तेची संकल्पना कशी होती?",
+        "answer": "शेतीची जमीन आणि पाण्याचे स्रोत हे संपूर्ण गावाची सामूहिक मालमत्ता मानले जात."
+    },
+    {
+        "question_id": 93,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील सामाजिक जीवनाचे मुख्य वैशिष्ट्य कोणते?",
+        "answer": "एकमेकांना मदत करणे आणि सामूहिकरित्या काम करणे हे मुख्य वैशिष्ट्य होते."
+    },
+    {
+        "question_id": 94,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे मानवाचा फावला वेळ कशासाठी वापरला गेला?",
+        "answer": "फावला वेळ नवीन कला शिकण्यासाठी आणि मनोरंजनासाठी वापरला गेला."
+    },
+    {
+        "question_id": 95,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक आपली माहिती पुढच्या पिढीला कशी देत?",
+        "answer": "अनुभव आणि संवादाच्या माध्यमातून ती माहिती दिली जाई, कारण तेव्हा लेखनकला नव्हती."
+    },
+    {
+        "question_id": 96,
+        "question_type": "SHORT",
+        "question": "गावातील प्रमुखाचा मान कसा राखला जाई?",
+        "answer": "त्याला महत्त्वाच्या निर्णयांचे अधिकार दिले जात आणि सणासुदीत विशेष सन्मान दिला जाई."
+    },
+    {
+        "question_id": 97,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक कशाची भीती बाळगत असत?",
+        "answer": "ते नैसर्गिक आपत्ती आणि हिंस्त्र प्राण्यांची भीती बाळगत असत."
+    },
+    {
+        "question_id": 98,
+        "question_type": "SHORT",
+        "question": "पशुपालनात शेळी-मेंढीचे महत्त्व काय होते?",
+        "answer": "त्यांच्यापासून दूध, मांस आणि लोकर सहज उपलब्ध होत असे."
+    },
+    {
+        "question_id": 99,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील हत्यारांचा उपयोग सांगा.",
+        "answer": "झाडे तोडणे, शिकार करणे आणि शेतीची मशागत करणे यासाठी त्यांचा उपयोग होई."
+    },
+    {
+        "question_id": 100,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनाची फलश्रुती काय होती?",
+        "answer": "मानवाच्या स्थिर जीवनामुळे नागरी संस्कृतीचा उदय झाला."
+    },
+    {
+        "question_id": 101,
+        "question_type": "SHORT",
+        "question": "शेतीची सुरुवात कोणत्या खंडांमध्ये आधी झाली?",
+        "answer": "शेतीची सुरुवात आशिया आणि आफ्रिका या खंडांमध्ये प्रामुख्याने आधी झाली."
+    },
+    {
+        "question_id": 102,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील घरांच्या छताची रचना कशी होती?",
+        "answer": "छते गवत आणि लाकडाच्या साहाय्याने उतरती बनवलेली असत."
+    },
+    {
+        "question_id": 103,
+        "question_type": "SHORT",
+        "question": "मानवाने मीठ कोठून मिळवले असावे?",
+        "answer": "मानवाने मीठ समुद्रकाठच्या प्रदेशातून किंवा मिठाच्या खाणींतून मिळवले असावे."
+    },
+    {
+        "question_id": 104,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगीन समाजात 'टोळी' संकल्पना कशी होती?",
+        "answer": "एकाच पूर्वजाचे वंशज असलेल्या समूहाला टोळी किंवा कूळ म्हटले जाई."
+    },
+    {
+        "question_id": 105,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे आहार संतुलित कसा झाला?",
+        "answer": "धान्य, दूध आणि मांस यांचा नियमित पुरवठा झाल्यामुळे आहार संतुलित झाला."
+    },
+    {
+        "question_id": 106,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींमध्ये कोठारे का बांधली जात?",
+        "answer": "दुष्काळ किंवा आणीबाणीच्या काळात अन्नाची कमतरता भासू नये म्हणून कोठारे बांधली जात."
+    },
+    {
+        "question_id": 107,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील संदेशवहनाचे साधन काय होते?",
+        "answer": "तोंडी संदेश आणि खुणा हेच तेव्हाचे संदेशवहनाचे साधन होते."
+    },
+    {
+        "question_id": 108,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक दागिने कशाचे बनवत?",
+        "answer": "हाडे, दगड, शंख आणि मातीच्या मण्यांचे दागिने बनवले जात असत."
+    },
+    {
+        "question_id": 109,
+        "question_type": "SHORT",
+        "question": "व्यापारामुळे दळणवळणाची साधने कशी विकसित झाली?",
+        "answer": "लांबचा प्रवास करण्यासाठी प्राण्यांचा वापर वाढला आणि चाकाच्या शोधामुळे गाड्या तयार झाल्या."
+    },
+    {
+        "question_id": 110,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील धार्मिक विधी कशासाठी केले जात?",
+        "answer": "पीक चांगले यावे आणि गाव सुरक्षित राहावे यासाठी धार्मिक विधी केले जात."
+    },
+    {
+        "question_id": 111,
+        "question_type": "SHORT",
+        "question": "शेतीसाठी लागणारे पाणी साठवण्याच्या पद्धती सांगा.",
+        "answer": "नदीवर बंधारे घालणे आणि कालवे काढणे या पद्धतींचा वापर केला जाई."
+    },
+    {
+        "question_id": 112,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील स्त्रियांनी शेतीची कोणती महत्त्वाची गोष्ट शोधली असावी?",
+        "answer": "बिया जमिनीत पेरल्यास त्यातून वनस्पती उगवते ही गोष्ट स्त्रियांनी शोधली असावी."
+    },
+    {
+        "question_id": 113,
+        "question_type": "SHORT",
+        "question": "गावातील मुलांचे शिक्षण कसे होत असे?",
+        "answer": "ती आपल्या पालकांच्या कामाचे निरीक्षण करून कौशल्ये शिकत असत."
+    },
+    {
+        "question_id": 114,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील मानवाचा छंद काय असावा?",
+        "answer": "चित्रे काढणे आणि मातीची भांडी नक्षीदार बनवणे हा त्यांचा छंद असावा."
+    },
+    {
+        "question_id": 115,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील प्रमुख अडथळे कोणते होते?",
+        "answer": "नैसर्गिक आपत्ती, जंगली श्वापदे आणि दुसऱ्या टोळ्यांचे हल्ले हे प्रमुख अडथळे होते."
+    },
+    {
+        "question_id": 116,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील घरांची जमिनीची लिंपणी कशाने करत?",
+        "answer": "जमिनीची लिंपणी शेण आणि मातीने केली जाई."
+    },
+    {
+        "question_id": 117,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींमध्ये अन्नाचे वाटप कोण करत असे?",
+        "answer": "कुटुंबातील प्रमुख किंवा गावातील प्रमुख अन्नाच्या वाटपाचे नियोजन करत असे."
+    },
+    {
+        "question_id": 118,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोकांमधील मनोरंजनाची साधने कोणती असावीत?",
+        "answer": "गाणी, नाच आणि शिकारीचे खेळ ही मनोरंजनाची साधने असावीत."
+    },
+    {
+        "question_id": 119,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे मानवी समूहामध्ये एकोपा कसा निर्माण झाला?",
+        "answer": "सामूहिकपणे कष्ट केल्यामुळे आणि सण साजरे केल्यामुळे एकोपा निर्माण झाला."
+    },
+    {
+        "question_id": 120,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगीन संस्कृतीच्या अभ्यासासाठी काय महत्त्वाचे आहे?",
+        "answer": "उत्खननात मिळालेली भांडी, हत्यारे आणि अवशेषांचे शास्त्रीय विश्लेषण महत्त्वाचे आहे."
+    },
+    {
+        "question_id": 121,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील शिस्त कशी होती?",
+        "answer": "नियमांचे पालन करणे आणि प्रमुखाच्या आज्ञेत राहणे याला महत्त्व होते."
+    },
+    {
+        "question_id": 122,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक निसर्गाशी जुळवून कसे घेत असत?",
+        "answer": "ते ऋतूमानानुसार शेती आणि पशुपालनाचे नियोजन करून निसर्गाशी जुळवून घेत असत."
+    },
+    {
+        "question_id": 123,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींच्या प्रमुखाची निवड करताना कोणते गुण पाहिले जात?",
+        "answer": "शौर्य, बुद्धिमत्ता आणि अनुभव हे गुण पाहिले जात."
+    },
+    {
+        "question_id": 124,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील स्त्रियांचा शेतीमध्ये कोणता वाटा होता?",
+        "answer": "बिया पेरणे, तण काढणे आणि कापणी करणे या कामात स्त्रियांचा मोठा वाटा होता."
+    },
+    {
+        "question_id": 125,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे मानवाचा वेळ कसा वाचू लागला?",
+        "answer": "अन्नासाठी दररोज शिकारीला जावे लागत नसल्यामुळे मानवाचा वेळ वाचू लागला."
+    },
+    {
+        "question_id": 126,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक कशाचे तेल वापरत असावेत?",
+        "answer": "ते तीळ किंवा इतर बियांच्या तेलाचा वापर करत असावेत."
+    },
+    {
+        "question_id": 127,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील सामाजिक उतरंड कशी होती?",
+        "answer": "ग्रामप्रमुख, कारागीर आणि शेतकरी अशी साधी सामाजिक उतरंड होती."
+    },
+    {
+        "question_id": 128,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील सणांचे स्वरूप कसे होते?",
+        "answer": "ते प्रामुख्याने पीक कापणी आणि निसर्गाच्या उपासनेशी संबंधित होते."
+    },
+    {
+        "question_id": 129,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींमध्ये पशुंच्या सुरक्षेसाठी काय केले जाई?",
+        "answer": "त्यांच्यासाठी स्वतंत्र गोठे बांधले जात आणि रात्री पहारा दिला जाई."
+    },
+    {
+        "question_id": 130,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील व्यापारात 'विनिमय पद्धत' म्हणजे काय?",
+        "answer": "एका वस्तूच्या बदल्यात दुसरी वस्तू देणे याला विनिमय पद्धत म्हणतात."
+    },
+    {
+        "question_id": 131,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील घरांचे महत्त्व सांगा.",
+        "answer": "घरे मानवाला ऊन, वारा, पाऊस आणि हिंस्त्र प्राण्यांपासून संरक्षण देत असत."
+    },
+    {
+        "question_id": 132,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक माहितीची साठवणूक कशी करत?",
+        "answer": "ते स्मृतीच्या साहाय्याने कथा आणि गाण्यांच्या स्वरूपात माहिती लक्षात ठेवत."
+    },
+    {
+        "question_id": 133,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे कोणत्या नवीन तंत्रज्ञानाचा उदय झाला?",
+        "answer": "जलसिंचन आणि नांगरासारख्या साधनांचा उदय झाला."
+    },
+    {
+        "question_id": 134,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील अन्नाचे रक्षण कशापासून करावे लागत असे?",
+        "answer": "कीड, उंदीर आणि ओलावा यांपासून अन्नाचे रक्षण करावे लागत असे."
+    },
+    {
+        "question_id": 135,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींच्या सीमांच्या आत कोण राहत असे?",
+        "answer": "एकाच कुळातील किंवा टोळीतील लोक सीमांच्या आत राहत असत."
+    },
+    {
+        "question_id": 136,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक कशाचे कपडे विणत असत?",
+        "answer": "ते कापूस आणि लोकरीचे कपडे विणत असत."
+    },
+    {
+        "question_id": 137,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील सौंदर्याची संकल्पना काय होती?",
+        "answer": "अलंकार घालणे आणि रंगीत कपडे वापरणे ही सौंदर्याची संकल्पना होती."
+    },
+    {
+        "question_id": 138,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील हत्यारांची दोन वैशिष्ट्ये सांगा.",
+        "answer": "१. ती गुळगुळीत होती. २. त्यांना अधिक धारदार कडा होत्या."
+    },
+    {
+        "question_id": 139,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींमध्ये सामूहिक भोजनाचे महत्त्व काय होते?",
+        "answer": "सामूहिक भोजनामुळे लोकांमधील बंधुभाव वाढत असे."
+    },
+    {
+        "question_id": 140,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक कशाचे दूध पित असत?",
+        "answer": "ते गाय, शेळी आणि मेंढी यांचे दूध पित असत."
+    },
+    {
+        "question_id": 141,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनात खेळांचे काय महत्त्व असावे?",
+        "answer": "शारीरिक क्षमता वाढवण्यासाठी आणि मनोरंजनासाठी खेळांचे महत्त्व होते."
+    },
+    {
+        "question_id": 142,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील कारागिरांचे कामाचे स्वरूप सांगा.",
+        "answer": "ते आपल्या कलेचा वापर करून सुंदर आणि उपयुक्त वस्तू घडवत असत."
+    },
+    {
+        "question_id": 143,
+        "question_type": "SHORT",
+        "question": "शेतीमुळे मानवाचा दृष्टिकोन कसा बदलला?",
+        "answer": "मानव निसर्गाचा केवळ उपभोक्ता न राहता तो उत्पादक बनला."
+    },
+    {
+        "question_id": 144,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील संस्कृतीचे दोन पैलू सांगा.",
+        "answer": "१. पशुपालन २. स्थिर गाव-वसाहती."
+    },
+    {
+        "question_id": 145,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील स्वच्छतेची संकल्पना काय होती?",
+        "answer": "घरे आणि गाव स्वच्छ ठेवणे आणि सांडपाण्याची विल्हेवाट लावणे ही प्राथमिक संकल्पना होती."
+    },
+    {
+        "question_id": 146,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक पावसाचे पाणी कसे वापरत?",
+        "answer": "ते पावसाच्या पाण्यावर आधारित शेती करत असत."
+    },
+    {
+        "question_id": 147,
+        "question_type": "SHORT",
+        "question": "गाव-वसाहतींच्या प्रमुखाचा आदेश सर्वांना का मान्य असे?",
+        "answer": "त्याच्याकडे असलेल्या अनुभवामुळे आणि गावाच्या सुरक्षेसाठी तो आदेश मान्य असे."
+    },
+    {
+        "question_id": 148,
+        "question_type": "SHORT",
+        "question": "नवाश्मयुगातील लोक कशाचे दागिने वापरत असत?",
+        "answer": "मातीचे मणी, हाडे, शंख, शिंपल्यांचे दागिने वापरत असत."
+    },
+    {
+        "question_id": 149,
+        "question_type": "SHORT",
+        "question": "मानवाच्या स्थिर जीवनातील शेवटचा मोठा शोध कोणता?",
+        "answer": "नवाश्मयुगाच्या शेवटी तांब्यासारख्या धातूचा शोध लागणे हा मोठा शोध होता."
+    },
+    {
+        "question_id": 150,
+        "question_type": "SHORT",
+        "question": "स्थिर जीवनामुळे मानवी संस्कृती कशी समृद्ध झाली?",
+        "answer": "नवनवीन कला, तंत्रज्ञान आणि सामाजिक नियमांमुळे मानवी संस्कृती समृद्ध झाली."
+    }
+  ]
+}

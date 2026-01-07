@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 17,
+  "chapter_name": "पुस्तके",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'पुस्तके' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "विठ्ठल वाघ", "is_correct": false },
+        { "option_id": 2, "text": "सफदर हाश्मी", "is_correct": true },
+        { "option_id": 3, "text": "कुसुमाग्रज", "is_correct": false },
+        { "option_id": 4, "text": "शांता शेळके", "is_correct": false }
+      ],
+      "answer": "सफदर हाश्मी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाशी बोलू इच्छितात?",
+      "options": [
+        { "option_id": 1, "text": "पशूंशी", "is_correct": false },
+        { "option_id": 2, "text": "पक्ष्यांशी", "is_correct": false },
+        { "option_id": 3, "text": "तुमच्याशी (मुलांशी)", "is_correct": true },
+        { "option_id": 4, "text": "झाडांशी", "is_correct": false }
+      ],
+      "answer": "तुमच्याशी (मुलांशी)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कोणाचे गाणे असते?",
+      "options": [
+        { "option_id": 1, "text": "नद्यांचे", "is_correct": false },
+        { "option_id": 2, "text": "वाऱ्याचे", "is_correct": false },
+        { "option_id": 3, "text": "निर्झरांचे", "is_correct": true },
+        { "option_id": 4, "text": "पावसाचे", "is_correct": false }
+      ],
+      "answer": "निर्झरांचे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कोणाचे किस्से असतात?",
+      "options": [
+        { "option_id": 1, "text": "परीकथांचे", "is_correct": true },
+        { "option_id": 2, "text": "प्राण्यांचे", "is_correct": false },
+        { "option_id": 3, "text": "मित्रांचे", "is_correct": false },
+        { "option_id": 4, "text": "जंगलाचे", "is_correct": false }
+      ],
+      "answer": "परीकथांचे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाची लख्ख किरणे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राची", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञानाची", "is_correct": true },
+        { "option_id": 3, "text": "सूर्याची", "is_correct": false },
+        { "option_id": 4, "text": "ताऱ्यांची", "is_correct": false }
+      ],
+      "answer": "विज्ञानाची"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचा प्रचंड पसारा आहे?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानाचा", "is_correct": false },
+        { "option_id": 2, "text": "साहित्याचा", "is_correct": false },
+        { "option_id": 3, "text": "रॉकेटचा", "is_correct": true },
+        { "option_id": 4, "text": "खेळांचा", "is_correct": false }
+      ],
+      "answer": "रॉकेटचा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पुस्तके कशाचा भरलेला खजिना आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पैशांचा", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानाचा", "is_correct": true },
+        { "option_id": 3, "text": "गोष्टींचा", "is_correct": false },
+        { "option_id": 4, "text": "सोन्याचा", "is_correct": false }
+      ],
+      "answer": "ज्ञानाचा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवीला पुस्तकांच्या जगात काय करायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "फिरायचे", "is_correct": false },
+        { "option_id": 2, "text": "रहायचे", "is_correct": true },
+        { "option_id": 3, "text": "झोपायचे", "is_correct": false },
+        { "option_id": 4, "text": "काम करायचे", "is_correct": false }
+      ],
+      "answer": "रहायचे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणत्या काळाबद्दल बोलतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ आजच्या", "is_correct": false },
+        { "option_id": 2, "text": "येणाऱ्या उद्याच्या", "is_correct": false },
+        { "option_id": 3, "text": "गेलेल्या कालच्या, आजच्या आणि उद्याच्या", "is_correct": true },
+        { "option_id": 4, "text": "केवळ कालच्या", "is_correct": false }
+      ],
+      "answer": "गेलेल्या कालच्या, आजच्या आणि उद्याच्या"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाची गाणी उमलतात?",
+      "options": [
+        { "option_id": 1, "text": "झाडांची", "is_correct": false },
+        { "option_id": 2, "text": "फुलांची", "is_correct": true },
+        { "option_id": 3, "text": "वेलींची", "is_correct": false },
+        { "option_id": 4, "text": "पानांची", "is_correct": false }
+      ],
+      "answer": "फुलांची"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाबद्दल सांगतात?",
+      "options": [
+        { "option_id": 1, "text": "जिंकल्याबद्दल आणि हारल्याबद्दल", "is_correct": true },
+        { "option_id": 2, "text": "फक्त आनंदाबद्दल", "is_correct": false },
+        { "option_id": 3, "text": "फक्त दुःखाबद्दल", "is_correct": false },
+        { "option_id": 4, "text": "पैशांबद्दल", "is_correct": false }
+      ],
+      "answer": "जिंकल्याबद्दल आणि हारल्याबद्दल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पुस्तके आपल्याजवळ काय राहू इच्छितात?",
+      "options": [
+        { "option_id": 1, "text": "दूर", "is_correct": false },
+        { "option_id": 2, "text": "जवळ", "is_correct": true },
+        { "option_id": 3, "text": "घरात", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "जवळ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पुस्तके कशाचा आवाज ऐकवतात?",
+      "options": [
+        { "option_id": 1, "text": "रेडिओचा", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञानाचा", "is_correct": true },
+        { "option_id": 3, "text": "टीव्हीचा", "is_correct": false },
+        { "option_id": 4, "text": "मोबाईलचा", "is_correct": false }
+      ],
+      "answer": "विज्ञानाचा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाच्या आठवणी सांगतात?",
+      "options": [
+        { "option_id": 1, "text": "शूरवीरांच्या", "is_correct": false },
+        { "option_id": 2, "text": "माणसांच्या", "is_correct": true },
+        { "option_id": 3, "text": "देवतांच्या", "is_correct": false },
+        { "option_id": 4, "text": "नेत्यांच्या", "is_correct": false }
+      ],
+      "answer": "माणसांच्या"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पुस्तके वाचल्यामुळे आपल्याला कशाची माहिती मिळते?",
+      "options": [
+        { "option_id": 1, "text": "जगाची", "is_correct": true },
+        { "option_id": 2, "text": "केवळ गावाची", "is_correct": false },
+        { "option_id": 3, "text": "केवळ घराची", "is_correct": false },
+        { "option_id": 4, "text": "दुकानाची", "is_correct": false }
+      ],
+      "answer": "जगाची"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "निर्झर या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "धबधबा/झरा", "is_correct": true },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "तलाव", "is_correct": false }
+      ],
+      "answer": "धबधबा/झरा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाबद्दल सांगत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "युद्धाबद्दल", "is_correct": false },
+        { "option_id": 2, "text": "शांततेबद्दल", "is_correct": false },
+        { "option_id": 3, "text": "द्वेषाबद्दल", "is_correct": true },
+        { "option_id": 4, "text": "प्रेमाबद्दल", "is_correct": false }
+      ],
+      "answer": "द्वेषाबद्दल"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचा सुगंध असतो?",
+      "options": [
+        { "option_id": 1, "text": "अत्तराचा", "is_correct": false },
+        { "option_id": 2, "text": "फुलांचा", "is_correct": true },
+        { "option_id": 3, "text": "मातीचा", "is_correct": false },
+        { "option_id": 4, "text": "चंदनाचा", "is_correct": false }
+      ],
+      "answer": "फुलांचा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पुस्तकांमध्ये काय दडलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "गूढ रहस्ये आणि ज्ञान", "is_correct": true },
+        { "option_id": 3, "text": "खाऊ", "is_correct": false },
+        { "option_id": 4, "text": "कागद", "is_correct": false }
+      ],
+      "answer": "गूढ रहस्ये आणि ज्ञान"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पुस्तके काय करत राहतात?",
+      "options": [
+        { "option_id": 1, "text": "गुणगुणत राहतात", "is_correct": true },
+        { "option_id": 2, "text": "रडत राहतात", "is_correct": false },
+        { "option_id": 3, "text": "ओरडत राहतात", "is_correct": false },
+        { "option_id": 4, "text": "झोपून राहतात", "is_correct": false }
+      ],
+      "answer": "गुणगुणत राहतात"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पुस्तकांशिवाय आपले जीवन कसे असेल?",
+      "options": [
+        { "option_id": 1, "text": "समृद्ध", "is_correct": false },
+        { "option_id": 2, "text": "अपूर्ण आणि अज्ञानी", "is_correct": true },
+        { "option_id": 3, "text": "आनंदी", "is_correct": false },
+        { "option_id": 4, "text": "सोपे", "is_correct": false }
+      ],
+      "answer": "अपूर्ण आणि अज्ञानी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "परीकथांच्या विश्वात कोण नेते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तके", "is_correct": true },
+        { "option_id": 3, "text": "मित्र", "is_correct": false },
+        { "option_id": 4, "text": "पालक", "is_correct": false }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लख्ख या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ", "is_correct": false },
+        { "option_id": 2, "text": "अंधुक/काळोख", "is_correct": true },
+        { "option_id": 3, "text": "पांढरा", "is_correct": false },
+        { "option_id": 4, "text": "तेजस्वी", "is_correct": false }
+      ],
+      "answer": "अंधुक/काळोख"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाचे भविष्य उलगडतात?",
+      "options": [
+        { "option_id": 1, "text": "मानवाचे", "is_correct": true },
+        { "option_id": 2, "text": "प्राण्यांचे", "is_correct": false },
+        { "option_id": 3, "text": "निसर्गाचे", "is_correct": false },
+        { "option_id": 4, "text": "देवांचे", "is_correct": false }
+      ],
+      "answer": "मानवाचे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खजिना या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "डबा", "is_correct": false },
+        { "option_id": 2, "text": "साठा/संपत्ती", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "साठा/संपत्ती"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कवितेत 'झिरपतात' या अर्थाचा शब्द कोणता आला आहे?",
+      "options": [
+        { "option_id": 1, "text": "उमलतात", "is_correct": false },
+        { "option_id": 2, "text": "सांडतात", "is_correct": false },
+        { "option_id": 3, "text": "झिरपते", "is_correct": true },
+        { "option_id": 4, "text": "वाहतात", "is_correct": false }
+      ],
+      "answer": "झिरपते"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पुस्तके काय गातात?",
+      "options": [
+        { "option_id": 1, "text": "सिनेमाची गाणी", "is_correct": false },
+        { "option_id": 2, "text": "निर्झरांचे गाणे", "is_correct": true },
+        { "option_id": 3, "text": "पोवाडे", "is_correct": false },
+        { "option_id": 4, "text": "अभंग", "is_correct": false }
+      ],
+      "answer": "निर्झरांचे गाणे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाची धार असते?",
+      "options": [
+        { "option_id": 1, "text": "तलवारीची", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञानाची", "is_correct": false },
+        { "option_id": 3, "text": "पावसाच्या धारा (निर्झरांच्या)", "is_correct": true },
+        { "option_id": 4, "text": "चाकूची", "is_correct": false }
+      ],
+      "answer": "पावसाच्या धारा (निर्झरांच्या)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पुस्तके वाचल्याने काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "वजन", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञान", "is_correct": true },
+        { "option_id": 3, "text": "उंची", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पुस्तके ही आपली कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शत्रू", "is_correct": false },
+        { "option_id": 2, "text": "मित्र", "is_correct": true },
+        { "option_id": 3, "text": "पाहुणे", "is_correct": false },
+        { "option_id": 4, "text": "सेवक", "is_correct": false }
+      ],
+      "answer": "मित्र"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचे जग आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्वप्नांचे", "is_correct": false },
+        { "option_id": 2, "text": "शब्दांचे", "is_correct": true },
+        { "option_id": 3, "text": "अंधाराचे", "is_correct": false },
+        { "option_id": 4, "text": "युद्धाचे", "is_correct": false }
+      ],
+      "answer": "शब्दांचे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोठे नेतात?",
+      "options": [
+        { "option_id": 1, "text": "बागेत", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानाच्या प्रवासात", "is_correct": true },
+        { "option_id": 3, "text": "बाजारामध्ये", "is_correct": false },
+        { "option_id": 4, "text": "सिनेमाघरात", "is_correct": false }
+      ],
+      "answer": "ज्ञानाच्या प्रवासात"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचा प्रकाश असतो?",
+      "options": [
+        { "option_id": 1, "text": "बल्बचा", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञानाचा", "is_correct": true },
+        { "option_id": 3, "text": "टॉर्चचा", "is_correct": false },
+        { "option_id": 4, "text": "पणतीचा", "is_correct": false }
+      ],
+      "answer": "विज्ञानाचा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पुस्तके काय सांगत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "खोटेपणा", "is_correct": true },
+        { "option_id": 2, "text": "इतिहास", "is_correct": false },
+        { "option_id": 3, "text": "विमान", "is_correct": false },
+        { "option_id": 4, "text": "शेती", "is_correct": false }
+      ],
+      "answer": "खोटेपणा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाचे अश्रू पुसतात?",
+      "options": [
+        { "option_id": 1, "text": "दुःखी माणसांचे", "is_correct": true },
+        { "option_id": 2, "text": "आनंदी लोकांचे", "is_correct": false },
+        { "option_id": 3, "text": "प्राण्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "झाडांचे", "is_correct": false }
+      ],
+      "answer": "दुःखी माणसांचे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचा धबधबा असतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानाचा", "is_correct": true },
+        { "option_id": 3, "text": "दुधाचा", "is_correct": false },
+        { "option_id": 4, "text": "रंगीत पाण्याचा", "is_correct": false }
+      ],
+      "answer": "ज्ञानाचा"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पुस्तके कधी वाचली पाहिजेत?",
+      "options": [
+        { "option_id": 1, "text": "फक्त परीक्षेवेळी", "is_correct": false },
+        { "option_id": 2, "text": "नेहमी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त रविवारी", "is_correct": false },
+        { "option_id": 4, "text": "कधीच नाही", "is_correct": false }
+      ],
+      "answer": "नेहमी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पुस्तकांचे पान काय करते?",
+      "options": [
+        { "option_id": 1, "text": "बोलते", "is_correct": true },
+        { "option_id": 2, "text": "चावते", "is_correct": false },
+        { "option_id": 3, "text": "रडते", "is_correct": false },
+        { "option_id": 4, "text": "ओरडते", "is_correct": false }
+      ],
+      "answer": "बोलते"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पुस्तके कशाचे प्रतीक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानाचे", "is_correct": true },
+        { "option_id": 2, "text": "अज्ञानाचे", "is_correct": false },
+        { "option_id": 3, "text": "गरीबीचे", "is_correct": false },
+        { "option_id": 4, "text": "युद्धाचे", "is_correct": false }
+      ],
+      "answer": "ज्ञानाचे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचे प्रतिबिंब दिसते?",
+      "options": [
+        { "option_id": 1, "text": "समाजाचे", "is_correct": true },
+        { "option_id": 2, "text": "आरशाचे", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याचे", "is_correct": false },
+        { "option_id": 4, "text": "काचेचे", "is_correct": false }
+      ],
+      "answer": "समाजाचे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाची दुनिया असते?",
+      "options": [
+        { "option_id": 1, "text": "शब्दांची", "is_correct": true },
+        { "option_id": 2, "text": "दगडांची", "is_correct": false },
+        { "option_id": 3, "text": "लोखंडाची", "is_correct": false },
+        { "option_id": 4, "text": "वाळूची", "is_correct": false }
+      ],
+      "answer": "शब्दांची"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पुस्तके कोणाचे स्वप्न पूर्ण करतात?",
+      "options": [
+        { "option_id": 1, "text": "मुलांचे", "is_correct": true },
+        { "option_id": 2, "text": "पुस्तकांचे स्वतःचे", "is_correct": false },
+        { "option_id": 3, "text": "खिडकीचे", "is_correct": false },
+        { "option_id": 4, "text": "दाराचे", "is_correct": false }
+      ],
+      "answer": "मुलांचे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पुस्तके आपल्याला कोणाकडे नेतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशाकडे", "is_correct": true },
+        { "option_id": 2, "text": "अंधाराकडे", "is_correct": false },
+        { "option_id": 3, "text": "पाताळाकडे", "is_correct": false },
+        { "option_id": 4, "text": "स्मशानाकडे", "is_correct": false }
+      ],
+      "answer": "प्रकाशाकडे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाची गोष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "विज्ञानाची", "is_correct": true },
+        { "option_id": 2, "text": "रुसवे-फुगवे यांची", "is_correct": false },
+        { "option_id": 3, "text": "झोपण्याची", "is_correct": false },
+        { "option_id": 4, "text": "खाण्याची", "is_correct": false }
+      ],
+      "answer": "विज्ञानाची"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पुस्तके कशाचा सागर आहेत?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानाचा", "is_correct": true },
+        { "option_id": 2, "text": "दुःखाचा", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याचा", "is_correct": false },
+        { "option_id": 4, "text": "तेलाचा", "is_correct": false }
+      ],
+      "answer": "ज्ञानाचा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पुस्तकांचे मुख्य कार्य काय?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञान देणे", "is_correct": true },
+        { "option_id": 2, "text": "वजन वाढवणे", "is_correct": false },
+        { "option_id": 3, "text": "कपाट भरणे", "is_correct": false },
+        { "option_id": 4, "text": "कागद खराब करणे", "is_correct": false }
+      ],
+      "answer": "ज्ञान देणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पुस्तके काय उलगडतात?",
+      "options": [
+        { "option_id": 1, "text": "गुपिते", "is_correct": true },
+        { "option_id": 2, "text": "जेवण", "is_correct": false },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "रस्ते", "is_correct": false }
+      ],
+      "answer": "गुपिते"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "पुस्तकात कशाचा खजिना दडलेला असतो?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानाचा", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यांचा", "is_correct": false },
+        { "option_id": 3, "text": "मोबाईलचा", "is_correct": false },
+        { "option_id": 4, "text": "टीव्हीचा", "is_correct": false }
+      ],
+      "answer": "ज्ञानाचा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पुस्तके वाचल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "बुद्धी वाढते", "is_correct": true },
+        { "option_id": 2, "text": "झोप येते", "is_correct": false },
+        { "option_id": 3, "text": "भूक लागते", "is_correct": false },
+        { "option_id": 4, "text": "थकवा येतो", "is_correct": false }
+      ],
+      "answer": "बुद्धी वाढते"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पुस्तके कशासाठी असतात?",
+      "options": [
+        { "option_id": 1, "text": "वाचण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "फेकून देण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "फाडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "विकण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वाचण्यासाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाबद्दल सांगतात?",
+      "answer": "पुस्तके माणसांच्या आठवणींबद्दल, जगाबद्दल, विजयाबद्दल आणि पराजयाबद्दल सांगतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याजवळ का राहू इच्छितात?",
+      "answer": "पुस्तके आपल्याला ज्ञान देण्यासाठी आणि आपल्याशी संवाद साधण्यासाठी आपल्याजवळ राहू इच्छितात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची गाणी आहेत?",
+      "answer": "पुस्तकात निर्झरांच्या प्रवाहाची आणि शब्दांची गाणी आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "विज्ञानाचा प्रकाश कोठे आहे?",
+      "answer": "विज्ञानाचा प्रकाश पुस्तकांमध्ये दडलेला आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "परीकथांचे किस्से कोठे वाचायला मिळतात?",
+      "answer": "परीकथांचे किस्से पुस्तकांमध्ये वाचायला मिळतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाशी बोलू इच्छितात?",
+      "answer": "पुस्तके तुम्हा मुलांशी बोलू इच्छितात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा पसारा आहे?",
+      "answer": "पुस्तकात रॉकेटचा आणि विज्ञानाचा प्रचंड पसारा आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पुस्तके कशाचा खजिना आहेत?",
+      "answer": "पुस्तके ज्ञानाचा भरलेला खजिना आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवीला पुस्तकांच्या जगात का राहायचे आहे?",
+      "answer": "कारण पुस्तकांचे जग ज्ञानाने, आनंदाने आणि रहस्यांनी भरलेले आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणत्या काळाचा इतिहास सांगतात?",
+      "answer": "पुस्तके गेलेला काल, आजचा काळ आणि येणारा भविष्यकाळ या सर्वांचा इतिहास सांगतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा सुगंध दडलेला असतो?",
+      "answer": "पुस्तकात फुलांसारख्या सुंदर विचारांचा सुगंध दडलेला असतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पुस्तके वाचल्याने काय फायदा होतो?",
+      "answer": "पुस्तके वाचल्याने आपले ज्ञान वाढते आणि जगाची ओळख होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "निर्झर या शब्दाचा अर्थ सांगा.",
+      "answer": "निर्झर म्हणजे झरा किंवा धबधबा होय."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय गुणगुणतात?",
+      "answer": "पुस्तके जीवनातील विविध अनुभव आणि ज्ञान गुणगुणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पुस्तकांमध्ये कशाच्या आठवणी असतात?",
+      "answer": "पुस्तकांमध्ये थोर माणसांच्या, शोधांच्या आणि संस्कृतीच्या आठवणी असतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला कोणाकडे नेतात?",
+      "answer": "पुस्तके आपल्याला अज्ञानाकडून ज्ञानाच्या प्रकाशाकडे नेतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे महत्त्व दोन वाक्यात सांगा.",
+      "answer": "पुस्तके ज्ञानाचे भंडार आहेत. ती माणसाला सुसंस्कृत आणि प्रगत बनवतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा धबधबा वाहतो?",
+      "answer": "पुस्तकात ज्ञानाचा आणि माहितीचा धबधबा वाहतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे अश्रू पुसतात?",
+      "answer": "पुस्तके दुःखी आणि एकाकी माणसांचे अश्रू पुसून त्यांना उमेद देतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "विज्ञानाची लख्ख किरणे म्हणजे काय?",
+      "answer": "विज्ञानामुळे मिळालेले नवीन शोध आणि प्रकाश म्हणजे लख्ख किरणे होत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाबद्दल सांगत नाहीत?",
+      "answer": "पुस्तके द्वेष, मत्सर आणि वाईट गोष्टींबद्दल सकारात्मकतेने सांगत नाहीत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवीने पुस्तकांना काय म्हटले आहे?",
+      "answer": "कवीने पुस्तकांना माणसांशी बोलणारे मित्र आणि ज्ञानाचा खजिना म्हटले आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे जग कसे आहे?",
+      "answer": "पुस्तकांचे जग अफाट, वैविध्यपूर्ण आणि माहितीने समृद्ध आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पुस्तकामुळे आपल्याला कशाची ओळख होते?",
+      "answer": "पुस्तकामुळे आपल्याला जगाच्या इतिहासाची, विज्ञानाची आणि मानवी मूल्यांची ओळख होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय उलगडतात?",
+      "answer": "पुस्तके निसर्गाची आणि विज्ञानाची गुपिते उलगडतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पुस्तके वाचल्याने मनावर काय परिणाम होतो?",
+      "answer": "पुस्तके वाचल्याने मन प्रसन्न होते आणि विचारांची प्रगल्भता वाढते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची दुनिया असते?",
+      "answer": "पुस्तकात शब्दांची, कल्पनेची आणि वास्तवाची दुनिया असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपली साथ कधी देतात?",
+      "answer": "पुस्तके आपण जेव्हा एकाकी असतो किंवा ज्ञानाची गरज असते तेव्हा साथ देतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पुस्तकांमुळे भविष्याचा वेध कसा घेता येतो?",
+      "answer": "पुस्तकातील माहिती आणि विज्ञानामुळे आपण येणाऱ्या काळाचे नियोजन करू शकतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय शिकवतात?",
+      "answer": "पुस्तके आपल्याला प्रेम, शांती, धैर्य आणि माणुसकी शिकवतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पुस्तके फाडू नयेत, का?",
+      "answer": "कारण पुस्तकात ज्ञान असते आणि ती पुढच्या पिढीसाठी जपून ठेवणे गरजेचे असते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वाचाल तर वाचाल याचा अर्थ काय?",
+      "answer": "जर तुम्ही पुस्तके वाचली तरच तुम्ही जीवनात प्रगती कराल आणि टिकून राहाल."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कोणाचे पराक्रम असतात?",
+      "answer": "पुस्तकात शूरवीर आणि महान व्यक्तींचे पराक्रम असतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पुस्तके वाचण्याचे आवडते ठिकाण कोणते असू शकते?",
+      "answer": "ग्रंथालय, शाळा किंवा घराचा शांत कोपरा हे पुस्तके वाचण्याचे उत्तम ठिकाण असू शकते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय उघडून दाखवतात?",
+      "answer": "पुस्तके ज्ञानाची दारे उघडून दाखवतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे स्वप्न उजळतात?",
+      "answer": "पुस्तके जिज्ञासू विद्यार्थ्यांचे स्वप्न उजळतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा साठा असतो?",
+      "answer": "पुस्तकात अनुभवांचा आणि माहितीचा मोठा साठा असतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाशी संवाद साधतात?",
+      "answer": "पुस्तके प्रत्येक वाचकाशी वैयक्तिकरित्या संवाद साधतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्या जीवनातील काय दूर करतात?",
+      "answer": "पुस्तके आपल्या जीवनातील अज्ञानाचा अंधार दूर करतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे मित्र होण्यासाठी काय करावे लागेल?",
+      "answer": "पुस्तकांचे मित्र होण्यासाठी नियमित वाचन करण्याची सवय लावावी लागेल."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा आरसा असतो?",
+      "answer": "पुस्तकात मानवी जीवनाचा आणि संस्कृतीचा आरसा असतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय देऊ शकतात?",
+      "answer": "पुस्तके आपल्याला विचार करण्याची शक्ती आणि नवे दृष्टिकोन देऊ शकतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पुस्तके का वाचायची?",
+      "answer": "स्वतःचा सर्वांगीण विकास करण्यासाठी आणि जगाला समजून घेण्यासाठी पुस्तके वाचायची."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे मनोरंजन करतात?",
+      "answer": "पुस्तके वाचनवेड्या लोकांचे आणि मुलांचे मनोरंजन करतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा प्रवास असतो?",
+      "answer": "पुस्तकात आदिमानवापासून ते आधुनिक मानवापर्यंतचा प्रवास असतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय सांगतात?",
+      "answer": "पुस्तके प्रगतीची गाथा आणि संघर्षाची कहाणी सांगतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाची भूक भागवतात?",
+      "answer": "पुस्तके ज्ञानाची भूक असलेल्या लोकांची भूक भागवतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे पान पलटणे म्हणजे काय?",
+      "answer": "पुस्तकांचे पान पलटणे म्हणजे ज्ञानाच्या एका नवीन विश्वात प्रवेश करणे होय."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय बनवतात?",
+      "answer": "पुस्तके आपल्याला सुशिक्षित आणि सुसंस्कृत नागरिक बनवतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे जग कसे आहे?",
+      "answer": "पुस्तकांचे जग अनंत आणि कधीही न संपणारे आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "पुस्तकांमध्ये कशाची गुपिते आहेत?",
+      "answer": "पुस्तकांमध्ये निसर्गाची, विज्ञानाची आणि मानवी मनाची गुपिते आहेत."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाला आनंद देतात?",
+      "answer": "पुस्तके अबालवृद्धांना (लहानांपासून मोठ्यांपर्यंत) आनंद देतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोठे जतन केली जातात?",
+      "answer": "पुस्तके ग्रंथालयात, संग्रहालयात आणि आपल्या मनाच्या कोपऱ्यात जतन केली जातात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची पेरणी असते?",
+      "answer": "पुस्तकात चांगल्या विचारांची पेरणी असते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे मार्गदर्शक आहेत?",
+      "answer": "पुस्तके विद्यार्थ्यांचे आणि जीवनात यशस्वी होऊ इच्छिणाऱ्यांचे मार्गदर्शक आहेत."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय जोडतात?",
+      "answer": "पुस्तके माणसाला माणसाशी आणि संस्कृतीला संस्कृतीशी जोडतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा हुंकार असतो?",
+      "answer": "पुस्तकात स्वातंत्र्याचा आणि क्रांतीचा हुंकार असतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय करण्यासाठी प्रवृत्त करतात?",
+      "answer": "पुस्तके आपल्याला विचार करण्यासाठी आणि कृती करण्यासाठी प्रवृत्त करतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे मोल कशात आहे?",
+      "answer": "पुस्तकांचे मोल त्यातील माहितीमध्ये आणि ती माहिती अमलात आणण्यामध्ये आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय निर्माण करतात?",
+      "answer": "पुस्तके नवा समाज आणि नवी पिढी निर्माण करतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची शाळा भरते?",
+      "answer": "पुस्तकात अनुभवांची आणि ज्ञानाची शाळा भरते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे स्वप्न सत्यात उतरवतात?",
+      "answer": "पुस्तके ध्येयवेड्या तरुणांचे स्वप्न सत्यात उतरवण्यास मदत करतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचे अमृत असते?",
+      "answer": "पुस्तकात ज्ञानाचे आणि विचारांचे अमृत असते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाला धीर देतात?",
+      "answer": "पुस्तके संकटात असलेल्या आणि अपयशी ठरलेल्या लोकांना धीर देतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "पुस्तके काय विसरायला लावतात?",
+      "answer": "पुस्तके दुःख आणि एकाकीपणा विसरायला लावतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा सुगंध दरवळतो?",
+      "answer": "पुस्तकात माणुसकीचा आणि प्रेमाचा सुगंध दरवळतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला कोणाशी ओळख करून देतात?",
+      "answer": "पुस्तके आपल्याला स्वतःची आणि जगाची ओळख करून देतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची खाण असते?",
+      "answer": "पुस्तकात अमूल्य अशा ज्ञानाची खाण असते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला कोठून कोठे नेतात?",
+      "answer": "पुस्तके आपल्याला अज्ञानाच्या अंधारातून विज्ञानाच्या प्रकाशाकडे नेतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे सोबती आहेत?",
+      "answer": "पुस्तके प्रत्येक वाचकाचे जन्मभराचे सोबती आहेत."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा मेळा भरतो?",
+      "answer": "पुस्तकात शब्दांचा आणि कल्पनांचा मेळा भरतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय समृद्ध करतात?",
+      "answer": "पुस्तके आपली कल्पनाशक्ती आणि शब्दसंपत्ती समृद्ध करतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा खजिना असतो?",
+      "answer": "पुस्तकात मानवी प्रगतीचा खजिना असतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय संदेश देतात?",
+      "answer": "पुस्तके आपल्याला नेहमी शिकत राहण्याचा आणि प्रगती करण्याचा संदेश देतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे जग कसे अफाट आहे?",
+      "answer": "पुस्तकांमध्ये पृथ्वीपासून अवकाशापर्यंतची सर्व माहिती असल्यामुळे ते अफाट आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे प्रेरणास्थान आहेत?",
+      "answer": "पुस्तके शास्त्रज्ञ, लेखक आणि महान नेत्यांचे प्रेरणास्थान आहेत."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा झरा वाहतो?",
+      "answer": "पुस्तकात ज्ञानाचा आणि चैतन्याचा झरा वाहतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय शोधायला लावतात?",
+      "answer": "पुस्तके आपल्याला सत्याचा मार्ग शोधायला लावतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे आयुष्य किती असते?",
+      "answer": "पुस्तकातील ज्ञान अमर असते, ते पिढ्यानपिढ्या जिवंत राहते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे मनोरंजन करतात?",
+      "answer": "पुस्तके रिकाम्या वेळेत माणसाचे निखळ मनोरंजन करतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचे संचित असते?",
+      "answer": "पुस्तकात पूर्वजांच्या अनुभवांचे आणि विचारांचे संचित असते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय देण्यास समर्थ आहेत?",
+      "answer": "पुस्तके आपल्याला जगातील कोणत्याही विषयाची माहिती देण्यास समर्थ आहेत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे शस्त्र आहेत?",
+      "answer": "पुस्तके हे अन्यायाविरुद्ध लढण्याचे सर्वात मोठे वैचारिक शस्त्र आहेत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची जादू असते?",
+      "answer": "पुस्तकात कल्पनेच्या भरारीची आणि शब्दांच्या सौंदर्याची जादू असते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय आठवण करून देतात?",
+      "answer": "पुस्तके आपल्याला आपल्या कर्तव्याची आणि मानवी मूल्यांची आठवण करून देतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे दीपस्तंभ आहेत?",
+      "answer": "पुस्तके अज्ञानाच्या महासागरात भरकटलेल्यांसाठी दीपस्तंभ आहेत."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची गुंफण असते?",
+      "answer": "पुस्तकात विविध भावभावनांची आणि विचारांची गुंफण असते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय प्राप्त करून देतात?",
+      "answer": "पुस्तके आपल्याला मानसिक समाधान आणि बौद्धिक आनंद प्राप्त करून देतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे जीवन बदलतात?",
+      "answer": "पुस्तके त्यातील विचारांचे पालन करणाऱ्या प्रत्येक व्यक्तीचे जीवन बदलतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा प्रकाश किरण दडलेला आहे?",
+      "answer": "पुस्तकात आशेचा आणि प्रगतीचा प्रकाश किरण दडलेला आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे भूषण आहेत?",
+      "answer": "पुस्तके सुसंस्कृत समाजाचे आणि घराचे भूषण आहेत."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाची साठवणूक असते?",
+      "answer": "पुस्तकात मानवी संस्कृतीच्या इतिहासाची साठवणूक असते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय पाहण्याची दृष्टी देतात?",
+      "answer": "पुस्तके आपल्याला जगाकडे पाहण्याची एक नवीन आणि निकोप दृष्टी देतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे सामर्थ्य वाढवतात?",
+      "answer": "पुस्तके सामान्य माणसाचे बौद्धिक सामर्थ्य वाढवतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा सुगंध असतो?",
+      "answer": "पुस्तकात नव्या विचारांचा आणि सृजनशीलतेचा सुगंध असतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय करण्यास सांगतात?",
+      "answer": "पुस्तके आपल्याला संकटावर मात करून पुढे जाण्यास सांगतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पुस्तके कोणाचे मित्र आहेत?",
+      "answer": "पुस्तके एकटेपणा अनुभवणाऱ्या आणि जिज्ञासू वृत्तीच्या लोकांचे मित्र आहेत."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पुस्तकात कशाचा आविष्कार असतो?",
+      "answer": "पुस्तकात मानवी बुद्धिमत्तेचा आणि कल्पनाशक्तीचा आविष्कार असतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "पुस्तके आपल्याला काय विसरू देत नाहीत?",
+      "answer": "पुस्तके आपल्याला आपला वारसा आणि आपली मुळे विसरू देत नाहीत."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पुस्तकांचे जग कसे असावे?",
+      "answer": "पुस्तकांचे जग सर्वांसाठी खुले आणि समृद्ध असावे."
+    }
+  ]
+}

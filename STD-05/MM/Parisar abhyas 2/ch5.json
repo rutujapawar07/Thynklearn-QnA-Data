@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 5,
+  "chapter_name": "मानवाची वाटचाल आणि दगडी हत्यारे",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कुशल मानवाला हे नाव कोणी दिले?",
+      "options": [
+        { "option_id": 1, "text": "लुई लिकी", "is_correct": true },
+        { "option_id": 2, "text": "चार्ल्स डार्विन", "is_correct": false },
+        { "option_id": 3, "text": "अलेक्झांडर", "is_correct": false },
+        { "option_id": 4, "text": "न्यूटन", "is_correct": false }
+      ],
+      "answer": "लुई लिकी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'होमो हॅबिलिस' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "बुद्धिमान मानव", "is_correct": false },
+        { "option_id": 2, "text": "हातांचा कुशलतेने वापर करणारा मानव", "is_correct": true },
+        { "option_id": 3, "text": "ताठ चालणारा मानव", "is_correct": false },
+        { "option_id": 4, "text": "धावणारा मानव", "is_correct": false }
+      ],
+      "answer": "हातांचा कुशलतेने वापर करणारा मानव"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कुशल मानवाचे अवशेष कोठे सापडले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "आशिया", "is_correct": false },
+        { "option_id": 2, "text": "युरोप", "is_correct": false },
+        { "option_id": 3, "text": "आफ्रिका खंडातील टांझानिया आणि केनिया", "is_correct": true },
+        { "option_id": 4, "text": "अमेरिका", "is_correct": false }
+      ],
+      "answer": "आफ्रिका खंडातील टांझानिया आणि केनिया"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ताठ चालणाऱ्या मानवाच्या अवशेषांना काय नाव दिले गेले आहे?",
+      "options": [
+        { "option_id": 1, "text": "होमो हॅबिलिस", "is_correct": false },
+        { "option_id": 2, "text": "होमो इरेक्टस", "is_correct": true },
+        { "option_id": 3, "text": "होमो सेपियन", "is_correct": false },
+        { "option_id": 4, "text": "नियंडरथल", "is_correct": false }
+      ],
+      "answer": "होमो इरेक्टस"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मानवाच्या उत्क्रांतीतील कोणता टप्पा 'अग्नीचा वापर' करण्याशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "कुशल मानव", "is_correct": false },
+        { "option_id": 2, "text": "ताठ चालणारा मानव (होमो इरेक्टस)", "is_correct": true },
+        { "option_id": 3, "text": "एप माकड", "is_correct": false },
+        { "option_id": 4, "text": "एकपेशीय जीव", "is_correct": false }
+      ],
+      "answer": "ताठ चालणारा मानव (होमो इरेक्टस)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "शक्तिमान मानवाचे अवशेष पहिल्यांदा कोठे सापडले?",
+      "options": [
+        { "option_id": 1, "text": "जर्मनीतील 'नियंडरथल' येथे", "is_correct": true },
+        { "option_id": 2, "text": "फ्रान्समध्ये", "is_correct": false },
+        { "option_id": 3, "text": "भारतात", "is_correct": false },
+        { "option_id": 4, "text": "चीनमध्ये", "is_correct": false }
+      ],
+      "answer": "जर्मनीतील 'नियंडरथल' येथे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "होमो सेपियन (Homo Sapiens) ला मराठीत काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कुशल मानव", "is_correct": false },
+        { "option_id": 2, "text": "ताठ मानव", "is_correct": false },
+        { "option_id": 3, "text": "बुद्धिमान मानव", "is_correct": true },
+        { "option_id": 4, "text": "शक्तिमान मानव", "is_correct": false }
+      ],
+      "answer": "बुद्धिमान मानव"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "युगाचे नाव कशावरून पडते?",
+      "options": [
+        { "option_id": 1, "text": "माणसाच्या उंचीवरून", "is_correct": false },
+        { "option_id": 2, "text": "वापरलेल्या हत्यारांच्या प्रकारावरून", "is_correct": true },
+        { "option_id": 3, "text": "राहण्याच्या ठिकाणावरून", "is_correct": false },
+        { "option_id": 4, "text": "पावसाच्या प्रमाणावरून", "is_correct": false }
+      ],
+      "answer": "वापरलेल्या हत्यारांच्या प्रकारावरून"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अश्मयुगाचे किती भाग केले जातात?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन (पुराश्मयुग, मध्याश्मयुग, नवाश्मयुग)", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन (पुराश्मयुग, मध्याश्मयुग, नवाश्मयुग)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'अश्म' या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "दगड", "is_correct": true },
+        { "option_id": 3, "text": "लोखंड", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "दगड"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आघात तंत्राचा वापर कोणत्या युगात सुरू झाला?",
+      "options": [
+        { "option_id": 1, "text": "लोहयुग", "is_correct": false },
+        { "option_id": 2, "text": "पुराश्मयुग", "is_correct": true },
+        { "option_id": 3, "text": "ताम्रयुग", "is_correct": false },
+        { "option_id": 4, "text": "आधुनिक युग", "is_correct": false }
+      ],
+      "answer": "पुराश्मयुग"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हातकुऱ्हाड हे कोणत्या मानवाचे प्रमुख हत्यार होते?",
+      "options": [
+        { "option_id": 1, "text": "ताठ चालणारा मानव (होमो इरेक्टस)", "is_correct": true },
+        { "option_id": 2, "text": "कुशल मानव", "is_correct": false },
+        { "option_id": 3, "text": "आधुनिक मानव", "is_correct": false },
+        { "option_id": 4, "text": "एप माकड", "is_correct": false }
+      ],
+      "answer": "ताठ चालणारा मानव (होमो इरेक्टस)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शक्तिमान मानवाने हत्यारे कशापासून तयार केली होती?",
+      "options": [
+        { "option_id": 1, "text": "केवळ लाकडापासून", "is_correct": false },
+        { "option_id": 2, "text": "दगडाचे छिलके आणि हाडांपासून", "is_correct": true },
+        { "option_id": 3, "text": "काचेपासून", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकपासून", "is_correct": false }
+      ],
+      "answer": "दगडाचे छिलके आणि हाडांपासून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बुद्धिमान मानवाने गारगोटीच्या दगडांपासून काय तयार केले?",
+      "options": [
+        { "option_id": 1, "text": "लांब आणि पातळ पाती", "is_correct": true },
+        { "option_id": 2, "text": "फक्त गोळे", "is_correct": false },
+        { "option_id": 3, "text": "मोठी चाके", "is_correct": false },
+        { "option_id": 4, "text": "दगडी मूर्ती", "is_correct": false }
+      ],
+      "answer": "लांब आणि पातळ पाती"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मध्याश्मयुगातील मानवाने कोणत्या प्राण्याला पाळले होते?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "कुत्रा", "is_correct": true },
+        { "option_id": 3, "text": "सिंह", "is_correct": false },
+        { "option_id": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "कुत्रा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "लघुअश्मे (Microliths) म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "खूप मोठी हत्यारे", "is_correct": false },
+        { "option_id": 2, "text": "अत्यंत लहान आकाराची दगडी हत्यारे", "is_correct": true },
+        { "option_id": 3, "text": "लोखंडी खिळे", "is_correct": false },
+        { "option_id": 4, "text": "दगडी घरे", "is_correct": false }
+      ],
+      "answer": "अत्यंत लहान आकाराची दगडी हत्यारे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "घासून गुळगुळीत केलेली दगडी हत्यारे कोणत्या युगाचे वैशिष्ट्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुराश्मयुग", "is_correct": false },
+        { "option_id": 2, "text": "मध्याश्मयुग", "is_correct": false },
+        { "option_id": 3, "text": "नवाश्मयुग", "is_correct": true },
+        { "option_id": 4, "text": "लोहयुग", "is_correct": false }
+      ],
+      "answer": "नवाश्मयुग"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मानव स्थिर जीवन कोठे जगू लागला?",
+      "options": [
+        { "option_id": 1, "text": "पुराश्मयुगात", "is_correct": false },
+        { "option_id": 2, "text": "नवाश्मयुगात (शेतीमुळे)", "is_correct": true },
+        { "option_id": 3, "text": "एप अवस्थेत", "is_correct": false },
+        { "option_id": 4, "text": "मध्याश्मयुगाच्या सुरुवातीला", "is_correct": false }
+      ],
+      "answer": "नवाश्मयुगात (शेतीमुळे)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भीमबेटका हे गुहाचित्रांसाठी प्रसिद्ध ठिकाण कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "मध्य प्रदेश", "is_correct": true },
+        { "option_id": 3, "text": "गुजरात", "is_correct": false },
+        { "option_id": 4, "text": "कर्नाटक", "is_correct": false }
+      ],
+      "answer": "मध्य प्रदेश"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मध्याश्मयुगीन स्थळ 'नांदूर मध्येश्वर' महाराष्ट्रात कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "नाशिक", "is_correct": true },
+        { "option_id": 3, "text": "नगर", "is_correct": false },
+        { "option_id": 4, "text": "मुंबई", "is_correct": false }
+      ],
+      "answer": "नाशिक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मानवाच्या उत्क्रांतीत मेंदूचा आकार कशावर परिणाम करतो?",
+      "options": [
+        { "option_id": 1, "text": "चालण्याच्या गतीवर", "is_correct": false },
+        { "option_id": 2, "text": "बुद्धिमत्ता आणि आकलन क्षमतेवर", "is_correct": true },
+        { "option_id": 3, "text": "केसांच्या रंगावर", "is_correct": false },
+        { "option_id": 4, "text": "उंचीवर", "is_correct": false }
+      ],
+      "answer": "बुद्धिमत्ता आणि आकलन क्षमतेवर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "होमो सेपियन सेपियन (Homo Sapiens Sapiens) म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आधुनिक मानव (अतिशय प्रगत बुद्धीचा)", "is_correct": true },
+        { "option_id": 2, "text": "रानटी मानव", "is_correct": false },
+        { "option_id": 3, "text": "दगडात राहणारा", "is_correct": false },
+        { "option_id": 4, "text": "केवळ शिकारी", "is_correct": false }
+      ],
+      "answer": "आधुनिक मानव (अतिशय प्रगत बुद्धीचा)"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "शेतीचा शोध कोणत्या युगात लागला?",
+      "options": [
+        { "option_id": 1, "text": "पुराश्मयुग", "is_correct": false },
+        { "option_id": 2, "text": "मध्याश्मयुग", "is_correct": false },
+        { "option_id": 3, "text": "नवाश्मयुग", "is_correct": true },
+        { "option_id": 4, "text": "लोहयुग", "is_correct": false }
+      ],
+      "answer": "नवाश्मयुग"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मानवाने सुरुवातीला कशापासून निवारा बनवला?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट आणि वाळू", "is_correct": false },
+        { "option_id": 2, "text": "झाडांची पाने, फांद्या आणि कातडी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त लोखंड", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "झाडांची पाने, फांद्या आणि कातडी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कुशल मानवाच्या मेंदूची क्षमता किती होती?",
+      "options": [
+        { "option_id": 1, "text": "एप माकडापेक्षा अधिक", "is_correct": true },
+        { "option_id": 2, "text": "आधुनिक मानवापेक्षा जास्त", "is_correct": false },
+        { "option_id": 3, "text": "एकदम शून्य", "is_correct": false },
+        { "option_id": 4, "text": "सापाएवढी", "is_correct": false }
+      ],
+      "answer": "एप माकडापेक्षा अधिक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ताठ चालणारा मानव कशाचे समूह करून राहत असे?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण समूह", "is_correct": false },
+        { "option_id": 2, "text": "शिकारीचे आणि अन्नाचे समूह", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारी समूह", "is_correct": false },
+        { "option_id": 4, "text": "केवळ धार्मिक समूह", "is_correct": false }
+      ],
+      "answer": "शिकारीचे आणि अन्नाचे समूह"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "शक्तिमान मानवाच्या शरीराची ठेवण कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "अतिशय नाजूक", "is_correct": false },
+        { "option_id": 2, "text": "रांगडी आणि धिप्पाड", "is_correct": true },
+        { "option_id": 3, "text": "खूप उंच", "is_correct": false },
+        { "option_id": 4, "text": "बुटकी", "is_correct": false }
+      ],
+      "answer": "रांगडी आणि धिप्पाड"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बुद्धिमान मानवाचा स्वरयंत्राचा विकास झाल्यामुळे त्याला काय करता आले?",
+      "options": [
+        { "option_id": 1, "text": "गाणी गाता आली नाहीत", "is_correct": false },
+        { "option_id": 2, "text": "विविध आवाज काढून भाषा निर्माण करता आली", "is_correct": true },
+        { "option_id": 3, "text": "केवळ ओरडता आले", "is_correct": false },
+        { "option_id": 4, "text": "काहीच फायदा झाला नाही", "is_correct": false }
+      ],
+      "answer": "विविध आवाज काढून भाषा निर्माण करता आली"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "अश्मयुगातील 'तोड हत्यारे' कोणत्या उपयोगाची होती?",
+      "options": [
+        { "option_id": 1, "text": "झाडे तोडण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "हाडे फोडण्यासाठी आणि कातडे सोलण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "धावण्यासाठी", "is_correct": false }
+      ],
+      "answer": "हाडे फोडण्यासाठी आणि कातडे सोलण्यासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पुराश्मयुगीन मानवाचे प्रमुख अन्न काय होते?",
+      "options": [
+        { "option_id": 1, "text": "फळे आणि शिकार केलेले मांस", "is_correct": true },
+        { "option_id": 2, "text": "केवळ दूध", "is_correct": false },
+        { "option_id": 3, "text": "मिठाई", "is_correct": false },
+        { "option_id": 4, "text": "पिझ्झा", "is_correct": false }
+      ],
+      "answer": "फळे आणि शिकार केलेले मांस"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हत्यारांमध्ये हाडांचा वापर कोणी मोठ्या प्रमाणावर केला?",
+      "options": [
+        { "option_id": 1, "text": "कुशल मानव", "is_correct": false },
+        { "option_id": 2, "text": "शक्तिमान मानव आणि बुद्धिमान मानव", "is_correct": true },
+        { "option_id": 3, "text": "अमिबा", "is_correct": false },
+        { "option_id": 4, "text": "एप माकड", "is_correct": false }
+      ],
+      "answer": "शक्तिमान मानव आणि बुद्धिमान मानव"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "लहान दगडी पाती लाकडाच्या खाचेत बसवून काय बनवले गेले?",
+      "options": [
+        { "option_id": 1, "text": "विळा किंवा सुरा", "is_correct": true },
+        { "option_id": 2, "text": "बॅट", "is_correct": false },
+        { "option_id": 3, "text": "खुर्ची", "is_correct": false },
+        { "option_id": 4, "text": "चाक", "is_correct": false }
+      ],
+      "answer": "विळा किंवा सुरा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगातील मानवाने शेतीसाठी कोणती हत्यारे वापरली?",
+      "options": [
+        { "option_id": 1, "text": "दगडी कुऱ्हाड आणि नांगर", "is_correct": true },
+        { "option_id": 2, "text": "ट्रॅक्टर", "is_correct": false },
+        { "option_id": 3, "text": "केवळ लाकडे", "is_correct": false },
+        { "option_id": 4, "text": "लोखंडी फाळ", "is_correct": false }
+      ],
+      "answer": "दगडी कुऱ्हाड आणि नांगर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पशुपालनाची सुरुवात कोणत्या युगात झाली?",
+      "options": [
+        { "option_id": 1, "text": "पुराश्मयुग", "is_correct": false },
+        { "option_id": 2, "text": "मध्याश्मयुग", "is_correct": true },
+        { "option_id": 3, "text": "लोहयुग", "is_correct": false },
+        { "option_id": 4, "text": "प्राचीन युग", "is_correct": false }
+      ],
+      "answer": "मध्याश्मयुग"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील पुराश्मयुगीन स्थळ 'गंगापूर' कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "नाशिक", "is_correct": true },
+        { "option_id": 3, "text": "सोलापूर", "is_correct": false },
+        { "option_id": 4, "text": "जळगाव", "is_correct": false }
+      ],
+      "answer": "नाशिक"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "मानवाच्या शरीरातील कोणत्या बदलामुळे तो ताठ उभा राहू शकला?",
+      "options": [
+        { "option_id": 1, "text": "पाठीच्या कण्याचा विकास", "is_correct": true },
+        { "option_id": 2, "text": "केवळ वजन वाढल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "नाक मोठे झाल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "केस कमी झाल्यामुळे", "is_correct": false }
+      ],
+      "answer": "पाठीच्या कण्याचा विकास"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शक्तिमान मानव प्रामुख्याने कोठे राहायचा?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रात", "is_correct": false },
+        { "option_id": 2, "text": "गुहेमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "झाडावर", "is_correct": false },
+        { "option_id": 4, "text": "महलात", "is_correct": false }
+      ],
+      "answer": "गुहेमध्ये"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "मानवी संस्कृतीचा पाया कोणत्या युगात घातला गेला?",
+      "options": [
+        { "option_id": 1, "text": "पुराश्मयुग", "is_correct": false },
+        { "option_id": 2, "text": "नवाश्मयुग", "is_correct": true },
+        { "option_id": 3, "text": "लोहयुग", "is_correct": false },
+        { "option_id": 4, "text": "विसावे शतक", "is_correct": false }
+      ],
+      "answer": "नवाश्मयुग"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "दगड एकावर एक आपटून छिलके काढण्याच्या पद्धतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आघात तंत्र", "is_correct": true },
+        { "option_id": 2, "text": "विद्युत तंत्र", "is_correct": false },
+        { "option_id": 3, "text": "जल तंत्र", "is_correct": false },
+        { "option_id": 4, "text": "हवाई तंत्र", "is_correct": false }
+      ],
+      "answer": "आघात तंत्र"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पुराश्मयुगीन हत्यारांना धार कशी दिली जात असे?",
+      "options": [
+        { "option_id": 1, "text": "मशीनने", "is_correct": false },
+        { "option_id": 2, "text": "दगडाचे लहान छिलके काढून", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याने धुवून", "is_correct": false },
+        { "option_id": 4, "text": "तेलाने घासून", "is_correct": false }
+      ],
+      "answer": "दगडाचे लहान छिलके काढून"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "मध्याश्मयुगात मानवाने कोणत्या धान्याची कापणी सुरू केली?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मका", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिकरीत्या उगवलेले तृणधान्य", "is_correct": true },
+        { "option_id": 3, "text": "पिझ्झाची झाडे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त गहू", "is_correct": false }
+      ],
+      "answer": "नैसर्गिकरीत्या उगवलेले तृणधान्य"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगातील गाव-वसाहतींचे मुख्य वैशिष्ट्य काय?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शिकारी", "is_correct": false },
+        { "option_id": 2, "text": "शेती आणि कायमस्वरूपी घरे", "is_correct": true },
+        { "option_id": 3, "text": "भटके जीवन", "is_correct": false },
+        { "option_id": 4, "text": "शहरांमधील इमारती", "is_correct": false }
+      ],
+      "answer": "शेती आणि कायमस्वरूपी घरे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "दगडाच्या हत्यारांबरोबरच मानवाने कशाचा वापर केला?",
+      "options": [
+        { "option_id": 1, "text": "हाडे आणि शिंगे", "is_correct": true },
+        { "option_id": 2, "text": "विमाने", "is_correct": false },
+        { "option_id": 3, "text": "केवळ सोने", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक पिशव्या", "is_correct": false }
+      ],
+      "answer": "हाडे आणि शिंगे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मध्याश्मयुगीन स्थळ 'बागोर' कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "राजस्थान", "is_correct": true },
+        { "option_id": 3, "text": "केरळ", "is_correct": false },
+        { "option_id": 4, "text": "ओरिसा", "is_correct": false }
+      ],
+      "answer": "राजस्थान"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मानवाच्या उत्क्रांतीतील शेवटचा महत्त्वाचा टप्पा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "होमो सेपियन सेपियन (प्रगत बुद्धीचा मानव)", "is_correct": true },
+        { "option_id": 2, "text": "अमिबा", "is_correct": false },
+        { "option_id": 3, "text": "डायनोसॉर", "is_correct": false },
+        { "option_id": 4, "text": "कुशल मानव", "is_correct": false }
+      ],
+      "answer": "होमो सेपियन सेपियन (प्रगत बुद्धीचा मानव)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मध्याश्मयुगीन मानव अन्नासाठी कशावर अवलंबून होता?",
+      "options": [
+        { "option_id": 1, "text": "केवळ फळे", "is_correct": false },
+        { "option_id": 2, "text": "शिकार, मासेमारी आणि तृणधान्ये", "is_correct": true },
+        { "option_id": 3, "text": "केवळ हॉटेलमधील अन्न", "is_correct": false },
+        { "option_id": 4, "text": "केवळ दूध", "is_correct": false }
+      ],
+      "answer": "शिकार, मासेमारी and तृणधान्ये"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मानवाने दगड तासण्यासाठी काय वापरले?",
+      "options": [
+        { "option_id": 1, "text": "मोठे दगड किंवा हाडे", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "केवळ कापड", "is_correct": false },
+        { "option_id": 4, "text": "इलेक्ट्रीक ड्रिल", "is_correct": false }
+      ],
+      "answer": "मोठे दगड किंवा हाडे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "नवाश्मयुगातील हत्यारांचा रंग कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "घासून गुळगुळीत केल्यामुळे चकाकणारा", "is_correct": true },
+        { "option_id": 2, "text": "नेहमी काळा", "is_correct": false },
+        { "option_id": 3, "text": "रंगवलेला", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "घासून गुळगुळीत केल्यामुळे चकाकणारा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "ताठ चालणाऱ्या मानवाचे मुख्य वैशिष्ट्य कोणते?",
+      "options": [
+        { "option_id": 1, "text": "अग्नीचा शोध", "is_correct": true },
+        { "option_id": 2, "text": "संगणकाचा शोध", "is_correct": false },
+        { "option_id": 3, "text": "विमानाचा शोध", "is_correct": false },
+        { "option_id": 4, "text": "मोबाईलचा शोध", "is_correct": false }
+      ],
+      "answer": "अग्नीचा शोध"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "मानवाच्या इतिहासाची विभागणी कशावरून केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "कपड्यावरून", "is_correct": false },
+        { "option_id": 2, "text": "वापरलेल्या धातू किंवा दगडावरून", "is_correct": true },
+        { "option_id": 3, "text": "भाषेवरून", "is_correct": false },
+        { "option_id": 4, "text": "देशावरून", "is_correct": false }
+      ],
+      "answer": "वापरलेल्या धातू किंवा दगडावरून"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कुशल मानवाचे अवशेष प्रथम कोठे सापडले?",
+      "answer": "कुशल मानवाचे अवशेष प्रथम आफ्रिका खंडातील टांझानिया आणि केनिया या देशांमध्ये सापडले."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "होमो हॅबिलिस म्हणजे काय?",
+      "answer": "होमो हॅबिलिस म्हणजे आपल्या हातांचा कुशलतेने वापर करणारा मानव."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ताठ चालणाऱ्या मानवाला काय म्हणतात?",
+      "answer": "ताठ चालणाऱ्या मानवाला 'होमो इरेक्टस' असे म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अग्नीचा वापर मानवाच्या कोणत्या टप्प्यावर सुरू झाला?",
+      "answer": "अग्नीचा वापर ताठ चालणाऱ्या मानवाच्या (होमो इरेक्टस) काळात सुरू झाला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाला 'नियंडरथल' नाव का दिले गेले?",
+      "answer": "त्याचे अवशेष प्रथम जर्मनीतील 'नियंडरथल' येथे सापडले म्हणून त्याला हे नाव दिले गेले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "होमो सेपियन म्हणजे काय?",
+      "answer": "होमो सेपियन म्हणजे 'बुद्धिमान मानव'. 'सेपियन' या शब्दाचा अर्थ बुद्धिमान असा होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अश्मयुग म्हणजे काय?",
+      "answer": "ज्या काळात मानवाने दगडाची हत्यारे मोठ्या प्रमाणावर वापरली, त्या काळाला 'अश्मयुग' म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पुराश्मयुगातील हत्यारांचे वैशिष्ट्य काय?",
+      "answer": "पुराश्मयुगातील हत्यारे ओबडधोबड होती आणि ती आघात तंत्राने बनवलेली होती."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हातकुऱ्हाड कोणी तयार केली?",
+      "answer": "हातकुऱ्हाड ताठ चालणाऱ्या मानवाने (होमो इरेक्टस) तयार केली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगात हवामानात कोणता बदल झाला?",
+      "answer": "मध्याश्मयुगात हवामान उबदार होऊ लागले आणि बर्फ वितळून पर्यावरणात बदल झाला."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "लघुअश्मे म्हणजे काय?",
+      "answer": "मध्याश्मयुगातील मानवाने बनवलेली अत्यंत लहान आकाराची दगडी हत्यारे म्हणजे 'लघुअश्मे' होत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगाचे प्रमुख वैशिष्ट्य कोणते?",
+      "answer": "घासून गुळगुळीत केलेली दगडी हत्यारे आणि शेतीची सुरुवात ही नवाश्मयुगाची मुख्य वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मानव स्थिर जीवन का जगू लागला?",
+      "answer": "नवाश्मयुगात शेतीचा शोध लागल्यामुळे अन्नासाठी भटकंती करण्याची गरज संपली आणि मानव स्थिर राहू लागला."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "होमो सेपियन सेपियन म्हणजे काय?",
+      "answer": "होमो सेपियन सेपियन म्हणजे अतिशय प्रगत बुद्धीचा आधुनिक मानव."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आघात तंत्र म्हणजे काय?",
+      "answer": "एक दगड दुसऱ्या दगडावर आपटून दगडाचे छिलके काढण्याच्या पद्धतीला 'आघात तंत्र' म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भीमबेटका येथील चित्रांमध्ये काय दिसते?",
+      "answer": "भीमबेटका येथील चित्रांमध्ये शिकारीचे प्रसंग आणि विविध प्राण्यांचे समूह दिसतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नाशिक जिल्ह्यातील कोणत्या ठिकाणी मध्याश्मयुगीन अवशेष मिळाले?",
+      "answer": "नाशिक जिल्ह्यातील 'नांदूर मध्येश्वर' येथे मध्याश्मयुगीन अवशेष मिळाले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कुशल मानवाचे अन्न काय होते?",
+      "answer": "कुशल मानव इतर प्राण्यांनी केलेली शिकार किंवा त्यांनी टाकून दिलेले मांस खात असे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ताठ चालणारा मानव काय शिकारी करू लागला?",
+      "answer": "ताठ चालणारा मानव हरणे, सांबर यांसारख्या मोठ्या प्राण्यांची शिकार करू लागला."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानव मृत व्यक्तींना कसा पुरत असे?",
+      "answer": "शक्तिमान मानव मृत व्यक्तींसोबत त्यांची हत्यारे आणि इतर वस्तू गाडत असे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाचे स्वरयंत्र का महत्त्वाचे आहे?",
+      "answer": "त्याच्या विकसित स्वरयंत्रामुळे तो शब्द उच्चारू शकला आणि भाषेचा विकास झाला."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "दगडी छिलके काढण्यासाठी कशाचा वापर केला जाई?",
+      "answer": "दगडी छिलके काढण्यासाठी हाडे किंवा कठीण दगडांचा वापर केला जाई."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगात मानवाने कोणत्या प्राण्यांना पाळले?",
+      "answer": "मध्याश्मयुगात मानवाने प्रामुख्याने कुत्रा, शेळी आणि मेंढी या प्राण्यांना पाळले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन संस्कृतीचा पाया कशावर आधारित होता?",
+      "answer": "नवाश्मयुगीन संस्कृतीचा पाया शेती आणि पशुपालन यावर आधारित होता."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "गंगापूर हे स्थळ कोठे आहे?",
+      "answer": "गंगापूर हे पुराश्मयुगीन स्थळ नाशिकजवळ गोदावरी नदीच्या काठावर आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "मानवाच्या शरीरातील कोणत्या बदलामुळे मेंदू मोठा झाला?",
+      "answer": "सरळ उभे राहून चालण्यामुळे आणि हातांचा वापर वाढल्यामुळे मानवी मेंदूचा आकार वाढला."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "होमो हॅबिलिसची हत्यारे शिकारीसाठी पुरेशी का नव्हती?",
+      "answer": "ती हत्यारे ओबडधोबड होती आणि मोठी शिकार करण्यासाठी ती सक्षम नव्हती."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाने अग्नीचा वापर कसा केला?",
+      "answer": "शक्तिमान मानवाने मांस भाजण्यासाठी आणि थंडीपासून संरक्षणासाठी अग्नीचा वापर केला."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाच्या कल्पनाशक्तीचा पुरावा काय आहे?",
+      "answer": "गुहेतील चित्रे आणि दगडांवर कोरलेली नक्षी हा त्याच्या कल्पनाशक्तीचा पुरावा आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पात्याच्या हत्यारांचा उपयोग काय होता?",
+      "answer": "पात्याच्या हत्यारांचा उपयोग कातडी तासण्यासाठी, मांस कापण्यासाठी आणि लाकूड कोरण्यासाठी होत असे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगीन मानवाचे भटके जीवन का कमी झाले?",
+      "answer": "मुबलक प्रमाणात तृणधान्ये उपलब्ध झाल्यामुळे एकाच ठिकाणी राहणे शक्य झाले."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील कुऱ्हाडीचा उपयोग काय होता?",
+      "answer": "नवाश्मयुगातील कुऱ्हाडीचा उपयोग झाडे तोडण्यासाठी आणि शेतीची जमीन तयार करण्यासाठी होत असे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पुराश्मयुगीन मानवाचे निवारे कोठे होते?",
+      "answer": "तो नैसर्गिक गुहा किंवा उघड्यावर तात्पुरते निवारे करून राहत असे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "मानवाच्या इतिहासात अग्नीचा शोध का महत्त्वाचा आहे?",
+      "answer": "अग्नीमुळे मानवाला शिजवलेले अन्न मिळाले आणि हिंस्त्र प्राण्यांपासून संरक्षण मिळाले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "गारगोटीच्या दगडाचा उपयोग काय?",
+      "answer": "गारगोटीच्या दगडाचा उपयोग चकमक उडवून विस्तव पेटवण्यासाठी आणि तीक्ष्ण पाती बनवण्यासाठी केला जाई."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगातील मानवाचा आहार कसा बदलला?",
+      "answer": "तो शिकारीसोबतच मासेमारी आणि वनस्पतींच्या बिया (तृणधान्ये) खाऊ लागला."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन घरे कशापासून बनवलेली होती?",
+      "answer": "नवाश्मयुगीन घरे मातीची आणि गवताची (कुडाची) बनवलेली होती."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अश्मयुगाचा शेवट कशाने झाला?",
+      "answer": "अश्मयुगाचा शेवट तांब्याचा शोध लागून ताम्रयुगाची सुरुवात झाल्याने झाला."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "मानवाने दगड तासण्याचे दुसरे तंत्र कोणते वापरले?",
+      "answer": "मानवाने दाबाने छिलके काढण्याचे तंत्र (Pressure Flaking) वापरले."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचा मेंदू कसा होता?",
+      "answer": "शक्तिमान मानवाचा मेंदू ताठ चालणाऱ्या मानवापेक्षा अधिक विकसित आणि मोठा होता."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानव समूहात का राहत असे?",
+      "answer": "शिकार करण्यासाठी आणि एकमेकांच्या संरक्षणासाठी तो समूहात राहत असे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "अश्मयुगीन स्थळांवर काय सापडते?",
+      "answer": "अश्मयुगीन स्थळांवर दगडाची हत्यारे, प्राण्यांची हाडे आणि मातीची भांडी सापडतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "शेतीमुळे मानवी संस्कृतीत काय बदल झाला?",
+      "answer": "शेतीमुळे मानवाला स्थिर गाव-वसाहती स्थापन करता आल्या आणि कुटुंब संस्था निर्माण झाली."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "होमो हॅबिलिसला दोन पायांवर चालता येत होते का?",
+      "answer": "हो, पण तो थोडा झुकून चालत असे, त्याचे पाय पूर्ण ताठ नव्हते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ताठ चालणाऱ्या मानवाचे अवशेष आशियात कोठे मिळाले?",
+      "answer": "ताठ चालणाऱ्या मानवाचे अवशेष चीन आणि जावा (इंडोनेशिया) येथे मिळाले."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नियंडरथल मानव का नष्ट झाला असावा?",
+      "answer": "बुद्धिमान मानवाशी झालेल्या संघर्षात किंवा पर्यावरणातील बदलांशी न जुळवल्यामुळे तो नष्ट झाला असावा."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "मानवाने हत्यारांना लाकडी दांडा का बसवला?",
+      "answer": "हत्यारांचा वापर अधिक प्रभावीपणे करण्यासाठी आणि पकड मजबूत होण्यासाठी लाकडी दांडा बसवला."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगातील 'काय' हे साधन मासेमारीसाठी वापरले जाई?",
+      "answer": "हाडांचे गळ किंवा टोकदार दगडी पाती मासेमारीसाठी वापरली जात असत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाचा मुख्य पोशाख काय होता?",
+      "answer": "तो प्राण्यांची कातडी आणि झाडांच्या सालींचा वापर पोशाख म्हणून करत असे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पुरातत्त्व म्हणजे काय?",
+      "answer": "पुरातत्त्व म्हणजे उत्खननातून मिळालेल्या पुराव्यांच्या आधारे मानवी इतिहासाचा अभ्यास करणे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "होमो इरेक्टसने अग्नी कसा निर्माण केला असावा?",
+      "answer": "दोन गारगोटीचे दगड एकमेकांवर घासून ठिणग्या पाडून त्याने अग्नी निर्माण केला असावा."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या हातापायांची हाडे कशी होती?",
+      "answer": "त्याच्या हातापायांची हाडे जाड आणि मजबूत होती."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाच्या मेंदूची क्षमता किती होती?",
+      "answer": "त्याच्या मेंदूची क्षमता आधुनिक मानवाच्या जवळपास म्हणजे सुमारे १३५० ते १४५० क्युबिक सेंटीमीटर होती."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पुराश्मयुगीन हत्यारांना 'ओबडधोबड' का म्हटले जाते?",
+      "answer": "कारण ती पूर्णपणे गुळगुळीत नव्हती आणि त्यांना फक्त एका बाजूने धार असायची."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगात अन्नाचे साठवण का सुरू झाले?",
+      "answer": "तृणधान्ये मोठ्या प्रमाणात उपलब्ध झाल्यामुळे ती वर्षभर टिकवण्यासाठी साठवण सुरू झाली."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील चाकाचा शोध का महत्त्वाचा आहे?",
+      "answer": "चाकाच्या शोधामुळे वाहतूक आणि मातीची भांडी बनवणे सोपे झाले."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "मानवाच्या उत्क्रांतीत हाताचा वाटा काय?",
+      "answer": "हातांच्या मुक्त वापरामुळे मानवाला हत्यारे बनवणे आणि इतर कामे करणे शक्य झाले."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "होमो इरेक्टसचे अन्नाचे स्रोत कोणते होते?",
+      "answer": "फळे, मुळे आणि शिकार केलेले छोटे-मोठे प्राणी हे त्याचे अन्नाचे स्रोत होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानव आणि बुद्धिमान मानव एकत्र राहिले होते का?",
+      "answer": "हो, युरोपमध्ये काही काळ हे दोन्ही मानव एकत्र राहिल्याचे पुरावे मिळतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाच्या कलेचे उदाहरण द्या.",
+      "answer": "हाडांवर कोरलेली कोरीव कामे आणि गुहाचित्रे ही त्याच्या कलेची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "लघुअश्मे कशाने बनवली जात?",
+      "answer": "गारगोटी किंवा अ‍ॅगेट यांसारख्या कठीण दगडांच्या बारीक पात्यांपासून लघुअश्मे बनवली जात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील मृदा भांड्यांचा उपयोग काय?",
+      "answer": "धान्य साठवण्यासाठी आणि अन्न शिजवण्यासाठी मातीच्या भांड्यांचा उपयोग होत असे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पुराश्मयुगीन मानवाचा समूह कसा असायचा?",
+      "answer": "तो साधारणपणे २५ ते ३० व्यक्तींचा एक गट करून राहत असे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "अग्नीचा उपयोग करून मानवाने स्वतःला हिंस्त्र प्राण्यांपासून कसे वाचवले?",
+      "answer": "गुहेच्या तोंडाशी विस्तव पेटवून ठेवल्यामुळे हिंस्त्र प्राणी गुहेत शिरण्यास घाबरत असत."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाची भाषा कशी होती?",
+      "answer": "तो काही स्पष्ट आवाज आणि खुणांच्या साहाय्याने संवाद साधत असावा असे मानले जाते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाची वस्ती कोठे असायची?",
+      "answer": "तो नदीकाठी किंवा डोंगराच्या पायथ्याशी जिथे पाणी सहज मिळेल तिथे वस्ती करून राहत असे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "दगडी हत्यारे टिकण्याचे कारण काय?",
+      "answer": "दगड हा धातू किंवा लाकडापेक्षा जास्त काळ टिकणारा असल्यामुळे त्याची हत्यारे आजही सापडतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगातील 'भाला' कसा बनवला जाई?",
+      "answer": "लांब लाकडी काठीच्या टोकाला तीक्ष्ण दगडी पाते बसवून भाला बनवला जाई."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील शेतीसाठी कोणत्या प्राण्यांचा वापर सुरू झाला?",
+      "answer": "बैल आणि म्हशी यांसारख्या ओढकाम करणाऱ्या प्राण्यांचा वापर शेतीसाठी सुरू झाला."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "मानवाच्या उत्क्रांतीचा इतिहास कशावरून समजतो?",
+      "answer": "उत्खननात सापडलेले सांगाडे आणि त्यांनी वापरलेली हत्यारे यांवरून इतिहास समजतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "होमो हॅबिलिसने दगडाचे दोन तुकडे का केले असावेत?",
+      "answer": "हाडे फोडून त्यातील गर काढण्यासाठी त्याने दगडाचा वापर केला असावा."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "होमो इरेक्टसचे मेंदूचे कार्य कसे सुधारले?",
+      "answer": "प्रथिनयुक्त आहार आणि अग्नीचा वापर यामुळे त्याच्या मेंदूचा विकास अधिक वेगाने झाला."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानव कातडे कसे कमवत असे?",
+      "answer": "तो दगडाच्या छिलक्यांनी कातडे घासून आणि प्राण्यांच्या चरबीचा वापर करून ते मऊ करत असे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाची चित्रकला काय दर्शवते?",
+      "answer": "ती मानवाची निसर्गाकडे पाहण्याची दृष्टी आणि त्याच्या भावना दर्शवते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "अश्मयुगीन हत्यारांचे वर्गीकरण कोठे केले जाते?",
+      "answer": "अश्मयुगीन हत्यारांचे वर्गीकरण वस्तुसंग्रहालयात आणि ऐतिहासिक संस्थांमध्ये केले जाते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगात धान्याची कापणी कशी केली जाई?",
+      "answer": "तीक्ष्ण दगडी पात्यांच्या साहाय्याने धान्याची कणसे कापली जात असत."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील देवाणघेवाण कशी होती?",
+      "answer": "सुरुवातीला वस्तूंच्या बदल्यात वस्तू (Barter system) अशी देवाणघेवाण सुरू झाली."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पुराश्मयुगातील स्त्रिया आणि मुले काय काम करत असत?",
+      "answer": "स्त्रिया आणि मुले फळे, मुळे गोळा करणे आणि छोटे प्राणी पकडणे अशी कामे करत असत."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "मानवाने हत्यारांना पकडण्यासाठी काय केले?",
+      "answer": "हत्यारांना पकडण्यासाठी त्याने त्यांना चामड्याच्या पट्ट्यांनी बांधले किंवा लाकडी मुठी बसवल्या."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाचे वजन आणि उंची कशी होती?",
+      "answer": "तो मध्यम उंचीचा पण अंगाने खूप बळकट आणि वजनदार होता."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाचे दात आणि जबडा कसा होता?",
+      "answer": "त्याचे दात लहान आणि जबडा कमी बाहेर आलेला होता, जो बोलण्यासाठी सोयीचा होता."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "दगडाचे 'छिलके' म्हणजे काय?",
+      "answer": "दगड एकमेकांवर आपटल्यावर त्यातून निघणारे पातळ आणि तीक्ष्ण तुकडे म्हणजे छिलके."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगातील हवामानाचा माशांवर काय परिणाम झाला?",
+      "answer": "बर्फ वितळल्यामुळे नद्या आणि समुद्रात पाण्याचे प्रमाण वाढले आणि माशांची संख्याही वाढली."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगीन मानवाचा आहार शिकारीवर अवलंबून का नव्हता?",
+      "answer": "कारण शेतीमुळे त्याला नियमितपणे धान्य आणि दुग्धजन्य पदार्थ मिळू लागले."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "मानवाच्या उत्क्रांतीत कंबरेच्या हाडाचा बदल का महत्त्वाचा आहे?",
+      "answer": "कंबरेच्या हाडाच्या बदलामुळे मानव सरळ उभा राहून आपल्या शरीराचा तोल सांभाळू शकला."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "होमो हॅबिलिसने दगडाचा वापर कशासाठी केला?",
+      "answer": "त्याला निसर्गात जसे दगड मिळाले तसे त्याने ते कठीण फळे फोडण्यासाठी किंवा हाडे फोडण्यासाठी वापरले."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "होमो इरेक्टसचे शरीर पूर्णपणे लवचिक होते का?",
+      "answer": "हो, तो कोणत्याही अडथळ्याविना वेगाने धावू आणि चालू शकत होता."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या राहणीमानाचा पुरावा कोठे मिळतो?",
+      "answer": "त्याच्या राहणीमानाचा पुरावा तो वापरत असलेल्या गुहांमधील राखेच्या खुणा आणि हत्यारांवरून मिळतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाचा आशियातील प्रवास कसा झाला?",
+      "answer": "तो आफ्रिकेतून आशियाच्या विविध भागांत आणि तिथून युरोप व ऑस्ट्रेलियापर्यंत पोहोचला."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पुराश्मयुगातील 'स्क्रॅपर' (तासणी) कशासाठी वापरले जाई?",
+      "answer": "ते प्राण्यांचे कातडे तासण्यासाठी आणि लाकडाची साल काढण्यासाठी वापरले जाई."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगातील मानवाचा स्थायी निवास कोठे होता?",
+      "answer": "तो जलाशयांच्या जवळ किंवा जिथे तृणधान्ये नैसर्गिकरीत्या मुबलक होती तिथे राहत असे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "नवाश्मयुगातील कला आणि कारागिरी कशी विकसित झाली?",
+      "answer": "शेतीमुळे मिळालेल्या फावल्या वेळेत मानवाने विणकाम, मणी बनवणे आणि चित्रकला विकसित केली."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "मानवाच्या उत्क्रांतीत पायाच्या तळव्याचा काय बदल झाला?",
+      "answer": "पायाचा तळवा सपाट झाल्यामुळे मानवाला ताठ उभे राहणे आणि चालणे सोपे झाले."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "होमो हॅबिलिसने दगडाचे तुकडे शिकारीसाठी का वापरले नाहीत?",
+      "answer": "कारण ते तुकडे खूप लहान होते आणि ते लांबून फेकून मारण्यासाठी योग्य नव्हते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "होमो इरेक्टसने शिकारीसाठी कोणते नवीन तंत्र वापरले?",
+      "answer": "त्याने दगडाच्या दोन्ही बाजूंनी छिलके काढून त्याला धार दिली, ज्यामुळे शिकार करणे सोपे झाले."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "शक्तिमान मानवाच्या शरिराचा रंग कसा असावा?",
+      "answer": "थंड हवेच्या ठिकाणी राहिल्यामुळे त्याचा रंग गोरा किंवा लालसर असावा असे शास्त्रज्ञ मानतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "बुद्धिमान मानवाची वेशभूषा कशी होती?",
+      "answer": "तो शिवलेली कातडी आणि काही ठिकाणी झाडांच्या धाग्यांपासून बनवलेले कपडे वापरत असे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "अश्मयुगाचा अभ्यास करणे का गरजेचे आहे?",
+      "answer": "मानवाच्या सुरुवातीच्या संघर्षाचा आणि त्याने केलेल्या प्रगतीचा इतिहास जाणून घेण्यासाठी हे गरजेचे आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "मध्याश्मयुगीन मानवाचा 'भाला' शिकारीसाठी कसा उपयोगी होता?",
+      "answer": "भाला लांबून फेकता येत असल्यामुळे हिंस्त्र प्राण्यांच्या जवळ न जाता शिकार करणे शक्य झाले."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "मानवाच्या उत्क्रांतीतील सर्वात मोठी क्रांती कोणती?",
+      "answer": "नवाश्मयुगातील 'शेतीचा शोध' ही मानवाच्या उत्क्रांतीतील सर्वात मोठी क्रांती मानली जाते."
+    }
+  ]
+}

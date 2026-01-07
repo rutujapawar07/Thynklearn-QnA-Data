@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 17,
+  "chapter_name": "वस्त्र - आपली गरज",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कापूस कशापासून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पती", "is_correct": true },
+        { "option_id": 3, "text": "खाण", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "वनस्पती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मेंढीच्या केसांपासून काय बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "सूती कापड", "is_correct": false },
+        { "option_id": 2, "text": "रेशमी कापड", "is_correct": false },
+        { "option_id": 3, "text": "ऊबदार लोकरीचे कापड", "is_correct": true },
+        { "option_id": 4, "text": "नायलॉन", "is_correct": false }
+      ],
+      "answer": "ऊबदार लोकरीचे कापड"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रेशीम कशापासून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "रेशमी किड्याच्या कोशापासून", "is_correct": true },
+        { "option_id": 2, "text": "फुलांपासून", "is_correct": false },
+        { "option_id": 3, "text": "कापसापासून", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यापासून", "is_correct": false }
+      ],
+      "answer": "रेशमी किड्याच्या कोशापासून"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात आपण कोणत्या प्रकारचे कपडे घालतो?",
+      "options": [
+        { "option_id": 1, "text": "पातळ सूती कपडे", "is_correct": false },
+        { "option_id": 2, "text": "जाड लोकरीचे कपडे", "is_correct": true },
+        { "option_id": 3, "text": "नायलॉनचे कपडे", "is_correct": false },
+        { "option_id": 4, "text": "पावसाळी कपडे", "is_correct": false }
+      ],
+      "answer": "जाड लोकरीचे कपडे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते कृत्रिम धागे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कापूस", "is_correct": false },
+        { "option_id": 2, "text": "लोकर", "is_correct": false },
+        { "option_id": 3, "text": "नायलॉन आणि रेयॉन", "is_correct": true },
+        { "option_id": 4, "text": "रेशीम", "is_correct": false }
+      ],
+      "answer": "नायलॉन आणि रेयॉन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पैठणी साडीसाठी कोणते शहर प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "पैठण", "is_correct": true },
+        { "option_id": 3, "text": "सोलापूर", "is_correct": false },
+        { "option_id": 4, "text": "कोल्हापूर", "is_correct": false }
+      ],
+      "answer": "पैठण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हातमागावर काय विणले जाते?",
+      "options": [
+        { "option_id": 1, "text": "धागे", "is_correct": false },
+        { "option_id": 2, "text": "कापड", "is_correct": true },
+        { "option_id": 3, "text": "कापूस", "is_correct": false },
+        { "option_id": 4, "text": "कोश", "is_correct": false }
+      ],
+      "answer": "कापड"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "जुने कपडे देऊन नवीन भांडी देणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "धोबी", "is_correct": false },
+        { "option_id": 2, "text": "कासार", "is_correct": false },
+        { "option_id": 3, "text": "बोहारीण", "is_correct": true },
+        { "option_id": 4, "text": "लोहार", "is_correct": false }
+      ],
+      "answer": "बोहारीण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कपड्यांच्या निवडीवर कशाचा परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "जमीन", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "हवामान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सूत कताईसाठी कोणते साधन वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "वरवंटा", "is_correct": false },
+        { "option_id": 2, "text": "चरखा", "is_correct": true },
+        { "option_id": 3, "text": "नांगर", "is_correct": false },
+        { "option_id": 4, "text": "विळी", "is_correct": false }
+      ],
+      "answer": "चरखा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात आपण कोणत्या रंगाचे कपडे घालणे पसंत करतो?",
+      "options": [
+        { "option_id": 1, "text": "काळे", "is_correct": false },
+        { "option_id": 2, "text": "गडद", "is_correct": false },
+        { "option_id": 3, "text": "पांढरे किंवा फिकट", "is_correct": true },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "पांढरे किंवा फिकट"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सोलापूर कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "साड्या", "is_correct": false },
+        { "option_id": 2, "text": "चादरी", "is_correct": true },
+        { "option_id": 3, "text": "धोतर", "is_correct": false },
+        { "option_id": 4, "text": "टोप्या", "is_correct": false }
+      ],
+      "answer": "चादरी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "इचलकरंजीला महाराष्ट्राचे काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मँचेस्टर", "is_correct": true },
+        { "option_id": 2, "text": "राजधानी", "is_correct": false },
+        { "option_id": 3, "text": "पेठ", "is_correct": false },
+        { "option_id": 4, "text": "उद्यान", "is_correct": false }
+      ],
+      "answer": "मँचेस्टर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कापसापासून काय बनवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "लोकर", "is_correct": false },
+        { "option_id": 2, "text": "सूत", "is_correct": true },
+        { "option_id": 3, "text": "नायलॉन", "is_correct": false },
+        { "option_id": 4, "text": "ताग", "is_correct": false }
+      ],
+      "answer": "सूत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील प्रसिद्ध साडीचा प्रकार कोणता?",
+      "options": [
+        { "option_id": 1, "text": "बनारसी", "is_correct": false },
+        { "option_id": 2, "text": "कांजीवरम", "is_correct": false },
+        { "option_id": 3, "text": "पैठणी", "is_correct": true },
+        { "option_id": 4, "text": "चंदेरी", "is_correct": false }
+      ],
+      "answer": "पैठणी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यापासून संरक्षणासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वेटर", "is_correct": false },
+        { "option_id": 2, "text": "छत्री किंवा रेनकोट", "is_correct": true },
+        { "option_id": 3, "text": "मफलर", "is_correct": false },
+        { "option_id": 4, "text": "शाल", "is_correct": false }
+      ],
+      "answer": "छत्री किंवा रेनकोट"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "येवला कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिमशाल", "is_correct": false },
+        { "option_id": 2, "text": "पैठणी साडी", "is_correct": true },
+        { "option_id": 3, "text": "तरहाटी", "is_correct": false },
+        { "option_id": 4, "text": "घोंगडी", "is_correct": false }
+      ],
+      "answer": "पैठणी साडी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "जुन्या सुती कपड्यांपासून काय बनवता येते?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 2, "text": "कागद", "is_correct": true },
+        { "option_id": 3, "text": "काच", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "कागद"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "धाग्यांचे प्रामुख्याने किती प्रकार पडतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन (नैसर्गिक आणि कृत्रिम)", "is_correct": true },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "पाच", "is_correct": false },
+        { "option_id": 4, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "दोन (नैसर्गिक आणि कृत्रिम)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कपड्यांची गरज कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ फॅशनसाठी", "is_correct": false },
+        { "option_id": 2, "text": "थंडी, ऊन, वारा व पाऊस यांपासून संरक्षणासाठी", "is_correct": true },
+        { "option_id": 3, "text": "जास्त पैसे खर्च करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "घर सजवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "थंडी, ऊन, वारा व पाऊस यांपासून संरक्षणासाठी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कापसाचे बोंड कोणत्या ऋतूत येते?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळा", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "हिवाळा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "औरंगाबादमधील प्रसिद्ध शाल कोणती?",
+      "options": [
+        { "option_id": 1, "text": "काश्मिरी शाल", "is_correct": false },
+        { "option_id": 2, "text": "हिमशाल", "is_correct": true },
+        { "option_id": 3, "text": "नक्षीदार शाल", "is_correct": false },
+        { "option_id": 4, "text": "धाबळी", "is_correct": false }
+      ],
+      "answer": "हिमशाल"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "खूप जुने किंवा फाटलेले कपडे कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "फेकून देण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "गोधडी किंवा पायपुसणी बनवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "जाळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पुन्हा घालण्यासाठी", "is_correct": false }
+      ],
+      "answer": "गोधडी किंवा पायपुसणी बनवण्यासाठी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "विणकाम कशाच्या साहाय्याने केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "हाताने किंवा मशीनने", "is_correct": true },
+        { "option_id": 2, "text": "केवळ लाकडाने", "is_correct": false },
+        { "option_id": 3, "text": "केवळ दगडानी", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याने", "is_correct": false }
+      ],
+      "answer": "हाताने किंवा मशीनने"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कापड तयार करण्यासाठी मूलभूत घटक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रंग", "is_correct": false },
+        { "option_id": 2, "text": "धागा", "is_correct": true },
+        { "option_id": 3, "text": "बटण", "is_correct": false },
+        { "option_id": 4, "text": "सुई", "is_correct": false }
+      ],
+      "answer": "धागा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "तागापासून (Jute) काय बनवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्वेटर", "is_correct": false },
+        { "option_id": 2, "text": "कोथळी किंवा सुतळी", "is_correct": true },
+        { "option_id": 3, "text": "रेशमी साडी", "is_correct": false },
+        { "option_id": 4, "text": "हातमोजे", "is_correct": false }
+      ],
+      "answer": "कोथळी किंवा सुतळी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते कपडे उन्हाळ्यात वापरणे योग्य नाही?",
+      "options": [
+        { "option_id": 1, "text": "सूती बनियान", "is_correct": false },
+        { "option_id": 2, "text": "लोकरीचा स्वेटर", "is_correct": true },
+        { "option_id": 3, "text": "पांढरा सदरा", "is_correct": false },
+        { "option_id": 4, "text": "मललमलचा दुपट्टा", "is_correct": false }
+      ],
+      "answer": "लोकरीचा स्वेटर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कपड्यांवरील नक्षीकाम कशाने केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "छपाई किंवा विणकाम", "is_correct": true },
+        { "option_id": 2, "text": "खडू", "is_correct": false },
+        { "option_id": 3, "text": "शेण", "is_correct": false },
+        { "option_id": 4, "text": "केवळ पेन्सिल", "is_correct": false }
+      ],
+      "answer": "छपाई किंवा विणकाम"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कापड गिरण्यांमध्ये कापड कशावर विणले जाते?",
+      "options": [
+        { "option_id": 1, "text": "हातमागावर", "is_correct": false },
+        { "option_id": 2, "text": "यंत्रमागावर (Powerloom)", "is_correct": true },
+        { "option_id": 3, "text": "टेबलावर", "is_correct": false },
+        { "option_id": 4, "text": "चरख्यावर", "is_correct": false }
+      ],
+      "answer": "यंत्रमागावर (Powerloom)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील हातमाग उद्योगाचे प्रसिद्ध केंद्र कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "सोलापूर", "is_correct": true },
+        { "option_id": 3, "text": "रत्नागिरी", "is_correct": false },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "सोलापूर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आपल्या देशात कपड्यांमध्ये विविधता का आढळते?",
+      "options": [
+        { "option_id": 1, "text": "हवामान आणि सांस्कृतिक विविधतेमुळे", "is_correct": true },
+        { "option_id": 2, "text": "दुकाने जास्त आहेत म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "केवळ पैशांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "लोकांना कपडे आवडत नाहीत", "is_correct": false }
+      ],
+      "answer": "हवामान आणि सांस्कृतिक विविधतेमुळे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "जुन्या कपड्यांचा पुनर्वापर केल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कचरा वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक साधनसंपत्तीची बचत होते", "is_correct": true },
+        { "option_id": 3, "text": "प्रदूषण वाढते", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक साधनसंपत्तीची बचत होते"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "नऊवारी साडी हे कोणत्या राज्याचे पारंपारिक वस्त्र आहे?",
+      "options": [
+        { "option_id": 1, "text": "गुजरात", "is_correct": false },
+        { "option_id": 2, "text": "महाराष्ट्र", "is_correct": true },
+        { "option_id": 3, "text": "पंजाब", "is_correct": false },
+        { "option_id": 4, "text": "केरळ", "is_correct": false }
+      ],
+      "answer": "महाराष्ट्र"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कापसाचे उत्पादन प्रामुख्याने कोणत्या मातीत जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "तांबडी माती", "is_correct": false },
+        { "option_id": 2, "text": "काळी कसदार माती", "is_correct": true },
+        { "option_id": 3, "text": "रेताड माती", "is_correct": false },
+        { "option_id": 4, "text": "दलदलीची माती", "is_correct": false }
+      ],
+      "answer": "काळी कसदार माती"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "महात्मा गांधींनी कशाचा प्रसार केला?",
+      "options": [
+        { "option_id": 1, "text": "परदेशी कपडे", "is_correct": false },
+        { "option_id": 2, "text": "स्वदेशी आणि चरखा", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "रेशीम", "is_correct": false }
+      ],
+      "answer": "स्वदेशी आणि चरखा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कपडे स्वच्छ धुण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "साबण किंवा रिठा", "is_correct": true },
+        { "option_id": 2, "text": "तेल", "is_correct": false },
+        { "option_id": 3, "text": "साखर", "is_correct": false },
+        { "option_id": 4, "text": "दूध", "is_correct": false }
+      ],
+      "answer": "साबण किंवा रिठा"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नारळाच्या शेंडीपासून काय बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "रेशमी कपडे", "is_correct": false },
+        { "option_id": 2, "text": "दोखंड आणि काथ्या", "is_correct": true },
+        { "option_id": 3, "text": "मफलर", "is_correct": false },
+        { "option_id": 4, "text": "कागद", "is_correct": false }
+      ],
+      "answer": "दोखंड आणि काथ्या"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "गडचिरोली जिल्ह्यात कोणत्या रेशमाचे उत्पादन होते?",
+      "options": [
+        { "option_id": 1, "text": "मलबेरी", "is_correct": false },
+        { "option_id": 2, "text": "टसर", "is_correct": true },
+        { "option_id": 3, "text": "नायलॉन", "is_correct": false },
+        { "option_id": 4, "text": "कॉटन", "is_correct": false }
+      ],
+      "answer": "टसर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणी लोकर देत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मेंढी", "is_correct": false },
+        { "option_id": 2, "text": "ससा (अंगोरा)", "is_correct": false },
+        { "option_id": 3, "text": "साप", "is_correct": true },
+        { "option_id": 4, "text": "याक", "is_correct": false }
+      ],
+      "answer": "साप"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कपडे सुकवण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "अंधार", "is_correct": false },
+        { "option_id": 2, "text": "वारा आणि सूर्यप्रकाश", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "धुळीचा कण", "is_correct": false }
+      ],
+      "answer": "वारा आणि सूर्यप्रकाश"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "खण हे कापड कशासाठी वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पॅन्ट बनवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "चोळी किंवा ब्लाऊजसाठी", "is_correct": true },
+        { "option_id": 3, "text": "पडद्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "तरहाटीसाठी", "is_correct": false }
+      ],
+      "answer": "चोळी किंवा ब्लाऊजसाठी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "रेशमी किडे कोणत्या झाडाच्या पानावर जगतात?",
+      "options": [
+        { "option_id": 1, "text": "तुती", "is_correct": true },
+        { "option_id": 2, "text": "आंबा", "is_correct": false },
+        { "option_id": 3, "text": "नारळ", "is_correct": false },
+        { "option_id": 4, "text": "वड", "is_correct": false }
+      ],
+      "answer": "तुती"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कपड्यांची शोभा वाढवण्यासाठी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "नक्षीकाम आणि भरतकाम", "is_correct": true },
+        { "option_id": 2, "text": "कपडे फाडतात", "is_correct": false },
+        { "option_id": 3, "text": "माती लावतात", "is_correct": false },
+        { "option_id": 4, "text": "केवळ धुतात", "is_correct": false }
+      ],
+      "answer": "नक्षीकाम और भरतकाम"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कापूस वेचण्याचे काम कोठे केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कारखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "शेतात", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "शेतात"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कागदाच्या लगद्यापासून काय बनवता येते?",
+      "options": [
+        { "option_id": 1, "text": "कापड", "is_correct": false },
+        { "option_id": 2, "text": "पुठ्ठा", "is_correct": true },
+        { "option_id": 3, "text": "धागा", "is_correct": false },
+        { "option_id": 4, "text": "लोकर", "is_correct": false }
+      ],
+      "answer": "पुठ्ठा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "लहान मुलांचे कपडे कसे असावेत?",
+      "options": [
+        { "option_id": 1, "text": "टोचणारे", "is_correct": false },
+        { "option_id": 2, "text": "आरामदायक आणि सुती", "is_correct": true },
+        { "option_id": 3, "text": "जाड आणि कडक", "is_correct": false },
+        { "option_id": 4, "text": "पॉलिस्टरचे", "is_correct": false }
+      ],
+      "answer": "आरामदायक आणि सुती"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कपड्यांच्या जाहिराती कशासाठी केल्या जातात?",
+      "options": [
+        { "option_id": 1, "text": "माहिती देण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "विक्री वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कपडे मोफत देण्यासाठी", "is_correct": false }
+      ],
+      "answer": "विक्री वाढवण्यासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कोष्टी म्हणजे कोण?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 2, "text": "कापड विणणारा", "is_correct": true },
+        { "option_id": 3, "text": "लोखंडाचे काम करणारा", "is_correct": false },
+        { "option_id": 4, "text": "कुंभार", "is_correct": false }
+      ],
+      "answer": "कापड विणणारा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशाचा धागा सर्वात मजबूत असतो?",
+      "options": [
+        { "option_id": 1, "text": "कापूस", "is_correct": false },
+        { "option_id": 2, "text": "नायलॉन", "is_correct": true },
+        { "option_id": 3, "text": "लोकर", "is_correct": false },
+        { "option_id": 4, "text": "केळीचा धागा", "is_correct": false }
+      ],
+      "answer": "नायलॉन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "जुन्या साड्यांपासून काय बनवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "गोधडी", "is_correct": true },
+        { "option_id": 2, "text": "लोकर", "is_correct": false },
+        { "option_id": 3, "text": "कापूस", "is_correct": false },
+        { "option_id": 4, "text": "नायलॉन", "is_correct": false }
+      ],
+      "answer": "गोधडी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "माणसाच्या तीन मूलभूत गरजा कोणत्या?",
+      "answer": "अन्न, वस्त्र आणि निवारा या माणसाच्या तीन मूलभूत गरजा आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कापड कशापासून बनवले जाते?",
+      "answer": "कापड विविध प्रकारच्या धाग्यांपासून विणून बनवले जाते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक धागे कशापासून मिळतात?",
+      "answer": "नैसर्गिक धागे कापूस, लोकर, रेशीम, ताग आणि अंबाडी यांसारख्या वनस्पती आणि प्राण्यांपासून मिळतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कृत्रिम धागे म्हणजे काय?",
+      "answer": "मानवनिर्मित रसायनांपासून बनवलेल्या धाग्यांना कृत्रिम धागे म्हणतात, उदा. नायलॉन, टेरेलीन."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात उबदार कपड्यांची गरज का असते?",
+      "answer": "बाहेरच्या थंडीपासून शरीराचे संरक्षण करण्यासाठी आणि शरीराची ऊब टिकवण्यासाठी हिवाळ्यात उबदार कपड्यांची गरज असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात सूती कपडे का वापरावेत?",
+      "answer": "सूती कपडे घाम शोषून घेतात आणि शरीर थंड ठेवण्यास मदत करतात, म्हणून उन्हाळ्यात सूती कपडे वापरावेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यातील कपडे कशाचे बनलेले असतात?",
+      "answer": "पावसाळ्यातील रेनकोट किंवा छत्री हे प्लास्टिक किंवा कृत्रिम धाग्यांपासून बनलेले असतात जे पाणी शोषत नाहीत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हातमाग म्हणजे काय?",
+      "answer": "हाताने चालवल्या जाणाऱ्या कापड विणण्याच्या यंत्राला हातमाग म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "यंत्रमाग म्हणजे काय?",
+      "answer": "विजेवर चालणाऱ्या कापड विणण्याच्या यंत्राला यंत्रमाग म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्रातील कापड उद्योगाची दोन केंद्रे सांगा.",
+      "answer": "इचलकरंजी आणि सोलापूर ही महाराष्ट्रातील कापड उद्योगाची दोन प्रमुख केंद्रे आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पैठणी साडीची वैशिष्ट्ये काय आहेत?",
+      "answer": "पैठणी साडी रेशमी असते आणि तिच्या पदरावर मोराची नक्षी असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "जुन्या कपड्यांचे काय करावे?",
+      "answer": "जुने कपडे गरजूंना द्यावेत किंवा त्यांचा पुनर्वापर करून गोधडी, पायपुसणी यांसारख्या वस्तू बनवाव्यात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "स्वदेशी कपड्यांचा वापर का करावा?",
+      "answer": "आपल्या देशातील कारागिरांना रोजगार मिळावा आणि देशाची प्रगती व्हावी यासाठी स्वदेशी कपड्यांचा वापर करावा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सूत कताई म्हणजे काय?",
+      "answer": "कापसापासून धागा (सूत) तयार करण्याच्या प्रक्रियेला सूत कताई म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रेशमी किड्याचा कोश कसा तयार होतो?",
+      "answer": "रेशमी किडा स्वतःभोवती लाळेचा धागा गुंडाळून घेतो, त्यातून कोश तयार होतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "धाग्याला रंग कसा दिला जातो?",
+      "answer": "धागा किंवा कापड विविध नैसर्गिक किंवा कृत्रिम रंगांच्या द्रावणात बुडवून रंग दिला जातो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "लोकर मिळवण्यासाठी कोणत्या प्राण्यांचे केस वापरतात?",
+      "answer": "लोकर मिळवण्यासाठी मेंढी, ससा आणि याक या प्राण्यांचे केस वापरतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कापडावरील छापकाम म्हणजे काय?",
+      "answer": "कापडावर विविध रंगांच्या आणि आकारांच्या ठशांच्या साहाय्याने नक्षी उमटवणे म्हणजे छापकाम होय."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "बोहारीण म्हणजे कोण?",
+      "answer": "जुन्या कपड्यांच्या बदल्यात नवीन भांडी देणाऱ्या व्यक्तीला बोहारीण म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कापड गिरणी म्हणजे काय?",
+      "answer": "ज्या ठिकाणी मोठ्या प्रमाणावर यंत्राच्या साहाय्याने कापड तयार केले जाते, त्याला कापड गिरणी म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "हिमरू शाल कोठे बनवली जाते?",
+      "answer": "हिमरू शाल औरंगाबाद (छत्रपती संभाजीनगर) येथे बनवली जाते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कपडे स्वच्छ का ठेवावेत?",
+      "answer": "आरोग्य चांगले राहण्यासाठी आणि नीटनेटके दिसण्यासाठी कपडे स्वच्छ ठेवावेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "गोधडी कशापासून बनवतात?",
+      "answer": "गोधडी जुन्या सुती साड्या किंवा कपड्यांच्या थरांपासून बनवतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "तागाचा वापर कशासाठी होतो?",
+      "answer": "तागाचा वापर गोणपाट, दोरखंड आणि पिशव्या बनवण्यासाठी होतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पारंपारिक वस्त्रांची दोन उदाहरणे द्या.",
+      "answer": "नऊवारी साडी आणि धोतर ही पारंपारिक वस्त्रांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कपड्यांच्या निवडीवर कोणाचा प्रभाव पडतो?",
+      "answer": "कपड्यांच्या निवडीवर हवामान, परंपरा आणि वैयक्तिक आवड यांचा प्रभाव पडतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कापसाचे बोंड फुटल्यावर काय मिळते?",
+      "answer": "कापसाचे बोंड फुटल्यावर त्यातून पांढरा कापूस बाहेर येतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "स्वच्छ कपडे धुण्यासाठी कोणत्या घरगुती वस्तू वापरतात?",
+      "answer": "रिठा, शिकेकाई आणि कडुनिंबाचा पाला यांसारख्या वस्तू कपडे धुण्यासाठी किंवा जतन करण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नायलॉनचा धागा कोणत्या प्रकारचा आहे?",
+      "answer": "नायलॉनचा धागा हा कृत्रिम किंवा मानवनिर्मित धागा आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कापड उद्योगामुळे काय मिळते?",
+      "answer": "कापड उद्योगामुळे अनेकांना रोजगार मिळतो आणि लोकांच्या वस्त्रांच्या गरजा पूर्ण होतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पैठणी साडीसाठी कोणते ठिकाण प्रसिद्ध आहे?",
+      "answer": "पैठणी साडीसाठी पैठण आणि येवला ही ठिकाणे प्रसिद्ध आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वस्त्र प्रावरणे म्हणजे काय?",
+      "answer": "शरीराचे संरक्षण करण्यासाठी आणि सजवण्यासाठी वापरली जाणारी वस्त्रे म्हणजे वस्त्र प्रावरणे होय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कापड विणणे म्हणजे काय?",
+      "answer": "उभे आणि आडवे धागे एकमेकांत गुंफून कापड तयार करणे म्हणजे कापड विणणे होय."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आदिमानव वस्त्रासाठी काय वापरत असे?",
+      "answer": "आदिमानव वस्त्रासाठी झाडांच्या साली आणि प्राण्यांची चामडी वापरत असे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सूत कताईसाठी महात्मा गांधी कोणते साधन वापरत?",
+      "answer": "सूत कताईसाठी महात्मा गांधी चरखा वापरत असत."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "धागा तयार करण्याच्या प्रक्रियेला काय म्हणतात?",
+      "answer": "धागा तयार करण्याच्या प्रक्रियेला कताई (Spinning) म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "रेशमी धागा कसा असतो?",
+      "answer": "रेशमी धागा मऊ, चमकदार आणि मजबूत असतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कापड उद्योगाचे जुने नाव काय?",
+      "answer": "कापड उद्योगाला पूर्वी विणकाम व्यवसाय असे म्हटले जाई."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "विविध प्रांतांत कपडे वेगवेगळे का असतात?",
+      "answer": "तिथले हवामान आणि संस्कृती वेगळी असल्यामुळे कपडे वेगवेगळे असतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "जुन्या सुती कपड्यांपासून कागद कसा बनवतात?",
+      "answer": "जुन्या कपड्यांचा लगदा करून त्यावर प्रक्रिया करून कागद बनवला जातो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कपड्यांना सुरकुत्या पडू नयेत म्हणून काय करतात?",
+      "answer": "कपड्यांना सुरकुत्या पडू नयेत म्हणून त्यांना इस्त्री करतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कपड्यांचा मानवी व्यक्तिमत्त्वावर काय परिणाम होतो?",
+      "answer": "स्वच्छ आणि टापटीप कपड्यांमुळे माणूस अधिक आत्मविश्वासू आणि प्रभावशाली दिसतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कपड्यातून पाणी का गळते?",
+      "answer": "धाग्यांमध्ये सूक्ष्म छिद्रे असल्यामुळे त्यातून पाणी गळते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "छपाई म्हणजे काय?",
+      "answer": "कापडावर रंगीत नक्षी उमटवण्याच्या कलेला छपाई म्हणतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "भरतकाम कशाला म्हणतात?",
+      "answer": "सुई-दोऱ्याच्या साहाय्याने कापडावर नक्षी काढण्याच्या कलेला भरतकाम म्हणतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "लोकरीचे कपडे कोणत्या ऋतूत विकले जातात?",
+      "answer": "लोकरीचे कपडे प्रामुख्याने हिवाळ्याच्या ऋतूत विकले जातात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "तागाची लागवड कोणत्या भागात जास्त होते?",
+      "answer": "तागाची लागवड भरपूर पाऊस असलेल्या प्रदेशात (उदा. पश्चिम बंगाल) जास्त होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक रंग कशापासून मिळवतात?",
+      "answer": "नैसर्गिक रंग फुले, पाने, झाडांची साल आणि फळांपासून मिळवतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "यंत्रमागावर कापड लवकर का तयार होते?",
+      "answer": "यंत्रमाग विजेवर चालतो आणि तो वेगवान असतो, म्हणून तिथे कापड लवकर तयार होते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कपड्यांमधील विविधता कशामुळे येते?",
+      "answer": "धाग्याचा प्रकार, विणण्याची पद्धत आणि रंगांची निवड यामुळे कपड्यांत विविधता येते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "कापसाचा उपयोग कशासाठी होतो?",
+      "answer": "कापसाचा उपयोग गाद्या, उश्या आणि सूती कपडे बनवण्यासाठी होतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "केळीच्या खुंटापासून काय मिळवतात?",
+      "answer": "केळीच्या खुंटापासून मजबूत धागे मिळवले जातात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "हातमागाचा फायदा काय?",
+      "answer": "हातमागामुळे कमी खर्चात आणि ग्रामीण भागातही कापड विणता येते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "धागा मजबूत आहे हे कसे ओळखावे?",
+      "answer": "धागा ओढून पाहिल्यास तो लवकर तुटला नाही, तर तो मजबूत आहे असे समजावे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "लोकरीच्या स्वेटरची काळजी कशी घ्यावी?",
+      "answer": "लोकरीचा स्वेटर मऊ साबणाने धुवावा आणि तो सावलीत वाळवावा."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "खण कापडाचे गाव कोणते?",
+      "answer": "इरकल (कर्नाटक सीमा भाग) हे खण कापडासाठी प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "कपड्यांचा कचरा टाळण्यासाठी काय करावे?",
+      "answer": "कपड्यांचा गरजेनुसार वापर करावा आणि फाटलेल्या कपड्यांचा पुनर्वापर करावा."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "रेशमी धागा कोणत्या कोशापासून निघतो?",
+      "answer": "रेशमी धागा 'प्युपा' या अवस्थेतील कोशापासून निघतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कापड विणण्याच्या प्रक्रियेला काय म्हणतात?",
+      "answer": "कापड विणण्याच्या प्रक्रियेला विणकाम (Weaving) म्हणतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "वस्र उद्योगाचे महत्त्व सांगा.",
+      "answer": "वस्त्र उद्योग ही मानवाची प्राथमिक गरज पूर्ण करतो आणि अर्थव्यवस्थेला हातभार लावतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कापड कशावर कापले जाते?",
+      "answer": "कापड मापाप्रमाणे कात्रीने कापले जाते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "शिंपी म्हणजे कोण?",
+      "answer": "कापड शिवून त्याचे कपडे तयार करणाऱ्या व्यक्तीला शिंपी म्हणतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "धागा विणण्यासाठी कशाचा वापर होतो?",
+      "answer": "धागा विणण्यासाठी सुया किंवा विणण्याच्या काट्यांचा वापर होतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "नारळाचा काथ्या कशासाठी वापरतात?",
+      "answer": "नारळाचा काथ्या पायपुसणी आणि गाद्यांमध्ये भरण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "लहान बाळासाठी कोणत्या कापडाची झबले वापरतात?",
+      "answer": "लहान बाळासाठी मऊ सूती कापडाची झबले वापरतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "कपडे का रंगवले जातात?",
+      "answer": "कपडे आकर्षक आणि सुंदर दिसण्यासाठी ते विविध रंगांत रंगवले जातात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "लोकर कशी तयार केली जाते?",
+      "answer": "प्राण्यांचे केस स्वच्छ करून, पिंजून आणि कताई करून लोकर तयार केली जाते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "खादीचे कापड कशापासून बनते?",
+      "answer": "खादीचे कापड हाताने कातलेल्या सुतापासून बनते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कपड्यांचा साठा का करू नये?",
+      "answer": "जास्त साठ्यामुळे कपडे खराब होतात आणि साधनसंपत्ती वाया जाते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "विणकाम आणि विणणे यात काय फरक आहे?",
+      "answer": "विणणे हे यंत्रावर किंवा मागावर होते, तर विणकाम हे हाताने काट्यांच्या साहाय्याने केले जाते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "कापसाचे उत्पादन कोणत्या राज्यात जास्त होते?",
+      "answer": "महाराष्ट्रात आणि गुजरातमध्ये कापसाचे उत्पादन जास्त होते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कपड्यांमुळे उन्हापासून संरक्षण कसे होते?",
+      "answer": "कपडे सूर्याची उष्णता थेट शरीरापर्यंत पोहोचू देत नाहीत, म्हणून संरक्षण होते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सूत कताई म्हणजे काय?",
+      "answer": "कापसाच्या तंतूंना पीळ देऊन धागा तयार करणे म्हणजे सूत कताई होय."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "धाग्यांची लांबी कशी वाढवतात?",
+      "answer": "एका धाग्याला दुसरा धागा जोडून किंवा पीळ देऊन त्याची लांबी वाढवतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "रेशीम शेतीला काय म्हणतात?",
+      "answer": "रेशीम शेतीला 'सेरीकल्चर' (Sericulture) म्हणतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राचे वस्त्र वैभव कशात आहे?",
+      "answer": "पैठणी, हिमशाल आणि सोलापुरी चादरी यामध्ये महाराष्ट्राचे वस्त्र वैभव आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "कापडाचा पोत कसा ओळखतात?",
+      "answer": "कापडाला स्पर्श करून किंवा भिंगाने पाहून त्याचा पोत ओळखतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "धोतर हे कापड कशापासून बनते?",
+      "answer": "धोतर हे कापड प्रामुख्याने कापसाच्या सुतापासून विणले जाते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "नारळातून काय मिळते?",
+      "answer": "नारळाच्या कवचावरील शेंडीपासून काथ्या मिळतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कपड्यांचा उबदारपणा कशावर अवलंबून असतो?",
+      "answer": "धाग्याचा प्रकार आणि विणकामाची घनता यावर उबदारपणा अवलंबून असतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "सुती कापड लवकर का वाळते?",
+      "answer": "सुती कापड पाणी शोषते आणि हवेच्या संपर्कात आल्यावर बाष्पीभवनामुळे लवकर वाळते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "पैठणीवरील मोर कशाचे प्रतीक आहे?",
+      "answer": "पैठणीवरील मोर हा सौंदर्याचे आणि भारतीय संस्कृतीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कापड मऊ करण्यासाठी काय करतात?",
+      "answer": "कापड मऊ करण्यासाठी त्यावर फिनिशिंग प्रक्रिया केली जाते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "जुने कपडे जाळणे योग्य आहे का?",
+      "answer": "नाही, जुने कपडे जाळल्याने हवा प्रदूषण होते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "कापड विणताना 'ताना' आणि 'पिळा' म्हणजे काय?",
+      "answer": "उभ्या धाग्यांना 'ताना' आणि आडव्या धाग्यांना 'पिळा' म्हणतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "तागाचा रंग कसा असतो?",
+      "answer": "तागाचा रंग प्रामुख्याने फिकट तपकिरी किंवा सोनेरी असतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "रेयॉन धागा कशापासून बनतो?",
+      "answer": "रेयॉन धागा लाकडाच्या लगद्यापासून बनवला जातो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कपड्यांच्या शोधात मानवाचा विकास कसा झाला?",
+      "answer": "पाने, चामडी, कापूस आणि आता कृत्रिम धागे असा मानवाचा विकास झाला."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "भारताला 'वस्त्रांचा देश' का म्हणतात?",
+      "answer": "भारतात वस्त्रांची मोठी परंपरा आणि विविधता असल्यामुळे त्याला वस्त्रांचा देश म्हणतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "कापूस कोठून येतो?",
+      "answer": "कापूस कापसाच्या झाडाला लागणाऱ्या बोंडातून येतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "विणकाम व्यवसायाला काय म्हणतात?",
+      "answer": "विणकाम व्यवसायाला 'हातमाग उद्योग' असेही म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "सुती कापड उन्हाळ्यात का हवेसे वाटते?",
+      "answer": "ते घाम शोषून घेते आणि हवेची हालचाल सुलभ करते, म्हणून ते हवेसे वाटते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "कपड्यांवर डिझाईन कोण तयार करतो?",
+      "answer": "कपड्यांवर डिझाईन 'डिझाइनर' किंवा नक्षीकाम करणारे कारागीर तयार करतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "धोबी काय काम करतो?",
+      "answer": "धोबी कपडे धुण्याचे आणि त्यांना इस्त्री करण्याचे काम करतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "कापडाचे तुकडे कशासाठी वापरतात?",
+      "answer": "कापडाचे लहान तुकडे खेळणी किंवा छोटी पाकिटे बनवण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "लोकरीचे कपडे कधी घालावेत?",
+      "answer": "लोकरीचे कपडे कडाक्याच्या थंडीत किंवा हिवाळ्यात घालावेत."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "कापूस स्वच्छ करण्याची प्रक्रिया काय?",
+      "answer": "कापसातून सरकी (बिया) वेगळी करणे ही पहिली स्वच्छतेची प्रक्रिया आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "सूत कताई कोठे होते?",
+      "answer": "सूत कताई सूत गिरण्यांमध्ये किंवा चरख्यावर होते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कपड्यांची जाहिरात कुठे दिसते?",
+      "answer": "कपड्यांची जाहिरात टीव्ही, वर्तमानपत्रे आणि दुकानांच्या फलकांवर दिसते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "वस्त्रांचा आपल्या जीवनातील मुख्य उपयोग काय?",
+      "answer": "वस्त्रांचा मुख्य उपयोग शरीराचे संरक्षण करणे आणि सभ्यता राखणे हा आहे."
+    }
+  ]
+}

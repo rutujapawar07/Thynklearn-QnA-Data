@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 16,
+  "chapter_name": "पाणी",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पाणी निर्जंतुक करण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "ब्लीचिंग पावडर", "is_correct": true },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "ब्लीचिंग पावडर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाण्यामध्ये तुरटी फिरवल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी गोड होते", "is_correct": false },
+        { "option_id": 2, "text": "पाणी गरम होते", "is_correct": false },
+        { "option_id": 3, "text": "कचरा तळाला बसतो", "is_correct": true },
+        { "option_id": 4, "text": "पाणी रंगीत होते", "is_correct": false }
+      ],
+      "answer": "कचरा तळाला बसतो"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नदीचे पाणी दूषित होण्याचे मुख्य कारण काय?",
+      "options": [
+        { "option_id": 1, "text": "मासेमारी", "is_correct": false },
+        { "option_id": 2, "text": "सांडपाणी नदीत सोडणे", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस पडणे", "is_correct": false },
+        { "option_id": 4, "text": "बोटी चालवणे", "is_correct": false }
+      ],
+      "answer": "सांडपाणी नदीत सोडणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाणी शुद्धीकरणाच्या प्रक्रियेत पाण्याचे काय केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "गाळणे आणि निर्जंतुकीकरण", "is_correct": true },
+        { "option_id": 2, "text": "रंगवणे", "is_correct": false },
+        { "option_id": 3, "text": "थंड करणे", "is_correct": false },
+        { "option_id": 4, "text": "गोठवणे", "is_correct": false }
+      ],
+      "answer": "गाळणे आणि निर्जंतुकीकरण"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पाणी साठवण्यासाठी पूर्वी कशाचा वापर केला जात असे?",
+      "options": [
+        { "option_id": 1, "text": "प्लॅस्टिक बादली", "is_correct": false },
+        { "option_id": 2, "text": "मातीची घागर/माठ", "is_correct": true },
+        { "option_id": 3, "text": "काचेचा पेला", "is_correct": false },
+        { "option_id": 4, "text": "स्टीलची टाकी", "is_correct": false }
+      ],
+      "answer": "मातीची घागर/माठ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "जमिनीतील पाणी काढण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "चाळणी", "is_correct": false },
+        { "option_id": 2, "text": "विहीर किंवा कूपनलिका", "is_correct": true },
+        { "option_id": 3, "text": "नळ", "is_correct": false },
+        { "option_id": 4, "text": "बादली", "is_correct": false }
+      ],
+      "answer": "विहीर किंवा कूपनलिका"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दुष्काळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "अतिवृष्टी होणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याची मोठी टंचाई निर्माण होणे", "is_correct": true },
+        { "option_id": 3, "text": "पूर येणे", "is_correct": false },
+        { "option_id": 4, "text": "पीक जोमात येणे", "is_correct": false }
+      ],
+      "answer": "पाण्याची मोठी टंचाई निर्माण होणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी साठवण्याच्या पद्धतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी सिंचन", "is_correct": false },
+        { "option_id": 2, "text": "रेन वॉटर हार्वेस्टिंग", "is_correct": true },
+        { "option_id": 3, "text": "जलविद्युत", "is_correct": false },
+        { "option_id": 4, "text": "बाष्पीभवन", "is_correct": false }
+      ],
+      "answer": "रेन वॉटर हार्वेस्टिंग"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाणी गाळल्यामुळे त्यातील कोणता घटक दूर होतो?",
+      "options": [
+        { "option_id": 1, "text": "विरघळलेले क्षार", "is_correct": false },
+        { "option_id": 2, "text": "अविद्राव्य कचरा", "is_correct": true },
+        { "option_id": 3, "text": "सूक्ष्मजीव", "is_correct": false },
+        { "option_id": 4, "text": "ऑक्सिजन", "is_correct": false }
+      ],
+      "answer": "अविद्राव्य कचरा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाणी उकळल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी चवदार लागते", "is_correct": false },
+        { "option_id": 2, "text": "त्यातील सूक्ष्मजीव मरतात", "is_correct": true },
+        { "option_id": 3, "text": "पाणी कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "पाणी रंगहीन होते", "is_correct": false }
+      ],
+      "answer": "त्यातील सूक्ष्मजीव मरतात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शेतीसाठी पाण्याचा वापर कोणत्या पद्धतीने कमी करता येतो?",
+      "options": [
+        { "option_id": 1, "text": "पूर सिंचन", "is_correct": false },
+        { "option_id": 2, "text": "ठिबक सिंचन", "is_correct": true },
+        { "option_id": 3, "text": "विहिरीतून पाणी सोडणे", "is_correct": false },
+        { "option_id": 4, "text": "नदीचा प्रवाह वळवणे", "is_correct": false }
+      ],
+      "answer": "ठिबक सिंचन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाणी प्रदूषणाचे जलचरांवर काय परिणाम होतात?",
+      "options": [
+        { "option_id": 1, "text": "ते वेगाने वाढतात", "is_correct": false },
+        { "option_id": 2, "text": "त्यांचे अस्तित्व धोक्यात येते", "is_correct": true },
+        { "option_id": 3, "text": "त्यांना स्वच्छ पाणी मिळते", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "त्यांचे अस्तित्व धोक्यात येते"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जलशुद्धीकरण केंद्रात पाण्याची पहिली प्रक्रिया कोणती असते?",
+      "options": [
+        { "option_id": 1, "text": "क्लोरीन मिसळणे", "is_correct": false },
+        { "option_id": 2, "text": "स्थिरीकरण (Settling)", "is_correct": true },
+        { "option_id": 3, "text": "उकळणे", "is_correct": false },
+        { "option_id": 4, "text": "पॅकिंग", "is_correct": false }
+      ],
+      "answer": "स्थिरीकरण (Settling)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाणी हे एक उत्तम _______ आहे.",
+      "options": [
+        { "option_id": 1, "text": "द्रव्य", "is_correct": false },
+        { "option_id": 2, "text": "द्रावक (Solvent)", "is_correct": true },
+        { "option_id": 3, "text": "वायु", "is_correct": false },
+        { "option_id": 4, "text": "घन", "is_correct": false }
+      ],
+      "answer": "द्रावक (Solvent)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाणी जपून वापरण्याच्या सवयीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलसाठा", "is_correct": false },
+        { "option_id": 2, "text": "जलसंवर्धन", "is_correct": true },
+        { "option_id": 3, "text": "जलविद्युत", "is_correct": false },
+        { "option_id": 4, "text": "जलप्रवास", "is_correct": false }
+      ],
+      "answer": "जलसंवर्धन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "जमिनीवर पडलेल्या पावसाच्या पाण्याचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "ते सर्व आकाशात जाते", "is_correct": false },
+        { "option_id": 2, "text": "काही जमिनीत मुरते व काही वाहून जाते", "is_correct": true },
+        { "option_id": 3, "text": "ते अदृश्य होते", "is_correct": false },
+        { "option_id": 4, "text": "ते लगेच बर्फ होते", "is_correct": false }
+      ],
+      "answer": "काही जमिनीत मुरते व काही वाहून जाते"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशामुळे जलप्रदूषण होत नाही?",
+      "options": [
+        { "option_id": 1, "text": "कपडे धुणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यात झाडे लावणे", "is_correct": true },
+        { "option_id": 3, "text": "केमिकल सोडणे", "is_correct": false },
+        { "option_id": 4, "text": "जनावरे धुणे", "is_correct": false }
+      ],
+      "answer": "पाण्यात झाडे लावणे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पाणी शुद्धीकरणासाठी घरगुती स्तरावर काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "वॉटर प्युरिफायर", "is_correct": true },
+        { "option_id": 2, "text": "फ्रीज", "is_correct": false },
+        { "option_id": 3, "text": "ओव्हन", "is_correct": false },
+        { "option_id": 4, "text": "मिक्सर", "is_correct": false }
+      ],
+      "answer": "वॉटर प्युरिफायर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गावांना पाणीपुरवठा करण्यासाठी पाण्याचे साठे कोठे केले जातात?",
+      "options": [
+        { "option_id": 1, "text": "तलावात किंवा धरणात", "is_correct": true },
+        { "option_id": 2, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 3, "text": "बागेत", "is_correct": false },
+        { "option_id": 4, "text": "घराच्या छतावर", "is_correct": false }
+      ],
+      "answer": "तलावात किंवा धरणात"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाणी टंचाईच्या काळात काय करणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "जास्त पाणी वापरणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा काटकसरीने वापर करणे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी फेकून देणे", "is_correct": false },
+        { "option_id": 4, "text": "नळ चालू ठेवणे", "is_correct": false }
+      ],
+      "answer": "पाण्याचा काटकसरीने वापर करणे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सांडपाण्यावर प्रक्रिया केल्याशिवाय ते कोठे सोडू नये?",
+      "options": [
+        { "option_id": 1, "text": "खड्ड्यात", "is_correct": false },
+        { "option_id": 2, "text": "जलस्त्रोतांमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "मैदानात", "is_correct": false },
+        { "option_id": 4, "text": "गटारात", "is_correct": false }
+      ],
+      "answer": "जलस्त्रोतांमध्ये"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाण्याचा सर्वात मोठा नैसर्गिक स्त्रोत कोणता?",
+      "options": [
+        { "option_id": 1, "text": "विहीर", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "धरण", "is_correct": false },
+        { "option_id": 4, "text": "नळ", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सांडपाण्यामुळे कोणते आजार पसरू शकतात?",
+      "options": [
+        { "option_id": 1, "text": "कॅन्सर", "is_correct": false },
+        { "option_id": 2, "text": "अतिसार आणि कावीळ", "is_correct": true },
+        { "option_id": 3, "text": "हाड मोडणे", "is_correct": false },
+        { "option_id": 4, "text": "मधुमेह", "is_correct": false }
+      ],
+      "answer": "अतिसार आणि कावीळ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कूपनलिका कशासाठी वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "हवा भरण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "खूप खोलवरचे पाणी काढण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कचरा टाकण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झाडे लावण्यासाठी", "is_correct": false }
+      ],
+      "answer": "खूप खोलवरचे पाणी काढण्यासाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाणी गाळण्यासाठी घरामध्ये काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कापड किंवा गाळणी", "is_correct": true },
+        { "option_id": 2, "text": "चमचा", "is_correct": false },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "कापड किंवा गाळणी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "धरण बांधल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "नदी कोरडी पडते", "is_correct": false },
+        { "option_id": 2, "text": "पाणी साठवून वर्षभर वापरता येते", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस पडत नाही", "is_correct": false },
+        { "option_id": 4, "text": "नदीचा वेग वाढतो", "is_correct": false }
+      ],
+      "answer": "पाणी साठवून वर्षभर वापरता येते"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "बाष्पीभवन म्हणजे पाण्याचे रूपांतर _______ मध्ये होणे.",
+      "options": [
+        { "option_id": 1, "text": "बर्फात", "is_correct": false },
+        { "option_id": 2, "text": "वाफेत", "is_correct": true },
+        { "option_id": 3, "text": "मातीत", "is_correct": false },
+        { "option_id": 4, "text": "दगडात", "is_correct": false }
+      ],
+      "answer": "वाफेत"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "दूषित पाण्यावर प्रक्रिया करणाऱ्या केंद्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कारखाना", "is_correct": false },
+        { "option_id": 2, "text": "सांडपाणी प्रक्रिया केंद्र", "is_correct": true },
+        { "option_id": 3, "text": "बँक", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "सांडपाणी प्रक्रिया केंद्र"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाणी हे सजीवांसाठी का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पोहण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जीवंत राहण्यासाठी आणि वाढीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कपडे भिजवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जीवंत राहण्यासाठी आणि वाढीसाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पाण्याच्या टाकीत क्लोरीन का मिसळतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी गोड करण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जंतू मारण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी थंड करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी जड करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जंतू मारण्यासाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "निसर्गातील जलचक्रामध्ये कोणत्या प्रक्रियेचा समावेश होतो?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन आणि सांद्रीभवन", "is_correct": true },
+        { "option_id": 2, "text": "फक्त गरम होणे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त विरघळणे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त गोठणे", "is_correct": false }
+      ],
+      "answer": "बाष्पीभवन आणि सांद्रीभवन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "जागतिक जल दिन कधी साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "५ जून", "is_correct": false },
+        { "option_id": 2, "text": "२२ मार्च", "is_correct": true },
+        { "option_id": 3, "text": "१ मे", "is_correct": false },
+        { "option_id": 4, "text": "१५ ऑगस्ट", "is_correct": false }
+      ],
+      "answer": "२२ मार्च"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जमिनीत मुरलेल्या पाण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नदीचे पाणी", "is_correct": false },
+        { "option_id": 2, "text": "भूजल", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राचे पाणी", "is_correct": false },
+        { "option_id": 4, "text": "सांडपाणी", "is_correct": false }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पाणी साठवण्याचे आधुनिक साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "पन्हाळ", "is_correct": false },
+        { "option_id": 2, "text": "धरण", "is_correct": true },
+        { "option_id": 3, "text": "माठ", "is_correct": false },
+        { "option_id": 4, "text": "विहीर", "is_correct": false }
+      ],
+      "answer": "धरण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "समुद्राचे पाणी चवीला कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "गोड", "is_correct": false },
+        { "option_id": 2, "text": "खारट", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "तुरट", "is_correct": false }
+      ],
+      "answer": "खारट"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पावसाचे प्रमाण कमी झाल्यावर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पूर येतो", "is_correct": false },
+        { "option_id": 2, "text": "दुष्काळ पडतो", "is_correct": true },
+        { "option_id": 3, "text": "थंडी वाढते", "is_correct": false },
+        { "option_id": 4, "text": "झाडे वाढतात", "is_correct": false }
+      ],
+      "answer": "दुष्काळ पडतो"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पाण्याच्या प्रदूषणाने खालीलपैकी कशावर परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवेवर", "is_correct": false },
+        { "option_id": 2, "text": "सार्वजनिक आरोग्यावर", "is_correct": true },
+        { "option_id": 3, "text": "तारकांवर", "is_correct": false },
+        { "option_id": 4, "text": "चंद्रावर", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक आरोग्यावर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शुद्ध पाणी कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "लाल रंगाचे", "is_correct": false },
+        { "option_id": 2, "text": "रंगहीन, गंधहीन आणि पारदर्शक", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "ढवळट", "is_correct": false }
+      ],
+      "answer": "रंगहीन, गंधहीन आणि पारदर्शक"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पिण्यासाठी योग्य पाण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खारट पाणी", "is_correct": false },
+        { "option_id": 2, "text": "पेयजल", "is_correct": true },
+        { "option_id": 3, "text": "सांडपाणी", "is_correct": false },
+        { "option_id": 4, "text": "डबक्यातील पाणी", "is_correct": false }
+      ],
+      "answer": "पेयजल"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नळातून येणारे पाणी थेट पिणे सुरक्षित असते का?",
+      "options": [
+        { "option_id": 1, "text": "हो, नेहमीच", "is_correct": false },
+        { "option_id": 2, "text": "नाही, ते शुद्ध करून प्यावे", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त उन्हाळ्यात", "is_correct": false }
+      ],
+      "answer": "नाही, ते शुद्ध करून प्यावे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कारखान्यातील दूषित पाणी नदीत सोडल्यास काय होईल?",
+      "options": [
+        { "option_id": 1, "text": "नदी स्वच्छ होईल", "is_correct": false },
+        { "option_id": 2, "text": "नदीचे पाणी प्रदूषित होईल", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस जास्त पडेल", "is_correct": false },
+        { "option_id": 4, "text": "मासे मोठे होतील", "is_correct": false }
+      ],
+      "answer": "नदीचे पाणी प्रदूषित होईल"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशासाठी पाण्याची गरज नसते?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाक", "is_correct": false },
+        { "option_id": 2, "text": "मोबाईल चालवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "अंघोळ", "is_correct": false },
+        { "option_id": 4, "text": "शेती", "is_correct": false }
+      ],
+      "answer": "मोबाईल चालवण्यासाठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पाणी वाया जाणे टाळण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "नळ चालू ठेवावा", "is_correct": false },
+        { "option_id": 2, "text": "गरजेपुरतेच पाणी वापरावे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी रस्त्यावर ओतावे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी भरून सांडून द्यावे", "is_correct": false }
+      ],
+      "answer": "गरजेपुरतेच पाणी वापरावे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "जमिनीत पाणी मुरवण्यासाठी काय केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रस्ते सिमेंटचे करणे", "is_correct": false },
+        { "option_id": 2, "text": "शोषखड्डे तयार करणे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी वाहून जाऊ देणे", "is_correct": false },
+        { "option_id": 4, "text": "झाडे तोडणे", "is_correct": false }
+      ],
+      "answer": "शोषखड्डे तयार करणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पाण्यातील कचरा खाली बसण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 2, "text": "नितळणे किंवा स्थिरीकरण", "is_correct": true },
+        { "option_id": 3, "text": "उकळणे", "is_correct": false },
+        { "option_id": 4, "text": "गाळणे", "is_correct": false }
+      ],
+      "answer": "नितळणे किंवा स्थिरीकरण"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कोणत्या ऋतूत पाण्याची जास्त टंचाई भासते?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 3, "text": "उन्हाळा", "is_correct": true },
+        { "option_id": 4, "text": "सर्व ऋतूत सारखीच", "is_correct": false }
+      ],
+      "answer": "उन्हाळा"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी साठवून ठेवल्याने काय फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीत पाणी मुरते व टंचाई कमी होते", "is_correct": true },
+        { "option_id": 2, "text": "पाऊस पडणे बंद होते", "is_correct": false },
+        { "option_id": 3, "text": "पाणी घाण होते", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "जमिनीत पाणी मुरते व टंचाई कमी होते"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "आपल्या शरीरात पाण्याचे प्रमाण किती असते?",
+      "options": [
+        { "option_id": 1, "text": "१० टक्के", "is_correct": false },
+        { "option_id": 2, "text": "७० टक्के", "is_correct": true },
+        { "option_id": 3, "text": "५ टक्के", "is_correct": false },
+        { "option_id": 4, "text": "१०० टक्के", "is_correct": false }
+      ],
+      "answer": "७० टक्के"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाणी स्वच्छ करण्यासाठी काय करणे सर्वात सोपे आहे?",
+      "options": [
+        { "option_id": 1, "text": "गाळणे", "is_correct": true },
+        { "option_id": 2, "text": "रंगवणे", "is_correct": false },
+        { "option_id": 3, "text": "तसेच ठेवणे", "is_correct": false },
+        { "option_id": 4, "text": "दूध मिसळणे", "is_correct": false }
+      ],
+      "answer": "गाळणे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पाणी प्रदूषण रोखण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "नदीकाठी कचरा टाकावा", "is_correct": false },
+        { "option_id": 2, "text": "सांडपाण्यावर प्रक्रिया करूनच ते सोडले जावे", "is_correct": true },
+        { "option_id": 3, "text": "नदीत केमिकल ओतावे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही करू नये", "is_correct": false }
+      ],
+      "answer": "सांडपाण्यावर प्रक्रिया करूनच ते सोडले जावे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पाण्याचे प्रदूषण म्हणजे काय?",
+      "answer": "पाण्यात कचरा, सांडपाणी किंवा विषारी द्रव्ये मिसळल्यामुळे पाणी पिण्यास अयोग्य होते, याला जलप्रदूषण म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पिण्याचे पाणी स्वच्छ आणि सुरक्षित असणे का गरजेचे आहे?",
+      "answer": "दूषित पाण्यामुळे कॉलरा, टायफॉइड, कावीळ यांसारखे आजार होऊ शकतात, म्हणून पाणी सुरक्षित असणे गरजेचे आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाणी निर्जंतुक करण्यासाठी कोणती प्रक्रिया केली जाते?",
+      "answer": "पाणी निर्जंतुक करण्यासाठी ते उकळले जाते किंवा त्यामध्ये क्लोरीन, ब्लीचिंग पावडर यांसारखी औषधे मिसळली जातात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाण्याचे नैसर्गिक स्त्रोत कोणते आहेत?",
+      "answer": "पाऊस, नद्या, तलाव, झरे आणि विहिरी हे पाण्याचे नैसर्गिक स्त्रोत आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सांडपाणी म्हणजे काय?",
+      "answer": "घरांमध्ये, कारखान्यांमध्ये वापरून दूषित झालेले पाणी म्हणजे सांडपाणी होय."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शेतीसाठी पाण्याचा काटकसरीने वापर करण्यासाठी कोणती पद्धत वापरतात?",
+      "answer": "शेतीसाठी ठिबक सिंचन आणि तुषार सिंचन या पद्धतींचा वापर करून पाण्याची बचत केली जाते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भूजल म्हणजे काय?",
+      "answer": "पावसाचे पाणी जमिनीत मुरते आणि खडकांच्या भेगांमध्ये साठते, त्या पाण्याला भूजल म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रेन वॉटर हार्वेस्टिंगचा मुख्य उद्देश काय आहे?",
+      "answer": "पावसाचे पाणी वाहून जाऊ न देता ते साठवणे किंवा जमिनीत मुरवणे हा याचा मुख्य उद्देश आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पाण्यातील सूक्ष्मजीव कसे नष्ट होतात?",
+      "answer": "पाणी १५ ते २० मिनिटे उकळल्यामुळे त्यातील सूक्ष्मजीव मरतात आणि पाणी पिण्यायोग्य होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "जलशुद्धीकरण केंद्र म्हणजे काय?",
+      "answer": "ज्या ठिकाणी सार्वजनिक पाणीपुरवठ्यासाठी पाणी साठवून त्यावर प्रक्रिया करून ते शुद्ध केले जाते, त्याला जलशुद्धीकरण केंद्र म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सांद्रीभवन म्हणजे काय?",
+      "answer": "पाण्याच्या वाफेचे पुन्हा पाण्यात रूपांतर होण्याच्या क्रियेला सांद्रीभवन म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दुष्काळाचे परिणाम काय होतात?",
+      "answer": "दुष्काळामुळे पाण्याची टंचाई निर्माण होते, पिके वाळून जातात आणि जनावरांना चारा-पाणी मिळत नाही."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पाणी जपून वापरण्याचे दोन उपाय सांगा.",
+      "answer": "नळ चालू न ठेवणे आणि पाण्याचा पुनर्वापर (उदा. कपडे धुतलेले पाणी बागेला देणे) करणे हे उपाय आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "विद्राव्य पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ पाण्यात पूर्णपणे विरघळतात, त्यांना विद्राव्य पदार्थ म्हणतात (उदा. साखर, मीठ)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "अविद्राव्य पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ पाण्यात विरघळत नाहीत, त्यांना अविद्राव्य पदार्थ म्हणतात (उदा. वाळू, दगड)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाणी 'नितळणे' म्हणजे काय?",
+      "answer": "गढूळ पाणी काही वेळ स्थिर ठेवल्यास त्यातील कचरा खाली बसतो, याला पाणी नितळणे म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "तुरटीचा वापर पाण्यात का केला जातो?",
+      "answer": "गढूळ पाण्यातील मातीचे कण लवकर खाली बसावेत यासाठी पाण्यात तुरटी फिरवली जाते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाणी साठवण्याची जुनी साधने कोणती?",
+      "answer": "विहीर, आड, हौद आणि पन्हाळ ही पाणी साठवण्याची जुनी साधने आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "जलचक्र म्हणजे काय?",
+      "answer": "सूर्याच्या उष्णतेने बाष्पीभवन, ढग निर्मिती आणि पाऊस या सातत्याने घडणाऱ्या चक्राला जलचक्र म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सांडपाण्यावर प्रक्रिया करणे का आवश्यक आहे?",
+      "answer": "सांडपाणी नदीत सोडण्यापूर्वी त्यावर प्रक्रिया न केल्यास नदीचे पाणी प्रदूषित होऊन जलचरांना धोका निर्माण होतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पाण्याला रंग असतो का?",
+      "answer": "नाही, शुद्ध पाणी रंगहीन असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "धरणे बांधण्याचे फायदे काय आहेत?",
+      "answer": "धरणामुळे शेतीसाठी, पिण्यासाठी आणि वीज निर्मितीसाठी मोठ्या प्रमाणावर पाणी उपलब्ध होते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पाण्याचे तीन अवस्था कोणत्या?",
+      "answer": "बर्फ (घन), पाणी (द्रव) आणि वाफ (वायू) या पाण्याच्या तीन अवस्था आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पिण्याचे पाणी साठवण्याच्या भांड्यावर झाकण का असावे?",
+      "answer": "पाण्यात धूळ आणि कचरा पडू नये तसेच ते सुरक्षित राहावे यासाठी भांड्यावर झाकण असावे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ओघळ म्हणजे काय?",
+      "answer": "पावसाचे पाणी उतारावरून वाहताना छोट्या धारा तयार होतात, त्यांना ओघळ म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "धुण्याचे पाणी बागेला का वापरावे?",
+      "answer": "पाण्याचा पुनर्वापर करून पाण्याची बचत करण्यासाठी धुण्याचे पाणी बागेला वापरणे फायद्याचे ठरते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "विहिरीचे पाणी का दूषित होते?",
+      "answer": "विहिरीजवळ कपडे धुणे, भांडी घासणे किंवा कचरा पडणे यामुळे विहिरीचे पाणी दूषित होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक जलशुद्धीकरण केंद्रात ऑक्सिजनीकरण म्हणजे काय?",
+      "answer": "पाण्यात हवा मिसळून त्यातील ऑक्सिजनचे प्रमाण वाढवण्याच्या क्रियेला ऑक्सिजनीकरण म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पाणी पारदर्शक असते म्हणजे काय?",
+      "answer": "ज्या पदार्थातून पलीकडची वस्तू स्पष्ट दिसते त्याला पारदर्शक म्हणतात, पाण्यातून पलीकडचे दिसते म्हणून ते पारदर्शक आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाण्याच्या भांड्यातून पाणी काढण्यासाठी कशाचा वापर करावा?",
+      "answer": "पाण्याच्या भांड्यातून पाणी काढण्यासाठी लांब दांड्याच्या पळीचा किंवा ओगराळ्याचा वापर करावा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पाणी निर्जंतुक करण्यासाठी कोणती पावडर वापरतात?",
+      "answer": "पाणी निर्जंतुक करण्यासाठी ब्लीचिंग पावडर (TCL) वापरतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पाण्याची टंचाई का निर्माण होते?",
+      "answer": "पावसाचे प्रमाण कमी होणे, वाढती लोकसंख्या आणि पाण्याचा अपव्यय यामुळे टंचाई निर्माण होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नळातून पाणी येत नसेल तर लोक पाणी कोठून आणतात?",
+      "answer": "नळातून पाणी येत नसेल तर लोक टँकर, विहीर, कूपनलिका किंवा जवळच्या नदीतून पाणी आणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी जमिनीत का मुरवावे?",
+      "answer": "भूजलाची पातळी वाढवण्यासाठी आणि भविष्यातील पाणी टंचाई दूर करण्यासाठी पावसाचे पाणी जमिनीत मुरवावे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पिण्याच्या पाण्यासाठी कोणत्या गुणधर्मांची तपासणी केली जाते?",
+      "answer": "पिण्याचे पाणी पारदर्शक, दुर्गंधीरहित आणि जंतूमुक्त असावे लागते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "गाळाचा पाण्याचा निचरा कसा होतो?",
+      "answer": "गढूळ पाणी स्थिर ठेवल्यास जड मातीचे कण तळाला बसतात आणि वर स्वच्छ पाणी मिळते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पाण्याचा उपसा म्हणजे काय?",
+      "answer": "विहीर किंवा नदीतून पंपाद्वारे किंवा मोटेद्वारे पाणी बाहेर काढण्याच्या क्रियेला पाण्याचा उपसा म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "सांडपाण्यावर प्रक्रिया करणाऱ्या यंत्रणेला काय म्हणतात?",
+      "answer": "सांडपाण्यावर प्रक्रिया करणाऱ्या यंत्रणेला 'सांडपाणी शुद्धीकरण संयंत्र' (STP) म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पाणी खराब होऊ नये म्हणून काय काळजी घ्यावी?",
+      "answer": "पाणी नेहमी स्वच्छ जागी ठेवावे, भांड्यावर झाकण ठेवावे आणि घाणेरडे हात पाण्यात घालू नयेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "झाडांना पाणी देण्याची योग्य वेळ कोणती?",
+      "answer": "झाडांना पाणी देण्याची योग्य वेळ सकाळी किंवा संध्याकाळी आहे, जेणेकरून पाण्याचे बाष्पीभवन कमी होईल."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पाण्यात तेल मिसळल्यास काय होते?",
+      "answer": "पाण्यात तेल मिसळल्यास ते पाण्यावर तरंगते आणि पाण्यातील ऑक्सिजनचे प्रमाण कमी करते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पाण्याचा विरघळलेला कचरा म्हणजे काय?",
+      "answer": "पाण्यात विरघळलेले क्षार किंवा रसायने म्हणजे विरघळलेला कचरा होय जो डोळ्यांनी दिसत नाही."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "जगातील किती टक्के पाणी पिण्यायोग्य आहे?",
+      "answer": "जगातील एकूण पाण्यापैकी केवळ १ टक्क्यांहून कमी पाणी पिण्यायोग्य गोड पाणी आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ओढा आणि नदी यामध्ये काय फरक आहे?",
+      "answer": "ओढा हा लहान असतो, तर अनेक ओढे मिळून मोठी नदी तयार होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "पाणी साठवण्यासाठी बांधलेली सिमेंटची टाकी स्वच्छ करणे का गरजेचे आहे?",
+      "answer": "टाकीत शेवाळ आणि गाळ साठल्याने पाणी दूषित होते, म्हणून ती वेळोवेळी स्वच्छ करणे गरजेचे आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पाण्यातील जड वस्तूंचे काय होते?",
+      "answer": "पाण्यातील जड वस्तू तळाशी बुडतात, तर हलक्या वस्तू पाण्यावर तरंगतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पाणीटंचाईसाठी मानवी कृती कशा जबाबदार आहेत?",
+      "answer": "वृक्षतोड, वाढते शहरीकरण आणि पाण्याचा वारेमाप वापर यामुळे मानवी कृती टंचाईला कारणीभूत आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वॉटर प्युरिफायर कसे कार्य करते?",
+      "answer": "वॉटर प्युरिफायर गाळणी आणि अतिनील किरणांचा वापर करून पाण्यातील अशुद्धी आणि जंतू नष्ट करते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "निसर्गाचे संतुलन राखण्यासाठी पाण्याची भूमिका काय आहे?",
+      "answer": "पाणी वनस्पतींना अन्न तयार करण्यास मदत करते आणि सर्व प्राण्यांची तहान भागवून निसर्गाचे चक्र चालू ठेवते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पाण्याचे संवर्धन म्हणजे काय?",
+      "answer": "उपलब्ध पाण्याचा जपून वापर करणे आणि जास्तीत जास्त पाणी साठवण्याच्या प्रयत्नांना जलसंवर्धन म्हणतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "वाफेचे ढग कसे तयार होतात?",
+      "answer": "सूर्याच्या उष्णतेने पाण्याची वाफ होते, ती हलकी असल्याने वर जाते आणि थंड होऊन ढग तयार होतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "मत्स्यव्यवसायासाठी पाण्याची शुद्धता का आवश्यक आहे?",
+      "answer": "प्रदूषित पाण्यात मासे आणि इतर जलचर मरतात, म्हणून मत्स्यव्यवसायासाठी पाणी शुद्ध असणे गरजेचे आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "धुणी-भांडी करण्यासाठी वापरलेल्या पाण्याचा पुन्हा कसा वापर करता येईल?",
+      "answer": "हे पाणी अंगण झाडण्यासाठी किंवा संडास-बाथरूमच्या स्वच्छतेसाठी वापरता येईल."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "डबक्यातील पाणी का पिऊ नये?",
+      "answer": "डबक्यातील पाणी साठलेले असते, त्यात सूक्ष्मजीव आणि घाण असते, त्यामुळे आजार होऊ शकतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "बाष्पीभवन कोणत्या ऋतूत सर्वात वेगाने होते?",
+      "answer": "उन्हाळ्यात सूर्याची उष्णता जास्त असल्याने बाष्पीभवन सर्वात वेगाने होते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "पावसाळा संपल्यावर पाणी कोठून मिळते?",
+      "answer": "पावसाळा संपल्यावर धरणे, तलाव, विहिरी आणि भूजलातून पाणी मिळते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पाण्याला चव असते का?",
+      "answer": "शुद्ध पाण्याला चव नसते, पण त्यात विरघळलेल्या क्षारांमुळे त्याला विशिष्ट चव येते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "पाणी साठवण्याची आधुनिक पद्धत कोणती?",
+      "answer": "सिमेंटची किंवा प्लास्टिकची टाकी वापरणे ही आधुनिक पद्धत आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "हवामानात पाण्याचा वाटा काय असतो?",
+      "answer": "हवेतील बाष्पामुळे दमटपणा जाणवतो आणि पर्जन्यवृष्टी होऊन हवामान थंड होते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पाणी उकळताना काय काळजी घ्यावी?",
+      "answer": "पाणी उकळल्यानंतर ते पुन्हा घाण होऊ नये म्हणून ते झाकून ठेवावे आणि थंड झाल्यावर गाळून घ्यावे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "पाणी अडवा पाणी जिरवा ही घोषणा कशाशी संबंधित आहे?",
+      "answer": "ही घोषणा जलसंवर्धन आणि भूजल पातळी वाढवण्याशी संबंधित आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "प्रदूषित पाण्यामुळे होणारी दोन लक्षणे सांगा.",
+      "answer": "उलट्या होणे, जुलाब होणे आणि पोटात दुखणे ही दूषित पाणी प्यायल्याची लक्षणे आहेत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पाण्यात विरघळलेला ऑक्सिजन मासे कसे घेतात?",
+      "answer": "मासे त्यांच्या कल्ल्यांच्या मदतीने पाण्यात विरघळलेला ऑक्सिजन शोषून घेतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "पावसाच्या पाण्याने विहिरीची पातळी कशी वाढते?",
+      "answer": "पावसाचे पाणी जमिनीत मुरून जमिनीखालील प्रवाहांद्वारे विहिरीत पोहोचते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "विहिरीभोवती भिंत (कठडा) का असावी?",
+      "answer": "बाहेरील कचरा किंवा प्राणी विहिरीत पडू नयेत आणि पाणी स्वच्छ राहावे म्हणून कठडा असावा."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पाणी पिण्याची पळी कशासाठी वापरतात?",
+      "answer": "हातातील घाण किंवा जंतू पिण्याच्या पाण्यात जाऊ नयेत यासाठी पळी वापरतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "नदीला पूर कधी येतो?",
+      "answer": "खूप जास्त पाऊस पडल्यामुळे नदीच्या पात्राची मर्यादा ओलांडली जाते, तेव्हा पूर येतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पाणी शुद्धीकरणासाठी 'कंडू' (Potassium Permanganate) चा वापर कोठे होतो?",
+      "answer": "विहिरीतील पाणी निर्जंतुक करण्यासाठी पोटॅशियम परमँगनेटचा वापर केला जातो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "जमिनीवरील पाणी प्रदूषित होण्याचे एक कारण सांगा.",
+      "answer": "शेतात वापरलेली रासायनिक खते आणि कीटकनाशके पावसाच्या पाण्यासोबत वाहून आल्याने पाणी प्रदूषित होते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी साठवून जमिनीत सोडणाऱ्या खड्ड्याला काय म्हणतात?",
+      "answer": "अशा खड्ड्याला 'शोषखड्डा' म्हणतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "पाण्याचे वजन असते का?",
+      "answer": "हो, पाणी हे पदार्थ असल्याने त्याला वजन आणि आकारमान असते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "नळातून येणाऱ्या पाण्याचा अपव्यय कसा टाळता येईल?",
+      "answer": "नळाची तोटी नीट बसवणे आणि गळके नळ दुरुस्त करून अपव्यय टाळता येईल."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "बाष्प म्हणजे काय?",
+      "answer": "पाण्याच्या वायू रूपाला बाष्प किंवा वाफ म्हणतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "समुद्राच्या पाण्यापासून मीठ कसे मिळवतात?",
+      "answer": "समुद्राचे पाणी मिठागरात साठवून त्याचे बाष्पीभवन केल्यावर खाली मीठ उरते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पाणी शिळे होते का?",
+      "answer": "विज्ञानानुसार पाणी शिळे होत नाही, पण साठवलेल्या पाण्यात धूळ किंवा जंतू गेल्यास ते खराब होऊ शकते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "स्वयंपाकासाठी पाण्याचा वापर काय आहे?",
+      "answer": "अन्न शिजवण्यासाठी, भाज्या धुण्यासाठी आणि पीठ मळण्यासाठी पाण्याचा वापर होतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पाणी हे जीवन का आहे?",
+      "answer": "जगातील कोणताही सजीव पाण्याशिवाय जगू शकत नाही, म्हणून पाण्याला जीवन म्हणतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पाणी वाहून जाण्याची दिशा कोणती असते?",
+      "answer": "पाणी नेहमी उंच भागाकडून सखल (खालच्या) भागाकडे वाहते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "नदीला जीवनदायिनी का म्हणतात?",
+      "answer": "नदीमुळे मानवी संस्कृती, शेती आणि उद्योगांना आवश्यक पाणी मिळते, म्हणून तिला जीवनदायिनी म्हणतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पाण्याचा प्रवास कोठून सुरू होतो?",
+      "answer": "पाण्याचा प्रवास पाऊस म्हणून आकाशातून सुरू होतो आणि पुन्हा समुद्राला मिळतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "धबधबा म्हणजे काय?",
+      "answer": "नदीचे पाणी जेव्हा उंच कड्यावरून खाली कोसळते, तेव्हा त्याला धबधबा म्हणतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "साठवलेले पाणी खराब झाल्यास काय करावे?",
+      "answer": "ते पाणी ओतून न देता झाडांना किंवा साफसफाईसाठी वापरावे आणि नवीन पाणी भरताना भांडे स्वच्छ करावे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "पावसाच्या पाण्याचे मोजमाप कोणत्या एककात करतात?",
+      "answer": "पावसाच्या पाण्याचे मोजमाप मिलीमीटर (mm) मध्ये करतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "हिमनदी म्हणजे काय?",
+      "answer": "अति थंड प्रदेशात बर्फाचा मोठा थर सावकाशपणे उतारावरून सरकतो, त्याला हिमनदी म्हणतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "पाण्यात विरघळणाऱ्या वायूचे नाव सांगा.",
+      "answer": "ऑक्सिजन हा वायू पाण्यात विरघळलेला असतो जो जलचरांना श्वसनासाठी उपयुक्त असतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "जलप्रदूषणाचा पिकांवर काय परिणाम होतो?",
+      "answer": "दूषित पाण्यामुळे पिके जळू शकतात किंवा त्यांच्यात विषारी घटक उतरून आरोग्याला हानी पोहोचवू शकतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नळातून पाणी गळत असल्यास काय करावे?",
+      "answer": "नळाचा वॉशर बदलावा किंवा तो दुरुस्त करण्यासाठी प्लंबरला बोलावून पाणी वाचवावे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "जागतिक स्तरावर पिण्याच्या पाण्याची कमतरता का आहे?",
+      "answer": "वाढती लोकसंख्या आणि प्रदूषणा मुळे पिण्यायोग्य पाण्याचे स्त्रोत कमी होत आहेत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "स्वच्छ पाणी म्हणजे काय?",
+      "answer": "ज्या पाण्यात घाण, कचरा, जंतू किंवा हानिकारक रसायने नसतात, त्याला स्वच्छ पाणी म्हणतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "नद्या कशा निर्माण होतात?",
+      "answer": "अनेक लहान ओढे आणि नाले मिळून नदी तयार होते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "सांडपाण्याचा वास का येतो?",
+      "answer": "सांडपाण्यात सेंद्रिय पदार्थ कुजल्यामुळे दुर्गंधी येते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "झाडांना बादलीने पाणी देणे का चांगले आहे?",
+      "answer": "पाईपच्या तुलनेत बादलीने पाणी दिल्यास पाण्याचा वापर कमी होतो आणि झाडांना हवे तेवढेच पाणी मिळते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "खारे पाणी गोड करण्यासाठी कोणती पद्धत वापरतात?",
+      "answer": "खारे पाणी गोड करण्यासाठी उर्ध्वपातन (Distillation) किंवा रिव्हर्स ऑस्मोसिस (RO) यांसारख्या पद्धती वापरतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "पाण्याचा मुख्य उपयोग काय आहे?",
+      "answer": "पिणे, स्वच्छता, शेती आणि उद्योग हे पाण्याचे मुख्य उपयोग आहेत."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "पाणी बचतीचा संदेश देणारी एक ओळ लिहा.",
+      "answer": "पाणी वाचवा, जीवन वाचवा."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "जमिनीतील पाण्याचे प्रमाण कशावर अवलंबून असते?",
+      "answer": "पावसाचे प्रमाण आणि जमिनीचा खडकाळपणा यावर भूजलाचे प्रमाण अवलंबून असते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पिण्याच्या पाण्यात जंतू कोठून येतात?",
+      "answer": "हवेतील धुळीद्वारे, सांडपाणी मिसळल्यामुळे किंवा अस्वच्छ हातांमुळे पाण्यात जंतू येतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पावसाचा पाण्याचा साठा कसा वाढवावा?",
+      "answer": "शेततळी बांधून किंवा वनराई बंधारे घालून पावसाचे पाणी साठवता येते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "पाणी हे गंधहीन असते म्हणजे काय?",
+      "answer": "पाण्याला कोणताही विशिष्ट वास नसतो, त्याला गंधहीन म्हणतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "निसर्गाची सर्वात मोठी देणगी कोणती?",
+      "answer": "पाणी ही निसर्गाची सर्वात मोठी आणि मौल्यवान देणगी आहे."
+    }
+  ]
+}

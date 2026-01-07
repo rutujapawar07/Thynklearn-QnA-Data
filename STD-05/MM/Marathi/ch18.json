@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 18,
+  "chapter_name": "कारागीर",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कुंभार मातीची भांडी कशावर तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "टेबल", "is_correct": false },
+        { "option_id": 2, "text": "चाक", "is_correct": true },
+        { "option_id": 3, "text": "खुर्ची", "is_correct": false },
+        { "option_id": 4, "text": "पाट", "is_correct": false }
+      ],
+      "answer": "चाक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लोखंडाच्या वस्तू बनवणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": false },
+        { "option_id": 2, "text": "लोहार", "is_correct": true },
+        { "option_id": 3, "text": "सोनार", "is_correct": false },
+        { "option_id": 4, "text": "शिंपी", "is_correct": false }
+      ],
+      "answer": "लोहार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लाकडी फर्निचर कोण तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": true },
+        { "option_id": 2, "text": "लोहार", "is_correct": false },
+        { "option_id": 3, "text": "कुंभार", "is_correct": false },
+        { "option_id": 4, "text": "परीट", "is_correct": false }
+      ],
+      "answer": "सुतार"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सोने-चांदीचे दागिने कोण बनवतो?",
+      "options": [
+        { "option_id": 1, "text": "लोहार", "is_correct": false },
+        { "option_id": 2, "text": "कुंभार", "is_correct": false },
+        { "option_id": 3, "text": "सोनार", "is_correct": true },
+        { "option_id": 4, "text": "विणकर", "is_correct": false }
+      ],
+      "answer": "सोनार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कापड विणणाऱ्या कारागिराला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शिंपी", "is_correct": false },
+        { "option_id": 2, "text": "विणकर", "is_correct": true },
+        { "option_id": 3, "text": "धोबी", "is_correct": false },
+        { "option_id": 4, "text": "सोनार", "is_correct": false }
+      ],
+      "answer": "विणकर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कपडे शिवण्याचे काम कोण करतो?",
+      "options": [
+        { "option_id": 1, "text": "चांभार", "is_correct": false },
+        { "option_id": 2, "text": "शिंपी", "is_correct": true },
+        { "option_id": 3, "text": "सुतार", "is_correct": false },
+        { "option_id": 4, "text": "लोहार", "is_correct": false }
+      ],
+      "answer": "शिंपी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पादत्राणे (चपला-बूट) कोण तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "चांभार", "is_correct": true },
+        { "option_id": 2, "text": "सोनार", "is_correct": false },
+        { "option_id": 3, "text": "कुंभार", "is_correct": false },
+        { "option_id": 4, "text": "परीट", "is_correct": false }
+      ],
+      "answer": "चांभार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भांडी भाजण्यासाठी कुंभार काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "फ्रीज", "is_correct": false },
+        { "option_id": 2, "text": "आवा", "is_correct": true },
+        { "option_id": 3, "text": "गॅस", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "आवा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लोहार लोखंड तापवण्यासाठी काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "भट्टी", "is_correct": true },
+        { "option_id": 2, "text": "चाक", "is_correct": false },
+        { "option_id": 3, "text": "सुई", "is_correct": false },
+        { "option_id": 4, "text": "करवत", "is_correct": false }
+      ],
+      "answer": "भट्टी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सुताराचे मुख्य साधन कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "धागा", "is_correct": false },
+        { "option_id": 2, "text": "करवत", "is_correct": true },
+        { "option_id": 3, "text": "हातोडा", "is_correct": false },
+        { "option_id": 4, "text": "चाक", "is_correct": false }
+      ],
+      "answer": "करवत"
+    },
+    {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "विणकर कापड विणण्यासाठी कशाचा वापर करतो?",
+        "options": [
+          { "option_id": 1, "text": "माग", "is_correct": true },
+          { "option_id": 2, "text": "पाटा", "is_correct": false },
+          { "option_id": 3, "text": "कुदळ", "is_correct": false },
+          { "option_id": 4, "text": "पेन", "is_correct": false }
+        ],
+        "answer": "माग"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चामड्याच्या वस्तू बनवणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चांभार", "is_correct": true },
+        { "option_id": 2, "text": "लोहार", "is_correct": false },
+        { "option_id": 3, "text": "सोनार", "is_correct": false },
+        { "option_id": 4, "text": "सुतार", "is_correct": false }
+      ],
+      "answer": "चांभार"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शेतीची अवजारे जसे की खुरपे, कुदळ कोण बनवतो?",
+      "options": [
+        { "option_id": 1, "text": "कुंभार", "is_correct": false },
+        { "option_id": 2, "text": "लोहार", "is_correct": true },
+        { "option_id": 3, "text": "सोनार", "is_correct": false },
+        { "option_id": 4, "text": "शिंपी", "is_correct": false }
+      ],
+      "answer": "लोहार"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सोनार दागिने बनवण्यासाठी काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "लोखंड", "is_correct": false },
+        { "option_id": 3, "text": "सोने-चांदी", "is_correct": true },
+        { "option_id": 4, "text": "कापड", "is_correct": false }
+      ],
+      "answer": "सोने-चांदी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शिंपी कपडे शिवण्यासाठी कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "शिवणयंत्र", "is_correct": true },
+        { "option_id": 2, "text": "चाक", "is_correct": false },
+        { "option_id": 3, "text": "भट्टी", "is_correct": false },
+        { "option_id": 4, "text": "साचा", "is_correct": false }
+      ],
+      "answer": "शिवणयंत्र"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कुंभार मातीपासून काय बनवतो?",
+      "options": [
+        { "option_id": 1, "text": "दागिने", "is_correct": false },
+        { "option_id": 2, "text": "कपडे", "is_correct": false },
+        { "option_id": 3, "text": "माठ आणि गाडगी", "is_correct": true },
+        { "option_id": 4, "text": "खुर्ची", "is_correct": false }
+      ],
+      "answer": "माठ आणि गाडगी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सुताराने बनवलेली वस्तू खालीलपैकी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "साखळी", "is_correct": false },
+        { "option_id": 2, "text": "दरवाजा", "is_correct": true },
+        { "option_id": 3, "text": "माठ", "is_correct": false },
+        { "option_id": 4, "text": "कुदळ", "is_correct": false }
+      ],
+      "answer": "दरवाजा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लोहार गरम लोखंडाला आकार देण्यासाठी कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "हातोडा", "is_correct": true },
+        { "option_id": 2, "text": "सुई", "is_correct": false },
+        { "option_id": 3, "text": "दोरी", "is_correct": false },
+        { "option_id": 4, "text": "बादली", "is_correct": false }
+      ],
+      "answer": "हातोडा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कपडे धुवून इस्त्री करणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परीट", "is_correct": true },
+        { "option_id": 2, "text": "शिंपी", "is_correct": false },
+        { "option_id": 3, "text": "विणकर", "is_correct": false },
+        { "option_id": 4, "text": "कुंभार", "is_correct": false }
+      ],
+      "answer": "परीट"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "लोहार लोखंडावर काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "शिवणकाम", "is_correct": false },
+        { "option_id": 2, "text": "कामगिरी", "is_correct": false },
+        { "option_id": 3, "text": "घाव घालणे", "is_correct": true },
+        { "option_id": 4, "text": "रंगकाम", "is_correct": false }
+      ],
+      "answer": "घाव घालणे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कुंभार कशापासून भांडी बनवतो?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "चिखल / माती", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "चिखल / माती"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "गावातील गरजा पूर्ण करणाऱ्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटक", "is_correct": false },
+        { "option_id": 2, "text": "कारागीर", "is_correct": true },
+        { "option_id": 3, "text": "पाहुणे", "is_correct": false },
+        { "option_id": 4, "text": "खिलाडू", "is_correct": false }
+      ],
+      "answer": "कारागीर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "विणकराचे काम प्रामुख्याने कोठे चालते?",
+      "options": [
+        { "option_id": 1, "text": "विणकाम शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "हातमाग", "is_correct": true },
+        { "option_id": 3, "text": "बँकेत", "is_correct": false },
+        { "option_id": 4, "text": "दुकानात", "is_correct": false }
+      ],
+      "answer": "हातमाग"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कुंभार माती मळण्यासाठी कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "तेल", "is_correct": false },
+        { "option_id": 2, "text": "दूध", "is_correct": false },
+        { "option_id": 3, "text": "पाणी", "is_correct": true },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सोनार सोन्याला आकार देण्यासाठी काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "तापवतो", "is_correct": true },
+        { "option_id": 2, "text": "भिजवतो", "is_correct": false },
+        { "option_id": 3, "text": "कापतो", "is_correct": false },
+        { "option_id": 4, "text": "बांधतो", "is_correct": false }
+      ],
+      "answer": "तापवतो"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शिंपी कपडे मोजण्यासाठी काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "दोरी", "is_correct": false },
+        { "option_id": 2, "text": "पट्ट", "is_correct": false },
+        { "option_id": 3, "text": "मोजपट्टी / टेप", "is_correct": true },
+        { "option_id": 4, "text": "हाथ", "is_correct": false }
+      ],
+      "answer": "मोजपट्टी / टेप"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "चांभाराचे हत्यार खालीलपैकी कोणते?",
+      "options": [
+        { "option_id": 1, "text": "आरी", "is_correct": true },
+        { "option_id": 2, "text": "रंधा", "is_correct": false },
+        { "option_id": 3, "text": "पकड", "is_correct": false },
+        { "option_id": 4, "text": "विळा", "is_correct": false }
+      ],
+      "answer": "आरी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सुतार लाकूड गुळगुळीत करण्यासाठी काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "रंधा", "is_correct": true },
+        { "option_id": 2, "text": "विळा", "is_correct": false },
+        { "option_id": 3, "text": "कुदळ", "is_correct": false },
+        { "option_id": 4, "text": "कात्री", "is_correct": false }
+      ],
+      "answer": "रंधा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "लोहाराचा ऐरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "लोखंडी ठोकळा", "is_correct": true },
+        { "option_id": 2, "text": "लाकडी पेटी", "is_correct": false },
+        { "option_id": 3, "text": "मातीचे भांडे", "is_correct": false },
+        { "option_id": 4, "text": "कापडाची पिशवी", "is_correct": false }
+      ],
+      "answer": "लोखंडी ठोकळा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता व्यवसाय कारागिरीत येत नाही?",
+      "options": [
+        { "option_id": 1, "text": "कुंभारकाम", "is_correct": false },
+        { "option_id": 2, "text": "लोहारकाम", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षण", "is_correct": true },
+        { "option_id": 4, "text": "सुतारकाम", "is_correct": false }
+      ],
+      "answer": "शिक्षण"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "विणकर सूत कशापासून मिळवतो?",
+      "options": [
+        { "option_id": 1, "text": "कापूस", "is_correct": true },
+        { "option_id": 2, "text": "रबर", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "कापूस"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भांडी पक्की करण्यासाठी काय करावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात ठेवावे लागते", "is_correct": false },
+        { "option_id": 2, "text": "उन्हात सुकवून भाजावे लागते", "is_correct": true },
+        { "option_id": 3, "text": "फ्रिजमध्ये ठेवावे लागते", "is_correct": false },
+        { "option_id": 4, "text": "रंगवावे लागते", "is_correct": false }
+      ],
+      "answer": "उन्हात सुकवून भाजावे लागते"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "शिंपी कोणत्या साहित्याने कपडे कापतो?",
+      "options": [
+        { "option_id": 1, "text": "सुरी", "is_correct": false },
+        { "option_id": 2, "text": "कात्री", "is_correct": true },
+        { "option_id": 3, "text": "करवत", "is_correct": false },
+        { "option_id": 4, "text": "रंधा", "is_correct": false }
+      ],
+      "answer": "कात्री"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "विणकर काय तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "जोडे", "is_correct": false },
+        { "option_id": 2, "text": "कापड (साड्या, धोतर)", "is_correct": true },
+        { "option_id": 3, "text": "दागिने", "is_correct": false },
+        { "option_id": 4, "text": "भांडी", "is_correct": false }
+      ],
+      "answer": "कापड (साड्या, धोतर)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रंधा हे कोणाचे प्रमुख हत्यार आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": true },
+        { "option_id": 2, "text": "चांभार", "is_correct": false },
+        { "option_id": 3, "text": "शिंपी", "is_correct": false },
+        { "option_id": 4, "text": "सोनार", "is_correct": false }
+      ],
+      "answer": "सुतार"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सोनार काय वापरून दागिने घडवतो?",
+      "options": [
+        { "option_id": 1, "text": "मोठी भट्टी", "is_correct": false },
+        { "option_id": 2, "text": "फुंकणी आणि निखारे", "is_correct": true },
+        { "option_id": 3, "text": "चाक", "is_correct": false },
+        { "option_id": 4, "text": "हातमाग", "is_correct": false }
+      ],
+      "answer": "फुंकणी आणि निखारे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "लोहाराचा भाता कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "वारा घालण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "पाणी भरण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "लोखंड कापण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंगवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वारा घालण्यासाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "चांभार चामड्याला शिवण्यासाठी काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "मजबूत सुई आणि दोरा", "is_correct": true },
+        { "option_id": 2, "text": "रंधा", "is_correct": false },
+        { "option_id": 3, "text": "भट्टी", "is_correct": false },
+        { "option_id": 4, "text": "चाक", "is_correct": false }
+      ],
+      "answer": "मजबूत सुई आणि दोरा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खिडकीची तावदाने कोण बनवतो?",
+      "options": [
+        { "option_id": 1, "text": "लोहार", "is_correct": false },
+        { "option_id": 2, "text": "सुतार", "is_correct": true },
+        { "option_id": 3, "text": "शिंपी", "is_correct": false },
+        { "option_id": 4, "text": "विणकर", "is_correct": false }
+      ],
+      "answer": "सुतार"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कुंभार मातीची भांडी सुंदर बनवण्यासाठी काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "नक्षीकाम", "is_correct": true },
+        { "option_id": 2, "text": "तोडकाम", "is_correct": false },
+        { "option_id": 3, "text": "विणकाम", "is_correct": false },
+        { "option_id": 4, "text": "शिवणकाम", "is_correct": false }
+      ],
+      "answer": "नक्षीकाम"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "लोखंडाचे काम करणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सोनार", "is_correct": false },
+        { "option_id": 2, "text": "लोहार", "is_correct": true },
+        { "option_id": 3, "text": "कुंभार", "is_correct": false },
+        { "option_id": 4, "text": "विणकर", "is_correct": false }
+      ],
+      "answer": "लोहार"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "टेबल, खुर्ची, कपाट ही कोणत्या कारागिराची उत्पादने आहेत?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": true },
+        { "option_id": 2, "text": "चांभार", "is_correct": false },
+        { "option_id": 3, "text": "शिंपी", "is_correct": false },
+        { "option_id": 4, "text": "सोनार", "is_correct": false }
+      ],
+      "answer": "सुतार"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पैलवान मातीचा वापर कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "भांडी बनवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "कुस्तीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंगवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कुस्तीसाठी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "हातमाग हे कोणाचे साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": false },
+        { "option_id": 2, "text": "विणकर", "is_correct": true },
+        { "option_id": 3, "text": "लोहार", "is_correct": false },
+        { "option_id": 4, "text": "कुंभार", "is_correct": false }
+      ],
+      "answer": "विणकर"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "दागिने कशापासून तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "लाकूड", "is_correct": false },
+        { "option_id": 3, "text": "मौल्यवान धातू (सोने-चांदी)", "is_correct": true },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "मौल्यवान धातू (सोने-चांदी)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कपडे शिवण्यासाठी काय लागते?",
+      "options": [
+        { "option_id": 1, "text": "सूई-दोरा आणि यंत्र", "is_correct": true },
+        { "option_id": 2, "text": "हातोडा", "is_correct": false },
+        { "option_id": 3, "text": "करवत", "is_correct": false },
+        { "option_id": 4, "text": "चाक", "is_correct": false }
+      ],
+      "answer": "सूई-दोरा आणि यंत्र"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "बैलगाडी कोण तयार करतो?",
+      "options": [
+        { "option_id": 1, "text": "सुतार आणि लोहार", "is_correct": true },
+        { "option_id": 2, "text": "शिंपी", "is_correct": false },
+        { "option_id": 3, "text": "विणकर", "is_correct": false },
+        { "option_id": 4, "text": "चांभार", "is_correct": false }
+      ],
+      "answer": "सुतार आणि लोहार"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणाला 'बुलुतेदार' म्हटले जात असे?",
+      "options": [
+        { "option_id": 1, "text": "गावातील कारागिरांना", "is_correct": true },
+        { "option_id": 2, "text": "शहरातील व्यापाऱ्यांना", "is_correct": false },
+        { "option_id": 3, "text": "परदेशी लोकांना", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षकांना", "is_correct": false }
+      ],
+      "answer": "गावातील कारागिरांना"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "मातीची पणती कोण बनवतो?",
+      "options": [
+        { "option_id": 1, "text": "कुंभार", "is_correct": true },
+        { "option_id": 2, "text": "लोहार", "is_correct": false },
+        { "option_id": 3, "text": "सोनार", "is_correct": false },
+        { "option_id": 4, "text": "सुतार", "is_correct": false }
+      ],
+      "answer": "कुंभार"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "रंजण कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "धान्य साठवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाणी साठवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कपडे ठेवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाणी साठवण्यासाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कारागीर कोणाला म्हणतात?",
+      "answer": "जे लोक आपल्या अंगी असलेल्या कौशल्याने विविध वस्तू तयार करतात, त्यांना कारागीर म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कुंभार कोणत्या वस्तू बनवतो?",
+      "answer": "कुंभार माठ, गाडगी, पणत्या, मातीची भांडी आणि खेळणी बनवतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "लोहाराचे मुख्य काम काय असते?",
+      "answer": "लोखंड तापवून त्याला आकार देणे आणि त्यापासून शेतीची अवजारे व इतर वस्तू बनवणे हे लोहाराचे मुख्य काम असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सुतार कोणकोणत्या वस्तू बनवतो?",
+      "answer": "सुतार लाकडापासून दरवाजे, खिडक्या, टेबल, खुर्ची, कपाट आणि शेतीची लाकडी अवजारे बनवतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सोनार दागिने बनवण्यासाठी काय वापरतो?",
+      "answer": "सोनार दागिने बनवण्यासाठी सोने, चांदी, फुंकणी, निखारे आणि छोटे हातोडे वापरतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शिंपी कोणते काम करतो?",
+      "answer": "शिंपी कापड मोजून, कापून आणि शिवणयंत्राच्या साहाय्याने कपडे शिवण्याचे काम करतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चांभार चामड्यापासून काय बनवतो?",
+      "answer": "चांभार चामड्यापासून चपला, बूट, सँडल आणि पिशव्या बनवतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "विणकर कोणते काम करतो?",
+      "answer": "विणकर सूत किंवा धाग्यापासून हातमागावर कापड विणण्याचे काम करतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कुंभाराच्या चाकाचा उपयोग काय?",
+      "answer": "चाकावर मातीचा गोळा ठेवून त्याला फिरवत हाताने आकार देण्यासाठी कुंभाराच्या चाकाचा उपयोग होतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आवा म्हणजे काय?",
+      "answer": "कुंभार मातीची कच्ची भांडी ज्या ठिकाणी रचून भाजतो, त्या भट्टील आवा म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "लोहाराचे ऐरण म्हणजे काय?",
+      "answer": "ज्या लोखंडी ठोकळ्यावर ठेवून लोहार गरम लोखंडाला आकार देतो, त्याला ऐरण म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रंधा कशासाठी वापरतात?",
+      "answer": "लाकडाचा खडबडीत पृष्ठभाग गुळगुळीत करण्यासाठी रंधा वापरतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "परीट किंवा धोबी काय काम करतो?",
+      "answer": "लोकांचे कपडे स्वच्छ धुणे आणि त्यांना इस्त्री करणे हे परीट किंवा धोब्याचे काम असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "विणकर कापड विणण्यासाठी कशाचा वापर करतो?",
+      "answer": "विणकर कापड विणण्यासाठी हातमाग किंवा यंत्रमागाचा वापर करतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शेतीसाठी लोहाराने बनवलेल्या दोन अवजारांची नावे सांगा.",
+      "answer": "खुरपे आणि कुदळ ही लोहाराने बनवलेली शेतीची अवजारे आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कुंभार माती कोठून आणतो?",
+      "answer": "कुंभार माती नदीकाठची किंवा तलावातील चिकणमाती शोधून आणतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सोने-चांदीचे दागिने कोण घडवतो?",
+      "answer": "सोने-चांदीचे दागिने सोनार घडवतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "चांभाराची मुख्य हत्यारे कोणती?",
+      "answer": "आरी, हातोडी आणि टाचण ही चांभाराची मुख्य हत्यारे आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शिंप्याला कपडे शिवताना कशाची गरज असते?",
+      "answer": "शिंप्याला सुई, धागा, कात्री, टेप आणि शिवणयंत्राची गरज असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गावातील बलुतेदार पद्धत काय होती?",
+      "answer": "गावातील कारागीर शेतकऱ्यांना सेवा देत आणि त्याबदल्यात शेतकरी त्यांना धान्य देत, याला बलुतेदार पद्धत म्हणत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "करवत कशासाठी वापरतात?",
+      "answer": "लाकूड योग्य आकारात कापण्यासाठी करवत वापरतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कुंभार माती कशी तयार करतो?",
+      "answer": "कुंभार मातीतील खडे काढून, ती पाण्यात भिजवून आणि पायाने तुडवून मऊ तयार करतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सोनार सोन्याला आकार कसा देतो?",
+      "answer": "सोनार सोन्याला भट्टीत किंवा दिव्याच्या ज्योतीवर तापवून मऊ करतो आणि मग त्याला हवा तसा आकार देतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "लाकडाच्या दोन वस्तूंची नावे लिहा.",
+      "answer": "खुर्ची आणि कपाट या लाकडाच्या दोन वस्तू आहेत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "लोहारकाम करताना कोणता धोका असू शकतो?",
+      "answer": "लोहारकाम करताना गरम लोखंडाचा चटका बसण्याचा किंवा ठिणगी उडण्याचा धोका असतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "विणकाम म्हणजे काय?",
+      "answer": "धाग्यांची एकमेकांत गुंफण करून कापड तयार करण्याच्या कलेला विणकाम म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मातीची भांडी का भाजावी लागतात?",
+      "answer": "मातीची भांडी कच्ची असतात, ती पक्की आणि टिकाऊ व्हावीत म्हणून भाजावी लागतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "दागिन्यांचे दोन प्रकार सांगा.",
+      "answer": "अंगठी आणि गळ्यातील हार हे दागिन्यांचे दोन प्रकार आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "चांभार चामड्यावर काय प्रक्रिया करतो?",
+      "answer": "चांभार चामडे सोलणे, ते कमावणे आणि त्याला योग्य आकारात कापून शिवणे या प्रक्रिया करतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शिंपी कापड मोजण्यासाठी काय वापरतो?",
+      "answer": "शिंपी कापड मोजण्यासाठी मोजपट्टी किंवा टेप वापरतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "लाकडी फर्निचर बनवण्यासाठी कशाची आवश्यकता असते?",
+      "answer": "लाकडी फर्निचर बनवण्यासाठी लाकूड, खिळे, फेविकोल आणि सुताराच्या हत्यारांची आवश्यकता असते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "लोहार लोखंड कशाने तापवतो?",
+      "answer": "लोहार लोखंड कोळशाच्या भट्टीत तापवतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कारागिरांचे महत्त्व काय आहे?",
+      "answer": "कारागीर आपल्या रोजच्या जगण्यातील आवश्यक वस्तू तयार करून आपले जीवन सोपे करतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पणत्या कधी वापरतात?",
+      "answer": "पणत्या प्रामुख्याने दिवाळीच्या सणात किंवा उत्सवांमध्ये वापरतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हातमाग आणि यंत्रमाग यात काय फरक आहे?",
+      "answer": "हातमाग हाताने चालवला जातो, तर यंत्रमाग विजेवर चालवला जातो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कुंभार मातीच्या भांड्यांवर नक्षी कशी काढतो?",
+      "answer": "कुंभार भांडे ओले असतानाच त्यावर काड्यांच्या किंवा साच्यांच्या साहाय्याने नक्षी काढतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चामड्याच्या वस्तूंची काळजी कशी घ्यावी?",
+      "answer": "चामड्याच्या वस्तू पाण्यापासून वाचवाव्यात आणि त्यांना नियमित पॉलिश करावे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "जुन्या काळी गावात कारागीर कसे राहायचे?",
+      "answer": "जुण्या काळी गावात प्रत्येक कारागिराची एक स्वतंत्र गल्ली किंवा वस्ती असायची."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "लोखंडाच्या दोन वस्तूंची नावे सांगा.",
+      "answer": "कडी आणि कोयता या लोखंडाच्या दोन वस्तू आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सुतारकामात खिळ्यांचा वापर कशासाठी होतो?",
+      "answer": "सुतारकामात लाकडाचे दोन भाग एकमेकांना जोडण्यासाठी खिळ्यांचा वापर होतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शिंपी शिवणयंत्र कसे चालवतो?",
+      "answer": "शिंपी पाय किंवा विजेच्या साहाय्याने शिवणयंत्र चालवतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "विणकर कोणकोणत्या रंगाचे धागे वापरतो?",
+      "answer": "विणकर कापड सुंदर दिसण्यासाठी लाल, निळा, पिवळा अशा विविध रंगांचे धागे वापरतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सोनार कामात फुंकणीचा काय उपयोग होतो?",
+      "answer": "फुंकणीने निखाऱ्यावर हवा फुंकून ज्योत मोठी करण्यासाठी उपयोग होतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "माठामध्ये पाणी गार का राहते?",
+      "answer": "माठाच्या बारीक छिद्रांमधून पाण्याचे बाष्पीभवन होते, म्हणून माठातील पाणी गार राहते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कुदळ कशासाठी वापरतात?",
+      "answer": "कुदळ जमीन उकरण्यासाठी किंवा खणण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "चांभाराचा दोरा कसा असतो?",
+      "answer": "चांभाराचा दोरा खूप जाड आणि मजबूत असतो, ज्याला वॅक्स लावलेले असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "दरवाजे आणि खिडक्या कोणाकडे बनवून घेतात?",
+      "answer": "दरवाजे आणि खिडक्या सुताराकडे बनवून घेतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नक्षीकाम म्हणजे काय?",
+      "answer": "वस्तू सुंदर दिसण्यासाठी त्यावर काढलेली डिझाइन किंवा कलाकुसर म्हणजे नक्षीकाम होय."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कारागिरी शिकण्यासाठी काय आवश्यक आहे?",
+      "answer": "कारागिरी शिकण्यासाठी सराव, संयम आणि कलेची आवड आवश्यक आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "गाडगे म्हणजे काय?",
+      "answer": "गाडगे म्हणजे मातीचे लहान आकाराचे उभट भांडे होय."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "लोहाराचा भाता कशाने चालतो?",
+      "answer": "लोहाराचा भाता हाताने ओढून किंवा पायाने दाबून चालवला जातो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "लाकडी वस्तू कशाने घासतात?",
+      "answer": "लाकडी वस्तू कानस किंवा पॉलिश पेपरने घासतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "विणकर धागा कशावर गुंडाळतो?",
+      "answer": "विणकर धागा छोट्या कांड्यांवर गुंडाळतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "सोनार दागिने उजळण्यासाठी काय करतो?",
+      "answer": "सोनार दागिने विशिष्ट रसायनांत उकळून किंवा घासून उजळतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "चांभार टाचण कशासाठी वापरतो?",
+      "answer": "चांभार चपलेचे भाग एकत्र धरण्यासाठी किंवा ठोकण्यासाठी टाचण वापरतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "शिंपी कापड कोणत्या क्रमाने शिवतो?",
+      "answer": "प्रथम मोजमाप, मग कटिंग आणि शेवटी शिवणकाम या क्रमाने शिंपी काम करतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "चिकणमाती म्हणजे काय?",
+      "answer": "ज्या मातीमध्ये चिकटपणा जास्त असतो, तिला चिकणमाती म्हणतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ऐरणीवर घाव कोण घालतो?",
+      "answer": "ऐरणीवर लोहार मोठा हातोडा (घण) वापरून घाव घालतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "लाकडापासून बनवलेली खेळाची वस्तू कोणती?",
+      "answer": "बॅट किंवा लाकडी घोडा ही लाकडापासून बनवलेली खेळाची वस्तू आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "कापसाचे सूत कोण तयार करतो?",
+      "answer": "कापसाचे सूत प्रामुख्याने चरख्यावर किंवा गिरणीत तयार केले जाते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "सोनाराकडे कोणकोणती छोटी हत्यारे असतात?",
+      "answer": "सोनाराकडे चिमटा, छोटी हातोडी आणि कात्री ही हत्यारे असतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "चांभार चामडे कोठून मिळवतो?",
+      "answer": "चांभार मेलेल्या जनावरांच्या कातडीपासून तयार केलेले चामडे मिळवतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "शिंप्याला 'मास्तर' का म्हणतात?",
+      "answer": "कपडे अचूक कापून शिवण्याच्या कलेत तो निष्णात असतो, म्हणून त्याला शिंपी मास्तर म्हणतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "कुंभारकामात राखेचा वापर कशासाठी होतो?",
+      "answer": "भांडी आवामध्ये भाजताना उष्णता टिकून राहावी म्हणून राखेचा वापर होतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "लोहाराचा घण म्हणजे काय?",
+      "answer": "लोहाराचा मोठा आणि जड हातोडा म्हणजे घण होय."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "लाकूड कोठून उपलब्ध होते?",
+      "answer": "लाकूड प्रामुख्याने जंगलातील झाडांपासून उपलब्ध होते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "विणकर डिझाइन कशी तयार करतो?",
+      "answer": "विणकर वेगवेगळ्या रंगांच्या धाग्यांची विशिष्ट मांडणी करून डिझाइन तयार करतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "सोनार दागिने बनवण्यासाठी कोणता कोळसा वापरतो?",
+      "answer": "सोनार दागिने बनवण्यासाठी प्रामुख्याने लाकडी कोळसा वापरतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "चांभाराचा 'रापी' कशासाठी वापरतात?",
+      "answer": "चामडे कापण्यासाठी रापीचा वापर करतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "शिंपी टाचण्यांचा वापर का करतो?",
+      "answer": "कापड शिवण्यापूर्वी ते हलू नये म्हणून शिंपी टाचण्या वापरतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "कुंभाराच्या थापटण्याचा उपयोग काय?",
+      "answer": "भांड्याचा आकार नीट करण्यासाठी आणि त्याला ठोकून पक्के करण्यासाठी थापटण्याचा उपयोग होतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "लोखंडाची कडी कोण बनवतो?",
+      "answer": "लोखंडाची कडी लोहार बनवतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सुतारकामातील 'फळी' म्हणजे काय?",
+      "answer": "लाकूड कापून तयार केलेला सपाट भाग म्हणजे फळी होय."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "हातमागाचा आवाज कसा येतो?",
+      "answer": "हातमागाचा आवाज 'खट-खट' असा येतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "सोन्याचे दागिने का लोकप्रिय आहेत?",
+      "answer": "सोने चकाकणारे आणि मौल्यवान असते, तसेच ते गंजत नाही म्हणून लोकप्रिय आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "बूट पॉलिश का करतात?",
+      "answer": "बूट चमकण्यासाठी आणि चामडे दीर्घकाळ टिकण्यासाठी पॉलिश करतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "शिंपी बटणे कशी लावतो?",
+      "answer": "शिंपी सुई आणि दोऱ्याच्या साहाय्याने हाताने बटणे लावतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "मातीची सुराई कशासाठी वापरतात?",
+      "answer": "पाणी गार ठेवण्यासाठी सुराई वापरतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "लोहाराची सांडशी कशासाठी असते?",
+      "answer": "गरम लोखंड घट्ट पकडण्यासाठी सांडशी वापरतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "सुताराचा खिळा कशाचा बनलेला असतो?",
+      "answer": "सुताराचा खिळा लोखंडाचा बनलेला असतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "कापड कोणत्या गोष्टीपासून बनते?",
+      "answer": "कापड प्रामुख्याने सूत, रेशीम किंवा लोकरीपासून बनते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "सोनाराचा तराजू कसा असतो?",
+      "answer": "सोनाराचा तराजू अतिशय लहान आणि अचूक वजन करणारा असतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "चांभार चपलेला तळ कसा लावतो?",
+      "answer": "चांभार चपलेला तळ जाड चामड्याचा किंवा रबराचा वापरून टाचणाने जोडतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "शिंपी कपडे शिवल्यावर काय करतो?",
+      "answer": "शिंपी कपडे शिवल्यावर त्यांना इस्त्री करतो आणि घडी घालतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "कुंभार माती मळताना काय मिसळतो?",
+      "answer": "कुंभार माती मळताना त्यात कधीकधी राख किंवा घोड्याची लीद मिसळतो जेणेकरून भांडी फुटणार नाहीत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "लोहाराची चिमटी कशासाठी असते?",
+      "answer": "बारीक लोखंडी वस्तू पकडण्यासाठी किंवा तारा वाकवण्यासाठी चिमटी असते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सुताराचा 'मापाचा टेप' किती लांब असतो?",
+      "answer": "सुताराचा मापाचा टेप सहसा ५ ते १० मीटर लांब असतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "हातमागावर साडी विणायला किती वेळ लागतो?",
+      "answer": "डिझाइननुसार हातमागावर साडी विणायला २ ते ५ दिवस लागू शकतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "सोनार 'कॅरेट' कशासाठी वापरतो?",
+      "answer": "सोन्याची शुद्धता मोजण्यासाठी सोनार 'कॅरेट' हे एकक वापरतो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "चांभाराचा ब्रश कशासाठी असतो?",
+      "answer": "बूट किंवा चपलेवर पॉलिश लावण्यासाठी आणि घासण्यासाठी ब्रश असतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "शिंपी 'दोरा' कोठे ठेवतो?",
+      "answer": "शिंपी दोरा लाकडी किंवा प्लास्टिकच्या रीळवर ठेवतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "कुंभारकामातील 'पिंड' म्हणजे काय?",
+      "answer": "चाकावर ठेवलेला मातीचा मोठा गोळा म्हणजे पिंड होय."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "लोहारकाम करताना कोणता आवाज येतो?",
+      "answer": "लोहारकाम करताना घणाचे घाव पडल्यामुळे 'टण-टण' असा आवाज येतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "सुताराचा रंधा कशाचा बनलेला असतो?",
+      "answer": "सुताराचा रंधा लाकडी खोका आणि लोखंडी पाते यांपासून बनलेला असतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "विणकराचा धोटा काय काम करतो?",
+      "answer": "विणकराचा धोटा धागा आडवा नेण्याचे काम करतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "सोनार दागिन्यावर पॉलिश का करतो?",
+      "answer": "दागिना अधिक चमकदार आणि नवीन दिसावा म्हणून पॉलिश करतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "चांभार चामड्याचा तुकडा कशावर ठेवून कापतो?",
+      "answer": "चांभार चामड्याचा तुकडा एका लाकडी फळीवर ठेवून कापतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "शिंपी कपडे शिवण्यापूर्वी काय करतो?",
+      "answer": "शिंपी कपडे शिवण्यापूर्वी चॉकने त्यावर खुणा करतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कुंभार मातीचा दिवा कधी बनवतो?",
+      "answer": "कुंभार मातीचा दिवा प्रामुख्याने सणासुदीच्या काळात बनवतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कारागिरांच्या कामाचा आदर का करावा?",
+      "answer": "कारण कारागीर कष्टाने आणि कौशल्याने आपल्याला उपयोगी पडणाऱ्या वस्तू तयार करतात."
+    }
+  ]
+}

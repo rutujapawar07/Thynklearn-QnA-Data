@@ -1,0 +1,376 @@
+{
+  "chapter_id": 23,
+  "chapter_name": "संसर्गजन्य रोग",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "एका व्यक्तीकडून दुसऱ्या व्यक्तीकडे पसरणाऱ्या रोगांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अनुवांशिक रोग", "is_correct": false },
+        { "option_id": 2, "text": "मानसिक रोग", "is_correct": false },
+        { "option_id": 3, "text": "संसर्गजन्य रोग", "is_correct": true },
+        { "option_id": 4, "text": "अभावजन्य रोग", "is_correct": false }
+      ],
+      "answer": "संसर्गजन्य रोग"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रोग कशामुळे होतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रदूषणामुळे", "is_correct": false },
+        { "option_id": 2, "text": "सूक्ष्मजीवांमुळे (जंतू)", "is_correct": true },
+        { "option_id": 3, "text": "जास्त झोपल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "व्यायामामुळे", "is_correct": false }
+      ],
+      "answer": "सूक्ष्मजीवांमुळे (जंतू)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता रोग हवेमार्फत पसरतो?",
+      "options": [
+        { "option_id": 1, "text": "कॉलरा", "is_correct": false },
+        { "option_id": 2, "text": "टायफॉइड", "is_correct": false },
+        { "option_id": 3, "text": "क्षय (टीबी)", "is_correct": true },
+        { "option_id": 4, "text": "हगवण", "is_correct": false }
+      ],
+      "answer": "क्षय (टीबी)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "दूषित पाणी आणि अन्नामुळे कोणता रोग होऊ शकतो?",
+      "options": [
+        { "option_id": 1, "text": "सर्दी", "is_correct": false },
+        { "option_id": 2, "text": "कॉलरा", "is_correct": true },
+        { "option_id": 3, "text": "खरूज", "is_correct": false },
+        { "option_id": 4, "text": "कांजिण्या", "is_correct": false }
+      ],
+      "answer": "कॉलरा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अन्नावर बसून रोगजंतू कोण पसरवते?",
+      "options": [
+        { "option_id": 1, "text": "फुलपाखरू", "is_correct": false },
+        { "option_id": 2, "text": "मधमाशी", "is_correct": false },
+        { "option_id": 3, "text": "माशी", "is_correct": true },
+        { "option_id": 4, "text": "कोळी", "is_correct": false }
+      ],
+      "answer": "माशी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मलेरिया (हिवताप) कशामुळे होतो?",
+      "options": [
+        { "option_id": 1, "text": "दूषित हवा", "is_correct": false },
+        { "option_id": 2, "text": "विशिष्ट डास चावल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "उघड्यावरचे अन्न खाल्ल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "थंड पाण्यामुळे", "is_correct": false }
+      ],
+      "answer": "विशिष्ट डास चावल्यामुळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "त्वचेचे रोग प्रामुख्याने कशामुळे होतात?",
+      "options": [
+        { "option_id": 1, "text": "हवेमुळे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "प्रत्यक्ष संपर्कामुळे", "is_correct": true },
+        { "option_id": 4, "text": "अन्नामुळे", "is_correct": false }
+      ],
+      "answer": "प्रत्यक्ष संपर्कामुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रोग होऊ नये म्हणून शरीरात काय टोचले जाते?",
+      "options": [
+        { "option_id": 1, "text": "लस (Vaccine)", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "ग्लुकोज", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "लस (Vaccine)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाणी शुद्ध करण्यासाठी त्यात काय टाकतात?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "मिठ", "is_correct": false },
+        { "option_id": 3, "text": "ब्लिचिंग पावडर", "is_correct": true },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "ब्लिचिंग पावडर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जंतू मारण्यासाठी पाणी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "थंड करावे", "is_correct": false },
+        { "option_id": 2, "text": "उकळावे", "is_correct": true },
+        { "option_id": 3, "text": "गाळून घ्यावे", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर ठेवावे", "is_correct": false }
+      ],
+      "answer": "उकळावे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खरूज हा कोणत्या प्रकारचा रोग आहे?",
+      "options": [
+        { "option_id": 1, "text": "त्वचारोग", "is_correct": true },
+        { "option_id": 2, "text": "श्वसनरोग", "is_correct": false },
+        { "option_id": 3, "text": "पोटाचा रोग", "is_correct": false },
+        { "option_id": 4, "text": "मानसिक रोग", "is_correct": false }
+      ],
+      "answer": "त्वचारोग"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रोग्याची भांडी व कपडे वेगळे का ठेवावे?",
+      "options": [
+        { "option_id": 1, "text": "ती महाग असतात", "is_correct": false },
+        { "option_id": 2, "text": "संसर्ग टाळण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "जागा वाचवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रोग्याला आवडते म्हणून", "is_correct": false }
+      ],
+      "answer": "संसर्ग टाळण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता रोग कीटकांच्या चावण्यामुळे होतो?",
+      "options": [
+        { "option_id": 1, "text": "गॅस्ट्रो", "is_correct": false },
+        { "option_id": 2, "text": "डेंग्यू", "is_correct": true },
+        { "option_id": 3, "text": "कावीळ", "is_correct": false },
+        { "option_id": 4, "text": "घटसर्प", "is_correct": false }
+      ],
+      "answer": "डेंग्यू"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अन्न झाकून ठेवल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "अन्न गरम राहते", "is_correct": false },
+        { "option_id": 2, "text": "त्यावर माश्या बसत नाहीत", "is_correct": true },
+        { "option_id": 3, "text": "अन्न चविष्ट लागते", "is_correct": false },
+        { "option_id": 4, "text": "अन्न कमी लागते", "is_correct": false }
+      ],
+      "answer": "त्यावर माश्या बसत नाहीत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खोकताना किंवा शिंकताना तोंडावर काय धरावे?",
+      "options": [
+        { "option_id": 1, "text": "हात", "is_correct": false },
+        { "option_id": 2, "text": "रुमाल", "is_correct": true },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "रुमाल"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "साथीचे रोग पसरण्यापासून रोखण्यासाठी काय महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "सार्वजनिक स्वच्छता", "is_correct": true },
+        { "option_id": 2, "text": "जास्त पैसे मिळवणे", "is_correct": false },
+        { "option_id": 3, "text": "नवे कपडे घालणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्रपट पाहणे", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक स्वच्छता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मुलांना जन्मानंतर लगेच कोणत्या रोगाची लस दिली जाते?",
+      "options": [
+        { "option_id": 1, "text": "क्षय (BCG)", "is_correct": true },
+        { "option_id": 2, "text": "मलेरिया", "is_correct": false },
+        { "option_id": 3, "text": "ताप", "is_correct": false },
+        { "option_id": 4, "text": "खोकला", "is_correct": false }
+      ],
+      "answer": "क्षय (BCG)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "डासांची उत्पत्ती रोखण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी साठवून ठेवावे", "is_correct": false },
+        { "option_id": 2, "text": "पाणी साचू देऊ नये", "is_correct": true },
+        { "option_id": 3, "text": "झाडे तोडावी", "is_correct": false },
+        { "option_id": 4, "text": "खिडक्या बंद कराव्या", "is_correct": false }
+      ],
+      "answer": "पाणी साचू देऊ नये"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "टायफॉइड हा रोग कशाच्या माध्यमाने पसरतो?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "पाणी आणि अन्न", "is_correct": true },
+        { "option_id": 3, "text": "स्पर्श", "is_correct": false },
+        { "option_id": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "पाणी आणि अन्न"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "विशूचिका म्हणजे कोणता रोग?",
+      "options": [
+        { "option_id": 1, "text": "कावीळ", "is_correct": false },
+        { "option_id": 2, "text": "कॉलरा", "is_correct": true },
+        { "option_id": 3, "text": "टायफॉइड", "is_correct": false },
+        { "option_id": 4, "text": "गॅस्ट्रो", "is_correct": false }
+      ],
+      "answer": "कॉलरा"
+    },
+    { "question_id": 21, "question_type": "MCQ", "question": "हवेद्वारे जंतू प्रसार कशामुळे होतो?", "options": [{ "option_id": 1, "text": "बोलणे", "is_correct": false }, { "option_id": 2, "text": "पळणे", "is_correct": false }, { "option_id": 3, "text": "थुंकणे", "is_correct": true }, { "option_id": 4, "text": "झोपणे", "is_correct": false }], "answer": "थुंकणे" },
+    { "question_id": 22, "question_type": "MCQ", "question": "रोगप्रतिकारशक्ती कशामुळे मिळते?", "options": [{ "option_id": 1, "text": "लसीकरण", "is_correct": true }, { "option_id": 2, "text": "टीव्ही पाहणे", "is_correct": false }, { "option_id": 3, "text": "बाहेरचे खाणे", "is_correct": false }, { "option_id": 4, "text": "सतत झोपणे", "is_correct": false }], "answer": "लसीकरण" },
+    { "question_id": 23, "question_type": "MCQ", "question": "पाणी निर्जंतुक करण्यासाठी गॅसवर किती वेळ उकळावे?", "options": [{ "option_id": 1, "text": "१ मिनिट", "is_correct": false }, { "option_id": 2, "text": "१०-२० मिनिटे", "is_correct": true }, { "option_id": 3, "text": "५ तास", "is_correct": false }, { "option_id": 4, "text": "काही सेकंद", "is_correct": false }], "answer": "१०-२० मिनिटे" },
+    { "question_id": 24, "question_type": "MCQ", "question": "डोळे येणे (Conjunctivitis) कशामुळे पसरतो?", "options": [{ "option_id": 1, "text": "हवेतून", "is_correct": false }, { "option_id": 2, "text": "संपर्कातून", "is_correct": true }, { "option_id": 3, "text": "अन्नातून", "is_correct": false }, { "option_id": 4, "text": "पाण्यातून", "is_correct": false }], "answer": "संपर्कातून" },
+    { "question_id": 25, "question_type": "MCQ", "question": "हाथीपाय रोग कशामुळे होतो?", "options": [{ "option_id": 1, "text": "डास चावल्यामुळे", "is_correct": true }, { "option_id": 2, "text": "माश्यांमुळे", "is_correct": false }, { "option_id": 3, "text": "उंदरामुळे", "is_correct": false }, { "option_id": 4, "text": "कुत्र्यामुळे", "is_correct": false }], "answer": "डास चावल्यामुळे" },
+    { "question_id": 26, "question_type": "MCQ", "question": "प्लेग हा रोग कोणाकडून पसरतो?", "options": [{ "option_id": 1, "text": "गाय", "is_correct": false }, { "option_id": 2, "text": "उंदीर/पिसा", "is_correct": true }, { "option_id": 3, "text": "मांजरी", "is_correct": false }, { "option_id": 4, "text": "पोपट", "is_correct": false }], "answer": "उंदीर/पिसा" },
+    { "question_id": 27, "question_type": "MCQ", "question": "कॉलरा झालेल्या व्यक्तीला काय द्यावे?", "options": [{ "option_id": 1, "text": "दूध", "is_correct": false }, { "option_id": 2, "text": "ओआरएस (ORS)", "is_correct": true }, { "option_id": 3, "text": "थंड पेय", "is_correct": false }, { "option_id": 4, "text": "वडापाव", "is_correct": false }], "answer": "ओआरएस (ORS)" },
+    { "question_id": 28, "question_type": "MCQ", "question": "देवीचा रोग आता जगात काय झाला आहे?", "options": [{ "option_id": 1, "text": "वाढला आहे", "is_correct": false }, { "option_id": 2, "text": "नष्ट झाला आहे", "is_correct": true }, { "option_id": 3, "text": "कमी झाला आहे", "is_correct": false }, { "option_id": 4, "text": "तोच आहे", "is_correct": false }], "answer": "नष्ट झाला आहे" },
+    { "question_id": 29, "question_type": "MCQ", "question": "नारू हा रोग कशामुळे होत असे?", "options": [{ "option_id": 1, "text": "हवेमुळे", "is_correct": false }, { "option_id": 2, "text": "दूषित पाण्यामुळे", "is_correct": true }, { "option_id": 3, "text": "माश्यांमुळे", "is_correct": false }, { "option_id": 4, "text": "उंदीर चावल्यामुळे", "is_correct": false }], "answer": "दूषित पाण्यामुळे" },
+    { "question_id": 30, "question_type": "MCQ", "question": "स्वाइन फ्लू कशामुळे पसरतो?", "options": [{ "option_id": 1, "text": "अन्न", "is_correct": false }, { "option_id": 2, "text": "पाणी", "is_correct": false }, { "option_id": 3, "text": "हवा/संपर्क", "is_correct": true }, { "option_id": 4, "text": "माती", "is_correct": false }], "answer": "हवा/संपर्क" },
+    { "question_id": 31, "question_type": "MCQ", "question": "पोलिओची लस कशी दिली जाते?", "options": [{ "option_id": 1, "text": "तोंडाद्वारे", "is_correct": true }, { "option_id": 2, "text": "इंजेक्शनद्वारे", "is_correct": false }, { "option_id": 3, "text": "मलमाद्वारे", "is_correct": false }, { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }], "answer": "तोंडाद्वारे" },
+    { "question_id": 32, "question_type": "MCQ", "question": "स्वच्छ हात न धुता जेवल्यास कोणता संसर्ग होऊ शकतो?", "options": [{ "option_id": 1, "text": "सर्दी", "is_correct": false }, { "option_id": 2, "text": "पोटाचे रोग", "is_correct": true }, { "option_id": 3, "text": "पाय दुखी", "is_correct": false }, { "option_id": 4, "text": "डोकेदुखी", "is_correct": false }], "answer": "पोटाचे रोग" },
+    { "question_id": 33, "question_type": "MCQ", "question": "कीटकनाशकाचा वापर कशासाठी करतात?", "options": [{ "option_id": 1, "text": "झाडे वाढवण्यासाठी", "is_correct": false }, { "option_id": 2, "text": "कीटक मारण्यासाठी", "is_correct": true }, { "option_id": 3, "text": "पाणी शुद्ध करण्यासाठी", "is_correct": false }, { "option_id": 4, "text": "हवा शुद्ध करण्यासाठी", "is_correct": false }], "answer": "कीटक मारण्यासाठी" },
+    { "question_id": 34, "question_type": "MCQ", "question": "कांजिण्या हा रोग कशामुळे होतो?", "options": [{ "option_id": 1, "text": "जीवाणू", "is_correct": false }, { "option_id": 2, "text": "विषाणू", "is_correct": true }, { "option_id": 3, "text": "कवक", "is_correct": false }, { "option_id": 4, "text": "शेवाळ", "is_correct": false }], "answer": "विषाणू" },
+    { "question_id": 35, "question_type": "MCQ", "question": "साथीच्या काळात शाळा बंद का ठेवतात?", "options": [{ "option_id": 1, "text": "शिक्षकांना सुट्टी हवी म्हणून", "is_correct": false }, { "option_id": 2, "text": "मुलांमध्ये संसर्ग पसरू नये म्हणून", "is_correct": true }, { "option_id": 3, "text": "शाळा स्वच्छ करायची असते म्हणून", "is_correct": false }, { "option_id": 4, "text": "पाऊस जास्त असतो म्हणून", "is_correct": false }], "answer": "मुलांमध्ये संसर्ग पसरू नये म्हणून" },
+    { "question_id": 36, "question_type": "MCQ", "question": "डेंग्यू पसरवणारा डास कोठे अंडी घालतो?", "options": [{ "option_id": 1, "text": "वाहत्या पाण्यात", "is_correct": false }, { "option_id": 2, "text": "साचलेल्या स्वच्छ पाण्यात", "is_correct": true }, { "option_id": 3, "text": "समुद्रात", "is_correct": false }, { "option_id": 4, "text": "गटारात", "is_correct": false }], "answer": "साचलेल्या स्वच्छ पाण्यात" },
+    { "question_id": 37, "question_type": "MCQ", "question": "अतिसारामध्ये शरीरातून काय बाहेर पडते?", "options": [{ "option_id": 1, "text": "रक्त", "is_correct": false }, { "option_id": 2, "text": "पाणी आणि क्षार", "is_correct": true }, { "option_id": 3, "text": "हाडे", "is_correct": false }, { "option_id": 4, "text": "चरबी", "is_correct": false }], "answer": "पाणी आणि क्षार" },
+    { "question_id": 38, "question_type": "MCQ", "question": "मुलांना दिल्या जाणाऱ्या 'त्रिगुणी' लसीत कोणता रोग नसतो?", "options": [{ "option_id": 1, "text": "घटसर्प", "is_correct": false }, { "option_id": 2, "text": "धनुर्वात", "is_correct": false }, { "option_id": 3, "text": " डांग्या खोकला", "is_correct": false }, { "option_id": 4, "text": "मलेरिया", "is_correct": true }], "answer": "मलेरिया" },
+    { "question_id": 39, "question_type": "MCQ", "question": "जंतूंची वाढ कशात वेगाने होते?", "options": [{ "option_id": 1, "text": "बर्फात", "is_correct": false }, { "option_id": 2, "text": "दूध आणि अन्नात", "is_correct": true }, { "option_id": 3, "text": "कोरड्या जागी", "is_correct": false }, { "option_id": 4, "text": "मिठात", "is_correct": false }], "answer": "दूध आणि अन्नात" },
+    { "question_id": 40, "question_type": "MCQ", "question": "कोणता अवयव कावीळ मध्ये बाधित होतो?", "options": [{ "option_id": 1, "text": "हृदय", "is_correct": false }, { "option_id": 2, "text": "यकृत", "is_correct": true }, { "option_id": 3, "text": "मेंदू", "is_correct": false }, { "option_id": 4, "text": "पाय", "is_correct": false }], "answer": "यकृत" },
+    { "question_id": 41, "question_type": "MCQ", "question": "शरीराची प्रतिकारशक्ती वाढवण्यासाठी काय आवश्यक आहे?", "options": [{ "option_id": 1, "text": "सकस आहार", "is_correct": true }, { "option_id": 2, "text": "गोड पदार्थ", "is_correct": false }, { "option_id": 3, "text": "चहा", "is_correct": false }, { "option_id": 4, "text": "बटाटा चिप्स", "is_correct": false }], "answer": "सकस आहार" },
+    { "question_id": 42, "question_type": "MCQ", "question": "विमानाने प्रवास करणाऱ्या प्रवाशांची तपासणी का केली जाते?", "options": [{ "option_id": 1, "text": "त्यांचे फोटो काढण्यासाठी", "is_correct": false }, { "option_id": 2, "text": "दुसऱ्या देशातून रोग पसरू नये म्हणून", "is_correct": true }, { "option_id": 3, "text": "त्यांच्याकडे पैसे आहेत का पाहण्यासाठी", "is_correct": false }, { "option_id": 4, "text": "विमानाचे वजन मोजण्यासाठी", "is_correct": false }], "answer": "दुसऱ्या देशातून रोग पसरू नये म्हणून" },
+    { "question_id": 43, "question_type": "MCQ", "question": "पिण्याचे पाणी कोठून भरू नये?", "options": [{ "option_id": 1, "text": "नळातून", "is_correct": false }, { "option_id": 2, "text": "जिथे लोक कपडे धुतात तिथून", "is_correct": true }, { "option_id": 3, "text": "विहिरीतून", "is_correct": false }, { "option_id": 4, "text": "जलकुंभातून", "is_correct": false }], "answer": "जिथे लोक कपडे धुतात तिथून" },
+    { "question_id": 44, "question_type": "MCQ", "question": "रोगजंतू हे कशाने दिसतात?", "options": [{ "option_id": 1, "text": "उघड्या डोळ्यांनी", "is_correct": false }, { "option_id": 2, "text": "सूक्ष्मदर्शकाखाली", "is_correct": true }, { "option_id": 3, "text": "चष्म्यातून", "is_correct": false }, { "option_id": 4, "text": "दुर्बिणीतून", "is_correct": false }], "answer": "सूक्ष्मदर्शकाखाली" },
+    { "question_id": 45, "question_type": "MCQ", "question": "फळे खाण्यापूर्वी काय करावे?", "options": [{ "option_id": 1, "text": "सोलून ठेवावी", "is_correct": false }, { "option_id": 2, "text": "स्वच्छ धुवावी", "is_correct": true }, { "option_id": 3, "text": "उन्हात ठेवावी", "is_correct": false }, { "option_id": 4, "text": "तळुन घ्यावी", "is_correct": false }], "answer": "स्वच्छ धुवावी" },
+    { "question_id": 46, "question_type": "MCQ", "question": "रुग्ण बरा झाल्यावर त्याचे खोलीचे काय करावे?", "options": [{ "option_id": 1, "text": "रंगवावी", "is_correct": false }, { "option_id": 2, "text": "निर्जंतुकीकरण करावे", "is_correct": true }, { "option_id": 3, "text": "बंद करून ठेवावी", "is_correct": false }, { "option_id": 4, "text": "त्यात सामान भरावे", "is_correct": false }], "answer": "निर्जंतुकीकरण करावे" },
+    { "question_id": 47, "question_type": "MCQ", "question": "नखे का काढावीत?", "options": [{ "option_id": 1, "text": "ती वाढतात म्हणून", "is_correct": false }, { "option_id": 2, "text": "त्यातील मळातून जंतू पोटात जातात म्हणून", "is_correct": true }, { "option_id": 3, "text": "पेन्सिल पकडता येत नाही म्हणून", "is_correct": false }, { "option_id": 4, "text": "शाळेत रागवतात म्हणून", "is_correct": false }], "answer": "त्यातील मळातून जंतू पोटात जातात म्हणून" },
+    { "question_id": 48, "question_type": "MCQ", "question": "कोणता ऋतू संसर्गजन्य रोगांसाठी जास्त पोषक असतो?", "options": [{ "option_id": 1, "text": "उन्हाळा", "is_correct": false }, { "option_id": 2, "text": "पावसाळा", "is_correct": true }, { "option_id": 3, "text": "हिवाळा", "is_correct": false }, { "option_id": 4, "text": "सर्व ऋतू", "is_correct": false }], "answer": "पावसाळा" },
+    { "question_id": 49, "question_type": "MCQ", "question": "पाण्यातील जंतू मारण्यासाठी कोणती पावडर वापरतात?", "options": [{ "option_id": 1, "text": "टॅल्कम पावडर", "is_correct": false }, { "option_id": 2, "text": "ब्लिचिंग पावडर", "is_correct": true }, { "option_id": 3, "text": "मिरची पावडर", "is_correct": false }, { "option_id": 4, "text": "वाशिंग पावडर", "is_correct": false }], "answer": "ब्लिचिंग पावडर" },
+    { "question_id": 50, "question_type": "MCQ", "question": "सर्वसाधारणपणे किती अंतरावर थुंकल्यामुळे हवेतून जंतू पसरतात?", "options": [{ "option_id": 1, "text": "१-२ फूट", "is_correct": false }, { "option_id": 2, "text": "अनेक फूट", "is_correct": true }, { "option_id": 3, "text": "१० किमी", "is_correct": false }, { "option_id": 4, "text": "काही इंच", "is_correct": false }], "answer": "अनेक फूट" },
+    { "question_id": 51, "question_type": "SHORT", "question": "संसर्गजन्य रोग म्हणजे काय?", "answer": "एका रोग्याकडून दुसऱ्या निरोगी माणसाला होणाऱ्या रोगाला संसर्गजन्य रोग म्हणतात." },
+    { "question_id": 52, "question_type": "SHORT", "question": "रोग कशामुळे होतात?", "answer": "रोग सूक्ष्म अशा रोगजंतूंमुळे होतात." },
+    { "question_id": 53, "question_type": "SHORT", "question": "हवेद्वारे पसरणाऱ्या दोन रोगांची नावे लिहा.", "answer": "क्षय (टीबी) आणि स्वाइन फ्लू." },
+    { "question_id": 54, "question_type": "SHORT", "question": "पाण्याद्वारे पसरणाऱ्या दोन रोगांची नावे लिहा.", "answer": "कॉलरा आणि टायफॉइड." },
+    { "question_id": 55, "question_type": "SHORT", "question": "कीटकांद्वारे पसरणाऱ्या दोन रोगांची नावे लिहा.", "answer": "मलेरिया आणि डेंग्यू." },
+    { "question_id": 56, "question_type": "SHORT", "question": "त्वचेच्या संपर्कामुळे कोणते रोग होतात?", "answer": "खरूज, नायटा आणि कांजिण्या." },
+    { "question_id": 57, "question_type": "SHORT", "question": "रोगप्रसार म्हणजे काय?", "answer": "रोगजंतूंचे एका व्यक्तीकडून दुसऱ्या व्यक्तीकडे जाणे म्हणजे रोगप्रसार होय." },
+    { "question_id": 58, "question_type": "SHORT", "question": "अन्न झाकून का ठेवावे?", "answer": "माश्या अन्नावर बसून रोगजंतू पसरवू नयेत म्हणून अन्न झाकून ठेवावे." },
+    { "question_id": 59, "question_type": "SHORT", "question": "पिण्याचे पाणी निर्जंतुक कसे करावे?", "answer": "पाणी उकळून किंवा त्यात ब्लिचिंग पावडर टाकून निर्जंतुक करावे." },
+    { "question_id": 60, "question_type": "SHORT", "question": "लसीकरण म्हणजे काय?", "answer": "विशिष्ट रोगाविरुद्ध प्रतिकारशक्ती निर्माण करण्यासाठी शरीरात लस टोचणे म्हणजे लसीकरण होय." },
+    { "question_id": 61, "question_type": "SHORT", "question": "मलेरिया कोणत्या डासामुळे होतो?", "answer": "मलेरिया ॲनोफिलीस डासाची मादी चावल्यामुळे होतो." },
+    { "question_id": 62, "question_type": "SHORT", "question": "हिवताप टाळण्यासाठी काय करावे?", "answer": "डास होऊ नयेत म्हणून पाणी साचू देऊ नये आणि मच्छरदानी वापरावी." },
+    { "question_id": 63, "question_type": "SHORT", "question": "क्षय रोगाचा प्रसार कसा होतो?", "answer": "क्षय रोग्याचा थुंकीतून आणि हवेतून पसरतो." },
+    { "question_id": 64, "question_type": "SHORT", "question": "कावीळ कशामुळे होते?", "answer": "दूषित पाणी आणि अन्नावाटे काविळीचे जंतू शरीरात गेल्यामुळे कावीळ होते." },
+    { "question_id": 65, "question_type": "SHORT", "question": "साथीचे रोग म्हणजे काय?", "answer": "एकाच वेळी एकाच भागातील अनेक लोकांना एकाच रोगाचा प्रादुर्भाव होणे म्हणजे साथीचा रोग होय." },
+    { "question_id": 66, "question_type": "SHORT", "question": "ब्लिचिंग पावडरचा उपयोग काय?", "answer": "ब्लिचिंग पावडर पाण्यातील सूक्ष्म रोगजंतूंना मारण्यासाठी वापरतात." },
+    { "question_id": 67, "question_type": "SHORT", "question": "थुंकण्यावर बंदी का असते?", "answer": "थुंकल्यामुळे हवेत रोगजंतू पसरतात आणि आजार वाढतात, म्हणून बंदी असते." },
+    { "question_id": 68, "question_type": "SHORT", "question": "अतिसार (जुलाब) झाल्यास काय द्यावे?", "answer": "अतिसार झाल्यास जलसंजीवनी (ORS) द्यावे." },
+    { "question_id": 69, "question_type": "SHORT", "question": "डोळे येणे हा रोग कसा पसरतो?", "answer": "रोग्याच्या डोळ्यातील स्त्रावाचा संपर्क दुसऱ्याला झाल्यास हा रोग पसरतो." },
+    { "question_id": 70, "question_type": "SHORT", "question": "नारू हा रोग आता का आढळत नाही?", "answer": "पिण्याचे पाणी स्वच्छ आणि सुरक्षित झाल्यामुळे नारू रोग नष्ट झाला आहे." },
+    { "question_id": 71, "question_type": "SHORT", "question": "विशूचिका म्हणजे काय?", "answer": "विशूचिका म्हणजे कॉलरा हा तीव्र संसर्गजन्य रोग होय." },
+    { "question_id": 72, "question_type": "SHORT", "question": "कीटकनाशके कोठे फवारावीत?", "answer": "जिथे पाणी साचते आणि जिथे डास/माश्या होतात तिथे कीटकनाशके फवारावीत." },
+    { "question_id": 73, "question_type": "SHORT", "question": "सार्वजनिक स्वच्छता का राखली पाहिजे?", "answer": "साथीचे रोग पसरू नयेत म्हणून सार्वजनिक स्वच्छता राखली पाहिजे." },
+    { "question_id": 74, "question_type": "SHORT", "question": "रोग्याला विलगीकरणात का ठेवतात?", "answer": "दुसऱ्या व्यक्तीला संसर्ग होऊ नये म्हणून रोग्याला वेगळे (विलगीकरणात) ठेवतात." },
+    { "question_id": 75, "question_type": "SHORT", "question": "डांग्या खोकला टाळण्यासाठी कोणती लस देतात?", "answer": "डांग्या खोकला टाळण्यासाठी 'त्रिगुणी' लस देतात." },
+    { "question_id": 76, "question_type": "SHORT", "question": "कांजिण्या झालेल्या मुलाला शाळेत का पाठवू नये?", "answer": "कांजिण्यांचा संसर्ग इतर मुलांना होऊ नये म्हणून शाळेत पाठवू नये." },
+    { "question_id": 77, "question_type": "SHORT", "question": "स्वच्छ हातांचे महत्त्व काय?", "answer": "हातांवरील जंतू पोटात जाऊन आजार होऊ नयेत म्हणून हात स्वच्छ असावेत." },
+    { "question_id": 78, "question_type": "SHORT", "question": "दूध उकळून का प्यावे?", "answer": "दुधातील जंतू मारण्यासाठी दूध उकळून प्यावे." },
+    { "question_id": 79, "question_type": "SHORT", "question": "प्लेग पसरण्यास कोण जबाबदार असते?", "answer": "प्लेग पसरण्यास उंदरांवरील 'पिसा' जबाबदार असतात." },
+    { "question_id": 80, "question_type": "SHORT", "question": "हवा निर्जंतुक करण्यासाठी काय करावे?", "answer": "खोलीत भरपूर सूर्यप्रकाश आणि खेळती हवा असावी." },
+    { "question_id": 81, "question_type": "SHORT", "question": "कॉलराची लक्षणे कोणती?", "answer": "उलट्या आणि जुलाब ही कॉलराची मुख्य लक्षणे आहेत." },
+    { "question_id": 82, "question_type": "SHORT", "question": "रोगजंतू शरीरात कसे प्रवेश करतात?", "answer": "हवा, पाणी, अन्न आणि जखमेद्वारे जंतू शरीरात प्रवेश करतात." },
+    { "question_id": 83, "question_type": "SHORT", "question": "BCG लस कोणत्या रोगासाठी असते?", "answer": "BCG लस क्षय (टीबी) रोगासाठी असते." },
+    { "question_id": 84, "question_type": "SHORT", "question": "पावसाळ्यात पाणी गाळून आणि उकळून का प्यावे?", "answer": "पावसाळ्यात पाणी दूषित होण्याची शक्यता जास्त असते, म्हणून ते उकळावे." },
+    { "question_id": 85, "question_type": "SHORT", "question": "बाहेरचे उघड्यावरचे पदार्थ का खाऊ नयेत?", "answer": "उघड्या अन्नावर धूळ आणि माश्या बसतात, ज्यामुळे रोग होऊ शकतात." },
+    { "question_id": 86, "question_type": "SHORT", "question": "डासांची पैदास कोठे होते?", "answer": "डबकी, टायर, कुंड्या अशा साचलेल्या पाण्यात डासांची पैदास होते." },
+    { "question_id": 87, "question_type": "SHORT", "question": "जखमेवर मलमपट्टी का करावी?", "answer": "जखमेतून बाहेरचे जंतू शरीरात जाऊ नयेत म्हणून मलमपट्टी करावी." },
+    { "question_id": 88, "question_type": "SHORT", "question": "धनुर्वात म्हणजे काय?", "answer": "लोखंडी वस्तू लागल्यामुळे किंवा जखमेतून होणारा एक घातक संसर्ग म्हणजे धनुर्वात." },
+    { "question_id": 89, "question_type": "SHORT", "question": "डोळे आल्यावर काय काळजी घ्यावी?", "answer": "दुसऱ्याचे रुमाल वापरू नयेत आणि डोळ्यांना हात लावू नये." },
+    { "question_id": 90, "question_type": "SHORT", "question": "रुग्णाचे कपडे कशाने धुवावेत?", "answer": "रुग्णाचे कपडे जंतुनाशक द्रावणात किंवा गरम पाण्यात धुवावेत." },
+    { "question_id": 91, "question_type": "SHORT", "question": "साथीच्या काळात टाळण्याची गोष्ट कोणती?", "answer": "गर्दीच्या ठिकाणी जाणे टाळावे." },
+    { "question_id": 92, "question_type": "SHORT", "question": "रोगप्रतिकारशक्ती म्हणजे काय?", "answer": "रोगांशी लढण्याची शरीराची क्षमता म्हणजे रोगप्रतिकारशक्ती." },
+    { "question_id": 93, "question_type": "SHORT", "question": "पोलिओ निर्मूलन म्हणजे काय?", "answer": "जगातून पोलिओचा पूर्णपणे नायनाट करणे." },
+    { "question_id": 94, "question_type": "SHORT", "question": "माशी कशी रोग पसरवते?", "answer": "माशी घाणीवर बसते आणि नंतर अन्नावर बसून जंतू तिथे सोडते." },
+    { "question_id": 95, "question_type": "SHORT", "question": "यकृत कोठे असते?", "answer": "यकृत शरीराच्या पोटाच्या वरच्या भागात उजव्या बाजूला असते." },
+    { "question_id": 96, "question_type": "SHORT", "question": "जलसंजीवनी कशी बनवतात?", "answer": "पाण्यात साखर आणि मीठ विशिष्ट प्रमाणात मिसळून जलसंजीवनी बनवतात." },
+    { "question_id": 97, "question_type": "SHORT", "question": "रोगमुक्त राहण्यासाठी सर्वात सोपा मार्ग कोणता?", "answer": "वैयक्तिक आणि परिसर स्वच्छता राखणे." },
+    { "question_id": 98, "question_type": "SHORT", "question": "फिनॉईलचा वापर कोठे करतात?", "answer": "जमीन आणि शौचास साफ करण्यासाठी फिनॉईल वापरतात." },
+    { "question_id": 99, "question_type": "SHORT", "question": "कांजिण्यांच्या डागांना काय म्हणतात?", "answer": "कांजिण्यांच्या शरीरावरील पुरळ किंवा फोड म्हणतात." },
+    { "question_id": 100, "question_type": "SHORT", "question": "हवा प्रदूषण आणि रोगांचा काय संबंध आहे?", "answer": "प्रदूषित हवेत जंतू जास्त काळ टिकतात आणि श्वसनाचे रोग वाढवतात." },
+    { "question_id": 101, "question_type": "SHORT", "question": "स्वच्छ पाण्याचे लक्षण काय?", "answer": "स्वच्छ पाणी पारदर्शक, विनावास आणि चवहीन असते." },
+    { "question_id": 102, "question_type": "SHORT", "question": "उंदीर घरात का नसावेत?", "answer": "उंदीर प्लेगसारखे रोग पसरवू शकतात आणि अन्न दूषित करतात." },
+    { "question_id": 103, "question_type": "SHORT", "question": "शाळेत हात धुण्याची मोहीम का राबवतात?", "answer": "मुलांना स्वच्छतेची सवय लागावी आणि संसर्ग टाळावा म्हणून." },
+    { "question_id": 104, "question_type": "SHORT", "question": "ताप आल्यावर काय करावे?", "answer": "ताप आल्यावर डॉक्टरांकडे जाऊन योग्य उपचार घ्यावेत." },
+    { "question_id": 105, "question_type": "SHORT", "question": "डास चावू नये म्हणून काय लावावे?", "answer": "अंगाला ओडोमॉससारखी मलमं लावावीत किंवा मच्छरदाणी वापरावी." },
+    { "question_id": 106, "question_type": "SHORT", "question": "गावातील पाण्याची टाकी कधी स्वच्छ करावी?", "answer": "पाण्याची टाकी ठराविक काळानंतर नियमितपणे स्वच्छ करावी." },
+    { "question_id": 107, "question_type": "SHORT", "question": "विषबाधा म्हणजे काय?", "answer": "खराब किंवा दूषित अन्नामुळे शरीरावर होणारा विपरित परिणाम." },
+    { "question_id": 108, "question_type": "SHORT", "question": "धुणे धुण्याच्या जागी पिण्याचे पाणी का नसावे?", "answer": "धुण्याच्या सांडपाण्यामुळे पिण्याचे पाणी दूषित होऊ शकते." },
+    { "question_id": 109, "question_type": "SHORT", "question": "रोगराई म्हणजे काय?", "answer": "एकाच वेळी अनेक रोग मोठ्या प्रमाणात पसरणे." },
+    { "question_id": 110, "question_type": "SHORT", "question": "जंतुनाशक म्हणजे काय?", "answer": "अशी द्रव्ये जी रोगजंतूंचा नाश करतात." },
+    { "question_id": 111, "question_type": "SHORT", "question": "पांढऱ्या पेशींचे कार्य काय?", "answer": "पांढऱ्या पेशी शरीरात शिरलेल्या जंतूंशी लढतात." },
+    { "question_id": 112, "question_type": "SHORT", "question": "शिळे अन्न का खाऊ नये?", "answer": "शिळ्या अन्नात जंतूंची वाढ झालेली असू शकते." },
+    { "question_id": 113, "question_type": "SHORT", "question": "प्राण्यांपासून मानवाला होणारा एक रोग सांगा.", "answer": "रेबीज (कुत्रा चावल्यामुळे)." },
+    { "question_id": 114, "question_type": "SHORT", "question": "स्वयंपाकघर कसे असावे?", "answer": "स्वयंपाकघर स्वच्छ, हवेशीर आणि माश्यामुक्त असावे." },
+    { "question_id": 115, "question_type": "SHORT", "question": "आरोग्य केंद्र म्हणजे काय?", "answer": "लोकांच्या आरोग्याची काळजी घेणारे शासकीय केंद्र." },
+    { "question_id": 116, "question_type": "SHORT", "question": "गॅस्ट्रोची लक्षणे काय?", "answer": "जुलाब आणि पोटदुखी." },
+    { "question_id": 117, "question_type": "SHORT", "question": "साथीचा प्रसार रोखण्याचे काम कोणाचे आहे?", "answer": "हे सरकार आणि नागरिक दोघांचेही काम आहे." },
+    { "question_id": 118, "question_type": "SHORT", "question": "कुपोषणाचा रोगांशी काय संबंध आहे?", "answer": "कुपोषणामुळे प्रतिकारशक्ती कमी होते आणि रोग लवकर होतात." },
+    { "question_id": 119, "question_type": "SHORT", "question": "हवाबदल आणि आजार यांचा काय संबंध?", "answer": "तापमानातील बदलामुळे जंतूंची वाढ होण्यास मदत होते." },
+    { "question_id": 120, "question_type": "SHORT", "question": "निर्जंतुकीकरण म्हणजे काय?", "answer": "एखादी वस्तू किंवा जागा जंतूमुक्त करण्याची प्रक्रिया." },
+    { "question_id": 121, "question_type": "SHORT", "question": "देवीची लस कोणी शोधली?", "answer": "एडवर्ड जेन्नर यांनी." },
+    { "question_id": 122, "question_type": "SHORT", "question": "आरोग्यदायी सवयी म्हणजे काय?", "answer": "वेळेवर जेवणे, स्वच्छता राखणे आणि व्यायाम करणे." },
+    { "question_id": 123, "question_type": "SHORT", "question": "कचरा कोठे टाकावा?", "answer": "कचरा नेहमी झाकण असलेल्या कचरापेटीत टाकावा." },
+    { "question_id": 124, "question_type": "SHORT", "question": "उघड्यावर शौचास का बसू नये?", "answer": "त्यामुळे माश्यांद्वारे विष्ठेतील जंतू अन्नावर पसरतात." },
+    { "question_id": 125, "question_type": "SHORT", "question": "जंतुसंसर्ग टाळण्यासाठी सर्वोत्तम उपाय कोणता?", "answer": "वारंवार साबणाने हात धुणे." },
+    { "question_id": 126, "question_type": "SHORT", "question": "टायफॉइडला मराठीत काय म्हणतात?", "answer": "टायफॉइडला मराठीत विषमज्वर म्हणतात." },
+    { "question_id": 127, "question_type": "SHORT", "question": "कांजिण्या एकदा झाल्यावर पुन्हा का होत नाहीत?", "answer": "शरीरात त्या रोगाविरुद्ध कायमस्वरूपी प्रतिकारशक्ती तयार होते." },
+    { "question_id": 128, "question_type": "SHORT", "question": "रोगजंतू कोठे राहतात?", "answer": "जंतू हवा, पाणी, माती आणि सजीवांच्या शरीरात राहतात." },
+    { "question_id": 129, "question_type": "SHORT", "question": "विषाणू (Virus) म्हणजे काय?", "answer": "जीवाणूंपेक्षाही सूक्ष्म असलेले रोगकारक घटक." },
+    { "question_id": 130, "question_type": "SHORT", "question": "आरोग्य रक्षक म्हणजे काय?", "answer": "समाजाच्या आरोग्याची काळजी घेणारी व्यक्ती किंवा यंत्रणा." },
+    { "question_id": 131, "question_type": "SHORT", "question": "पावसाळ्यात घराभोवती पाणी का साचू देऊ नये?", "answer": "साचलेल्या पाण्यात डास अंडी घालतात." },
+    { "question_id": 132, "question_type": "SHORT", "question": "खोकताना रुमाल का वापरावा?", "answer": "तोंडातील तुषार हवेत उडू नयेत म्हणून." },
+    { "question_id": 133, "question_type": "SHORT", "question": "पिण्याच्या पाण्याचे भांडे कसे असावे?", "answer": "पिण्याच्या पाण्याचे भांडे स्वच्छ आणि झाकलेले असावे." },
+    { "question_id": 134, "question_type": "SHORT", "question": "स्वच्छतेमुळे काय फायदा होतो?", "answer": "आजार कमी होतात आणि आयुष्य वाढते." },
+    { "question_id": 135, "question_type": "SHORT", "question": "रोगप्रतिकारशक्ती कमी होण्याची कारणे काय?", "answer": "अपुुरी झोप, चुकीचा आहार आणि तणाव." },
+    { "question_id": 136, "question_type": "SHORT", "question": "कॉलराचा प्रसार वेगाने कधी होतो?", "answer": "पुर परिस्थिती किंवा गर्दीच्या जत्रांमध्ये." },
+    { "question_id": 137, "question_type": "SHORT", "question": "जिवाणू (Bacteria) म्हणजे काय?", "answer": "एकपेशीय सूक्ष्मजीव जे रोग पसरवू शकतात." },
+    { "question_id": 138, "question_type": "SHORT", "question": "हात धुण्याचे ७ टप्पे का महत्त्वाचे आहेत?", "answer": "हाताचा प्रत्येक भाग निर्जंतुक करण्यासाठी." },
+    { "question_id": 139, "question_type": "SHORT", "question": "पाणी उकळल्यावर जंतू मरतात का?", "answer": "हो, उच्च तापमानामुळे जंतू मरतात." },
+    { "question_id": 140, "question_type": "SHORT", "question": "निरोगी माणूस कोणाला म्हणतात?", "answer": "ज्याला कोणताही शारीरिक किंवा मानसिक आजार नाही." },
+    { "question_id": 141, "question_type": "SHORT", "question": "जागतिक आरोग्य दिन कधी असतो?", "answer": "७ एप्रिल रोजी." },
+    { "question_id": 142, "question_type": "SHORT", "question": "नायटा म्हणजे काय?", "answer": "हा त्वचेचा एक संसर्गजन्य गोल आकाराचा आजार आहे." },
+    { "question_id": 143, "question_type": "SHORT", "question": "शाळेतील मुले आजारी पडल्यास काय करावे?", "answer": "त्यांना त्वरित घरी पाठवून उपचार द्यावेत." },
+    { "question_id": 144, "question_type": "SHORT", "question": "हवेतील जंतू डोळ्यांना का दिसत नाहीत?", "answer": "कारण ते अतिशय सूक्ष्म असतात." },
+    { "question_id": 145, "question_type": "SHORT", "question": "पाण्याचे निर्जंतुकीकरण का आवश्यक आहे?", "answer": "रोगराई टाळण्यासाठी." },
+    { "question_id": 146, "question_type": "SHORT", "question": "डास चावल्याने होणाऱ्या कोणत्याही एका गंभीर रोगाचे नाव सांगा.", "answer": "मेंदूज्वर." },
+    { "question_id": 147, "question_type": "SHORT", "question": "अन्नाचे प्रदूषण कशामुळे होते?", "answer": "धूळ, माश्या आणि हातावरील घाणीमुळे." },
+    { "question_id": 148, "question_type": "SHORT", "question": "संसर्गजन्य रोगांची साथ कधी येते?", "answer": "जेव्हा रोगप्रसारक घटक अनुकूल परिस्थितीत वाढतात." },
+    { "question_id": 149, "question_type": "SHORT", "question": "आरोग्य हीच संपत्ती असे का म्हणतात?", "answer": "आरोग्य चांगले असेल तरच आपण काम करू शकतो आणि आनंदी राहू शकतो." },
+    { "question_id": 150, "question_type": "SHORT", "question": "या पाठातून काय संदेश मिळतो?", "answer": "स्वच्छता पाळा आणि रोग टाळा." }
+  ]
+}

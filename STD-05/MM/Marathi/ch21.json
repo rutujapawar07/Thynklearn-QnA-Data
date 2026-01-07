@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 21,
+  "chapter_name": "प्रश्न विचारा पुन्हा पुन्हा",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'प्रश्न विचारा पुन्हा पुन्हा' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "विंदा करंदीकर", "is_correct": false },
+        { "option_id": 2, "text": "सुनील अभिमान पुरोहित", "is_correct": true },
+        { "option_id": 3, "text": "ना. धों. महानोर", "is_correct": false },
+        { "option_id": 4, "text": "कुसुमाग्रज", "is_correct": false }
+      ],
+      "answer": "सुनील अभिमान पुरोहित"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते प्रश्न विचारणे का महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "इतरांना त्रास देण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "शिकण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "काहीही कारण नाही", "is_correct": false }
+      ],
+      "answer": "शिकण्यासाठी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शिकणे कधी संपते?",
+      "options": [
+        { "option_id": 1, "text": "शाळा संपल्यावर", "is_correct": false },
+        { "option_id": 2, "text": "कॉलेज संपल्यावर", "is_correct": false },
+        { "option_id": 3, "text": "शिकणे कधीच संपत नाही", "is_correct": true },
+        { "option_id": 4, "text": "नोकरी लागल्यावर", "is_correct": false }
+      ],
+      "answer": "शिकणे कधीच संपत नाही"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कुत्र्याची शेपूट कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "वाकडी", "is_correct": true },
+        { "option_id": 3, "text": "लांब", "is_correct": false },
+        { "option_id": 4, "text": "छोटी", "is_correct": false }
+      ],
+      "answer": "वाकडी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पिंगळा हा पक्षी कधी बाहेर पडतो?",
+      "options": [
+        { "option_id": 1, "text": "सकाळी", "is_correct": false },
+        { "option_id": 2, "text": "दुपारी", "is_correct": false },
+        { "option_id": 3, "text": "रात्री", "is_correct": true },
+        { "option_id": 4, "text": "संध्याकाळी", "is_correct": false }
+      ],
+      "answer": "रात्री"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वटवाघूळ झाडाला कसे टांगले जाते?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "उलटे", "is_correct": true },
+        { "option_id": 3, "text": "आडवे", "is_correct": false },
+        { "option_id": 4, "text": "टांगले जात नाही", "is_correct": false }
+      ],
+      "answer": "उलटे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मासे पाण्यात कसे पोहतात?",
+      "options": [
+        { "option_id": 1, "text": "नाक दाबून", "is_correct": false },
+        { "option_id": 2, "text": "डोळे मिटून", "is_correct": false },
+        { "option_id": 3, "text": "कल्लाद्वारे (Gills) श्वसन करून", "is_correct": true },
+        { "option_id": 4, "text": "पाय हलवून", "is_correct": false }
+      ],
+      "answer": "कल्लाद्वारे (Gills) श्वसन करून"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "काजवे रात्री का चमकतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यांच्यात बॅटरी असते", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक प्रकाशामुळे", "is_correct": true },
+        { "option_id": 3, "text": "सूर्याच्या प्रकाशामुळे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही कारण नाही", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक प्रकाशामुळे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाऊस पडण्यापूर्वी आकाश कसे दिसते?",
+      "options": [
+        { "option_id": 1, "text": "निळे", "is_correct": false },
+        { "option_id": 2, "text": "पांढरे", "is_correct": false },
+        { "option_id": 3, "text": "काळ्या ढगांनी भरलेले", "is_correct": true },
+        { "option_id": 4, "text": "स्वच्छ", "is_correct": false }
+      ],
+      "answer": "काळ्या ढगांनी भरलेले"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेतील कोणत्या शब्दाचा अर्थ 'सतत' असा आहे?",
+      "options": [
+        { "option_id": 1, "text": "कधीकधी", "is_correct": false },
+        { "option_id": 2, "text": "पुन्हा पुन्हा", "is_correct": true },
+        { "option_id": 3, "text": "एकदा", "is_correct": false },
+        { "option_id": 4, "text": "मुळीच नाही", "is_correct": false }
+      ],
+      "answer": "पुन्हा पुन्हा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गरिबांचे नशीब कशावर अवलंबून असते असे म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कष्टावर", "is_correct": true },
+        { "option_id": 2, "text": "जादूटोण्यावर", "is_correct": false },
+        { "option_id": 3, "text": "देव नशिबावर", "is_correct": false },
+        { "option_id": 4, "text": "आरशावर", "is_correct": false }
+      ],
+      "answer": "कष्टावर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "विज्ञानाने आपल्याला काय शिकवले?",
+      "options": [
+        { "option_id": 1, "text": "अंधश्रद्धा", "is_correct": false },
+        { "option_id": 2, "text": "कार्यकारणभाव", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "गप्प बसणे", "is_correct": false }
+      ],
+      "answer": "कार्यकारणभाव"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मुलांना कशाची सवय लागावी असे कवीला वाटते?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्याची", "is_correct": false },
+        { "option_id": 2, "text": "प्रश्न विचारण्याची", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्याची", "is_correct": false },
+        { "option_id": 4, "text": "रडण्याची", "is_correct": false }
+      ],
+      "answer": "प्रश्न विचारण्याची"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पक्षांना घरटे बांधायला कोण शिकवते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "माणूस", "is_correct": false },
+        { "option_id": 3, "text": "त्यांची नैसर्गिक प्रवृत्ती", "is_correct": true },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "त्यांची नैसर्गिक प्रवृत्ती"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेनुसार कोणते उत्तर चुकीचे असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "अंधश्रद्धेचे", "is_correct": true },
+        { "option_id": 2, "text": "शास्त्रीय", "is_correct": false },
+        { "option_id": 3, "text": "तार्किक", "is_correct": false },
+        { "option_id": 4, "text": "पुराव्यांचे", "is_correct": false }
+      ],
+      "answer": "अंधश्रद्धेचे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "नव्या जगाची गुरुकिल्ली कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "पैसा", "is_correct": false },
+        { "option_id": 2, "text": "प्रश्न", "is_correct": true },
+        { "option_id": 3, "text": "गाडी", "is_correct": false },
+        { "option_id": 4, "text": "बंगला", "is_correct": false }
+      ],
+      "answer": "प्रश्न"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "झाडांची पाने हिरवी का असतात?",
+      "options": [
+        { "option_id": 1, "text": "रंग लावल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "हरितद्रव्यामुळे (Chlorophyll)", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "मातीमुळे", "is_correct": false }
+      ],
+      "answer": "हरितद्रव्यामुळे (Chlorophyll)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सापाला पाय नसूनही तो कसा चालतो?",
+      "options": [
+        { "option_id": 1, "text": "उडतो", "is_correct": false },
+        { "option_id": 2, "text": "सरपटतो", "is_correct": true },
+        { "option_id": 3, "text": "पळतो", "is_correct": false },
+        { "option_id": 4, "text": "चालत नाही", "is_correct": false }
+      ],
+      "answer": "सरपटतो"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आकाशात वीज का चमकते?",
+      "options": [
+        { "option_id": 1, "text": "जादूमुळे", "is_correct": false },
+        { "option_id": 2, "text": "ढगांच्या घर्षणामुळे", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "चांदण्यांमुळे", "is_correct": false }
+      ],
+      "answer": "ढगांच्या घर्षणामुळे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "समुद्राला भरती का येते?",
+      "options": [
+        { "option_id": 1, "text": "माशांच्या पोहण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "चंद्राच्या गुरुत्वाकर्षणामुळे", "is_correct": true },
+        { "option_id": 3, "text": "जास्त पाऊस पडल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+      ],
+      "answer": "चंद्राच्या गुरुत्वाकर्षणामुळे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "फुलांना सुगंध का असतो?",
+      "options": [
+        { "option_id": 1, "text": "अत्तर लावल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "कीटकांना आकर्षित करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वाऱ्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही कारण नाही", "is_correct": false }
+      ],
+      "answer": "कीटकांना आकर्षित करण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मुंग्या एका रांगेत का चालतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना शिस्त आवडते", "is_correct": false },
+        { "option_id": 2, "text": "गंधाचा (Pheromones) माग घेत", "is_correct": true },
+        { "option_id": 3, "text": "दिसत नाही म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "राणी मुंगी सांगते म्हणून", "is_correct": false }
+      ],
+      "answer": "गंधाचा (Pheromones) माग घेत"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "आकाश निळे का दिसते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाशाच्या विखुरण्यामुळे (Scattering)", "is_correct": true },
+        { "option_id": 3, "text": "ढगांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "रात्रीमुळे", "is_correct": false }
+      ],
+      "answer": "प्रकाशाच्या विखुरण्यामुळे (Scattering)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सूर्य कधी मावळतो?",
+      "options": [
+        { "option_id": 1, "text": "सकाळी", "is_correct": false },
+        { "option_id": 2, "text": "दुपारी", "is_correct": false },
+        { "option_id": 3, "text": "संध्याकाळी", "is_correct": true },
+        { "option_id": 4, "text": "रात्री", "is_correct": false }
+      ],
+      "answer": "संध्याकाळी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वाघ जंगलात का राहतो?",
+      "options": [
+        { "option_id": 1, "text": "त्याला भीती वाटते", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक निवारा शोधण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "माणसांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "कंटाळा येतो म्हणून", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक निवारा शोधण्यासाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणाला घाबरू नका असे सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांना", "is_correct": false },
+        { "option_id": 2, "text": "प्रश्नांना", "is_correct": true },
+        { "option_id": 3, "text": "अंधाराला", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षकांना", "is_correct": false }
+      ],
+      "answer": "प्रश्नांना"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "माणूस बुद्धिमान का आहे?",
+      "options": [
+        { "option_id": 1, "text": "तो मोठा आहे म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "तो प्रश्न विचारतो म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "तो शाळेत जातो म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "तो कपडे घालतो म्हणून", "is_correct": false }
+      ],
+      "answer": "तो प्रश्न विचारतो म्हणून"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "रात्री उजेड कशाचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राचा", "is_correct": true },
+        { "option_id": 2, "text": "सूर्याचा", "is_correct": false },
+        { "option_id": 3, "text": "ढगांचा", "is_correct": false },
+        { "option_id": 4, "text": "पावसाचा", "is_correct": false }
+      ],
+      "answer": "चंद्राचा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पावसात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "धुळीचे लोट उडतात", "is_correct": false },
+        { "option_id": 2, "text": "सगळीकडे पाणीच पाणी होते", "is_correct": true },
+        { "option_id": 3, "text": "झाडे सुकतात", "is_correct": false },
+        { "option_id": 4, "text": "ऊन पडते", "is_correct": false }
+      ],
+      "answer": "सगळीकडे पाणीच पाणी होते"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "फुलपाखरे का उडतात?",
+      "options": [
+        { "option_id": 1, "text": "फिरायला", "is_correct": false },
+        { "option_id": 2, "text": "मकरंद शोधायला", "is_correct": true },
+        { "option_id": 3, "text": "पाणी प्यायला", "is_correct": false },
+        { "option_id": 4, "text": "झोपायला", "is_correct": false }
+      ],
+      "answer": "मकरंद शोधायला"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कवीने मुलांना काय बनण्यास सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "चिकित्सक", "is_correct": true },
+        { "option_id": 3, "text": "गप्प बसणारे", "is_correct": false },
+        { "option_id": 4, "text": "चोर", "is_correct": false }
+      ],
+      "answer": "चिकित्सक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कोळसा काळा का असतो?",
+      "options": [
+        { "option_id": 1, "text": "रंगामुळे", "is_correct": false },
+        { "option_id": 2, "text": "कार्बनमुळे", "is_correct": true },
+        { "option_id": 3, "text": "धुरामुळे", "is_correct": false },
+        { "option_id": 4, "text": "मातीमुळे", "is_correct": false }
+      ],
+      "answer": "कार्बनमुळे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "बर्फ थंड का लागतो?",
+      "options": [
+        { "option_id": 1, "text": "पाणी गरम नसते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "कमी तापमानामुळे", "is_correct": true },
+        { "option_id": 3, "text": "उन्हामुळे", "is_correct": false },
+        { "option_id": 4, "text": "फ्रीजमुळे", "is_correct": false }
+      ],
+      "answer": "कमी तापमानामुळे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आपण डोळ्यांनी काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "ऐकतो", "is_correct": false },
+        { "option_id": 2, "text": "बघतो", "is_correct": true },
+        { "option_id": 3, "text": "चालतो", "is_correct": false },
+        { "option_id": 4, "text": "जेवतो", "is_correct": false }
+      ],
+      "answer": "बघतो"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "जगाची प्रगती कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "युद्धाने", "is_correct": false },
+        { "option_id": 2, "text": "संशोधनाने आणि प्रश्नांनी", "is_correct": true },
+        { "option_id": 3, "text": "गप्प बसल्याने", "is_correct": false },
+        { "option_id": 4, "text": "झोपल्याने", "is_correct": false }
+      ],
+      "answer": "संशोधनाने आणि प्रश्नांनी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "झाडे कार्बन डाय ऑक्साईड का घेतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना तो आवडतो", "is_correct": false },
+        { "option_id": 2, "text": "अन्न तयार करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वाढण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "सावलीसाठी", "is_correct": false }
+      ],
+      "answer": "अन्न तयार करण्यासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पावसाचे थेंब गोल का असतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना गोल आकार आवडतो", "is_correct": false },
+        { "option_id": 2, "text": "पृष्ठभागावरील ताणामुळे (Surface Tension)", "is_correct": true },
+        { "option_id": 3, "text": "उंचावरून पडल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+      ],
+      "answer": "पृष्ठभागावरील ताणामुळे (Surface Tension)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पृथ्वी गोल का आहे?",
+      "options": [
+        { "option_id": 1, "text": "चेंडूसारखी बनवली आहे म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वाकर्षणामुळे", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यामुळे", "is_correct": false }
+      ],
+      "answer": "गुरुत्वाकर्षणामुळे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "वाऱ्याचा वेग कसा मोजतात?",
+      "options": [
+        { "option_id": 1, "text": "थर्मामीटरने", "is_correct": false },
+        { "option_id": 2, "text": "ॲनिमोमीटरने", "is_correct": true },
+        { "option_id": 3, "text": "पट्टीने", "is_correct": false },
+        { "option_id": 4, "text": "तराजूने", "is_correct": false }
+      ],
+      "answer": "ॲनिमोमीटरने"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पक्ष्यांची हाडे पोकळ का असतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यांच्याकडे मासं नसते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "उडण्यास सोपे जावे म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "ती तुटतात म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात पोहण्यासाठी", "is_correct": false }
+      ],
+      "answer": "उडण्यास सोपे जावे म्हणून"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "माणसाला दोन कान का असतात?",
+      "options": [
+        { "option_id": 1, "text": "दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "चांगले ऐकण्यासाठी आणि दिशा ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "चष्मा लावण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "काहीही कारण नाही", "is_correct": false }
+      ],
+      "answer": "चांगले ऐकण्यासाठी आणि दिशा ओळखण्यासाठी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "जमीन सुपीक कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी घातल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "सेंद्रिय खतांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "झाडे तोडल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "घर बांधल्यामुळे", "is_correct": false }
+      ],
+      "answer": "सेंद्रिय खतांमुळे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "रक्त लाल का असते?",
+      "options": [
+        { "option_id": 1, "text": "रंगामुळे", "is_correct": false },
+        { "option_id": 2, "text": "हिमोग्लोबिनमुळे", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "हवेमुळे", "is_correct": false }
+      ],
+      "answer": "हिमोग्लोबिनमुळे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "तारे का लुकलुकतात?",
+      "options": [
+        { "option_id": 1, "text": "ते पेटतात म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "वातावरणातील थरांमुळे प्रकाश वाकतो", "is_correct": true },
+        { "option_id": 3, "text": "ते हसतात म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "चंद्राच्या प्रकाशामुळे", "is_correct": false }
+      ],
+      "answer": "वातावरणातील थरांमुळे प्रकाश वाकतो"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आपल्याला भूक का लागते?",
+      "options": [
+        { "option_id": 1, "text": "वेळ झाली म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "शरीराला ऊर्जेची गरज असते म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "जेवण समोर असते म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "काहीही कारण नाही", "is_correct": false }
+      ],
+      "answer": "शरीराला ऊर्जेची गरज असते म्हणून"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "चंद्र पृथ्वीभोवती का फिरतो?",
+      "options": [
+        { "option_id": 1, "text": "त्याला आवडते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वाकर्षणामुळे", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+      ],
+      "answer": "गुरुत्वाकर्षणामुळे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पाणी गरम केल्यावर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "बर्फ होतो", "is_correct": false },
+        { "option_id": 2, "text": "वाफ होते", "is_correct": true },
+        { "option_id": 3, "text": "रंग बदलतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "वाफ होते"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "सूर्य कोणत्या दिशेला उगवतो?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 2, "text": "पूर्व", "is_correct": true },
+        { "option_id": 3, "text": "उत्तर", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "विमानाचे पंख का हलत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "ते जड असतात म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "इंजिनच्या शक्तीमुळे विमान पुढे जाते", "is_correct": true },
+        { "option_id": 3, "text": "ते पक्षी नाहीत म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+      ],
+      "answer": "इंजिनच्या शक्तीमुळे विमान पुढे जाते"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कवितेचा संदेश काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "गप्प बसा", "is_correct": false },
+        { "option_id": 2, "text": "नेहमी जिज्ञासा ठेवा आणि प्रश्न विचारा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त अभ्यास करा", "is_correct": false },
+        { "option_id": 4, "text": "काहीही विचारू नका", "is_correct": false }
+      ],
+      "answer": "नेहमी जिज्ञासा ठेवा आणि प्रश्न विचारा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवीने प्रश्न कधी विचारायला सांगितले आहे?",
+      "answer": "कवीने प्रश्न पुन्हा पुन्हा आणि वेळोवेळी विचारायला सांगितले आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शिकणे कधी संपत नाही असे कवी का म्हणतात?",
+      "answer": "माणूस जन्मापासून मृत्यूपर्यंत काही ना काही शिकत असतो, म्हणून शिकणे कधी संपत नाही."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कुत्र्याची शेपूट वाकडी का असते?",
+      "answer": "कुत्र्याची शेपूट वाकडी असणे हे त्याच्या शरीराचे नैसर्गिक वैशिष्ट्य आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पिंगळा हा पक्षी कोठे राहतो?",
+      "answer": "पिंगळा हा पक्षी सहसा झाडांच्या ढोलीत किंवा जुन्या वास्तूंमध्ये राहतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वटवाघूळ दिवसा का दिसत नाही?",
+      "answer": "वटवाघूळ हा निशाचर प्राणी असल्याने त्याला तीव्र उजेड सहन होत नाही, म्हणून तो दिवसा दिसत नाही."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मासे पाण्यात का गुदमरत नाहीत?",
+      "answer": "माशांकडे कल्ले असतात, ज्याद्वारे ते पाण्यातील ऑक्सिजन घेऊ शकतात, म्हणून ते गुदमरत नाहीत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "काजवा रात्री का उजळतो?",
+      "answer": "काजव्याच्या शरीरातील लुसिफेरीन या रासायनिक द्रव्यामुळे तो रात्री उजळतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आकाशात ढग कसे तयार होतात?",
+      "answer": "सूर्याच्या उष्णतेमुळे पाण्याची वाफ होते आणि ती वर जाऊन थंड झाल्यावर ढग तयार होतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्रश्नांना का घाबरू नये?",
+      "answer": "प्रश्नांमुळे आपल्याला नवीन माहिती मिळते आणि बुद्धीचा विकास होतो, म्हणून घाबरू नये."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "विज्ञानाचा मुख्य आधार काय आहे?",
+      "answer": "विज्ञानाचा मुख्य आधार कार्यकारणभाव आणि प्रश्न विचारणे हा आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मुलांनी प्रश्न विचारल्यामुळे काय होते?",
+      "answer": "मुलांनी प्रश्न विचारल्यामुळे त्यांची कल्पनाशक्ती वाढते आणि ते विचार करायला शिकतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नव्या जगाची गुरुकिल्ली म्हणजे काय?",
+      "answer": "चिकित्सक वृत्ती आणि सातत्याने प्रश्न विचारणे हीच नव्या जगाची गुरुकिल्ली आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी समुद्रालाच का मिळते?",
+      "answer": "जमिनीचा उतार समुद्राच्या दिशेने असतो, म्हणून सर्व नद्या आणि पावसाचे पाणी समुद्राला मिळते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "झाडांची फुले रंगीत का असतात?",
+      "answer": "कीटकांना आकर्षित करून परागीभवन घडवून आणण्यासाठी फुले रंगीत असतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात इंद्रधनुष्य का दिसते?",
+      "answer": "सूर्यप्रकाश पावसाच्या थेंबांतून परावर्तित आणि अपवर्तित झाल्यामुळे इंद्रधनुष्य दिसते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सापाची जीभ दुभंगलेली का असते?",
+      "answer": "सापाला आजूबाजूच्या गंधाचा अंदाज घेण्यासाठी आणि भक्ष्याचा शोध घेण्यासाठी दुभंगलेली जीभ मदत करते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "गरिबांचे नशीब कशाने बदलते?",
+      "answer": "गरिबांचे नशीब कष्ट, शिक्षण आणि संधी मिळाल्याने बदलते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "अंधश्रद्धा का दूर व्हावी?",
+      "answer": "अंधश्रद्धेमुळे माणसाची प्रगती थांबते आणि फसवणूक होते, म्हणून ती दूर व्हावी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "सूर्याचा प्रकाश किती वेळात पृथ्वीवर पोहोचतो?",
+      "answer": "सूर्याचा प्रकाश साधारणपणे ८ मिनिटे २० सेकंदात पृथ्वीवर पोहोचतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पक्षी हवेत कसे उडतात?",
+      "answer": "पक्षी त्यांच्या पंखांच्या हालचालीने हवेचा दाब निर्माण करतात आणि त्यामुळे हवेत उडतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वारा आपल्याला दिसत का नाही?",
+      "answer": "वारा हा गॅसयुक्त मिश्रणाचा समूह आहे आणि तो पारदर्शक असतो, म्हणून तो दिसत नाही."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "रात्रीच्या वेळी झाडाखाली का झोपू नये?",
+      "answer": "रात्री झाडे कार्बन डाय ऑक्साईड सोडतात, जो श्वसनासाठी घातक असतो, म्हणून झाडाखाली झोपू नये."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "समुद्राचे पाणी खारट का असते?",
+      "answer": "नद्यांनी वाहून आणलेली खनिजे आणि क्षार समुद्रात साठत गेल्यामुळे समुद्राचे पाणी खारट असते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आपल्याला सावली का पडते?",
+      "answer": "जेव्हा एखादी अपारदर्शक वस्तू प्रकाशाचा मार्ग अडवते, तेव्हा त्या वस्तूची सावली पडते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "चंद्रावर पाऊल ठेवणारा पहिला माणूस कोण?",
+      "answer": "चंद्रावर पाऊल ठेवणारा पहिला माणूस नील आर्मस्ट्राँग हा होय."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "मुंग्यांना साखर कशी सापडते?",
+      "answer": "मुंग्यांच्या गंधज्ञानेंद्रियांमुळे (Antennae) त्यांना लांबूनही साखरेचा वास येतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "आपण श्वास का घेतो?",
+      "answer": "शरीरातील ऊर्जा निर्मितीसाठी आणि जिवंत राहण्यासाठी आपल्याला ऑक्सिजनची गरज असते, म्हणून आपण श्वास घेतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पावसाळा संपल्यावर काय येते?",
+      "answer": "पावसाळा संपल्यावर हिवाळा ऋतू येतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सूर्यमाला म्हणजे काय?",
+      "answer": "सूर्य आणि त्याच्याभोवती फिरणारे ग्रह, उपग्रह यांच्या समूहाला सूर्यमाला म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कवितेतील 'कार्यकारणभाव' या शब्दाचा अर्थ काय?",
+      "answer": "कोणत्याही घटनेमागे काहीतरी विशिष्ट कारण असते, या तत्त्वाला कार्यकारणभाव म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मुलांना कवीने कोणते आवाहन केले आहे?",
+      "answer": "मुलांना कवीने कशाचीही भीती न बाळगता सतत प्रश्न विचारण्याचे आवाहन केले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "दुधाचा रंग पांढरा का असतो?",
+      "answer": "दुधात असलेल्या 'केसिन' या प्रथिनामुळे दुधाचा रंग पांढरा असतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हत्तीचे कान मोठे का असतात?",
+      "answer": "हत्तीला शरीराचे तापमान नियंत्रित करण्यासाठी आणि बारीक आवाज ऐकण्यासाठी मोठे कान मदत करतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आपल्याला तहान का लागते?",
+      "answer": "शरीरातील पाण्याचे प्रमाण कमी झाले की मेंदू आपल्याला तहान लागल्याचा संदेश देतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "झाडांची उंची कशी वाढते?",
+      "answer": "झाडे सूर्यप्रकाश, पाणी आणि पोषक तत्वांच्या मदतीने पेशीविभाजन करून वाढतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "बेडूक पावसाळ्यातच का दिसतात?",
+      "answer": "बेडूक सुप्तावस्थेत जमिनीत असतात आणि प्रजननासाठी त्यांना पाण्याची गरज असते, म्हणून ते पावसाळ्यात बाहेर येतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "मुलांनी कशाचे उत्तर शोधले पाहिजे?",
+      "answer": "मुलांनी प्रत्येक घटनेमागील 'का' आणि 'कसे' या प्रश्नांचे उत्तर शोधले पाहिजे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कासव हळू का चालते?",
+      "answer": "कासवाच्या शरीराची रचना आणि त्याचे जड कवच यामुळे ते हळू चालते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रात्री आकाश काळं का दिसतं?",
+      "answer": "रात्री सूर्य नसतो आणि अंतराळात प्रकाश विखुरण्यासाठी वातावरण नसल्यामुळे ते काळं दिसतं."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मंगळ ग्रहाला लाल ग्रह का म्हणतात?",
+      "answer": "मंगळाच्या पृष्ठभागावर लोह ऑक्साईडचे प्रमाण जास्त असल्याने तो लाल दिसतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "विज्ञानामुळे काय दूर झाले?",
+      "answer": "विज्ञानामुळे समाजातील अंधश्रद्धा आणि अज्ञान दूर झाले."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मधमाश्या मध कसा बनवतात?",
+      "answer": "मधमाश्या फुलांमधील मकरंद जमा करतात आणि त्यांच्या लाळेतील विकरांच्या प्रक्रियेतून मध बनवतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पावसाळा का येतो?",
+      "answer": "बाष्पीभवनामुळे तयार झालेले ढग थंड वाऱ्यामुळे सांद्रिभवन पावतात आणि पाऊस पडतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवीने 'शिकणे' या प्रक्रियेला काय म्हटले आहे?",
+      "answer": "कवीने शिकणे ही कधीही न संपणारी आणि आनंददायी प्रक्रिया असल्याचे म्हटले आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मुलांना कशाची सवय लावणे गरजेचे आहे?",
+      "answer": "मुलांना चिकित्सकपणे विचार करण्याची आणि शंका विचारण्याची सवय लावणे गरजेचे आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "गरुड खूप उंचावर कसा उडू शकतो?",
+      "answer": "गरुडाचे पंख शक्तिशाली असतात आणि तो हवेच्या प्रवाहाचा वापर करून उंचावर उडू शकतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पृथ्वी स्वतःभोवती का फिरते?",
+      "answer": "पृथ्वीच्या निर्मितीच्या वेळी मिळालेल्या कोनीय संवेगामुळे ती आजही स्वतःभोवती फिरत आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "दही कसे तयार होते?",
+      "answer": "दुधामध्ये लॅक्टोबॅसिलस जिवाणूंची वाढ झाल्यामुळे दुधाचे रूपांतर दह्यात होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "लोहचुंबक लोखंडालाच का ओढते?",
+      "answer": "लोखंडात चुंबकीय गुणधर्म आकर्षित करण्याची क्षमता असते, म्हणून लोहचुंबक त्याला ओढते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "विज्ञानाचा उपयोग कशासाठी करावा?",
+      "answer": "विज्ञानाचा उपयोग मानवाच्या कल्याणासाठी आणि प्रगतीसाठी करावा."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "मुले खेळताना का पडतात?",
+      "answer": "तोल गेल्यामुळे किंवा गुरुत्वाकर्षणामुळे मुले खेळताना पडतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "दिवस आणि रात्र का होतात?",
+      "answer": "पृथ्वीच्या स्वतःभोवती फिरण्यामुळे (परिवलनामुळे) दिवस आणि रात्र होतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "प्रश्न विचारल्याने ज्ञान कसे वाढते?",
+      "answer": "प्रश्न विचारल्याने शंकांचे निरसन होते आणि नवीन माहिती मिळते, ज्यामुळे ज्ञान वाढते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात सुती कपडे का वापरावेत?",
+      "answer": "सुती कपडे घाम शोषून घेतात आणि शरीर थंड ठेवण्यास मदत करतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "पावसाचे थेंब थंड का असतात?",
+      "answer": "ढग उंचावर थंड हवेच्या संपर्कात आल्यामुळे पावसाचे थेंब थंड असतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "जगातील सर्वात मोठा प्राणी कोणता?",
+      "answer": "जगातील सर्वात मोठा प्राणी 'निळा देवमासा' (Blue Whale) हा आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "माणसाला स्वप्न का पडतात?",
+      "answer": "झोपेतही मेंदू कार्यरत असतो आणि मनात असलेल्या विचारांमुळे स्वप्न पडतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "विमानाचा शोध कोणी लावला?",
+      "answer": "विमानाचा शोध राईट बंधूंनी लावला."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "सावली मोठी कधी असते?",
+      "answer": "सकाळी सूर्योदय वेळी आणि संध्याकाळी सूर्यास्त वेळी सावली मोठी असते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पक्षांना दात का नसतात?",
+      "answer": "पक्षांना वजनाने हलके राहण्यासाठी दातांऐवजी चोच असते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "घड्याळाचे काटे कसे फिरतात?",
+      "answer": "घड्याळातील बॅटरी किंवा सेलच्या ऊर्जेमुळे त्यातील गिअर्स फिरतात आणि काटे चालतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "अन्नाचे पचन कोठे होते?",
+      "answer": "अन्नाचे पचन प्रामुख्याने जठर आणि लहान आतड्यामध्ये होते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "झाडांना जीव असतो का?",
+      "answer": "हो, झाडे सजीव आहेत कारण ती वाढतात, श्वसन करतात आणि प्रतिसाद देतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "हवा सर्वत्र का असते?",
+      "answer": "पृथ्वीच्या गुरुत्वाकर्षणामुळे हवा पृथ्वीभोवती वेढलेली आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "पाण्यात मीठ विरघळते पण वाळू का नाही?",
+      "answer": "मीठ पाण्यात विद्राव्य आहे, तर वाळूचे कण पाण्यात विरघळत नाहीत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "कासव पाण्यात आणि जमिनीवरही कसे राहू शकते?",
+      "answer": "कासव हा उभयचर वर्गातील प्राणी आहे, तो फुफ्फुसांनी श्वास घेऊ शकतो म्हणून दोन्ही ठिकाणी राहू शकतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "आरशात आपली प्रतिमा का दिसते?",
+      "answer": "आरशाच्या गुळगुळीत पृष्ठभागावरून प्रकाशाचे परावर्तन झाल्यामुळे प्रतिमा दिसते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात थंडी का वाजते?",
+      "answer": "वातावरणाचे तापमान कमी झाल्यामुळे शरीरातील उष्णता बाहेर जाते, म्हणून थंडी वाजते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "गरिबी दूर करण्याचा प्रभावी मार्ग कोणता?",
+      "answer": "गरिबी दूर करण्याचा प्रभावी मार्ग 'शिक्षण' हा आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "कावळा काळा का असतो?",
+      "answer": "कावळ्याच्या पिसांमध्ये 'मेलॅनिन' नावाचे रंगद्रव्य जास्त असल्याने तो काळा असतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "आगीसाठी कशाची गरज असते?",
+      "answer": "आग लागण्यासाठी ऑक्सिजन, इंधन आणि उष्णता यांची गरज असते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "माणूस आजारी का पडतो?",
+      "answer": "जिवाणू, विषाणू किंवा अस्वच्छतेमुळे शरीरातील रोगप्रतिकारशक्ती कमी झाली की माणूस आजारी पडतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "मुलांना कवीने कशाची गुरुकिल्ली दिली आहे?",
+      "answer": "कवीने मुलांना जिज्ञासा आणि प्रश्नांची गुरुकिल्ली दिली आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "फळे पिकल्यावर गोड का लागतात?",
+      "answer": "फळे पिकताना त्यातील पिष्टमय पदार्थांचे रूपांतर साखरेत होते, म्हणून ती गोड लागतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा उपग्रह कोणता?",
+      "answer": "पृथ्वीचा नैसर्गिक उपग्रह 'चंद्र' हा आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "मक्याचे दाणे गरम केल्यावर का फुटतात?",
+      "answer": "दाण्यामधील पाण्याचे वाफेत रूपांतर होऊन दाब वाढल्यामुळे ते फुटतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "विज्ञानाने दिलेली सर्वात मोठी देणगी कोणती?",
+      "answer": "विज्ञानाने दिलेली सर्वात मोठी देणगी 'चिकित्सक विचारसरणी' आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "कासवाचा आयुर्मान किती असते?",
+      "answer": "कासवाचे आयुर्मान साधारणपणे १०० ते १५० वर्षे असू शकते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "आपल्याला दोन डोळे का आहेत?",
+      "answer": "दोन डोळ्यांमुळे आपल्याला वस्तूची खोली आणि त्रिमितीय (3D) आकार नीट दिसतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचा सर्वात वेगवान स्रोत कोणता?",
+      "answer": "प्रकाशाचा सर्वात वेगवान स्रोत 'सूर्य' आणि स्वतः प्रकाशच आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "झाडे रात्री ऑक्सिजन का सोडत नाहीत?",
+      "answer": "रात्री सूर्यप्रकाश नसल्यामुळे झाडे प्रकाशसंश्लेषण करू शकत नाहीत, म्हणून ती ऑक्सिजन सोडत नाहीत."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "साखरेची चव गोड का असते?",
+      "answer": "साखरेमध्ये सुक्रोज नावाचा घटक असतो जो आपल्या जिभेवरील चवग्रंथींना गोडपणाची जाणीव करून देतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "मुलांना 'का' आणि 'कसे' विचारणे का महत्त्वाचे आहे?",
+      "answer": "त्यामुळे गोष्टींचा मूळ अर्थ आणि त्यामागील तर्क समजतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "विमानाचे टायर का फाटत नाहीत?",
+      "answer": "विमानाचे टायर विशेष रबर आणि नायट्रोजन गॅसपासून बनवलेले असतात, जे जास्त दाब सहन करू शकतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "पर्वतावर हवा थंड का असते?",
+      "answer": "जमिनीपासून उंचावर जाताना हवेचा दाब कमी होतो आणि हवा विरळ होते, म्हणून ती थंड असते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "लिंबू चवीला आंबट का असते?",
+      "answer": "लिंबामध्ये सायट्रिक ॲसिड असते, त्यामुळे ते आंबट लागते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "आपल्या नखांची वाढ कशी होते?",
+      "answer": "नखे कॅराटिन नावाच्या प्रथिनापासून बनलेली असतात आणि मुळापाशी नवीन पेशी तयार झाल्यामुळे ती वाढतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कोळशाचे रूपांतर हिऱ्यात कसे होते?",
+      "answer": "जमिनीच्या आत प्रचंड दाब आणि उष्णतेमुळे लाखो वर्षांनी कोळशाचे रूपांतर हिऱ्यात होते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "पक्ष्यांना दिशा कशी समजते?",
+      "answer": "पक्षी पृथ्वीच्या चुंबकीय क्षेत्राचा आणि सूर्याच्या दिशेचा वापर करून मार्ग शोधतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पाण्यावर बर्फ का तरंगतो?",
+      "answer": "बर्फाची घनता पाण्यापेक्षा कमी असते, म्हणून तो पाण्यावर तरंगतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "विद्युत दिवा (Bulb) कोणी शोधला?",
+      "answer": "विद्युत दिव्याचा शोध थॉमस अल्वा एडिसन यांनी लावला."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "आपण बोलतो तेव्हा आवाज कोठून येतो?",
+      "answer": "आपल्या घशातील स्वरतंतूंच्या (Vocal Cords) कंपनांमुळे आवाज निर्माण होतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "झाडांची पाने गळून का पडतात?",
+      "answer": "पाणी वाचवण्यासाठी आणि नवीन पानांसाठी जागा तयार करण्यासाठी झाडे पाने गाळतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "दुधामुळे हाडे मजबूत का होतात?",
+      "answer": "दुधामध्ये कॅल्शिअम मोठ्या प्रमाणात असते, जे हाडांच्या मजबुतीसाठी आवश्यक असते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "सापांना कान असतात का?",
+      "answer": "नाही, सापांना बाह्य कान नसतात, ते जमिनीवरील कंपने ओळखून प्रतिसाद देतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "गहू दळल्यावर पीठ का होते?",
+      "answer": "चक्कीच्या दोन पात्यांमधील घर्षणामुळे गव्हाचे बारीक कणांत रूपांतर होते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "माणसाची सावली दुपारी लहान का असते?",
+      "answer": "दुपारी सूर्य बरोबर डोक्यावर असल्यामुळे प्रकाश किरणे सरळ पडतात आणि सावली लहान होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "विज्ञानामुळे कष्ट कमी का झाले?",
+      "answer": "यंत्रे आणि नवीन तंत्रज्ञानामुळे कामे जलद आणि सोपी झाली, म्हणून कष्ट कमी झाले."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आपण चालताना घसरून का पडत नाही?",
+      "answer": "जमीन आणि आपल्या पायांमधील घर्षण (Friction) आपल्याला पडण्यापासून वाचवते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट कोणत्या संदेशाने होतो?",
+      "answer": "प्रश्न विचारणे हे शिकण्यासाठी आणि प्रगतीसाठी आवश्यक आहे, हा संदेश देऊन कवितेचा शेवट होतो."
+    }
+  ]
+}

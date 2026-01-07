@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 14,
+  "chapter_name": "वाहतूक",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या साधनांमुळे कोणती गोष्ट वाचते?",
+      "options": [
+        { "option_id": 1, "text": "वेळ आणि श्रम", "is_correct": true },
+        { "option_id": 2, "text": "केवळ पैसा", "is_correct": false },
+        { "option_id": 3, "text": "आरोग्य", "is_correct": false },
+        { "option_id": 4, "text": "झाडे", "is_correct": false }
+      ],
+      "answer": "वेळ आणि श्रम"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे हवेत कोणते घटक मिसळले जातात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "विषारी वायू", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याची वाफ", "is_correct": false },
+        { "option_id": 4, "text": "नायट्रोजन", "is_correct": false }
+      ],
+      "answer": "विषारी वायू"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या सततच्या आवाजामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "हवेचे प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "ध्वनी प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "जल प्रदूषण", "is_correct": false },
+        { "option_id": 4, "text": "मृदा प्रदूषण", "is_correct": false }
+      ],
+      "answer": "ध्वनी प्रदूषण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "प्रदूषण कमी करण्यासाठी कोणते वाहन सर्वोत्तम आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोटारसायकल", "is_correct": false },
+        { "option_id": 2, "text": "सायकल", "is_correct": true },
+        { "option_id": 3, "text": "रिक्षा", "is_correct": false },
+        { "option_id": 4, "text": "ट्रक", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या कोंडीमुळे हवेत कशाचे प्रमाण वाढते?",
+      "options": [
+        { "option_id": 1, "text": "थंडावा", "is_correct": false },
+        { "option_id": 2, "text": "धूर आणि विषारी वायू", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "सुगंध", "is_correct": false }
+      ],
+      "answer": "धूर आणि विषारी वायू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी प्रदूषणमुक्त इंधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "पेट्रोल", "is_correct": false },
+        { "option_id": 2, "text": "डिझेल", "is_correct": false },
+        { "option_id": 3, "text": "सीएनजी (CNG)", "is_correct": true },
+        { "option_id": 4, "text": "केरोसीन", "is_correct": false }
+      ],
+      "answer": "सीएनजी (CNG)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे जग जवळ आले आहे, कारण?",
+      "options": [
+        { "option_id": 1, "text": "रस्ते लहान झाले", "is_correct": false },
+        { "option_id": 2, "text": "वाहनांचा वेग वाढला", "is_correct": true },
+        { "option_id": 3, "text": "माणसे फिरत नाहीत", "is_correct": false },
+        { "option_id": 4, "text": "पेट्रोल स्वस्त आहे", "is_correct": false }
+      ],
+      "answer": "वाहनांचा वेग वाढला"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "फुफ्फुसाचे विकार कशामुळे होतात?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनी प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "हवेचे प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "व्यायाम", "is_correct": false },
+        { "option_id": 4, "text": "पाणी पिणे", "is_correct": false }
+      ],
+      "answer": "हवेचे प्रदूषण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वाहतुकीसाठी पाळीव प्राण्यांचा वापर केल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "वेगाने प्रवास होतो", "is_correct": false },
+        { "option_id": 2, "text": "प्रदूषण होत नाही", "is_correct": true },
+        { "option_id": 3, "text": "खूप खर्च येतो", "is_correct": false },
+        { "option_id": 4, "text": "वेळ वाचतो", "is_correct": false }
+      ],
+      "answer": "प्रदूषण होत नाही"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रस्त्यांच्या कडेला असलेल्या झाडांच्या पानांवर काय साचते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "काजळी आणि धूळ", "is_correct": true },
+        { "option_id": 3, "text": "फुले", "is_correct": false },
+        { "option_id": 4, "text": "खत", "is_correct": false }
+      ],
+      "answer": "काजळी आणि धूळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वात जलद वाहतुकीचे साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "आगगाडी", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": true },
+        { "option_id": 3, "text": "जहाज", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पर्यावरणपूरक वाहतूक म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या ट्रकने फिरणे", "is_correct": false },
+        { "option_id": 2, "text": "प्रदूषण न करणारी वाहतूक", "is_correct": true },
+        { "option_id": 3, "text": "विमानाने फिरणे", "is_correct": false },
+        { "option_id": 4, "text": "वेगाने गाडी चालवणे", "is_correct": false }
+      ],
+      "answer": "प्रदूषण न करणारी वाहतूक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक वाहतुकीचा वापर केल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "इंधनाची बचत", "is_correct": true },
+        { "option_id": 2, "text": "प्रदूषण वाढते", "is_correct": false },
+        { "option_id": 3, "text": "वेळ वाया जातो", "is_correct": false },
+        { "option_id": 4, "text": "कंटाळा येतो", "is_correct": false }
+      ],
+      "answer": "इंधनाची बचत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे डोळ्यांना कोणता त्रास होतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळे चुरचुरणे", "is_correct": true },
+        { "option_id": 2, "text": "कमी ऐकू येणे", "is_correct": false },
+        { "option_id": 3, "text": "पाय दुखणे", "is_correct": false },
+        { "option_id": 4, "text": "भूक न लागणे", "is_correct": false }
+      ],
+      "answer": "डोळे चुरचुरणे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कमी अंतराच्या प्रवासासाठी कोणते साधन उत्तम आहे?",
+      "options": [
+        { "option_id": 1, "text": "हेलिकॉप्टर", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": false },
+        { "option_id": 3, "text": "सायकल किंवा पायी", "is_correct": true },
+        { "option_id": 4, "text": "कार", "is_correct": false }
+      ],
+      "answer": "सायकल किंवा पायी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "प्रदूषणामुळे प्राण्यांच्या कोणत्या क्रियेवर परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "श्वसन संस्था", "is_correct": true },
+        { "option_id": 2, "text": "पचन संस्था", "is_correct": false },
+        { "option_id": 3, "text": "स्मरणशक्ती", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "श्वसन संस्था"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या सुविधेमुळे कोणती बाजारपेठ उपलब्ध झाली?",
+      "options": [
+        { "option_id": 1, "text": "केवळ स्थानिक", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक", "is_correct": true },
+        { "option_id": 3, "text": "एकच गाव", "is_correct": false },
+        { "option_id": 4, "text": "एकही नाही", "is_correct": false }
+      ],
+      "answer": "जागतिक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण टाळण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "जोरात गाणी वाजवणे", "is_correct": false },
+        { "option_id": 2, "text": "विनाकारण हॉर्न न वाजवणे", "is_correct": true },
+        { "option_id": 3, "text": "वेगाने गाडी चालवणे", "is_correct": false },
+        { "option_id": 4, "text": "सायलेन्सर काढणे", "is_correct": false }
+      ],
+      "answer": "विनाकारण हॉर्न न वाजवणे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जड माल वाहून नेण्यासाठी स्वस्त मार्ग कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रस्ते मार्ग", "is_correct": false },
+        { "option_id": 2, "text": "जल मार्ग", "is_correct": true },
+        { "option_id": 3, "text": "हवाई मार्ग", "is_correct": false },
+        { "option_id": 4, "text": "रिक्षा", "is_correct": false }
+      ],
+      "answer": "जल मार्ग"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा कोणता तोटा सर्वात मोठा आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेळ वाचणे", "is_correct": false },
+        { "option_id": 2, "text": "पर्यावरणाचे प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "सुखद प्रवास", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार वाढणे", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाचे प्रदूषण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते प्रदूषण वाहतुकीशी संबंधित नाही?",
+      "options": [
+        { "option_id": 1, "text": "हवेचे प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "ध्वनी प्रदूषण", "is_correct": false },
+        { "option_id": 3, "text": "मृदा प्रदूषण (कचरा टाळल्यास)", "is_correct": false },
+        { "option_id": 4, "text": "अणु प्रदूषण", "is_correct": true }
+      ],
+      "answer": "अणु प्रदूषण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या नियोजनामुळे कशाची बचत होते?",
+      "options": [
+        { "option_id": 1, "text": "इंधनाची", "is_correct": true },
+        { "option_id": 2, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 3, "text": "अन्नाची", "is_correct": false },
+        { "option_id": 4, "text": "कापडाची", "is_correct": false }
+      ],
+      "answer": "इंधनाची"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सायकल चालवण्याचे फायदे कोणते?",
+      "options": [
+        { "option_id": 1, "text": "शारीरिक व्यायाम", "is_correct": false },
+        { "option_id": 2, "text": "पैशांची बचत", "is_correct": false },
+        { "option_id": 3, "text": "प्रदूषण होत नाही", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वाहनांची वेळोवेळी दुरुस्ती का करावी?",
+      "options": [
+        { "option_id": 1, "text": "दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "प्रदूषण कमी करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेगाने चालण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पैसे संपवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "प्रदूषण कमी करण्यासाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे कोणत्या झाडांच्या वाढीवर परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ कडूनिंब", "is_correct": false },
+        { "option_id": 2, "text": "रस्त्यांच्या कडेला असलेली सर्व झाडे", "is_correct": true },
+        { "option_id": 3, "text": "जंगलातील झाडे", "is_correct": false },
+        { "option_id": 4, "text": "फुलांची झाडे", "is_correct": false }
+      ],
+      "answer": "रस्त्यांच्या कडेला असलेली सर्व झाडे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे कोणती भावना वाढण्यास मदत होते?",
+      "options": [
+        { "option_id": 1, "text": "जागतिक मैत्री आणि एकोपा", "is_correct": true },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "जागतिक मैत्री आणि एकोपा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या मोठ्या आवाजाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गाणे", "is_correct": false },
+        { "option_id": 2, "text": "गोंगाट", "is_correct": true },
+        { "option_id": 3, "text": "नाद", "is_correct": false },
+        { "option_id": 4, "text": "स्वर", "is_correct": false }
+      ],
+      "answer": "गोंगाट"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "जास्तीत जास्त प्रवाशांनी कशाचा वापर करावा?",
+      "options": [
+        { "option_id": 1, "text": "खाजगी कार", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःची बाईक", "is_correct": false },
+        { "option_id": 3, "text": "सार्वजनिक वाहने (बस, रेल्वे)", "is_correct": true },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक वाहने (बस, रेल्वे)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "प्रवासाचा वेग कशामुळे वाढला?",
+      "options": [
+        { "option_id": 1, "text": "चाकाच्या शोधामुळे", "is_correct": false },
+        { "option_id": 2, "text": "आधुनिक यंत्रांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "चालण्याच्या सवयीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "बैलांमुळे", "is_correct": false }
+      ],
+      "answer": "आधुनिक यंत्रांमुळे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे कशाची पातळी कमी होते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजनची", "is_correct": true },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइडची", "is_correct": false },
+        { "option_id": 3, "text": "धुळीची", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याची", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजनची"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सायकल वापरल्याने कशाचा स्वावलंबन येतो?",
+      "options": [
+        { "option_id": 1, "text": "इंधनाचे", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःचे काम स्वतः करणे", "is_correct": true },
+        { "option_id": 3, "text": "आर्थिक", "is_correct": false },
+        { "option_id": 4, "text": "एकही नाही", "is_correct": false }
+      ],
+      "answer": "स्वतःचे काम स्वतः करणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "प्रदूषण रोखण्यासाठी काय करणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "झाडे तोडणे", "is_correct": false },
+        { "option_id": 2, "text": "झाडे लावणे व जोपासणे", "is_correct": true },
+        { "option_id": 3, "text": "वाहने वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "रस्ते सिमेंटचे करणे", "is_correct": false }
+      ],
+      "answer": "झाडे लावणे व जोपासणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणते वाहन इंधनावर चालत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मोटार", "is_correct": false },
+        { "option_id": 2, "text": "सायकल", "is_correct": true },
+        { "option_id": 3, "text": "स्कूटर", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या गर्दीमुळे काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "शांतता", "is_correct": false },
+        { "option_id": 2, "text": "वाहतुकीची कोंडी", "is_correct": true },
+        { "option_id": 3, "text": "स्वच्छ हवा", "is_correct": false },
+        { "option_id": 4, "text": "वेळेची बचत", "is_correct": false }
+      ],
+      "answer": "वाहतुकीची कोंडी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "प्रदूषण टाळण्यासाठी वाहनांचा वापर कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "गरज असेल तेव्हाच", "is_correct": true },
+        { "option_id": 2, "text": "दिवसभर", "is_correct": false },
+        { "option_id": 3, "text": "फक्त फिरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कधीच नाही", "is_correct": false }
+      ],
+      "answer": "गरज असेल तेव्हाच"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कार्बन मोनोऑक्साइड हा वायू कोठून बाहेर पडतो?",
+      "options": [
+        { "option_id": 1, "text": "झाडांतून", "is_correct": false },
+        { "option_id": 2, "text": "वाहनांच्या धुरांतून", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यातून", "is_correct": false },
+        { "option_id": 4, "text": "जमिनीतून", "is_correct": false }
+      ],
+      "answer": "वाहनांच्या धुरांतून"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे कोणत्या क्षेत्राचा विकास झाला?",
+      "options": [
+        { "option_id": 1, "text": "कृषी", "is_correct": false },
+        { "option_id": 2, "text": "उद्योग", "is_correct": false },
+        { "option_id": 3, "text": "व्यापार", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषणामुळे कोणत्या मानसिक समस्या उद्भवतात?",
+      "options": [
+        { "option_id": 1, "text": "चिडचिड होणे", "is_correct": true },
+        { "option_id": 2, "text": "आनंद होणे", "is_correct": false },
+        { "option_id": 3, "text": "खूप झोप येणे", "is_correct": false },
+        { "option_id": 4, "text": "भूक वाढणे", "is_correct": false }
+      ],
+      "answer": "चिडचिड होणे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "प्रदूषण कमी करण्यासाठी कोणत्या प्रकारच्या गाड्या सध्या वापरल्या जात आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कोळशाच्या", "is_correct": false },
+        { "option_id": 2, "text": "इलेक्ट्रिक (Electric)", "is_correct": true },
+        { "option_id": 3, "text": "केरोसीनवरच्या", "is_correct": false },
+        { "option_id": 4, "text": "लाकडावरच्या", "is_correct": false }
+      ],
+      "answer": "इलेक्ट्रिक (Electric)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "शहरात प्रदूषणाचे प्रमाण जास्त असते, कारण?",
+      "options": [
+        { "option_id": 1, "text": "वाहनांची संख्या अधिक असते", "is_correct": true },
+        { "option_id": 2, "text": "लोक कमी असतात", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस जास्त असतो", "is_correct": false },
+        { "option_id": 4, "text": "झाडे जास्त असतात", "is_correct": false }
+      ],
+      "answer": "वाहनांची संख्या अधिक असते"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पायी चालण्याचे मुख्य कारण काय असावे?",
+      "options": [
+        { "option_id": 1, "text": "जवळच्या प्रवासासाठी", "is_correct": true },
+        { "option_id": 2, "text": "पैसे संपले म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "गाडी चालवता येत नाही म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "रस्ता खराब आहे म्हणून", "is_correct": false }
+      ],
+      "answer": "जवळच्या प्रवासासाठी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या हेडलाईटमुळे रात्री काय होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश प्रदूषण (डोळ्यांवर ताण)", "is_correct": true },
+        { "option_id": 2, "text": "हवेचे प्रदूषण", "is_correct": false },
+        { "option_id": 3, "text": "थंडावा", "is_correct": false },
+        { "option_id": 4, "text": "मृदा प्रदूषण", "is_correct": false }
+      ],
+      "answer": "प्रकाश प्रदूषण (डोळ्यांवर ताण)"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कोणत्या वायूमुळे हवेचे प्रदूषण सर्वात जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "हिलियम", "is_correct": false },
+        { "option_id": 4, "text": "आरगॉन", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन डायऑक्साइड"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "वाहतुकीची साधने वापरल्याने कोणत्या गोष्टीची कमतरता निर्माण होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "इंधन (नैसर्गिक संपत्ती)", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "मीठ", "is_correct": false }
+      ],
+      "answer": "इंधन (नैसर्गिक संपत्ती)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे पर्यटन क्षेत्रावर काय परिणाम झाला?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटन कमी झाले", "is_correct": false },
+        { "option_id": 2, "text": "पर्यटन वाढले", "is_correct": true },
+        { "option_id": 3, "text": "पर्यटन बंद झाले", "is_correct": false },
+        { "option_id": 4, "text": "काहीही झाले नाही", "is_correct": false }
+      ],
+      "answer": "पर्यटन वाढले"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "रस्त्यांच्या कडेला असलेल्या झाडांवर धुरकट थराचा काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "वाढ खुंटते", "is_correct": true },
+        { "option_id": 2, "text": "झाडे मोठी होतात", "is_correct": false },
+        { "option_id": 3, "text": "पाने हिरवी होतात", "is_correct": false },
+        { "option_id": 4, "text": "फुले जास्त येतात", "is_correct": false }
+      ],
+      "answer": "वाढ खुंटते"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "प्रदूषण टाळण्यासाठी आपण काय करू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "विनाकारण फिरणे टाळणे", "is_correct": true },
+        { "option_id": 2, "text": "नेहमी गाडीने जाणे", "is_correct": false },
+        { "option_id": 3, "text": "वाहन न पुसणे", "is_correct": false },
+        { "option_id": 4, "text": "हॉर्न जोरात वाजवणे", "is_correct": false }
+      ],
+      "answer": "विनाकारण फिरणे टाळणे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे कोणत्या प्रकारच्या पावसाची शक्यता असते?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "आम्ल वर्षा (Acid Rain)", "is_correct": true },
+        { "option_id": 3, "text": "बर्फाचा पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "एकही नाही", "is_correct": false }
+      ],
+      "answer": "आम्ल वर्षा (Acid Rain)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा कोणता मार्ग सर्वात महागडा आहे?",
+      "options": [
+        { "option_id": 1, "text": "रस्ते", "is_correct": false },
+        { "option_id": 2, "text": "हवाई मार्ग", "is_correct": true },
+        { "option_id": 3, "text": "जल मार्ग", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वे", "is_correct": false }
+      ],
+      "answer": "हवाई मार्ग"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पर्यावरणाचे रक्षण करण्यासाठी कोणते इंधन वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "कोळसा", "is_correct": false },
+        { "option_id": 2, "text": "सौर ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "कच्चे तेल", "is_correct": false }
+      ],
+      "answer": "सौर ऊर्जा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे दोन फायदे सांगा.",
+      "answer": "१. कामाचा वेग वाढतो. २. वेळ व श्रमाची बचत होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे प्रदूषणाचे कोणते दोन प्रकार होतात?",
+      "answer": "१. हवेचे प्रदूषण २. ध्वनी प्रदूषण."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हवेच्या प्रदूषणामुळे होणारे आजार कोणते?",
+      "answer": "फुफ्फुसाचे विकार, श्वसनाचे विकार आणि डोळे चुरचुरणे हे आजार होतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण म्हणजे काय?",
+      "answer": "वाहनांच्या कर्कश आवाजामुळे आणि विनाकारण वाजवलेल्या हॉर्नमुळे होणाऱ्या त्रासाला ध्वनी प्रदूषण म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सायकल वापरण्याचे शारीरिक फायदे काय आहेत?",
+      "answer": "सायकल चालवल्यामुळे स्नायूंचा व्यायाम होतो आणि रक्ताभिसरण सुधारते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "प्रदूषण टाळण्यासाठी वाहनांच्या बाबतीत कोणती काळजी घ्यावी?",
+      "answer": "वाहनांची वेळोवेळी दुरुस्ती करावी आणि प्रदूषणाची तपासणी (PUC) नियमित करावी."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक वाहतूक व्यवस्था म्हणजे काय?",
+      "answer": "अनेक लोकांनी मिळून एकाच वाहनातून (उदा. बस, रेल्वे) केलेला प्रवास म्हणजे सार्वजनिक वाहतूक होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "इंधनाची बचत कशी करता येईल?",
+      "answer": "खाजगी वाहनांचा वापर कमी करून आणि सार्वजनिक वाहनांचा वापर वाढवून इंधनाची बचत करता येईल."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या कोंडीचे तोटे सांगा.",
+      "answer": "वाहतुकीच्या कोंडीमुळे वेळेचा अपव्यय होतो आणि हवेचे तसेच ध्वनी प्रदूषण वाढते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "निसर्गातील चक्रे कशामुळे विस्कळीत होतात?",
+      "answer": "वाढत्या प्रदूषणामुळे आणि हवेतील विषारी वायूंमुळे निसर्गातील चक्रे विस्कळीत होतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पायी चालण्याचे फायदे सांगा.",
+      "answer": "पायी चालल्यामुळे व्यायाम होतो, इंधन लागत नाही आणि प्रदूषण होत नाही."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनांची निवड करताना कोणती गोष्ट महत्त्वाची आहे?",
+      "answer": "प्रवासाचे अंतर, उपलब्ध वेळ आणि इंधनाचा प्रकार या गोष्टी महत्त्वाच्या आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हवेतील कार्बन मोनोऑक्साइडचा आरोग्यावर काय परिणाम होतो?",
+      "answer": "यामुळे रक्तातील ऑक्सिजन वाहून नेण्याची क्षमता कमी होते आणि चक्कर येऊ शकते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या धुराचा झाडांवर काय परिणाम होतो?",
+      "answer": "झाडांची पाने गळतात, वाढ खुंटते आणि ती करपल्यासारखी दिसतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियोजन का आवश्यक आहे?",
+      "answer": "प्रदूषण कमी करण्यासाठी, वेळ वाचवण्यासाठी आणि इंधनाची बचत करण्यासाठी नियोजन आवश्यक आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पर्यावरणपूरक वाहने कोणती आहेत?",
+      "answer": "सायकल, बैलगाडी आणि इलेक्ट्रिक वाहने ही पर्यावरणपूरक आहेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणामुळे मनावर काय परिणाम होतो?",
+      "answer": "माणूस चिडचिडा होतो, त्याला मानसिक ताण येतो आणि एकाग्रता कमी होते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "जवळच्या प्रवासासाठी पाय चालणे योग्य का आहे?",
+      "answer": "कारण यामुळे इंधनाची विनाकारण बचत होते आणि प्रदूषण टाळले जाते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे जग जवळ आले आहे, याचा अर्थ काय?",
+      "answer": "वेगवान वाहनांमुळे आपण दूरच्या ठिकाणी कमी वेळात पोहोचू शकतो, म्हणून जग जवळ आले आहे असे म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "झाडे लावल्याने प्रदूषण कसे कमी होते?",
+      "answer": "झाडे हवेतील कार्बन डायऑक्साइड शोषून घेतात आणि ऑक्सिजन सोडतात, ज्यामुळे हवा शुद्ध होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे तीन मुख्य मार्ग कोणते?",
+      "answer": "१. भूमार्ग (रस्ते) २. जलमार्ग ३. हवाई मार्ग."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आगगाडीतून प्रवास करणे सोयीचे का असते?",
+      "answer": "आगगाडीतून अनेक प्रवासी एकत्र प्रवास करू शकतात आणि ती लांबच्या प्रवासासाठी सुरक्षित असते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "प्रदूषण कमी करण्यासाठी सीएनजी (CNG) का वापरावे?",
+      "answer": "सीएनजी इंधन जळताना खूप कमी धूर सोडते, म्हणून ते वापरावे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनांमुळे कोणत्या नवीन व्यवसायांची निर्मिती झाली?",
+      "answer": "वाहतुकीमुळे गॅरेज, पेट्रोल पंप, ट्रान्सपोर्ट कंपन्या आणि पर्यटन हे व्यवसाय वाढले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या गर्दीमुळे होणारा वेळ वाया जाण्याचा परिणाम सांगा.",
+      "answer": "वाहतुकीच्या कोंडीमुळे कामावर पोहोचण्यास उशीर होतो आणि उत्पादनक्षमतेवर परिणाम होतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सायकल चालवताना कशाची बचत होते?",
+      "answer": "सायकल चालवताना इंधन आणि पैशांची बचत होते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वाहतूक कोंडीत इंजिन चालू ठेवल्यास काय होते?",
+      "answer": "इंजिन चालू ठेवल्यास इंधन वाया जाते आणि हवेचे प्रदूषण विनाकारण वाढते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "प्रदूषण कमी करण्यासाठी 'कार पूलिंग' म्हणजे काय?",
+      "answer": "एकाच ठिकाणी जाणाऱ्या ४-५ व्यक्तींनी वेगवेगळ्या गाड्यांऐवजी एकाच गाडीतून प्रवास करणे म्हणजे कार पूलिंग."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे मालाच्या किमतीवर काय परिणाम होतो?",
+      "answer": "चांगल्या वाहतुकीमुळे माल वेळेत आणि कमी खर्चात पोहोचल्यास वस्तूंच्या किमती कमी होण्यास मदत होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रस्त्यांवरील अपघातांचे मुख्य कारण काय असते?",
+      "answer": "अतिवेग आणि वाहतुकीच्या नियमांचे पालन न करणे ही अपघातांची मुख्य कारणे आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "हवाई वाहतुकीचा सर्वात मोठा फायदा कोणता?",
+      "answer": "हवाई वाहतूक अत्यंत जलद असते आणि कठीण प्रदेशातही पोहोचू शकते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या टायरचा हवेच्या प्रदूषणाशी काय संबंध आहे?",
+      "answer": "टायरची झीज झाल्यावर निर्माण होणारी सूक्ष्म धूळ हवेत मिसळते आणि प्रदूषण करते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे साधने नसती तर काय झाले असते?",
+      "answer": "प्रवास करण्यास खूप वेळ लागला असता आणि व्यापाराचा विकास झाला नसता."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कमी आवाज करणाऱ्या सायलेन्सरचा वापर का करावा?",
+      "answer": "ध्वनी प्रदूषण कमी करण्यासाठी आणि शांतता राखण्यासाठी कमी आवाज करणाऱ्या सायलेन्सरचा वापर करावा."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "प्रवासाचे नियोजन करताना कोणत्या क्रमाने विचार करावा?",
+      "answer": "प्रथम पाय चालणे, नंतर सायकल, मग सार्वजनिक वाहने आणि शेवटी खाजगी वाहने असा विचार करावा."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "जहाजाचा वापर प्रामुख्याने कशासाठी केला जातो?",
+      "answer": "जड माल आणि आंतरराष्ट्रीय व्यापारासाठी जहाजाचा वापर केला जातो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे शेतीवर काय परिणाम झाला?",
+      "answer": "शेतीचा माल लवकर बाजारपेठेत पोहोचू लागला, त्यामुळे शेतकऱ्यांचे नुकसान टळले."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हॉर्न विनाकारण का वाजवू नये?",
+      "answer": "हॉर्नमुळे लोकांच्या झोपेत आणि एकाग्रतेत व्यत्यय येतो आणि ध्वनी प्रदूषण होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "प्रदूषण ही समस्या कोणाची आहे?",
+      "answer": "प्रदूषण ही संपूर्ण मानवजातीची आणि पृथ्वीची समस्या आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मेट्रो रेल्वेचा फायदा काय आहे?",
+      "answer": "मेट्रोमुळे शहरांतर्गत प्रवास वेगाने होतो आणि रस्त्यावरील वाहनांची संख्या कमी होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियम पाळल्याने काय होते?",
+      "answer": "अपघात टळतात आणि वाहतुकीची कोंडी होत नाही."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "इंधन म्हणजे काय?",
+      "answer": "जे पदार्थ जाळून ऊर्जा किंवा शक्ती निर्माण केली जाते, त्यांना इंधन म्हणतात (उदा. पेट्रोल)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सौर ऊर्जेवर चालणारी वाहने म्हणजे काय?",
+      "answer": "जी वाहने सूर्याच्या प्रकाशापासून मिळणाऱ्या विजेवर चालतात, त्यांना सौर ऊर्जेवर चालणारी वाहने म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सायकलिंगसाठी 'स्वावलंबन' हा शब्द का वापरला जातो?",
+      "answer": "कारण सायकल चालवण्यासाठी दुसऱ्यावर किंवा इंधनावर अवलंबून राहावे लागत नाही."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या धुरामुळे निसर्गाच्या साखळीवर कसा परिणाम होतो?",
+      "answer": "प्रदूषणामुळे काही प्राण्यांच्या प्रजाती नष्ट होतात, ज्यामुळे निसर्गाची अन्नसाखळी विस्कळीत होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनांची निर्मिती कशामुळे झाली?",
+      "answer": "चाकाच्या शोधामुळे आणि मानवाच्या जलद प्रवासाच्या गरजेमुळे वाहतुकीची साधने निर्माण झाली."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "सायकलमुळे पैशांची बचत कशी होते?",
+      "answer": "सायकलला इंधन लागत नाही आणि दुरुस्तीचा खर्चही कमी असतो, म्हणून पैशांची बचत होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शाळेत जाण्यासाठी कोणत्या साधनांचा वापर करावा?",
+      "answer": "शाळा जवळ असेल तर चालत जावे किंवा सायकलचा वापर करावा."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "प्रदूषणामुळे वातावरणातील तापमानावर काय परिणाम होतो?",
+      "answer": "प्रदूषणामुळे वातावरणातील तापमान वाढते, ज्याला 'ग्लोबल वॉर्मिंग' म्हणतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "वाहतुकीची सुरक्षितता कशी वाढवता येईल?",
+      "answer": "रस्त्यांच्या सूचनांचे पालन करून आणि वाहनांचा वेग मर्यादित ठेवून सुरक्षितता वाढवता येईल."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे साहित्याचा पुरवठा कसा होतो?",
+      "answer": "वाहतुकीमुळे माल एका राज्यातून दुसऱ्या राज्यात सहज पाठवता येतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या धुरामुळे श्वसनाचा कोणता त्रास होतो?",
+      "answer": "धुरामुळे दम लागणे आणि खोकला येणे यांसारखे श्वसनाचे त्रास होतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "वाहनांमुळे होणाऱ्या अपघातांचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "अपघातामुळे तेल गळती होऊन जमीन खराब होऊ शकते आणि मोठ्या आवाजाचे प्रदूषण होते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "शहरात सायकल ट्रॅक का आवश्यक आहेत?",
+      "answer": "सायकल चालवणाऱ्यांच्या सुरक्षिततेसाठी आणि सायकल चालवण्यास प्रोत्साहन देण्यासाठी ट्रॅक आवश्यक आहेत."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचा कमीत कमी वापर करणे का गरजेचे आहे?",
+      "answer": "भविष्यातील पिढीसाठी इंधन वाचवण्यासाठी आणि प्रदूषण टाळण्यासाठी वापर मर्यादित असणे गरजेचे आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "प्रदूषणामुळे होणारी चिडचिड कशी टाळता येईल?",
+      "answer": "शांत वातावरणात राहून आणि वाहतुकीचा गोंगाट कमी करून चिडचिड टाळता येईल."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या संदर्भात 'पी.यू.सी' (PUC) चा अर्थ काय?",
+      "answer": "पी.यू.सी म्हणजे वाहनाचे प्रदूषण मर्यादेत असल्याचे प्रमाणपत्र."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "जलमार्गाची वाहतूक मंद का असते?",
+      "answer": "पाण्याचा अडथळा आणि जहाजाचा आकार मोठा असल्यामुळे जलवाहतूक रस्ते वाहतुकीपेक्षा मंद असते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या इंधनासाठी पर्यायी ऊर्जा स्रोत कोणते?",
+      "answer": "सौर ऊर्जा, विद्युत ऊर्जा आणि हायड्रोजन हे पर्यायी ऊर्जा स्रोत आहेत."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनांमुळे सामाजिक संबंधांवर काय परिणाम झाला?",
+      "answer": "दूर राहणारे नातेवाईक आणि मित्र एकमेकांना लवकर भेटू लागले, ज्यामुळे सामाजिक संबंध सुधारले."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "वाहतुकीची साधने निवडताना कशाचा समतोल साधावा?",
+      "answer": "सोय आणि पर्यावरणाचे रक्षण यांचा समतोल साधावा."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "सायकल चालवणे हे एक उत्तम शारीरिक श्रम का आहे?",
+      "answer": "कारण सायकल चालवताना पायांच्या स्नायूंना जास्त कष्ट करावे लागतात, जो एक चांगला व्यायाम आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या धुरामुळे वनस्पतींच्या अन्नावर काय परिणाम होतो?",
+      "answer": "पानांवर धूळ साचल्याने प्रकाशसंश्लेषण प्रक्रिया मंदावते आणि वनस्पतींचे अन्न नीट तयार होत नाही."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियोजन करताना कोणाचे सहकार्य आवश्यक आहे?",
+      "answer": "नागरिक आणि सरकार या दोघांचेही सहकार्य आवश्यक आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या हॉर्नचा मोठा आवाज कोणासाठी जास्त धोकादायक असतो?",
+      "answer": "लहान मुले, वृद्ध व्यक्ती आणि आजारी लोकांसाठी हा आवाज जास्त धोकादायक असतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे वेळेचा उपयोग कसा सुधारला?",
+      "answer": "प्रवासाचा वेळ वाचल्यामुळे माणसे इतर उत्पादक कामांसाठी जास्त वेळ देऊ लागली."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे वस्तूंच्या उपलब्धतेवर काय परिणाम झाला?",
+      "answer": "कोणतीही वस्तू जगाच्या कोणत्याही कोपऱ्यात सहज उपलब्ध होऊ लागली."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "प्रदूषण टाळण्यासाठी वाहनांच्या संख्येत काय बदल करावा?",
+      "answer": "खाजगी वाहनांची संख्या कमी करून सार्वजनिक वाहतूक वाढवावी."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे पर्यावरणाचे रक्षण कसे करता येईल?",
+      "answer": "वाहनांचा वापर कमीत कमी करून आणि झाडे लावून पर्यावरणाचे रक्षण करता येईल."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या धुरामुळे कोणत्या रंगाचा थर झाडांवर जमा होतो?",
+      "answer": "काळ्या किंवा राखाडी रंगाचा धुरकट थर झाडांवर जमा होतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "हवेतील प्रदूषण वाढल्यास श्वासाला काय होतो?",
+      "answer": "श्वासाला त्रास होतो आणि गुदमरल्यासारखे वाटते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे आरोग्य सेवांमध्ये काय सुधारणा झाली?",
+      "answer": "अॅम्ब्युलन्समुळे रुग्णांना वेळेत दवाखान्यात पोहोचवणे सोपे झाले."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे साधने निवडताना आर्थिक विचार कसा करावा?",
+      "answer": "ज्या साधनाला कमी खर्च येईल आणि जास्त फायदा होईल, असे साधन निवडावे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "वाहतुकीची गर्दी टाळण्यासाठी काय उपाय आहे?",
+      "answer": "एकाच रस्त्यावर अनेक वाहने न आणता पर्यायी मार्गांचा वापर करावा."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे महत्त्व एका वाक्यात सांगा.",
+      "answer": "वाहतूक ही मानवी प्रगतीचा आणि व्यापाराचा कणा आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणामुळे कानावर काय परिणाम होतो?",
+      "answer": "जास्त आवाजा मुळे बहिरेपणा येऊ शकतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या वेगावर मर्यादा का असावी?",
+      "answer": "अपघात टाळण्यासाठी आणि सुरक्षित प्रवासासाठी वेगावर मर्यादा असावी."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "सायकल चालवताना हेल्मेट का वापरावे?",
+      "answer": "सुरक्षिततेसाठी आणि डोक्याला इजा टाळण्यासाठी सायकल किंवा बाईक चालवताना हेल्मेट वापरावे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या धुरामुळे पर्यावरणाचा समतोल कसा बिघडतो?",
+      "answer": "हवेतील वायूंचे प्रमाण बदलल्यामुळे उष्णता वाढते आणि ऋतूचक्र विस्कळीत होते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या सायलेन्सरचा काय उपयोग होतो?",
+      "answer": "सायलेन्सरमुळे इंजिनचा आवाज कमी होऊन बाहेर पडतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या सोयीमुळे शहरांचा विकास कसा झाला?",
+      "answer": "वाहतुकीमुळे रस्ते जोडले गेले, उद्योग वाढले आणि लोकवस्ती वाढली."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या प्रदूषणाचे दीर्घकालीन परिणाम काय आहेत?",
+      "answer": "ग्लोबल वॉर्मिंग आणि आरोग्याच्या गंभीर समस्या हे दीर्घकालीन परिणाम आहेत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "विनाकारण फिरणे टाळल्यास काय वाचते?",
+      "answer": "इंधन, वेळ आणि पैसा वाचतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "वाहतुकीची साधने वापरताना शिस्त का पाळावी?",
+      "answer": "इतरांना त्रास होऊ नये आणि प्रवास सुखकर व्हावा म्हणून शिस्त पाळावी."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या पार्किंगचे महत्त्व काय?",
+      "answer": "योग्य पार्किंगमुळे रस्त्यावर अडथळा निर्माण होत नाही आणि वाहतूक सुरळीत राहते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे दुष्परिणाम कमी करण्यासाठी कोणते कायदे आहेत?",
+      "answer": "प्रदूषण नियंत्रण कायदे आणि वाहतूक सुरक्षा कायदे आहेत."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सायकल दुरुस्त करणे सोपे का असते?",
+      "answer": "कारण सायकलची रचना साधी असते आणि त्याला इंजिन नसते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "प्रदूषणामुळे प्राण्यांचे स्थलांतर का होते?",
+      "answer": "हवा दूषित झाल्यामुळे आणि अन्नाची कमतरता निर्माण झाल्यामुळे प्राणी सुरक्षित ठिकाणी स्थलांतर करतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे संस्कृतीची देवाणघेवाण कशी होते?",
+      "answer": "प्रवासा मुळे लोक एकमेकांच्या प्रथा आणि भाषा शिकतात, याला संस्कृतीची देवाणघेवाण म्हणतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या टायर्समध्ये हवा का भरतात?",
+      "answer": "घर्षण कमी करण्यासाठी आणि वाहनाचा वेग वाढवण्यासाठी हवा भरतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या कोंडीत मनःशांती कशी राखता येईल?",
+      "answer": "गाणे ऐकून किंवा दीर्घ श्वास घेऊन मनःशांती राखता येईल."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या धुरातून कोणते धातू हवेत मिसळतात?",
+      "answer": "धुरातून शिसे (Lead) सारखे घातक धातू हवेत मिसळू शकतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनांची स्वच्छता का ठेवावी?",
+      "answer": "स्वच्छतेमुळे वाहन चांगले चालते आणि प्रदूषणाचे प्रमाणही नियंत्रणात राहते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या प्रगतीमुळे कोणता वेळ वाचला?",
+      "answer": "प्रवासाचा आणि मालवाहतुकीचा वेळ वाचला."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाचे रक्षण करण्यासाठी सायकल चालवणे हे एक पाऊल कसे आहे?",
+      "answer": "हे एक सकारात्मक पाऊल आहे कारण यामुळे पर्यावरणाचे नुकसान शून्य होते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "वाहतुकीची कोंडी झाल्यास कोणते वायू वाढतात?",
+      "answer": "कार्बन डायऑक्साइड आणि नायट्रोजन ऑक्साइड वाढतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "वाहनांच्या देखभालीचा इंधनावर काय परिणाम होतो?",
+      "answer": "चांगली देखभाल असलेल्या गाड्या कमी इंधन वापरतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या नियोजनाने अपघात कसे कमी होतात?",
+      "answer": "रस्त्यांवरील गर्दी विभागल्या गेल्यामुळे अपघातांची शक्यता कमी होते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या सोयी कशामुळे वाढल्या?",
+      "answer": "विज्ञानातील प्रगती आणि तंत्रज्ञानामुळे वाहतुकीच्या सोयी वाढल्या."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "प्रवासाचा आनंद घेण्यासाठी काय करावे?",
+      "answer": "प्रवासाचे नियोजन आधीच करावे आणि निसर्गाचे निरीक्षण करत प्रवास करावा."
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 18,
+  "chapter_name": "पर्यावरण आणि आपण",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "झाडे तोडल्यामुळे हवेतील कोणत्या वायूचे प्रमाण वाढते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जमिनीत पाणी मुरण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंटचे रस्ते", "is_correct": false },
+        { "option_id": 2, "text": "वृक्षारोपण (झाडे लावणे)", "is_correct": true },
+        { "option_id": 3, "text": "उत्खनन", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचा वापर", "is_correct": false }
+      ],
+      "answer": "वृक्षारोपण (झाडे लावणे)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पर्यावरणातील घटकांचा एकमेकांशी असलेला संबंध म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरण संतुलन", "is_correct": true },
+        { "option_id": 2, "text": "प्रदूषण", "is_correct": false },
+        { "option_id": 3, "text": "शिकार", "is_correct": false },
+        { "option_id": 4, "text": "जंगलतोड", "is_correct": false }
+      ],
+      "answer": "पर्यावरण संतुलन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जंगले नष्ट झाल्यामुळे कोणाचे निवारे नष्ट होतात?",
+      "options": [
+        { "option_id": 1, "text": "मानवाचे", "is_correct": false },
+        { "option_id": 2, "text": "वाहनचालकांचे", "is_correct": false },
+        { "option_id": 3, "text": "वन्यप्राण्यांचे", "is_correct": true },
+        { "option_id": 4, "text": "कारखान्यांचे", "is_correct": false }
+      ],
+      "answer": "वन्यप्राण्यांचे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे कोणत्या प्रकारचे प्रदूषण होते?",
+      "options": [
+        { "option_id": 1, "text": "जल प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "हवेचे प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "ध्वनी प्रदूषण", "is_correct": false },
+        { "option_id": 4, "text": "मृदा प्रदूषण", "is_correct": false }
+      ],
+      "answer": "हवेचे प्रदूषण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अन्न साखळीतील महत्त्वाचा घटक कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "वनस्पती", "is_correct": true },
+        { "option_id": 2, "text": "वाहन", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "वनस्पती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कारखान्यांमधील सांडपाणी नदीत सोडल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी शुद्ध होते", "is_correct": false },
+        { "option_id": 2, "text": "मासे वाढतात", "is_correct": false },
+        { "option_id": 3, "text": "जलप्रदूषण होते", "is_correct": true },
+        { "option_id": 4, "text": "पाऊस जास्त पडतो", "is_correct": false }
+      ],
+      "answer": "जलप्रदूषण होते"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ पर्यावरणास घातक आहे?",
+      "options": [
+        { "option_id": 1, "text": "कापडी पिशवी", "is_correct": false },
+        { "option_id": 2, "text": "प्लास्टिक पिशवी", "is_correct": true },
+        { "option_id": 3, "text": "पाने", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "प्लास्टिक पिशवी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "जमिनीची धूप थांबवण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "झाडे तोडावीत", "is_correct": false },
+        { "option_id": 2, "text": "रस्ते बांधावेत", "is_correct": false },
+        { "option_id": 3, "text": "झाडे लावावीत", "is_correct": true },
+        { "option_id": 4, "text": "खाणकाम करावे", "is_correct": false }
+      ],
+      "answer": "झाडे लावावीत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सजीव जगण्यासाठी हवेतील कोणता वायू घेतात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "मिथेन", "is_correct": false },
+        { "option_id": 4, "text": "धूर", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जागतिक तापमान वाढीसाठी कोणता घटक जबाबदार आहे?",
+      "options": [
+        { "option_id": 1, "text": "पर्जन्यमान", "is_correct": false },
+        { "option_id": 2, "text": "जंगलतोड", "is_correct": true },
+        { "option_id": 3, "text": "शेती", "is_correct": false },
+        { "option_id": 4, "text": "स्वच्छता", "is_correct": false }
+      ],
+      "answer": "जंगलतोड"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक साधनसंपत्तीचा अतिवापर केल्यास काय होईल?",
+      "options": [
+        { "option_id": 1, "text": "संपत्ती वाढेल", "is_correct": false },
+        { "option_id": 2, "text": "पर्यावरण समतोल बिघडेल", "is_correct": true },
+        { "option_id": 3, "text": "प्रदूषण कमी होईल", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस वाढेल", "is_correct": false }
+      ],
+      "answer": "पर्यावरण समतोल बिघडेल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पक्षी घरटी कोठे बांधतात?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "कारखान्यात", "is_correct": false },
+        { "option_id": 3, "text": "झाडांवर", "is_correct": true },
+        { "option_id": 4, "text": "पाण्याखाली", "is_correct": false }
+      ],
+      "answer": "झाडांवर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "निसर्गातील चक्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वाहन चक्र", "is_correct": false },
+        { "option_id": 2, "text": "अन्न साखळी", "is_correct": true },
+        { "option_id": 3, "text": "पैसा साखळी", "is_correct": false },
+        { "option_id": 4, "text": "लोह साखळी", "is_correct": false }
+      ],
+      "answer": "अन्न साखळी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी साठवण्यासाठी काय बांधले जाते?",
+      "options": [
+        { "option_id": 1, "text": "इमारती", "is_correct": false },
+        { "option_id": 2, "text": "कारखाने", "is_correct": false },
+        { "option_id": 3, "text": "धरणे", "is_correct": true },
+        { "option_id": 4, "text": "रस्ते", "is_correct": false }
+      ],
+      "answer": "धरणे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषणामुळे कोणत्या इंद्रियावर परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": false },
+        { "option_id": 2, "text": "नाक", "is_correct": false },
+        { "option_id": 3, "text": "कान", "is_correct": true },
+        { "option_id": 4, "text": "जीभ", "is_correct": false }
+      ],
+      "answer": "कान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कचरा कोठे टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "नदीत", "is_correct": false },
+        { "option_id": 3, "text": "कचराकुंडीत", "is_correct": true },
+        { "option_id": 4, "text": "मैदानात", "is_correct": false }
+      ],
+      "answer": "कचराकुंडीत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे हवेत काय मिसळते?",
+      "options": [
+        { "option_id": 1, "text": "सुगंध", "is_correct": false },
+        { "option_id": 2, "text": "विषारी वायू", "is_correct": true },
+        { "option_id": 3, "text": "ढग", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस", "is_correct": false }
+      ],
+      "answer": "विषारी वायू"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जैव विविधता म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सजीवांमधील विविधता", "is_correct": true },
+        { "option_id": 2, "text": "दगडांची विविधता", "is_correct": false },
+        { "option_id": 3, "text": "यंत्रांची विविधता", "is_correct": false },
+        { "option_id": 4, "text": "वाहनांची विविधता", "is_correct": false }
+      ],
+      "answer": "सजीवांमधील विविधता"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वाघ कोणत्या प्रकारचा प्राणी आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाळीव", "is_correct": false },
+        { "option_id": 2, "text": "जंगली", "is_correct": true },
+        { "option_id": 3, "text": "कीटक", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यातील", "is_correct": false }
+      ],
+      "answer": "जंगली"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "शहरांमधील सांडपाण्यावर काय करणे गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रक्रिया करणे", "is_correct": true },
+        { "option_id": 2, "text": "थेट नदीत सोडणे", "is_correct": false },
+        { "option_id": 3, "text": "पाण्यात साठवणे", "is_correct": false },
+        { "option_id": 4, "text": "त्याचा वापर न करणे", "is_correct": false }
+      ],
+      "answer": "प्रक्रिया करणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वनस्पती स्वतःचे अन्न कशाच्या मदतीने तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राचा प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "सूर्याचा प्रकाश", "is_correct": true },
+        { "option_id": 3, "text": "विजेचा बल्ब", "is_correct": false },
+        { "option_id": 4, "text": "धूर", "is_correct": false }
+      ],
+      "answer": "सूर्याचा प्रकाश"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मानव अन्नासाठी कशावर अवलंबून असतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मांसावर", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पती व प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "दगडांवर", "is_correct": false },
+        { "option_id": 4, "text": "केवळ हवेवर", "is_correct": false }
+      ],
+      "answer": "वनस्पती व प्राणी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "निसर्ग संवर्धन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "निसर्ग नष्ट करणे", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गाचे रक्षण करणे", "is_correct": true },
+        { "option_id": 3, "text": "निसर्गात कचरा टाकणे", "is_correct": false },
+        { "option_id": 4, "text": "जंगलतोड करणे", "is_correct": false }
+      ],
+      "answer": "निसर्गाचे रक्षण करणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता अक्षय ऊर्जा स्त्रोत आहे?",
+      "options": [
+        { "option_id": 1, "text": "कोळसा", "is_correct": false },
+        { "option_id": 2, "text": "पेट्रोल", "is_correct": false },
+        { "option_id": 3, "text": "सौर ऊर्जा", "is_correct": true },
+        { "option_id": 4, "text": "डिझेल", "is_correct": false }
+      ],
+      "answer": "सौर ऊर्जा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "हवेतील कार्बन डायऑक्साइड कोण शोषून घेते?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पती", "is_correct": true },
+        { "option_id": 3, "text": "वाहन", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "वनस्पती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाण्याची बचत करण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "नळ चालू ठेवावा", "is_correct": false },
+        { "option_id": 2, "text": "नळ बंद करावा", "is_correct": true },
+        { "option_id": 3, "text": "पाणी रस्त्यावर ओतावे", "is_correct": false },
+        { "option_id": 4, "text": "जास्त पाणी वापरावे", "is_correct": false }
+      ],
+      "answer": "नळ बंद करावा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पक्षांची संख्या कमी होण्याची कारणे कोणती?",
+      "options": [
+        { "option_id": 1, "text": "अन्न वाढणे", "is_correct": false },
+        { "option_id": 2, "text": "जंगलतोड", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस वाढणे", "is_correct": false },
+        { "option_id": 4, "text": "स्वच्छ हवा", "is_correct": false }
+      ],
+      "answer": "जंगलतोड"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ओला कचरा कशासाठी वापरला जातो?",
+      "options": [
+        { "option_id": 1, "text": "जाळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "खत तयार करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नदीत टाकण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "बांधकामासाठी", "is_correct": false }
+      ],
+      "answer": "खत तयार करण्यासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "जंगल तोडल्यामुळे जमिनीचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "धूप होते", "is_correct": true },
+        { "option_id": 2, "text": "पीक येते", "is_correct": false },
+        { "option_id": 3, "text": "पाणी साठते", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "धूप होते"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पर्यावरण दिनाचे महत्त्व काय?",
+      "options": [
+        { "option_id": 1, "text": "प्रदूषण करणे", "is_correct": false },
+        { "option_id": 2, "text": "जागरूकता निर्माण करणे", "is_correct": true },
+        { "option_id": 3, "text": "सुट्टी घेणे", "is_correct": false },
+        { "option_id": 4, "text": "जेवण करणे", "is_correct": false }
+      ],
+      "answer": "जागरूकता निर्माण करणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कीटकनाशकांचा अतिवापर केल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जमीन सुपीक होते", "is_correct": false },
+        { "option_id": 2, "text": "जमीन नापीक होते", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस पडतो", "is_correct": false },
+        { "option_id": 4, "text": "हवा शुद्ध होते", "is_correct": false }
+      ],
+      "answer": "जमीन नापीक होते"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जलावरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "हवेचा थर", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा भाग", "is_correct": true },
+        { "option_id": 3, "text": "दगडाचा भाग", "is_correct": false },
+        { "option_id": 4, "text": "प्राण्यांचा गट", "is_correct": false }
+      ],
+      "answer": "पाण्याचा भाग"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "शीलावरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचा थर", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीचा वरचा थर", "is_correct": true },
+        { "option_id": 3, "text": "ढग", "is_correct": false },
+        { "option_id": 4, "text": "वायू", "is_correct": false }
+      ],
+      "answer": "जमिनीचा वरचा थर"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "वातावरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचा थर", "is_correct": false },
+        { "option_id": 2, "text": "हवेचा थर", "is_correct": true },
+        { "option_id": 3, "text": "खडक", "is_correct": false },
+        { "option_id": 4, "text": "वाळू", "is_correct": false }
+      ],
+      "answer": "हवेचा थर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता घटक निर्जीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": true },
+        { "option_id": 2, "text": "पक्षी", "is_correct": false },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "माणूस", "is_correct": false }
+      ],
+      "answer": "दगड"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सजीवांना अन्नासाठी ऊर्जेचा मुख्य स्रोत कोणता?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": true },
+        { "option_id": 3, "text": "तारा", "is_correct": false },
+        { "option_id": 4, "text": "बल्ब", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "निसर्गाची हानी कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "लोकसंख्या वाढ", "is_correct": true },
+        { "option_id": 2, "text": "पर्वत चढणे", "is_correct": false },
+        { "option_id": 3, "text": "गाणी ऐकणे", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके वाचणे", "is_correct": false }
+      ],
+      "answer": "लोकसंख्या वाढ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पर्यावरणाचे किती भाग पडतात?",
+      "options": [
+        { "option_id": 1, "text": "१", "is_correct": false },
+        { "option_id": 2, "text": "२ (सजीव व निर्जीव)", "is_correct": true },
+        { "option_id": 3, "text": "३", "is_correct": false },
+        { "option_id": 4, "text": "४", "is_correct": false }
+      ],
+      "answer": "२ (सजीव व निर्जीव)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सापाचे अन्न कोणते?",
+      "options": [
+        { "option_id": 1, "text": "झाड", "is_correct": false },
+        { "option_id": 2, "text": "उंदीर", "is_correct": true },
+        { "option_id": 3, "text": "गवत", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "उंदीर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नदीतील पाणी प्रदूषित होण्याचे मुख्य कारण काय?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "कपडे धुणे आणि सांडपाणी", "is_correct": true },
+        { "option_id": 3, "text": "पोहोणे", "is_correct": false },
+        { "option_id": 4, "text": "बोट चालवणे", "is_correct": false }
+      ],
+      "answer": "कपडे धुणे आणि सांडपाणी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पर्जन्यचक्रामध्ये कोणाचा वाटा मोठा असतो?",
+      "options": [
+        { "option_id": 1, "text": "वाहन", "is_correct": false },
+        { "option_id": 2, "text": "जंगले", "is_correct": true },
+        { "option_id": 3, "text": "रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "कचरा", "is_correct": false }
+      ],
+      "answer": "जंगले"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते प्राणी घरट्यात राहतात?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "पक्षी", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "मासे", "is_correct": false }
+      ],
+      "answer": "पक्षी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "डोंगर फोडून रस्ते बनवल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणाची हानी", "is_correct": true },
+        { "option_id": 2, "text": "फायदा", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस वाढतो", "is_correct": false },
+        { "option_id": 4, "text": "हवा शुद्ध होते", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाची हानी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "वाळवंटात कोणते झाड प्रामुख्याने आढळते?",
+      "options": [
+        { "option_id": 1, "text": "आंबा", "is_correct": false },
+        { "option_id": 2, "text": "निवडुंग", "is_correct": true },
+        { "option_id": 3, "text": "पिंपळ", "is_correct": false },
+        { "option_id": 4, "text": "नारळ", "is_correct": false }
+      ],
+      "answer": "निवडुंग"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हवेतील धूलिकण कशामुळे वाढतात?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "वाहतूक आणि बांधकामे", "is_correct": true },
+        { "option_id": 3, "text": "बागा", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "वाहतूक आणि बांधकामे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मासे कशाच्या साहाय्याने श्वास घेतात?",
+      "options": [
+        { "option_id": 1, "text": "फुफ्फुस", "is_correct": false },
+        { "option_id": 2, "text": "कल्ला (Gills)", "is_correct": true },
+        { "option_id": 3, "text": "त्वचा", "is_correct": false },
+        { "option_id": 4, "text": "पाय", "is_correct": false }
+      ],
+      "answer": "कल्ला (Gills)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "जमिनीत हवा खेळती राहण्यासाठी कोणता प्राणी मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "मुंगी", "is_correct": false },
+        { "option_id": 2, "text": "गांडूळ", "is_correct": true },
+        { "option_id": 3, "text": "साप", "is_correct": false },
+        { "option_id": 4, "text": "सिंह", "is_correct": false }
+      ],
+      "answer": "गांडूळ"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कचरा व्यवस्थापन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कचरा जाळणे", "is_correct": false },
+        { "option_id": 2, "text": "कचऱ्याची योग्य विल्हेवाट", "is_correct": true },
+        { "option_id": 3, "text": "कचरा लपवणे", "is_correct": false },
+        { "option_id": 4, "text": "कचरा करणे", "is_correct": false }
+      ],
+      "answer": "कचऱ्याची योग्य विल्हेवाट"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "मानवाने पर्यावरणाचे रक्षण का करावे?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःच्या अस्तित्वासाठी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त छंदासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पैसे मिळवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गरज नाही", "is_correct": false }
+      ],
+      "answer": "स्वतःच्या अस्तित्वासाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पर्यावरण म्हणजे काय?",
+      "answer": "आपल्या सभोवतालचा परिसर, ज्यामध्ये हवा, पाणी, जमीन आणि सजीव यांचा समावेश होतो, त्याला पर्यावरण म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अन्न साखळी म्हणजे काय?",
+      "answer": "निसर्गात प्रत्येक सजीव अन्नासाठी दुसऱ्या सजीवावर अवलंबून असतो, या परस्पर संबंधाला अन्न साखळी म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "प्रदूषण म्हणजे काय?",
+      "answer": "पर्यावरणातील हवा, पाणी किंवा जमीन यांच्यात हानिकारक पदार्थ मिसळण्याला प्रदूषण म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "जंगलतोडीचे दोन दुष्परिणाम सांगा.",
+      "answer": "जंगलतोडीमुळे वन्यप्राण्यांचे निवारे नष्ट होतात आणि हवेतील कार्बन डायऑक्साइडचे प्रमाण वाढते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "जैवविविधता म्हणजे काय?",
+      "answer": "एकाच परिसरात आढळणाऱ्या विविध प्रकारच्या सजीवांना जैवविविधता म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाण्याचे प्रदूषण कसे रोखता येईल?",
+      "answer": "कारखान्यातील सांडपाण्यावर प्रक्रिया करून आणि नदीत कचरा न टाकून पाण्याचे प्रदूषण रोखता येते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वृक्षारोपण का करावे?",
+      "answer": "हवा शुद्ध ठेवण्यासाठी, पावसाचे प्रमाण टिकवण्यासाठी आणि जमिनीची धूप थांबवण्यासाठी वृक्षारोपण करावे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हवा प्रदूषणाचे मुख्य कारण कोणते?",
+      "answer": "वाहनांतून निघणारा धूर आणि कारखान्यांतील विषारी वायू हे हवा प्रदूषणाचे मुख्य कारण आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्लास्टिकचा वापर का टाळावा?",
+      "answer": "प्लास्टिक जमिनीत कुजत नाही आणि ते पर्यावरणासाठी अत्यंत घातक असते, म्हणून त्याचा वापर टाळावा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संतुलन कसे राखता येईल?",
+      "answer": "झाडे लावून, प्रदूषण कमी करून आणि नैसर्गिक साधनसंपत्तीचा मर्यादित वापर करून पर्यावरण संतुलन राखता येते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जमिनीची धूप म्हणजे काय?",
+      "answer": "पावसामुळे किंवा वाऱ्यामुळे जमिनीचा सुपीक थर वाहून जाण्याला जमिनीची धूप म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वनस्पती अन्नासाठी ऊर्जेचा वापर कोठून करतात?",
+      "answer": "वनस्पती अन्नासाठी सौर ऊर्जेचा (सूर्याचा प्रकाश) वापर करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वातावरणातील महत्त्वाचे वायू कोणते?",
+      "answer": "ऑक्सिजन, नायट्रोजन आणि कार्बन डायऑक्साइड हे वातावरणातील महत्त्वाचे वायू आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाणी टंचाईवर उपाय काय?",
+      "answer": "पाणी टंचाईवर 'पाणी वाचवा' आणि 'पावसाचे पाणी साठवा' हे महत्त्वाचे उपाय आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "निसर्ग संवर्धन म्हणजे काय?",
+      "answer": "नैसर्गिक साधनसंपत्तीचा नाश न करता ती जपून वापरणे आणि तिचे रक्षण करणे म्हणजे निसर्ग संवर्धन होय."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ओला कचरा आणि सुका कचरा वेगळा का करावा?",
+      "answer": "ओल्या कचऱ्यापासून खत तयार करता येते आणि सुक्या कचऱ्याचे पुनर्चक्रण करता येते, म्हणून ते वेगळे करावेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "शाकाहारी प्राणी म्हणजे काय?",
+      "answer": "जे प्राणी फक्त वनस्पती किंवा गवत खातात, त्यांना शाकाहारी प्राणी म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मांसाहारी प्राणी कोणाला म्हणतात?",
+      "answer": "जे प्राणी इतर प्राण्यांचे मांस खाऊन जगतात, त्यांना मांसाहारी प्राणी म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भक्षक म्हणजे काय?",
+      "answer": "अन्न साखळीत दुसऱ्या सजीवांना खाणाऱ्या सजीवाला भक्षक म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "उत्पादक म्हणजे काय?",
+      "answer": "स्वतःचे अन्न स्वतः तयार करणाऱ्या वनस्पतींना अन्न साखळीत उत्पादक म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "जागतिक पर्यावरण दिन कधी साजरा केला जातो?",
+      "answer": "जागतिक पर्यावरण दिन ५ जून रोजी साजरा केला जातो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "हवेतील कार्बन डायऑक्साइड का वाढतो?",
+      "answer": "जंगलतोड आणि वाहने, कारखाने यांमधून निघणाऱ्या धुरामुळे कार्बन डायऑक्साइड वाढतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे परिणाम काय होतात?",
+      "answer": "ध्वनी प्रदूषणामुळे चिडचिड होणे, डोके दुखणे आणि बहिरेपणा येणे यांसारखे परिणाम होतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वन्यजीव संरक्षणाची गरज का आहे?",
+      "answer": "निसर्गाची अन्न साखळी आणि संतुलन टिकवून ठेवण्यासाठी वन्यजीव संरक्षणाची गरज आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अभयारण्य म्हणजे काय?",
+      "answer": "प्राणी व पक्षी सुरक्षितपणे राहण्यासाठी राखून ठेवलेल्या वनक्षेत्राला अभयारण्य म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पुनर्चक्रण (Recycle) म्हणजे काय?",
+      "answer": "वापरलेल्या वस्तूवर प्रक्रिया करून त्यापासून नवीन वस्तू तयार करण्याला पुनर्चक्रण म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पर्यावरणात झाडांचे महत्त्व काय?",
+      "answer": "झाडे आपल्याला ऑक्सिजन देतात, सावली देतात आणि पाऊस पाडण्यास मदत करतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "मानवाने पर्यावरणात हस्तक्षेप केल्याने काय झाले?",
+      "answer": "मानवाच्या हस्तक्षेपामुळे हवा, पाणी आणि जमीन प्रदूषित झाली असून अनेक प्राणी नष्ट झाले आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सूर्यप्रकाश सजीवांसाठी का आवश्यक आहे?",
+      "answer": "सूर्यप्रकाशामुळे वनस्पती अन्न तयार करतात, जे सर्व सजीवांच्या जगण्याचा आधार आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "निसर्गातील चक्रीय प्रक्रिया म्हणजे काय?",
+      "answer": "पाण्याचे बाष्पीभवन, पाऊस आणि पुन्हा नद्यांतून पाणी समुद्राला मिळणे यांसारख्या सतत चालणाऱ्या क्रियांना चक्रीय प्रक्रिया म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "उर्जेची बचत कशी करावी?",
+      "answer": "गरज नसताना दिवे आणि पंखे बंद करून आपण ऊर्जेची बचत करू शकतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कीटकनाशकांचे दुष्परिणाम काय आहेत?",
+      "answer": "कीटकनाशके अन्नाद्वारे शरीरात गेल्याने आरोग्य बिघडते आणि जमीन नापीक होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "जलावरण म्हणजे काय?",
+      "answer": "पृथ्वीचा जो भाग पाण्याने व्यापलेला आहे, त्या थराला जलावरण म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वातावरण म्हणजे काय?",
+      "answer": "पृथ्वीभोवती असणाऱ्या हवेच्या आवरणाला वातावरण म्हणतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "शीलावरण म्हणजे काय?",
+      "answer": "पृथ्वीच्या बाहेरील कठीण थराला किंवा जमिनीला शीलावरण म्हणतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सजीव सृष्टी कुठे आढळते?",
+      "answer": "जलावरण, वातावरण आणि शीलावरण या तिन्ही ठिकाणी सजीव सृष्टी आढळते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पर्यावरण मित्र कसे होता येईल?",
+      "answer": "कचरा न करून, झाडे लावून आणि पाणी वाचवून आपण पर्यावरण मित्र होऊ शकतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "निसर्गात सजीवांना अन्न कुठून मिळते?",
+      "answer": "निसर्गात सजीवांना अन्न वनस्पतींपासून किंवा इतर सजीवांपासून मिळते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "मोठ्या शहरांमध्ये हवेची गुणवत्ता का कमी होते?",
+      "answer": "अतिवाहतूक आणि उद्योगांमुळे शहरांमध्ये हवेची गुणवत्ता कमी होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाची काळजी घेणे का गरजेचे आहे?",
+      "answer": "भविष्यातील पिढीला जगण्यासाठी शुद्ध हवा, पाणी आणि अन्न मिळावे म्हणून पर्यावरणाची काळजी घेणे गरजेचे आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शाश्वत विकास म्हणजे काय?",
+      "answer": "पर्यावरणाचे नुकसान न करता मानवाने केलेली प्रगती म्हणजे शाश्वत विकास होय."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "खते जमिनीवर काय परिणाम करतात?",
+      "answer": "रासायनिक खतांचा जास्त वापर केल्याने जमिनीचा कस कमी होतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "प्राण्यांचे नैसर्गिक घर कोणते?",
+      "answer": "जंगल हे प्राण्यांचे नैसर्गिक घर आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हवेतील प्रदूषके कोणती?",
+      "answer": "धूर, धूलिकण आणि विषारी वायू ही हवेतील प्रदूषके आहेत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक खते कोणती?",
+      "answer": "शेणखत आणि कंपोस्ट खत ही नैसर्गिक खते आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी साठवण्याच्या पद्धतीला काय म्हणतात?",
+      "answer": "पावसाचे पाणी साठवण्याच्या पद्धतीला 'रेन वॉटर हार्वेस्टिंग' म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "गवत खाणाऱ्या प्राण्यांना काय म्हणतात?",
+      "answer": "गवत खाणाऱ्या प्राण्यांना तृणभक्षी प्राणी म्हणतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "सूर्य हा कशाचा मुख्य स्त्रोत आहे?",
+      "answer": "सूर्य हा उष्णता आणि प्रकाशाचा मुख्य स्त्रोत आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अन्न जाळे म्हणजे काय?",
+      "answer": "अनेक अन्न साखळ्या जेव्हा एकमेकांशी जोडल्या जातात, तेव्हा त्याला अन्न जाळे म्हणतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आपल्या पर्यावरणात सुधारणा करण्यासाठी एक उपाय सांगा.",
+      "answer": "प्रत्येक व्यक्तीने किमान एक झाड लावून त्याचे संगोपन करणे हा एक प्रभावी उपाय आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "निसर्गात सजीव आणि निर्जीव यांच्यात परस्पर क्रिया घडतात का?",
+      "answer": "हो, सजीव अन्नासाठी आणि निवार्यासाठी हवेसारख्या निर्जीव घटकांवर अवलंबून असतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "कारखान्यांतील धुराडे उंच का असतात?",
+      "answer": "धूर मानवी वस्तीपासून दूर आणि उंचावर सोडण्यासाठी कारखान्यांतील धुराडे उंच असतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "निसर्ग ही कोणाची संपत्ती आहे?",
+      "answer": "निसर्ग ही सर्व सजीवांची सामाईक संपत्ती आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पर्यावरण दिनी आपण काय संकल्प करावा?",
+      "answer": "पर्यावरण दिनी आपण प्रदूषण न करण्याचा आणि झाडे लावण्याचा संकल्प करावा."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "निसर्गाची हानी रोखण्यासाठी काय करावे?",
+      "answer": "लोकसंख्या नियंत्रण आणि नैसर्गिक साधनसंपत्तीचा काटकसरीने वापर करून हानी रोखता येईल."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "सांडपाण्यावर प्रक्रिया का करावी?",
+      "answer": "सांडपाण्यातील घातक घटक नष्ट करून जलप्रदूषण टाळण्यासाठी प्रक्रिया करावी."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "वनस्पती हवेतील कार्बन डायऑक्साइड का घेतात?",
+      "answer": "वनस्पतींना स्वतःचे अन्न तयार करण्यासाठी कार्बन डायऑक्साइडची गरज असते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "मातीचे महत्त्व काय?",
+      "answer": "वनस्पतींच्या वाढीसाठी आणि अनेक कीटकांच्या निवासासाठी माती आवश्यक आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पाणी दूषित झाल्याने कोणते आजार होतात?",
+      "answer": "पाणी दूषित झाल्याने पटकी (कॉलरा), हगवण आणि कावीळ यांसारखे आजार होतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक साधनसंपत्ती म्हणजे काय?",
+      "answer": "हवा, पाणी, जमीन, खनिजे आणि जंगले या निसर्गाकडून मिळालेल्या संपत्तीला नैसर्गिक साधनसंपत्ती म्हणतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाचे रक्षण म्हणजे कोणाचे रक्षण होय?",
+      "answer": "पर्यावरणाचे रक्षण म्हणजे संपूर्ण जीवसृष्टीचे आणि स्वतः मानवाचे रक्षण होय."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "वाघ कमी झाल्याने हरणांच्या संख्येवर काय परिणाम होईल?",
+      "answer": "वाघ कमी झाल्याने हरणांची संख्या अमर्याद वाढेल आणि अन्न साखळी विस्कळीत होईल."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "सूर्यप्रकाशाशिवाय वनस्पती जगू शकतील का?",
+      "answer": "नाही, सूर्यप्रकाशाशिवाय वनस्पती अन्न तयार करू शकणार नाहीत आणि त्या नष्ट होतील."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "जंगलतोडीमुळे हवामानावर काय परिणाम होतो?",
+      "answer": "जंगलतोडीमुळे पाऊस कमी होतो आणि हवेतील उष्णता वाढते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "नदी स्वच्छ ठेवण्यासाठी काय कराल?",
+      "answer": "नदीमध्ये निर्माल्य, कचरा आणि सांडपाणी टाकणार नाही."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "विहिरीचे पाणी पिण्यायोग्य राहण्यासाठी काय करावे?",
+      "answer": "विहिरीच्या परिसरात कपडे धुणे किंवा घाण करणे टाळावे आणि वेळोवेळी शुद्धीकरण करावे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "प्राणी आपले अन्न कसे मिळवतात?",
+      "answer": "प्राणी आपले अन्न वनस्पती खाऊन किंवा इतर प्राण्यांची शिकार करून मिळवतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर सजीव सृष्टी का टिकून आहे?",
+      "answer": "पृथ्वीवर अनुकूल हवामान, पाणी आणि हवा असल्यामुळे सजीव सृष्टी टिकून आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कंपोस्ट खत कसे बनवतात?",
+      "answer": "ओला कचरा, पालापाचोळा खड्ड्यात कुजवून कंपोस्ट खत बनवतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्ती म्हणजे काय?",
+      "answer": "निसर्गात अचानक घडणाऱ्या विनाशकारी घटनांना (उदा. भूकंप, महापूर) नैसर्गिक आपत्ती म्हणतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "हवेतील धूलिकण श्वासावाटे गेल्यास काय होते?",
+      "answer": "हवेतील धूलिकण श्वासावाटे गेल्यास दम्यासारखे श्वसनाचे आजार होऊ शकतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "निसर्ग संतुलन का बिघडत आहे?",
+      "answer": "मानवाच्या अतिलोभामुळे आणि पर्यावरणाच्या ऱ्हासामुळे निसर्ग संतुलन बिघडत आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सजीवांसाठी पाण्याचे महत्त्व काय?",
+      "answer": "पाण्याशिवाय कोणतेही सजीव (प्राणी किंवा वनस्पती) जगू शकत नाहीत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "वाहनांसाठी सीएनजी (CNG) का वापरावा?",
+      "answer": "सीएनजीमुळे प्रदूषण कमी होते, म्हणून त्याचा वापर करावा."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पर्जन्यचक्र म्हणजे काय?",
+      "answer": "सूर्यामुळे बाष्पीभवन, ढग निर्मिती, पाऊस आणि पाणी पुन्हा समुद्राला मिळणे या चक्राला पर्जन्यचक्र म्हणतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "वाळवंटी प्रदेशात पाणी कमी का असते?",
+      "answer": "वाळवंटी प्रदेशात पावसाचे प्रमाण अत्यंत कमी असल्याने तिथे पाणी टंचाई असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाची हानी टाळण्यासाठी काय टाळावे?",
+      "answer": "अनावश्यक वृक्षतोड आणि अमर्याद प्रदूषण टाळावे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "विमानतळाजवळ ध्वनी प्रदूषण का जास्त असते?",
+      "answer": "विमानांच्या इंजिनांचा आवाज प्रचंड असल्याने तिथे ध्वनी प्रदूषण जास्त असते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "प्राणी संग्रहालयापेक्षा अभयारण्य का चांगले असते?",
+      "answer": "अभयारण्यात प्राणी त्यांच्या नैसर्गिक अधिवासात मुक्तपणे वावरू शकतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "सौर उर्जेचे दोन उपयोग सांगा.",
+      "answer": "सौर उर्जेचा उपयोग सौर कूकर्समध्ये अन्न शिजवण्यासाठी आणि सौर दिवे लावण्यासाठी होतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "गांडुळाला शेतकऱ्याचा मित्र का म्हणतात?",
+      "answer": "गांडूळ जमीन भुसभुशीत करून सुपीकता वाढवतो, म्हणून त्याला शेतकऱ्याचा मित्र म्हणतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "समुद्राचे पाणी पिण्यासाठी का वापरत नाहीत?",
+      "answer": "समुद्राचे पाणी खारट असल्याने ते पिण्यासाठी वापरता येत नाही."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी जमिनीत मुरले नाही तर काय होईल?",
+      "answer": "पाणी मुरले नाही तर जमिनीखालची पाणी पातळी कमी होईल आणि विहिरी आटतील."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "जंगल हे कोणाचे घर आहे?",
+      "answer": "जंगल हे पशू, पक्षी आणि अनेक वनस्पतींचे घर आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण टाळण्याचा एक मार्ग सांगा.",
+      "answer": "गाड्यांचे हॉर्न विनाकारण न वाजवणे हा ध्वनी प्रदूषण टाळण्याचा मार्ग आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "पर्यावरण वाचवण्यासाठी आपण काय करू शकतो?",
+      "answer": "कचरा योग्य ठिकाणी टाकून आणि झाडे लावून आपण पर्यावरण वाचवू शकतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या गरजा कोणत्या?",
+      "answer": "अन्न, पाणी, हवा, वस्त्र आणि निवारा या सजीवांच्या मुख्य गरजा आहेत."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "दूषित हवेचा वनस्पतींवर काय परिणाम होतो?",
+      "answer": "दूषित हवेमुळे वनस्पतींची पाने कोमेजतात आणि त्यांची वाढ खुंटते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "निसर्गाची साखळी कशी टिकेल?",
+      "answer": "जर प्रत्येक सजीव आणि निर्जीव घटक सुरक्षित राहिला तरच निसर्गाची साखळी टिकेल."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "निसर्गातून आपल्याला काय मिळते?",
+      "answer": "निसर्गातून आपल्याला जगण्यासाठी लागणारे सर्व घटक जसे की हवा, पाणी आणि अन्न मिळते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वाढल्याने पर्यावरणावर काय ताण येतो?",
+      "answer": "जास्त लोकसंख्येमुळे निवाऱ्यासाठी जंगले तोडली जातात आणि साधनसंपत्तीचा वापर वाढतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "बागांमध्ये झाडे लावल्याने काय फायदा होतो?",
+      "answer": "बागांमध्ये झाडे लावल्याने परिसर थंड राहतो आणि हवा शुद्ध होते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संतुलनासाठी कोणाची भूमिका महत्त्वाची आहे?",
+      "answer": "पर्यावरण संतुलनासाठी मानवाची भूमिका सर्वात महत्त्वाची आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "आपण प्रदूषण का कमी केले पाहिजे?",
+      "answer": "निरोगी आयुष्य जगण्यासाठी आणि पृथ्वी सुरक्षित ठेवण्यासाठी आपण प्रदूषण कमी केले पाहिजे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "जंगलात आग लागल्याने काय होते?",
+      "answer": "जंगलात आग लागल्याने (वणवा) मोठी जीवहानी होते आणि हवा प्रदूषित होते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "डोंगर उतारावर झाडे का लावावीत?",
+      "answer": "डोंगर उतारावरील माती वाहून जाऊ नये (धूप थांबावी) म्हणून तिथे झाडे लावावीत."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "वनस्पती आणि प्राणी एकमेकांना कसे मदत करतात?",
+      "answer": "वनस्पती प्राण्यांना ऑक्सिजन आणि अन्न देतात, तर प्राणी वनस्पतींच्या बी-प्रसारासाठी मदत करतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "शुद्ध पाण्याचे वैशिष्ट्य काय?",
+      "answer": "शुद्ध पाणी रंगहीन, गंधहीन आणि पारदर्शक असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "निसर्गाचे चक्र बिघडल्यास काय होईल?",
+      "answer": "निसर्गाचे चक्र बिघडल्यास दुष्काळ किंवा महापूर यांसारखी संकटे येतील."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "तुम्ही तुमच्या शाळेत पर्यावरण कसे जपाल?",
+      "answer": "शाळेचा परिसर स्वच्छ ठेवून आणि बागेतील झाडांना पाणी देऊन मी पर्यावरण जपेन."
+    }
+  ]
+}

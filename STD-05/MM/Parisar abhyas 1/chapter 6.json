@@ -1,0 +1,1207 @@
+{
+  "chapter_id": 6,
+  "chapter_name": "नियम सर्वांसाठी",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचे नियम पाळल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "वेळ वाया जातो", "is_correct": false },
+        { "option_id": 2, "text": "अपघात टाळले जातात", "is_correct": true },
+        { "option_id": 3, "text": "गर्दी वाढते", "is_correct": false },
+        { "option_id": 4, "text": "ददंड भरावा लागतो", "is_correct": false }
+      ],
+      "answer": "अपघात टाळले जातात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "समाजातील बदलांनुसार नियमांमध्ये काय करावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "बदल करावे लागतात", "is_correct": true },
+        { "option_id": 2, "text": "काहीही करू नये", "is_correct": false },
+        { "option_id": 3, "text": "नियम काढून टाकावेत", "is_correct": false },
+        { "option_id": 4, "text": "जुन्याच नियमांना चिकटून राहावे", "is_correct": false }
+      ],
+      "answer": "बदल करावे लागतात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "स्वातंत्र्यापूर्वी भारतात कोणती अनिष्ट प्रथा होती?",
+      "options": [
+        { "option_id": 1, "text": "सहशिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "सती जाणे", "is_correct": true },
+        { "option_id": 3, "text": "मतदान", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "सती जाणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बालविवाह प्रतिबंधक कायदा काय ठरवतो?",
+      "options": [
+        { "option_id": 1, "text": "कामाचे तास", "is_correct": false },
+        { "option_id": 2, "text": "शाळेची वेळ", "is_correct": false },
+        { "option_id": 3, "text": "लग्नाचे किमान वय", "is_correct": true },
+        { "option_id": 4, "text": "जेवणाचे नियम", "is_correct": false }
+      ],
+      "answer": "लग्नाचे किमान वय"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "निसर्गाचे नियम कसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "सतत बदलणारे", "is_correct": false },
+        { "option_id": 2, "text": "अचल आणि शाश्वत", "is_correct": true },
+        { "option_id": 3, "text": "माणसाने बनवलेले", "is_correct": false },
+        { "option_id": 4, "text": "चुकीचे", "is_correct": false }
+      ],
+      "answer": "अचल आणि शाश्वत"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नियम सर्वांना ______ लागू होतात.",
+      "options": [
+        { "option_id": 1, "text": "वेगवेगळे", "is_correct": false },
+        { "option_id": 2, "text": "सारखेच", "is_correct": true },
+        { "option_id": 3, "text": "कधीकधी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त गरिबांना", "is_correct": false }
+      ],
+      "answer": "सारखेच"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पर्यावरणाचे रक्षण करण्यासाठी आपण काय पाळले पाहिजेत?",
+      "options": [
+        { "option_id": 1, "text": "नियम", "is_correct": true },
+        { "option_id": 2, "text": "सण", "is_correct": false },
+        { "option_id": 3, "text": "परंपरा", "is_correct": false },
+        { "option_id": 4, "text": "अंधश्रद्धा", "is_correct": false }
+      ],
+      "answer": "नियम"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अस्पृश्यतेची प्रथा पाळणे हा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "धर्म", "is_correct": false },
+        { "option_id": 2, "text": "अमानवी गुन्हा", "is_correct": true },
+        { "option_id": 3, "text": "चांगली सवय", "is_correct": false },
+        { "option_id": 4, "text": "कायदेशीर अधिकार", "is_correct": false }
+      ],
+      "answer": "अमानवी गुन्हा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "समाजात शांतता टिकवण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "शस्त्रांची", "is_correct": false },
+        { "option_id": 2, "text": "पैशांची", "is_correct": false },
+        { "option_id": 3, "text": "शिस्त आणि नियमांची", "is_correct": true },
+        { "option_id": 4, "text": "भांडणांची", "is_correct": false }
+      ],
+      "answer": "शिस्त आणि नियमांची"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जंगले तोडल्यामुळे कशावर परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणावर", "is_correct": true },
+        { "option_id": 2, "text": "रस्त्यांवर", "is_correct": false },
+        { "option_id": 3, "text": "इमारतींवर", "is_correct": false },
+        { "option_id": 4, "text": "वाहनांवर", "is_correct": false }
+      ],
+      "answer": "पर्यावरणावर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आपल्या सामाजिक जीवनातील नियमांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कायदे", "is_correct": true },
+        { "option_id": 2, "text": "कथा", "is_correct": false },
+        { "option_id": 3, "text": "गाणी", "is_correct": false },
+        { "option_id": 4, "text": "विनोद", "is_correct": false }
+      ],
+      "answer": "कायदे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कोणती अनिष्ट प्रथा कायद्याने बंद करण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "दिवाळी साजरी करणे", "is_correct": false },
+        { "option_id": 2, "text": "हुंडा प्रथा", "is_correct": true },
+        { "option_id": 3, "text": "मैदानी खेळ", "is_correct": false },
+        { "option_id": 4, "text": "वाचन करणे", "is_correct": false }
+      ],
+      "answer": "हुंडा प्रथा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शाळेत वेळेवर येणे हा एक काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "नियम", "is_correct": true },
+        { "option_id": 3, "text": "गुन्हा", "is_correct": false },
+        { "option_id": 4, "text": "आदेश", "is_correct": false }
+      ],
+      "answer": "नियम"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नियमांचे उल्लंघन केल्यास काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "बक्षीस", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षा", "is_correct": true },
+        { "option_id": 3, "text": "सुट्टी", "is_correct": false },
+        { "option_id": 4, "text": "मान", "is_correct": false }
+      ],
+      "answer": "शिक्षा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "स्त्री आणि पुरुष यांना विकासाच्या कशा संधी असाव्यात?",
+      "options": [
+        { "option_id": 1, "text": "समान", "is_correct": true },
+        { "option_id": 2, "text": "वेगळ्या", "is_correct": false },
+        { "option_id": 3, "text": "अजिबात नसाव्यात", "is_correct": false },
+        { "option_id": 4, "text": "केवळ पुरुषांना", "is_correct": false }
+      ],
+      "answer": "समान"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा सिग्नल कोणता रंग थांबण्यास सांगतो?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा", "is_correct": false },
+        { "option_id": 2, "text": "पिवळा", "is_correct": false },
+        { "option_id": 3, "text": "लाल", "is_correct": true },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "लाल"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "स्वातंत्र्यानंतर संविधानाने कोणाला मतदानाचा अधिकार दिला?",
+      "options": [
+        { "option_id": 1, "text": "केवळ श्रीमंतांना", "is_correct": false },
+        { "option_id": 2, "text": "केवळ सुशिक्षितांना", "is_correct": false },
+        { "option_id": 3, "text": "प्रौढ स्त्री-पुरुषांना", "is_correct": true },
+        { "option_id": 4, "text": "केवळ परदेशी लोकांना", "is_correct": false }
+      ],
+      "answer": "प्रौढ स्त्री-पुरुषांना"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पाणी वाचवण्यासाठी कोणता नियम असावा?",
+      "options": [
+        { "option_id": 1, "text": "पाणी वाया घालवणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा जपून वापर करणे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी न पिणे", "is_correct": false },
+        { "option_id": 4, "text": "नळ चालू ठेवणे", "is_correct": false }
+      ],
+      "answer": "पाण्याचा जपून वापर करणे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अन्याय निवारण्यासाठी कशाचा आधार घ्यावा लागतो?",
+      "options": [
+        { "option_id": 1, "text": "हिंसेचा", "is_correct": false },
+        { "option_id": 2, "text": "शक्तीचा", "is_correct": false },
+        { "option_id": 3, "text": "कायद्याचा", "is_correct": true },
+        { "option_id": 4, "text": "पैसे देऊन", "is_correct": false }
+      ],
+      "answer": "कायद्याचा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "विनाकारण झाडे तोडणे हा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "योग्य कृती", "is_correct": false },
+        { "option_id": 2, "text": "गुन्हा", "is_correct": true },
+        { "option_id": 3, "text": " छंद", "is_correct": false },
+        { "option_id": 4, "text": "व्यवसाय", "is_correct": false }
+      ],
+      "answer": "गुन्हा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रस्त्यावरून चालताना नेहमी कोणत्या बाजूने चालावे?",
+      "options": [
+        { "option_id": 1, "text": "उजव्या", "is_correct": false },
+        { "option_id": 2, "text": "मधोमध", "is_correct": false },
+        { "option_id": 3, "text": "डाव्या", "is_correct": true },
+        { "option_id": 4, "text": "कोणत्याही", "is_correct": false }
+      ],
+      "answer": "डाव्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "प्लास्टिकचा वापर टाळणे हा कोणत्या प्रकारचा नियम असू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "वाहतुकीचा", "is_correct": false },
+        { "option_id": 2, "text": "खेळाचा", "is_correct": false },
+        { "option_id": 3, "text": "पर्यावरणाचे रक्षण करण्याचा", "is_correct": true },
+        { "option_id": 4, "text": "आहाराचा", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाचे रक्षण करण्याचा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "समाजात काय राखण्यासाठी नियम असतात?",
+      "options": [
+        { "option_id": 1, "text": "गर्दी", "is_correct": false },
+        { "option_id": 2, "text": "अशांतता", "is_correct": false },
+        { "option_id": 3, "text": "सुव्यवस्था", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "सुव्यवस्था"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मोठ्या माणसांचा आदर करणे हा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "कायदेशीर गुन्हा", "is_correct": false },
+        { "option_id": 2, "text": "एक सामाजिक संकेत (नियम)", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवणे", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षेचा भाग", "is_correct": false }
+      ],
+      "answer": "एक सामाजिक संकेत (नियम)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सर्व सजीवांना जगण्याचा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "त्रास", "is_correct": false },
+        { "option_id": 2, "text": "अधिकार", "is_correct": true },
+        { "option_id": 3, "text": "विरोध", "is_correct": false },
+        { "option_id": 4, "text": "नियम", "is_correct": false }
+      ],
+      "answer": "अधिकार"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शिक्षण हा मुलांचा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "छंद", "is_correct": false },
+        { "option_id": 2, "text": "मुलभूत हक्क", "is_correct": true },
+        { "option_id": 3, "text": "उपकार", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "मुलभूत हक्क"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कोणासमोर सर्वजण सारखेच असतात?",
+      "options": [
+        { "option_id": 1, "text": "पैशांसमोर", "is_correct": false },
+        { "option_id": 2, "text": "श्रीमंतांसमोर", "is_correct": false },
+        { "option_id": 3, "text": "कायद्यासमोर", "is_correct": true },
+        { "option_id": 4, "text": "बलवानासमोर", "is_correct": false }
+      ],
+      "answer": "कायद्यासमोर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "जातीभेद पाळणे ही काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "चांगली प्रथा", "is_correct": false },
+        { "option_id": 2, "text": "अनिष्ट प्रथा", "is_correct": true },
+        { "option_id": 3, "text": "कायदेशीर गरज", "is_correct": false },
+        { "option_id": 4, "text": "परंपरा", "is_correct": false }
+      ],
+      "answer": "अनिष्ट प्रथा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वेळेचे पालन करणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वेळकाढूपणा", "is_correct": false },
+        { "option_id": 2, "text": "वक्तशीरपणा", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळ", "is_correct": false }
+      ],
+      "answer": "वक्तशीरपणा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक मालमत्तेचे रक्षण करणे हे कोणाचे कर्तव्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ पोलिसांचे", "is_correct": false },
+        { "option_id": 2, "text": "केवळ नेत्यांचे", "is_correct": false },
+        { "option_id": 3, "text": "प्रत्येक नागरिकाचे", "is_correct": true },
+        { "option_id": 4, "text": "कोणाचेच नाही", "is_correct": false }
+      ],
+      "answer": "प्रत्येक नागरिकाचे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "प्राण्यांची शिकार करणे हे काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "चांगले काम", "is_correct": false },
+        { "option_id": 2, "text": "कायद्याने गुन्हा", "is_correct": true },
+        { "option_id": 3, "text": "छंद", "is_correct": false },
+        { "option_id": 4, "text": "व्यवसाय", "is_correct": false }
+      ],
+      "answer": "कायद्याने गुन्हा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "नियमांमुळे समाजात काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "अव्यवस्था", "is_correct": false },
+        { "option_id": 2, "text": "शिस्त", "is_correct": true },
+        { "option_id": 3, "text": "भांडणे", "is_correct": false },
+        { "option_id": 4, "text": "भ्रष्टाचार", "is_correct": false }
+      ],
+      "answer": "शिस्त"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जेव्हा खूप पाऊस पडतो, तेव्हा काय येते?",
+      "options": [
+        { "option_id": 1, "text": "दुष्काळ", "is_correct": false },
+        { "option_id": 2, "text": "महापूर", "is_correct": true },
+        { "option_id": 3, "text": "भूकंप", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "महापूर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वृक्षारोपण करणे हे कोणासाठी फायद्याचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ लाकूडतोड्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "संपूर्ण सृष्टीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "केवळ प्राण्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "कोणासाठीच नाही", "is_correct": false }
+      ],
+      "answer": "संपूर्ण सृष्टीसाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "देशाचा कारभार कशाप्रमाणे चालतो?",
+      "options": [
+        { "option_id": 1, "text": "इच्छेप्रमाणे", "is_correct": false },
+        { "option_id": 2, "text": "कायद्याप्रमाणे (संविधानाप्रमाणे)", "is_correct": true },
+        { "option_id": 3, "text": "राजाच्या हुकुमाप्रमाणे", "is_correct": false },
+        { "option_id": 4, "text": "शक्तीप्रमाणे", "is_correct": false }
+      ],
+      "answer": "कायद्याप्रमाणे (संविधानाप्रमाणे)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "शाळेत शिस्त लावण्याचे काम कोण करतात?",
+      "options": [
+        { "option_id": 1, "text": "विद्यार्थी", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षक आणि मुख्याध्यापक", "is_correct": true },
+        { "option_id": 3, "text": "शिपाई", "is_correct": false },
+        { "option_id": 4, "text": "पालक", "is_correct": false }
+      ],
+      "answer": "शिक्षक आणि मुख्याध्यापक"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कायद्याचे पालन न केल्यास काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "शाबासकी", "is_correct": false },
+        { "option_id": 2, "text": "दंडात्मक कारवाई", "is_correct": true },
+        { "option_id": 3, "text": "मिठाई", "is_correct": false },
+        { "option_id": 4, "text": "पैसे", "is_correct": false }
+      ],
+      "answer": "दंडात्मक कारवाई"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "निसर्गाच्या नियमांचे पालन कोणाला करावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ माणसाला", "is_correct": false },
+        { "option_id": 2, "text": "केवळ प्राण्यांना", "is_correct": false },
+        { "option_id": 3, "text": "सर्व सजीवांना व सृष्टीला", "is_correct": true },
+        { "option_id": 4, "text": "कोणालाच नाही", "is_correct": false }
+      ],
+      "answer": "सर्व सजीवांना व सृष्टीला"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "जेव्हा भूक लागते तेव्हा आपण काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "खेळतो", "is_correct": false },
+        { "option_id": 2, "text": "जेवण करतो", "is_correct": true },
+        { "option_id": 3, "text": "झोपतो", "is_correct": false },
+        { "option_id": 4, "text": "रडतो", "is_correct": false }
+      ],
+      "answer": "जेवण करतो"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कुटुंबात राहण्याचे काही _______ असतात.",
+      "options": [
+        { "option_id": 1, "text": "नियम", "is_correct": true },
+        { "option_id": 2, "text": "कथा", "is_correct": false },
+        { "option_id": 3, "text": "गाणी", "is_correct": false },
+        { "option_id": 4, "text": "वस्तू", "is_correct": false }
+      ],
+      "answer": "नियम"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नियम पाळल्याने काय सुधारते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "कार्यक्षमता", "is_correct": true },
+        { "option_id": 3, "text": "भयावहता", "is_correct": false },
+        { "option_id": 4, "text": "उपेक्षा", "is_correct": false }
+      ],
+      "answer": "कार्यक्षमता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आपली सर्वांची जबाबदारी काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "भांडणे करणे", "is_correct": false },
+        { "option_id": 2, "text": "नियम पाळणे", "is_correct": true },
+        { "option_id": 3, "text": "कचरा टाकणे", "is_correct": false },
+        { "option_id": 4, "text": "चोरी करणे", "is_correct": false }
+      ],
+      "answer": "नियम पाळणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कायद्यासमोर गरीब आणि श्रीमंत कसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंत मोठा असतो", "is_correct": false },
+        { "option_id": 2, "text": "गरीब मोठा असतो", "is_correct": false },
+        { "option_id": 3, "text": "दोघेही समान असतात", "is_correct": true },
+        { "option_id": 4, "text": "वेगवेगळे", "is_correct": false }
+      ],
+      "answer": "दोघेही समान असतात"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शिस्त म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "भीती दाखवणे", "is_correct": false },
+        { "option_id": 2, "text": "नियमांचे पालन करणे", "is_correct": true },
+        { "option_id": 3, "text": "गप्प बसणे", "is_correct": false },
+        { "option_id": 4, "text": "रागावणे", "is_correct": false }
+      ],
+      "answer": "नियमांचे पालन करणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पर्यावरणाची हानी टाळण्यासाठी काय केले पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "नियम पाळले पाहिजेत", "is_correct": true },
+        { "option_id": 2, "text": "जास्त प्रदूषण केले पाहिजे", "is_correct": false },
+        { "option_id": 3, "text": "झाडे तोडली पाहिजेत", "is_correct": false },
+        { "option_id": 4, "text": "काहीही करू नये", "is_correct": false }
+      ],
+      "answer": "नियम पाळले पाहिजेत"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "संविधानाने अस्पृश्यता काय केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुरू ठेवली आहे", "is_correct": false },
+        { "option_id": 2, "text": "कायद्याने नष्ट केली आहे", "is_correct": true },
+        { "option_id": 3, "text": "पुरस्कार दिला आहे", "is_correct": false },
+        { "option_id": 4, "text": "प्रोत्साहन दिले आहे", "is_correct": false }
+      ],
+      "answer": "कायद्याने नष्ट केली आहे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "निसर्गातील चक्र कशाने चालते?",
+      "options": [
+        { "option_id": 1, "text": "माणसाच्या इच्छेने", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गाच्या नियमांनी", "is_correct": true },
+        { "option_id": 3, "text": "पैसे देऊन", "is_correct": false },
+        { "option_id": 4, "text": "विज्ञानाने", "is_correct": false }
+      ],
+      "answer": "निसर्गाच्या नियमांनी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "बालविवाह करणे हा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "आनंदाची गोष्ट", "is_correct": false },
+        { "option_id": 2, "text": "कायदेशीर गुन्हा", "is_correct": true },
+        { "option_id": 3, "text": "धार्मिक विधी", "is_correct": false },
+        { "option_id": 4, "text": "परंपरा", "is_correct": false }
+      ],
+      "answer": "कायद्याने गुन्हा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचा सिग्नल हिरवा झाल्यावर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "थांबावे", "is_correct": false },
+        { "option_id": 2, "text": "पुढे जावे", "is_correct": true },
+        { "option_id": 3, "text": "गाडी बंद करावी", "is_correct": false },
+        { "option_id": 4, "text": "मागे जावे", "is_correct": false }
+      ],
+      "answer": "पुढे जावे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नियमांचे मुख्य उद्दिष्ट काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोकांना त्रास देणे", "is_correct": false },
+        { "option_id": 2, "text": "लोकांचे कल्याण आणि सुव्यवस्था", "is_correct": true },
+        { "option_id": 3, "text": "पैसे कमवणे", "is_correct": false },
+        { "option_id": 4, "text": "वेळ घालवणे", "is_correct": false }
+      ],
+      "answer": "लोकांचे कल्याण आणि सुव्यवस्था"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नियम म्हणजे काय?",
+      "answer": "समूह जीवनात सुव्यवस्था राखण्यासाठी पाळल्या जाणाऱ्या शिस्तीला नियम म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "नियम सर्वांना सारखेच का असावेत?",
+      "answer": "नियम सर्वांना सारखेच असावेत कारण कायद्यासमोर सर्व नागरिक समान असतात आणि त्यामुळे भेदभाव टाळता येतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "निसर्गाचे कोणतेही दोन नियम सांगा.",
+      "answer": "१. सूर्याचे उगवणे व मावळणे. २. ऋतूंमधील बदल."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "निसर्गाचे नियम आणि मानवाचे नियम यात कोणता मुख्य फरक आहे?",
+      "answer": "निसर्गाचे नियम अचल आणि शाश्वत असतात, तर मानवाचे नियम गरजेनुसार बदलले जाऊ शकतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियम पाळणे का गरजेचे आहे?",
+      "answer": "अपघात टाळण्यासाठी आणि रस्त्यावरील रहदारी सुरळीत ठेवण्यासाठी वाहतुकीचे नियम पाळणे गरजेचे आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "स्वातंत्र्यापूर्वीच्या दोन अनिष्ट प्रथांची नावे सांगा.",
+      "answer": "सती प्रथा आणि बालविवाह या स्वातंत्र्यापूर्वीच्या दोन अनिष्ट प्रथा होत्या."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाचे रक्षण करण्यासाठी कोणता नियम असावा?",
+      "answer": "प्लास्टिकचा वापर टाळणे आणि विनाकारण झाडे न तोडणे हे पर्यावरणाच्या रक्षणाचे नियम असावेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अस्पृश्यतेच्या प्रथेबद्दल भारतीय संविधानाचे काय मत आहे?",
+      "answer": "भारतीय संविधानाने अस्पृश्यतेची प्रथा नष्ट केली असून ती पाळणे हा एक अमानवी गुन्हा मानला आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नियमांचे उल्लंघन केल्यास काय होते?",
+      "options": null,
+      "answer": "नियमांचे उल्लंघन केल्यास दंडात्मक कारवाई किंवा शिक्षेला सामोरे जावे लागते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मुलींच्या शिक्षणाबाबत कोणता नियम असणे आवश्यक आहे?",
+      "answer": "मुलांप्रमाणेच मुलींनाही शिक्षणाच्या समान संधी मिळाल्याच पाहिजेत, असा नियम असणे आवश्यक आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाण्याबाबत आपण कोणते नियम पाळले पाहिजेत?",
+      "answer": "पाण्याचा वापर जपून करणे आणि पाण्याचे प्रदूषण न करणे हे नियम आपण पाळले पाहिजेत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "बालविवाह प्रतिबंधक कायदा काय आहे?",
+      "answer": "ज्या कायद्यानुसार लहान वयात लग्न करणे हा गुन्हा ठरवण्यात आला आहे, त्याला बालविवाह प्रतिबंधक कायदा म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हुंडा प्रथा बंद करण्यासाठी कोणता कायदा करण्यात आला?",
+      "answer": "हुंडा बंदी कायदा ही अनिष्ट प्रथा बंद करण्यासाठी करण्यात आला."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शिस्त पाळल्यामुळे काय फायदा होतो?",
+      "answer": "शिस्त पाळल्यामुळे कामे वेळेवर होतात आणि समाजात सुव्यवस्था टिकून राहते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शाळेत पाळले जाणारे दोन नियम सांगा.",
+      "answer": "१. शाळेत वेळेवर उपस्थित राहणे. २. शाळेचा गणवेश परिधान करणे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "समुद्रामध्ये येणाऱ्या भरती-ओहोटीचे नियम कोण ठरवते?",
+      "answer": "भरती-ओहोटीचे नियम निसर्ग ठरवतो; ते निसर्गाच्या चक्राचा भाग आहेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेचा अर्थ काय?",
+      "answer": "स्त्री आणि पुरुष या दोघांनाही विकासाच्या आणि जगण्याच्या सारख्याच संधी मिळणे म्हणजे स्त्री-पुरुष समानता होय."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "निसर्गाच्या नियमात बदल का होत नाही?",
+      "answer": "निसर्गाचे नियम हे वैश्विक आणि वैज्ञानिक तत्त्वांवर आधारित असल्यामुळे त्यात बदल होत नाही."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी शांतता राखण्यासाठी काय करावे?",
+      "answer": "मोठ्याने आवाज न करणे आणि इतरांना त्रास होईल असे वर्तन न करणे हे नियम पाळावेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कायद्याचे राज्य म्हणजे काय?",
+      "answer": "जेथे सर्व व्यवहार आणि कारभार संविधानातील नियमांनुसार चालतो, त्याला कायद्याचे राज्य म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आपल्याला नियमांची गरज का भासते?",
+      "answer": "समाजात संघर्ष टाळण्यासाठी आणि सर्वांच्या प्रगतीसाठी आपल्याला नियमांची गरज भासते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "जंगलतोडीचे दुष्परिणाम सांगा.",
+      "answer": "जंगलतोडीमुळे हवामान बदलते, पाऊस कमी होतो आणि वन्यप्राण्यांचे निवारे नष्ट होतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "नियम मोडणाऱ्याला शिक्षा का दिली जाते?",
+      "answer": "नियम मोडणाऱ्याला शिक्षा दिली जाते जेणेकरून भविष्यात अशा चुका पुन्हा होऊ नयेत आणि नियमांचा आदर राखला जावा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "मतदानाचा अधिकार कोणाला मिळतो?",
+      "answer": "भारतीय संविधानानुसार १८ वर्षे पूर्ण झालेल्या प्रत्येक प्रौढ नागरिकाला मतदानाचा अधिकार मिळतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कचरा व्यवस्थापनाचा कोणता नियम आपण पाळू शकतो?",
+      "answer": "ओला कचरा आणि सुका कचरा वेगवेगळा करणे हा नियम आपण पाळू शकतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सण साजरे करताना कोणते नियम असावेत?",
+      "answer": "ध्वनी प्रदूषण टाळणे आणि पर्यावरणाचे नुकसान न करणे हे नियम सण साजरे करताना असावेत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "बालमजुरी म्हणजे काय?",
+      "answer": "लहान मुलांना त्यांच्या शिक्षणाच्या वयात कामाला लावणे म्हणजे बालमजुरी होय, जे कायद्याने गुन्हा आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अनियंत्रित जंगलतोड थांबवण्यासाठी काय करावे?",
+      "answer": "अनियंत्रित जंगलतोड थांबवण्यासाठी कडक कायदे करणे आणि वृक्षारोपणाला प्रोत्साहन देणे आवश्यक आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नियमांमुळे होणारा एक चांगला बदल सांगा.",
+      "answer": "नियमांमुळे समाजात भेदभाव कमी होतो आणि न्याय मिळण्यास मदत होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या चिन्हांचा उपयोग काय?",
+      "answer": "रस्त्यावरील परिस्थितीची आगाऊ माहिती देण्यासाठी आणि सुरक्षित प्रवासासाठी चिन्हांचा उपयोग होतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "निसर्गाचा समतोल राखणे म्हणजे काय?",
+      "answer": "निसर्गातील घटकांचा (प्राणी, वनस्पती, पाणी) वापर अशा प्रकारे करणे की जेणेकरून ते नष्ट होणार नाहीत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कायद्याची भीती का असावी?",
+      "answer": "कायद्याच्या भीतीमुळे गुन्हेगारी प्रवृत्तींना आळा बसतो आणि सर्वसामान्य नागरिक सुरक्षित राहतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील नियमांचे स्वरूप कसे असते?",
+      "answer": "कुटुंबातील नियम हे परस्परांवरील प्रेम आणि सामंजस्यावर आधारित असतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "जुन्या आणि अनिष्ट परंपरा का मोडल्या पाहिजेत?",
+      "answer": "जुन्या परंपरा प्रगतीत अडथळा निर्माण करतात आणि अन्याय करतात, म्हणून त्या मोडल्या पाहिजेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नियमांचा गैरवापर म्हणजे काय?",
+      "answer": "स्वतःच्या स्वार्थासाठी नियमांचा चुकीचा अर्थ लावणे म्हणजे नियमांचा गैरवापर होय."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शिस्तबद्ध जीवन जगण्याचे महत्त्व सांगा.",
+      "answer": "शिस्तबद्ध जीवनामुळे वेळ वाचतो, आरोग्य सुधारते आणि ध्येय गाठणे सोपे होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शाळेच्या मैदानावर खेळाचे कोणते नियम असावेत?",
+      "answer": "खेळ खेळताना खिलाडूवृत्ती ठेवणे आणि नियमांचे पालन करून कोणालाही इजा न पोहोचवणे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पर्यावरणाचे नियम मोडल्यास निसर्ग काय देतो?",
+      "answer": "पर्यावरणाचे नियम मोडल्यास निसर्ग महापूर, दुष्काळ यांसारखी संकटे निर्माण करून शिक्षा देतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक नळावर पाणी भरताना कोणता नियम पाळावा?",
+      "answer": "आपल्या पाळीची शांतपणे वाट बघणे आणि पाणी वाया न घालवणे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "बालविवाह ही प्रथा कोणावर अन्याय करते?",
+      "answer": "बालविवाह ही प्रथा प्रामुख्याने लहान मुलांच्या शिक्षणावर आणि आरोग्यावर अन्याय करते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नियमांचे मुख्य तत्व कोणते?",
+      "answer": "समानता आणि न्याय हे नियमांचे मुख्य तत्व आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "प्रत्येक नागरिकाची नैतिक जबाबदारी काय आहे?",
+      "answer": "देशाचे कायदे पाळणे आणि समाजाच्या हितासाठी काम करणे ही नैतिक जबाबदारी आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पावसाळ्याचे नियम कोण ठरवते?",
+      "answer": "पावसाळ्याचे नियम निसर्ग ठरवतो; ते पृथ्वीच्या सूर्याभोवती फिरण्यावर अवलंबून असतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "शाळेत वाचनालयाचे कोणते नियम असावेत?",
+      "answer": "शांतता राखणे आणि पुस्तके फाडू नयेत किंवा खराब करू नयेत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "निसर्ग कोणाशी भेदभाव करतो का?",
+      "answer": "नाही, निसर्ग त्याचे नियम पाळताना कोणाशीही भेदभाव करत नाही."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "बालमजुरी रोखण्यासाठी आपण काय करू शकतो?",
+      "answer": "बालमजुरी दिसल्यास पोलिसांना कळवणे आणि शिक्षणाचे महत्त्व पटवून देणे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नियम का बदलतात?",
+      "answer": "काळानुसार आणि लोकांच्या गरजांनुसार जुने नियम अपुरे पडतात, म्हणून त्यात बदल केले जातात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शाळेच्या बसमध्ये चढताना कोणता नियम पाळावा?",
+      "answer": "शाळेच्या बसमध्ये चढताना रांग लावावी आणि ढकलाढकल करू नये."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कायद्याने सती प्रथा बंद करण्याचे श्रेय कोणाला जाते?",
+      "answer": "राजा राममोहन रॉय यांच्या प्रयत्नांमुळे सती प्रथा कायद्याने बंद झाली."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "नियमांचा सन्मान करणे म्हणजे काय?",
+      "answer": "नियमांचा सन्मान करणे म्हणजे ते स्वतःहून प्रामाणिकपणे पाळणे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "अस्पृश्यता पाळणे हा गुन्हा का आहे?",
+      "answer": "अस्पृश्यता पाळणे हा गुन्हा आहे कारण यामुळे माणसाच्या प्रतिष्ठेला तडा जातो आणि समतेच्या तत्त्वाचे उल्लंघन होते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "वृक्षतोड का करू नये?",
+      "answer": "वृक्षतोड करू नये कारण झाडे आपल्याला ऑक्सिजन देतात आणि पाऊस पाडण्यास मदत करतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "संविधान म्हणजे काय?",
+      "answer": "देशाचा कारभार चालवण्यासाठी तयार करण्यात आलेल्या मूलभूत नियमांच्या पुस्तकाला संविधान म्हणतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "नियम पाळल्याने वेळेची बचत कशी होते?",
+      "answer": "नियम पाळल्याने गोंधळ होत नाही आणि ठरलेली कामे वेळेत पूर्ण होतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मुलांना शाळेत पाठवणे हे पालकांचे काय आहे?",
+      "answer": "मुलांना शाळेत पाठवणे हे पालकांचे कर्तव्य आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "जनावरांना क्रूरपणे वागवणे हा गुन्हा आहे का?",
+      "answer": "हो, प्राण्यांना क्रूरपणे वागवणे हा प्राणिहिंसा प्रतिबंधक कायद्यानुसार गुन्हा आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "अन्याय झाल्यावर आपण कोणाकडे दाद मागतो?",
+      "answer": "अन्याय झाल्यावर आपण पोलीस स्टेशन किंवा न्यायालयाकडे दाद मागतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "स्वच्छतेबाबत आपण कोणता नियम पाळला पाहिजे?",
+      "answer": "कचरा नेहमी कचरापेटीतच टाकला पाहिजे, हा नियम आपण पाळला पाहिजे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात पाणी उकळून का प्यावे?",
+      "answer": "पावसाळ्यात जलजन्य आजार टाळण्यासाठी आरोग्याचा नियम म्हणून पाणी उकळून प्यावे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "देशाचा विकास कशावर अवलंबून असतो?",
+      "answer": "देशाचा विकास तेथील नागरिक नियमांचे पालन किती चांगल्या प्रकारे करतात, यावर अवलंबून असतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "बालवयात शिक्षण न मिळाल्यास काय होते?",
+      "answer": "बालवयात शिक्षण न मिळाल्यास मुलांच्या व्यक्तिमत्वाचा विकास खुंटतो आणि त्यांना भविष्यात अडचणी येतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "रांग लावण्याचे महत्त्व काय?",
+      "answer": "रांग लावल्यामुळे गर्दीवर नियंत्रण राहते आणि सर्वांना आपले काम शिस्तीत करता येते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हुंडा मागणे हा गुन्हा का मानला जातो?",
+      "answer": "हुंडा मागणे हा गुन्हा मानला जातो कारण यामुळे स्त्रियांचे शोषण होते आणि समाजात अनिष्ट प्रथा निर्माण होतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "पर्यावरण प्रदूषित केल्यास कोणाला त्रास होतो?",
+      "answer": "पर्यावरण प्रदूषित केल्यास मानवांसह सर्वच सजीव सृष्टीला त्रास होतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "निसर्गाच्या नियमांचे उदाहरण द्या.",
+      "answer": "नदीचा प्रवाह नेहमी उताराच्या दिशेला वाहणे हे निसर्गाच्या नियमाचे उदाहरण आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "नियमांचे पालन केल्याने सुरक्षितता कशी वाढते?",
+      "answer": "नियमांमुळे प्रत्येकाला आपली मर्यादा कळते आणि कोणाकडूनही कोणाला इजा होण्याची शक्यता कमी होते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "मुलींना शिक्षण दिल्याने समाजाचा काय फायदा होतो?",
+      "answer": "मुली सुशिक्षित झाल्या तर संपूर्ण कुटुंब आणि समाज प्रगत होतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "वाहतूक पोलीस काय काम करतात?",
+      "answer": "वाहतूक पोलीस रस्त्यावरील रहदारीचे नियंत्रण करतात आणि नियमांचे पालन करून घेतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "नियम पाळणे ही सक्ती आहे की जबाबदारी?",
+      "answer": "नियम पाळणे ही सक्ती असली तरी ती आपली नैतिक जबाबदारी देखील आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "बालविवाहामुळे मुलांचे काय नुकसान होते?",
+      "answer": "बालविवाहामुळे मुलांचे शिक्षण सुटते आणि त्यांच्या शारीरिक व मानसिक वाढीवर परिणाम होतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "प्रत्येक व्यक्तीने कायद्याचा आदर का करावा?",
+      "answer": "समाजात शांतता आणि न्याय प्रस्थापित करण्यासाठी प्रत्येक व्यक्तीने कायद्याचा आदर करावा."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "शाळेच्या गणवेशाचा नियम का असतो?",
+      "answer": "सर्व विद्यार्थ्यांमध्ये समानतेची भावना निर्माण व्हावी म्हणून शाळेच्या गणवेशाचा नियम असतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "प्लास्टिकमुळे पर्यावरणाचे काय नुकसान होते?",
+      "answer": "प्लास्टिक कुजत नाही, त्यामुळे जमिनीचा कस कमी होतो आणि प्रदूषण वाढते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "कायद्याचे पालन कोणापासून सुरू होते?",
+      "answer": "कायद्याचे पालन स्वतःपासून आणि आपल्या कुटुंबापासून सुरू होते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "नियमांशिवाय समाज कसा असेल?",
+      "answer": "नियमांशिवाय समाजात सगळीकडे गोंधळ, भीती आणि अन्यायाचे वातावरण असेल."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "शहरात कचरा टाकण्याचे नियम कोणते असतात?",
+      "answer": "कचरा घंटागाडीतच टाकावा आणि रस्त्यावर कचरा फेकू नये, हे नियम असतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "निसर्गाच्या नियमांचे पालन केल्याने आपण काय टाळू शकतो?",
+      "answer": "निसर्गाच्या नियमांचे पालन केल्याने आपण नैसर्गिक आपत्तींची तीव्रता टाळू शकतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "वाहतूक नियमांचे पालन करताना हेल्मेट का वापरावे?",
+      "answer": "अपघातात डोक्याला गंभीर इजा होऊ नये म्हणून हेल्मेट वापरावे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "अनिष्ट रूढी आणि परंपरा कशाला म्हणतात?",
+      "answer": "ज्या परंपरा समाजाच्या प्रगतीत अडथळा आणतात आणि अन्याय करतात, त्यांना अनिष्ट रूढी म्हणतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "नियम मोडणाऱ्याला समाजाकडून काय वागणूक मिळते?",
+      "answer": "नियम मोडणाऱ्याला समाजाकडून तिरस्कार किंवा दंडात्मक शिक्षा मिळते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "वेळेचे नियोजन करणे का आवश्यक आहे?",
+      "answer": "आयुष्यात यशस्वी होण्यासाठी आणि सर्व कामे पूर्ण करण्यासाठी वेळेचे नियोजन आवश्यक आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "शाळेच्या परीक्षांचे नियम का असतात?",
+      "answer": "विद्यार्थ्यांच्या ज्ञानाचे योग्य मूल्यमापन करण्यासाठी परीक्षांचे नियम असतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "मुलांना कामावर ठेवणाऱ्या मालकावर कोणती कारवाई होते?",
+      "answer": "बालमजुरी कायद्यानुसार अशा मालकाला दंड किंवा तुरुंगवासाची शिक्षा होऊ शकते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "मतदान करताना आपण कोणती जबाबदारी पार पाडतो?",
+      "answer": "मतदान करताना आपण देशाचा प्रतिनिधी निवडण्याची मोठी जबाबदारी पार पाडतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "निसर्गाचा सर्वात मोठा नियम कोणता?",
+      "answer": "प्रत्येक जन्माला आलेल्या जीवाचा मृत्यू होणे हा निसर्गाचा सर्वात मोठा नियम आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "जाहीर सभांचे नियम कोणते असतात?",
+      "answer": "सभेसाठी परवानगी घेणे आणि शांतता भंग होणार नाही याची काळजी घेणे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष विषमतेचा एक परिणाम सांगा.",
+      "answer": "स्त्री-पुरुष विषमतेमुळे समाजाचा अर्धा भाग विकासापासून मागे राहतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "प्राणी संग्रहालयातील नियम काय असतात?",
+      "answer": "प्राण्यांना खाऊ न घालणे आणि त्यांना कोणताही त्रास न देणे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "निसर्गाची देणगी टिकवण्यासाठी आपण काय केले पाहिजे?",
+      "answer": "आपण निसर्गाच्या नियमांचे पालन करून त्याचे जतन केले पाहिजे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "रस्त्यावरील झेब्रा क्रॉसिंग कशासाठी असते?",
+      "answer": "पादचाऱ्यांना रस्ता ओलांडण्यासाठी झेब्रा क्रॉसिंग असते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "नियम मोडल्यामुळे कोणाचे नुकसान होते?",
+      "answer": "नियम मोडल्यामुळे नियम मोडणाऱ्याचे आणि समाजाचे अशा दोघांचेही नुकसान होते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "हवा प्रदूषण कमी करण्याचा नियम कोणता असू शकतो?",
+      "answer": "वाहनांची वेळोवेळी तपासणी (PUC) करणे आणि कचरा न जाळणे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "भारतीय संविधान कधी लागू झाले?",
+      "answer": "भारतीय संविधान २६ जानेवारी १९५० रोजी लागू झाले."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कुटुंबात मोठ्यांचा शब्द का पाळावा?",
+      "answer": "मोठ्यांचा शब्द पाळणे हा आदर दर्शवण्याचा एक कौटुंबिक नियम आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "जातीभेदामुळे समाजाचे काय नुकसान होते?",
+      "answer": "जातीभेदामुळे समाजात दुफळी निर्माण होते आणि एकोपा धोक्यात येतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "शिक्षणाचा अधिकार कोणाला आहे?",
+      "answer": "शिक्षणाचा अधिकार भारतातील ६ ते १४ वयोगटातील प्रत्येक मुला-मुलीला आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर खेळणे का चुकीचे आहे?",
+      "answer": "रस्त्यावर खेळणे चुकीचे आहे कारण त्यामुळे अपघाताची भीती असते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "नियमांमुळे होणारी प्रगती कशी असते?",
+      "answer": "नियमांमुळे होणारी प्रगती शाश्वत आणि न्याय्य असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आपण कोणाचे आभार मानले पाहिजेत?",
+      "answer": "नियम पाळून समाजसेवा करणाऱ्या व्यक्तींचे आपण आभार मानले पाहिजेत."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "या पाठातून तुम्ही काय शिकलात?",
+      "answer": "नियम हे सर्वांच्या भल्यासाठी असतात आणि त्यांचे पालन करणे हे प्रत्येक नागरिकाचे कर्तव्य आहे."
+    }
+  ]
+}

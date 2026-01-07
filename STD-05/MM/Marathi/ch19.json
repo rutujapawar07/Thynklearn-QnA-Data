@@ -1,0 +1,1075 @@
+{
+  "chapter_id": 19,
+  "chapter_name": "वासरू / अनुभव-२",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वासरू कोणाचे लक्ष चुकवून रानात गेले?",
+      "options": [
+        { "option_id": 1, "text": "शेतकऱ्याचे", "is_correct": false },
+        { "option_id": 2, "text": "गाईचे", "is_correct": true },
+        { "option_id": 3, "text": "गुराख्याचे", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांचे", "is_correct": false }
+      ],
+      "answer": "गाईचे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वासरू रानात कसे फिरत होते?",
+      "options": [
+        { "option_id": 1, "text": "हळू हळू", "is_correct": false },
+        { "option_id": 2, "text": "शांतपणे", "is_correct": false },
+        { "option_id": 3, "text": "धुंद होऊन", "is_correct": true },
+        { "option_id": 4, "text": "रडत रडत", "is_correct": false }
+      ],
+      "answer": "धुंद होऊन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वासरू कोणत्या दिशेला हुंदडत होते?",
+      "options": [
+        { "option_id": 1, "text": "नदीकडे", "is_correct": false },
+        { "option_id": 2, "text": "डोंगराकडे", "is_correct": false },
+        { "option_id": 3, "text": "चोहीकडे", "is_correct": true },
+        { "option_id": 4, "text": "घराकडे", "is_correct": false }
+      ],
+      "answer": "चोहीकडे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रानात फिरताना वासरू काय विसरले?",
+      "options": [
+        { "option_id": 1, "text": "चारा खायला", "is_correct": false },
+        { "option_id": 2, "text": "पिण्याचे पाणी", "is_correct": false },
+        { "option_id": 3, "text": "घरची वाट", "is_correct": true },
+        { "option_id": 4, "text": "खेळायला", "is_correct": false }
+      ],
+      "answer": "घरची वाट"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वासराला कोणाची आठवण झाली?",
+      "options": [
+        { "option_id": 1, "text": "बैलाची", "is_correct": false },
+        { "option_id": 2, "text": "माऊलीची (आईची)", "is_correct": true },
+        { "option_id": 3, "text": "गुराख्याची", "is_correct": false },
+        { "option_id": 4, "text": "सशाची", "is_correct": false }
+      ],
+      "answer": "माऊलीची (आईची)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अंधार पडल्यावर वासरू काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "आनंदी", "is_correct": false },
+        { "option_id": 2, "text": "घाबरले", "is_correct": true },
+        { "option_id": 3, "text": "झोपले", "is_correct": false },
+        { "option_id": 4, "text": "गाऊ लागले", "is_correct": false }
+      ],
+      "answer": "घाबरले"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वासराला रानात काय दिसले?",
+      "options": [
+        { "option_id": 1, "text": "हिरवे गवत", "is_correct": true },
+        { "option_id": 2, "text": "मिठाई", "is_correct": false },
+        { "option_id": 3, "text": "खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "हिरवे गवत"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वासराचे डोळे कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "चमचमणारे", "is_correct": false },
+        { "option_id": 2, "text": "काळेभोर", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "निळे", "is_correct": false }
+      ],
+      "answer": "काळेभोर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वासरू कसे ओरडले?",
+      "options": [
+        { "option_id": 1, "text": "हंबरले", "is_correct": true },
+        { "option_id": 2, "text": "ओरडले", "is_correct": false },
+        { "option_id": 3, "text": "बे बे केले", "is_correct": false },
+        { "option_id": 4, "text": "कुई कुई केले", "is_correct": false }
+      ],
+      "answer": "हंबरले"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वासराचे पाय कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "जाड", "is_correct": false },
+        { "option_id": 2, "text": "नजूक", "is_correct": true },
+        { "option_id": 3, "text": "मोठे", "is_correct": false },
+        { "option_id": 4, "text": "खुरटे", "is_correct": false }
+      ],
+      "answer": "नजूक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रानात काय पडले होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशाचे किरण", "is_correct": false },
+        { "option_id": 2, "text": "तिमिराचे (अंधाराचे) सावट", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "गारा", "is_correct": false }
+      ],
+      "answer": "तिमिराचे (अंधाराचे) सावट"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वासरू कोणाच्या मागे धावले?",
+      "options": [
+        { "option_id": 1, "text": "वाघाच्या", "is_correct": false },
+        { "option_id": 2, "text": "फुलपाखराच्या", "is_correct": true },
+        { "option_id": 3, "text": "गाडीच्या", "is_correct": false },
+        { "option_id": 4, "text": "कुत्र्याच्या", "is_correct": false }
+      ],
+      "answer": "फुलपाखराच्या"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वासराचा कान कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "वाकडा", "is_correct": false },
+        { "option_id": 2, "text": "टवकारलेला", "is_correct": true },
+        { "option_id": 3, "text": "लहान", "is_correct": false },
+        { "option_id": 4, "text": "मिटलेला", "is_correct": false }
+      ],
+      "answer": "टवकारलेला"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वासराला भूक लागल्यावर त्याने काय खाल्ले?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "कोवळे गवत", "is_correct": true },
+        { "option_id": 3, "text": "धान्य", "is_correct": false },
+        { "option_id": 4, "text": "पाला", "is_correct": false }
+      ],
+      "answer": "कोवळे गवत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वासरू कोठून सुटले होते?",
+      "options": [
+        { "option_id": 1, "text": "खिडकीतून", "is_correct": false },
+        { "option_id": 2, "text": "दोरीतून/खिळ्यावरून", "is_correct": true },
+        { "option_id": 3, "text": "पिंजऱ्यातून", "is_correct": false },
+        { "option_id": 4, "text": "गाडीतून", "is_correct": false }
+      ],
+      "answer": "दोरीतून/खिळ्यावरून"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "वासराचा रंग कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढराशुभ्र", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "पांढराशुभ्र"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वासरू कोणाशी खेळत होते?",
+      "options": [
+        { "option_id": 1, "text": "वाऱ्याशी", "is_correct": true },
+        { "option_id": 2, "text": "मुलांशी", "is_correct": false },
+        { "option_id": 3, "text": "पक्ष्यांशी", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याशी", "is_correct": false }
+      ],
+      "answer": "वाऱ्याशी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वासराच्या गळ्यात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "माळ", "is_correct": false },
+        { "option_id": 2, "text": "घंटी", "is_correct": true },
+        { "option_id": 3, "text": "हार", "is_correct": false },
+        { "option_id": 4, "text": "दोरी", "is_correct": false }
+      ],
+      "answer": "घंटी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सायंकाळी वासरू कोठे परतले?",
+      "options": [
+        { "option_id": 1, "text": "जंगलात", "is_correct": false },
+        { "option_id": 2, "text": "गोठ्यात", "is_correct": true },
+        { "option_id": 3, "text": "बागेत", "is_correct": false },
+        { "option_id": 4, "text": "नदीवर", "is_correct": false }
+      ],
+      "answer": "गोठ्यात"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वासराला पाहून गाईला काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "राग आला", "is_correct": false },
+        { "option_id": 2, "text": "आनंद झाला", "is_correct": true },
+        { "option_id": 3, "text": "दुःख झाले", "is_correct": false },
+        { "option_id": 4, "text": "काहीच वाटले नाही", "is_correct": false }
+      ],
+      "answer": "आनंद झाला"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "वासराची शेपटी कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "लांब", "is_correct": false },
+        { "option_id": 2, "text": "वळणदार", "is_correct": true },
+        { "option_id": 3, "text": "तुकडी", "is_correct": false },
+        { "option_id": 4, "text": "नाहीच", "is_correct": false }
+      ],
+      "answer": "वळणदार"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वासरू कसे चालत होते?",
+      "options": [
+        { "option_id": 1, "text": "लंगडत", "is_correct": false },
+        { "option_id": 2, "text": "ठुमकत ठुमकत", "is_correct": true },
+        { "option_id": 3, "text": "रांगत", "is_correct": false },
+        { "option_id": 4, "text": "पळत", "is_correct": false }
+      ],
+      "answer": "ठुमकत ठुमकत"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वासराच्या कपाळावर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "टिळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढरा ठिपका/चांदणी", "is_correct": true },
+        { "option_id": 3, "text": "जखम", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "पांढरा ठिपका/चांदणी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "रानात वासरू कोणाचे गाणे ऐकत होते?",
+      "options": [
+        { "option_id": 1, "text": "कोकिळेचे", "is_correct": true },
+        { "option_id": 2, "text": "कावळ्याचे", "is_correct": false },
+        { "option_id": 3, "text": "चिमणीचे", "is_correct": false },
+        { "option_id": 4, "text": "पोपटाचे", "is_correct": false }
+      ],
+      "answer": "कोकिळेचे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वासरू कोणाला घाबरले?",
+      "options": [
+        { "option_id": 1, "text": "सावल्यांना", "is_correct": true },
+        { "option_id": 2, "text": "गवताला", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याला", "is_correct": false },
+        { "option_id": 4, "text": "फुलांना", "is_correct": false }
+      ],
+      "answer": "सावल्यांना"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वासराचे शरीर कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "कठोर", "is_correct": false },
+        { "option_id": 2, "text": "मऊशार", "is_correct": true },
+        { "option_id": 3, "text": "खडबडीत", "is_correct": false },
+        { "option_id": 4, "text": "अवजड", "is_correct": false }
+      ],
+      "answer": "मऊशार"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रानात वासराने काय पाहिले?",
+      "options": [
+        { "option_id": 1, "text": "झरा", "is_correct": true },
+        { "option_id": 2, "text": "समुद्र", "is_correct": false },
+        { "option_id": 3, "text": "विहीर", "is_correct": false },
+        { "option_id": 4, "text": "टाकी", "is_correct": false }
+      ],
+      "answer": "झरा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "वासराला कोणी हाक मारली?",
+      "options": [
+        { "option_id": 1, "text": "आईने (गाईने)", "is_correct": true },
+        { "option_id": 2, "text": "मित्राने", "is_correct": false },
+        { "option_id": 3, "text": "वाघाने", "is_correct": false },
+        { "option_id": 4, "text": "पाखराने", "is_correct": false }
+      ],
+      "answer": "आईने (गाईने)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वासरू रानातून कधी परतले?",
+      "options": [
+        { "option_id": 1, "text": "दुपारी", "is_correct": false },
+        { "option_id": 2, "text": "संध्याकाळी", "is_correct": true },
+        { "option_id": 3, "text": "सकाळी", "is_correct": false },
+        { "option_id": 4, "text": "मध्यरात्री", "is_correct": false }
+      ],
+      "answer": "संध्याकाळी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वासराचे कान कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "छोटे", "is_correct": false },
+        { "option_id": 2, "text": "चपळ", "is_correct": true },
+        { "option_id": 3, "text": "बधिर", "is_correct": false },
+        { "option_id": 4, "text": "जाड", "is_correct": false }
+      ],
+      "answer": "चपळ"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वासराला रानात कशाचा वास आला?",
+      "options": [
+        { "option_id": 1, "text": "फुलांचा", "is_correct": true },
+        { "option_id": 2, "text": "फळांचा", "is_correct": false },
+        { "option_id": 3, "text": " अन्नाचा", "is_correct": false },
+        { "option_id": 4, "text": "धुराचा", "is_correct": false }
+      ],
+      "answer": "फुलांचा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वासराचे खूर कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "काळे", "is_correct": true },
+        { "option_id": 2, "text": "पांढरे", "is_correct": false },
+        { "option_id": 3, "text": "मऊ", "is_correct": false },
+        { "option_id": 4, "text": "मोठे", "is_correct": false }
+      ],
+      "answer": "काळे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वासरू कोणत्या झाडाखाली थांबले?",
+      "options": [
+        { "option_id": 1, "text": "पिंपळ", "is_correct": false },
+        { "option_id": 2, "text": "वड", "is_correct": true },
+        { "option_id": 3, "text": "आंबा", "is_correct": false },
+        { "option_id": 4, "text": "नारळ", "is_correct": false }
+      ],
+      "answer": "वड"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वासराला तहान लागल्यावर त्याने काय पिले?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": false },
+        { "option_id": 2, "text": "झऱ्याचे पाणी", "is_correct": true },
+        { "option_id": 3, "text": "फळांचा रस", "is_correct": false },
+        { "option_id": 4, "text": "नदीचे पाणी", "is_correct": false }
+      ],
+      "answer": "झऱ्याचे पाणी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "वासराला रानात काय मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्य", "is_correct": true },
+        { "option_id": 2, "text": "धन", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "वासरू कशावर उड्या मारत होते?",
+      "options": [
+        { "option_id": 1, "text": "दगडांवर", "is_correct": false },
+        { "option_id": 2, "text": "गवतावर", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यावर", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "गवतावर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "वासराचे डोळे कशामुळे चमकले?",
+      "options": [
+        { "option_id": 1, "text": "अश्रूंनी", "is_correct": false },
+        { "option_id": 2, "text": "आनंदाने", "is_correct": true },
+        { "option_id": 3, "text": "भीतीने", "is_correct": false },
+        { "option_id": 4, "text": "लाईटने", "is_correct": false }
+      ],
+      "answer": "आनंदाने"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वासराची गळ्यातील घंटी कशी वाजत होती?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्याने", "is_correct": false },
+        { "option_id": 2, "text": "घणघण", "is_correct": true },
+        { "option_id": 3, "text": "हळू", "is_correct": false },
+        { "option_id": 4, "text": "टणटण", "is_correct": false }
+      ],
+      "answer": "घणघण"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "वासराला रानात कोण भेटले?",
+      "options": [
+        { "option_id": 1, "text": "ससा", "is_correct": true },
+        { "option_id": 2, "text": "सिंह", "is_correct": false },
+        { "option_id": 3, "text": "मानूस", "is_correct": false },
+        { "option_id": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "ससा"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "वासरू कोठे हरवले होते?",
+      "options": [
+        { "option_id": 1, "text": "गावात", "is_correct": false },
+        { "option_id": 2, "text": "रानात", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "मेळ्यात", "is_correct": false }
+      ],
+      "answer": "रानात"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "वासराचे थबकणे कशाचे लक्षण होते?",
+      "options": [
+        { "option_id": 1, "text": "थकव्याचे", "is_correct": false },
+        { "option_id": 2, "text": "भीतीचे/सावधगिरीचे", "is_correct": true },
+        { "option_id": 3, "text": "आनंदाचे", "is_correct": false },
+        { "option_id": 4, "text": "झोपेचे", "is_correct": false }
+      ],
+      "answer": "भीतीचे/सावधगिरीचे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "वासराला आईचे काय आठवले?",
+      "options": [
+        { "option_id": 1, "text": "रूप", "is_correct": false },
+        { "option_id": 2, "text": "दूध", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "दूध"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "वासराला रानात कशाची भीती वाटली?",
+      "options": [
+        { "option_id": 1, "text": "विजेची", "is_correct": false },
+        { "option_id": 2, "text": "अंधाराची", "is_correct": true },
+        { "option_id": 3, "text": "पावसाची", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्याची", "is_correct": false }
+      ],
+      "answer": "अंधाराची"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "वासरू घरी आल्यावर कुठे गेले?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "गोठ्यात", "is_correct": true },
+        { "option_id": 3, "text": "माडीवर", "is_correct": false },
+        { "option_id": 4, "text": "विहिरीवर", "is_correct": false }
+      ],
+      "answer": "गोठ्यात"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "वासराने कोणाचे दूध पिले?",
+      "options": [
+        { "option_id": 1, "text": "मातेचे (गाईचे)", "is_correct": true },
+        { "option_id": 2, "text": "शेळीचे", "is_correct": false },
+        { "option_id": 3, "text": "म्हशीचे", "is_correct": false },
+        { "option_id": 4, "text": "बाटलीतले", "is_correct": false }
+      ],
+      "answer": "मातेचे (गाईचे)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "वासराचे हुंदडणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रडणे", "is_correct": false },
+        { "option_id": 2, "text": "उड्या मारणे/बागडणे", "is_correct": true },
+        { "option_id": 3, "text": "झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "चालणे", "is_correct": false }
+      ],
+      "answer": "उड्या मारणे/बागडणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "वासराच्या कपाळावरील चांदणी कोणत्या रंगाची होती?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "पांढरी", "is_correct": true },
+        { "option_id": 3, "text": "काळी", "is_correct": false },
+        { "option_id": 4, "text": "पिवळी", "is_correct": false }
+      ],
+      "answer": "पांढरी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "वासराने कोणाचे लक्ष चुकवले?",
+      "options": [
+        { "option_id": 1, "text": "गुराख्याचे", "is_correct": false },
+        { "option_id": 2, "text": "गाईचे", "is_correct": true },
+        { "option_id": 3, "text": "मालकाचे", "is_correct": false },
+        { "option_id": 4, "text": "कुत्र्याचे", "is_correct": false }
+      ],
+      "answer": "गाईचे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "वासराला रानात काय खायला आवडले?",
+      "options": [
+        { "option_id": 1, "text": "सुकलेले गवत", "is_correct": false },
+        { "option_id": 2, "text": "कोवळे लुसलुशीत गवत", "is_correct": true },
+        { "option_id": 3, "text": "कडबा", "is_correct": false },
+        { "option_id": 4, "text": "पिष्टमय पदार्थ", "is_correct": false }
+      ],
+      "answer": "कोवळे लुसलुशीत गवत"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "या कवितेतून/धड्यातून काय बोध मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "आईचे प्रेम श्रेष्ठ आहे", "is_correct": true },
+        { "option_id": 2, "text": "रानात फिरणे चांगले", "is_correct": false },
+        { "option_id": 3, "text": "अंधाराला घाबरू नये", "is_correct": false },
+        { "option_id": 4, "text": "खूप खावे", "is_correct": false }
+      ],
+      "answer": "आईचे प्रेम श्रेष्ठ आहे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वासरू कोणाचे लक्ष चुकवून रानात गेले?",
+      "answer": "वासरू गाईचे लक्ष चुकवून रानात गेले."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रानात गेल्यावर वासरू कसे फिरू लागले?",
+      "answer": "रानात गेल्यावर वासरू धुंद होऊन चोहीकडे हुंदडू लागले."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वासराला कशाचा विसर पडला?",
+      "answer": "फिरता फिरता वासरू घरची वाट विसरले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अंधार पडल्यावर वासरू का घाबरले?",
+      "answer": "रानात सर्वत्र सावल्या पडल्या आणि घरची वाट सापडेना म्हणून वासरू घाबरले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वासराला शेवटी कोणाची आठवण झाली?",
+      "answer": "वासराला शेवटी आपल्या आईची (माऊलीची) आठवण झाली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वासराचे वर्णन कसे केले आहे?",
+      "answer": "वासरू पांढरे, मऊ शरीर असलेले आणि कपाळावर चांदणी असलेले असे सुंदर आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वासरू रानात काय शोधत होते?",
+      "answer": "वासरू रानात कोवळे आणि लुसलुशीत गवत शोधत होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वासराच्या गळ्यातील घंटीचा आवाज कसा येत होता?",
+      "answer": "वासराच्या गळ्यातील घंटीचा आवाज घणघण असा येत होता."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "गाईने वासराला कशी हाक मारली?",
+      "answer": "गाईने मोठ्याने हंबरून वासराला हाक मारली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वासरू घरी आल्यावर काय झाले?",
+      "answer": "वासरू घरी आल्यावर गाईने त्याला प्रेमाने चाटले आणि वासराने दूध पिले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वासराला रानात कोणत्या गोष्टींचे नवल वाटले?",
+      "answer": "वासराला रानातील फुलपाखरे, वाहता झरा आणि हिरवे गवत पाहून नवल वाटले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वासराचे पाय कसे होते?",
+      "answer": "वासराचे पाय अतिशय नाजूक आणि चपळ होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वासराच्या डोळ्यांची वैशिष्ट्ये सांगा.",
+      "answer": "वासराचे डोळे काळेभोर आणि चमकदार होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रानात वासरू कोणामागे धावत होते?",
+      "answer": "रानात वासरू रंगीबेरंगी फुलपाखरांच्या मागे धावत होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वासराला भूक लागल्यावर त्याने काय केले?",
+      "answer": "वासराला भूक लागल्यावर त्याने जमिनीवरील कोवळे गवत खाल्ले."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वासराला आईची आठवण कधी आली?",
+      "answer": "जेव्हा सूर्यास्त झाला आणि रानात अंधार पडू लागला, तेव्हा वासराला आईची आठवण आली."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वासरू कोठून सुटले होते?",
+      "answer": "वासरू गोठ्यातील खिळ्याला बांधलेल्या दोरीतून स्वतःला सोडवून सुटले होते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रानात वासरू कशाशी खेळत होते?",
+      "answer": "वासरू वाहणाऱ्या वाऱ्याशी आणि पानांच्या सळसळीशी खेळत होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "वासराचे शेपूट कसे होते?",
+      "answer": "वासराचे शेपूट वळणदार आणि लहानसे होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वासराला तहान लागल्यावर त्याने कोठे पाणी पिले?",
+      "answer": "वासराने रानात वाहणाऱ्या स्वच्छ झऱ्याचे पाणी पिले."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अंधारात वासराला काय भास झाला?",
+      "answer": "अंधारात झाडांच्या सावल्या पाहून वासराला कोणाचे तरी भय वाटू लागले."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वासराचे हंबरणे ऐकून गाईने काय केले?",
+      "answer": "वासराचे हंबरणे ऐकून गाईनेही प्रतिसादात मोठे हंबरणे दिले जेणेकरून वासराला दिशा समजेल."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वासराला घरची वाट का सापडत नव्हती?",
+      "answer": "वासरू खूप दूर निघून आले होते आणि सर्वत्र सारखीच झाडे दिसत असल्याने त्याला वाट सापडत नव्हती."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वासराच्या अंगावर हात फिरवल्यावर त्याला कसे वाटले?",
+      "answer": "घरी आल्यावर मालकाने आणि गाईने मायने जवळ घेतल्यावर वासराला सुरक्षित वाटले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "वासरू रानात जाताना कोणाला दिसले का?",
+      "answer": "नाही, वासरू गाईचे आणि गुराख्याचे लक्ष चुकवून चोरून रानात गेले."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वासराच्या वागण्यातील बदल सांगा.",
+      "answer": "सुरुवातीला आनंदी आणि हुंदडणारे वासरू शेवटी घाबरलेले आणि थकलेले दिसले."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वासराचा रंग कसा होता?",
+      "answer": "वासराचा रंग पांढराशुभ्र होता."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वासराने रानात कोणकोणते प्राणी पाहिले असावेत?",
+      "answer": "वासराने रानात ससा, पाखरे आणि इतर छोटे प्राणी पाहिले असावेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वासराचे कान टवकारणे काय दर्शवते?",
+      "answer": "वासराचे कान टवकारणे त्याची उत्सुकता आणि सावधगिरी दर्शवते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वासराला पुन्हा आईकडे गेल्यावर काय वाटले?",
+      "answer": "वासराला पुन्हा आईकडे गेल्यावर अत्यंत समाधान आणि आनंद वाटला."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वासराचे खूर कशा रंगाचे होते?",
+      "answer": "वासराचे खूर गडद काळ्या रंगाचे होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वासराचे शरीर मऊ का होते?",
+      "answer": "वासरू लहान असल्याने त्याच्या अंगावर कोवळे आणि मऊ केस होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "रानात वासरू कोणाशी शर्यत लावत होते?",
+      "answer": "वासरू धावताना आपल्याच सावलीशी किंवा वाऱ्याशी शर्यत लावत होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वासराला रानातून बाहेर कोण काढले?",
+      "answer": "गाईच्या हंबरण्याचा आवाज ऐकून वासरू स्वतःच त्या दिशेने बाहेर पडले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "वासराला घरची आठवण कधी झाली?",
+      "answer": "जेव्हा रानात पाखरे आपल्या घरट्याकडे परतू लागली, तेव्हा वासराला घरची आठवण झाली."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "वासराच्या कपाळावरील चांदणीचे महत्त्व काय?",
+      "answer": "ती चांदणी वासराचे सौंदर्य वाढवत होती आणि त्याला इतरांपेक्षा वेगळे ओळखता येत होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "वासराला कोठल्या वासाने आईची ओळख पटली?",
+      "answer": "गाईच्या शरीराच्या विशिष्ट वासाने वासराला आपली आई जवळ असल्याचे समजले."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "वासराच्या हुंदडण्याला काय म्हटले आहे?",
+      "answer": "वासराच्या हुंदडण्याला 'बागडणे' किंवा 'स्वैर फिरणे' म्हटले आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रानात वासरू कोठे थकले?",
+      "answer": "रानात फिरून फिरून वासरू एका मोठ्या झाडाखाली थकले."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "वासराचे डोळे कशामुळे ओलावले?",
+      "answer": "आईची आठवण आणि भीतीमुळे वासराचे डोळे ओलावले."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "वासराने घरची वाट कशी शोधली?",
+      "answer": "गाईच्या आवाजाचा मागोवा घेत वासराने घरची वाट शोधली."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "वासराच्या गळ्यातील घंटी का वाजली?",
+      "answer": "वासरू उड्या मारत आणि धावत असल्याने त्याच्या गळ्यातील घंटी वाजली."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "रानात वासरू कोणत्या झाडावर पक्षी पाहत होते?",
+      "answer": "वासरू रानात मोठ्या वड आणि पिंपळाच्या झाडावर पक्षी पाहत होते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "वासराला घरी परतण्याची ओढ का लागली?",
+      "answer": "अंधार, भीती आणि आईची भूक यामुळे वासराला घरी परतण्याची ओढ लागली."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "वासराचे धावणे कसे होते?",
+      "answer": "वासराचे धावणे वेडेवाकडे आणि आनंदाने भरलेले होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "वासराला रानात काय खायला मिळाले नाही?",
+      "answer": "वासराला रानात आईचे दूध आणि गोठ्यातील सुरक्षितता मिळाली नाही."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "वासराचे पाय का थरथरू लागले?",
+      "answer": "रात्रीचा अंधार आणि अनोळखी आवाज ऐकून वासराचे पाय भीतीमुळे थरथरू लागले."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वासराला आईने कसे जवळ घेतले?",
+      "answer": "गाईने वासराला प्रेमाने चाटून आणि जवळ घेऊन मायेने जवळ घेतले."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "वासराला कोणत्या गोष्टीचा आनंद झाला?",
+      "answer": "सुरुवातीला रानात स्वैर फिरण्याचा आणि शेवटी आईला भेटण्याचा वासराला आनंद झाला."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "वासरू आता पुन्हा एकटे रानात जाईल का?",
+      "answer": "नाही, रानातील भीतीदायक अनुभवामुळे वासरू आता पुन्हा आईला सोडून एकटे रानात जाणार नाही."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "वासराच्या कपाळावरील चांदणीचा आकार कसा होता?",
+      "answer": "वासराच्या कपाळावरील चांदणीचा आकार लहान पण सुबक होता."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "वासराला रानात कोणाचे गाणे ऐकू आले?",
+      "answer": "वासराला रानात कोकिळेचे गाणे ऐकू आले."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "वासराचा स्वभाव कसा वाटतो?",
+      "answer": "वासरू खोडकर, जिज्ञासू आणि आईवर प्रेम करणारे वाटते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "रानातून परतताना वासरू कसे चालले?",
+      "answer": "रानातून परतताना वासरू घाईघाईने धावत आपल्या घरच्या दिशेने चालले."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "वासराच्या अंगावर ठिपके होते का?",
+      "answer": "नाही, वासरू पांढरे शुभ्र होते आणि फक्त कपाळावर एक चांदणी होती."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "वासराच्या शेपट्याचा वापर तो कशासाठी करत होता?",
+      "answer": "वासरू आनंदाने शेपूट हलवत आणि अंगावरील माश्या उडवण्यासाठी त्याचा वापर करत होता."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "वासराला रानात कोणी त्रास दिला का?",
+      "answer": "नाही, वासराला रानात कोणी त्रास दिला नाही, पण तो स्वतःच्या भीतीमुळे घाबरला होता."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "वासराला हिरव्या गवताची चव कशी वाटली?",
+      "answer": "वासराला हिरव्या गवताची चव गोड आणि लुसलुशीत वाटली."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "वासराचा कान कशाने हालला?",
+      "answer": "वाऱ्याच्या झुळुकीमुळे किंवा आवाजाच्या दिशेने वासराचा कान हालला."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "वासराच्या या प्रवासाला काय म्हणता येईल?",
+      "answer": "वासराच्या या प्रवासाला एक छोटा पण शिकवणारा 'अनुभव' म्हणता येईल."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "वासराने कोणाचे आभार मानले असतील?",
+      "answer": "वासराने आपल्या आईचे आभार मानले असतील जिने त्याला आवाज देऊन वाट दाखवली."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "वासराला घराची किंमत कधी कळाली?",
+      "answer": "जेव्हा वासरू रानात हरवले आणि त्याला एकटेपणाची भीती वाटली, तेव्हा त्याला घराची किंमत कळाली."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "वासराला पाहून शेतकरी काय म्हणाला?",
+      "answer": "वासराला पाहून शेतकरी म्हणाला की हे वासरू खूपच खोडकर आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "वासराची त्वचा कशी होती?",
+      "answer": "वासराची त्वचा मऊ आणि नितळ होती."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "वासराला सर्वात जास्त सुरक्षित कोठे वाटते?",
+      "answer": "वासराला सर्वात जास्त सुरक्षित आपल्या आईच्या जवळ गोठ्यात वाटते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "वासराच्या उड्यांना काय म्हणतात?",
+      "answer": "वासराच्या आनंदातील उड्यांना 'खिल्लारे' किंवा 'बकाण्या मारणे' म्हणतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "वासराला रानात कोणते फूल आवडले असावे?",
+      "answer": "वासराला रानातील सुवासिक रानफुले आवडली असावीत."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "वासराला कोणाची सावली मिळाली?",
+      "answer": "वासराला रानात मोठ्या वृक्षांची सावली मिळाली."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "वासराचा दिवस कसा गेला?",
+      "answer": "वासराचा दिवस धावपळीचा, आनंदाचा आणि शेवटी थोडा भीतीचा गेला."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "वासराने या धड्यातून काय शिकले?",
+      "answer": "आईची साथ सोडणे संकटाचे ठरू शकते, हे वासरू शिकले."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "वासराला रानात कशाचा आवाज आला?",
+      "answer": "वासराला रानात पानांची सळसळ आणि पक्ष्यांचा किलबिलाट ऐकू आला."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "वासराचे धावणे थांबले का?",
+      "answer": "हो, जेव्हा वासरू थकले आणि अंधार पडला तेव्हा त्याचे धावणे थांबले."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "वासराच्या डोळ्यांत चमक का होती?",
+      "answer": "त्याच्या डोळ्यांत बालसुलभ कुतूहल असल्याने एक प्रकारची चमक होती."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "वासराने आईला कसे ओळखले?",
+      "answer": "वासराने आईला तिच्या हंबरण्यावरून आणि वासावरून ओळखले."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "वासराला रानात झोप लागली का?",
+      "answer": "नाही, भीतीमुळे वासरू रानात झोपू शकले नाही."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "वासराला रानात किती वेळ लागला?",
+      "answer": "वासराला रानात पूर्ण दुपार ते संध्याकाळपर्यंतचा वेळ लागला."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "वासराच्या नाकाची हालचाल काय दर्शवत होती?",
+      "answer": "वासराच्या नाकाची हालचाल तो रानातील नवीन गंध घेत असल्याचे दर्शवत होती."
+    },
+    {
+      "soft_limit_reached": "Yes",
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "वासराला शेवटी काय मिळाले?",
+      "answer": "वासराला शेवटी आईचे प्रेम आणि घरची सुरक्षितता मिळाली."
+    }
+  ]
+}

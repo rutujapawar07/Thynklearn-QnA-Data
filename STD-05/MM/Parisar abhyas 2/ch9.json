@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 9,
+  "chapter_name": "स्थिर जीवन आणि नागरी संस्कृती",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मानवाने सर्वात प्रथम वापरलेला धातू कोणता?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "सोने", "is_correct": false },
+        { "option_id": 3, "text": "तांबे", "is_correct": true },
+        { "option_id": 4, "text": "चांदी", "is_correct": false }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चाकाच्या वापरामुळे कोणत्या व्यवसायाला मोठी गती मिळाली?",
+      "options": [
+        { "option_id": 1, "text": "शेती", "is_correct": false },
+        { "option_id": 2, "text": "कुंभारकाम", "is_correct": true },
+        { "option_id": 3, "text": "शिकार", "is_correct": false },
+        { "option_id": 4, "text": "पशुपालन", "is_correct": false }
+      ],
+      "answer": "कुंभारकाम"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नदीकाठच्या संस्कृतींना काय म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "नागरी संस्कृती", "is_correct": true },
+        { "option_id": 2, "text": "ग्रामीण संस्कृती", "is_correct": false },
+        { "option_id": 3, "text": "भटकी संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "डोंगरी संस्कृती", "is_correct": false }
+      ],
+      "answer": "नागरी संस्कृती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मेसोपोटेमिया म्हणजे कोणत्या दोन नद्यांमधील प्रदेश?",
+      "options": [
+        { "option_id": 1, "text": "गंगा आणि यमुना", "is_correct": false },
+        { "option_id": 2, "text": "टायग्रिस आणि युफ्रेटिस", "is_correct": true },
+        { "option_id": 3, "text": "सिंधू आणि रावी", "is_correct": false },
+        { "option_id": 4, "text": "नाईल आणि अ‍ॅमेझॉन", "is_correct": false }
+      ],
+      "answer": "टायग्रिस आणि युफ्रेटिस"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "इजिप्तची संस्कृती कोणत्या नदीच्या खोऱ्यात विकसित झाली?",
+      "options": [
+        { "option_id": 1, "text": "सिंधू", "is_correct": false },
+        { "option_id": 2, "text": "नाईल", "is_correct": true },
+        { "option_id": 3, "text": "होअँग्हो", "is_correct": false },
+        { "option_id": 4, "text": "युफ्रेटिस", "is_correct": false }
+      ],
+      "answer": "नाईल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चाकाचा उपयोग सर्वात आधी कशासाठी केला असावा?",
+      "options": [
+        { "option_id": 1, "text": "गाडी ओढण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाणी काढण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "मातीची भांडी बनवण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "दळणवळणासाठी", "is_correct": false }
+      ],
+      "answer": "मातीची भांडी बनवण्यासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चिनी संस्कृती कोणत्या नदीच्या खोऱ्यात विकसित झाली?",
+      "options": [
+        { "option_id": 1, "text": "नाईल", "is_correct": false },
+        { "option_id": 2, "text": "सिंधू", "is_correct": false },
+        { "option_id": 3, "text": "होअँग्हो", "is_correct": true },
+        { "option_id": 4, "text": "टायग्रिस", "is_correct": false }
+      ],
+      "answer": "होअँग्हो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारतातील प्राचीन संस्कृतीला कोणत्या नावाने ओळखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "इजिप्शियन संस्कृती", "is_correct": false },
+        { "option_id": 2, "text": "हडप्पा संस्कृती", "is_correct": true },
+        { "option_id": 3, "text": "मेसोपोटेमिया संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "ग्रीक संस्कृती", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील लोकांनी कोणत्या धातूचा वापर मोठ्या प्रमाणावर केला?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "कासे", "is_correct": true },
+        { "option_id": 3, "text": "अ‍ॅल्युमिनियम", "is_correct": false },
+        { "option_id": 4, "text": "पितळ", "is_correct": false }
+      ],
+      "answer": "कासे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "उत्पादनातील वाढीमुळे कोणत्या क्षेत्राची भरभराट झाली?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार", "is_correct": true },
+        { "option_id": 2, "text": "शिकार", "is_correct": false },
+        { "option_id": 3, "text": "भटके जीवन", "is_correct": false },
+        { "option_id": 4, "text": "युद्ध", "is_correct": false }
+      ],
+      "answer": "व्यापार"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "बहुतेक नागरी संस्कृतींचा उगम कोठे झाला?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "डोंगराळ प्रदेशात", "is_correct": false },
+        { "option_id": 3, "text": "नद्यांच्या सुपीक खोऱ्यात", "is_correct": true },
+        { "option_id": 4, "text": "समुद्रकिनारी", "is_correct": false }
+      ],
+      "answer": "नद्यांच्या सुपीक खोऱ्यात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "इजिप्तमध्ये नाईल नदीला दरवर्षी काय येते?",
+      "options": [
+        { "option_id": 1, "text": "दुष्काळ", "is_correct": false },
+        { "option_id": 2, "text": "पूर", "is_correct": true },
+        { "option_id": 3, "text": "वावटळ", "is_correct": false },
+        { "option_id": 4, "text": "भूकंप", "is_correct": false }
+      ],
+      "answer": "पूर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सिंधू संस्कृतीचे दुसरे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "हडप्पा संस्कृती", "is_correct": true },
+        { "option_id": 2, "text": "गंगा संस्कृती", "is_correct": false },
+        { "option_id": 3, "text": "आर्य संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "मौर्य संस्कृती", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील रस्ते कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "वाकडे तिकडे", "is_correct": false },
+        { "option_id": 2, "text": "अरुंद", "is_correct": false },
+        { "option_id": 3, "text": "एकमेकांना काटकोनात छेदणारे", "is_correct": true },
+        { "option_id": 4, "text": "कच्चे", "is_correct": false }
+      ],
+      "answer": "एकमेकांना काटकोनात छेदणारे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "व्यापारातील नोंदी ठेवण्यासाठी मानवाने कशाचा वापर सुरू केला?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शब्दांचा", "is_correct": false },
+        { "option_id": 2, "text": "सांकेतिक चिन्हांचा आणि लिपीचा", "is_correct": true },
+        { "option_id": 3, "text": "दगडांचा", "is_correct": false },
+        { "option_id": 4, "text": "रंगांचा", "is_correct": false }
+      ],
+      "answer": "सांकेतिक चिन्हांचा आणि लिपीचा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मेसोपोटेमिया म्हणजे कोणत्या दोन नद्यांमधील प्रदेश?",
+      "options": [
+        { "option_id": 1, "text": "गंगा व यमुना", "is_correct": false },
+        { "option_id": 2, "text": "टायग्रिस व युफ्रेटिस", "is_correct": true },
+        { "option_id": 3, "text": "नाईल व काँगो", "is_correct": false },
+        { "option_id": 4, "text": "सिंधू व झेलम", "is_correct": false }
+      ],
+      "answer": "टायग्रिस व युफ्रेटिस"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "होअँग्हो नदी कोणत्या देशात वाहते?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "चीन", "is_correct": true },
+        { "option_id": 3, "text": "इजिप्त", "is_correct": false },
+        { "option_id": 4, "text": "इराक", "is_correct": false }
+      ],
+      "answer": "चीन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील भांडी प्रामुख्याने कोणत्या रंगाची होती?",
+      "options": [
+        { "option_id": 1, "text": "पांढरी", "is_correct": false },
+        { "option_id": 2, "text": "लाल आणि काळ्या नक्षीची", "is_correct": true },
+        { "option_id": 3, "text": "निळी", "is_correct": false },
+        { "option_id": 4, "text": "पिवळी", "is_correct": false }
+      ],
+      "answer": "लाल आणि काळ्या नक्षीची"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणात शेती उत्पादनामुळे कोणते लोक शेती सोडून इतर व्यवसाय करू लागले?",
+      "options": [
+        { "option_id": 1, "text": "कुशल कारागीर", "is_correct": true },
+        { "option_id": 2, "text": "शिकारी", "is_correct": false },
+        { "option_id": 3, "text": "भटके लोक", "is_correct": false },
+        { "option_id": 4, "text": "राखे", "is_correct": false }
+      ],
+      "answer": "कुशल कारागीर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चाकाचा शोध लागल्यामुळे सर्वात मोठा बदल कशात झाला?",
+      "options": [
+        { "option_id": 1, "text": "कपडे विणण्यात", "is_correct": false },
+        { "option_id": 2, "text": "दळणवळण आणि वाहतुकीत", "is_correct": true },
+        { "option_id": 3, "text": "शिकार करण्यात", "is_correct": false },
+        { "option_id": 4, "text": "स्वयंपाकात", "is_correct": false }
+      ],
+      "answer": "दळणवळण आणि वाहतुकीत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "इजिप्शियन संस्कृतीत राजाला काय म्हटले जाई?",
+      "options": [
+        { "option_id": 1, "text": "बादशाह", "is_correct": false },
+        { "option_id": 2, "text": "फॅरो", "is_correct": true },
+        { "option_id": 3, "text": "सम्राट", "is_correct": false },
+        { "option_id": 4, "text": "महाराजा", "is_correct": false }
+      ],
+      "answer": "फॅरो"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील मुद्रा कशापासून बनवल्या जात असत?",
+      "options": [
+        { "option_id": 1, "text": "काचेपासून", "is_correct": false },
+        { "option_id": 2, "text": "स्टीएटाईट दगडापासून", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिकपासून", "is_correct": false },
+        { "option_id": 4, "text": "लोखंडापासून", "is_correct": false }
+      ],
+      "answer": "स्टीएटाईट दगडापासून"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "नगररचना हे कोणत्या संस्कृतीचे प्रमुख वैशिष्ट्य होते?",
+      "options": [
+        { "option_id": 1, "text": "पाषाण युगीन संस्कृती", "is_correct": false },
+        { "option_id": 2, "text": "हडप्पा संस्कृती", "is_correct": true },
+        { "option_id": 3, "text": "भटकी संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "आदिम संस्कृती", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृती"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "प्राचीन काळी व्यापारासाठी मालाची ने-आण प्रामुख्याने कशाद्वारे केली जाई?",
+      "options": [
+        { "option_id": 1, "text": "विमानाने", "is_correct": false },
+        { "option_id": 2, "text": "चाकाच्या गाड्या आणि जहाजांद्वारे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ घोड्यावरून", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वेने", "is_correct": false }
+      ],
+      "answer": "चाकाच्या गाड्या आणि जहाजांद्वारे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मानवाने तांब्यानंतर कोणत्या धातूचा शोध लावला?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "कासे", "is_correct": true },
+        { "option_id": 3, "text": "अ‍ॅल्युमिनियम", "is_correct": false },
+        { "option_id": 4, "text": "पितळ", "is_correct": false }
+      ],
+      "answer": "कासे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील सांडपाण्याची व्यवस्था कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "उघडी गटारे", "is_correct": false },
+        { "option_id": 2, "text": "भाजलेल्या विटांची झाकलेली गटारे", "is_correct": true },
+        { "option_id": 3, "text": "सांडपाण्याची व्यवस्था नव्हती", "is_correct": false },
+        { "option_id": 4, "text": "केवळ खड्डे होते", "is_correct": false }
+      ],
+      "answer": "भाजलेल्या विटांची झाकलेली गटारे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "उत्खननात मिळालेल्या कोणत्या वस्तूंवरून व्यापाराची माहिती मिळते?",
+      "options": [
+        { "option_id": 1, "text": "हाडे", "is_correct": false },
+        { "option_id": 2, "text": "मुद्रा आणि शिक्के", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "झाडांची साल", "is_correct": false }
+      ],
+      "answer": "मुद्रा आणि शिक्के"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लोएस (Loess) म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एक प्रकारचा धातू", "is_correct": false },
+        { "option_id": 2, "text": "वाऱ्याने वाहून आणलेली पिवळसर माती", "is_correct": true },
+        { "option_id": 3, "text": "एक प्राचीन शहर", "is_correct": false },
+        { "option_id": 4, "text": "एक प्राचीन राजा", "is_correct": false }
+      ],
+      "answer": "वाऱ्याने वाहून आणलेली पिवळसर माती"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील स्नानगृहे कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "साधी", "is_correct": false },
+        { "option_id": 2, "text": "प्रशस्त आणि सुनियोजित", "is_correct": true },
+        { "option_id": 3, "text": "घराबाहेर", "is_correct": false },
+        { "option_id": 4, "text": "नव्हती", "is_correct": false }
+      ],
+      "answer": "प्रशस्त आणि सुनियोजित"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "शेतीच्या अवजारांमध्ये कोणत्या धातूचा वापर क्रांती घडवून आणणारा ठरला?",
+      "options": [
+        { "option_id": 1, "text": "सोने", "is_correct": false },
+        { "option_id": 2, "text": "लोखंड", "is_correct": true },
+        { "option_id": 3, "text": "तांबे", "is_correct": false },
+        { "option_id": 4, "text": "कासे", "is_correct": false }
+      ],
+      "answer": "लोखंड"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "मेसोपोटेमियामध्ये कोणती प्राचीन शहरे होती?",
+      "options": [
+        { "option_id": 1, "text": "हडप्पा आणि मोहेंजोदारो", "is_correct": false },
+        { "option_id": 2, "text": "उर, उरूक आणि निप्पुर", "is_correct": true },
+        { "option_id": 3, "text": "अलेक्झांड्रिया", "is_correct": false },
+        { "option_id": 4, "text": "दिल्ली", "is_correct": false }
+      ],
+      "answer": "उर, उरूक आणि निप्पुर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "संस्कृतीच्या विकासात कोणाचे स्थान महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ निसर्गाचे", "is_correct": false },
+        { "option_id": 2, "text": "समाजाच्या सामूहिक प्रयत्नांचे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ प्राण्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "नशिबाचे", "is_correct": false }
+      ],
+      "answer": "समाजाच्या सामूहिक प्रयत्नांचे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "मानवाने स्थिर जीवन जगण्यास कधी सुरुवात केली?",
+      "options": [
+        { "option_id": 1, "text": "शिकार करताना", "is_correct": false },
+        { "option_id": 2, "text": "शेतीचा शोध लागल्यावर", "is_correct": true },
+        { "option_id": 3, "text": "भटकंती करताना", "is_correct": false },
+        { "option_id": 4, "text": "आधुनिक काळात", "is_correct": false }
+      ],
+      "answer": "शेतीचा शोध लागल्यावर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नदीकाठी सुपीक जमीन उपलब्ध असल्यामुळे मानवाने तेथे काय करण्यास पसंती दिली?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शिकार", "is_correct": false },
+        { "option_id": 2, "text": "वस्ती आणि शेती", "is_correct": true },
+        { "option_id": 3, "text": "पोहणे", "is_correct": false },
+        { "option_id": 4, "text": "झाडे लावणे", "is_correct": false }
+      ],
+      "answer": "वस्ती आणि शेती"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "लिपीचा विकास कशासाठी झाला?",
+      "options": [
+        { "option_id": 1, "text": "गाणी गाण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "व्यवहार आणि व्यापाराच्या नोंदींसाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नक्षी काढण्यासाठी", "is_correct": false }
+      ],
+      "answer": "व्यवहार आणि व्यापाराच्या नोंदींसाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील घरे कोणत्या प्रकारच्या विटांनी बांधलेली होती?",
+      "options": [
+        { "option_id": 1, "text": "कच्च्या विटांची", "is_correct": false },
+        { "option_id": 2, "text": "भाजलेल्या पक्क्या विटांची", "is_correct": true },
+        { "option_id": 3, "text": "दगडाची", "is_correct": false },
+        { "option_id": 4, "text": "मातीची", "is_correct": false }
+      ],
+      "answer": "भाजलेल्या पक्क्या विटांची"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "व्यापार वाढल्यामुळे गावाचे कशात रूपांतर झाले?",
+      "options": [
+        { "option_id": 1, "text": "जंगलात", "is_correct": false },
+        { "option_id": 2, "text": "नगरामध्ये", "is_correct": true },
+        { "option_id": 3, "text": "खेड्यामध्ये", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंटात", "is_correct": false }
+      ],
+      "answer": "नगरामध्ये"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "प्राचीन चीनमध्ये कोणत्या प्राण्यांपासून रेशीम मिळवले जाई?",
+      "options": [
+        { "option_id": 1, "text": "घोड्यांपासून", "is_correct": false },
+        { "option_id": 2, "text": "रेशीम कीड्यांपासून", "is_correct": true },
+        { "option_id": 3, "text": "मेंढ्यांपासून", "is_correct": false },
+        { "option_id": 4, "text": "गायींपासून", "is_correct": false }
+      ],
+      "answer": "रेशीम कीड्यांपासून"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "नागरी संस्कृतीचे उत्तम उदाहरण म्हणून कोणत्या संस्कृतीचे नाव घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पाषाण युगीन संस्कृती", "is_correct": false },
+        { "option_id": 2, "text": "हडप्पा संस्कृती", "is_correct": true },
+        { "option_id": 3, "text": "गुहा संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "भटकी संस्कृती", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृती"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मेसोपोटेमियामध्ये लेखनकला कशावर केली जात असे?",
+      "options": [
+        { "option_id": 1, "text": "कागदावर", "is_correct": false },
+        { "option_id": 2, "text": "ओल्या मातीच्या विटांवर", "is_correct": true },
+        { "option_id": 3, "text": "कापडावर", "is_correct": false },
+        { "option_id": 4, "text": "काचेवर", "is_correct": false }
+      ],
+      "answer": "ओल्या मातीच्या विटांवर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील मुद्रांवर प्रामुख्याने कोणाची चित्रे होती?",
+      "options": [
+        { "option_id": 1, "text": "विमानांची", "is_correct": false },
+        { "option_id": 2, "text": "विविध प्राण्यांची", "is_correct": true },
+        { "option_id": 3, "text": "फळांची", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तकांची", "is_correct": false }
+      ],
+      "answer": "विविध प्राण्यांची"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "लोथळ हे हडप्पा संस्कृतीतील कशासाठी प्रसिद्ध होते?",
+      "options": [
+        { "option_id": 1, "text": "शेतीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "गोदी (बंदर) साठी", "is_correct": true },
+        { "option_id": 3, "text": "मंदिरांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "विहिरींसाठी", "is_correct": false }
+      ],
+      "answer": "गोदी (बंदर) साठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "मानवाने प्रथम धातूचा वापर केल्यानंतर कोणते युग सुरू झाले?",
+      "options": [
+        { "option_id": 1, "text": "दगड युग", "is_correct": false },
+        { "option_id": 2, "text": "धातू युग", "is_correct": true },
+        { "option_id": 3, "text": "अवकाश युग", "is_correct": false },
+        { "option_id": 4, "text": "अणु युग", "is_correct": false }
+      ],
+      "answer": "धातू युग"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "सिंधू नदीचे खोरे सध्या कोणत्या दोन देशांमध्ये विभागलेले आहे?",
+      "options": [
+        { "option_id": 1, "text": "भारत आणि चीन", "is_correct": false },
+        { "option_id": 2, "text": "भारत आणि पाकिस्तान", "is_correct": true },
+        { "option_id": 3, "text": "भारत आणि नेपाळ", "is_correct": false },
+        { "option_id": 4, "text": "भारत आणि श्रीलंका", "is_correct": false }
+      ],
+      "answer": "भारत आणि पाकिस्तान"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "प्राचीन इजिप्तमध्ये मृतदेह टिकवण्यासाठी काय केले जात असे?",
+      "options": [
+        { "option_id": 1, "text": "पुरले जात असे", "is_correct": false },
+        { "option_id": 2, "text": "त्यांचे 'ममी' मध्ये रूपांतर केले जात असे", "is_correct": true },
+        { "option_id": 3, "text": "जाळले जात असे", "is_correct": false },
+        { "option_id": 4, "text": "फेकून दिले जात असे", "is_correct": false }
+      ],
+      "answer": "त्यांचे 'ममी' मध्ये रूपांतर केले जात असे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीचा व्यापार कोणत्या देशाशी चालत असे?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "मेसोपोटेमिया", "is_correct": true },
+        { "option_id": 3, "text": "जपान", "is_correct": false },
+        { "option_id": 4, "text": "ऑस्ट्रेलिया", "is_correct": false }
+      ],
+      "answer": "मेसोपोटेमिया"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "नागरी संस्कृतीतील लोकांचा मुख्य व्यवसाय काय होता?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शिकार", "is_correct": false },
+        { "option_id": 2, "text": "शेती आणि व्यापार", "is_correct": true },
+        { "option_id": 3, "text": "भटकंती", "is_correct": false },
+        { "option_id": 4, "text": "युद्ध", "is_correct": false }
+      ],
+      "answer": "शेती आणि व्यापार"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "प्राचीन संस्कृतींची नगरे प्रामुख्याने कोठे वसली होती?",
+      "options": [
+        { "option_id": 1, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 2, "text": "नदीकाठी", "is_correct": true },
+        { "option_id": 3, "text": "जंगलात", "is_correct": false },
+        { "option_id": 4, "text": "उंच पठारावर", "is_correct": false }
+      ],
+      "answer": "नदीकाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हडप्पा संस्कृतीतील सांडपाणी वाहून नेणारी गटारे कशाने झाकलेली असत?",
+      "options": [
+        { "option_id": 1, "text": "दगडाच्या पाट्या किंवा विटांनी", "is_correct": true },
+        { "option_id": 2, "text": "काचेने", "is_correct": false },
+        { "option_id": 3, "text": "लाकडाने", "is_correct": false },
+        { "option_id": 4, "text": "गवताने", "is_correct": false }
+      ],
+      "answer": "दगडाच्या पाट्या किंवा विटांनी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "व्यापार आणि दळणवळणामुळे कोणत्या संस्कृतीचा पाया मजबूत झाला?",
+      "options": [
+        { "option_id": 1, "text": "ग्रामीण", "is_correct": false },
+        { "option_id": 2, "text": "नागरी", "is_correct": true },
+        { "option_id": 3, "text": "भटकी", "is_correct": false },
+        { "option_id": 4, "text": "आदिम", "is_correct": false }
+      ],
+      "answer": "नागरी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीची नगरे कोणत्या देशात आहेत?",
+      "answer": "हडप्पा संस्कृतीची नगरे प्रामुख्याने भारत आणि पाकिस्तान या देशांत आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "लिपीचा वापर कशासाठी सुरू झाला?",
+      "answer": "व्यापारातील नोंदी ठेवण्यासाठी आणि वाढत्या व्यवहारांच्या सोयीसाठी चिन्हांचा व लिपीचा वापर सुरू झाला."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील घरांची रचना कशी होती?",
+      "answer": "हडप्पा संस्कृतीतील घरे भाजलेल्या विटांची, प्रशस्त आणि एकमेकांना काटकोनात छेदणाऱ्या रस्त्यांच्या कडेला होती."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "तांबे या धातूचा शोध मानवासाठी महत्त्वाचा का ठरला?",
+      "answer": "तांब्याचा शोध लागल्यानंतर मानवाला हत्यारे आणि अवजारे बनवण्यासाठी दगडामिवाय दुसरा पर्याय उपलब्ध झाला, ज्यामुळे प्रगतीला वेग आला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कुंभारकामात चाकाचा वापर केल्याने कोणता फायदा झाला?",
+      "answer": "चाकाच्या वापरामुळे मातीची भांडी अधिक वेगाने आणि सुबकपणे बनवणे शक्य झाले, ज्यामुळे भांड्यांचे उत्पादन मोठ्या प्रमाणात वाढले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नदीकाठच्या संस्कृतींना 'नागरी संस्कृती' का म्हणतात?",
+      "answer": "या संस्कृतींमध्ये नियोजनबद्ध नगरे, विकसित व्यापार आणि प्रगत जीवनशैली असल्यामुळे त्यांना नागरी संस्कृती म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमिया या शब्दाचा अर्थ काय?",
+      "answer": "मेसोपोटेमिया म्हणजे दोन नद्यांमधील प्रदेश किंवा 'दुवाब' होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नाईल नदीला इजिप्तची देणगी का म्हणतात?",
+      "answer": "नाईल नदीच्या पुरामुळे तिच्या खोऱ्यात सुपीक गाळ साचतो, ज्यामुळे इजिप्तमध्ये शेतीची भरभराट झाली, म्हणून तिला इजिप्तची देणगी म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "होअँग्हो नदीचे दुसरे नाव काय आहे?",
+      "answer": "होअँग्हो नदीला 'येलो रिव्हर' किंवा 'पिवळी नदी' असेही म्हणतात कारण ती पिवळसर माती वाहून आणते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नगररचनेचे मुख्य वैशिष्ट्य कोणते?",
+      "answer": "हडप्पा संस्कृतीतील रस्ते एकमेकांना काटकोनात छेदत असत आणि त्यामुळे तयार झालेल्या चौकोनी जागेत घरे बांधलेली असत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कासे हा धातू कसा तयार होतो?",
+      "answer": "तांबे आणि कथील या दोन धातूंच्या मिश्रणातून कासे हा धातू तयार होतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "व्यापार वाढल्यामुळे गावांचे नगरात रूपांतर कसे झाले?",
+      "answer": "शेती उत्पादनातील वाढ आणि कारागिरांची संख्या वाढल्यामुळे लोक एके ठिकाणी स्थिरावले, व्यवहार वाढले आणि गावांचा विस्तार होऊन नगरे तयार झाली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील मुद्रांचे महत्त्व काय?",
+      "answer": "व्यापारात मालाची ओळख पटवण्यासाठी आणि शिक्का मारण्यासाठी या मुद्रांचा वापर केला जात असे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "प्राचीन काळी दळणवळणासाठी कशाचा वापर केला जाई?",
+      "answer": "प्राचीन काळी दळणवळणासाठी बैलांनी ओढलेल्या चाकाच्या गाड्या आणि नद्यांमधून चालणाऱ्या जहाजांचा वापर केला जाई."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "इजिप्तमध्ये 'ममी' कशासाठी केल्या जात असत?",
+      "answer": "मृत राजांचे किंवा महत्त्वाच्या व्यक्तींचे मृतदेह दीर्घकाळ टिकावेत या धार्मिक श्रद्धेतून ते रसायने लावून जतन केले जात, ज्याला ममी म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "चीनमधील प्राचीन संस्कृती कोणत्या नद्यांच्या दरम्यान होती?",
+      "answer": "चीनमधील प्राचीन संस्कृती प्रामुख्याने होअँग्हो नदीच्या खोऱ्यात विकसित झाली होती."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक कोणत्या प्रकारचे कापड वापरत असत?",
+      "answer": "हडप्पा संस्कृतीतील लोक प्रामुख्याने सुती आणि लोकरीचे कापड वापरत असत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नगररचनेत आरोग्याची काळजी कशी घेतली जात असे?",
+      "answer": "प्रत्येक घराचे सांडपाणी वाहून नेण्यासाठी भाजलेल्या विटांची झाकलेली गटारे बांधून आरोग्याची काळजी घेतली जात असे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोकांनी कोणत्या प्राण्यांना पाळले होते?",
+      "answer": "त्यांनी गाय, बैल, म्हैस, कुत्रे आणि शेळ्या-मेंढ्या यांसारख्या प्राण्यांना पाळले होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "व्यापारातील नोंदींसाठी चिन्हांचा वापर का सुरू झाला?",
+      "answer": "व्यापाराचा विस्तार वाढल्यामुळे तोंडी हिशोब ठेवणे कठीण झाले, म्हणून अचूक नोंदींसाठी चिन्हांचा वापर सुरू झाला."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सिंधू संस्कृतीला हडप्पा संस्कृती का म्हणतात?",
+      "answer": "या संस्कृतीचे पहिले अवशेष हडप्पा येथे सापडले, म्हणून याला हडप्पा संस्कृती म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "चाकाच्या शोधामुळे वाहतुकीत काय बदल झाले?",
+      "answer": "चाकाच्या शोधामुळे अवजड मालाची वाहतूक करणे सोपे झाले आणि कमी वेळात लांबचा प्रवास करणे शक्य झाले."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "इजिप्तमधील पिरॅमिड्स कशाचे प्रतीक आहेत?",
+      "answer": "पिरॅमिड्स हे इजिप्तमधील भव्य स्थापत्यकलेचे आणि तेथील राजांच्या सत्तेचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "धातू युगाची सुरुवात कोणत्या धातूपासून झाली?",
+      "answer": "धातू युगाची सुरुवात तांबे या धातूच्या वापराने झाली."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक कोणत्या देवांची पूजा करत असावेत?",
+      "answer": "उत्खननात मिळालेल्या मुद्रांवरून ते पशुपती आणि निसर्गातील विविध शक्तींची पूजा करत असावेत असे दिसते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नदीकाठची जमीन सुपीक का असते?",
+      "answer": "नदीला दरवर्षी येणाऱ्या पुरामुळे नवीन गाळ साचतो, त्यामुळे नदीकाठची जमीन अतिशय सुपीक असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कुशल कारागीर कोणाला म्हणतात?",
+      "answer": "विशिष्ट कामात (उदा. भांडी बनवणे, दागिने घडवणे) निपुण असलेल्या आणि व्यावसायिक कौशल्य असलेल्या व्यक्तीला कुशल कारागीर म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील बाजारपेठा कोठे असत?",
+      "answer": "बाजारपेठा सहसा नगराच्या मध्यभागी किंवा व्यापारी केंद्रांच्या ठिकाणी असत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सिंधू संस्कृतीच्या हासाची कारणे कोणती असावीत?",
+      "answer": "नद्यांना आलेले मोठे पूर, हवामानातील बदल किंवा परकीय आक्रमणे ही हडप्पा संस्कृतीच्या हासाची कारणे असावीत."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "लोथळ येथील गोदीचा वापर कशासाठी केला जाई?",
+      "answer": "समुद्रामार्गे होणाऱ्या व्यापारासाठी जहाजे थांबवण्यासाठी आणि मालाची चढ-उतार करण्यासाठी गोदीचा वापर केला जाई."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमिया संस्कृतीतील लिपीला काय म्हणतात?",
+      "answer": "मेसोपोटेमियातील लिपीला 'क्युनिफॉर्म' किंवा पाचरुपी लिपी असे म्हटले जाते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील खेळण्यांची दोन उदाहरणे द्या.",
+      "answer": "मातीची खुळखुळी आणि चाकाची बैलगाडी ही हडप्पा संस्कृतीतील खेळण्यांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नदीकाठच्या संस्कृतींमध्ये शेतीसाठी पाण्याचा उपसा कसा केला जाई?",
+      "answer": "नद्यांमधून कालवे काढून किंवा साध्या जलसिंचन पद्धतीचा वापर करून शेतीला पाणी दिले जाई."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोकांनी कोणते धान्य पिकवले होते?",
+      "answer": "त्यांनी गहू, बार्ली, तीळ आणि वाटाणा यांसारखी धान्ये पिकवली होती."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "प्राचीन संस्कृतींमध्ये व्यापाराचे साधन म्हणून काय वापरले जाई?",
+      "answer": "सुरुवातीला वस्तूविनिमय पद्धत (एक वस्तू देऊन दुसरी घेणे) वापरली जाई."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नगराचे दोन भाग कोणते असत?",
+      "answer": "नगराचे सहसा 'किल्ला' (वरचे नगर) आणि 'निचले नगर' असे दोन भाग असत."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चिनी संस्कृतीमध्ये कशाचा शोध लागला होता?",
+      "answer": "चिनी संस्कृतीमध्ये कागद, होकायंत्र आणि दारूगोळा यांसारख्या महत्त्वाच्या गोष्टींचे शोध लागले होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोकांनी दागिन्यांसाठी काय वापरले होते?",
+      "answer": "त्यांनी सोने, तांबे आणि विविध मौल्यवान खड्यांचा वापर दागिन्यांसाठी केला होता."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "नागरी संस्कृतीत समाजरचना कशी होती?",
+      "answer": "नागरी संस्कृतीत कामधंद्यांनुसार विविध गट पडलेले होते आणि एक संघटित समाजरचना होती."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील विटांचे प्रमाण काय होते?",
+      "answer": "हडप्पा संस्कृतीतील विटांची लांबी, रुंदी आणि जाडी यांचे प्रमाण सहसा ४:२:१ असे असायचे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियामध्ये कोणती पिके घेतली जात असत?",
+      "answer": "मेसोपोटेमियामध्ये प्रामुख्याने गहू आणि बार्ली ही पिके घेतली जात असत."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोकांचे मुख्य अन्न काय होते?",
+      "answer": "गहू आणि बार्ली हे हडप्पा संस्कृतीतील लोकांचे मुख्य अन्न होते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "स्थापत्यकला म्हणजे काय?",
+      "answer": "नियोजनबद्ध इमारती, रस्ते आणि इतर बांधकामे करण्याच्या कलेला स्थापत्यकला म्हणतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील विहिरी कशा बांधल्या होत्या?",
+      "answer": "विहिरी भाजलेल्या विटांनी बांधलेल्या आणि त्यातून सांडपाणी बाहेर जाण्याची सोय केलेली होती."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "इजिप्तमधील लिपीला काय म्हणतात?",
+      "answer": "इजिप्तमधील चित्रलिपीला 'हायरोग्लिफिक्स' असे म्हणतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "धातूंच्या शोधामुळे युद्धाच्या तंत्रात काय बदल झाला?",
+      "answer": "धातूंच्या शोधामुळे अधिक धारदार आणि मजबूत शस्त्रे तयार झाली, ज्यामुळे युद्धाचे स्वरूप बदलले."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नगरांची सुरक्षा कशी केली जाई?",
+      "answer": "नगराभोवती तटबंदी बांधून शत्रू आणि पुरापासून संरक्षण केले जाई."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "प्राचीन संस्कृतींचे जतन करणे का आवश्यक आहे?",
+      "answer": "आपला इतिहास आणि पूर्वजांची प्रगती समजण्यासाठी प्राचीन संस्कृतींचे जतन करणे आवश्यक आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नापिकीची कारणे कोणती असावीत?",
+      "answer": "नद्यांचे मार्ग बदलणे किंवा प्रदीर्घ दुष्काळ ही नापिकीची कारणे असू शकतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "लिपीच्या विकासामुळे मानवाचे ज्ञान कसे जपले गेले?",
+      "answer": "लिपीमुळे अनुभव आणि माहिती लिहून ठेवता आली, ज्यामुळे ज्ञान एका पिढीकडून दुसऱ्या पिढीकडे हस्तांतरित झाले."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "तांब्याची भांडी वापरण्याचे फायदे काय होते?",
+      "answer": "ती मजबूत होती आणि फुटण्याची भीती कमी होती."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील विटांची पद्धत कोणती होती?",
+      "answer": "त्यांनी सहसा 'इंग्लिश बॉन्ड' सारखी मजबुती देणारी विटांची मांडणी वापरली होती."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "इजिप्तमध्ये नाईल नदीच्या काठी कोणत्या वनस्पतीचा वापर कागदासाठी केला जाई?",
+      "answer": "पपायरस नावाच्या वनस्पतीच्या गाभ्यापासून कागद तयार केला जाई."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील तोलमापाची साधने कोणती होती?",
+      "answer": "त्यांनी दगडाची तयार केलेली वजने आणि मोजमापासाठी काठ्या वापरल्या होत्या."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "सांस्कृतिक वारसा म्हणजे काय?",
+      "answer": "आपल्या पूर्वजांनी दिलेली कला, वास्तू आणि जीवन जगण्याची पद्धत म्हणजे सांस्कृतिक वारसा होय."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नगरांमध्ये धान्याचे कोठार कोठे असे?",
+      "answer": "धान्याचे कोठार सहसा किल्ल्याच्या भागात किंवा सुरक्षित ठिकाणी बांधलेले असे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "होअँग्हो नदीला 'चीनचे दुःख' का म्हणतात?",
+      "answer": "कारण या नदीला येणाऱ्या विनाशकारी पुरामुळे दरवर्षी मोठ्या प्रमाणावर जीवित व वित्तहानी होत असे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक करमणुकीसाठी काय करत?",
+      "answer": "ते फाशांचा खेळ, नाच आणि गायन यांद्वारे आपली करमणूक करत असत."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कासे या धातूचा वापर कशासाठी केला जाई?",
+      "answer": "काशाचा वापर मूर्ती बनवण्यासाठी आणि अधिक मजबूत शस्त्रे तयार करण्यासाठी केला जाई."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "नगरांच्या विकासामुळे कोणती नवी व्यवस्था अस्तित्वात आली?",
+      "answer": "नगरांच्या विकासामुळे प्रशासन आणि शासन व्यवस्था अस्तित्वात आली."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील भांडी कशावर बनवली जात?",
+      "answer": "ती चाकावर बनवली जात आणि नंतर आगीत भाजली जात असत."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "लिपीसाठी सुरुवातीला कशाचा आधार घेतला गेला?",
+      "answer": "सुरुवातीला वस्तूंच्या चित्रांचा आणि विशिष्ट खुणांचा आधार घेतला गेला."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील घरांची दारे रस्त्याच्या बाजूला का नसत?",
+      "answer": "धूळ आणि आवाजापासून संरक्षण मिळवण्यासाठी घरांची दारे मुख्य रस्त्याऐवजी बोळांच्या बाजूला असत."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "प्राचीन इजिप्तमधील मुख्य मंदिर कोणते होते?",
+      "answer": "कर्नाक येथील मंदिर हे इजिप्तमधील एक अतिशय मोठे आणि प्रसिद्ध मंदिर आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "व्यापारासाठी जहाजे कोणत्या नद्यांमधून जात असत?",
+      "answer": "जहाजे प्रामुख्याने सिंधू, नाईल, टायग्रिस आणि युफ्रेटिस या नद्यांमधून प्रवास करत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक कोणत्या देवांना मानत असावेत?",
+      "answer": "ते मातृदेवता आणि निसर्गातील विविध शक्तींची पूजा करत असत."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "नागरी संस्कृतीचा उदय होण्यासाठी शेतीचा काय संबंध आहे?",
+      "answer": "शेतीमुळे अन्नाची उपलब्धता वाढली, ज्यामुळे लोक एका ठिकाणी स्थिरावले आणि शहरांचा विकास झाला."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील रस्ते किती रुंद असत?",
+      "answer": "मुख्य रस्ते पुरेसे रुंद असत जेणेकरून दोन बैलगाड्या एकाच वेळी जाऊ शकतील."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियामधील नगरांचे संरक्षण कसे केले जाई?",
+      "answer": "नगराभोवती उंच आणि रुंद भिंती बांधून संरक्षण केले जाई."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "प्राचीन संस्कृतींमध्ये शिक्षणाची सोय कोठे असे?",
+      "answer": "शिक्षण सहसा मंदिरांमध्ये किंवा विशेष केंद्रांवर दिले जाई."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील 'ग्रेट बाथ' (मोठे स्नानगृह) कोठे सापडले?",
+      "answer": "मोहेंजोदारो येथे हडप्पा संस्कृतीतील मोठे स्नानगृह सापडले."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "चीनी संस्कृतीतील 'रेशीम मार्ग' कशासाठी प्रसिद्ध होता?",
+      "answer": "हा मार्ग रेशमाचा व्यापार करण्यासाठी चीनला युरोप आणि आशियाशी जोडणारा मुख्य मार्ग होता."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "नागरी जीवनात उत्सवांचे महत्त्व काय होते?",
+      "answer": "उत्सव लोकांमधील एकता वाढवण्यासाठी आणि धार्मिक श्रद्धा जपण्यासाठी महत्त्वाचे होते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील मुद्रांचे आकार कोणते असत?",
+      "answer": "मुद्रा प्रामुख्याने चौरस किंवा आयताकृती आकाराच्या असत."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियामध्ये कोणती दोन प्रसिद्ध शहरे आहेत?",
+      "answer": "उर आणि निप्पुर ही मेसोपोटेमियामधील प्रसिद्ध शहरे आहेत."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोकांनी सांडपाण्याच्या व्यवस्थेसाठी काय केले होते?",
+      "answer": "प्रत्येक घरातून सांडपाणी बाहेर जाण्यासाठी पक्क्या मोऱ्या बांधल्या होत्या."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "प्राचीन चीनमध्ये रेशीम उद्योगाची सुरुवात कशी झाली?",
+      "answer": "रेशमाच्या किड्यांचे पालन करून त्यांच्या कोशापासून धागा काढण्याचे तंत्र चीनमध्ये विकसित झाले."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक समुद्राच्या वाटेने व्यापार कोणाशी करत?",
+      "answer": "ते प्रामुख्याने पर्शियन आखातातील देशांशी व्यापार करत असत."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "स्थापत्यकलेमध्ये दगडाचा वापर का केला जाई?",
+      "answer": "दगडाचा वापर केल्याने इमारती अधिक मजबूत आणि दीर्घकाळ टिकणाऱ्या ठरत असत."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नगरांची तटबंदी कशाची बांधली असे?",
+      "answer": "तटबंदी प्रामुख्याने कच्च्या आणि पक्क्या विटांची बांधलेली असे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियामध्ये राजाला काय मानले जाई?",
+      "answer": "राजाला देवाचा प्रतिनिधी मानले जाई."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक कोणत्या रंगाचा वापर भांड्यांवर करत?",
+      "answer": "ते प्रामुख्याने लाल रंगाचा लेप देऊन त्यावर काळ्या रंगाने नक्षी काढत असत."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "नदीकाठच्या संस्कृतींमध्ये शेतीसाठी कोणती अवजारे वापरली जात?",
+      "answer": "लाकडी नांगर आणि तांब्याची किंवा दगडाची अवजारे वापरली जात असत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील मुलांच्या खेळण्यांचे महत्त्व काय?",
+      "answer": "खेळण्यांवरून त्या काळातील लोकांची अभिरुची आणि मुलांच्या आनंदाची साधने समजतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "प्राचीन काळी व्यापारासाठी कोणते अडथळे येत असावेत?",
+      "answer": "नैसर्गिक आपत्ती, लांबचा प्रवास आणि सुरक्षिततेचा अभाव हे मुख्य अडथळे असावेत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील मुद्रांवरून कोणती माहिती मिळते?",
+      "answer": "मुद्रांवरून त्या काळातील प्राण्यांची ओळख, लिपी आणि व्यापाराची व्याप्ती समजते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "इजिप्तमधील शेती प्रामुख्याने कोणत्या नदीवर अवलंबून होती?",
+      "answer": "इजिप्तमधील शेती पूर्णपणे नाईल नदीवर अवलंबून होती."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील घरे किती मजली असत?",
+      "answer": "काही घरे एक मजली तर काही दोन मजली असत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियामध्ये मंदिरांना काय म्हणत?",
+      "answer": "मेसोपोटेमियातील उंच मंदिरांना 'झिगुरात' असे म्हटले जाई."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील विटा कशा भाजल्या जात?",
+      "answer": "विटा मोठ्या आव्यांमध्ये (भट्ट्यांमध्ये) भाजल्या जात असत."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "चीनी संस्कृतीमध्ये भिंत कशासाठी बांधली गेली होती?",
+      "answer": "शत्रूंच्या आक्रमणापासून देशाचे रक्षण करण्यासाठी 'चीनची भिंत' बांधली गेली होती."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील नगरांची रचना कोणी केली असावी?",
+      "answer": "त्या नगरांची रचना कुशल अभियंता आणि प्रशासकीय अधिकाऱ्यांनी केली असावी."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "नदीकाठच्या संस्कृतींमध्ये पशुपालनाचा काय फायदा झाला?",
+      "answer": "पशुपालनामुळे दूध, मांस आणि वाहतुकीसाठी प्राणी उपलब्ध झाले."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील मृत व्यक्तींचे काय केले जाई?",
+      "answer": "त्यांना सहसा जमिनीत पुरले जाई आणि सोबत काही वस्तूही ठेवल्या जात असत."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियामध्ये विटांचा वापर कशासाठी केला जाई?",
+      "answer": "विटांचा वापर प्रामुख्याने घरे, मंदिरे आणि तटबंदी बांधण्यासाठी केला जाई."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक कोणत्या धातूपासून अनभिज्ञ होते?",
+      "answer": "हडप्पा संस्कृतीतील लोक प्रामुख्याने लोखंडाच्या वापरापासून अनभिज्ञ होते (सुरुवातीच्या काळात)."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "प्राचीन संस्कृतींचे मुख्य केंद्र काय होते?",
+      "answer": "नदीकाठची सुपीक खोरी हे प्राचीन संस्कृतींचे मुख्य केंद्र होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लोक कशाची भीती बाळगत असावेत?",
+      "answer": "ते प्रामुख्याने महापूर आणि नैसर्गिक आपत्तींची भीती बाळगत असावेत."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "नागरी संस्कृतीच्या वारशाचे महत्त्व काय?",
+      "answer": "तो वारसा आपल्याला मानवी प्रगतीची आणि संघटित जीवनाची प्रेरणा देतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "हडप्पा संस्कृतीतील लिपी आजही का वाचता येत नाही?",
+      "answer": "त्यातील सांकेतिक चिन्हांचा अर्थ अद्याप स्पष्ट झाला नसल्यामुळे ती लिपी आजही वाचता येत नाही."
+    }
+  ]
+}

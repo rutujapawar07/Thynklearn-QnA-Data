@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 2,
+  "chapter_name": "पृथ्वीचे फिरणे",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या स्वतःभोवती फिरण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परिभ्रमण", "is_correct": false },
+        { "option_id": 2, "text": "परिवलन", "is_correct": true },
+        { "option_id": 3, "text": "कक्षीय गती", "is_correct": false },
+        { "option_id": 4, "text": "गुरूत्वाकर्षण", "is_correct": false }
+      ],
+      "answer": "परिवलन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वी ज्या अदृश्य रेषेभोवती फिरते, तिला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कक्षा", "is_correct": false },
+        { "option_id": 2, "text": "विषुववृत्त", "is_correct": false },
+        { "option_id": 3, "text": "पृथ्वीचा अक्ष", "is_correct": true },
+        { "option_id": 4, "text": "रेखावृत्त", "is_correct": false }
+      ],
+      "answer": "पृथ्वीचा अक्ष"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला स्वतःभोवती एक फेरी पूर्ण करण्यास किती वेळ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "१२ तास", "is_correct": false },
+        { "option_id": 2, "text": "२४ तास", "is_correct": true },
+        { "option_id": 3, "text": "३६५ दिवस", "is_correct": false },
+        { "option_id": 4, "text": "४८ तास", "is_correct": false }
+      ],
+      "answer": "२४ तास"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या मध्यातून जाणाऱ्या काल्पनिक वर्तुळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ध्रुव", "is_correct": false },
+        { "option_id": 2, "text": "कर्कवृत्त", "is_correct": false },
+        { "option_id": 3, "text": "विषुववृत्त", "is_correct": true },
+        { "option_id": 4, "text": "मकरवृत्त", "is_correct": false }
+      ],
+      "answer": "विषुववृत्त"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "विषुववृत्तामुळे पृथ्वीचे कोणते दोन समान भाग होतात?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व आणि पश्चिम गोलार्ध", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर आणि दक्षिण गोलार्ध", "is_correct": true },
+        { "option_id": 3, "text": "वरचा आणि खालचा गोलार्ध", "is_correct": false },
+        { "option_id": 4, "text": "मोठा आणि लहान गोलार्ध", "is_correct": false }
+      ],
+      "answer": "उत्तर आणि दक्षिण गोलार्ध"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दिवस आणि रात्र कशामुळे होतात?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वीच्या परिभ्रमणामुळे", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीच्या परिवलनामुळे", "is_correct": true },
+        { "option_id": 3, "text": "चंद्राच्या फिरण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "सूर्याच्या फिरण्यामुळे", "is_correct": false }
+      ],
+      "answer": "पृथ्वीच्या परिवलनामुळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "एका सूर्योदयापासून दुसऱ्या सूर्योदयापर्यंतच्या काळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रात्र", "is_correct": false },
+        { "option_id": 2, "text": "तास", "is_correct": false },
+        { "option_id": 3, "text": "एक दिवस (सौरदिन)", "is_correct": true },
+        { "option_id": 4, "text": "एक आठवडा", "is_correct": false }
+      ],
+      "answer": "एक दिवस (सौरदिन)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या सूर्याभोवती फिरण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परिवलन", "is_correct": false },
+        { "option_id": 2, "text": "परिभ्रमण", "is_correct": true },
+        { "option_id": 3, "text": "प्रदक्षिणा", "is_correct": false },
+        { "option_id": 4, "text": "भ्रमण", "is_correct": false }
+      ],
+      "answer": "परिभ्रमण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला सूर्याभोवती एक फेरी पूर्ण करण्यास किती वेळ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "३६० दिवस", "is_correct": false },
+        { "option_id": 2, "text": "३६५ दिवस आणि ६ तास", "is_correct": true },
+        { "option_id": 3, "text": "१०० दिवस", "is_correct": false },
+        { "option_id": 4, "text": "३६६ दिवस", "is_correct": false }
+      ],
+      "answer": "३६५ दिवस आणि ६ तास"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लीप वर्षात किती दिवस असतात?",
+      "options": [
+        { "option_id": 1, "text": "३६५", "is_correct": false },
+        { "option_id": 2, "text": "३६४", "is_correct": false },
+        { "option_id": 3, "text": "३६६", "is_correct": true },
+        { "option_id": 4, "text": "३६७", "is_correct": false }
+      ],
+      "answer": "३६६"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लीप वर्षात फेब्रुवारी महिन्यात किती दिवस असतात?",
+      "options": [
+        { "option_id": 1, "text": "२८", "is_correct": false },
+        { "option_id": 2, "text": "२९", "is_correct": true },
+        { "option_id": 3, "text": "३०", "is_correct": false },
+        { "option_id": 4, "text": "३१", "is_correct": false }
+      ],
+      "answer": "२९"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा अक्ष कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "कललेला", "is_correct": true },
+        { "option_id": 3, "text": "आडवा", "is_correct": false },
+        { "option_id": 4, "text": "वर्तुळाकार", "is_correct": false }
+      ],
+      "answer": "कललेला"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "उत्तर गोलार्धात २२ मार्च ते २३ सप्टेंबर या काळात कोणता ऋतू असतो?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 4, "text": "शरद", "is_correct": false }
+      ],
+      "answer": "उन्हाळा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारतात प्रामुख्याने मानले जाणारे मुख्य ऋतू कोणते?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळा, हिवाळा, पावसाळा", "is_correct": true },
+        { "option_id": 2, "text": "वसंत, शिशिर, हेमंत", "is_correct": false },
+        { "option_id": 3, "text": "शरद आणि ग्रीष्म", "is_correct": false },
+        { "option_id": 4, "text": "केवळ उन्हाळा आणि हिवाळा", "is_correct": false }
+      ],
+      "answer": "उन्हाळा, हिवाळा, पावसाळा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चंद्राच्या प्रकाशित भागाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चंद्रकला", "is_correct": true },
+        { "option_id": 2, "text": "सूर्यमाला", "is_correct": false },
+        { "option_id": 3, "text": "पौर्णिमा", "is_correct": false },
+        { "option_id": 4, "text": "अमावस्या", "is_correct": false }
+      ],
+      "answer": "चंद्रकला"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ज्या दिवशी चंद्राचा पूर्ण भाग प्रकाशित दिसतो, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अमावस्या", "is_correct": false },
+        { "option_id": 2, "text": "एकादशी", "is_correct": false },
+        { "option_id": 3, "text": "पौर्णिमा", "is_correct": true },
+        { "option_id": 4, "text": "चतुर्थी", "is_correct": false }
+      ],
+      "answer": "पौर्णिमा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ज्या दिवशी चंद्र आकाशात अजिबात दिसत नाही, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पौर्णिमा", "is_correct": false },
+        { "option_id": 2, "text": "अमावस्या", "is_correct": true },
+        { "option_id": 3, "text": "अष्टमी", "is_correct": false },
+        { "option_id": 4, "text": "प्रतिपदा", "is_correct": false }
+      ],
+      "answer": "अमावस्या"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अमावस्येपासून पौर्णिमेपर्यंतच्या १५ दिवसांच्या काळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वद्य पक्ष", "is_correct": false },
+        { "option_id": 2, "text": "शुद्ध पक्ष (शुक्ल पक्ष)", "is_correct": true },
+        { "option_id": 3, "text": "कृष्ण पक्ष", "is_correct": false },
+        { "option_id": 4, "text": "चांद्रमास", "is_correct": false }
+      ],
+      "answer": "शुद्ध पक्ष (शुक्ल पक्ष)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पौर्णिमेपासून अमावस्येपर्यंतच्या १५ दिवसांच्या काळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शुक्ल पक्ष", "is_correct": false },
+        { "option_id": 2, "text": "वद्य पक्ष (कृष्ण पक्ष)", "is_correct": true },
+        { "option_id": 3, "text": "पौर्णिमा", "is_correct": false },
+        { "option_id": 4, "text": "प्रतिपदा", "is_correct": false }
+      ],
+      "answer": "वद्य पक्ष (कृष्ण पक्ष)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अमावस्येपासून पुन्हा अमावस्येपर्यंतच्या सुमारे २८ ते ३० दिवसांच्या काळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वर्ष", "is_correct": false },
+        { "option_id": 2, "text": "चांद्रमास", "is_correct": true },
+        { "option_id": 3, "text": "आठवडा", "is_correct": false },
+        { "option_id": 4, "text": "सौरदिन", "is_correct": false }
+      ],
+      "answer": "चांद्रमास"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "चांद्रमासातील प्रत्येक दिवसाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तारीख", "is_correct": false },
+        { "option_id": 2, "text": "वेळ", "is_correct": false },
+        { "option_id": 3, "text": "तिथी", "is_correct": true },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "तिथी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पृथ्वी पश्चिमेकडून कोणत्या दिशेला फिरते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 3, "text": "पूर्व", "is_correct": true },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या अक्षाचे वरचे टोक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "दक्षिण ध्रुव", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर ध्रुव", "is_correct": true },
+        { "option_id": 3, "text": "मध्य ध्रुव", "is_correct": false },
+        { "option_id": 4, "text": "विषुववृत्त", "is_correct": false }
+      ],
+      "answer": "उत्तर ध्रुव"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या अक्षाचे खालचे टोक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर ध्रुव", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण ध्रुव", "is_correct": true },
+        { "option_id": 3, "text": "विषुववृत्त", "is_correct": false },
+        { "option_id": 4, "text": "कर्कवृत्त", "is_correct": false }
+      ],
+      "answer": "दक्षिण ध्रुव"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवर ऋतू कशामुळे निर्माण होतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ परिवलनामुळे", "is_correct": false },
+        { "option_id": 2, "text": "अक्षाचा कल आणि परिभ्रमण", "is_correct": true },
+        { "option_id": 3, "text": "केवळ चंद्रामुळे", "is_correct": false },
+        { "option_id": 4, "text": "वारा सुटल्यामुळे", "is_correct": false }
+      ],
+      "answer": "अक्षाचा कल आणि परिभ्रमण"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "एक सौरदिन किती तासांचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "१२", "is_correct": false },
+        { "option_id": 2, "text": "२४", "is_correct": true },
+        { "option_id": 3, "text": "४८", "is_correct": false },
+        { "option_id": 4, "text": "६", "is_correct": false }
+      ],
+      "answer": "२४"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "लीप वर्ष दर किती वर्षांनी येते?",
+      "options": [
+        { "option_id": 1, "text": "२", "is_correct": false },
+        { "option_id": 2, "text": "३", "is_correct": false },
+        { "option_id": 3, "text": "४", "is_correct": true },
+        { "option_id": 4, "text": "५", "is_correct": false }
+      ],
+      "answer": "४"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पौर्णिमेला चंद्र कसा दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "अर्धा", "is_correct": false },
+        { "option_id": 2, "text": "पूर्ण गोल", "is_correct": true },
+        { "option_id": 3, "text": "दिसत नाही", "is_correct": false },
+        { "option_id": 4, "text": "तिरपा", "is_correct": false }
+      ],
+      "answer": "पूर्ण गोल"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कोणता गोलार्ध सूर्याकडे झुकलेला असतो तेव्हा तिथे उन्हाळा असतो?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": true },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 3, "text": "पूर्व", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता 'भारतीय' ऋतू नाही?",
+      "options": [
+        { "option_id": 1, "text": "वसंत", "is_correct": false },
+        { "option_id": 2, "text": "वर्षा", "is_correct": false },
+        { "option_id": 3, "text": "ऑटम (Autumn)", "is_correct": true },
+        { "option_id": 4, "text": "शिशिर", "is_correct": false }
+      ],
+      "answer": "ऑटम (Autumn)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या सूर्याभोवती फिरण्याच्या मार्गाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अक्ष", "is_correct": false },
+        { "option_id": 2, "text": "कक्षा", "is_correct": true },
+        { "option_id": 3, "text": "ध्रुव", "is_correct": false },
+        { "option_id": 4, "text": "गोलार्ध", "is_correct": false }
+      ],
+      "answer": "कक्षा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "एका पक्षामध्ये (Fortnight) किती दिवस असतात?",
+      "options": [
+        { "option_id": 1, "text": "७", "is_correct": false },
+        { "option_id": 2, "text": "१५", "is_correct": true },
+        { "option_id": 3, "text": "३०", "is_correct": false },
+        { "option_id": 4, "text": "१०", "is_correct": false }
+      ],
+      "answer": "१५"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "शुक्ल पक्षात चंद्राचा आकार कसा होत जातो?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठा", "is_correct": true },
+        { "option_id": 3, "text": "कमी-जास्त", "is_correct": false },
+        { "option_id": 4, "text": "बदलत नाही", "is_correct": false }
+      ],
+      "answer": "मोठा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कृष्ण पक्षात चंद्राचा प्रकाशित भाग कसा होत जातो?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "लहान", "is_correct": true },
+        { "option_id": 3, "text": "स्थिर", "is_correct": false },
+        { "option_id": 4, "text": "अदृश्य", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा उत्तर गोलार्ध सूर्याकडे जास्त कललेला असतो, तेव्हा तिथे दिवस कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठा", "is_correct": true },
+        { "option_id": 3, "text": "मध्यम", "is_correct": false },
+        { "option_id": 4, "text": "नसतो", "is_correct": false }
+      ],
+      "answer": "मोठा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "दक्षिण गोलार्धात उन्हाळा कोणत्या काळात असतो?",
+      "options": [
+        { "option_id": 1, "text": "२३ सप्टेंबर ते २२ मार्च", "is_correct": true },
+        { "option_id": 2, "text": "२२ मार्च ते २३ सप्टेंबर", "is_correct": false },
+        { "option_id": 3, "text": "१ जानेवारी ते ३१ मार्च", "is_correct": false },
+        { "option_id": 4, "text": "जून ते ऑगस्ट", "is_correct": false }
+      ],
+      "answer": "२३ सप्टेंबर ते २२ मार्च"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भारतीय कालगणनेनुसार वर्षात किती ऋतू मानले जातात?",
+      "options": [
+        { "option_id": 1, "text": "३", "is_correct": false },
+        { "option_id": 2, "text": "४", "is_correct": false },
+        { "option_id": 3, "text": "६", "is_correct": true },
+        { "option_id": 4, "text": "१२", "is_correct": false }
+      ],
+      "answer": "६"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या अर्ध्या भागावर प्रकाश पडतो आणि अर्ध्या भागावर अंधार असतो, याचे कारण काय?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वीचा आकार गोल आहे", "is_correct": true },
+        { "option_id": 2, "text": "पृथ्वी फिरते म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "ढगांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "चंद्राच्या सावलीमुळे", "is_correct": false }
+      ],
+      "answer": "पृथ्वीचा आकार गोल आहे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी लीप वर्ष कोणते असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "२०२१", "is_correct": false },
+        { "option_id": 2, "text": "२०२२", "is_correct": false },
+        { "option_id": 3, "text": "२०२४", "is_correct": true },
+        { "option_id": 4, "text": "२०२३", "is_correct": false }
+      ],
+      "answer": "२०२४"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पौर्णिमेनंतर येणारी पहिली तिथी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "अमावस्या", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिपदा", "is_correct": true },
+        { "option_id": 3, "text": "द्वितीया", "is_correct": false },
+        { "option_id": 4, "text": "अष्टमी", "is_correct": false }
+      ],
+      "answer": "प्रतिपदा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "उत्तर गोलार्धात सर्वात मोठा दिवस कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "२१ जून", "is_correct": true },
+        { "option_id": 2, "text": "२२ डिसेंबर", "is_correct": false },
+        { "option_id": 3, "text": "२३ सप्टेंबर", "is_correct": false },
+        { "option_id": 4, "text": "२१ मार्च", "is_correct": false }
+      ],
+      "answer": "२१ जून"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सूर्याचा प्रकाश कोठून कोठे प्रवास करतो?",
+      "options": [
+        { "option_id": 1, "text": "पूर्वेकडून पश्चिमेकडे", "is_correct": true },
+        { "option_id": 2, "text": "उत्तरेकडून दक्षिणेकडे", "is_correct": false },
+        { "option_id": 3, "text": "खालून वर", "is_correct": false },
+        { "option_id": 4, "text": "मध्याकडून टोकाकडे", "is_correct": false }
+      ],
+      "answer": "पूर्वेकडून पश्चिमेकडे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या परिवलनाची दिशा कोणती?",
+      "options": [
+        { "option_id": 1, "text": "पूर्वेकडून पश्चिमेकडे", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिमेकडून पूर्वेकडे", "is_correct": true },
+        { "option_id": 3, "text": "उत्तरेकडून दक्षिणेकडे", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिणेकडून उत्तरेकडे", "is_correct": false }
+      ],
+      "answer": "पश्चिमेकडून पूर्वेकडे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "विषुववृत्तावर दिवस आणि रात्र कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "दिवस मोठा असतो", "is_correct": false },
+        { "option_id": 2, "text": "रात्र मोठी असते", "is_correct": false },
+        { "option_id": 3, "text": "समान (१२-१२ तास)", "is_correct": true },
+        { "option_id": 4, "text": "दिवस नसतोच", "is_correct": false }
+      ],
+      "answer": "समान (१२-१२ तास)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सूर्य उगवल्याचा भास होणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सूर्यास्त", "is_correct": false },
+        { "option_id": 2, "text": "सूर्योदय", "is_correct": true },
+        { "option_id": 3, "text": "मध्यरात्र", "is_correct": false },
+        { "option_id": 4, "text": "दुपार", "is_correct": false }
+      ],
+      "answer": "सूर्योदय"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "चंद्राला पृथ्वीभोवती फिरण्यासाठी जो काळ लागतो त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सौरदिवस", "is_correct": false },
+        { "option_id": 2, "text": "चांद्रमास", "is_correct": true },
+        { "option_id": 3, "text": "वर्ष", "is_correct": false },
+        { "option_id": 4, "text": "युग", "is_correct": false }
+      ],
+      "answer": "चांद्रमास"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "वद्य पक्षाचा शेवट कशाने होतो?",
+      "options": [
+        { "option_id": 1, "text": "पौर्णिमेने", "is_correct": false },
+        { "option_id": 2, "text": "अमावस्येने", "is_correct": true },
+        { "option_id": 3, "text": "अष्टमीने", "is_correct": false },
+        { "option_id": 4, "text": "दशमीने", "is_correct": false }
+      ],
+      "answer": "अमावस्येने"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शुद्ध पक्षाचा शेवट कशाने होतो?",
+      "options": [
+        { "option_id": 1, "text": "अमावस्येने", "is_correct": false },
+        { "option_id": 2, "text": "पौर्णिमेने", "is_correct": true },
+        { "option_id": 3, "text": "चतुर्थीने", "is_correct": false },
+        { "option_id": 4, "text": "एकादशीने", "is_correct": false }
+      ],
+      "answer": "पौर्णिमेने"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा अक्ष कलेला नसता तर काय झाले असते?",
+      "options": [
+        { "option_id": 1, "text": "ऋतू बदलले नसते", "is_correct": true },
+        { "option_id": 2, "text": "पृथ्वी फिरली नसती", "is_correct": false },
+        { "option_id": 3, "text": "वारा सुटला नसता", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस पडला नसता", "is_correct": false }
+      ],
+      "answer": "ऋतू बदलले नसते"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "एका चांद्रमासात किती पक्ष असतात?",
+      "options": [
+        { "option_id": 1, "text": "१", "is_correct": false },
+        { "option_id": 2, "text": "२ (शुक्ल आणि कृष्ण)", "is_correct": true },
+        { "option_id": 3, "text": "३", "is_correct": false },
+        { "option_id": 4, "text": "४", "is_correct": false }
+      ],
+      "answer": "२ (शुक्ल आणि कृष्ण)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "परिवलन म्हणजे काय?",
+      "answer": "एखादी वस्तू स्वतःभोवती फिरते, त्याला परिवलन म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा अक्ष म्हणजे काय?",
+      "answer": "पृथ्वी ज्या एका काल्पनिक रेषेभोवती परिवलन करते, त्या रेषेला पृथ्वीचा अक्ष म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "विषुववृत्त म्हणजे काय?",
+      "answer": "पृथ्वीच्या पृष्ठभागावर उत्तर आणि दक्षिण ध्रुवांच्या मधोमध काढलेल्या काल्पनिक वर्तुळाला विषुववृत्त म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गोलार्ध म्हणजे काय?",
+      "answer": "विषुववृत्तामुळे पृथ्वीचे जे दोन समान भाग होतात, त्यांना गोलार्ध (उत्तर आणि दक्षिण) म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "उत्तर ध्रुव कोठे आहे?",
+      "answer": "पृथ्वीच्या अक्षाच्या उत्तरेकडील टोकाला उत्तर ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "दक्षिण ध्रुव कोठे आहे?",
+      "answer": "पृथ्वीच्या अक्षाच्या दक्षिणेकडील टोकाला दक्षिण ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सूर्योदय म्हणजे काय?",
+      "answer": "पृथ्वीच्या परिवलनामुळे जेव्हा आपण राहतो तो भाग सूर्याच्या समोर येतो, त्याला सूर्योदय म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सूर्यास्त म्हणजे काय?",
+      "answer": "पृथ्वीच्या फिरण्यामुळे आपण राहतो तो भाग जेव्हा सूर्याच्या प्रकाशापासून दूर जातो, त्याला सूर्यास्त म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सौरदिन कशाला म्हणतात?",
+      "answer": "एका सूर्योदयापासून दुसऱ्या सूर्योदयापर्यंतच्या काळाला सौरदिन म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "एका दिवसाचे दोन भाग कोणते?",
+      "answer": "एका दिवसाचे दोन भाग म्हणजे दिन (दिवस) आणि रात्र होय."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "परिभ्रमण म्हणजे काय?",
+      "answer": "पृथ्वी स्वतःभोवती फिरता फिरता सूर्याभोवती फिरते, याला परिभ्रमण म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "एक वर्ष म्हणजे काय?",
+      "answer": "पृथ्वीला सूर्याभोवती एक फेरी पूर्ण करण्यासाठी जो काळ लागतो, त्याला वर्ष म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "एका वर्षात किती दिवस असतात?",
+      "answer": "एका वर्षात सुमारे ३६५ दिवस आणि ६ तास असतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लीप वर्ष म्हणजे काय?",
+      "answer": "ज्या वर्षात फेब्रुवारी महिना २९ दिवसांचा असतो आणि एकूण ३६६ दिवस असतात, त्याला लीप वर्ष म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "लीप वर्ष का येते?",
+      "answer": "दरवर्षीचे उरलेले ६ तास साठवून ४ वर्षांनी एक पूर्ण दिवस (२४ तास) वाढतो, म्हणून दर ४ वर्षांनी लीप वर्ष येते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "उत्तर गोलार्धात उन्हाळा केव्हा असतो?",
+      "answer": "२२ मार्च ते २३ सप्टेंबर या काळात उत्तर गोलार्धात उन्हाळा असतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "दक्षिण गोलार्धात हिवाळा केव्हा असतो?",
+      "answer": "२२ मार्च ते २३ सप्टेंबर या काळात दक्षिण गोलार्धात हिवाळा असतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "उत्तर गोलार्धात हिवाळा केव्हा असतो?",
+      "answer": "२३ सप्टेंबर ते २२ मार्च या काळात उत्तर गोलार्धात हिवाळा असतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दक्षिण गोलार्धात उन्हाळा केव्हा असतो?",
+      "answer": "२३ सप्टेंबर ते २२ मार्च या काळात दक्षिण गोलार्धात उन्हाळा असतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भारतीय कालगणनेतील ६ ऋतूंची नावे सांगा.",
+      "answer": "वसंत, ग्रीष्म, वर्षा, शरद, हेमंत आणि शिशिर ही ६ ऋतूंची नावे आहेत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ऋतूचक्र कशाला म्हणतात?",
+      "answer": "हवामानात होणाऱ्या बदलांच्या क्रमाने येणाऱ्या चक्राला ऋतूचक्र म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "चंद्रकला म्हणजे काय?",
+      "answer": "अमावस्येपासून पौर्णिमेपर्यंत चंद्राचा प्रकाशित भाग रोज वाढत जातो आणि नंतर कमी होतो, या बदलांना चंद्रकला म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पौर्णिमा कशाला म्हणतात?",
+      "answer": "ज्या रात्री चंद्राचा पूर्ण गोल भाग दिसतो, त्याला पौर्णिमा म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "अमावस्या म्हणजे काय?",
+      "answer": "ज्या रात्री आकाशात चंद्र अजिबात दिसत नाही, त्याला अमावस्या म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "चांद्रमास म्हणजे काय?",
+      "answer": "एका अमावस्येपासून दुसऱ्या अमावस्येपर्यंतच्या काळाला चांद्रमास म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "तिथी म्हणजे काय?",
+      "answer": "चांद्रमासातील प्रत्येक दिवसाला तिथी म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "शुक्ल पक्ष म्हणजे काय?",
+      "answer": "अमावस्येपासून पौर्णिमेपर्यंतच्या १५ दिवसांच्या काळाला शुक्ल पक्ष म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कृष्ण पक्ष म्हणजे काय?",
+      "answer": "पौर्णिमेपासून अमावस्येपर्यंतच्या १५ दिवसांच्या काळाला कृष्ण पक्ष म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा कोणता भाग सूर्याकडे कललेला असतो तेव्हा तिथे मोठा दिवस असतो?",
+      "answer": "पृथ्वीचा जो गोलार्ध सूर्याकडे कललेला असतो, तिथे दिवस मोठा असतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "विशू दिन म्हणजे काय?",
+      "answer": "ज्या दिवशी पृथ्वीवर सर्वत्र दिवस आणि रात्र समान (१२-१२ तास) असतात, त्याला विशू दिन म्हणतात (उदा. २१ मार्च)."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "फेब्रुवारी महिन्यात सामान्यतः किती दिवस असतात?",
+      "answer": "फेब्रुवारी महिन्यात सामान्यतः २८ दिवस असतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा आकार कसा आहे?",
+      "answer": "पृथ्वीचा आकार प्रचंड मोठ्या चेंडूसारखा गोल आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "सूर्य सकाळी पूर्वेला का दिसतो?",
+      "answer": "पृथ्वी स्वतःभोवती पश्चिमेकडून पूर्वेकडे फिरते, म्हणून सूर्य पूर्वेला उगवताना दिसतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "काय सूर्य खरोखर फिरतो का?",
+      "answer": "नाही, सूर्य स्थिर आहे, पृथ्वी फिरते म्हणून तो फिरताना भासतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "एका चांद्रमासात किती दिवस असतात?",
+      "answer": "एका चांद्रमासात सुमारे २८ ते ३० दिवस असतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शुक्ल पक्षात चंद्र कसा दिसतो?",
+      "answer": "शुक्ल पक्षात चंद्राचा आकार प्रतिपदेपासून पौर्णिमेपर्यंत वाढत जातो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "कृष्ण पक्षात चंद्र कसा दिसतो?",
+      "answer": "कृष्ण पक्षात चंद्राचा प्रकाशित भाग हळूहळू कमी होत जातो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात दिवस कसा असतो?",
+      "answer": "उन्हाळ्यात दिवस मोठा आणि रात्र लहान असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात रात्र कशी असते?",
+      "answer": "हिवाळ्यात रात्र मोठी आणि दिवस लहान असतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पृथ्वी स्वतःभोवती कशी फिरते?",
+      "answer": "पृथ्वी स्वतःभोवती लट्टूसारखी फिरते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नकाशावर उत्तर दिशा कोठे असते?",
+      "answer": "नकाशावर उत्तर दिशा नेहमी वरच्या बाजूला असते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अक्षाचा कल कशावर परिणाम करतो?",
+      "answer": "पृथ्वीच्या अक्षाच्या कलामुळे पृथ्वीवर ऋतूंची निर्मिती होते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सौर वर्षात किती महिने असतात?",
+      "answer": "सौर वर्षात १२ महिने असतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "चांद्रमासाची सुरुवात कोणत्या तिथीने होते?",
+      "answer": "चांद्रमासाची सुरुवात प्रतिपदेने होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सूर्याची उष्णता पृथ्वीवर कोठे जास्त पडते?",
+      "answer": "सूर्याची उष्णता विषुववृत्ताच्या प्रदेशात जास्त पडते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर दिवस आणि रात्र होण्यासाठी किती वेळ लागतो?",
+      "answer": "पृथ्वीवर दिवस आणि रात्र हे चक्र पूर्ण होण्यासाठी २४ तास लागतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा कोणता गोलार्ध अंधारात असतो?",
+      "answer": "पृथ्वीचा जो भाग सूर्याच्या विरुद्ध दिशेला असतो, तो अंधारात असतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "काय चंद्र स्वतःभोवती फिरतो?",
+      "answer": "हो, चंद्र स्वतःभोवतीही फिरतो आणि पृथ्वीभोवतीही फिरतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "पौर्णिमेला चंद्र किती वाजता उगवतो?",
+      "answer": "पौर्णिमेला चंद्र साधारणपणे सूर्यास्ताच्या वेळी उगवतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अमावस्येला चंद्र का दिसत नाही?",
+      "answer": "अमावस्येला चंद्राचा प्रकाशित भाग पृथ्वीच्या विरुद्ध बाजूला असतो, म्हणून तो दिसत नाही."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या परिवलनाचा वेग किती आहे?",
+      "answer": "पृथ्वी स्वतःभोवती ताशी सुमारे १६७० किलोमीटर वेगाने फिरते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा कोणता भाग कायम थंड असतो?",
+      "answer": "पृथ्वीचे दोन्ही ध्रुव (उत्तर आणि दक्षिण) कायम बर्फाच्छादित आणि थंड असतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "वर्ष म्हणजे काय हे स्पष्ट करा.",
+      "answer": "पृथ्वीला सूर्याभोवती एक प्रदक्षिणा पूर्ण करण्यास जो वेळ लागतो, त्या कालावधीला वर्ष म्हणतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "शुक्ल पक्षात चंद्राची कोर कशी बदलते?",
+      "answer": "शुक्ल पक्षात चंद्राची कोर दररोज थोडी मोठी होत जाते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "दिनमान म्हणजे काय?",
+      "answer": "एका दिवसातील प्रकाशाचा काळ किंवा सूर्योदय ते सूर्यास्त या काळाला दिनमान म्हणतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "रात्रमान म्हणजे काय?",
+      "answer": "सूर्यास्तापासून सूर्योदयापर्यंतच्या अंधाराच्या काळाला रात्रमान म्हणतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "फेब्रुवारीत २९ दिवस का असतात?",
+      "answer": "वर्षाचे उरलेले ६ तास भरून काढण्यासाठी दर ४ वर्षांनी फेब्रुवारीत २९ दिवस असतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "विशू दिनाचे महत्व काय?",
+      "answer": "विशू दिनी दिवस आणि रात्र समसमान असतात, हे खगोलीय दृष्ट्या महत्वाचे आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "अमावस्येनंतर किती दिवसांनी पौर्णिमा येते?",
+      "answer": "अमावस्येनंतर साधारणपणे १५ दिवसांनी पौर्णिमा येते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पौर्णिमेनंतर किती दिवसांनी अमावस्या येते?",
+      "answer": "पौर्णिमेनंतर साधारणपणे १५ दिवसांनी अमावस्या येते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कर्कवृत्त कोठे आहे?",
+      "answer": "उत्तर गोलार्धात २३.५ अंशांवर कर्कवृत्त आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "मकरवृत्त कोठे आहे?",
+      "answer": "दक्षिण गोलार्धात २३.५ अंशांवर मकरवृत्त आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे परिभ्रमण कशा मार्गावरून चालते?",
+      "answer": "पृथ्वीचे परिभ्रमण एका लंबवर्तुळाकार कक्षेवरून चालते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "ध्रुवांवर रात्र किती मोठी असते?",
+      "answer": "ध्रुवांवर सलग ६ महिने रात्र आणि ६ महिने दिवस असू शकतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "काय पृथ्वीचा वेग कायम सारखा असतो?",
+      "answer": "हो, पृथ्वीच्या परिवलनाचा वेग नियमित असतो, ज्यामुळे वेळेचे गणित सुचते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अक्षाचा कल किती अंशांचा आहे?",
+      "answer": "पृथ्वीचा अक्ष २३.५ अंशांनी कललेला आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "चंद्र कोणाच्या प्रकाशाने उजळतो?",
+      "answer": "चंद्र सूर्याच्या प्रकाशाने उजळतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पौर्णिमेच्या चांदण्याला काय म्हणतात?",
+      "answer": "पौर्णिमेच्या प्रकाशाला चंद्रप्रकाश किंवा चांदणे म्हणतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "भारतीय सण चांद्रमासावर आधारित असतात का?",
+      "answer": "हो, बहुतांश भारतीय सण तिथी आणि चांद्रमासावर आधारित असतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पृथ्वीची कक्षा म्हणजे काय?",
+      "answer": "पृथ्वी ज्या ठराविक मार्गावरून सूर्याभोवती फिरते, त्या मार्गाला पृथ्वीची कक्षा म्हणतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "अमावस्येच्या रात्री आकाश कसे असते?",
+      "answer": "अमावस्येच्या रात्री आकाश खूप गडद आणि अंधारमय असते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तीय प्रदेशात हवामान कसे असते?",
+      "answer": "विषुववृत्तीय प्रदेशात हवामान वर्षभर उष्ण असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "उत्तर गोलार्ध सूर्याकडे झुकलेला असताना काय घडते?",
+      "answer": "उत्तर गोलार्ध सूर्याकडे झुकलेला असताना तिथे कडक उन्हाळा असतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे फिरणे कशाने मोजले जाते?",
+      "answer": "पृथ्वीचे फिरणे वेळ, दिवस आणि महिने यांत मोजले जाते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "सूर्य हा एक तारा आहे हे खरे आहे का?",
+      "answer": "हो, सूर्य हा एक तारा असून तो आपल्या सर्वात जवळ आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या सावलीचा चंद्रावर परिणाम होतो का?",
+      "answer": "हो, ग्रहणांच्या वेळी पृथ्वीची सावली चंद्रावर पडते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "चांद्रमासातील शुद्ध अष्टमीला चंद्र कसा दिसतो?",
+      "answer": "शुद्ध अष्टमीला चंद्र बरोबर अर्धा दिसतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "वद्य अष्टमीला चंद्र कसा दिसतो?",
+      "answer": "वद्य अष्टमीला सुद्धा चंद्र अर्धा दिसतो, पण त्याची दिशा वेगळी असते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "एका तासात किती मिनिटे असतात?",
+      "answer": "एका तासात ६० मिनिटे असतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "एका दिवसात किती तास असतात?",
+      "answer": "एका सौरदिनात २४ तास असतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "निसर्गातील बदल कशामुळे होतात?",
+      "answer": "निसर्गातील बदल प्रामुख्याने ऋतूंच्या बदलामुळे होतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा अक्ष काल्पनिक आहे का?",
+      "answer": "हो, पृथ्वीचा अक्ष ही एक काल्पनिक रेषा आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या परिवलनामुळे वारे वाहतात का?",
+      "answer": "हो, पृथ्वीच्या फिरण्यामुळे वाऱ्यांच्या दिशेवर परिणाम होतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "सूर्याचा प्रकाश पृथ्वीवर पोहोचण्यास किती वेळ लागतो?",
+      "answer": "सूर्याचा प्रकाश पृथ्वीवर पोहोचण्यास सुमारे ८ मिनिटे २० सेकंद लागतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "चांद्रमासाचे दोन पक्ष कोणते?",
+      "answer": "चांद्रमासाचे दोन पक्ष म्हणजे शुक्ल पक्ष आणि कृष्ण पक्ष होत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "प्रतिपदा म्हणजे काय?",
+      "answer": "पक्षाची पहिली तिथी म्हणजे प्रतिपदा होय."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या गती किती आहेत?",
+      "answer": "पृथ्वीच्या दोन मुख्य गती आहेत: १. परिवलन २. परिभ्रमण."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "काय चंद्र स्वतःभोवती फिरतो का?",
+      "answer": "हो, चंद्र स्वतःभोवती फिरतो, म्हणूनच आपल्याला त्याची नेहमी एकच बाजू दिसते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात सावली कशी असते?",
+      "answer": "उन्हाळ्यात सूर्य डोक्यावर असल्याने दुपारच्या वेळी सावली लहान असते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या दक्षिण गोलार्धात बर्फ कोठे असतो?",
+      "answer": "दक्षिण गोलार्धातील अंटार्क्टिका खंडात कायम बर्फ असतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर सर्वात मोठा दिवस कोणत्या तारखेला असतो?",
+      "answer": "उत्तर गोलार्धात २१ जून हा सर्वात मोठा दिवस असतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर सर्वात लहान दिवस केव्हा असतो?",
+      "answer": "उत्तर गोलार्धात २२ डिसेंबर हा सर्वात लहान दिवस असतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "ऋतूंचा सजीवांवर काय परिणाम होतो?",
+      "answer": "ऋतूंनुसार वनस्पतींना फुले येतात, प्राणी स्थलांतर करतात आणि अन्नाची उपलब्धता बदलते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात आपण कोणते कपडे वापरतो?",
+      "answer": "हिवाळ्यात आपण उबदार आणि लोकरीचे कपडे वापरतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात आपण कोणते कपडे वापरतो?",
+      "answer": "उन्हाळ्यात आपण सुती आणि हलके कपडे वापरतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या गुरुत्वाकर्षणाचा परिवलनावर परिणाम होतो का?",
+      "answer": "नाही, परिवलन ही पृथ्वीची स्वतःची गती आहे, पण गुरुत्वाकर्षण तिला कक्षेमध्ये ठेवते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "चंद्रकलांच्या अभ्यासाचा उपयोग काय?",
+      "answer": "चंद्रकलांच्या अभ्यासावरून भरती-ओहोटी आणि काळ मोजणे सोपे जाते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तावर ऋतू बदलतात का?",
+      "answer": "विषुववृत्तावर ऋतू बदलत नाहीत, तिथे वर्षभर हवामान सारखेच असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "पृथ्वी फिरणे थांबले तर काय होईल?",
+      "answer": "पृथ्वी फिरणे थांबले तर एका बाजूला कायमचा दिवस आणि दुसऱ्या बाजूला कायमची रात्र होईल."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या फिरण्याचे मुख्य कारण काय आहे?",
+      "answer": "पृथ्वीच्या निर्मितीच्या वेळी मिळालेली गती आणि अंतराळातील प्रेरणा ही तिच्या फिरण्याचे कारण आहे."
+    }
+  ]
+}

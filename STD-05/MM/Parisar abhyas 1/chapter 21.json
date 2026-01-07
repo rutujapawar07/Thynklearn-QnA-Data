@@ -1,0 +1,1204 @@
+{
+  "chapter_id": 21,
+  "chapter_name": "कामात व्यस्त आपली आंतरेन्द्रिये",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "श्वसनासाठी शरीराला कोणत्या वायूची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अन्ननलिकेच्या सुरुवातीला कोणते इंद्रिय असते?",
+      "options": [
+        { "option_id": 1, "text": "जठर", "is_correct": false },
+        { "option_id": 2, "text": "मुख (तोंड)", "is_correct": true },
+        { "option_id": 3, "text": "यकृत", "is_correct": false },
+        { "option_id": 4, "text": "फुफ्फुस", "is_correct": false }
+      ],
+      "answer": "मुख (तोंड)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हवा फुफ्फुसात नेणाऱ्या नलिकेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अन्ननलिका", "is_correct": false },
+        { "option_id": 2, "text": "रक्तवाहिनी", "is_correct": false },
+        { "option_id": 3, "text": "श्वासनलिका", "is_correct": true },
+        { "option_id": 4, "text": "मज्जारज्जू", "is_correct": false }
+      ],
+      "answer": "श्वासनलिका"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रक्त शुद्ध करण्याचे काम प्रामुख्याने कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "हृदय", "is_correct": false },
+        { "option_id": 2, "text": "फुफ्फुसे", "is_correct": true },
+        { "option_id": 3, "text": "जठर", "is_correct": false },
+        { "option_id": 4, "text": "आतडे", "is_correct": false }
+      ],
+      "answer": "फुफ्फुसे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शरीराच्या सर्व हालचालींवर नियंत्रण कोणाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "मेंदू", "is_correct": true },
+        { "option_id": 2, "text": "हाडे", "is_correct": false },
+        { "option_id": 3, "text": "स्नायू", "is_correct": false },
+        { "option_id": 4, "text": "रक्त", "is_correct": false }
+      ],
+      "answer": "मेंदू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पचलेले अन्न शोषण्याचे काम प्रामुख्याने कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "जठर", "is_correct": false },
+        { "option_id": 2, "text": "मोठे आतडे", "is_correct": false },
+        { "option_id": 3, "text": "लहान आतडे", "is_correct": true },
+        { "option_id": 4, "text": "यकृत", "is_correct": false }
+      ],
+      "answer": "लहान आतडे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "छातीच्या पिंजऱ्यात डाव्या बाजूला थोडे झुकलेले कोणते इंद्रिय असते?",
+      "options": [
+        { "option_id": 1, "text": "यकृत", "is_correct": false },
+        { "option_id": 2, "text": "हृदय", "is_correct": true },
+        { "option_id": 3, "text": "जठर", "is_correct": false },
+        { "option_id": 4, "text": "स्वादुपिंड", "is_correct": false }
+      ],
+      "answer": "हृदय"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अन्नाचे पचन सुरू होण्यासाठी तोंडात काय मिसळते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "रक्त", "is_correct": false },
+        { "option_id": 3, "text": "लाळ", "is_correct": true },
+        { "option_id": 4, "text": "पित्त", "is_correct": false }
+      ],
+      "answer": "लाळ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "श्वास आत घेताना बरगड्या काय होतात?",
+      "options": [
+        { "option_id": 1, "text": "खाली जातात", "is_correct": false },
+        { "option_id": 2, "text": "वर उचलल्या जातात", "is_correct": true },
+        { "option_id": 3, "text": "आकसतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "वर उचलल्या जातात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पचनसंस्थेत न पचलेले अन्न कोठे साठवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "लहान आतडे", "is_correct": false },
+        { "option_id": 2, "text": "जठर", "is_correct": false },
+        { "option_id": 3, "text": "मोठे आतडे", "is_correct": true },
+        { "option_id": 4, "text": "अन्ननलिका", "is_correct": false }
+      ],
+      "answer": "मोठे आतडे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रक्ताभिसरण संस्थेचे मुख्य इंद्रिय कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मेंदू", "is_correct": false },
+        { "option_id": 2, "text": "फुफ्फुस", "is_correct": false },
+        { "option_id": 3, "text": "हृदय", "is_correct": true },
+        { "option_id": 4, "text": "वृक्क (मूत्रपिंड)", "is_correct": false }
+      ],
+      "answer": "हृदय"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "श्वास सोडताना शरीरातून बाहेर कोणता वायू पडतो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "मिथेन", "is_correct": false },
+        { "option_id": 4, "text": "ओझोन", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मेंदू आणि शरीराचे इतर भाग यांच्यातील संदेशवहन कोणामार्फत होते?",
+      "options": [
+        { "option_id": 1, "text": "रक्त", "is_correct": false },
+        { "option_id": 2, "text": "अन्ननलिका", "is_correct": false },
+        { "option_id": 3, "text": "मज्जातंतू", "is_correct": true },
+        { "option_id": 4, "text": "हाडे", "is_correct": false }
+      ],
+      "answer": "मज्जातंतू"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जठरात अन्नाचे रूपांतर कशात होते?",
+      "options": [
+        { "option_id": 1, "text": "कठोर तुकडे", "is_correct": false },
+        { "option_id": 2, "text": "पातळ खिरीसारखा पदार्थ", "is_correct": true },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "केवळ पाणी", "is_correct": false }
+      ],
+      "answer": "पातळ खिरीसारखा पदार्थ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "श्वसनपटल खाली सरकल्यावर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "उच्छ्वास", "is_correct": false },
+        { "option_id": 2, "text": "श्वास आत घेतला जातो", "is_correct": true },
+        { "option_id": 3, "text": "रक्त पंप होते", "is_correct": false },
+        { "option_id": 4, "text": "अन्न पचते", "is_correct": false }
+      ],
+      "answer": "श्वास आत घेतला जातो"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अन्नाचे पचन करणारे द्रव कोण तयार करते?",
+      "options": [
+        { "option_id": 1, "text": "यकृत", "is_correct": true },
+        { "option_id": 2, "text": "फुफ्फुस", "is_correct": false },
+        { "option_id": 3, "text": "मेंदू", "is_correct": false },
+        { "option_id": 4, "text": "हृदय", "is_correct": false }
+      ],
+      "answer": "यकृत"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रक्ताला संपूर्ण शरीरात फिरवण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "श्वसन", "is_correct": false },
+        { "option_id": 2, "text": "पचन", "is_correct": false },
+        { "option_id": 3, "text": "रक्ताभिसरण", "is_correct": true },
+        { "option_id": 4, "text": "विसर्जन", "is_correct": false }
+      ],
+      "answer": "रक्ताभिसरण"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "तोंडातील अन्नाला बारीक करण्याचे काम कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "जीभ", "is_correct": false },
+        { "option_id": 2, "text": "ओठ", "is_correct": false },
+        { "option_id": 3, "text": "दात", "is_correct": true },
+        { "option_id": 4, "text": "टाळू", "is_correct": false }
+      ],
+      "answer": "दात"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शौचावाटे शरीराबाहेर काय टाकले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रक्त", "is_correct": false },
+        { "option_id": 2, "text": "न पचलेले अन्न", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "ऑक्सिजन", "is_correct": false }
+      ],
+      "answer": "न पचलेले अन्न"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कमी हवेच्या ठिकाणी गेल्यास श्वसनाचा वेग काय होतो?",
+      "options": [
+        { "option_id": 1, "text": "कमी होतो", "is_correct": false },
+        { "option_id": 2, "text": "वाढतो", "is_correct": true },
+        { "option_id": 3, "text": "थ थांबतो", "is_correct": false },
+        { "option_id": 4, "text": "बदलत नाही", "is_correct": false }
+      ],
+      "answer": "वाढतो"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हृदयाचे आकुंचन आणि शिथिलीकरण यामुळे काय तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "लाटा", "is_correct": false },
+        { "option_id": 2, "text": "हृदयाचे ठोके", "is_correct": true },
+        { "option_id": 3, "text": "अन्न", "is_correct": false },
+        { "option_id": 4, "text": "स्नायू", "is_correct": false }
+      ],
+      "answer": "हृदयाचे ठोके"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "नाकातील केसांचा उपयोग काय?",
+      "options": [
+        { "option_id": 1, "text": "हवा रोखण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "धुळीचे कण रोखण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "सुवासासाठी", "is_correct": false },
+        { "option_id": 4, "text": "शिंक येण्यासाठी", "is_correct": false }
+      ],
+      "answer": "धुळीचे कण रोखण्यासाठी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "अन्ननलिकेला दुसरे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "ग्रासिका", "is_correct": true },
+        { "option_id": 2, "text": "श्वासनलिका", "is_correct": false },
+        { "option_id": 3, "text": "पित्तनलिका", "is_correct": false },
+        { "option_id": 4, "text": "धमनी", "is_correct": false }
+      ],
+      "answer": "ग्रासिका"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मेंदू कोठे सुरक्षित असतो?",
+      "options": [
+        { "option_id": 1, "text": "छातीत", "is_correct": false },
+        { "option_id": 2, "text": "कंबरेत", "is_correct": false },
+        { "option_id": 3, "text": "कवटीत", "is_correct": true },
+        { "option_id": 4, "text": "हातात", "is_correct": false }
+      ],
+      "answer": "कवटीत"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रक्ताद्वारे पेशींपर्यंत काय पोहोचवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "धुळ", "is_correct": false },
+        { "option_id": 2, "text": "अन्न आणि ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "केवळ कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 4, "text": "लाळ", "is_correct": false }
+      ],
+      "answer": "अन्न आणि ऑक्सिजन"
+    },
+    {
+        "question_id": 26,
+        "question_type": "MCQ",
+        "question": "श्वसनपटल वर ढकलल्यास काय होते?",
+        "options": [
+          { "option_id": 1, "text": "श्वास आत येतो", "is_correct": false },
+          { "option_id": 2, "text": "उच्छ्वास बाहेर पडतो", "is_correct": true },
+          { "option_id": 3, "text": "हृदय थांबते", "is_correct": false },
+          { "option_id": 4, "text": "भूक लागते", "is_correct": false }
+        ],
+        "answer": "उच्छ्वास बाहेर पडतो"
+      },
+      {
+        "question_id": 27,
+        "question_type": "MCQ",
+        "question": "जठराचा आकार कसा असतो?",
+        "options": [
+          { "option_id": 1, "text": "पिशवीसारखा", "is_correct": true },
+          { "option_id": 2, "text": "नळीसारखा", "is_correct": false },
+          { "option_id": 3, "text": "चेंडूसारखा", "is_correct": false },
+          { "option_id": 4, "text": "पानासारखा", "is_correct": false }
+        ],
+        "answer": "पिशवीसारखा"
+      },
+      {
+        "question_id": 28,
+        "question_type": "MCQ",
+        "question": "कोणत्या इंद्रियात अन्न ३-४ तास राहते?",
+        "options": [
+          { "option_id": 1, "text": "मुख", "is_correct": false },
+          { "option_id": 2, "text": "जठर", "is_correct": true },
+          { "option_id": 3, "text": "मोठे आतडे", "is_correct": false },
+          { "option_id": 4, "text": "अन्ननलिका", "is_correct": false }
+        ],
+        "answer": "जठर"
+      },
+      {
+        "question_id": 29,
+        "question_type": "MCQ",
+        "question": "ज्ञानेंद्रियांकडून येणारे संदेश कोण स्वीकारते?",
+        "options": [
+          { "option_id": 1, "text": "हृदय", "is_correct": false },
+          { "option_id": 2, "text": "यकृत", "is_correct": false },
+          { "option_id": 3, "text": "मेंदू", "is_correct": true },
+          { "option_id": 4, "text": "आतडे", "is_correct": false }
+        ],
+        "answer": "मेंदू"
+      },
+      {
+        "question_id": 30,
+        "question_type": "MCQ",
+        "question": "न पचलेल्या अन्नातील पाणी कोठे शोषले जाते?",
+        "options": [
+          { "option_id": 1, "text": "जठर", "is_correct": false },
+          { "option_id": 2, "text": "लहान आतडे", "is_correct": false },
+          { "option_id": 3, "text": "मोठे आतडे", "is_correct": true },
+          { "option_id": 4, "text": "यकृत", "is_correct": false }
+        ],
+        "answer": "मोठे आतडे"
+      },
+      {
+        "question_id": 31,
+        "question_type": "MCQ",
+        "question": "रक्तवाहिन्यांचे जाळे संपूर्ण शरीरात का पसरलेले असते?",
+        "options": [
+          { "option_id": 1, "text": "शरीराला बांधून ठेवण्यासाठी", "is_correct": false },
+          { "option_id": 2, "text": "रक्त पुरवठ्यासाठी", "is_correct": true },
+          { "option_id": 3, "text": "हाडे तयार करण्यासाठी", "is_correct": false },
+          { "option_id": 4, "text": "हवा खेळती ठेवण्यासाठी", "is_correct": false }
+        ],
+        "answer": "रक्त पुरवठ्यासाठी"
+      },
+      {
+        "question_id": 32,
+        "question_type": "MCQ",
+        "question": "मेंदूपासून निघणाऱ्या दोरीसारख्या भागाला काय म्हणतात?",
+        "options": [
+          { "option_id": 1, "text": "मज्जारज्जू", "is_correct": true },
+          { "option_id": 2, "text": "श्वासनलिका", "is_correct": false },
+          { "option_id": 3, "text": "अन्ननलिका", "is_correct": false },
+          { "option_id": 4, "text": "रक्तवाहिनी", "is_correct": false }
+        ],
+        "answer": "मज्जारज्जू"
+      },
+      {
+        "question_id": 33,
+        "question_type": "MCQ",
+        "question": "अन्न चावताना तोंडात कोणता रस मिसळतो?",
+        "options": [
+          { "option_id": 1, "text": "पित्त", "is_correct": false },
+          { "option_id": 2, "text": "जठररस", "is_correct": false },
+          { "option_id": 3, "text": "लाळ", "is_correct": true },
+          { "option_id": 4, "text": "रक्त", "is_correct": false }
+        ],
+        "answer": "लाळ"
+      },
+      {
+        "question_id": 34,
+        "question_type": "MCQ",
+        "question": "हृदय आणि रक्तवाहिन्या मिळून कोणती संस्था बनते?",
+        "options": [
+          { "option_id": 1, "text": "श्वसन संस्था", "is_correct": false },
+          { "option_id": 2, "text": "रक्ताभिसरण संस्था", "is_correct": true },
+          { "option_id": 3, "text": "पचन संस्था", "is_correct": false },
+          { "option_id": 4, "text": "अस्थि संस्था", "is_correct": false }
+        ],
+        "answer": "रक्ताभिसरण संस्था"
+      },
+      {
+        "question_id": 35,
+        "question_type": "MCQ",
+        "question": "फुफ्फुसांची रचना कशी असते?",
+        "options": [
+          { "option_id": 1, "text": "कठोर", "is_correct": false },
+          { "option_id": 2, "text": "स्पंजासारखी लवचिक", "is_correct": true },
+          { "option_id": 3, "text": "द्रवरूप", "is_correct": false },
+          { "option_id": 4, "text": "पोकळ बांबूंसारखी", "is_correct": false }
+        ],
+        "answer": "स्पंजासारखी लवचिक"
+      },
+      {
+        "question_id": 36,
+        "question_type": "MCQ",
+        "question": "अन्ननलिकेची लांबी अंदाजे किती असते?",
+        "options": [
+          { "option_id": 1, "text": "१० सेमी", "is_correct": false },
+          { "option_id": 2, "text": "२५ सेमी", "is_correct": true },
+          { "option_id": 3, "text": "१ मीटर", "is_correct": false },
+          { "option_id": 4, "text": "५ सेमी", "is_correct": false }
+        ],
+        "answer": "२५ सेमी"
+      },
+      {
+        "question_id": 37,
+        "question_type": "MCQ",
+        "question": "चेतासंस्थेचे मुख्य केंद्र कोणते?",
+        "options": [
+          { "option_id": 1, "text": "हृदय", "is_correct": false },
+          { "option_id": 2, "text": "यकृत", "is_correct": false },
+          { "option_id": 3, "text": "मेंदू", "is_correct": true },
+          { "option_id": 4, "text": "वृक्क", "is_correct": false }
+        ],
+        "answer": "मेंदू"
+      },
+      {
+        "question_id": 38,
+        "question_type": "MCQ",
+        "question": "लहान आतड्याची लांबी साधारण किती असते?",
+        "options": [
+          { "option_id": 1, "text": "१ मीटर", "is_correct": false },
+          { "option_id": 2, "text": "३ मीटर", "is_correct": false },
+          { "option_id": 3, "text": "७ मीटर", "is_correct": true },
+          { "option_id": 4, "text": "१५ मीटर", "is_correct": false }
+        ],
+        "answer": "७ मीटर"
+      },
+      {
+        "question_id": 39,
+        "question_type": "MCQ",
+        "question": "श्वासनलिका पुढे विभागून कशात शिरते?",
+        "options": [
+          { "option_id": 1, "text": "जठर", "is_correct": false },
+          { "option_id": 2, "text": "फुफ्फुसे", "is_correct": true },
+          { "option_id": 3, "text": "हृदय", "is_correct": false },
+          { "option_id": 4, "text": "आतडे", "is_correct": false }
+        ],
+        "answer": "फुफ्फुसे"
+      },
+      {
+        "question_id": 40,
+        "question_type": "MCQ",
+        "question": "मानवी शरीरात फुफ्फुसांची संख्या किती असते?",
+        "options": [
+          { "option_id": 1, "text": "एक", "is_correct": false },
+          { "option_id": 2, "text": "दोन", "is_correct": true },
+          { "option_id": 3, "text": "तीन", "is_correct": false },
+          { "option_id": 4, "text": "चार", "is_correct": false }
+        ],
+        "answer": "दोन"
+      },
+      {
+        "question_id": 41,
+        "question_type": "MCQ",
+        "question": "नाकाद्वारे हवा घेणे म्हणजे काय?",
+        "options": [
+          { "option_id": 1, "text": "श्वास", "is_correct": true },
+          { "option_id": 2, "text": "उच्छ्वास", "is_correct": false },
+          { "option_id": 3, "text": "पचन", "is_correct": false },
+          { "option_id": 4, "text": "रक्ताभिसरण", "is_correct": false }
+        ],
+        "answer": "श्वास"
+      },
+      {
+        "question_id": 42,
+        "question_type": "MCQ",
+        "question": "अन्ननलिकेला ग्रासिका असेही म्हणतात, हे विधान काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "बरोबर", "is_correct": true },
+          { "option_id": 2, "text": "चूक", "is_correct": false }
+        ],
+        "answer": "बरोबर"
+      },
+      {
+        "question_id": 43,
+        "question_type": "MCQ",
+        "question": "शरीराला ऊर्जा कशापासून मिळते?",
+        "options": [
+          { "option_id": 1, "text": "केवळ पाण्यापासून", "is_correct": false },
+          { "option_id": 2, "text": "अन्नाच्या पचनातून मिळणाऱ्या घटकांपासून", "is_correct": true },
+          { "option_id": 3, "text": "केवळ झोपण्यापासून", "is_correct": false },
+          { "option_id": 4, "text": "केवळ हसण्यापासून", "is_correct": false }
+        ],
+        "answer": "अन्नाच्या पचनातून मिळणाऱ्या घटकांपासून"
+      },
+      {
+        "question_id": 44,
+        "question_type": "MCQ",
+        "question": "धमन्या रक्ताला कोठून नेतात?",
+        "options": [
+          { "option_id": 1, "text": "हृदयाकडून शरीराकडे", "is_correct": true },
+          { "option_id": 2, "text": "शरीराकडून हृदयाकडे", "is_correct": false },
+          { "option_id": 3, "text": "मेंदूकडून पायाकडे", "is_correct": false },
+          { "option_id": 4, "text": "फुफ्फुसाकडून नाकाकडे", "is_correct": false }
+        ],
+        "answer": "हृदयाकडून शरीराकडे"
+      },
+      {
+        "question_id": 45,
+        "question_type": "MCQ",
+        "question": "नीला रक्ताला कोठून आणतात?",
+        "options": [
+          { "option_id": 1, "text": "हृदयाकडून शरीराकडे", "is_correct": false },
+          { "option_id": 2, "text": "शरीराकडून हृदयाकडे", "is_correct": true },
+          { "option_id": 3, "text": "मेंदूकडून जठराकडे", "is_correct": false },
+          { "option_id": 4, "text": "हाताकडून पायाकडे", "is_correct": false }
+        ],
+        "answer": "शरीराकडून हृदयाकडे"
+      },
+      {
+        "question_id": 46,
+        "question_type": "MCQ",
+        "question": "शिंक येणे हे शरीराचे काय आहे?",
+        "options": [
+          { "option_id": 1, "text": "आजार", "is_correct": false },
+          { "option_id": 2, "text": "संरक्षक प्रतिक्षिप्त क्रिया", "is_correct": true },
+          { "option_id": 3, "text": "सवय", "is_correct": false },
+          { "option_id": 4, "text": "व्यायाम", "is_correct": false }
+        ],
+        "answer": "संरक्षक प्रतिक्षिप्त क्रिया"
+      },
+      {
+        "question_id": 47,
+        "question_type": "MCQ",
+        "question": "जांभई येणे कशाचे लक्षण असू शकते?",
+        "options": [
+          { "option_id": 1, "text": "खूप भूक लागणे", "is_correct": false },
+          { "option_id": 2, "text": "शरीरात ऑक्सिजन कमी होणे/थकवा", "is_correct": true },
+          { "option_id": 3, "text": "खूप आनंद होणे", "is_correct": false },
+          { "option_id": 4, "text": "डोके दुखणे", "is_correct": false }
+        ],
+        "answer": "शरीरात ऑक्सिजन कमी होणे/थकवा"
+      },
+      {
+        "question_id": 48,
+        "question_type": "MCQ",
+        "question": "मानवी कवटीमध्ये किती हाडे स्थिर असतात?",
+        "options": [
+          { "option_id": 1, "text": "सर्व", "is_correct": false },
+          { "option_id": 2, "text": "खालचा जबडा सोडून सर्व", "is_correct": true },
+          { "option_id": 3, "text": "एकही नाही", "is_correct": false },
+          { "option_id": 4, "text": "केवळ नाकाचे हाड", "is_correct": false }
+        ],
+        "answer": "खालचा जबडा सोडून सर्व"
+      },
+      {
+        "question_id": 49,
+        "question_type": "MCQ",
+        "question": "पचनसंस्थेतील सर्वात लांब इंद्रिय कोणते?",
+        "options": [
+          { "option_id": 1, "text": "अन्ननलिका", "is_correct": false },
+          { "option_id": 2, "text": "जठर", "is_correct": false },
+          { "option_id": 3, "text": "लहान आतडे", "is_correct": true },
+          { "option_id": 4, "text": "मोठे आतडे", "is_correct": false }
+        ],
+        "answer": "लहान आतडे"
+      },
+      {
+        "question_id": 50,
+        "question_type": "MCQ",
+        "question": "पचन क्रिया कोठे पूर्ण होते?",
+        "options": [
+          { "option_id": 1, "text": "जठरात", "is_correct": false },
+          { "option_id": 2, "text": "लहान आतड्यात", "is_correct": true },
+          { "option_id": 3, "text": "मोठ्या आतड्यात", "is_correct": false },
+          { "option_id": 4, "text": "गुदद्वारात", "is_correct": false }
+        ],
+        "answer": "लहान आतड्यात"
+      },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आंतरेन्द्रिय म्हणजे काय?",
+      "answer": "शरीराच्या आत असणाऱ्या आणि शरीराची महत्त्वाची कामे करणाऱ्या इंद्रियांना आंतरेन्द्रिय म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "श्वसन संस्थेतील इंद्रियांची नावे सांगा.",
+      "answer": "नाक, श्वासनलिका, फुफ्फुसे आणि श्वसनपटल ही श्वसन संस्थेतील इंद्रिये आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पचन म्हणजे काय?",
+      "answer": "खाल्लेल्या अन्नाचे रूपांतर शरीराला पोषक अशा विद्राव्य घटकांत होण्याच्या क्रियेला पचन म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अन्ननलिका कोठून कोठपर्यंत असते?",
+      "answer": "अन्ननलिका घशापासून जठरापर्यंत असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "श्वास म्हणजे काय?",
+      "answer": "नाकावाटे हवा शरीरात घेण्याच्या क्रियेला श्वास म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उच्छ्वास म्हणजे काय?",
+      "answer": "शरीरातील हवा नाकावाटे बाहेर सोडण्याच्या क्रियेला उच्छ्वास म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "श्वसन म्हणजे काय?",
+      "answer": "श्वास आणि उच्छ्वास या दोन्ही क्रियांना मिळून श्वसन म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "फुफ्फुसे कोठे असतात?",
+      "answer": "फुफ्फुसे छातीच्या पोकळीत असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हृदय कोठे असते?",
+      "answer": "हृदय छातीच्या पोकळीत, मधोमध पण थोडे डाव्या बाजूला असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मेंदूचे मुख्य काम काय आहे?",
+      "answer": "शरीराच्या सर्व क्रियांवर नियंत्रण ठेवणे आणि संदेशांचे विश्लेषण करणे हे मेंदूचे काम आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रक्ताभिसरण म्हणजे काय?",
+      "answer": "हृदयाच्या कार्यामुळे शरीराच्या सर्व भागात रक्त सतत फिरत राहते, याला रक्ताभिसरण म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पचनसंस्थेतील इंद्रियांची नावे सांगा.",
+      "answer": "मुख, अन्ननलिका, जठर, लहान आतडे, मोठे आतडे, यकृत आणि स्वादुपिंड ही पचनसंस्थेतील इंद्रिये आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "लहान आतड्यात काय होते?",
+      "answer": "लहान आतड्यात अन्नाचे पचन पूर्ण होते आणि पचलेले अन्न रक्तात शोषले जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मोठ्या आतड्याचे कार्य काय?",
+      "answer": "न पचलेल्या अन्नातील पाणी शोषून घेणे हे मोठ्या आतड्याचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "श्वसनपटल म्हणजे काय?",
+      "answer": "छातीची पोकळी आणि पोटाची पोकळी यांच्या दरम्यान असलेल्या स्नायूंच्या पडद्याला श्वसनपटल म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नाकातील ओलसर चिकट पदार्थाला काय म्हणतात?",
+      "answer": "नाकातील ओलसर चिकट पदार्थाला शेंबूड (Mucus) म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "जठर म्हणजे काय?",
+      "answer": "जठर हे पचनसंस्थेतील पिशवीसारखे इंद्रिय आहे जेथे अन्न घुसळले जाते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "लाळेमुळे काय होते?",
+      "answer": "लाळेमुळे अन्न ओलसर होते आणि अन्नातील पिष्टमय पदार्थांचे पचन सुरू होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हृदयाचे ठोके आपण कोठे तपासू शकतो?",
+      "answer": "आपण मनगटावर नाडीचे ठोके किंवा छातीवर हृदयस्पंदन तपासू शकतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "धमनी आणि नीला यात काय फरक आहे?",
+      "answer": "धमनी हृदयाकडून रक्त शरीराकडे नेते, तर नीला शरीराकडून रक्त हृदयाकडे आणते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "चेतासंस्था म्हणजे काय?",
+      "answer": "मेंदू, मज्जारज्जू आणि मज्जातंतू यांनी मिळून बनलेल्या संस्थेला चेतासंस्था म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मज्जातंतूंचे कार्य काय?",
+      "answer": "शरीराच्या विविध भागांकडून मेंदूकडे संदेश नेणे आणि मेंदूचे आदेश भागांकडे पोहोचवणे हे मज्जातंतूंचे कार्य आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अन्न श्वासनलिकेत गेल्यास काय होते?",
+      "answer": "अन्न श्वासनलिकेत गेल्यास ठसका लागतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "श्वासपटल खाली सरकल्यावर हवा शरीरात का येते?",
+      "answer": "श्वासपटल खाली सरकल्यामुळे छातीची पोकळी वाढते आणि हवेचा दाब कमी झाल्यामुळे बाहेरची हवा फुफ्फुसात येते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पचनसंस्था कशाला म्हणतात?",
+      "answer": "अन्नाचे पचन करणाऱ्या सर्व इंद्रियांना मिळून पचनसंस्था म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "यकृत कोठे असते?",
+      "answer": "यकृत पोटाच्या वरच्या भागात उजव्या बाजूला असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रक्ताभिसरण का आवश्यक आहे?",
+      "answer": "शरीराच्या प्रत्येक पेशीला अन्न आणि ऑक्सिजन पुरवण्यासाठी रक्ताभिसरण आवश्यक आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवटी म्हणजे काय?",
+      "answer": "मेंदूचे संरक्षण करणाऱ्या हाडांच्या मजबूत खोक्याला कवटी म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पाच इंद्रिये कोणती?",
+      "answer": "डोळे, कान, नाक, जीभ आणि त्वचा ही आपली पाच ज्ञानेंद्रिये आहेत."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "स्नायू म्हणजे काय?",
+      "answer": "शरीराच्या हालचाली घडवून आणणाऱ्या मांसल भागाला स्नायू म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "श्वासनलिकेच्या तोंडाशी काय असते?",
+      "answer": "श्वासनलिकेच्या तोंडाशी एक झडप असते जी अन्न गिळताना श्वासनलिका बंद करते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पचलेले अन्न रक्तात कोठे मिसळते?",
+      "answer": "पचलेले अन्न लहान आतड्याच्या भिंतींमधून रक्तात मिसळते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "रक्त शुद्ध होणे म्हणजे काय?",
+      "answer": "रक्तातील कार्बन डायऑक्साइड बाहेर काढून त्यात ऑक्सिजन मिसळणे म्हणजे रक्त शुद्ध होणे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "हृदय कशाचे बनलेले असते?",
+      "answer": "हृदय हे स्नायूंचे बनलेले असते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मेंदूला इजा झाल्यास काय होईल?",
+      "answer": "मेंदूला इजा झाल्यास माणूस मृत पावू शकतो किंवा त्याला अर्धांगवायू होऊ शकतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "विसर्जन संस्था म्हणजे काय?",
+      "answer": "शरीरातील टाकाऊ पदार्थ बाहेर टाकणाऱ्या इंद्रियांच्या गटाला विसर्जन संस्था म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "मूत्रपिंडाचे कार्य काय?",
+      "answer": "रक्तातील टाकाऊ पदार्थ गाळून लघवी तयार करणे हे मूत्रपिंडाचे कार्य आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "लाळग्रंथी कोठे असतात?",
+      "answer": "लाळग्रंथी तोंडात (जीभेखाली आणि गालांच्या आत) असतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शरीराची वाढ कशावर अवलंबून असते?",
+      "answer": "शरीराची वाढ आपण घेत असलेल्या अन्नावर आणि त्याच्या पचनावर अवलंबून असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "फुफ्फुसात वायूंची अदलाबदल कोठे होते?",
+      "answer": "फुफ्फुसातील वायुकोशांमध्ये वायूंची अदलाबदल होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "रक्तवाहिन्यांचे दोन प्रकार सांगा.",
+      "answer": "धमनी आणि नीला हे रक्तवाहिन्यांचे दोन प्रकार आहेत."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "धमन्यांमध्ये कोणत्या प्रकारचे रक्त असते?",
+      "answer": "धमन्यांमध्ये सहसा ऑक्सिजनयुक्त (शुद्ध) रक्त असते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नीलांमध्ये कोणत्या प्रकारचे रक्त असते?",
+      "answer": "नीलांमध्ये सहसा कार्बन डायऑक्साइडयुक्त (अशुद्ध) रक्त असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हृदयाचे कार्य सतत का चालू राहावे लागते?",
+      "answer": "शरीराला जिवंत ठेवण्यासाठी प्रत्येक भागाला सतत रक्तपुरवठा होणे गरजेचे असते, म्हणून हृदय सतत काम करते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मज्जारज्जू कोठे असतो?",
+      "answer": "मज्जारज्जू पाठीच्या कण्यामध्ये असतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मेंदूला संदेश कसा मिळतो?",
+      "answer": "मज्जातंतूंमार्फत मेंदूला विजेच्या लहरींप्रमाणे संदेश मिळतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पचनसंस्थेत यकृताचे महत्त्व काय?",
+      "answer": "यकृत अन्नाच्या पचनासाठी आवश्यक असलेले पित्त तयार करते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "अन्न चावल्यामुळे काय फायदा होतो?",
+      "answer": "अन्न चावल्यामुळे ते बारीक होते आणि लाळ चांगल्या प्रकारे मिसळते, ज्यामुळे पचन सोपे होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "श्वसनपटल वर ढकलल्यास फुफ्फुसातील हवेचे काय होते?",
+      "answer": "श्वसनपटल वर ढकलल्यास फुफ्फुसावर दाब येतो आणि हवा नाकावाटे बाहेर ढकलली जाते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ज्ञानेंद्रिये मेंदूला काय माहिती देतात?",
+      "answer": "ज्ञानेंद्रिये सभोवतालच्या परिस्थितीची (रंग, गंध, आवाज, चव, स्पर्श) माहिती मेंदूला देतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "गुदद्वार म्हणजे काय?",
+      "answer": "पचनसंस्थेच्या शेवटच्या टोकाला जेथून विष्ठा बाहेर टाकली जाते, त्याला गुदद्वार म्हणतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "रक्तामध्ये ऑक्सिजन कोठून येतो?",
+      "answer": "रक्तामध्ये ऑक्सिजन फुफ्फुसातून श्वासाद्वारे घेतलेल्या हवेतून येतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "हृदय आणि फुफ्फुस कशामुळे सुरक्षित असतात?",
+      "answer": "हृदय आणि फुफ्फुस छातीच्या पिंजऱ्यामुळे (बरगड्यांमुळे) सुरक्षित असतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "अन्नाचा प्रवास तोंडापासून कोठे संपतो?",
+      "answer": "अन्नाचा प्रवास तोंडापासून सुरू होऊन गुदद्वारापाशी संपतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "श्वास घेताना पोट थोडे बाहेर का येते?",
+      "answer": "श्वास घेताना श्वसनपटल खाली सरकते आणि पोटातील इंद्रियांना खाली ढकलते, म्हणून पोट थोडे बाहेर येते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "आंतरेन्द्रिये अहोरात्र का काम करतात?",
+      "answer": "शरीराच्या जिवंतपणासाठी आवश्यक असलेल्या प्रक्रिया (श्वसन, रक्ताभिसरण) कधीही थांबू शकत नाहीत, म्हणून ती अहोरात्र काम करतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "नाडीचे ठोके कशामुळे जाणवतात?",
+      "answer": "हृदयाच्या आकुंचनामुळे धमन्यांमध्ये रक्ताची जी लाट निर्माण होते, त्यामुळे नाडीचे ठोके जाणवतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "स्वादुपिंड कशाला म्हणतात?",
+      "answer": "जठराच्या खाली असलेल्या इंद्रियाला स्वादुपिंड म्हणतात, जे पचनासाठी पाचकरस तयार करते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "मानवी शरीरात पाण्याचे महत्त्व काय?",
+      "answer": "रक्त प्रवाही ठेवण्यासाठी आणि टाकाऊ पदार्थ बाहेर टाकण्यासाठी पाणी आवश्यक आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "मेंदूला थकवा का येतो?",
+      "answer": "सतत काम केल्यामुळे किंवा अपुऱ्या विश्रांतीमुळे मेंदूला थकवा येतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "शरीराची सर्व कामे समन्वयाने का व्हावी लागतात?",
+      "answer": "शरीर नीट चालण्यासाठी सर्व इंद्रियांनी एकमेकांच्या मदतीने काम करणे गरजेचे असते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "जीभेचे कार्य काय?",
+      "answer": "चव ओळखणे आणि बोलण्यास मदत करणे हे जीभेचे कार्य आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पचनसंस्थेत किती लांबीचा मार्ग असतो?",
+      "answer": "तोंडापासून गुदद्वारापर्यंत साधारण ९ मीटर लांबीचा पचनमार्ग असतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "कष्टाची कामे करताना श्वास जलद का होतो?",
+      "answer": "कामासाठी जास्त ऊर्जेची आणि ऑक्सिजनची गरज असते, म्हणून श्वास जलद होतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "मज्जासंस्थेचा राजा कोणाला म्हणतात?",
+      "answer": "मेंदूला मज्जासंस्थेचा राजा म्हणतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "लाळ अन्नात मिसळली नाही तर काय होईल?",
+      "answer": "लाळ मिसळली नाही तर अन्न कोरडे राहील आणि ते गिळण्यास त्रास होईल."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "रक्त लाल का दिसते?",
+      "answer": "रक्तातील हिमोग्लोबिन या घटकामुळे रक्त लाल दिसते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "श्वासनलिकेचे विभाजन किती भागात होते?",
+      "answer": "श्वासनलिकेचे दोन श्वसनिनींमध्ये (Bronchi) विभाजन होते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "वृक्क (Kidney) कोठे असते?",
+      "answer": "वृक्क कंबरेच्या वर, पाठीच्या कण्याच्या दोन्ही बाजूला असते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "आपली आंतरेन्द्रिये कोठे सुरक्षित असतात?",
+      "answer": "आपली आंतरेन्द्रिये शरीरातील पोकळ्यांमध्ये आणि हाडांच्या पिंजऱ्यात सुरक्षित असतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "हृदयाचे ठोके मिनिटाला साधारण किती असतात?",
+      "answer": "निरोगी प्रौढ व्यक्तीच्या हृदयाचे ठोके मिनिटाला ७२ च्या आसपास असतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "रक्तातील पांढऱ्या पेशींचे काम काय?",
+      "answer": "रोगजंतूंशी लढून शरीराचे रक्षण करणे हे पांढऱ्या पेशींचे काम आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "अन्न पचनानंतर उरलेला कचरा काय असतो?",
+      "answer": "अन्न पचनानंतर उरलेला कचरा म्हणजे विष्ठा (शौच) होय."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "श्वास सोडताना छाती खाली का जाते?",
+      "answer": "फुफ्फुसातील हवा बाहेर गेल्यामुळे आणि श्वसनपटल शिथिल झाल्यामुळे छाती खाली जाते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पचनसंस्थेत कोणती आम्ले तयार होतात?",
+      "answer": "जठरात अन्नाच्या पचनासाठी हायड्रोक्लोरिक आम्ल (HCl) तयार होते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "मज्जातंतूंचे जाळे संपूर्ण शरीरात का असते?",
+      "answer": "शरीराच्या प्रत्येक भागाकडून संदेश मिळावा आणि नियंत्रण राहावे म्हणून मज्जातंतूंचे जाळे असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पचनमार्ग म्हणजे काय?",
+      "answer": "अन्न ज्या मार्गातून प्रवास करते (मुख ते गुदद्वार), त्याला पचनमार्ग म्हणतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "धुळीच्या ठिकाणी मास्क का लावावा?",
+      "answer": "श्वासावाटे धुळ फुफ्फुसात जाऊ नये म्हणून मास्क लावावा."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "मेंदूला ऑक्सिजन मिळाला नाही तर काय होईल?",
+      "answer": "मेंदूला ऑक्सिजन मिळाला नाही तर तो काम करणे थांबवेल आणि व्यक्ती बेशुद्ध होऊ शकते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "लाळेत कोणते विकर असते?",
+      "answer": "लाळेत 'टायलीन' (Amylase) नावाचे विकर असते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "हृदयाचा आकार साधारण किती असतो?",
+      "answer": "हृदयाचा आकार साधारणपणे त्या व्यक्तीच्या मिटलेल्या मुठीएवढा असतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "आतड्याच्या हालचालीला काय म्हणतात?",
+      "answer": "आतड्याच्या हालचालीला 'लहरी हालचाल' (Peristalsis) म्हणतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "अन्ननलिका आणि श्वासनलिका एकमेकांच्या जवळ असतात का?",
+      "answer": "हो, त्या एकमेकांच्या अगदी शेजारी असतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "विद्रव्य अन्न म्हणजे काय?",
+      "answer": "अन्नाचे पचन होऊन जे घटक पाण्यात सहज विरघळतात आणि रक्तात शोषले जातात, त्यांना विद्रव्य अन्न म्हणतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "फुफ्फुसाचे मुख्य कार्य काय?",
+      "answer": "हवेतील ऑक्सिजन रक्ताला देणे आणि रक्तातील कार्बन डायऑक्साइड बाहेर काढणे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "पचनसंस्थेत पाणी कोठे शोषले जाते?",
+      "answer": "पाणी प्रामुख्याने मोठ्या आतड्यात शोषले जाते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "स्मरणशक्ती कोठे असते?",
+      "answer": "स्मरणशक्ती मेंदूमध्ये साठवलेली असते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "रक्तातील तांबड्या पेशींचे कार्य काय?",
+      "answer": "शरीरातील प्रत्येक पेशीला ऑक्सिजन पोहोचवणे हे तांबड्या पेशींचे कार्य आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "दात नसतील तर काय त्रास होईल?",
+      "answer": "अन्न नीट चावता येणार नाही आणि पचनावर ताण येईल."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "श्वास रोखून धरल्यास काय होते?",
+      "answer": "शरीराला ऑक्सिजन मिळणे बंद होते आणि कार्बन डायऑक्साइड साठून गुदमरायला होते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "पचनक्रियेला मदत करणारे रस कोण तयार करते?",
+      "answer": "यकृत, स्वादुपिंड आणि जठराच्या भिंती पाचकरस तयार करतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "चेतापेशी म्हणजे काय?",
+      "answer": "चेतासंस्थेतील संदेशवहन करणाऱ्या मूलभूत पेशींना चेतापेशी म्हणतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "रक्तवाहिन्या कशाच्या बनलेल्या असतात?",
+      "answer": "रक्तवाहिन्या लवचिक स्नायूंच्या बनलेल्या नळ्या असतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "श्वासपटल कोणत्या पोकळ्यांना वेगळे करते?",
+      "answer": "श्वासपटल उदर पोकळी आणि वक्ष पोकळी यांना वेगळे करते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "अन्ननलिकेतून अन्न खाली कसे जाते?",
+      "answer": "अन्ननलिकेच्या स्नायूंच्या आकुंचन-प्रसरणामुळे अन्न खाली ढकलले जाते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "मानवी शरीरातील सर्वात मोठे इंद्रिय कोणते?",
+      "answer": "यकृत हे मानवी शरीरातील सर्वात मोठे आंतरेन्द्रिय आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "शिंक येताना डोळे बंद का होतात?",
+      "answer": "ही एक प्रतिक्षिप्त क्रिया आहे, जी मेंदूद्वारे नियंत्रित केली जाते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "झोपेतही श्वसन का चालू राहते?",
+      "answer": "श्वसन ही अनैच्छिक क्रिया आहे, जी मेंदूच्या सततच्या नियंत्रणाखाली असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "जठरातील अन्नाला काय म्हणतात?",
+      "answer": "जठरातील अर्धवट पचलेल्या अन्नाला 'कायम' (Chyme) म्हणतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "निरोगी शरीरासाठी काय करावे?",
+      "answer": "चांगले अन्न खाणे, पुरेसे पाणी पिणे, व्यायाम करणे आणि पुरेशी विश्रांती घेणे आवश्यक आहे."
+    }
+  ]
+}

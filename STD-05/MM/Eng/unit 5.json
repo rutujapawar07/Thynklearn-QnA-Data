@@ -1,0 +1,2019 @@
+{
+  "unit_metadata": {
+    "unit_id": "5.English.Unit05",
+    "standard": "5",
+    "subject": "English",
+    "medium": "English",
+    "unit_name": "Unit Five",
+    "included_lessons": [
+      "The Wind",
+      "Go! and Come!",
+      "The Golden Touch",
+      "Where Go the Boats?",
+      "Our Solar System",
+      "Guess What!"
+    ]
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What natural force is described in the poem 'The Wind'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Snow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the wind help us feel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Color",
+          "is_correct": false
+        }
+      ],
+      "answer": "Movement"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word shows movement away from the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stay",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word shows movement towards the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Jump",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who was given the golden touch?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A farmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A child",
+          "is_correct": false
+        }
+      ],
+      "answer": "A king"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What happened when the king touched objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They broke",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They turned to gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They disappeared",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They burned",
+          "is_correct": false
+        }
+      ],
+      "answer": "They turned to gold"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What lesson does 'The Golden Touch' teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Gold is useful",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Work less",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eat more",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed is bad"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What are boats compared to in the poem 'Where Go the Boats?'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birds",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Horses",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaves",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How many planets are there in our solar system?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "answer": "8"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mars",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Saturn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which star gives us heat and light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Jupiter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word is used to guess something?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Know",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Think",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Guess",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Guess"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which sense helps us feel the wind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Touch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Touch"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which object floats on water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Boat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Brick",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boat"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which planet is the largest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jupiter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What moves boats on water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smoke",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which word shows excitement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Guess!",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Guess!"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What should we avoid according to 'The Golden Touch'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Helping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What natural force is described in the poem 'The Wind'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Snow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the wind help us feel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Color",
+          "is_correct": false
+        }
+      ],
+      "answer": "Movement"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word shows movement away from the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stay",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which word shows movement towards the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Jump",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who was given the golden touch?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A farmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A child",
+          "is_correct": false
+        }
+      ],
+      "answer": "A king"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What happened when the king touched objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They broke",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They turned to gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They disappeared",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They burned",
+          "is_correct": false
+        }
+      ],
+      "answer": "They turned to gold"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What lesson does 'The Golden Touch' teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Gold is useful",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Work less",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eat more",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed is bad"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What are boats compared to in the poem 'Where Go the Boats?'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birds",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Horses",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaves",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "How many planets are there in our solar system?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "answer": "8"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mars",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Saturn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which star gives us heat and light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Jupiter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word is used to guess something?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Know",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Think",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Guess",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Guess"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which sense helps us feel the wind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Touch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Touch"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which object floats on water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Boat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Brick",
+          "is_correct": false
+        }
+      ],
+      "answer": "Boat"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which planet is the largest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jupiter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What moves boats on water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smoke",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which word shows excitement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Guess!",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Guess!"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What should we avoid according to 'The Golden Touch'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Helping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What natural force is described in the poem 'The Wind'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Snow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does the wind help us feel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Color",
+          "is_correct": false
+        }
+      ],
+      "answer": "Movement"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which word shows movement away from the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Come",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Go",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stay",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which word shows movement towards the speaker?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Go",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Run",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Jump",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who was given the golden touch?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A farmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A child",
+          "is_correct": false
+        }
+      ],
+      "answer": "A king"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What happened when the king touched objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They broke",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They turned to gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They disappeared",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They burned",
+          "is_correct": false
+        }
+      ],
+      "answer": "They turned to gold"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What lesson does 'The Golden Touch' teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Gold is useful",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Work less",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eat more",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed is bad"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What are boats compared to in the poem 'Where Go the Boats?'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birds",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Horses",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaves",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "How many planets are there in our solar system?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "answer": "8"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Wind is moving air."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What can wind move?",
+      "answer": "Wind can move leaves, clouds, and boats."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "'Go' means move away from the speaker."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "'Come' means move towards the speaker."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who had the golden touch?",
+      "answer": "A king had the golden touch."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What happened to food touched by the king?",
+      "answer": "The food turned into gold."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What lesson does the golden touch story teach?",
+      "answer": "It teaches us not to be greedy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Where do boats go?",
+      "answer": "Boats go on water."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What moves boats?",
+      "answer": "Wind moves boats."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which planet is nearest to the Sun?",
+      "answer": "Mercury is nearest to the Sun."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How many planets are there?",
+      "answer": "There are eight planets."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name any one planet.",
+      "answer": "Earth is a planet."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which planet is called the Red Planet?",
+      "answer": "Mars is called the Red Planet."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What gives us heat and light?",
+      "answer": "The Sun gives us heat and light."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which planet do we live on?",
+      "answer": "We live on Earth."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The solar system includes the Sun and planets."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does 'guess' mean?",
+      "answer": "'Guess' means to think without knowing for sure."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which sense helps us feel wind?",
+      "answer": "Our sense of touch helps us feel wind."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is greed bad?",
+      "answer": "Greed makes us unhappy."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What helps boats float?",
+      "answer": "Water helps boats float."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Wind is moving air."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What can wind move?",
+      "answer": "Wind can move leaves, clouds, and boats."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "'Go' means move away from the speaker."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "'Come' means move towards the speaker."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who had the golden touch?",
+      "answer": "A king had the golden touch."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What happened to food touched by the king?",
+      "answer": "The food turned into gold."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What lesson does the golden touch story teach?",
+      "answer": "It teaches us not to be greedy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Where do boats go?",
+      "answer": "Boats go on water."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What moves boats?",
+      "answer": "Wind moves boats."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which planet is nearest to the Sun?",
+      "answer": "Mercury is nearest to the Sun."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How many planets are there?",
+      "answer": "There are eight planets."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name any one planet.",
+      "answer": "Earth is a planet."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which planet is called the Red Planet?",
+      "answer": "Mars is called the Red Planet."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What gives us heat and light?",
+      "answer": "The Sun gives us heat and light."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which planet do we live on?",
+      "answer": "We live on Earth."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The solar system includes the Sun and planets."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does 'guess' mean?",
+      "answer": "'Guess' means to think without knowing for sure."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which sense helps us feel wind?",
+      "answer": "Our sense of touch helps us feel wind."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is greed bad?",
+      "answer": "Greed makes us unhappy."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What helps boats float?",
+      "answer": "Water helps boats float."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Wind is moving air."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What can wind move?",
+      "answer": "Wind can move leaves, clouds, and boats."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "'Go' means move away from the speaker."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "'Come' means move towards the speaker."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Who had the golden touch?",
+      "answer": "A king had the golden touch."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What happened to food touched by the king?",
+      "answer": "The food turned into gold."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What lesson does the golden touch story teach?",
+      "answer": "It teaches us not to be greedy."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Where do boats go?",
+      "answer": "Boats go on water."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What moves boats?",
+      "answer": "Wind moves boats."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Which planet is nearest to the Sun?",
+      "answer": "Mercury is nearest to the Sun."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "How many planets are there?",
+      "answer": "There are eight planets."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name any one planet.",
+      "answer": "Earth is a planet."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which planet is called the Red Planet?",
+      "answer": "Mars is called the Red Planet."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What gives us heat and light?",
+      "answer": "The Sun gives us heat and light."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which planet do we live on?",
+      "answer": "We live on Earth."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The solar system includes the Sun and planets."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What does 'guess' mean?",
+      "answer": "'Guess' means to think without knowing for sure."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which sense helps us feel wind?",
+      "answer": "Our sense of touch helps us feel wind."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is greed bad?",
+      "answer": "Greed makes us unhappy."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What helps boats float?",
+      "answer": "Water helps boats float."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Wind is moving air."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What can wind move?",
+      "answer": "Wind can move leaves, clouds, and boats."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "'Go' means move away from the speaker."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "'Come' means move towards the speaker."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Who had the golden touch?",
+      "answer": "A king had the golden touch."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What happened to food touched by the king?",
+      "answer": "The food turned into gold."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What lesson does the golden touch story teach?",
+      "answer": "It teaches us not to be greedy."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Where do boats go?",
+      "answer": "Boats go on water."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What moves boats?",
+      "answer": "Wind moves boats."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Which planet is nearest to the Sun?",
+      "answer": "Mercury is nearest to the Sun."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How many planets are there?",
+      "answer": "There are eight planets."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Name any one planet.",
+      "answer": "Earth is a planet."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Which planet is called the Red Planet?",
+      "answer": "Mars is called the Red Planet."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What gives us heat and light?",
+      "answer": "The Sun gives us heat and light."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Which planet do we live on?",
+      "answer": "We live on Earth."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The solar system includes the Sun and planets."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What does 'guess' mean?",
+      "answer": "'Guess' means to think without knowing for sure."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which sense helps us feel wind?",
+      "answer": "Our sense of touch helps us feel wind."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is greed bad?",
+      "answer": "Greed makes us unhappy."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What helps boats float?",
+      "answer": "Water helps boats float."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Wind is moving air."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What can wind move?",
+      "answer": "Wind can move leaves, clouds, and boats."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What does 'go' mean?",
+      "answer": "'Go' means move away from the speaker."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What does 'come' mean?",
+      "answer": "'Come' means move towards the speaker."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Who had the golden touch?",
+      "answer": "A king had the golden touch."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What happened to food touched by the king?",
+      "answer": "The food turned into gold."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What lesson does the golden touch story teach?",
+      "answer": "It teaches us not to be greedy."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Where do boats go?",
+      "answer": "Boats go on water."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What moves boats?",
+      "answer": "Wind moves boats."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Which planet is nearest to the Sun?",
+      "answer": "Mercury is nearest to the Sun."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How many planets are there?",
+      "answer": "There are eight planets."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Name any one planet.",
+      "answer": "Earth is a planet."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Which planet is called the Red Planet?",
+      "answer": "Mars is called the Red Planet."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What gives us heat and light?",
+      "answer": "The Sun gives us heat and light."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Which planet do we live on?",
+      "answer": "We live on Earth."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The solar system includes the Sun and planets."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What does 'guess' mean?",
+      "answer": "'Guess' means to think without knowing for sure."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Which sense helps us feel wind?",
+      "answer": "Our sense of touch helps us feel wind."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is greed bad?",
+      "answer": "Greed makes us unhappy."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What helps boats float?",
+      "answer": "Water helps boats float."
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 23,
+  "chapter_name": "छत्रपती राजर्षी शाहू महाराज",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "राजर्षी शाहू महाराजांचा जन्म कोठे झाला?",
+      "options": [
+        { "option_id": 1, "text": "कोल्हापूर", "is_correct": false },
+        { "option_id": 2, "text": "कागल", "is_correct": true },
+        { "option_id": 3, "text": "सातारा", "is_correct": false },
+        { "option_id": 4, "text": "पुणे", "is_correct": false }
+      ],
+      "answer": "कागल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जयसिंगराव घाटगे", "is_correct": true },
+        { "option_id": 2, "text": "राधाबाई", "is_correct": false },
+        { "option_id": 3, "text": "आबासाहेब", "is_correct": false },
+        { "option_id": 4, "text": "शिवाजीराव", "is_correct": false }
+      ],
+      "answer": "जयसिंगराव घाटगे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांचे लहानपणचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शिवाजी", "is_correct": false },
+        { "option_id": 2, "text": "प्रताप", "is_correct": false },
+        { "option_id": 3, "text": "यशवंतराव", "is_correct": true },
+        { "option_id": 4, "text": "संभाजी", "is_correct": false }
+      ],
+      "answer": "यशवंतराव"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोल्हापूरच्या गादीवर कधी अभिषेक करून घेतला?",
+      "options": [
+        { "option_id": 1, "text": "१८९४", "is_correct": true },
+        { "option_id": 2, "text": "१९००", "is_correct": false },
+        { "option_id": 3, "text": "१८८४", "is_correct": false },
+        { "option_id": 4, "text": "१९०२", "is_correct": false }
+      ],
+      "answer": "१८९४"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या धरणाची निर्मिती केली?",
+      "options": [
+        { "option_id": 1, "text": "कोयना", "is_correct": false },
+        { "option_id": 2, "text": "राधानगरी", "is_correct": true },
+        { "option_id": 3, "text": "पानशेत", "is_correct": false },
+        { "option_id": 4, "text": "गंगापूर", "is_correct": false }
+      ],
+      "answer": "राधानगरी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आरक्षणाचे जनक म्हणून कोणाला ओळखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "महात्मा गांधी", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. बाबासाहेब आंबेडकर", "is_correct": false },
+        { "option_id": 3, "text": "राजर्षी शाहू महाराज", "is_correct": true },
+        { "option_id": 4, "text": "लोकमान्य टिळक", "is_correct": false }
+      ],
+      "answer": "राजर्षी शाहू महाराज"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी दलित मुलांसाठी कोणते वस्तीगृह सुरू केले?",
+      "options": [
+        { "option_id": 1, "text": "मराठा बोर्डिंग", "is_correct": false },
+        { "option_id": 2, "text": "मिस क्लार्क हॉस्टेल", "is_correct": true },
+        { "option_id": 3, "text": "जैन बोर्डिंग", "is_correct": false },
+        { "option_id": 4, "text": "मुस्लिम बोर्डिंग", "is_correct": false }
+      ],
+      "answer": "मिस क्लार्क हॉस्टेल"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोल्हापूर संस्थानात मागासवर्गीयांना किती टक्के आरक्षण जाहीर केले?",
+      "options": [
+        { "option_id": 1, "text": "१० टक्के", "is_correct": false },
+        { "option_id": 2, "text": "५० टक्के", "is_correct": true },
+        { "option_id": 3, "text": "२५ टक्के", "is_correct": false },
+        { "option_id": 4, "text": "३३ टक्के", "is_correct": false }
+      ],
+      "answer": "५० टक्के"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणाला डॉक्टर होण्यासाठी मदत केली?",
+      "options": [
+        { "option_id": 1, "text": "डॉ. बाबासाहेब आंबेडकर", "is_correct": true },
+        { "option_id": 2, "text": "डॉ. पंजाबराव देशमुख", "is_correct": false },
+        { "option_id": 3, "text": "डॉ. लागू", "is_correct": false },
+        { "option_id": 4, "text": "डॉ. होमी भाभा", "is_correct": false }
+      ],
+      "answer": "डॉ. बाबासाहेब आंबेडकर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या खेळाला विशेष प्रोत्साहन दिले?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "कुस्ती", "is_correct": true },
+        { "option_id": 3, "text": "हॉकी", "is_correct": false },
+        { "option_id": 4, "text": "टेनिस", "is_correct": false }
+      ],
+      "answer": "कुस्ती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी प्राथमिक शिक्षण मोफत आणि सक्तीचे करण्याचा कायदा कधी केला?",
+      "options": [
+        { "option_id": 1, "text": "१९१७", "is_correct": true },
+        { "option_id": 2, "text": "१९२२", "is_correct": false },
+        { "option_id": 3, "text": "१९१०", "is_correct": false },
+        { "option_id": 4, "text": "१९०५", "is_correct": false }
+      ],
+      "answer": "१९१७"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या साली कोल्हापूरमध्ये कुस्तीचे मैदान (खासबाग) बांधले?",
+      "options": [
+        { "option_id": 1, "text": "१९१२", "is_correct": true },
+        { "option_id": 2, "text": "१९२०", "is_correct": false },
+        { "option_id": 3, "text": "१९०७", "is_correct": false },
+        { "option_id": 4, "text": "१८९४", "is_correct": false }
+      ],
+      "answer": "१९१२"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या आईचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आनंदीबाई", "is_correct": false },
+        { "option_id": 2, "text": "राधाबाई", "is_correct": true },
+        { "option_id": 3, "text": "जिजाबाई", "is_correct": false },
+        { "option_id": 4, "text": "लक्ष्मीबाई", "is_correct": false }
+      ],
+      "answer": "राधाबाई"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कोणत्या संमेलनात शाहू महाराजांना 'राजर्षी' पदवी देण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "मराठी साहित्य संमेलन", "is_correct": false },
+        { "option_id": 2, "text": "कानपूर येथील कुर्मी क्षत्रिय सभा", "is_correct": true },
+        { "option_id": 3, "text": "ब्राह्मणेतर परिषद", "is_correct": false },
+        { "option_id": 4, "text": "मूकनायक सभा", "is_correct": false }
+      ],
+      "answer": "कानपूर येथील कुर्मी क्षत्रिय सभा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी अस्पृश्यतेविरुद्ध लढा देण्यासाठी कोणती प्रथा बंद केली?",
+      "options": [
+        { "option_id": 1, "text": "सती प्रथा", "is_correct": false },
+        { "option_id": 2, "text": "बलुतेदारी (वतनदारी)", "is_correct": true },
+        { "option_id": 3, "text": "केशवपन", "is_correct": false },
+        { "option_id": 4, "text": "बालविवाह", "is_correct": false }
+      ],
+      "answer": "बलुतेदारी (वतनदारी)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी शेतकऱ्यांच्या मुलांसाठी कोणती शाळा सुरू केली?",
+      "options": [
+        { "option_id": 1, "text": "पाटील शाळा", "is_correct": true },
+        { "option_id": 2, "text": "सैनिकी शाळा", "is_correct": false },
+        { "option_id": 3, "text": "इंग्रजी शाळा", "is_correct": false },
+        { "option_id": 4, "text": "संगीत शाळा", "is_correct": false }
+      ],
+      "answer": "पाटील शाळा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी डॉ. आंबेडकरांच्या कोणत्या वृत्तपत्राला आर्थिक मदत केली?",
+      "options": [
+        { "option_id": 1, "text": "केसरी", "is_correct": false },
+        { "option_id": 2, "text": "मूकनायक", "is_correct": true },
+        { "option_id": 3, "text": "सुधारक", "is_correct": false },
+        { "option_id": 4, "text": "बहिष्कृत भारत", "is_correct": false }
+      ],
+      "answer": "मूकनायक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "महाराजांनी कोल्हापुरात कोणती गिरणी (Mill) सुरू केली?",
+      "options": [
+        { "option_id": 1, "text": "लक्ष्मी विलास", "is_correct": false },
+        { "option_id": 2, "text": "शाहू स्पिनिंग अँड विव्हिंग मिल", "is_correct": true },
+        { "option_id": 3, "text": "कोल्हापूर मिल", "is_correct": false },
+        { "option_id": 4, "text": "रयत गिरणी", "is_correct": false }
+      ],
+      "answer": "शाहू स्पिनिंग अँड विव्हिंग मिल"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी विधवा विवाहास कायदेशीर मान्यता कधी दिली?",
+      "options": [
+        { "option_id": 1, "text": "१९१७", "is_correct": true },
+        { "option_id": 2, "text": "१८९०", "is_correct": false },
+        { "option_id": 3, "text": "१९२०", "is_correct": false },
+        { "option_id": 4, "text": "१९०१", "is_correct": false }
+      ],
+      "answer": "१९१७"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या परिषदेत डॉ. आंबेडकरांना 'दलितांचा नेता' म्हणून घोषित केले?",
+      "options": [
+        { "option_id": 1, "text": "माणगाव परिषद", "is_correct": true },
+        { "option_id": 2, "text": "नागपूर परिषद", "is_correct": false },
+        { "option_id": 3, "text": "पुणे परिषद", "is_correct": false },
+        { "option_id": 4, "text": "कोल्हापूर परिषद", "is_correct": false }
+      ],
+      "answer": "माणगाव परिषद"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांना दत्तक विधान केल्यानंतर कोणत्या नावाने ओळखले जाऊ लागले?",
+      "options": [
+        { "option_id": 1, "text": "छत्रपती शिवाजी", "is_correct": false },
+        { "option_id": 2, "text": "छत्रपती शाहू", "is_correct": true },
+        { "option_id": 3, "text": "छत्रपती संभाजी", "is_correct": false },
+        { "option_id": 4, "text": "छत्रपती प्रतापसिंह", "is_correct": false }
+      ],
+      "answer": "छत्रपती शाहू"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कोल्हापूर संस्थानात 'स्त्री अत्याचाराविरुद्ध' कडक कायदा कोणी केला?",
+      "options": [
+        { "option_id": 1, "text": "राजर्षी शाहू महाराज", "is_correct": true },
+        { "option_id": 2, "text": "ज्योतिराव फुले", "is_correct": false },
+        { "option_id": 3, "text": "सयाजीराव गायकवाड", "is_correct": false },
+        { "option_id": 4, "text": "विठ्ठल रामजी शिंदे", "is_correct": false }
+      ],
+      "answer": "राजर्षी शाहू महाराज"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी 'सत्यशोधक समाज' च्या शाखा कोठे स्थापन केल्या?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "कोल्हापूर", "is_correct": true },
+        { "option_id": 3, "text": "पुणे", "is_correct": false },
+        { "option_id": 4, "text": "सातारा", "is_correct": false }
+      ],
+      "answer": "कोल्हापूर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी देवदासी प्रथा बंद करण्यासाठी कोणता कायदा केला?",
+      "options": [
+        { "option_id": 1, "text": "१९१९", "is_correct": false },
+        { "option_id": 2, "text": "१९२०", "is_correct": true },
+        { "option_id": 3, "text": "१९१५", "is_correct": false },
+        { "option_id": 4, "text": "१९२२", "is_correct": false }
+      ],
+      "answer": "१९२०"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "महाराजांनी कलावंतांना आश्रय देण्यासाठी कोणाची नेमणूक केली होती?",
+      "options": [
+        { "option_id": 1, "text": "अल्लादिया खाँ", "is_correct": true },
+        { "option_id": 2, "text": "बालगंधर्व", "is_correct": false },
+        { "option_id": 3, "text": "भीमसेन जोशी", "is_correct": false },
+        { "option_id": 4, "text": "पंडित जसराज", "is_correct": false }
+      ],
+      "answer": "अल्लादिया खाँ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या संस्थानाचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "सातारा", "is_correct": false },
+        { "option_id": 2, "text": "कोल्हापूर", "is_correct": true },
+        { "option_id": 3, "text": "सांगली", "is_correct": false },
+        { "option_id": 4, "text": "बडोदा", "is_correct": false }
+      ],
+      "answer": "कोल्हापूर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "महाराजांनी शिक्षण प्रसारासाठी कोल्हापुरात किती वस्तीगृहे बांधली?",
+      "options": [
+        { "option_id": 1, "text": "५", "is_correct": false },
+        { "option_id": 2, "text": "२० पेक्षा जास्त", "is_correct": true },
+        { "option_id": 3, "text": "१०", "is_correct": false },
+        { "option_id": 4, "text": "५०", "is_correct": false }
+      ],
+      "answer": "२० पेक्षा जास्त"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी शेतकऱ्यांसाठी कोणती सहकारी संस्था स्थापन केली?",
+      "options": [
+        { "option_id": 1, "text": "मराठा बँक", "is_correct": false },
+        { "option_id": 2, "text": "किंग एडवर्ड को-ऑपरेटिव्ह सोसायटी", "is_correct": true },
+        { "option_id": 3, "text": "रयत संस्था", "is_correct": false },
+        { "option_id": 4, "text": "कोल्हापूर सहकारी संस्था", "is_correct": false }
+      ],
+      "answer": "किंग एडवर्ड को-ऑपरेटिव्ह सोसायटी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणाच्या विचारांचा वारसा पुढे नेला?",
+      "options": [
+        { "option_id": 1, "text": "महात्मा फुले", "is_correct": true },
+        { "option_id": 2, "text": "स्वामी विवेकानंद", "is_correct": false },
+        { "option_id": 3, "text": "महर्षी कर्वे", "is_correct": false },
+        { "option_id": 4, "text": "गोपाळ गणेश आगरकर", "is_correct": false }
+      ],
+      "answer": "महात्मा फुले"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या पत्नीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आनंदीबाई", "is_correct": false },
+        { "option_id": 2, "text": "लक्ष्मीबाई", "is_correct": true },
+        { "option_id": 3, "text": "रमाबाई", "is_correct": false },
+        { "option_id": 4, "text": "सावित्रीबाई", "is_correct": false }
+      ],
+      "answer": "लक्ष्मीबाई"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या दिवशी आरक्षण जाहीर केले?",
+      "options": [
+        { "option_id": 1, "text": "२६ जुलै १९०२", "is_correct": true },
+        { "option_id": 2, "text": "१५ ऑगस्ट १९४७", "is_correct": false },
+        { "option_id": 3, "text": "२६ जानेवारी १९५०", "is_correct": false },
+        { "option_id": 4, "text": "१ मे १९६०", "is_correct": false }
+      ],
+      "answer": "२६ जुलै १९०२"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या धर्माचा प्रसार करण्यासाठी 'क्षत्रिय जगद्गुरू' पद निर्माण केले?",
+      "options": [
+        { "option_id": 1, "text": "ख्रिश्चन", "is_correct": false },
+        { "option_id": 2, "text": "बौद्ध", "is_correct": false },
+        { "option_id": 3, "text": "ब्राह्मणेतर धर्माचे अधिकार जपण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "इस्लाम", "is_correct": false }
+      ],
+      "answer": "ब्राह्मणेतर धर्माचे अधिकार जपण्यासाठी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या महान खेळाडूला कुस्तीसाठी कोल्हापुरात बोलावले होते?",
+      "options": [
+        { "option_id": 1, "text": "खाशाबा जाधव", "is_correct": false },
+        { "option_id": 2, "text": "गामा पैलवान", "is_correct": true },
+        { "option_id": 3, "text": "दत्ताजीराव", "is_correct": false },
+        { "option_id": 4, "text": "मारुती माने", "is_correct": false }
+      ],
+      "answer": "गामा पैलवान"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या ठिकाणी आपली प्राथमिक शाळा पूर्ण केली?",
+      "options": [
+        { "option_id": 1, "text": "राजकोट", "is_correct": true },
+        { "option_id": 2, "text": "लंडन", "is_correct": false },
+        { "option_id": 3, "text": "धारवाड", "is_correct": false },
+        { "option_id": 4, "text": "पुणे", "is_correct": false }
+      ],
+      "answer": "राजकोट"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांना कोणत्या नावाने रयत ओळखत असे?",
+      "options": [
+        { "option_id": 1, "text": "देवमाणूस", "is_correct": false },
+        { "option_id": 2, "text": "लोकराजा", "is_correct": true },
+        { "option_id": 3, "text": "महात्मा", "is_correct": false },
+        { "option_id": 4, "text": "क्रांतिसूर्य", "is_correct": false }
+      ],
+      "answer": "लोकराजा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "महाराजांनी कोल्हापुरात कोणाला वकिली करण्यासाठी प्रोत्साहन दिले?",
+      "options": [
+        { "option_id": 1, "text": "ना. म. जोशी", "is_correct": false },
+        { "option_id": 2, "text": "बाबूराव पेंटर", "is_correct": false },
+        { "option_id": 3, "text": "खंडेराव बागल", "is_correct": true },
+        { "option_id": 4, "text": "श्रीपतराव शिंदे", "is_correct": false }
+      ],
+      "answer": "खंडेराव बागल"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी आंतरजातीय विवाहास मान्यता देणारा कायदा कधी केला?",
+      "options": [
+        { "option_id": 1, "text": "१९१८", "is_correct": true },
+        { "option_id": 2, "text": "१९०५", "is_correct": false },
+        { "option_id": 3, "text": "१९२५", "is_correct": false },
+        { "option_id": 4, "text": "१९१२", "is_correct": false }
+      ],
+      "answer": "१९१८"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "महाराजांनी कोल्हापुरातील कोणत्या तलावाचे काम पूर्ण केले?",
+      "options": [
+        { "option_id": 1, "text": "रंकाळा", "is_correct": true },
+        { "option_id": 2, "text": "पाचगाव", "is_correct": false },
+        { "option_id": 3, "text": "शिवाजी तलाव", "is_correct": false },
+        { "option_id": 4, "text": "कळंबा", "is_correct": false }
+      ],
+      "answer": "रंकाळा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांचे निधन कोठे झाले?",
+      "options": [
+        { "option_id": 1, "text": "कोल्हापूर", "is_correct": false },
+        { "option_id": 2, "text": "मुंबई", "is_correct": true },
+        { "option_id": 3, "text": "पुणे", "is_correct": false },
+        { "option_id": 4, "text": "दिल्ली", "is_correct": false }
+      ],
+      "answer": "मुंबई"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या निधनाची तारीख काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "६ मे १९२२", "is_correct": true },
+        { "option_id": 2, "text": "२६ जून १८७४", "is_correct": false },
+        { "option_id": 3, "text": "१ ऑगस्ट १९२०", "is_correct": false },
+        { "option_id": 4, "text": "१४ एप्रिल १८९१", "is_correct": false }
+      ],
+      "answer": "६ मे १९२२"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणाला आपल्या दरबारी चित्रकार म्हणून नेमले होते?",
+      "options": [
+        { "option_id": 1, "text": "बाबूराव पेंटर", "is_correct": true },
+        { "option_id": 2, "text": "राजा रवी वर्मा", "is_correct": false },
+        { "option_id": 3, "text": "एम. एफ. हुसेन", "is_correct": false },
+        { "option_id": 4, "text": "दलवी गुरुजी", "is_correct": false }
+      ],
+      "answer": "बाबूराव पेंटर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "महाराजांनी कोल्हापुरात कोणते वाचनालय सुरू केले?",
+      "options": [
+        { "option_id": 1, "text": "शाहू वाचनालय", "is_correct": false },
+        { "option_id": 2, "text": "करवीर नगर वाचन मंदिर", "is_correct": true },
+        { "option_id": 3, "text": "मराठा लायब्ररी", "is_correct": false },
+        { "option_id": 4, "text": "राजश्री लायब्ररी", "is_correct": false }
+      ],
+      "answer": "करवीर नगर वाचन मंदिर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोणत्या परदेशी माणसाला आपला शिकारी गुरु मानले होते?",
+      "options": [
+        { "option_id": 1, "text": "कॅप्टन डिक", "is_correct": true },
+        { "option_id": 2, "text": "लॉर्ड कर्झन", "is_correct": false },
+        { "option_id": 3, "text": "सर फेरिस", "is_correct": false },
+        { "option_id": 4, "text": "माउंटबॅटन", "is_correct": false }
+      ],
+      "answer": "कॅप्टन डिक"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी शेतीसाठी आधुनिक अवजारे कोठून मागवली होती?",
+      "options": [
+        { "option_id": 1, "text": "इंग्लंड", "is_correct": true },
+        { "option_id": 2, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 3, "text": "रशिया", "is_correct": false },
+        { "option_id": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "इंग्लंड"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "महाराजांच्या कार्यामुळे त्यांना काय म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रयतेचा राजा", "is_correct": true },
+        { "option_id": 2, "text": "साम्राज्यवादी", "is_correct": false },
+        { "option_id": 3, "text": "अहंकारी", "is_correct": false },
+        { "option_id": 4, "text": "केवळ संस्थानिक", "is_correct": false }
+      ],
+      "answer": "रयतेचा राजा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांनी कोल्हापुरात कोणत्या धर्मासाठी वस्तीगृह बांधले?",
+      "options": [
+        { "option_id": 1, "text": "जैन", "is_correct": false },
+        { "option_id": 2, "text": "मुस्लिम", "is_correct": false },
+        { "option_id": 3, "text": "वीरशैव लिंगायत", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "महाराजांच्या मुलाचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "राजाराम", "is_correct": true },
+        { "option_id": 2, "text": "शिवाजी", "is_correct": false },
+        { "option_id": 3, "text": "संभाजी", "is_correct": false },
+        { "option_id": 4, "text": "प्रतापसिंह", "is_correct": false }
+      ],
+      "answer": "राजाराम"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या स्मरणार्थ 'शाहू पुरस्कार' कोणाकडून दिला जातो?",
+      "options": [
+        { "option_id": 1, "text": "कोल्हापूर महानगरपालिका", "is_correct": false },
+        { "option_id": 2, "text": "शाहू स्मारक ट्रस्ट", "is_correct": true },
+        { "option_id": 3, "text": "महाराष्ट्र शासन", "is_correct": false },
+        { "option_id": 4, "text": "भारत सरकार", "is_correct": false }
+      ],
+      "answer": "शाहू स्मारक ट्रस्ट"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "महाराजांनी कोणत्या उद्योगासाठी बागलकोटहून तज्ञ बोलावले होते?",
+      "options": [
+        { "option_id": 1, "text": "कापड उद्योग", "is_correct": false },
+        { "option_id": 2, "text": "साखर उद्योग", "is_correct": false },
+        { "option_id": 3, "text": "चर्मोद्योग", "is_correct": true },
+        { "option_id": 4, "text": "लोह उद्योग", "is_correct": false }
+      ],
+      "answer": "चर्मोद्योग"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शाहू महाराजांच्या जयंतीचा दिवस (२६ जून) कोणता दिवस म्हणून साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण दिन", "is_correct": false },
+        { "option_id": 2, "text": "सामाजिक न्याय दिन", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी दिन", "is_correct": false },
+        { "option_id": 4, "text": "क्रीडा दिन", "is_correct": false }
+      ],
+      "answer": "सामाजिक न्याय दिन"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "राजर्षी शाहू महाराजांचा जन्म कधी झाला?",
+      "answer": "राजर्षी शाहू महाराजांचा जन्म २६ जून १८७४ रोजी झाला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांच्या जन्मस्थळाचे नाव काय?",
+      "answer": "शाहू महाराजांचा जन्म कागल येथील घाटगे घराण्यात झाला."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांना कोल्हापूरच्या गादीवर कोणी दत्तक घेतले?",
+      "answer": "शाहू महाराजांना कोल्हापूरच्या राजमाता आनंदीबाई यांनी दत्तक घेतले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "महाराजांनी शिक्षणासाठी कोणता महत्त्वाचा कायदा केला?",
+      "answer": "महाराजांनी १९१७ मध्ये प्राथमिक शिक्षण मोफत आणि सक्तीचे करण्याचा कायदा केला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणाच्या कल्याणासाठी आयुष्य वेचले?",
+      "answer": "महाराजांनी दीन-दलित, कष्टकरी, शेतकरी आणि मागासवर्गीयांच्या कल्याणासाठी आयुष्य वेचले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला उच्च शिक्षणासाठी लंडनला पाठवले?",
+      "answer": "शाहू महाराजांनी डॉ. बाबासाहेब आंबेडकरांना उच्च शिक्षणासाठी लंडनला पाठवले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणते प्रसिद्ध धरण बांधले?",
+      "answer": "महाराजांनी राधानगरी (दाजीपूर) हे धरण बांधले."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी आरक्षणाचे धोरण कधी राबवले?",
+      "answer": "महाराजांनी २६ जुलै १९०२ रोजी ५० टक्के आरक्षणाचे धोरण राबवले."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कुस्तीसाठी कोल्हापुरात कोणते मैदान बांधले?",
+      "answer": "महाराजांनी कुस्तीसाठी 'खासबाग' हे भव्य मैदान बांधले."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांना 'राजर्षी' ही पदवी कोणी दिली?",
+      "answer": "कानपूर येथील कुर्मी क्षत्रिय सभेने त्यांना 'राजर्षी' ही पदवी दिली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या समाजाच्या कार्याला पाठिंबा दिला?",
+      "answer": "महाराजांनी महात्मा फुले यांच्या 'सत्यशोधक समाज' या संस्थेच्या कार्याला पाठिंबा दिला."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "महाराजांनी विद्यार्थ्यांसाठी कोल्हापुरात काय सुरू केले?",
+      "answer": "महाराजांनी विविध जाती-धर्माच्या विद्यार्थ्यांसाठी सुमारे २० हून अधिक वस्तीगृहे (Boardings) सुरू केली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी शेतकऱ्यांसाठी काय केले?",
+      "answer": "महाराजांनी शेतकऱ्यांसाठी धरणे बांधली, सहकारी संस्था स्थापन केल्या आणि आधुनिक शेतीचे प्रशिक्षण दिले."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी अस्पृश्यता निवारणासाठी कोणते पाऊल उचलले?",
+      "answer": "महाराजांनी गंगाराम कांबळे या दलित व्यक्तीला हॉटेल काढून दिले आणि स्वतः तिथे जाऊन चहा पिला."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "महाराजांनी स्त्रियांसाठी कोणते कायदे केले?",
+      "answer": "महाराजांनी विधवा विवाह कायदा आणि आंतरजातीय विवाह कायदा मंजूर केला."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कलावंतांना कसे प्रोत्साहन दिले?",
+      "answer": "महाराजांनी बालगंधर्व, अल्लादिया खाँ आणि बाबूराव पेंटर यांसारख्या कलावंतांना राजाश्रय दिला."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "माणगाव परिषदेचे महत्त्व काय?",
+      "answer": "या परिषदेत महाराजांनी डॉ. आंबेडकरांना दलितांचा नेता म्हणून मान्यता दिली."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "महाराजांनी लष्करी शिक्षणासाठी काय केले?",
+      "answer": "महाराजांनी कोल्हापुरात 'इन्फंट्री' आणि लष्करी शाळा स्थापन करण्यास प्रोत्साहन दिले."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांचे शिक्षण कोठे झाले?",
+      "answer": "शाहू महाराजांचे शिक्षण राजकोट आणि धारवाड येथे झाले."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांच्या काळात कोल्हापूरला काय म्हटले जात असे?",
+      "answer": "शाहू महाराजांच्या काळात कोल्हापूरला 'विद्येचे माहेरघर' आणि 'कलेची पंढरी' म्हटले जात असे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "महाराजांनी वतनदारी प्रथा का नष्ट केली?",
+      "answer": "महाराजांनी गरिबांचे शोषण थांबवण्यासाठी आणि त्यांना स्वतंत्रपणे जगता यावे यासाठी वतनदारी नष्ट केली."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या वृत्तपत्राला मदत केली?",
+      "answer": "महाराजांनी 'मूकनायक' आणि 'विजयी मराठा' या वृत्तपत्रांना आर्थिक मदत केली."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांच्या रथाचे नाव काय होते?",
+      "answer": "शाहू महाराजांच्या रथाचे नाव 'अंबारी' असलेला हत्ती किंवा शिकारी रथ होता."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या खेळासाठी युरोपमधून प्रशिक्षक आणले?",
+      "answer": "महाराजांनी मल्लखांब आणि कुस्तीसाठी तज्ञ प्रशिक्षकांची सोय केली होती."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणती गिरणी स्थापन केली?",
+      "answer": "महाराजांनी 'शाहू स्पिनिंग अँड विव्हिंग मिल' ही कापड गिरणी स्थापन केली."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "महाराजांनी गुन्हेगार जातींच्या लोकांसाठी काय केले?",
+      "answer": "महाराजांनी गुन्हेगार समजल्या जाणाऱ्या जातींची 'हाजिरी' पद्धत बंद करून त्यांना मानाने जगू दिले."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "महाराजांच्या वडिलांचे नाव काय होते?",
+      "answer": "महाराजांच्या वडिलांचे नाव जयसिंगराव (आबासाहेब) घाटगे होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला वकिलीची सनद दिली?",
+      "answer": "महाराजांनी अनेक दलित आणि मागासवर्गीय तरुणांना वकिलीची सनद मिळवून दिली."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांच्या जयंतीदिनी कोणता उत्सव साजरा होतो?",
+      "answer": "शाहू महाराजांच्या जयंतीदिनी 'सामाजिक न्याय दिन' साजरा होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "महाराजांच्या निधनानंतर कोल्हापूरच्या गादीवर कोण आले?",
+      "answer": "महाराजांच्या निधनानंतर त्यांचे चिरंजीव राजाराम महाराज गादीवर आले."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या परदेशी प्रवासादरम्यान शेतीचा अभ्यास केला?",
+      "answer": "शाहू महाराजांनी इंग्लंड दौऱ्यादरम्यान तिथल्या शेती तंत्राचा अभ्यास केला."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या शाळेत अस्पृश्य मुलांना प्रवेश दिला?",
+      "answer": "महाराजांनी सर्व सरकारी शाळांत अस्पृश्य मुलांना प्रवेश देण्याचे आदेश दिले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शाहू महाराज कोणत्या खेळाचे शौकीन होते?",
+      "answer": "शाहू महाराज कुस्ती आणि शिकार या खेळांचे शौकीन होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणती बँक स्थापन करण्यास मदत केली?",
+      "answer": "महाराजांनी कोल्हापुरात बँकिंग क्षेत्राच्या विकासासाठी प्रोत्साहन दिले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाच्या शिक्षणाची सोय केली?",
+      "answer": "महाराजांनी केवळ राजपुत्रांच्याच नव्हे तर रयतेच्या मुलांच्या शिक्षणाची सोय केली."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या कलाकाराला चित्रशाळा काढून दिली?",
+      "answer": "महाराजांनी बाबूराव पेंटर यांना चित्रकला आणि चित्रपट निर्मितीसाठी मदत केली."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांचे चरित्र कोणी लिहिले?",
+      "answer": "शाहू महाराजांचे चरित्र अनेक लेखकांनी लिहिले, त्यात धनंजय कीर यांचे पुस्तक प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या महान गायकाला आश्रय दिला?",
+      "answer": "महाराजांनी उस्ताद अल्लादिया खाँ यांना कोल्हापुरात आश्रय दिला."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला आपल्या संस्थानाचे दिवाण नेमले होते?",
+      "answer": "महाराजांनी आर. व्ही. सबनीस यांना आपले दिवाण नेमले होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या देवस्थानाचे व्यवस्थापन सुधारले?",
+      "answer": "महाराजांनी अंबाबाई मंदिराचे आणि इतर देवस्थानांचे व्यवस्थापन सुधारले."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या नदीवर धरण बांधण्याची योजना आखली?",
+      "answer": "महाराजांनी भोगवती नदीवर राधानगरी धरण बांधले."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणता नवीन पेठ वसवली?",
+      "answer": "महाराजांनी कोल्हापुरात 'शाहूपुरी' ही व्यापारी पेठ वसवली."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या साली कोल्हापूरचा कारभार हाती घेतला?",
+      "answer": "शाहू महाराजांनी २ एप्रिल १८९४ रोजी कोल्हापूरचा कारभार हाती घेतला."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "महाराजांनी अस्पृश्यांसाठी कोणते खास वस्तीगृह बांधले?",
+      "answer": "महाराजांनी अस्पृश्य विद्यार्थ्यांसाठी 'मिस क्लार्क हॉस्टेल' बांधले."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांना कोणत्या टोपणनावाने ओळखले जाते?",
+      "answer": "शाहू महाराजांना 'आरक्षणाचे जनक' या नावाने ओळखले जाते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या खेळाचा आखाडा सुरू केला?",
+      "answer": "महाराजांनी कुस्तीचा आखाडा आणि तालमी सुरू केल्या."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या भाषेतून शिक्षण देण्यास प्राधान्य दिले?",
+      "answer": "शाहू महाराजांनी मराठी भाषेतून प्राथमिक शिक्षण देण्यास प्राधान्य दिले."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या साली विधवा विवाहास परवानगी दिली?",
+      "answer": "महाराजांनी १९१७ साली विधवा विवाहास परवानगी देणारा कायदा केला."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला शिक्षणासाठी शिष्यवृत्ती दिली?",
+      "answer": "महाराजांनी हुशार आणि गरीब मागासवर्गीय विद्यार्थ्यांना परदेशी शिक्षणासाठी शिष्यवृत्ती दिली."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "महाराजांनी 'वेदोक्त' प्रकरणातून कोणता धडा घेतला?",
+      "answer": "महाराजांनी सर्वांना समान धार्मिक अधिकार मिळाले पाहिजेत, हा विचार या प्रकरणातून मांडला."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोल्हापुरात कोणत्या उद्योगाला गती दिली?",
+      "answer": "महाराजांनी साखर उद्योग आणि कापड गिरण्यांना कोल्हापुरात गती दिली."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणाची स्मारके बांधली?",
+      "answer": "महाराजांनी छत्रपती शिवाजी महाराज आणि इतर पूर्वजांची स्मारके बांधली."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या प्राण्यांच्या शिकारीची आवड जोपासली?",
+      "answer": "महाराजांना वाघ आणि हरणांच्या शिकारीची आवड होती."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरातील कोणत्या रस्त्यांचे जाळे विणले?",
+      "answer": "महाराजांनी कोल्हापूर शहरात आणि ग्रामीण भागात पक्क्या रस्त्यांचे जाळे विणले."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांचे विचार आजही का महत्त्वाचे आहेत?",
+      "answer": "त्यांचे विचार समता, बंधुता आणि सामाजिक न्यायावर आधारित असल्याने आजही महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या जातीच्या लोकांसाठी वस्तीगृहे बांधली?",
+      "answer": "महाराजांनी मराठा, लिंगायत, जैन, मुस्लिम अशा सर्व जाती-धर्माच्या लोकांसाठी वस्तीगृहे बांधली."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी 'मूकनायक' साठी किती रुपये मदत केली?",
+      "answer": "शाहू महाराजांनी 'मूकनायक' सुरू करण्यासाठी डॉ. आंबेडकरांना २५०० रुपयांची मदत केली."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणता रेल्वे मार्ग आणला?",
+      "answer": "महाराजांनी कोल्हापूर ते मिरज हा रेल्वे मार्ग सुरू करण्यासाठी प्रयत्न केले."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या ठिकाणी कुस्तीगीरांना खुराक दिला?",
+      "answer": "महाराजांनी आपल्या खासगी खर्चातून मल्लांच्या खोराकाची सोय केली होती."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या सुधारणा केल्या?",
+      "answer": "महाराजांनी कोल्हापुरात पाणीपुरवठा, वीज आणि आरोग्य सुविधांमध्ये मोठ्या सुधारणा केल्या."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला आपल्या बहिणीसारखे मानले?",
+      "answer": "शाहू महाराजांनी अनेक गरजू महिलांना आपल्या बहिणीसारखे मानून त्यांचे संरक्षण केले."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापूर संस्थानात कोणत्या अनिष्ट प्रथा बंद केल्या?",
+      "answer": "महाराजांनी देवदासी आणि सती यांसारख्या अनिष्ट प्रथा बंद केल्या."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांच्या कार्याला कोणी गौरवले?",
+      "answer": "त्यांच्या कार्याला डॉ. बाबासाहेब आंबेडकर आणि महात्मा गांधी यांसारख्या नेत्यांनी गौरवले."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या नाटकांना प्रोत्साहन दिले?",
+      "answer": "महाराजांनी संगीत नाटकांना आणि मराठी रंगभूमीला राजाश्रय देऊन प्रोत्साहन दिले."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला कोल्हापूरचा 'नगरपाल' नेमले?",
+      "answer": "महाराजांनी अनेक कार्यक्षम अधिकाऱ्यांना विविध पदांवर नेमले होते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "महाराजांनी शेतकऱ्यांना कर्ज देण्यासाठी काय केले?",
+      "answer": "महाराजांनी सहकारी पतपेढ्या स्थापन करून शेतकऱ्यांना कमी व्याजात कर्ज उपलब्ध करून दिले."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांचे पूर्ण नाव काय होते?",
+      "answer": "शाहू महाराजांचे पूर्ण नाव 'यशवंतराव जयसिंगराव घाटगे' (दत्तक विधानापूर्वी) होते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणते रुग्णालय बांधले?",
+      "answer": "महाराजांनी कोल्हापुरात 'अल्बर्ट एडवर्ड हॉस्पिटल' (आताचे सी.पी.आर.) बांधले."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या वयोगटातील मुलांसाठी शिक्षण सक्तीचे केले?",
+      "answer": "महाराजांनी ७ ते १४ वयोगटातील मुला-मुलींसाठी प्राथमिक शिक्षण सक्तीचे केले."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या व्यापारी पेठेला चालना दिली?",
+      "answer": "महाराजांनी गुळ आणि धान्य व्यापारासाठी 'शाहूपुरी' बाजारपेठेला चालना दिली."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोणत्या थोर पुरुषाचा आदर्श डोळ्यासमोर ठेवला?",
+      "answer": "महाराजांनी छत्रपती शिवाजी महाराजांचा स्वराज्य आणि रयतेच्या कल्याणाचा आदर्श डोळ्यासमोर ठेवला."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोल्हापुरात कोणाची मिरवणूक काढली?",
+      "answer": "महाराजांनी डॉ. बाबासाहेब आंबेडकरांची माणगाव परिषदेत मिरवणूक काढून त्यांचा सत्कार केला."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणती नवीन कर पद्धत लागू केली?",
+      "answer": "महाराजांनी शेतकऱ्यांवरील जाचक कर कमी करून रयतेला दिलासा दिला."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोल्हापुरात कोणत्या विदेशी पाहुण्यांचे स्वागत केले?",
+      "answer": "महाराजांनी अनेक ब्रिटिश गव्हर्नर आणि व्हाईसरॉय यांचे स्वागत केले आणि त्यांना रयतेचे प्रश्न समजावून सांगितले."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या कलेला प्राधान्य दिले?",
+      "answer": "महाराजांनी गायन, वादन, चित्रकला आणि शिल्पकला या सर्व कलांना प्राधान्य दिले."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला आपल्या दरबारात नोकरी दिली?",
+      "answer": "महाराजांनी गुणवान आणि कष्टाळू तरुणांना त्यांच्या जातीचा विचार न करता दरबारात नोकरी दिली."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापूरच्या विकासासाठी कोणाची मदत घेतली?",
+      "answer": "महाराजांनी तज्ञ इंजिनिअर्स आणि अनुभवी प्रशासकांची मदत घेऊन कोल्हापूरचा विकास केला."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या शहरात शेवटचा श्वास घेतला?",
+      "answer": "शाहू महाराजांनी मुंबई येथील पन्हाळा लॉज या निवासस्थानी शेवटचा श्वास घेतला."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या शैक्षणिक संस्थेला जागा दिली?",
+      "answer": "महाराजांनी कोल्हापुरात राजाराम कॉलेज आणि इतर शिक्षण संस्थांना जागा आणि आर्थिक मदत दिली."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या महापुरुषाची जन्मजयंती साजरी करण्यास सुरुवात केली?",
+      "answer": "शाहू महाराजांनी छत्रपती शिवाजी महाराज यांची जयंती साजरी करण्यास प्रोत्साहन दिले."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणती बाग तयार केली?",
+      "answer": "महाराजांनी कोल्हापुरात 'टाऊन हॉल' आणि तिथली सुंदर बाग तयार केली."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या साली कोल्हापुरात मोफत वाचनालय सुरू केले?",
+      "answer": "महाराजांनी आपल्या कारकिर्दीच्या सुरुवातीच्या काळातच लोकांसाठी मोफत वाचनालये सुरू केली."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणाला घर बांधून दिले?",
+      "answer": "महाराजांनी अनेक गरीब आणि बेघर कलावंतांना कोल्हापुरात घरे बांधून दिली."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या साली कोल्हापुरात दुष्काळ निवारणाचे काम केले?",
+      "answer": "महाराजांनी १८९६ आणि १८९९ च्या भीषण दुष्काळात रयतेला मोफत धान्य आणि काम उपलब्ध करून दिले."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या जनावरांचे प्रदर्शन भरवले?",
+      "answer": "महाराजांनी शेतीसाठी उपयुक्त बैल आणि इतर जनावरांचे प्रदर्शन भरवून शेतकऱ्यांना बक्षिसे दिली."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या भाषेतून भाषणे केली?",
+      "answer": "शाहू महाराजांनी मराठी आणि इंग्रजी या दोन्ही भाषांतून प्रभावी भाषणे केली."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या उद्योगासाठी पाणी उपलब्ध करून दिले?",
+      "answer": "महाराजांनी राधानगरी धरणातून शेती आणि कोल्हापूरच्या उद्योगांसाठी पाणी उपलब्ध करून दिले."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणाला आपल्या रथात बसवले?",
+      "answer": "शाहू महाराजांनी दलितांच्या परिषदेत डॉ. बाबासाहेब आंबेडकरांना आपल्या रथात बसवून त्यांचा गौरव केला."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या प्रकारची शेती करण्यास प्रोत्साहन दिले?",
+      "answer": "महाराजांनी उसाची शेती आणि फळबागा लावण्यास शेतकऱ्यांना प्रोत्साहन दिले."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या साली कोल्हापुरात दवाखाने सुरू केले?",
+      "answer": "महाराजांनी ग्रामीण भागात फिरते दवाखाने आणि तालुक्याच्या ठिकाणी कायमस्वरूपी दवाखाने सुरू केले."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणाला शिक्षण देण्याचे कार्य सोपवले?",
+      "answer": "महाराजांनी प्रशिक्षित शिक्षकांची नेमणूक करून रयतेच्या शिक्षणाची जबाबदारी पार पाडली."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या प्रांताचा दौरा केला?",
+      "answer": "शाहू महाराजांनी उत्तर भारत आणि दक्षिण भारत अशा दोन्ही प्रांतांचा दौरा करून तिथल्या सामाजिक स्थितीचा अभ्यास केला."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या इमारती बांधल्या?",
+      "answer": "महाराजांनी नवीन राजवाडा, खासबाग मैदान आणि अनेक वस्तीगृहांच्या इमारती बांधल्या."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या संकटात रयतेला मदत केली?",
+      "answer": "महाराजांनी दुष्काळ, प्लेग आणि महापूर अशा सर्व नैसर्गिक संकटांत रयतेची सेवा केली."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या धर्माच्या लोकांसाठी जागा दिल्या?",
+      "answer": "महाराजांनी जैन, ख्रिश्चन आणि मुस्लिमांच्या संस्थांना प्रार्थनास्थळे आणि शाळांसाठी जागा दिल्या."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी कोणत्या थोर समाजसुधारकाच्या कार्याला 'प्रकाशाचा स्त्रोत' मानले?",
+      "answer": "शाहू महाराजांनी महात्मा ज्योतिराव फुले यांच्या कार्याला आपला प्रेरणास्त्रोत मानले."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापुरात कोणत्या कलेचे संग्रहालय बनवले?",
+      "answer": "महाराजांनी कोल्हापुरातील राजवाड्यात ऐतिहासिक शस्त्रे आणि वस्तूंचे संग्रहालय बनवले."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "शाहू महाराजांनी रयतेसाठी काय संदेश दिला?",
+      "answer": "महाराजांनी 'शिका, संघटित व्हा आणि संघर्ष करा' हा विचार कृतीतून मांडला."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "महाराजांनी कोल्हापूरच्या मातीला काय मिळवून दिले?",
+      "answer": "महाराजांनी कोल्हापूरच्या मातीला स्वाभिमान, शिक्षण आणि कुस्तीची जागतिक ओळख मिळवून दिली."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "राजर्षी शाहू महाराजांना आज आपण काय म्हणून स्मरतो?",
+      "answer": "राजर्षी शाहू महाराजांना आपण एक 'क्रांतिकारी लोकराजा' आणि 'समतेचा अग्रदूत' म्हणून स्मरतो."
+    }
+  ]
+}

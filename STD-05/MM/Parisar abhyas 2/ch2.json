@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 2,
+  "chapter_name": "इतिहास आणि काळाची संकल्पना",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "काळाचे विभाजन आपण किती प्रकारे करतो?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सूर्योदय झाला की आपण काय म्हणतो?",
+      "options": [
+        { "option_id": 1, "text": "संध्याकाळ झाली", "is_correct": false },
+        { "option_id": 2, "text": "रात्र झाली", "is_correct": false },
+        { "option_id": 3, "text": "सकाळ झाली", "is_correct": true },
+        { "option_id": 4, "text": "दुपार झाली", "is_correct": false }
+      ],
+      "answer": "सकाळ झाली"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सूर्यास्त झाला की काय होते?",
+      "options": [
+        { "option_id": 1, "text": "अंधार", "is_correct": true },
+        { "option_id": 2, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 3, "text": "दुपार", "is_correct": false },
+        { "option_id": 4, "text": "सकाळ", "is_correct": false }
+      ],
+      "answer": "अंधार"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला स्वतःच्या अक्षाभोवती फिरण्यास किती वेळ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "१२ तास", "is_correct": false },
+        { "option_id": 2, "text": "२४ तास", "is_correct": true },
+        { "option_id": 3, "text": "४८ तास", "is_correct": false },
+        { "option_id": 4, "text": "६० तास", "is_correct": false }
+      ],
+      "answer": "२४ तास"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "एक दिवस आणि एक रात्र मिळून होणाऱ्या काळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आठवडा", "is_correct": false },
+        { "option_id": 2, "text": "महिना", "is_correct": false },
+        { "option_id": 3, "text": "दिन", "is_correct": true },
+        { "option_id": 4, "text": "वर्ष", "is_correct": false }
+      ],
+      "answer": "दिन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "काळाची एकापाठोपाठ येणारी विभागणी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "अखंड काळ", "is_correct": false },
+        { "option_id": 2, "text": "एकरेखिक विभागणी", "is_correct": true },
+        { "option_id": 3, "text": "खंडित काळ", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "एकरेखिक विभागणी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ख्रिस्ती कालखंडाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शक", "is_correct": false },
+        { "option_id": 2, "text": "इसवी सन", "is_correct": true },
+        { "option_id": 3, "text": "संवत्सर", "is_correct": false },
+        { "option_id": 4, "text": "हिजरी", "is_correct": false }
+      ],
+      "answer": "इसवी सन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "इसवी सनाची सुरुवात कोणाच्या स्मृतीप्रत्यर्थ झाली?",
+      "options": [
+        { "option_id": 1, "text": "गौतम बुद्ध", "is_correct": false },
+        { "option_id": 2, "text": "येशू ख्रिस्त", "is_correct": true },
+        { "option_id": 3, "text": "छत्रपती शिवाजी महाराज", "is_correct": false },
+        { "option_id": 4, "text": "महावीर", "is_correct": false }
+      ],
+      "answer": "येशू ख्रिस्त"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "इसवी सन या शब्दातील 'इसवी' हा शब्द कोणत्या भाषेतील आहे?",
+      "options": [
+        { "option_id": 1, "text": "मराठी", "is_correct": false },
+        { "option_id": 2, "text": "अरबी", "is_correct": true },
+        { "option_id": 3, "text": "इंग्रजी", "is_correct": false },
+        { "option_id": 4, "text": "हिंदी", "is_correct": false }
+      ],
+      "answer": "अरबी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "इसवी सनापूर्वीचा काळ दर्शवण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "इ.स.", "is_correct": false },
+        { "option_id": 2, "text": "इ.स.पू.", "is_correct": true },
+        { "option_id": 3, "text": "सन", "is_correct": false },
+        { "option_id": 4, "text": "शक", "is_correct": false }
+      ],
+      "answer": "इ.स.पू."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "इसवी सन पूर्व काळातील वर्षांची गणना कशी केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "चढत्या क्रमाने", "is_correct": false },
+        { "option_id": 2, "text": "उतरत्या क्रमाने", "is_correct": true },
+        { "option_id": 3, "text": "समान क्रमाने", "is_correct": false },
+        { "option_id": 4, "text": "अनियमित", "is_correct": false }
+      ],
+      "answer": "उतरत्या क्रमाने"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "काळाचे मोजमाप करण्याच्या किती पद्धती मुख्यत्वे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "इतिहास लिहिण्यासाठी कोणत्या काळाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "भविष्यकाळ", "is_correct": false },
+        { "option_id": 2, "text": "वर्तमानकाळ", "is_correct": false },
+        { "option_id": 3, "text": "भूतकाळ", "is_correct": true },
+        { "option_id": 4, "text": "अखंड काळ", "is_correct": false }
+      ],
+      "answer": "भूतकाळ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ज्या काळाचा इतिहास लिहिण्यासाठी लिखित पुरावा मिळत नाही, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ऐतिहासिक काळ", "is_correct": false },
+        { "option_id": 2, "text": "प्रागैतिहासिक काळ", "is_correct": true },
+        { "option_id": 3, "text": "वर्तमान काळ", "is_correct": false },
+        { "option_id": 4, "text": "भविष्य काळ", "is_correct": false }
+      ],
+      "answer": "प्रागैतिहासिक काळ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ज्या काळाचा इतिहास लिहिण्यासाठी लिखित पुरावा उपलब्ध होतो, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रागैतिहासिक काळ", "is_correct": false },
+        { "option_id": 2, "text": "ऐतिहासिक काळ", "is_correct": true },
+        { "option_id": 3, "text": "मध्ययुगीन काळ", "is_correct": false },
+        { "option_id": 4, "text": "प्राचीन काळ", "is_correct": false }
+      ],
+      "answer": "ऐतिहासिक काळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मोजमापाचे सर्वात लहान एकक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मिनिट", "is_correct": false },
+        { "option_id": 2, "text": "सेकंद", "is_correct": true },
+        { "option_id": 3, "text": "तास", "is_correct": false },
+        { "option_id": 4, "text": "दिवस", "is_correct": false }
+      ],
+      "answer": "सेकंद"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "६० सेकंद म्हणजे किती वेळ?",
+      "options": [
+        { "option_id": 1, "text": "१ तास", "is_correct": false },
+        { "option_id": 2, "text": "१ मिनिट", "is_correct": true },
+        { "option_id": 3, "text": "१ दिवस", "is_correct": false },
+        { "option_id": 4, "text": "१ महिना", "is_correct": false }
+      ],
+      "answer": "१ मिनिट"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "६० मिनिटे म्हणजे किती वेळ?",
+      "options": [
+        { "option_id": 1, "text": "१ दिवस", "is_correct": false },
+        { "option_id": 2, "text": "१ तास", "is_correct": true },
+        { "option_id": 3, "text": "१ आठवडा", "is_correct": false },
+        { "option_id": 4, "text": "१ वर्ष", "is_correct": false }
+      ],
+      "answer": "१ तास"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "२४ तास म्हणजे किती दिवस?",
+      "options": [
+        { "option_id": 1, "text": "१ दिवस", "is_correct": true },
+        { "option_id": 2, "text": "२ दिवस", "is_correct": false },
+        { "option_id": 3, "text": "७ दिवस", "is_correct": false },
+        { "option_id": 4, "text": "३० दिवस", "is_correct": false }
+      ],
+      "answer": "१ दिवस"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "७ दिवसांचा मिळून काय तयार होतो?",
+      "options": [
+        { "option_id": 1, "text": "पंधरवडा", "is_correct": false },
+        { "option_id": 2, "text": "आठवडा", "is_correct": true },
+        { "option_id": 3, "text": "महिना", "is_correct": false },
+        { "option_id": 4, "text": "वर्ष", "is_correct": false }
+      ],
+      "answer": "आठवडा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "दोन आठवड्यांचा काळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "महिना", "is_correct": false },
+        { "option_id": 2, "text": "पंधरवडा", "is_correct": true },
+        { "option_id": 3, "text": "वर्ष", "is_correct": false },
+        { "option_id": 4, "text": "शतक", "is_correct": false }
+      ],
+      "answer": "पंधरवडा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "चार आठवड्यांचा काळ म्हणजे साधारणतः काय?",
+      "options": [
+        { "option_id": 1, "text": "एक वर्ष", "is_correct": false },
+        { "option_id": 2, "text": "एक महिना", "is_correct": true },
+        { "option_id": 3, "text": "एक शतक", "is_correct": false },
+        { "option_id": 4, "text": "एक सहस्रक", "is_correct": false }
+      ],
+      "answer": "एक महिना"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "१२ महिन्यांचा काळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एक शतक", "is_correct": false },
+        { "option_id": 2, "text": "एक वर्ष", "is_correct": true },
+        { "option_id": 3, "text": "एक सहस्रक", "is_correct": false },
+        { "option_id": 4, "text": "एक पंधरवडा", "is_correct": false }
+      ],
+      "answer": "एक वर्ष"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "१०० वर्षांचा काळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एक सहस्रक", "is_correct": false },
+        { "option_id": 2, "text": "एक शतक", "is_correct": true },
+        { "option_id": 3, "text": "एक वर्ष", "is_correct": false },
+        { "option_id": 4, "text": "एक युग", "is_correct": false }
+      ],
+      "answer": "एक शतक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "१००० वर्षांचा काळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एक शतक", "is_correct": false },
+        { "option_id": 2, "text": "एक सहस्रक", "is_correct": true },
+        { "option_id": 3, "text": "एक वर्ष", "is_correct": false },
+        { "option_id": 4, "text": "एक युग", "is_correct": false }
+      ],
+      "answer": "एक सहस्रक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "काळाच्या कोणत्या विभागणीला एकरेखिक विभागणी म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खंडित", "is_correct": false },
+        { "option_id": 2, "text": "क्रमाने येणारी", "is_correct": true },
+        { "option_id": 3, "text": "अनियमित", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "क्रमाने येणारी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "छत्रपती शिवाजी महाराजांच्या राज्यभिषेकानिमित्त कोणता शक सुरू झाला?",
+      "options": [
+        { "option_id": 1, "text": "शालिवाहन शक", "is_correct": false },
+        { "option_id": 2, "text": "राज्याभिषेक शक", "is_correct": true },
+        { "option_id": 3, "text": "विक्रम संवत", "is_correct": false },
+        { "option_id": 4, "text": "हिजरी", "is_correct": false }
+      ],
+      "answer": "राज्याभिषेक शक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "शालिवाहन शक आणि विक्रम संवत ही कशाची नावे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "महिने", "is_correct": false },
+        { "option_id": 2, "text": "कालखंड", "is_correct": true },
+        { "option_id": 3, "text": "दिवस", "is_correct": false },
+        { "option_id": 4, "text": "ग्रह", "is_correct": false }
+      ],
+      "answer": "कालखंड"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "इस्लाम धर्माचे संस्थापक कोण?",
+      "options": [
+        { "option_id": 1, "text": "येशू ख्रिस्त", "is_correct": false },
+        { "option_id": 2, "text": "गौतम बुद्ध", "is_correct": false },
+        { "option_id": 3, "text": "मुहम्मद पैगंबर", "is_correct": true },
+        { "option_id": 4, "text": "महावीर", "is_correct": false }
+      ],
+      "answer": "मुहम्मद पैगंबर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मुहम्मद पैगंबरांनी मक्केहून मदिनेला स्थलांतर केले, त्या काळापासून कोणता शक सुरू झाला?",
+      "options": [
+        { "option_id": 1, "text": "इसवी सन", "is_correct": false },
+        { "option_id": 2, "text": "हिजरी", "is_correct": true },
+        { "option_id": 3, "text": "शालिवाहन शक", "is_correct": false },
+        { "option_id": 4, "text": "विक्रम संवत", "is_correct": false }
+      ],
+      "answer": "हिजरी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भारतातील पारशी समाज कोणत्या कालगणनेचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "शहनशाही", "is_correct": true },
+        { "option_id": 2, "text": "हिजरी", "is_correct": false },
+        { "option_id": 3, "text": "विक्रम संवत", "is_correct": false },
+        { "option_id": 4, "text": "इसवी सन", "is_correct": false }
+      ],
+      "answer": "शहनशाही"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भूतकाळातील घटनांचा अभ्यास करणारे शास्त्र कोणते?",
+      "options": [
+        { "option_id": 1, "text": "भूगोल", "is_correct": false },
+        { "option_id": 2, "text": "इतिहास", "is_correct": true },
+        { "option_id": 3, "text": "विज्ञान", "is_correct": false },
+        { "option_id": 4, "text": "नागरिकशास्त्र", "is_correct": false }
+      ],
+      "answer": "इतिहास"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा जन्म सुमारे किती वर्षांपूर्वी झाला?",
+      "options": [
+        { "option_id": 1, "text": "४५० कोटी", "is_correct": true },
+        { "option_id": 2, "text": "१०० कोटी", "is_correct": false },
+        { "option_id": 3, "text": "५०० कोटी", "is_correct": false },
+        { "option_id": 4, "text": "२०० कोटी", "is_correct": false }
+      ],
+      "answer": "४५० कोटी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "इतिहास लिहिण्यासाठी लिखित पुरावा नसलेल्या काळाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रागैतिहासिक काळ", "is_correct": true },
+        { "option_id": 2, "text": "ऐतिहासिक काळ", "is_correct": false },
+        { "option_id": 3, "text": "आधुनिक काळ", "is_correct": false },
+        { "option_id": 4, "text": "मध्ययुगीन काळ", "is_correct": false }
+      ],
+      "answer": "प्रागैतिहासिक काळ"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कालगणना करण्याच्या कोणत्या साधनाचा आपण सामान्यतः वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 2, "text": "दिनदर्शिका", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा", "is_correct": false },
+        { "option_id": 4, "text": "पेन", "is_correct": false }
+      ],
+      "answer": "दिनदर्शिका"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला सूर्याभोवती एक फेरी पूर्ण करण्यास किती वेळ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "एक महिना", "is_correct": false },
+        { "option_id": 2, "text": "एक वर्ष", "is_correct": true },
+        { "option_id": 3, "text": "एक दिवस", "is_correct": false },
+        { "option_id": 4, "text": "एक आठवडा", "is_correct": false }
+      ],
+      "answer": "एक वर्ष"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शास्त्रीय संशोधनाद्वारे एखादी वस्तू किती जुनी आहे हे ठरवण्याच्या पद्धतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कालगणना", "is_correct": false },
+        { "option_id": 2, "text": "कालमापन", "is_correct": true },
+        { "option_id": 3, "text": "भूगोल", "is_correct": false },
+        { "option_id": 4, "text": "इतिहास", "is_correct": false }
+      ],
+      "answer": "कालमापन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कर्ब-१४ ही पद्धत कोणी विकसित केली?",
+      "options": [
+        { "option_id": 1, "text": "आईन्स्टाईन", "is_correct": false },
+        { "option_id": 2, "text": "विल्लार्ड लिबी", "is_correct": true },
+        { "option_id": 3, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 4, "text": "एडिसन", "is_correct": false }
+      ],
+      "answer": "विल्लार्ड लिबी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कर्ब-१४ पद्धतीचा वापर कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "वस्तूंचे वजन करण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "वस्तूंचा काळ ठरवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वस्तूंचा रंग पाहण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "वस्तूंचा काळ ठरवण्यासाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "वृक्षवलय पद्धतीचा वापर कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "झाडाची उंची मोजण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "झाडाचे वय ठरवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "झाडाला पाणी देण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झाडाची पाने मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "झाडाचे वय ठरवण्यासाठी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "काळाची विभागणी करताना आपण कशाचा आधार घेतो?",
+      "options": [
+        { "option_id": 1, "text": "विज्ञानाचा", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीच्या गतीचा", "is_correct": true },
+        { "option_id": 3, "text": "इतिहासाचा", "is_correct": false },
+        { "option_id": 4, "text": "भूगोलाचा", "is_correct": false }
+      ],
+      "answer": "पृथ्वीच्या गतीचा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कालमापनाच्या पद्धती कोणत्या प्रकारच्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "सामाजिक", "is_correct": false },
+        { "option_id": 2, "text": "शास्त्रीय", "is_correct": true },
+        { "option_id": 3, "text": "सांस्कृतिक", "is_correct": false },
+        { "option_id": 4, "text": "धार्मिक", "is_correct": false }
+      ],
+      "answer": "शास्त्रीय"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "इसवी सन पूर्व काळातील सर्वात जुने वर्ष कोणते मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "लहान आकडा असलेले", "is_correct": false },
+        { "option_id": 2, "text": "मोठा आकडा असलेले", "is_correct": true },
+        { "option_id": 3, "text": "मध्यम आकडा असलेले", "is_correct": false },
+        { "option_id": 4, "text": "शून्य", "is_correct": false }
+      ],
+      "answer": "मोठा आकडा असलेले"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला स्वतःभोवती फिरण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परिभ्रमण", "is_correct": false },
+        { "option_id": 2, "text": "परिवलन", "is_correct": true },
+        { "option_id": 3, "text": "स्थलांतर", "is_correct": false },
+        { "option_id": 4, "text": "भ्रमण", "is_correct": false }
+      ],
+      "answer": "परिवलन"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला सूर्याभोवती फिरण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परिवलन", "is_correct": false },
+        { "option_id": 2, "text": "परिभ्रमण", "is_correct": true },
+        { "option_id": 3, "text": "भ्रमण", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "परिभ्रमण"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "इतिहास हा कोणत्या काळाचा आरसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "भविष्य", "is_correct": false },
+        { "option_id": 2, "text": "भूत", "is_correct": true },
+        { "option_id": 3, "text": "वर्तमान", "is_correct": false },
+        { "option_id": 4, "text": "अखंड", "is_correct": false }
+      ],
+      "answer": "भूत"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "एका सहस्रकात किती वर्षे असतात?",
+      "options": [
+        { "option_id": 1, "text": "१००", "is_correct": false },
+        { "option_id": 2, "text": "१०००", "is_correct": true },
+        { "option_id": 3, "text": "५००", "is_correct": false },
+        { "option_id": 4, "text": "१०", "is_correct": false }
+      ],
+      "answer": "१०००"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "एका शतकात किती वर्षे असतात?",
+      "options": [
+        { "option_id": 1, "text": "१०", "is_correct": false },
+        { "option_id": 2, "text": "१००", "is_correct": true },
+        { "option_id": 3, "text": "१०००", "is_correct": false },
+        { "option_id": 4, "text": "५०", "is_correct": false }
+      ],
+      "answer": "१००"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "काळाचे मोजमाप करण्यासाठी आपण काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "वजन काटा", "is_correct": false },
+        { "option_id": 2, "text": "घड्याळ", "is_correct": true },
+        { "option_id": 3, "text": "पट्टी", "is_correct": false },
+        { "option_id": 4, "text": "पात्र", "is_correct": false }
+      ],
+      "answer": "घड्याळ"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "काळाची विभागणी ही संकल्पना कशाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "इतिहासाशी", "is_correct": true },
+        { "option_id": 2, "text": "भूगोलाशी", "is_correct": false },
+        { "option_id": 3, "text": "विज्ञानाशी", "is_correct": false },
+        { "option_id": 4, "text": "गणिताशी", "is_correct": false }
+      ],
+      "answer": "इतिहासाशी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "काळ म्हणजे काय?",
+      "answer": "काळ ही एक न थांबणारी आणि अखंड चालणारी प्रक्रिया आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "काळाचे तीन मुख्य भाग कोणते?",
+      "answer": "भूतकाळ, वर्तमानकाळ आणि भविष्यकाळ हे काळाचे तीन मुख्य भाग आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वर्तमानकाळ कशाला म्हणतात?",
+      "answer": "सध्या चालू असलेल्या काळाला वर्तमानकाळ म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भूतकाळ कशाला म्हणतात?",
+      "answer": "घडून गेलेल्या काळाला भूतकाळ म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भविष्यकाळ कशाला म्हणतात?",
+      "answer": "येणाऱ्या काळाला भविष्यकाळ म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "एकरेखिक विभागणी म्हणजे काय?",
+      "answer": "काळाची एकापाठोपाठ येणारी क्रमाने केलेली विभागणी म्हणजे एकरेखिक विभागणी होय."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "इसवी सन म्हणजे काय?",
+      "answer": "येशू ख्रिस्तांच्या स्मृतीप्रत्यर्थ सुरू झालेला ख्रिस्ती कालखंड म्हणजे इसवी सन होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व काळ म्हणजे काय?",
+      "answer": "इसवी सनाची सुरुवात होण्यापूर्वीचा काळ म्हणजे इसवी सन पूर्व काळ होय."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "शतक म्हणजे काय?",
+      "answer": "शंभर वर्षांच्या काळाला शतक म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सहस्रक म्हणजे काय?",
+      "answer": "एक हजार वर्षांच्या काळाला सहस्रक म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कालमापन म्हणजे काय?",
+      "answer": "एखादी वस्तू किंवा घटना किती जुनी आहे हे शास्त्रीय पद्धतीने ठरवणे म्हणजे कालमापन होय."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "इतिहास कोणत्या शास्त्रावर आधारित आहे?",
+      "answer": "इतिहास हा पुराव्यांच्या आधारावर भूतकाळातील घटनांची मांडणी करणाऱ्या शास्त्रावर आधारित आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कालगणनेची दोन उदाहरणे द्या.",
+      "answer": "शालिवाहन शक आणि विक्रम संवत ही कालगणनेची दोन उदाहरणे आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "हिजरी या कालगणनेची सुरुवात कधी झाली?",
+      "answer": "मुहम्मद पैगंबरांनी मक्केहून मदिनेला स्थलांतर केले तेव्हा हिजरी कालगणनेची सुरुवात झाली."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पृथ्वीला स्वतःभोवती फिरण्यास किती वेळ लागतो?",
+      "answer": "पृथ्वीला स्वतःभोवती फिरण्यास २४ तास म्हणजेच एक दिवस लागतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पृथ्वीला सूर्याभोवती फिरण्यास किती वेळ लागतो?",
+      "answer": "पृथ्वीला सूर्याभोवती फिरण्यास ३६५ दिवस म्हणजेच एक वर्ष लागते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "प्रागैतिहासिक काळ म्हणजे काय?",
+      "answer": "ज्या काळाचा इतिहास लिहिण्यासाठी कोणताही लिखित पुरावा उपलब्ध नाही, त्याला प्रागैतिहासिक काळ म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ऐतिहासिक काळ कशाला म्हणतात?",
+      "answer": "ज्या काळाचा इतिहास लिहिण्यासाठी लिखित पुरावे उपलब्ध आहेत, त्याला ऐतिहासिक काळ म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कालमापनाच्या दोन शास्त्रीय पद्धती कोणत्या?",
+      "answer": "कर्ब-१४ पद्धत आणि वृक्षवलय पद्धत या कालमापनाच्या दोन शास्त्रीय पद्धती आहेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कर्ब-१४ पद्धतीचा शोध कोणी लावला?",
+      "answer": "कर्ब-१४ पद्धतीचा शोध विल्लार्ड लिबी यांनी १९५४ मध्ये लावला."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वृक्षवलय पद्धत म्हणजे काय?",
+      "answer": "झाडाच्या खोडावर असलेल्या वर्तुळाकार वलयांच्या आधारे झाडाचे वय मोजण्याची पद्धत म्हणजे वृक्षवलय पद्धत होय."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "दिवस कशाला म्हणतात?",
+      "answer": "सूर्योदयापासून सूर्यास्तापर्यंतच्या काळाला दिवस म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "रात्र कशाला म्हणतात?",
+      "answer": "सूर्यास्तापासून सूर्योदयापर्यंतच्या काळाला रात्र म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "एका दिवसात किती तास असतात?",
+      "answer": "एका दिवसात २४ तास असतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "एका तासात किती मिनिटे असतात?",
+      "answer": "एका तासात ६० मिनिटे असतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "एका मिनिटात किती सेकंद असतात?",
+      "answer": "एका मिनिटात ६० सेकंद असतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "आठवडा म्हणजे काय?",
+      "answer": "सात दिवसांच्या काळाला आठवडा म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पंधरवडा म्हणजे काय?",
+      "answer": "पंधरा दिवसांच्या किंवा दोन आठवड्यांच्या काळाला पंधरवडा म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "महिना म्हणजे काय?",
+      "answer": "साधारणपणे तीस दिवसांच्या किंवा चार आठवड्यांच्या काळाला महिना म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वर्ष म्हणजे काय?",
+      "answer": "बारा महिन्यांच्या काळाला वर्ष म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "काळाचे मोजमाप करण्याची सर्वात मोठी एकके कोणती?",
+      "answer": "शतक आणि सहस्रक ही काळाचे मोजमाप करण्याची मोठी एकके आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "काळाचे मोजमाप करण्याची सर्वात लहान एकक कोणते?",
+      "answer": "सेकंद हे काळाचे मोजमाप करण्याचे सर्वात लहान एकक आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "इसवी सनाचे पहिले वर्ष कसे लिहिले जाते?",
+      "answer": "इसवी सनाचे पहिले वर्ष 'इसवी सन १' असे लिहिले जाते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "इसवी सनाचे पहिले शतक कधी संपले?",
+      "answer": "इसवी सनाचे पहिले शतक इसवी सन १०० ला संपले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "इसवी सनाचे पहिले सहस्रक कधी संपले?",
+      "answer": "इसवी सनाचे पहिले सहस्रक इसवी सन १००० ला संपले."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व काळातील वर्षांचा क्रम कसा असतो?",
+      "answer": "इसवी सन पूर्व काळातील वर्षांचा क्रम उतरता असतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "छत्रपती शिवाजी महाराजांचा काळ कोणता आहे?",
+      "answer": "छत्रपती शिवाजी महाराजांचा काळ हा ऐतिहासिक काळ आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "काळाची विभागणी आपण का करतो?",
+      "answer": "आपल्या सोयीसाठी आणि घटनांचा क्रम समजून घेण्यासाठी आपण काळाची विभागणी करतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "इतिहासामुळे आपल्याला काय समजते?",
+      "answer": "इतिहासामुळे आपल्याला मानवी संस्कृतीचा विकास आणि घडून गेलेल्या घटनांची माहिती समजते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "काळाची एकरेखिक विभागणी का महत्त्वाची आहे?",
+      "answer": "ऐतिहासिक घटनांची सुसंगत मांडणी करण्यासाठी एकरेखिक विभागणी महत्त्वाची आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शाखा (Era) म्हणजे काय?",
+      "answer": "एखाद्या महत्त्वाच्या घटनेपासून सुरू होणाऱ्या कालखंडाला शाखा किंवा शक असे म्हणतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "राज्याभिषेक शक कधी सुरू झाला?",
+      "answer": "राज्याभिषेक शक इ.स. १६७४ मध्ये छत्रपती शिवाजी महाराजांच्या राज्याभिषेकानिमित्त सुरू झाला."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेचा उपयोग काय?",
+      "answer": "दिवस, दिनांक, वार आणि महिना पाहण्यासाठी दिनदर्शिकेचा उपयोग होतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "शास्त्रीय पद्धती म्हणजे काय?",
+      "answer": "प्रयोगांच्या आणि पुराव्यांच्या आधारावर सत्यता पडताळून पाहण्याची पद्धत म्हणजे शास्त्रीय पद्धती होय."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा जन्म कधी झाला असे मानले जाते?",
+      "answer": "पृथ्वीचा जन्म सुमारे साडेचार अब्ज (४५० कोटी) वर्षांपूर्वी झाला असे मानले जाते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कालमापन पद्धतीमुळे काय निश्चित करता येते?",
+      "answer": "कालमापन पद्धतीमुळे ऐतिहासिक वस्तू किंवा अवशेषांचा निश्चित काळ ठरवता येतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "इतिहास कोणत्या शास्त्राची मदत घेतो?",
+      "answer": "इतिहास हा पुरातत्वशास्त्र, कालमापनशास्त्र अशा विविध शास्त्रांची मदत घेतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व वर्षांची गणना उदाहरणासह सांगा.",
+      "answer": "इ.स.पू. १०० नंतर इ.स.पू. ९९ हे वर्ष येते, यालाच उतरती गणना म्हणतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आपण सध्या कोणत्या शतकात आहोत?",
+      "answer": "आपण सध्या २१ व्या शतकात आहोत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "काळाची विभागणी करण्याचे आधार काय आहेत?",
+      "answer": "पृथ्वीचे परिवलन आणि परिभ्रमण हे काळाची विभागणी करण्याचे मुख्य आधार आहेत."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "काळाच्या अखंड प्रवाहाची विभागणी कशी केली जाते?",
+      "answer": "काळाच्या अखंड प्रवाहाची विभागणी आपण दिन, रात्र, महिना, वर्ष अशा भागांत करतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "इ.स. या संक्षेपाचा अर्थ काय?",
+      "answer": "इ.स. म्हणजे 'इसवी सन' होय."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "इ.स.पू. या संक्षेपाचा अर्थ काय?",
+      "answer": "इ.स.पू. म्हणजे 'इसवी सन पूर्व' होय."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "कालमापनात 'अब्ज' म्हणजे काय?",
+      "answer": "अब्ज ही एक मोठी संख्या आहे, जी १०० कोटींना मिळून होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "काळाचा कोणता भाग आपण जगून आलेलो असतो?",
+      "answer": "काळाचा भूतकाळ हा भाग आपण जगून आलेलो असतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "भविष्यकाळ आपल्यासाठी कसा असतो?",
+      "answer": "भविष्यकाळ हा आपल्यासाठी न आलेला किंवा न पाहिलेला काळ असतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "इतिहासात कोणत्या घटनांना महत्त्व असते?",
+      "answer": "इतिहासात मानवी जीवनावर परिणाम करणाऱ्या महत्त्वाच्या आणि सत्य घटनांना महत्त्व असते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कालमापनाच्या पद्धती कशावर अवलंबून असतात?",
+      "answer": "कालमापनाच्या पद्धती उपलब्ध भौतिक पुराव्यांवर आणि वैज्ञानिक तंत्रज्ञानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "इतिहास हा कथासंग्रह आहे का?",
+      "answer": "नाही, इतिहास हा केवळ कथासंग्रह नसून तो सत्य घटनांवर आधारित पुरावा देणारे शास्त्र आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व १ ते १०० हा कोणता काळ आहे?",
+      "answer": "हा इसवी सन पूर्व काळातील पहिले शतक आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "इसवी सन १ ते १०० हा कोणता काळ आहे?",
+      "answer": "हा इसवी सन काळातील पहिले शतक आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "शालिवाहन शक भारतात कधी वापरले जाते?",
+      "answer": "शालिवाहन शक हे प्रामुख्याने भारतीय पंचांग आणि दिनदर्शिकेत वापरले जाते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कालगणना का करावी लागते?",
+      "answer": "वेळेचे नियोजन करण्यासाठी आणि घटनांचा क्रम लावण्यासाती कालगणना करावी लागते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे परिवलन म्हणजे काय?",
+      "answer": "पृथ्वीचे स्वतःच्या अक्षाभोवती फिरणे म्हणजे परिवलन होय."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे परिभ्रमण म्हणजे काय?",
+      "answer": "पृथ्वीचे सूर्याभोवती फिरणे म्हणजे परिभ्रमण होय."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पुरातत्वीय पुरावे म्हणजे काय?",
+      "answer": "जमिनीत गाडले गेलेले जुन्या वस्तू, वास्तू किंवा त्यांचे अवशेष म्हणजे पुरातत्वीय पुरावे होत."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "इतिहास का शिकायचा?",
+      "answer": "गतकाळातील चुका सुधारून भविष्य उज्ज्वल करण्यासाठी आणि संस्कृती समजण्यासाठी इतिहास शिकायचा."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "काळाची अखंडता म्हणजे काय?",
+      "answer": "काळ कोणासाठीही थांबत नाही, तो सातत्याने प्रवाहित असतो, यालाच काळाची अखंडता म्हणतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कालरेषा कशासाठी वापरतात?",
+      "answer": "ऐतिहासिक घटनांचा काळ दर्शवण्यासाठी कालरेषा वापरतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "इसवी सनाचे जनक कोण आहेत?",
+      "answer": "इसवी सनाची कल्पना येशू ख्रिस्त यांच्या जन्मापासून मानली जाते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "दिवस आणि रात्र कशामुळे होतात?",
+      "answer": "पृथ्वीच्या स्वतःभोवती फिरण्यामुळे (परिवलनामुळे) दिवस आणि रात्र होतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "ऋतू बदल कशामुळे होतात?",
+      "answer": "पृथ्वीच्या सूर्याभोवती फिरण्यामुळे (परिभ्रमणामुळे) ऋतू बदलतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "भूतकाळाचे पुरावे कोठे मिळतात?",
+      "answer": "भूतकाळाचे पुरावे जुन्या वस्तू, ताम्रपट, शिलालेख, नाणी आणि ग्रंथांमध्ये मिळतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "मोजमाप म्हणजे काय?",
+      "answer": "एखाद्या गोष्टीचे प्रमाण ठरवणे म्हणजे मोजमाप होय."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "इतिहासात तारखांचे काय महत्त्व आहे?",
+      "answer": "तारखांमुळे घटना कधी घडली याचा अचूक बोध होतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व १००० वर्षांचा काळ कसा मोजला जातो?",
+      "answer": "हा काळ इसवी सन पूर्व १००० ते इसवी सन पूर्व १ असा मोजला जातो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "कालखंड म्हणजे काय?",
+      "answer": "वेळेचा एक विशिष्ट भाग म्हणजे कालखंड होय."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "विज्ञानाचा इतिहासावर काय परिणाम झाला?",
+      "answer": "विज्ञानामुळे इतिहासातील घटनांचा काळ ठरवणे अधिक अचूक आणि सोपे झाले आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "इतिहास आपल्याला काय प्रेरणा देतो?",
+      "answer": "इतिहास आपल्याला थोर व्यक्तींच्या कार्याची आणि संघर्षाची प्रेरणा देतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कालमापन शास्त्राची गरज का आहे?",
+      "answer": "अस्पष्ट किंवा अज्ञात काळाची माहिती स्पष्ट करण्यासाठी कालमापन शास्त्राची गरज आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व आणि इसवी सन यातील फरक काय?",
+      "answer": "इसवी सन पूर्व म्हणजे ख्रिस्त जन्माआधीचा काळ आणि इसवी सन म्हणजे ख्रिस्त जन्मानंतरचा काळ."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "शतकाचा काळ किती वर्षांचा असतो?",
+      "answer": "शतकाचा काळ १०० वर्षांचा असतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "सहस्रकाचा काळ किती वर्षांचा असतो?",
+      "answer": "सहस्रकाचा काळ १००० वर्षांचा असतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "काळाची कोणती विभागणी शास्त्रीय मानली जाते?",
+      "answer": "सेकंद, मिनिट, तास यांप्रमाणे केलेली विभागणी शास्त्रीय मानली जाते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "इतिहासात पुराव्यांचे महत्त्व काय?",
+      "answer": "पुराव्याशिवाय ऐतिहासिक मांडणी ग्राह्य धरली जात नाही."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "काळाच्या कोणत्या भागात आपण योजना आखतो?",
+      "answer": "आपण भविष्यकाळासाठी योजना आखतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "काळाच्या कोणत्या भागात आपण कृती करतो?",
+      "answer": "आपण वर्तमानकाळात कृती करतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "काळाची विभागणी करण्याचे उद्दिष्ट काय?",
+      "answer": "काळाचे नीट आकलन होणे हे विभागणीचे मुख्य उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "प्रागैतिहासिक काळात मानवाकडे काय नव्हते?",
+      "answer": "प्रागैतिहासिक काळात मानवाकडे लेखनाची कला नव्हती."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "इतिहासाचा संबंध कशाशी आहे?",
+      "answer": "इतिहासाचा संबंध मानवी संस्कृतीच्या वाटचालीशी आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "कालमापन पद्धतीमुळे काय सिद्ध होते?",
+      "answer": "कालमापन पद्धतीमुळे ऐतिहासिक सत्यता सिद्ध होते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "इसवी सनाचे २१ वे शतक कधी सुरू झाले?",
+      "answer": "इसवी सनाचे २१ वे शतक १ जानेवारी २००१ रोजी सुरू झाले."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "इतिहासातील काळाचे दोन मोठे भाग कोणते?",
+      "answer": "प्रागैतिहासिक काळ आणि ऐतिहासिक काळ हे दोन मोठे भाग आहेत."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "काळाचे मोजमाप करण्याची साधने कोणती?",
+      "answer": "घड्याळ, दिनदर्शिका, वाळूचे घड्याळ ही काळाचे मोजमाप करण्याची साधने आहेत."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "भूतकाळातील माहिती कशामुळे सुरक्षित राहते?",
+      "answer": "भूतकाळातील माहिती इतिहास आणि त्याच्या पुराव्यांमुळे सुरक्षित राहते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "शास्त्रीय संशोधनाचे महत्त्व काय?",
+      "answer": "शास्त्रीय संशोधनामुळे आपल्याला अचूक निष्कर्ष काढता येतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "इसवी सन पूर्व काळात वर्षांचे आकडे कसे कमी होतात?",
+      "answer": "इसवी सन पूर्व काळात काळाची गणना मागे जात असल्यामुळे आकडे कमी होत जातात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "काळ कधी संपुष्टात येतो का?",
+      "answer": "नाही, काळ हा निरंतर आणि अनंत आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कालमापन पद्धतींचा उपयोग पुरातत्वशास्त्रज्ञ का करतात?",
+      "answer": "उत्खननात मिळालेल्या वस्तूंचा अचूक काळ शोधण्यासाठी पुरातत्वशास्त्रज्ञ या पद्धती वापरतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "इतिहास आणि भूगोल यांचा काय संबंध आहे?",
+      "answer": "विशिष्ट भौगोलिक प्रदेशात घडलेल्या ऐतिहासिक घटना समजून घेण्यासाठी दोन्ही विषयांचा संबंध येतो."
+    }
+  ]
+}

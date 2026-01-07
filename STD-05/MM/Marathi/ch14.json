@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 14,
+  "chapter_name": "राष्ट्रसंत तुकडोजी महाराज",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांचा जन्म कोणत्या जिल्ह्यात झाला?",
+      "options": [
+        { "option_id": 1, "text": "नागपूर", "is_correct": false },
+        { "option_id": 2, "text": "अमरावती", "is_correct": true },
+        { "option_id": 3, "text": "वर्धा", "is_correct": false },
+        { "option_id": 4, "text": "यवतमाळ", "is_correct": false }
+      ],
+      "answer": "अमरावती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांचे पूर्ण नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "माणिक बंडोजी इंगळे", "is_correct": true },
+        { "option_id": 2, "text": "विनायक दामोदर सावरकर", "is_correct": false },
+        { "option_id": 3, "text": "पांडुरंग सदाशिव साने", "is_correct": false },
+        { "option_id": 4, "text": "ज्योतिराव गोविंदराव फुले", "is_correct": false }
+      ],
+      "answer": "माणिक बंडोजी इंगळे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या आईचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जिजाबाई", "is_correct": false },
+        { "option_id": 2, "text": "मंजुळाबाई", "is_correct": true },
+        { "option_id": 3, "text": "रमाबाई", "is_correct": false },
+        { "option_id": 4, "text": "पुतळाबाई", "is_correct": false }
+      ],
+      "answer": "मंजुळाबाई"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांना 'तुकड्या' हे नाव कोणी दिले?",
+      "options": [
+        { "option_id": 1, "text": "त्यांच्या आईने", "is_correct": false },
+        { "option_id": 2, "text": "आडकूजी महाराजांनी", "is_correct": true },
+        { "option_id": 3, "text": "गाडगे बाबांनी", "is_correct": false },
+        { "option_id": 4, "text": "बंडोजी पंतांनी", "is_correct": false }
+      ],
+      "answer": "आडकूजी महाराजांनी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता प्रसिद्ध ग्रंथ लिहिला?",
+      "options": [
+        { "option_id": 1, "text": "दासबोध", "is_correct": false },
+        { "option_id": 2, "text": "ग्रामगीता", "is_correct": true },
+        { "option_id": 3, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 4, "text": "गाथा", "is_correct": false }
+      ],
+      "answer": "ग्रामगीता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणत्या वाद्याच्या साहाय्याने प्रबोधन केले?",
+      "options": [
+        { "option_id": 1, "text": "तंबोरा", "is_correct": false },
+        { "option_id": 2, "text": "वीणा", "is_correct": false },
+        { "option_id": 3, "text": "खंजिरी", "is_correct": true },
+        { "option_id": 4, "text": "ढोलक", "is_correct": false }
+      ],
+      "answer": "खंजिरी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी 'श्रीगुरुदेव सेवा मंडळ' कोठे स्थापन केले?",
+      "options": [
+        { "option_id": 1, "text": "गुरुकुंज मोझरी", "is_correct": true },
+        { "option_id": 2, "text": "शेगाव", "is_correct": false },
+        { "option_id": 3, "text": "आळंदी", "is_correct": false },
+        { "option_id": 4, "text": "पैठण", "is_correct": false }
+      ],
+      "answer": "गुरुकुंज मोझरी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांना 'राष्ट्रसंत' ही पदवी कोणी दिली?",
+      "options": [
+        { "option_id": 1, "text": "महात्मा गांधी", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. राजेंद्र प्रसाद", "is_correct": true },
+        { "option_id": 3, "text": "लोकमान्य टिळक", "is_correct": false },
+        { "option_id": 4, "text": "पंडित नेहरू", "is_correct": false }
+      ],
+      "answer": "डॉ. राजेंद्र प्रसाद"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता विचार मांडला?",
+      "options": [
+        { "option_id": 1, "text": "मूर्ती पूजा", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छता आणि ग्रामविकास", "is_correct": true },
+        { "option_id": 3, "text": "केवळ ध्यानधारणा", "is_correct": false },
+        { "option_id": 4, "text": "विश्राम", "is_correct": false }
+      ],
+      "answer": "स्वच्छता आणि ग्रामविकास"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "१९४२ च्या 'छोडो भारत' आंदोलनात तुकडोजी महाराजांनी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "सहभाग घेतला नाही", "is_correct": false },
+        { "option_id": 2, "text": "भजनांतून जनजागृती केली", "is_correct": true },
+        { "option_id": 3, "text": "परदेशात गेले", "is_correct": false },
+        { "option_id": 4, "text": "शेती केली", "is_correct": false }
+      ],
+      "answer": "भजनांतून जनजागृती केली"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खंजिरी भजनाचे वैशिष्ट्य काय होते?",
+      "options": [
+        { "option_id": 1, "text": "ते खूप शांत असे", "is_correct": false },
+        { "option_id": 2, "text": "त्यात केवळ धार्मिक कथा असत", "is_correct": false },
+        { "option_id": 3, "text": "त्यातून समाजप्रबोधन व स्फूर्ती मिळत असे", "is_correct": true },
+        { "option_id": 4, "text": "ते खूप महागडे असे", "is_correct": false }
+      ],
+      "answer": "त्यातून समाजप्रबोधन व स्फूर्ती मिळत असे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी जपानमध्ये कशासाठी प्रवास केला?",
+      "options": [
+        { "option_id": 1, "text": "जागतिक धर्म परिषदेसाठी", "is_correct": true },
+        { "option_id": 2, "text": "व्यापारासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पर्यटनासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नोकरीसाठी", "is_correct": false }
+      ],
+      "answer": "जागतिक धर्म परिषदेसाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांचे प्राथमिक शिक्षण कोठे झाले?",
+      "options": [
+        { "option_id": 1, "text": "यावली", "is_correct": true },
+        { "option_id": 2, "text": "मोझरी", "is_correct": false },
+        { "option_id": 3, "text": "पुणे", "is_correct": false },
+        { "option_id": 4, "text": "वरखेड", "is_correct": false }
+      ],
+      "answer": "यावली"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणत्या गोष्टीवर प्रहार केला?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षणावर", "is_correct": false },
+        { "option_id": 2, "text": "अंधश्रद्धा व जातिभेदावर", "is_correct": true },
+        { "option_id": 3, "text": "कलेवर", "is_correct": false },
+        { "option_id": 4, "text": "विज्ञानावर", "is_correct": false }
+      ],
+      "answer": "अंधश्रद्धा व जातिभेदावर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ग्रामगीतेत कशाचे महत्त्व सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शहराचे", "is_correct": false },
+        { "option_id": 2, "text": "खेडेगावाच्या विकासाचे", "is_correct": true },
+        { "option_id": 3, "text": "युद्धनीतीचे", "is_correct": false },
+        { "option_id": 4, "text": "राजकारणाचे", "is_correct": false }
+      ],
+      "answer": "खेडेगावाच्या विकासाचे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराज वयाच्या कितव्या वर्षी घराबाहेर पडले?",
+      "options": [
+        { "option_id": 1, "text": "१०", "is_correct": false },
+        { "option_id": 2, "text": "१३", "is_correct": true },
+        { "option_id": 3, "text": "२०", "is_correct": false },
+        { "option_id": 4, "text": "२५", "is_correct": false }
+      ],
+      "answer": "१३"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता मंत्र दिला?",
+      "options": [
+        { "option_id": 1, "text": "शांतीचा", "is_correct": false },
+        { "option_id": 2, "text": "विश्वबंधुत्वाचा", "is_correct": true },
+        { "option_id": 3, "text": "विभाजनाचा", "is_correct": false },
+        { "option_id": 4, "text": "अज्ञानाचा", "is_correct": false }
+      ],
+      "answer": "विश्वबंधुत्वाचा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांचे कार्य प्रामुख्याने कोणत्या भागात होते?",
+      "options": [
+        { "option_id": 1, "text": "कोकण", "is_correct": false },
+        { "option_id": 2, "text": "विदर्भ", "is_correct": true },
+        { "option_id": 3, "text": "मराठवाडा", "is_correct": false },
+        { "option_id": 4, "text": "देश", "is_correct": false }
+      ],
+      "answer": "विदर्भ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या भजनाचा प्रभाव कोणावर पडला?",
+      "options": [
+        { "option_id": 1, "text": "केवळ वृद्धांवर", "is_correct": false },
+        { "option_id": 2, "text": "केवळ लहान मुलांवर", "is_correct": false },
+        { "option_id": 3, "text": "तमाम जनतेवर व स्वातंत्र्यसैनिकांवर", "is_correct": true },
+        { "option_id": 4, "text": "कोणावरही नाही", "is_correct": false }
+      ],
+      "answer": "तमाम जनतेवर व स्वातंत्र्यसैनिकांवर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कशाला महत्त्व दिले?",
+      "options": [
+        { "option_id": 1, "text": "आळसाला", "is_correct": false },
+        { "option_id": 2, "text": "श्रमदानाला", "is_correct": true },
+        { "option_id": 3, "text": "जातीवादाला", "is_correct": false },
+        { "option_id": 4, "text": "पैशाला", "is_correct": false }
+      ],
+      "answer": "श्रमदानाला"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "बंडोजी", "is_correct": true },
+        { "option_id": 2, "text": "पांडुरंग", "is_correct": false },
+        { "option_id": 3, "text": "गोविंद", "is_correct": false },
+        { "option_id": 4, "text": "विठ्ठल", "is_correct": false }
+      ],
+      "answer": "बंडोजी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता आश्रम स्थापन केला?",
+      "options": [
+        { "option_id": 1, "text": "आनंदवन", "is_correct": false },
+        { "option_id": 2, "text": "गुरुकुंज आश्रम", "is_correct": true },
+        { "option_id": 3, "text": "शांतीनिकेतन", "is_correct": false },
+        { "option_id": 4, "text": "साबरमती", "is_correct": false }
+      ],
+      "answer": "गुरुकुंज आश्रम"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराज कोणाचे भक्त होते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ देवाचे", "is_correct": false },
+        { "option_id": 2, "text": "मानवतेचे आणि राष्ट्राचे", "is_correct": true },
+        { "option_id": 3, "text": "श्रीमंतांचे", "is_correct": false },
+        { "option_id": 4, "text": "राजकारण्यांचे", "is_correct": false }
+      ],
+      "answer": "मानवतेचे आणि राष्ट्राचे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ग्रामगीतेचे एकूण किती अध्याय आहेत?",
+      "options": [
+        { "option_id": 1, "text": "१८", "is_correct": false },
+        { "option_id": 2, "text": "४१", "is_correct": true },
+        { "option_id": 3, "text": "५०", "is_correct": false },
+        { "option_id": 4, "text": "१००", "is_correct": false }
+      ],
+      "answer": "४१"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या भजनाची भाषा कोणती होती?",
+      "options": [
+        { "option_id": 1, "text": "केवळ संस्कृत", "is_correct": false },
+        { "option_id": 2, "text": "केवळ इंग्रजी", "is_correct": false },
+        { "option_id": 3, "text": "मराठी आणि हिंदी (साधी व सोपी)", "is_correct": true },
+        { "option_id": 4, "text": "तामिळ", "is_correct": false }
+      ],
+      "answer": "मराठी आणि हिंदी (साधी व सोपी)"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांचे बालपण कोठे गेले?",
+      "options": [
+        { "option_id": 1, "text": "वरखेड", "is_correct": true },
+        { "option_id": 2, "text": "मुंबई", "is_correct": false },
+        { "option_id": 3, "text": "नाशिक", "is_correct": false },
+        { "option_id": 4, "text": "कोल्हापूर", "is_correct": false }
+      ],
+      "answer": "वरखेड"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता संदेश दिला?",
+      "options": [
+        { "option_id": 1, "text": "लढा आणि मरा", "is_correct": false },
+        { "option_id": 2, "text": "मदत करा आणि विसरा", "is_correct": false },
+        { "option_id": 3, "text": "हाती घ्या झाडू आणि करा स्वच्छता", "is_correct": true },
+        { "option_id": 4, "text": "केवळ भजन करा", "is_correct": false }
+      ],
+      "answer": "हाती घ्या झाडू आणि करा स्वच्छता"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या मते खरा धर्म कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पूजापाठ", "is_correct": false },
+        { "option_id": 2, "text": "मानवता आणि सेवा", "is_correct": true },
+        { "option_id": 3, "text": "उपवास", "is_correct": false },
+        { "option_id": 4, "text": "कर्मकांड", "is_correct": false }
+      ],
+      "answer": "मानवता आणि सेवा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या कार्यामुळे कोणाला प्रेरणा मिळाली?",
+      "options": [
+        { "option_id": 1, "text": "सैनिकांना", "is_correct": false },
+        { "option_id": 2, "text": "युवकांना आणि ग्रामस्थांना", "is_correct": true },
+        { "option_id": 3, "text": "केवळ कवींना", "is_correct": false },
+        { "option_id": 4, "text": "कोणालाच नाही", "is_correct": false }
+      ],
+      "answer": "युवकांना आणि ग्रामस्थांना"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोठून कोठपर्यंत पदयात्रा काढल्या?",
+      "options": [
+        { "option_id": 1, "text": "गाव ते गाव", "is_correct": true },
+        { "option_id": 2, "text": "शहर ते शहर", "is_correct": false },
+        { "option_id": 3, "text": "देश ते देश", "is_correct": false },
+        { "option_id": 4, "text": "केवळ जंगलात", "is_correct": false }
+      ],
+      "answer": "गाव ते गाव"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणत्या वर्षी देह ठेवला?",
+      "options": [
+        { "option_id": 1, "text": "१९६८", "is_correct": true },
+        { "option_id": 2, "text": "१९५०", "is_correct": false },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९४७", "is_correct": false }
+      ],
+      "answer": "१९६८"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "ग्रामगीतेत 'गाव' हा कशाचा गाभा मानला आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशाचा", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्राचा", "is_correct": true },
+        { "option_id": 3, "text": "तालुक्याचा", "is_correct": false },
+        { "option_id": 4, "text": "जिल्ह्याचा", "is_correct": false }
+      ],
+      "answer": "राष्ट्राचा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांना लहानपणापासून कशाची आवड होती?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्याची", "is_correct": false },
+        { "option_id": 2, "text": "भजन आणि ध्यान करण्याची", "is_correct": true },
+        { "option_id": 3, "text": "अभ्यासाची", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकलेची", "is_correct": false }
+      ],
+      "answer": "भजन आणि ध्यान करण्याची"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आडकूजी महाराजांनी तुकडोजींना काय शिकवले?",
+      "options": [
+        { "option_id": 1, "text": "युद्धकला", "is_correct": false },
+        { "option_id": 2, "text": "भक्ती आणि सेवा", "is_correct": true },
+        { "option_id": 3, "text": "गणित", "is_correct": false },
+        { "option_id": 4, "text": "इंग्रजी", "is_correct": false }
+      ],
+      "answer": "भक्ती आणि सेवा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणाच्या विरोधात आवाज उठवला?",
+      "options": [
+        { "option_id": 1, "text": "ब्रिटिश सरकार", "is_correct": true },
+        { "option_id": 2, "text": "गरिबांच्या", "is_correct": false },
+        { "option_id": 3, "text": "कलावंतांच्या", "is_correct": false },
+        { "option_id": 4, "text": "धार्मिक पुस्तकांच्या", "is_correct": false }
+      ],
+      "answer": "ब्रिटिश सरकार"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या मते मंदिर म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "केवळ दगडी इमारत", "is_correct": false },
+        { "option_id": 2, "text": "सेवा आणि ज्ञानाचे केंद्र", "is_correct": true },
+        { "option_id": 3, "text": "पैसा जमा करण्याचे ठिकाण", "is_correct": false },
+        { "option_id": 4, "text": "विश्रामगृह", "is_correct": false }
+      ],
+      "answer": "सेवा आणि ज्ञानाचे केंद्र"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी समाज सुधारणेसाठी काय वापरले?",
+      "options": [
+        { "option_id": 1, "text": "तलवार", "is_correct": false },
+        { "option_id": 2, "text": "कीर्तन आणि भजन", "is_correct": true },
+        { "option_id": 3, "text": "मोठी भाषणे", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "कीर्तन आणि भजन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता संदेश दिला?",
+      "options": [
+        { "option_id": 1, "text": "भेदाभेद पाळा", "is_correct": false },
+        { "option_id": 2, "text": "सर्व धर्म समभाव राखा", "is_correct": true },
+        { "option_id": 3, "text": "केवळ स्वताचा विचार करा", "is_correct": false },
+        { "option_id": 4, "text": "परदेशी जा", "is_correct": false }
+      ],
+      "answer": "सर्व धर्म समभाव राखा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराज कोणत्या थरापर्यंत जाऊन सेवा करायचे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ भाषणापर्यंत", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्यक्ष कृतीपर्यंत", "is_correct": true },
+        { "option_id": 3, "text": "केवळ लेखनापर्यंत", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तकापर्यंत", "is_correct": false }
+      ],
+      "answer": "प्रत्यक्ष कृतीपर्यंत"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "राष्ट्रसंतांनी कशावर भर दिला?",
+      "options": [
+        { "option_id": 1, "text": "व्यसनमुक्तीवर", "is_correct": true },
+        { "option_id": 2, "text": "चंगळवादावर", "is_correct": false },
+        { "option_id": 3, "text": "अज्ञानावर", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळावर", "is_correct": false }
+      ],
+      "answer": "व्यसनमुक्तीवर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी 'जागतिक धर्म परिषद' कोठे गाजवली?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "जपान", "is_correct": true },
+        { "option_id": 3, "text": "चीन", "is_correct": false },
+        { "option_id": 4, "text": "रशिया", "is_correct": false }
+      ],
+      "answer": "जपान"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "खंजिरी भजनाचे जनक कोणाला मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "संत नामदेव", "is_correct": false },
+        { "option_id": 2, "text": "संत तुकडोजी महाराज", "is_correct": true },
+        { "option_id": 3, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "संत तुकाराम", "is_correct": false }
+      ],
+      "answer": "संत तुकडोजी महाराज"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांच्या भजनाचा विषय कोणता असे?",
+      "options": [
+        { "option_id": 1, "text": "राजकारण", "is_correct": false },
+        { "option_id": 2, "text": "भक्ती, नीती आणि राष्ट्रप्रेम", "is_correct": true },
+        { "option_id": 3, "text": "सिनेमा", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "भक्ती, नीती आणि राष्ट्रप्रेम"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणासाठी दवाखाने व शाळा उघडल्या?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंतांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "ग्रामीण जनतेसाठी", "is_correct": true },
+        { "option_id": 3, "text": "केवळ नातेवाइकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "कोणासाठीच नाही", "is_correct": false }
+      ],
+      "answer": "ग्रामीण जनतेसाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराज जपानला कोणत्या वर्षी गेले होते?",
+      "options": [
+        { "option_id": 1, "text": "१९५५", "is_correct": true },
+        { "option_id": 2, "text": "१९४२", "is_correct": false },
+        { "option_id": 3, "text": "१९६०", "is_correct": false },
+        { "option_id": 4, "text": "१९५०", "is_correct": false }
+      ],
+      "answer": "१९५५"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोणता ग्रंथ लोकभाषेत लिहिला?",
+      "options": [
+        { "option_id": 1, "text": "भगवद्गीता", "is_correct": false },
+        { "option_id": 2, "text": "ग्रामगीता", "is_correct": true },
+        { "option_id": 3, "text": "अनुभवामृत", "is_correct": false },
+        { "option_id": 4, "text": "विवेकसिंधू", "is_correct": false }
+      ],
+      "answer": "ग्रामगीता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी ग्रामगीतेत कशाचा 'महिमा' गायला आहे?",
+      "options": [
+        { "option_id": 1, "text": "श्रमदानाचा", "is_correct": true },
+        { "option_id": 2, "text": "मोठ्या शहरांचा", "is_correct": false },
+        { "option_id": 3, "text": "शस्त्रांचा", "is_correct": false },
+        { "option_id": 4, "text": "पैशाचा", "is_correct": false }
+      ],
+      "answer": "श्रमदानाचा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "राष्ट्रसंतांनी कोणाला मार्गदर्शन केले?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रपतींना", "is_correct": false },
+        { "option_id": 2, "text": "सामान्यांना आणि गरिबांना", "is_correct": true },
+        { "option_id": 3, "text": "केवळ राजांना", "is_correct": false },
+        { "option_id": 4, "text": "कोणालाच नाही", "is_correct": false }
+      ],
+      "answer": "सामान्यांना आणि गरिबांना"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कोठून प्रेरणा घेतली होती?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गातून आणि संतांच्या विचारांतून", "is_correct": true },
+        { "option_id": 2, "text": "दूरदर्शनवरून", "is_correct": false },
+        { "option_id": 3, "text": "बाजारपेठेतून", "is_correct": false },
+        { "option_id": 4, "text": "परकीय देशातून", "is_correct": false }
+      ],
+      "answer": "निसर्गातून आणि संतांच्या विचारांतून"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "तुकडोजी महाराजांनी कशासाठी 'लढा' दिला?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्यासाठी व समाज परिवर्तनासाठी", "is_correct": true },
+        { "option_id": 2, "text": "स्वतःच्या नावासाठी", "is_correct": false },
+        { "option_id": 3, "text": " संपत्तीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "सत्तेसाठी", "is_correct": false }
+      ],
+      "answer": "स्वातंत्र्यासाठी व समाज परिवर्तनासाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचा जन्म कोठे झाला?",
+      "answer": "तुकडोजी महाराजांचा जन्म अमरावती जिल्ह्यातील यावली या गावी झाला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या आईवडिलांचे नाव काय होते?",
+      "answer": "तुकडोजी महाराजांच्या आईचे नाव मंजुळाबाई आणि वडिलांचे नाव बंडोजी होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचे पूर्ण नाव काय?",
+      "answer": "तुकडोजी महाराजांचे पूर्ण नाव माणिक बंडोजी इंगळे होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "माणिकला 'तुकड्या' हे नाव कोणी दिले?",
+      "answer": "माणिकला 'तुकड्या' हे नाव वरखेडचे श्री आडकूजी महाराज यांनी दिले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराज कोणते वाद्य वाजवत असत?",
+      "answer": "तुकडोजी महाराज खंजिरी हे वाद्य वाजवत असत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणता ग्रंथ लिहिला?",
+      "answer": "तुकडोजी महाराजांनी 'ग्रामगीता' हा प्रसिद्ध ग्रंथ लिहिला."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणत्या कार्यासाठी स्वतःला वाहून घेतले?",
+      "answer": "तुकडोजी महाराजांनी समाज सुधारणा, ग्रामविकास आणि राष्ट्रजागृतीसाठी स्वतःला वाहून घेतले."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांना 'राष्ट्रसंत' ही पदवी कोणी दिली?",
+      "answer": "तुकडोजी महाराजांना भारताचे पहिले राष्ट्रपती डॉ. राजेंद्र प्रसाद यांनी 'राष्ट्रसंत' ही पदवी दिली."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी भजनाद्वारे काय केले?",
+      "answer": "तुकडोजी महाराजांनी भजनाद्वारे लोकांमध्ये उत्साह, देशभक्ती आणि समाजसुधारणेची जाणीव निर्माण केली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ग्रामगीतेचा मुख्य उद्देश काय आहे?",
+      "answer": "ग्रामगीतेचा मुख्य उद्देश खेड्यांचा विकास करणे आणि गावाला स्वयंपूर्ण बनवणे हा आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराज जपानला का गेले होते?",
+      "answer": "तुकडोजी महाराज जपानला जागतिक धर्म परिषदेत सहभागी होण्यासाठी गेले होते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणती संस्था स्थापन केली?",
+      "answer": "तुकडोजी महाराजांनी 'श्रीगुरुदेव सेवा मंडळ' ही संस्था स्थापन केली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या मते खरा देव कोठे आहे?",
+      "answer": "तुकडोजी महाराजांच्या मते खरा देव मानवात आणि कष्टाच्या कार्यात आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या भजनाचे वैशिष्ट्य काय होते?",
+      "answer": "त्यांच्या भजनात खंजिरीचा ताळ आणि आवेशपूर्ण शब्द असायचे, ज्यामुळे श्रोते मंत्रमुग्ध व्हायचे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "१९४२ च्या आंदोलनात तुकडोजी महाराजांचे योगदान काय?",
+      "answer": "त्यांनी आपल्या भजनांतून 'झाडाझडती' घेत स्वातंत्र्यलढ्यासाठी तरुणांना प्रेरित केले व तुरुंगवासही भोगला."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ग्रामगीतेत स्वच्छतेबद्दल काय सांगितले आहे?",
+      "answer": "ग्रामगीतेत सांगितले आहे की, स्वच्छता हीच समृद्धीची जननी आहे आणि प्रत्येकाने आपले गाव स्वच्छ ठेवले पाहिजे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी जातिभेदावर काय मत मांडले?",
+      "answer": "त्यांनी सर्व जाती-धर्म समान असून माणुसकी हाच खरा धर्म असल्याचे सांगितले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचे बालपण कोणत्या वातावरणात गेले?",
+      "answer": "तुकडोजी महाराजांचे बालपण आध्यात्मिक आणि साध्या वातावरणात गेले."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांना व्यायामाचे महत्त्व का वाटत असे?",
+      "answer": "निरोगी शरीरातच निरोगी मन असते आणि राष्ट्र उभारणीसाठी शरीर सुदृढ असणे आवश्यक आहे, असे त्यांना वाटायचे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'श्रमदाना'चा कोणता संदेश दिला?",
+      "answer": "स्वतःच्या हाताने काम करणे ही शरमेची गोष्ट नसून ती अभिमानाची गोष्ट आहे, असा संदेश त्यांनी दिला."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "गुरुकुंज मोझरी येथे काय आहे?",
+      "answer": "गुरुकुंज मोझरी येथे तुकडोजी महाराजांचा मुख्य आश्रम आणि समाधी स्थळ आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणासाठी शाळा उघडल्या?",
+      "answer": "तुकडोजी महाराजांनी ग्रामीण भागातील मुलांसाठी आणि दलितांसाठी शाळा उघडल्या."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी जपानमधील परिषदेत कोणत्या विषयावर भाषण केले?",
+      "answer": "त्यांनी जागतिक शांतता आणि विश्वबंधुत्व या विषयावर जपानमध्ये प्रभावी भाषण केले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "खंजिरी भजन ऐकण्यासाठी लोक का गर्दी करत?",
+      "answer": "त्यांच्या भजनातील साधेपणा, समाजातील प्रश्नांची मांडणी आणि खंजिरीचा ताल यामुळे लोक गर्दी करत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचे महानिर्वाण केव्हा झाले?",
+      "answer": "तुकडोजी महाराजांचे महानिर्वाण ११ ऑक्टोबर १९६८ रोजी झाले."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणाच्या विरोधात लढा दिला?",
+      "answer": "त्यांनी ब्रिटिशांच्या अन्यायी राजवटीविरोधात आणि समाजातील अनिष्ट प्रथांविरोधात लढा दिला."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी व्यसनमुक्तीसाठी काय केले?",
+      "answer": "त्यांनी आपल्या कीर्तनातून आणि भजनातून दारू, तंबाखू यांसारख्या व्यसनांपासून दूर राहण्याचा उपदेश केला."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ग्रामगीतेचा प्रभाव कोणावर पडला?",
+      "answer": "ग्रामगीतेचा प्रभाव ग्रामीण जनतेवर, समाजसेवकांवर आणि राज्यकर्त्यांवर मोठ्या प्रमाणावर पडला."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी निसर्गाबद्दल काय सांगितले?",
+      "answer": "निसर्ग हाच गुरु आहे आणि झाडे-वेलींची जोपासना करणे हे मानवाचे कर्तव्य आहे, असे त्यांनी सांगितले."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणत्या भाषेत लेखन केले?",
+      "answer": "त्यांनी मराठी आणि हिंदी या दोन्ही भाषांत विपुल लेखन आणि भजने तयार केली."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी अंधश्रद्धेवर कसा प्रहार केला?",
+      "answer": "अंधश्रद्धेमुळे माणसाचे नुकसान होते आणि विवेकाने वागणे गरजेचे आहे, हे त्यांनी भजनांतून पटवून दिले."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंतांच्या मते खरी देशभक्ती काय?",
+      "answer": "आपल्या देशातील बांधवांची सेवा करणे आणि राष्ट्राच्या प्रगतीसाठी हातभार लावणे हीच खरी देशभक्ती होय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी युवकांना काय आवाहन केले?",
+      "answer": "युवकांनी आळस सोडून देशसेवेसाठी सज्ज व्हावे, असे आवाहन त्यांनी केले."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ग्रामगीतेतील एका प्रसिद्ध ओळीचा अर्थ सांगा.",
+      "answer": "'गाव हा राष्ट्राचा नकाशा' म्हणजे गावाची प्रगती झाली तरच राष्ट्राची प्रगती होईल असा त्याचा अर्थ आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या कार्याची प्रेरणा कोठून मिळाली?",
+      "answer": "त्यांना संत कबीर, संत ज्ञानेश्वर आणि संत तुकाराम यांच्या विचारांतून प्रेरणा मिळाली."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंतांनी स्त्रियांच्या बाबतीत काय विचार मांडले?",
+      "answer": "स्त्रियांना शिक्षण दिले पाहिजे आणि समाजात त्यांना सन्मानाची वागणूक मिळाली पाहिजे, असे त्यांचे विचार होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी दुष्काळात काय केले?",
+      "answer": "दुष्काळग्रस्तांना मदत मिळवून दिली आणि त्यांना धीर देण्याचे काम केले."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या भजनाचे लोक किती आवडीने ऐकत?",
+      "answer": "त्यांच्या भजनात एवढी शक्ती होती की हजारो लोक तासन् तास मंत्रमुग्ध होऊन ते ऐकत असत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांना 'खंजिरीचा सम्राट' का म्हणतात?",
+      "answer": "कारण त्यांनी खंजिरी या छोट्या वाद्याचा उपयोग करून समाज परिवर्तनाचे मोठे काम केले."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी जपानमध्ये कशाचा प्रसार केला?",
+      "answer": "त्यांनी जपानमध्ये भारतीय संस्कृती आणि गांधीजींच्या अहिंसेच्या विचारांचा प्रसार केला."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या मते 'गुरु' कोण?",
+      "answer": "जो सन्मार्ग दाखवतो आणि समाजाची सेवा करायला शिकवतो तोच खरा गुरु."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी सामूहिक प्रार्थनेवर का भर दिला?",
+      "answer": "सामूहिक प्रार्थनेमुळे लोकांमध्ये एकता आणि बंधुत्व वाढते, म्हणून त्यांनी त्यावर भर दिला."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांची शिकवण आजही लागू आहे का?",
+      "answer": "हो, स्वच्छता, ग्रामविकास आणि बंधुत्वाची त्यांची शिकवण आजही तेवढीच महत्त्वाची आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी शिक्षणाबद्दल काय म्हटले?",
+      "answer": "शिक्षण हे केवळ पदवीसाठी नसून ते माणसाला शहाणे आणि कर्तबगार बनवण्यासाठी असावे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंतांनी विज्ञानाबद्दल काय सांगितले?",
+      "answer": "विज्ञानाचा उपयोग मानवाच्या कल्याणासाठी आणि प्रगतीसाठी केला पाहिजे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांना मानणारे लोक कोणत्या पंथाचे आहेत?",
+      "answer": "तुकडोजी महाराजांना सर्व धर्मांचे आणि पंथांचे लोक मानतात, प्रामुख्याने 'गुरुदेव सेवा मंडळ' अनुयायी."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी गावाला 'गोकुळ' कसे बनवावे असे सांगितले?",
+      "answer": "जेव्हा गावात स्वच्छता, प्रेम आणि सहकार्य असेल, तेव्हाच गाव गोकुळ बनेल."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणत्या लढाईत सैनिकांना स्फूर्ती दिली?",
+      "answer": "१९६२ आणि १९६५ च्या युद्धाच्या वेळी त्यांनी सीमेवर जाऊन भारतीय सैनिकांना भजनांतून स्फूर्ती दिली."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या ग्रामगीतेचे महत्त्व काय?",
+      "answer": "ती ग्रामीण जीवनाचा आरसा असून प्रगतीचा मार्ग दाखवणारा आधुनिक वेद मानली जाते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचे विचार तरुणांनी का आत्मसात करावेत?",
+      "answer": "चारित्र्यवान आणि राष्ट्रप्रेमी नागरिक बनण्यासाठी तरुणांनी त्यांचे विचार आत्मसात करावेत."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी स्वतःच्या हाताने रस्ते का झाडले?",
+      "answer": "लोकांना स्वच्छतेचे महत्त्व कृतीतून पटवून देण्यासाठी त्यांनी स्वतः रस्ते झाडले."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'स्वदेशी'चा पुरस्कार का केला?",
+      "answer": "देशातील गरिबी दूर करण्यासाठी आणि स्थानिक कारागिरांना काम मिळावे म्हणून त्यांनी स्वदेशीचा पुरस्कार केला."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या समाधीवर काय संदेश आहे?",
+      "answer": "त्यांच्या समाधीवर 'या भारताच्या सर्व धर्मांचे ऐक्य होऊ दे' हा विश्वशांतीचा संदेश आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोठून प्रेरणा घेतली?",
+      "answer": "त्यांनी आपल्या अनुभवातून आणि लोकांच्या अडीअडचणी पाहून समाजसेवेची प्रेरणा घेतली."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराज हे केवळ संत होते का?",
+      "answer": "नाही, ते एक क्रांतीकारक, समाजसुधारक, साहित्यिक आणि थोर राष्ट्रभक्त सुद्धा होते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी निसर्गाशी नाते कसे जोडले?",
+      "answer": "त्यांनी झाडे लावा, झाडे जगवा हा मंत्र देऊन निसर्गाचे महत्त्व पटवून दिले."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंतांनी शेतीबद्दल काय विचार मांडले?",
+      "answer": "शेती हा भारताचा कणा आहे आणि शेतकऱ्यांनी आधुनिक तंत्रज्ञान वापरावे, असे त्यांचे मत होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या भजनाचा प्रारंभ कसा व्हायचा?",
+      "answer": "त्यांच्या भजनाचा प्रारंभ खंजिरीच्या दमदार तालावर 'हरि बोला' किंवा जयघोषाने व्हायचा."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'विश्वशांती'साठी काय केले?",
+      "answer": "त्यांनी 'वसुधैव कुटुंबकम्' हा विचार जगभर पसरवून शांततेचे आवाहन केले."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांची 'ग्रामगीता' कोणत्या भाषेतून अनुवादित झाली आहे?",
+      "answer": "ग्रामगीता अनेक भारतीय भाषांमध्ये अनुवादित झाली असून ती ग्रामीण विकासाचे मार्गदर्शक पुस्तक ठरली आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी दलितांच्या उद्धारासाठी काय केले?",
+      "answer": "त्यांनी दलितांना मंदिरांत प्रवेश मिळावा यासाठी प्रयत्न केले आणि त्यांना शिक्षणाच्या प्रवाहात आणले."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या आयुष्यातील मुख्य ध्येय काय होते?",
+      "answer": "माणसाने माणूस म्हणून जगणे आणि राष्ट्राला महान बनवणे हेच त्यांचे ध्येय होते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी ग्रामस्थांना कोणता स्वावलंबनाचा धडा दिला?",
+      "answer": "गावातील कामे गावकऱ्यांनी मिळून करावीत आणि बाहेरच्या मदतीवर अवलंबून राहू नये, हा धडा दिला."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या कार्याचे मर्म काय आहे?",
+      "answer": "भक्तीतून शक्ती आणि शक्तीतून राष्ट्रसेवा हेच त्यांच्या कार्याचे मर्म आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी आरोग्याबद्दल काय सांगितले?",
+      "answer": "आरोग्य हीच खरी संपत्ती असून प्रत्येकाने सूर्यनमस्कार आणि योगासने करावीत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी पाण्याचा वापर कसा करावा असे सांगितले?",
+      "answer": "पाणी हे जीवन आहे, त्याचा अपव्यय टाळावा आणि जलसंधारण करावे, असे त्यांनी सांगितले."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी सहकार चळवळीबद्दल काय म्हटले?",
+      "answer": "एकमेका साह्य करू अवघे धरू सुपंथ या उक्तीप्रमाणे सहकाराने प्रगती साधावी."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांना 'माणुसकीचे संत' का म्हणतात?",
+      "answer": "कारण त्यांनी जात-पात बाजूला ठेवून केवळ माणुसकीची सेवा केली."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'वेळेचे नियोजन' कसे सांगितले?",
+      "answer": "वेळ ही अमूल्य आहे, तिचा उपयोग राष्ट्रहित आणि समाजसेवेसाठी करावा."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या विचारांचे स्मारक कोठे आहे?",
+      "answer": "त्यांचे मुख्य स्मारक आणि कार्य केंद्र गुरुकुंज मोझरी (जिल्हा अमरावती) येथे आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी साहित्यातून काय दिले?",
+      "answer": "त्यांनी साहित्यातून सामान्य माणसाला जगण्याची नवी दिशा आणि मूल्ये दिली."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'अहिंसे'बद्दल काय विचार मांडले?",
+      "answer": "अहिंसा हे शूर माणसाचे शस्त्र असून तिने हृदय परिवर्तन करता येते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी शिक्षकांना काय सल्ला दिला?",
+      "answer": "शिक्षकांनी विद्यार्थ्यांना केवळ अक्षरांचे ज्ञान न देता त्यांना सुसंस्कृत नागरिक बनवावे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या कार्यामुळे समाजात कोणता बदल झाला?",
+      "answer": "लोकांमधील अंधश्रद्धा कमी झाली आणि ग्रामविकासाची चळवळ उभी राहिली."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचे भजन कशाचे प्रतीक आहे?",
+      "answer": "त्यांचे भजन हे लोकजागृती आणि राष्ट्रनिष्ठेचे प्रतीक आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी बालकांवर काय संस्कार करावे असे सांगितले?",
+      "answer": "बालकांमध्ये लहानपणापासूनच कष्टाची आवड आणि सत्य बोलण्याची सवय लावावी."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या ग्रामगीतेचा वारसा कोण चालवत आहे?",
+      "answer": "त्यांनी स्थापन केलेले गुरुदेव सेवा मंडळ आणि अनेक निष्ठावान कार्यकर्ते हा वारसा चालवत आहेत."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी जपानला भेट दिल्यावर काय प्रतिक्रिया दिली?",
+      "answer": "त्यांनी जपानमधील लोकांच्या शिस्तीचे आणि कामाच्या आवडीचे कौतुक केले."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी गावाचा विकास कसा साधावा असे सांगितले?",
+      "answer": "गावाचा विकास हा लोकसहभाग आणि श्रमदानाशिवाय शक्य नाही."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणत्या ग्रंथाचा आधार घेतला?",
+      "answer": "त्यांनी ज्ञानेश्वरी, दासबोध आणि कबीरांचे दोहे यांचा सखोल अभ्यास केला होता."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'सत्य' बद्दल काय सांगितले?",
+      "answer": "सत्य हेच सर्वश्रेष्ठ असून माणसाने नेहमी सत्याचाच मार्ग धरावा."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंतांनी 'आळस' याबद्दल काय चेतावणी दिली?",
+      "answer": "आळस हा माणसाचा सर्वात मोठा शत्रू असून तो राष्ट्राचा घात करतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'वाचना'बद्दल काय सांगितले?",
+      "answer": "उत्तम ग्रंथांचे वाचन केल्याने बुद्धीची प्रगती होते आणि विचारांत स्पष्टता येते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कीर्तनाचा उद्देश काय सांगितला?",
+      "answer": "कीर्तन हे केवळ मनोरंजन नसून ते समाजाचे प्रबोधन करण्याचे साधन आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या जीवनातून काय शिकावे?",
+      "answer": "त्यांच्या जीवनातून साधेपणा, सेवाभाव आणि प्रखर राष्ट्रनिष्ठा हे गुण शिकावेत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी लोकशाहीबद्दल काय म्हटले?",
+      "answer": "लोकशाही यशस्वी करण्यासाठी प्रत्येक नागरिकाने आपले कर्तव्य निष्ठेने बजावले पाहिजे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी पशूंबद्दल काय संदेश दिला?",
+      "answer": "पशू-प्राण्यांवर दया करावी आणि त्यांना क्रूरतेने वागवू नये."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या ग्रामगीतेचे वाचन कुठे केले जाते?",
+      "answer": "महाराष्ट्रभर अनेक गावांमध्ये सामुदायिकरीत्या ग्रामगीतेचे वाचन केले जाते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'कुटुंब' संस्थेबद्दल काय म्हटले?",
+      "answer": "कुटुंब हे संस्काराचे पहिले केंद्र असून तिथे प्रेम आणि आदर असावा."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'तरुणाई' ला कोणते आव्हान दिले?",
+      "answer": "देशाचे भवितव्य तुमच्या हातात आहे, म्हणून स्वतःला घडवून देशाला घडवा."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी दुष्काळग्रस्तांसाठी काय योजना आखल्या?",
+      "answer": "त्यांनी अन्नधान्याची मदत आणि पाण्याचे प्रश्न सोडवण्यासाठी ग्रामस्थांना एकत्र केले."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या भजनाचे भाषिक स्वरूप कसे होते?",
+      "answer": "त्यांच्या भजनात मराठीसोबतच वऱ्हाडी बोलीभाषेचा ही सुंदर मिलाफ होता."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंतांनी 'एकता' कशी टिकवावी असे सांगितले?",
+      "answer": "सर्वांनी एकत्र प्रार्थना करून आणि सण साजरे करून एकता टिकवावी."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या मते खरा विजय कोणता?",
+      "answer": "एखाद्याचे मन जिंकणे आणि वाईट प्रवृत्तीवर विजय मिळवणे हाच खरा विजय."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी स्वतःच्या मृत्यूबद्दल काय विचार मांडले?",
+      "answer": "देह नश्वर आहे पण माणसाचे कार्य आणि विचार अमर राहतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी गावातील राजकारणाबद्दल काय म्हटले?",
+      "answer": "गावाच्या प्रगतीत राजकारण आणू नये, सर्वांनी मिळून विकास करावा."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांच्या कार्याचा वारसा आजही का टिकून आहे?",
+      "answer": "कारण त्यांचे विचार मानवाच्या मुलभूत गरजांशी आणि कल्याणाशी निगडित आहेत."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी कोणती नवीन परंपरा सुरू केली?",
+      "answer": "त्यांनी सामूहिक प्रार्थना आणि ग्रामसफाईची नवीन परंपरा सुरू केली."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांनी 'माणूस' घडवण्यासाठी काय केले?",
+      "answer": "त्यांनी भक्ती, शिक्षण आणि श्रमदानाचा त्रिवेणी संगम घडवून आणला."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "तुकडोजी महाराजांचे नाव अजरामर का झाले?",
+      "answer": "त्यांच्या निस्वार्थ सेवेमुळे, राष्ट्रप्रेमामुळे आणि क्रांतीकारी समाजसुधारणेमुळे त्यांचे नाव अजरामर झाले."
+    }
+  ]
+}

@@ -1,0 +1,1210 @@
+{
+  "chapter_id": 5,
+  "chapter_name": "कुटुंबातील मूल्ये",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कुटुंबात निर्णयांत सहभागी व्हायला मिळाल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "अभिमान वाटतो", "is_correct": false },
+        { "option_id": 2, "text": "आपलेपणा वाढतो", "is_correct": true },
+        { "option_id": 3, "text": "राग येतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीच वाटत नाही", "is_correct": false }
+      ],
+      "answer": "आपलेपणा वाढतो"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक प्रश्नांबाबतचे निर्णय कोणी घ्यायचे असतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ सरकार", "is_correct": false },
+        { "option_id": 2, "text": "केवळ श्रीमंत लोक", "is_correct": false },
+        { "option_id": 3, "text": "सर्वांनी मिळून", "is_correct": true },
+        { "option_id": 4, "text": "केवळ पोलिसांनी", "is_correct": false }
+      ],
+      "answer": "सर्वांनी मिळून"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "प्रामाणिकपणामुळे कशातील कार्यक्षमता वाढते?",
+      "options": [
+        { "option_id": 1, "text": "खाजगी", "is_correct": false },
+        { "option_id": 2, "text": "सार्वजनिक", "is_correct": true },
+        { "option_id": 3, "text": "केवळ खेळातील", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यासातील", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपल्याकडून चूक झाल्यास आपण काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "ती लपवावी", "is_correct": false },
+        { "option_id": 2, "text": "दुसऱ्यावर ढकलावी", "is_correct": false },
+        { "option_id": 3, "text": "ती कबूल करावी", "is_correct": true },
+        { "option_id": 4, "text": "शांत राहावे", "is_correct": false }
+      ],
+      "answer": "ती कबूल करावी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सहिष्णुता म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्यांचा अनादर करणे", "is_correct": false },
+        { "option_id": 2, "text": "आपल्यापेक्षा वेगळ्या मतांचा आदर करणे", "is_correct": true },
+        { "option_id": 3, "text": "सर्वांना ओरडणे", "is_correct": false },
+        { "option_id": 4, "text": "केवळ स्वतःचे ऐकणे", "is_correct": false }
+      ],
+      "answer": "आपल्यापेक्षा वेगळ्या मतांचा आदर करणे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "स्त्री-पुरुष समानता म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मुलांना जास्त संधी देणे", "is_correct": false },
+        { "option_id": 2, "text": "मुलींना जास्त सवलती देणे", "is_correct": false },
+        { "option_id": 3, "text": "दोघांनाही समान मानणे", "is_correct": true },
+        { "option_id": 4, "text": "भेदभाव करणे", "is_correct": false }
+      ],
+      "answer": "दोघांनाही समान मानणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कुटुंबात कोणाचे विचार महत्त्वाचे असतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ वडिलांचे", "is_correct": false },
+        { "option_id": 2, "text": "केवळ आईचे", "is_correct": false },
+        { "option_id": 3, "text": "सर्वांचे", "is_correct": true },
+        { "option_id": 4, "text": "कोणाचेच नाही", "is_correct": false }
+      ],
+      "answer": "सर्वांचे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कोणत्या गुणामुळे सार्वजनिक सेवा अधिक चांगल्या प्रकारे मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "खोटेपणा", "is_correct": false },
+        { "option_id": 2, "text": "प्रामाणिकपणा", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "परस्परांच्या विचारांमधील मतभेद आपण कसे सोडवावेत?",
+      "options": [
+        { "option_id": 1, "text": "भांडण करून", "is_correct": false },
+        { "option_id": 2, "text": "शांतपणे संवाद साधून", "is_correct": true },
+        { "option_id": 3, "text": "अबोल राहून", "is_correct": false },
+        { "option_id": 4, "text": "दुसऱ्याचे घर सोडून", "is_correct": false }
+      ],
+      "answer": "शांतपणे संवाद साधून"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "स्त्री आणि पुरुष या दोघांच्याही कोणत्या गरजा सारख्याच असतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ अन्नाची", "is_correct": false },
+        { "option_id": 2, "text": "अन्न, वस्त्र, निवारा, आरोग्य व शिक्षण", "is_correct": true },
+        { "option_id": 3, "text": "केवळ खेळण्याची", "is_correct": false },
+        { "option_id": 4, "text": "केवळ फिरण्याची", "is_correct": false }
+      ],
+      "answer": "अन्न, वस्त्र, निवारा, आरोग्य व शिक्षण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सहिष्णुतेची भावना कशामुळे जोपासली जाते?",
+      "options": [
+        { "option_id": 1, "text": "एकाकी राहिल्याने", "is_correct": false },
+        { "option_id": 2, "text": "विविधतेचा आदर केल्याने", "is_correct": true },
+        { "option_id": 3, "text": "दुसऱ्याला कमी लेखल्याने", "is_correct": false },
+        { "option_id": 4, "text": "केवळ स्वतःचा विचार केल्याने", "is_correct": false }
+      ],
+      "answer": "विविधतेचा आदर केल्याने"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खोटेपणामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "विश्वास वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "भयाचा अभाव असतो", "is_correct": false },
+        { "option_id": 3, "text": "विश्वासार्हता कमी होते", "is_correct": true },
+        { "option_id": 4, "text": "यश मिळते", "is_correct": false }
+      ],
+      "answer": "विश्वासार्हता कमी होते"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कचरा व्यवस्थापन हा प्रश्न कोणाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सफाई कामगारांचा", "is_correct": false },
+        { "option_id": 2, "text": "सार्वजनिक", "is_correct": true },
+        { "option_id": 3, "text": "खाजगी", "is_correct": false },
+        { "option_id": 4, "text": "कोणाचाच नाही", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "समानतेसाठी कोणाला शिक्षणाची संधी मिळणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ मुलांना", "is_correct": false },
+        { "option_id": 2, "text": "केवळ मुलींना", "is_correct": false },
+        { "option_id": 3, "text": "दोघांनाही", "is_correct": true },
+        { "option_id": 4, "text": "कोणालाच नाही", "is_correct": false }
+      ],
+      "answer": "दोघांनाही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सहकार्य करण्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "काम कठीण होते", "is_correct": false },
+        { "option_id": 2, "text": "काम सोपे व आनंददायी होते", "is_correct": true },
+        { "option_id": 3, "text": "काम थांबते", "is_correct": false },
+        { "option_id": 4, "text": "वेळ वाया जातो", "is_correct": false }
+      ],
+      "answer": "काम सोपे व आनंददायी होते"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आपल्या देशात सहिष्णुतेला कोणते महत्त्व आहे?",
+      "options": [
+        { "option_id": 1, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 2, "text": "सामाजिक सलोख्यासाठी महत्त्वाचे", "is_correct": true },
+        { "option_id": 3, "text": "कमी महत्त्व आहे", "is_correct": false },
+        { "option_id": 4, "text": "केवळ भाषणापुरते", "is_correct": false }
+      ],
+      "answer": "सामाजिक सलोख्यासाठी महत्त्वाचे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "निर्णय प्रक्रियेत सहभाग घेतल्यामुळे काय फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "वेळ वाचतो", "is_correct": false },
+        { "option_id": 2, "text": "आपले विचार मांडण्याची संधी मिळते", "is_correct": true },
+        { "option_id": 3, "text": "दुसऱ्यावर अवलंबून राहता येते", "is_correct": false },
+        { "option_id": 4, "text": "पैसे मिळतात", "is_correct": false }
+      ],
+      "answer": "आपले विचार मांडण्याची संधी मिळते"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "खोटेपणा केल्याने काय वाटते?",
+      "options": [
+        { "option_id": 1, "text": "आनंद", "is_correct": false },
+        { "option_id": 2, "text": "धाकधूक आणि भीती", "is_correct": true },
+        { "option_id": 3, "text": "गर्र्व", "is_correct": false },
+        { "option_id": 4, "text": "शांती", "is_correct": false }
+      ],
+      "answer": "धाकधूक आणि भीती"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "स्त्री-पुरुष समानता पाळल्याने कोणाचा विकास होतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ कुटुंबाचा", "is_correct": false },
+        { "option_id": 2, "text": "केवळ समाजाचा", "is_correct": false },
+        { "option_id": 3, "text": "सर्वांचा आणि देशाचा", "is_correct": true },
+        { "option_id": 4, "text": "केवळ राजकारण्यांचा", "is_correct": false }
+      ],
+      "answer": "सर्वांचा आणि देशाचा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आपल्या मित्राने आपली चूक दाखवून दिली तर आपण काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "त्याच्याशी भांडण करावे", "is_correct": false },
+        { "option_id": 2, "text": "मनात राग धरावा", "is_correct": false },
+        { "option_id": 3, "text": "चूक सुधारण्याचा प्रयत्न करावा", "is_correct": true },
+        { "option_id": 4, "text": "मैत्री तोडावी", "is_correct": false }
+      ],
+      "answer": "चूक सुधारण्याचा प्रयत्न करावा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक ठिकाणी सोयीसुविधांचा वापर करताना आपण कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "निष्काळजीपणे", "is_correct": false },
+        { "option_id": 2, "text": "प्रामाणिकपणे आणि जबाबदारीने", "is_correct": true },
+        { "option_id": 3, "text": "मोफत आहे म्हणून तोडफोड करावी", "is_correct": false },
+        { "option_id": 4, "text": "केवळ स्वतःचा विचार करावा", "is_correct": false }
+      ],
+      "answer": "प्रामाणिकपणे आणि जबाबदारीने"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कुटुंबात आपण सर्वांशी कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "उद्धटपणे", "is_correct": false },
+        { "option_id": 2, "text": "मिळूनमिसळून", "is_correct": true },
+        { "option_id": 3, "text": "शांत बसून", "is_correct": false },
+        { "option_id": 4, "text": "रागवून", "is_correct": false }
+      ],
+      "answer": "मिळूनमिसळून"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सहिष्णुतेमुळे कोणती भावना जोपासली जाते?",
+      "options": [
+        { "option_id": 1, "text": "द्वेषाची", "is_correct": false },
+        { "option_id": 2, "text": "बंधुत्वाची", "is_correct": true },
+        { "option_id": 3, "text": "अविश्वासाची", "is_correct": false },
+        { "option_id": 4, "text": "स्वार्थाची", "is_correct": false }
+      ],
+      "answer": "बंधुत्वाची"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मुलगा आणि मुलगी असा भेदभाव करणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "समानता", "is_correct": false },
+        { "option_id": 2, "text": "अन्याय", "is_correct": true },
+        { "option_id": 3, "text": "न्याय", "is_correct": false },
+        { "option_id": 4, "text": "शिस्त", "is_correct": false }
+      ],
+      "answer": "अन्याय"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "प्रामाणिकपणा आपली काय वाढवतो?",
+      "options": [
+        { "option_id": 1, "text": "शक्ती", "is_correct": true },
+        { "option_id": 2, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 3, "text": "अहंकार", "is_correct": false },
+        { "option_id": 4, "text": "वजन", "is_correct": false }
+      ],
+      "answer": "शक्ती"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कुटुंबात कोणताही निर्णय घेताना आपण काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "मुलांना विचारू नये", "is_correct": false },
+        { "option_id": 2, "text": "एकमेकांना विचारून निर्णय घ्यावा", "is_correct": true },
+        { "option_id": 3, "text": "आईनेच निर्णय घ्यावा", "is_correct": false },
+        { "option_id": 4, "text": "वडिलांनीच निर्णय घ्यावा", "is_correct": false }
+      ],
+      "answer": "एकमेकांना विचारून निर्णय घ्यावा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "स्त्री आणि पुरुष दोघेही कोणत्या कामात कुशल असू शकतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ घरकामात", "is_correct": false },
+        { "option_id": 2, "text": "केवळ बाहेरील कामात", "is_correct": false },
+        { "option_id": 3, "text": "सर्व प्रकारच्या कामात", "is_correct": true },
+        { "option_id": 4, "text": "कोणीच कुशल नसतं", "is_correct": false }
+      ],
+      "answer": "सर्व प्रकारच्या कामात"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बसचे तिकीट काढताना पैसे उरले तर आपण काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "खिशात ठेवावे", "is_correct": false },
+        { "option_id": 2, "text": "कंडक्टरला परत करावे", "is_correct": true },
+        { "option_id": 3, "text": "चॉकलेट खावे", "is_correct": false },
+        { "option_id": 4, "text": "मित्राला द्यावे", "is_correct": false }
+      ],
+      "answer": "कंडक्टरला परत करावे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सामाजिक जीवनात सहिष्णुतेचा काय उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "भांडणे वाढतात", "is_correct": false },
+        { "option_id": 2, "text": "शांतता व सुव्यवस्था राखली जाते", "is_correct": true },
+        { "option_id": 3, "text": "भेदभाव वाढतो", "is_correct": false },
+        { "option_id": 4, "text": "काहीच उपयोग होत नाही", "is_correct": false }
+      ],
+      "answer": "शांतता व सुव्यवस्था राखली जाते"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खेळात प्रामाणिकपणा ठेवल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "संघ हरतो", "is_correct": false },
+        { "option_id": 2, "text": "खेळाचा दर्जा सुधारतो", "is_correct": true },
+        { "option_id": 3, "text": "मज्जा येत नाही", "is_correct": false },
+        { "option_id": 4, "text": "वेळ जास्त लागतो", "is_correct": false }
+      ],
+      "answer": "खेळाचा दर्जा सुधारतो"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आपण आपले मत मांडल्यामुळे कोणाला आनंद होतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ आपल्याला", "is_correct": false },
+        { "option_id": 2, "text": "कुटुंबातील सर्वांना", "is_correct": true },
+        { "option_id": 3, "text": "कोणालाच नाही", "is_correct": false },
+        { "option_id": 4, "text": "शेजाऱ्यांना", "is_correct": false }
+      ],
+      "answer": "कुटुंबातील सर्वांना"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अन्याय दूर करण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "मौन", "is_correct": false },
+        { "option_id": 2, "text": "समानता", "is_correct": true },
+        { "option_id": 3, "text": "भेदभाव", "is_correct": false },
+        { "option_id": 4, "text": "सत्ता", "is_correct": false }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "प्रामाणिकपणा हा कोणाचा मोठा गुण आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त थोर लोकांचा", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्येक व्यक्तीचा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त शिक्षकांचा", "is_correct": false },
+        { "option_id": 4, "text": "फक्त खेळाडूंचा", "is_correct": false }
+      ],
+      "answer": "प्रत्येक व्यक्तीचा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कुटुंबात कोणालाही दुय्यम मानू नये, हे कोणते मूल्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "समानता", "is_correct": true },
+        { "option_id": 2, "text": "प्रामाणिकपणा", "is_correct": false },
+        { "option_id": 3, "text": "सहिष्णुता", "is_correct": false },
+        { "option_id": 4, "text": "सहकार्य", "is_correct": false }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "जर आपल्या मताचा आदर झाला नाही तर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "रागावणे", "is_correct": false },
+        { "option_id": 2, "text": "पुन्हा आपले म्हणणे मांडणे", "is_correct": true },
+        { "option_id": 3, "text": "रडणे", "is_correct": false },
+        { "option_id": 4, "text": "दुसऱ्याचे ऐकणे बंद करणे", "is_correct": false }
+      ],
+      "answer": "पुन्हा आपले म्हणणे मांडणे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कोणाच्या अभावामुळे भेदभाव वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "पैशाच्या", "is_correct": false },
+        { "option_id": 2, "text": "सहिष्णुतेच्या", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षणाच्या", "is_correct": false },
+        { "option_id": 4, "text": "मोबाईलच्या", "is_correct": false }
+      ],
+      "answer": "सहिष्णुतेच्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "प्रामाणिक माणसाबद्दल समाजात काय असते?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "आदर", "is_correct": true },
+        { "option_id": 3, "text": "तिटकारा", "is_correct": false },
+        { "option_id": 4, "text": "संशय", "is_correct": false }
+      ],
+      "answer": "आदर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सहकार्यामुळे काय शक्य होते?",
+      "options": [
+        { "option_id": 1, "text": "गटबाजी", "is_correct": false },
+        { "option_id": 2, "text": "प्रगती आणि विकास", "is_correct": true },
+        { "option_id": 3, "text": "एकटेपणा", "is_correct": false },
+        { "option_id": 4, "text": "कामचोरी", "is_correct": false }
+      ],
+      "answer": "प्रगती आणि विकास"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खोटे बोलल्याने कोणाचे नुकसान होते?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्याचे", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःचे आणि नातेसंबंधांचे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त कोणाचेच नाही", "is_correct": false },
+        { "option_id": 4, "text": "फक्त सरकारचे", "is_correct": false }
+      ],
+      "answer": "स्वतःचे आणि नातेसंबंधांचे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "प्रत्येक व्यक्तीचे मत कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "सारखेच", "is_correct": false },
+        { "option_id": 2, "text": "वेगवेगळे", "is_correct": true },
+        { "option_id": 3, "text": "चुकीचे", "is_correct": false },
+        { "option_id": 4, "text": "बिनकामाचे", "is_correct": false }
+      ],
+      "answer": "वेगवेगळे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "प्रामाणिकपणामुळे काय टिकून राहते?",
+      "options": [
+        { "option_id": 1, "text": "मैत्री आणि विश्वास", "is_correct": true },
+        { "option_id": 2, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 3, "text": "सत्ता", "is_correct": false },
+        { "option_id": 4, "text": "कठोरता", "is_correct": false }
+      ],
+      "answer": "मैत्री आणि विश्वास"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सहिष्णुता पाळणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्याला गप्प करणे", "is_correct": false },
+        { "option_id": 2, "text": "दुसऱ्याचे म्हणणे शांतपणे ऐकून घेणे", "is_correct": true },
+        { "option_id": 3, "text": "दुसऱ्याची टर उडवणे", "is_correct": false },
+        { "option_id": 4, "text": "दुसऱ्याला मारणे", "is_correct": false }
+      ],
+      "answer": "दुसऱ्याचे म्हणणे शांतपणे ऐकून घेणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक सुविधेचे उदाहरण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःचे घर", "is_correct": false },
+        { "option_id": 2, "text": "बस आणि रेल्वे", "is_correct": true },
+        { "option_id": 3, "text": "स्वतःचा मोबाईल", "is_correct": false },
+        { "option_id": 4, "text": "स्वतःचे दप्तर", "is_correct": false }
+      ],
+      "answer": "बस आणि रेल्वे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कोणता विचार स्त्री-पुरुष समानतेचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुलींनी घरकाम करावे", "is_correct": false },
+        { "option_id": 2, "text": "दोघांनाही प्रगतीची समान संधी असावी", "is_correct": true },
+        { "option_id": 3, "text": "मुलांनी फक्त खेळावे", "is_correct": false },
+        { "option_id": 4, "text": "मुलींना शिक्षण देऊ नये", "is_correct": false }
+      ],
+      "answer": "दोघांनाही प्रगतीची समान संधी असावी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कौटुंबिक प्रश्नांची सोडवणूक कशी करावी?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या आवाजात बोलून", "is_correct": false },
+        { "option_id": 2, "text": "एकमेकांशी चर्चा करून", "is_correct": true },
+        { "option_id": 3, "text": "न्यायालयात जाऊन", "is_correct": false },
+        { "option_id": 4, "text": "शांत बसून", "is_correct": false }
+      ],
+      "answer": "एकमेकांशी चर्चा करून"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सहिष्णुतेमुळे काय कमी होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रेम", "is_correct": false },
+        { "option_id": 2, "text": "विनाकारण होणारी भांडणे", "is_correct": true },
+        { "option_id": 3, "text": "मैत्री", "is_correct": false },
+        { "option_id": 4, "text": "प्रगती", "is_correct": false }
+      ],
+      "answer": "विनाकारण होणारी भांडणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "अप्रामाणिकपणामुळे काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "विश्वास", "is_correct": false },
+        { "option_id": 2, "text": "अविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "आनंद", "is_correct": false },
+        { "option_id": 4, "text": "प्रगती", "is_correct": false }
+      ],
+      "answer": "अविश्वास"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "मुलगा आणि मुलगी यांच्यात भेदभाव करणे म्हणजे कोणाच्या अधिकारावर गदा आणणे होय?",
+    
+
+
+
+      "options": [
+        { "option_id": 1, "text": "फक्त मुलांच्या", "is_correct": false },
+        { "option_id": 2, "text": "मानवी हक्कांवर", "is_correct": true },
+        { "option_id": 3, "text": "फक्त आईच्या", "is_correct": false },
+        { "option_id": 4, "text": "कोणाच्याच नाही", "is_correct": false }
+      ],
+      "answer": "मानवी हक्कांवर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "जेव्हा प्रत्येकजण आपले मत मांडतो, तेव्हा काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "गोंधळ", "is_correct": false },
+        { "option_id": 2, "text": "लोकशाही आणि सहभाग", "is_correct": true },
+        { "option_id": 3, "text": "दुरावा", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "लोकशाही आणि सहभाग"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "प्रामाणिकपणाने वागल्याने आपल्याला काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षा", "is_correct": false },
+        { "option_id": 2, "text": "मानसिक समाधान", "is_correct": true },
+        { "option_id": 3, "text": "पैसे", "is_correct": false },
+        { "option_id": 4, "text": "शत्रू", "is_correct": false }
+      ],
+      "answer": "मानसिक समाधान"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कुटुंबात निर्णयांत सहभागी झाल्यामुळे काय होते?",
+      "answer": "कुटुंबात निर्णयांत सहभागी झाल्यामुळे प्रत्येकाला आपले विचार मांडण्याची संधी मिळते आणि एकमेकांना विचारून घेतलेल्या निर्णयामुळे आपलेपणा वाढतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक प्रश्नांबाबत निर्णय कोण घेते?",
+      "answer": "सार्वजनिक प्रश्नांबाबतचे निर्णय शासन घेते, परंतु त्या प्रक्रियेत नागरिकांचा सहभाग असणे आवश्यक असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणा म्हणजे काय?",
+      "answer": "कोणतेही काम करताना खरे बोलणे, पारदर्शक राहणे आणि चुका कबूल करणे म्हणजे प्रामाणिकपणा होय."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अप्रामाणिकपणाचे काय परिणाम होतात?",
+      "answer": "अप्रामाणिकपणामुळे अविश्वास निर्माण होतो, आपली विश्वासार्हता कमी होते आणि मनात भीती राहते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सहिष्णुता म्हणजे काय?",
+      "answer": "आपल्यापेक्षा वेगळ्या मतांचा आदर करणे आणि एकमेकांमधील वैचारिक मतभेद शांतपणे सोडवणे म्हणजे सहिष्णुता होय."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानता म्हणजे काय?",
+      "answer": "मुलगा आणि मुलगी किंवा स्त्री आणि पुरुष असा भेदभाव न करता दोघांनाही समान मानणे म्हणजे स्त्री-पुरुष समानता होय."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "निर्णय प्रक्रियेत मुलांचा सहभाग का महत्त्वाचा आहे?",
+      "answer": "मुलांनाही कुटुंबातील बदलांबद्दल काही वाटत असते, म्हणून त्यांच्या मतांचा विचार केल्यास त्यांना कुटुंबाबद्दल अधिक आपलेपणा वाटतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणा आपली शक्ती कशी वाढवतो?",
+      "answer": "प्रामाणिकपणामुळे आपल्याला कशाचीही भीती वाटत नाही आणि आपण आत्मविश्वासाने वागू शकतो, हीच आपली शक्ती असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सहकार्य म्हणजे काय?",
+      "answer": "एखादे काम पूर्ण करण्यासाठी एकमेकांना मदत करणे आणि एकत्र येऊन प्रयत्न करणे म्हणजे सहकार्य होय."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आपल्या देशात सहिष्णुतेचे महत्त्व का आहे?",
+      "answer": "आपल्या देशात विविध जाती, धर्म आणि परंपरांचे लोक राहतात, त्यामुळे सामाजिक सलोखा टिकवण्यासाठी सहिष्णुता महत्त्वाची आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी प्रामाणिकपणा का आवश्यक आहे?",
+      "answer": "सार्वजनिक सोयीसुविधांचा लाभ सर्वांना मिळावा आणि भ्रष्टाचार कमी व्हावा यासाठी सार्वजनिक जीवनात प्रामाणिकपणा आवश्यक आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भेदभाव केल्यामुळे कोणावर अन्याय होतो?",
+      "answer": "भेदभाव केल्यामुळे ज्या व्यक्तीला कमी लेखले जाते तिच्यावर अन्याय होतो आणि तिचा विकास थांबतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील मूल्ये म्हणजे काय?",
+      "answer": "कुटुंबात राहताना आपण जे चांगले गुण जसे की प्रामाणिकपणा, सहकार्य आणि आदर शिकतो, त्यांना कुटुंबातील मूल्ये म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चुका कबूल केल्याने काय फायदा होतो?",
+      "answer": "चुका कबूल केल्याने त्या सुधारण्याची संधी मिळते आणि आपला प्रामाणिकपणा दिसून येतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सामाजिक जीवनातील सहकार्य कसे असावे?",
+      "answer": "सामाजिक जीवनात प्रत्येकाने एकमेकांना संकटाच्या वेळी मदत करावी आणि सार्वजनिक प्रश्न सोडवण्यासाठी एकत्र यावे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "प्रामाणिक व्यक्तीला समाजात कशी वागणूक मिळते?",
+      "answer": "प्रामाणिक व्यक्तीला समाजात आदराची वागणूक मिळते आणि लोक तिच्यावर विश्वास ठेवतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेसाठी कोणत्या गरजा पूर्ण होणे आवश्यक आहे?",
+      "answer": "दोघांनाही अन्न, वस्त्र, निवारा, आरोग्य आणि शिक्षण या मूलभूत गरजा समानपणे मिळणे आवश्यक आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सहिष्णुतेचा अभाव असल्यास काय होते?",
+      "answer": "सहिष्णुतेचा अभाव असल्यास समाजात भांडणे, द्वेष आणि अविश्वास वाढतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "खेळात सहकार्य का गरजेचे असते?",
+      "answer": "खेळात सहकार्य असल्यास संघाची कामगिरी सुधारते आणि खेळ आनंददायी होतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "निर्णय घेताना सर्वांचे मत का विचारात घ्यावे?",
+      "answer": "सर्वांचे मत विचारात घेतल्याने विविध दृष्टिकोन समोर येतात आणि घेतलेला निर्णय सर्वांना मान्य असतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अन्यायकारक प्रथा म्हणजे काय?",
+      "answer": "ज्या रूढी किंवा परंपरांमुळे काही लोकांना कमी लेखले जाते किंवा त्रास दिला जातो, त्यांना अन्यायकारक प्रथा म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आपण आपले विचार कोणासमोर मांडावेत?",
+      "answer": "आपण आपले विचार कुटुंबातील सदस्य, मित्र आणि गरजेनुसार संबंधित अधिकाऱ्यांसमोर मांडावेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणामुळे नातेसंबंधांवर काय परिणाम होतो?",
+      "answer": "प्रामाणिकपणामुळे नातेसंबंध दृढ होतात आणि एकमेकांवरील विश्वास वाढतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "समाजात शांतता कशी राखता येते?",
+      "answer": "सहिष्णुता, एकमेकांचा आदर आणि नियमांचे पालन करून समाजात शांतता राखता येते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "मुलगा आणि मुलगी दोघांनाही खेळण्याची संधी का असावी?",
+      "answer": "खेळामुळे शारीरिक विकास होतो, म्हणून दोघांनाही खेळाची समान संधी असणे हा त्यांचा अधिकार आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणाचा आनंद कसा असतो?",
+      "answer": "प्रामाणिक राहिल्याने मनावर कोणतेही दडपण राहत नाही, त्यामुळे मिळणारा आनंद शुद्ध आणि टिकाऊ असतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मतभेद सोडवण्याची योग्य पद्धत कोणती?",
+      "answer": "भांडण न करता चर्चा करून आणि एकमेकांचे म्हणणे समजून घेऊन मतभेद सोडवणे ही योग्य पद्धत आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक मालमत्तेचे रक्षण करणे ही कोणाची जबाबदारी आहे?",
+      "answer": "सार्वजनिक मालमत्तेचे रक्षण करणे ही प्रत्येक नागरिकाची जबाबदारी आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेचे महत्त्व सांगा.",
+      "answer": "स्त्री-पुरुष समानतेमुळे देशाची प्रगती होते आणि मानवी हक्कांचे रक्षण होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणाचे एक उदाहरण द्या.",
+      "answer": "रस्त्यावर पडलेले पाकीट पोलिसांकडे किंवा त्याच्या मालकाकडे जमा करणे हे प्रामाणिकपणाचे उदाहरण आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कुटुंबात एकमेकांना मदत केल्याने काय वाटते?",
+      "answer": "कुटुंबात एकमेकांना मदत केल्याने प्रेम वाढते आणि कष्टाची जाणीव होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सहिष्णुता ही एक सामाजिक गरज का आहे?",
+      "answer": "विविधता असलेल्या समाजात एकोप्याने राहण्यासाठी सहिष्णुता ही एक सामाजिक गरज आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "खोटे बोलण्याची सवय का वाईट आहे?",
+      "answer": "खोटे बोलण्यामुळे माणसाची विश्वासार्हता संपते आणि त्याला सतत भीती वाटत राहते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "निर्णय प्रक्रियेतील सहभाग म्हणजे काय?",
+      "answer": "एखाद्या विषयावर आपली मते मांडणे आणि अंतिम निर्णय घेताना त्यात वाटा असणे म्हणजे निर्णय प्रक्रियेतील सहभाग होय."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "समानतेसाठी शिक्षणाची काय भूमिका आहे?",
+      "answer": "शिक्षणामुळे विचारात प्रगल्भता येते आणि भेदभावाची भावना नष्ट होण्यास मदत होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आपल्याला एखादी गोष्ट आवडली नाही तर आपण काय करावे?",
+      "answer": "आपल्याला एखादी गोष्ट आवडली नाही तर त्याबद्दल शांतपणे आणि स्पष्टपणे आपले मत सांगावे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक सेवा अधिक कार्यक्षम कशा होतात?",
+      "answer": "जेव्हा नागरिक आणि कर्मचारी दोघेही प्रामाणिकपणे वागतात, तेव्हा सार्वजनिक सेवा अधिक कार्यक्षम होतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील सदस्यांचे विचार वेगळे असू शकतात का?",
+      "answer": "हो, प्रत्येक व्यक्ती स्वतंत्र विचार करणारी असल्याने कुटुंबातील सदस्यांचे विचार वेगळे असू शकतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणामुळे आत्मसन्मान कसा वाढतो?",
+      "answer": "प्रामाणिक राहिल्याने आपल्याला स्वतःच्या नजरेत कमी वाटत नाही, यामुळे आपला आत्मसन्मान वाढतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मुला-मुलींमधील भेदभाव कोणत्या क्षेत्रात दिसून येतो?",
+      "answer": "मुला-मुलींमधील भेदभाव शिक्षण, आहार आणि कामाच्या वाटणीत दिसून येतो, जो चुकीचा आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "संवाद म्हणजे काय?",
+      "answer": "दोन किंवा अधिक व्यक्तींनी एकमेकांशी विचार आणि माहितीची देवाणघेवाण करणे म्हणजे संवाद होय."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "सहिष्णुतेमुळे कोणाची प्रगती होते?",
+      "answer": "सहिष्णुतेमुळे व्यक्तीची, समाजाची आणि पर्यायाने देशाची प्रगती होते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "खोटेपणा लपवण्यासाठी काय करावे लागते?",
+      "answer": "एक खोटे लपवण्यासाठी अनेकदा पुन्हा पुन्हा खोटे बोलावे लागते, ज्यामुळे समस्या वाढतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कुटुंब ही मूल्यांची पहिली शाळा का आहे?",
+      "answer": "कारण बाहेरील जगात जाण्यापूर्वी आपण वागण्याचे सर्व प्राथमिक संस्कार आणि मूल्ये कुटुंबातच शिकतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मुलगा आणि मुलगी दोघांनाही सारखेच प्रेम का मिळावे?",
+      "answer": "दोघेही कुटुंबाचे घटक आहेत आणि दोघांनाही मानसिक विकासासाठी प्रेमाची गरज असते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "प्रामाणिक राहिल्याने वेळ कसा वाचतो?",
+      "answer": "प्रामाणिकपणामुळे गोष्टी स्पष्ट असतात, त्यामुळे गोंधळ होत नाही आणि चुकीच्या गोष्टी दुरुस्त करण्याचा वेळ वाचतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "लोकशाहीमध्ये निर्णयांचे स्वरूप कसे असते?",
+      "answer": "लोकशाहीमध्ये निर्णय हे लोकसंमतीने आणि चर्चेद्वारे घेतलेले असतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "सामाजिक प्रश्नांची उदाहरणे द्या.",
+      "answer": "स्वच्छता, पाणी पुरवठा, रस्ते आणि शांतता हे काही सामाजिक प्रश्न आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "मिळूनमिसळून राहण्याचे फायदे सांगा.",
+      "answer": "मिळूनमिसळून राहिल्याने आनंद द्विगुणित होतो आणि एकटेपणा जाणवत नाही."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेचे भवितव्य काय आहे?",
+      "answer": "स्त्री-पुरुष समानतेमुळे एक अधिक प्रगत, न्यायप्रिय आणि समृद्ध समाज निर्माण होईल."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "कुटुंबात कामाची वाटणी कशी असावी?",
+      "answer": "कुटुंबात कामाची वाटणी ही कोणावरही अन्याय न होता आणि लिंगभेद न करता समान असावी."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "दुसऱ्याचे विचार पटले नाहीत तर काय करावे?",
+      "answer": "दुसऱ्याचे विचार पटले नाहीत तरी त्यांचा अनादर न करता शांतपणे आपले म्हणणे मांडून मार्ग काढावा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "विश्वासार्हता म्हणजे काय?",
+      "answer": "लोकांनी आपल्यावर ठेवलेला विश्वास आणि आपली सत्यनिष्ठा म्हणजे विश्वासार्हता होय."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणाचे शिक्षण कोठून मिळते?",
+      "answer": "प्रामाणिकपणाचे शिक्षण प्रामुख्याने आपल्या कुटुंबातून आणि सभोवतालच्या व्यक्तींच्या आचरणातून मिळते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी कचरा टाकणे हे चुकीचे का आहे?",
+      "answer": "कारण त्यामुळे सार्वजनिक आरोग्य धोक्यात येते आणि ती आपल्या समाजाप्रती असलेल्या अप्रामाणिकपणाची निशाणी आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "समान संधी म्हणजे काय?",
+      "answer": "कोणत्याही भेदभावाशिवाय सर्वांना प्रगतीसाठी उपलब्ध असलेले समान मार्ग म्हणजे समान संधी होय."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "सहिष्णुता ही एक वैयक्तिक शक्ती कशी आहे?",
+      "answer": "सहिष्णु व्यक्ती लवकर रागावत नाही आणि प्रतिकूल परिस्थितीतही शांत राहून योग्य निर्णय घेऊ शकते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील बदलांमध्ये कोणाचा सहभाग असावा?",
+      "answer": "कुटुंबातील लहान-थोरांपासून सर्वांचाच त्या बदलांच्या निर्णयामध्ये सहभाग असावा."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "स्त्री आणि पुरुष यांच्यातील निसर्गदत्त फरक कोणता?",
+      "answer": "स्त्री आणि पुरुष यांच्यात केवळ शारीरिक रचना हाच निसर्गदत्त फरक आहे, बाकी बौद्धिक क्षमता सारख्याच असतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "निर्णय घेण्यात स्वातंत्र्य म्हणजे काय?",
+      "answer": "कोणाच्याही दबावाशिवाय आणि स्वतःच्या विचाराने योग्य तो निर्णय घेता येणे म्हणजे स्वातंत्र्य होय."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणाचा सामाजिक फायदा कोणता?",
+      "answer": "प्रामाणिकपणामुळे समाजात भ्रष्टाचार कमी होतो आणि विकास जलद होतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "मतभेद का निर्माण होतात?",
+      "answer": "प्रत्येकाची विचार करण्याची पद्धत आणि अनुभव वेगळे असल्याने मतभेद निर्माण होतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "सहकार्याचा अभाव असल्यास काय होईल?",
+      "answer": "सहकार्याचा अभाव असल्यास साधी कामे सुद्धा कठीण होतील आणि प्रगती खुंटेल."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "अन्यायाविरुद्ध दाद कशी मागावी?",
+      "answer": "अन्यायाविरुद्ध शांततेने पण ठामपणे आणि कायदेशीर मार्गाने दाद मागावी."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील सदस्यांमध्ये आदर का असावा?",
+      "answer": "आदर असल्यामुळे नात्यात गोडवा राहतो आणि एकमेकांबद्दलची ओढ वाढते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणा टिकवण्यासाठी काय आवश्यक आहे?",
+      "answer": "प्रामाणिकपणा टिकवण्यासाठी मनाचा खंबीरपणा आणि सत्याची कास धरण्याची वृत्ती आवश्यक आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "सहिष्णुतेचा धडा आपण कोठे गिरवतो?",
+      "answer": "आपण शाळेत आपल्या मित्रांच्या विविधतेतून आणि कुटुंबातील मतभेदांतून सहिष्णुतेचा धडा गिरवतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेचा संदेश कसा पसरवता येईल?",
+      "answer": "स्वतःच्या आचरणातून आणि जनजागृतीतून स्त्री-पुरुष समानतेचा संदेश पसरवता येईल."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी नियमांचे पालन करणे म्हणजे काय?",
+      "answer": "सार्वजनिक ठिकाणी नियमांचे पालन करणे म्हणजे समाजाप्रती प्रामाणिक राहणे होय."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "निर्णयाची जबाबदारी म्हणजे काय?",
+      "answer": "एखादा निर्णय घेतल्यावर त्याचे जे काही परिणाम होतील, ते स्वीकारण्याची तयारी म्हणजे निर्णयाची जबाबदारी होय."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणा ही आपली ओळख का असावी?",
+      "answer": "कारण आपली ओळख आपल्या गुणांवरून ठरते आणि प्रामाणिकपणा हा श्रेष्ठ गुण आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कुटुंबात आनंदी वातावरण कसे राहते?",
+      "answer": "जेव्हा सर्व सदस्य एकमेकांशी प्रामाणिक असतात आणि सहकार्य करतात, तेव्हा कुटुंबात आनंदी वातावरण राहते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "समानतेची वागणूक म्हणजे काय?",
+      "answer": "कोणालाही उच्च किंवा नीच न मानता सर्वांना सारख्याच सन्मानाने वागवणे म्हणजे समानतेची वागणूक होय."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणे हे धाडसाचे काम का आहे?",
+      "answer": "कारण आपली चूक कबूल करण्यासाठी मनात अहंकार नसावा लागतो, जे मोठ्या धाडसाचे काम आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "समाजात बंधुभाव कसा वाढवता येईल?",
+      "answer": "सहिष्णुता आणि परस्परांबद्दल आदर ठेवून समाजात बंधुभाव वाढवता येईल."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "मुलगा आणि मुलगी यांच्या प्रगतीत अडथळा काय आहे?",
+      "answer": "त्यांच्यात केला जाणारा भेदभाव हा त्यांच्या प्रगतीतील सर्वात मोठा अडथळा आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणाचे फळ काय असते?",
+      "answer": "प्रामाणिकपणाचे फळ म्हणजे लोकांचा अढळ विश्वास आणि स्वतःचे मानसिक समाधान होय."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "सहकार्य न केल्यास काय होईल?",
+      "answer": "सहकार्य न केल्यास आपण विखुरले जाऊ आणि कोणतेही मोठे ध्येय गाठू शकणार नाही."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "निर्णय घेण्यापूर्वी चर्चा का करावी?",
+      "answer": "चर्चेमुळे निर्णयातील दोष आधीच समजतात आणि तो अधिक चांगल्या प्रकारे घेता येतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील प्रत्येक व्यक्तीची आवड वेगळी असते, मग काय करावे?",
+      "answer": "प्रत्येकाच्या आवडीचा आदर करावा आणि शक्य असेल तिथे एकमेकांच्या आवडी जपण्याचा प्रयत्न करावा."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी खोटे बोलल्यास कोणाचे नुकसान होते?",
+      "answer": "सार्वजनिक ठिकाणी खोटे बोलल्यास संपूर्ण व्यवस्थेचे आणि समाजाचे नुकसान होते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "सहिष्णुतेचा संदेश देणारे महापुरुष कोण?",
+      "answer": "महात्मा गांधी, गौतम बुद्ध यांसारख्या अनेक महापुरुषांनी सहिष्णुतेचा संदेश दिला आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणा टिकवण्यासाठी काय टाळावे?",
+      "answer": "प्रामाणिकपणा टिकवण्यासाठी मोह, स्वार्थ आणि भीती टाळली पाहिजे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेसाठी संविधानाची काय तरतूद आहे?",
+      "answer": "आपल्या संविधानाने सर्वांना कायद्यासमोर समान मानले असून लिंगाच्या आधारे भेदभाव करण्यास मनाई केली आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील सदस्यांचे आरोग्य कशावर अवलंबून असते?",
+      "answer": "कुटुंबातील सदस्यांचे आरोग्य हे आहार, स्वच्छता आणि एकमेकांच्या मानसिक आधारावर अवलंबून असते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "आपली चूक सुधारण्यासाठी काय करावे?",
+      "answer": "चूक मान्य करून ती पुन्हा होणार नाही याकडे लक्ष देणे म्हणजे चूक सुधारणे होय."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सहकार्यामुळे समाजात काय निर्माण होते?",
+      "answer": "सहकार्यामुळे समाजात एकजूट आणि सुरक्षिततेची भावना निर्माण होते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "निर्णय प्रक्रियेत सहभागी झाल्याचा अनुभव कसा असतो?",
+      "answer": "निर्णय प्रक्रियेत सहभागी झाल्यामुळे आपल्याला सन्मान मिळाल्यासारखे वाटते आणि उत्साह वाढतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "भेदभावामुळे कोणत्या गुणांचा नाश होतो?",
+      "answer": "भेदभावामुळे माणुसकी, प्रेम आणि न्यायाचा नाश होतो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "प्रामाणिक राहिल्याने कोणाचा फायदा होतो?",
+      "answer": "प्रामाणिक राहिल्याने आपला स्वतःचा आणि आपल्या संपर्कात येणाऱ्या सर्वांचा फायदा होतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "सहिष्णुतेचा उपयोग शाळांमध्ये कसा होतो?",
+      "answer": "शाळेत विविध पार्श्वभूमीचे विद्यार्थी एकत्र शिकतात, तिथे सहिष्णुतेमुळे मैत्री टिकून राहते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "खोटे बोलणे हे अप्रामाणिकपणाचे लक्षण का आहे?",
+      "answer": "कारण खोटे बोलण्यातून आपण सत्य लपवतो, जे प्रामाणिकपणाच्या विरुद्ध आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "मुलगा आणि मुलगी या दोघांनाही कोणती स्वप्ने पाहण्याचा अधिकार आहे?",
+      "answer": "दोघांनाही स्वतःच्या आवडीचे करिअर निवडण्याचे आणि मोठी स्वप्ने पाहण्याचा पूर्ण अधिकार आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कुटुंबात पारदर्शकता का महत्त्वाची आहे?",
+      "answer": "पारदर्शकतेमुळे संशय दूर होतो आणि कुटुंबातील संवाद मोकळा राहतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "निर्णय घेताना सर्वांचा विचार केल्याने काय टाळता येते?",
+      "answer": "सर्वांचा विचार केल्याने भविष्यातील नाराजी आणि वादावादी टाळता येते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "समानतेसाठी आपण काय करू शकतो?",
+      "answer": "आपण आपल्या घरातूनच सर्वांना समान वागणूक देण्यास सुरुवात करू शकतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "प्रामाणिकपणामुळे कार्यक्षमता कशी वाढते?",
+      "answer": "प्रामाणिकपणामुळे वेळेचा अपव्यय टळतो आणि लक्ष कामावर केंद्रित होते, ज्यामुळे कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "सहिष्णुता म्हणजे हार मानणे आहे का?",
+      "answer": "नाही, सहिष्णुता म्हणजे हार मानणे नसून संयमाने आणि सामंजस्याने विचार करणे होय."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आपल्या मित्राने खोटे बोलल्यास आपण काय करावे?",
+      "answer": "त्याला खोटे बोलण्याचे तोटे सांगावेत आणि सत्याचे महत्त्व पटवून देऊन प्रामाणिक राहण्यास सांगावे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कुटुंबातील मूल्ये आपले जीवन कसे समृद्ध करतात?",
+      "answer": "चांगली मूल्ये आपल्याला सुसंस्कृत बनवतात आणि समाजात एक आदर्श व्यक्ती म्हणून जगण्यास मदत करतात."
+    }
+  ]
+}

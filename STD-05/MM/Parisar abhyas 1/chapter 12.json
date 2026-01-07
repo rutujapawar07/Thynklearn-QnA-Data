@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 12,
+  "chapter_name": "सर्वांसाठी अन्न",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शेतीचा मुख्य हंगाम कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 2, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 3, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जून ते ऑक्टोबर या काळात घेणाऱ्या पिकांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रब्बी पिके", "is_correct": false },
+        { "option_id": 2, "text": "खरीप पिके", "is_correct": true },
+        { "option_id": 3, "text": "उन्हाळी पिके", "is_correct": false },
+        { "option_id": 4, "text": "नगदी पिके", "is_correct": false }
+      ],
+      "answer": "खरीप पिके"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ऑक्टोबर ते मार्च या काळातील हंगामाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खरीप हंगाम", "is_correct": false },
+        { "option_id": 2, "text": "रब्बी हंगाम", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळी हंगाम", "is_correct": false },
+        { "option_id": 4, "text": "मान्सून हंगाम", "is_correct": false }
+      ],
+      "answer": "रब्बी हंगाम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रब्बी हंगामात प्रामुख्याने कशाचा वापर पाण्यासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "परतीचा पाऊस आणि दव", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राचे पाणी", "is_correct": false },
+        { "option_id": 4, "text": "बर्फ", "is_correct": false }
+      ],
+      "answer": "परतीचा पाऊस और दव"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जमिनीचा कस वाढवण्यासाठी शेतकरी जमिनीत काय मिसळतात?",
+      "options": [
+        { "option_id": 1, "text": "वाळू", "is_correct": false },
+        { "option_id": 2, "text": "खते", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "खते"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते नैसर्गिक खत आहे?",
+      "options": [
+        { "option_id": 1, "text": "युरिया", "is_correct": false },
+        { "option_id": 2, "text": "शेणखत", "is_correct": true },
+        { "option_id": 3, "text": "सुपर फॉस्फेट", "is_correct": false },
+        { "option_id": 4, "text": "पोटॅश", "is_correct": false }
+      ],
+      "answer": "शेणखत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शेतीची कामे सुधारण्यासाठी कशाचा वापर वाढला आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "यंत्रे", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "जुनी हत्यारे", "is_correct": false }
+      ],
+      "answer": "यंत्रे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "धान्य साठवताना कीड लागू नये म्हणून कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "कडुनिंबाचा पाला", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "कडुनिंबाचा पाला"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सिंचनाची आधुनिक पद्धत कोणती?",
+      "options": [
+        { "option_id": 1, "text": "मोट", "is_correct": false },
+        { "option_id": 2, "text": "ठिबक सिंचन", "is_correct": true },
+        { "option_id": 3, "text": "कालवे", "is_correct": false },
+        { "option_id": 4, "text": "रहाटगाडगे", "is_correct": false }
+      ],
+      "answer": "ठिबक सिंचन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "तुषार सिंचनामुळे कशाची बचत होते?",
+      "options": [
+        { "option_id": 1, "text": "खत", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": true },
+        { "option_id": 3, "text": "बियाणे", "is_correct": false },
+        { "option_id": 4, "text": "जमीन", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पिकांवर पडणाऱ्या किडीचा नाश करण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "कीटकनाशके", "is_correct": true },
+        { "option_id": 3, "text": "साखर", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "कीटकनाशके"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "धान्याची कापणी झाल्यानंतर दाणे वेगळे करण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पेरणी", "is_correct": false },
+        { "option_id": 2, "text": "मळणी", "is_correct": true },
+        { "option_id": 3, "text": "नांगरणी", "is_correct": false },
+        { "option_id": 4, "text": "कोळपणी", "is_correct": false }
+      ],
+      "answer": "मळणी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "धान्यातील कचरा आणि हलकी फोलपटे दूर करण्यासाठी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "पेरणी", "is_correct": false },
+        { "option_id": 2, "text": "उफणणी", "is_correct": true },
+        { "option_id": 3, "text": "मळणी", "is_correct": false },
+        { "option_id": 4, "text": "कापणी", "is_correct": false }
+      ],
+      "answer": "उफणणी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जमिनीची सुपीकता कशामुळे कमी होते?",
+      "options": [
+        { "option_id": 1, "text": "सेंद्रिय खतामुळे", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक खतांच्या अतिवापरामुळे", "is_correct": true },
+        { "option_id": 3, "text": "पिकांच्या फेरपालटामुळे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी दिल्याने", "is_correct": false }
+      ],
+      "answer": "रासायनिक खतांच्या अतिवापरामुळे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "धान्याची साठवण करण्यासाठी मोठ्या साठवणुकीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पेव", "is_correct": false },
+        { "option_id": 2, "text": "कोठार (सायलो)", "is_correct": true },
+        { "option_id": 3, "text": "पोती", "is_correct": false },
+        { "option_id": 4, "text": "डबा", "is_correct": false }
+      ],
+      "answer": "कोठार (सायलो)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "हरितक्रांतीचे जनक कोणाला म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "डॉ. विक्रम साराभाई", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. एम. एस. स्वामीनाथन", "is_correct": true },
+        { "option_id": 3, "text": "डॉ. होमी भाभा", "is_correct": false },
+        { "option_id": 4, "text": "डॉ. एपीजे अब्दुल कलाम", "is_correct": false }
+      ],
+      "answer": "डॉ. एम. एस. स्वामीनाथन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अन्नधान्याबाबत स्वावलंबी होण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "औद्योगिक क्रांती", "is_correct": false },
+        { "option_id": 2, "text": "हरितक्रांती", "is_correct": true },
+        { "option_id": 3, "text": "धवल क्रांती", "is_correct": false },
+        { "option_id": 4, "text": "नील क्रांती", "is_correct": false }
+      ],
+      "answer": "हरितक्रांती"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणते धान्य रब्बी हंगामात येते?",
+      "options": [
+        { "option_id": 1, "text": "भात", "is_correct": false },
+        { "option_id": 2, "text": "गहू", "is_correct": true },
+        { "option_id": 3, "text": "बाजरी", "is_correct": false },
+        { "option_id": 4, "text": "मका", "is_correct": false }
+      ],
+      "answer": "गहू"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जमिनीत ओलावा टिकवण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "सतत पाणी द्यावे", "is_correct": false },
+        { "option_id": 2, "text": "सेंद्रिय खते वापरावीत", "is_correct": true },
+        { "option_id": 3, "text": "खते वापरू नयेत", "is_correct": false },
+        { "option_id": 4, "text": "माती काढून टाकावी", "is_correct": false }
+      ],
+      "answer": "सेंद्रिय खते वापरावीत"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक वितरण प्रणाली म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोफत अन्न वाटणे", "is_correct": false },
+        { "option_id": 2, "text": "रेशन दुकानाद्वारे धान्य पुरवठा", "is_correct": true },
+        { "option_id": 3, "text": "केवळ श्रीमंतांना धान्य देणे", "is_correct": false },
+        { "option_id": 4, "text": "शेतकऱ्यांकडून धान्य हिसकावणे", "is_correct": false }
+      ],
+      "answer": "रेशन दुकानाद्वारे धान्य पुरवठा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सेंद्रिय शेती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रसायने वापरून केलेली शेती", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक खते वापरून केलेली शेती", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याशिवाय केलेली शेती", "is_correct": false },
+        { "option_id": 4, "text": "यंत्राशिवाय केलेली शेती", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक खते वापरून केलेली शेती"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शेतीच्या आधुनिक पद्धतीमुळे काय झाले आहे?",
+      "options": [
+        { "option_id": 1, "text": "उत्पन्न घटले", "is_correct": false },
+        { "option_id": 2, "text": "उत्पन्नात प्रचंड वाढ झाली", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी काम सोडून गेले", "is_correct": false },
+        { "option_id": 4, "text": "जमीन नष्ट झाली", "is_correct": false }
+      ],
+      "answer": "उत्पन्नात प्रचंड वाढ झाली"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पावसाळ्याच्या सुरुवातीला कोणती कामे केली जातात?",
+      "options": [
+        { "option_id": 1, "text": "कापणी", "is_correct": false },
+        { "option_id": 2, "text": "नांगरणी आणि पेरणी", "is_correct": true },
+        { "option_id": 3, "text": "मळणी", "is_correct": false },
+        { "option_id": 4, "text": "साठवण", "is_correct": false }
+      ],
+      "answer": "नांगरणी आणि पेरणी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "धान्याला कीड लागू नये म्हणून काय करणे सर्वात सुरक्षित आहे?",
+      "options": [
+        { "option_id": 1, "text": "विषारी औषधे फवारणे", "is_correct": false },
+        { "option_id": 2, "text": "धान्य व्यवस्थित वाळवून साठवणे", "is_correct": true },
+        { "option_id": 3, "text": "ओल्या जागी ठेवणे", "is_correct": false },
+        { "option_id": 4, "text": "उघड्यावर टाकणे", "is_correct": false }
+      ],
+      "answer": "धान्य व्यवस्थित वाळवून साठवणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणते रब्बी पीक आहे?",
+      "options": [
+        { "option_id": 1, "text": "भात", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी (काही भागात)", "is_correct": true },
+        { "option_id": 3, "text": "सोयाबीन", "is_correct": false },
+        { "option_id": 4, "text": "मूग", "is_correct": false }
+      ],
+      "answer": "ज्वारी (काही भागात)"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शेतीसाठी पाण्याचा मुख्य स्रोत कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "विहीर", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "धरण", "is_correct": false },
+        { "option_id": 4, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "धान्य साठवण्यासाठी कोणते रसायन वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कीटकनाशके", "is_correct": true },
+        { "option_id": 2, "text": "खत", "is_correct": false },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "मीठ", "is_correct": false }
+      ],
+      "answer": "कीटकनाशके"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "खते देण्याचे मुख्य कारण काय असते?",
+      "options": [
+        { "option_id": 1, "text": "कीड मारणे", "is_correct": false },
+        { "option_id": 2, "text": "पिकांची वाढ होणे आणि जमिनीचा कस वाढवणे", "is_correct": true },
+        { "option_id": 3, "text": "तण काढणे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी साठवणे", "is_correct": false }
+      ],
+      "answer": "पिकांची वाढ होणे आणि जमिनीचा कस वाढवणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शेतीच्या उत्पन्नात वाढ होण्यासाठी काय गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुधारित बियाणे", "is_correct": true },
+        { "option_id": 2, "text": "जुनी हत्यारे", "is_correct": false },
+        { "option_id": 3, "text": "कमी पाणी", "is_correct": false },
+        { "option_id": 4, "text": "माती नसलेली जमीन", "is_correct": false }
+      ],
+      "answer": "सुधारित बियाणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणते यंत्र मळणीसाठी वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "ट्रॅक्टर", "is_correct": false },
+        { "option_id": 2, "text": "थ्रेशर", "is_correct": true },
+        { "option_id": 3, "text": "नांगर", "is_correct": false },
+        { "option_id": 4, "text": "फावडे", "is_correct": false }
+      ],
+      "answer": "थ्रेशर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "उन्हाळी पिके कोणत्या महिन्यात घेतली जातात?",
+      "options": [
+        { "option_id": 1, "text": "जून ते ऑगस्ट", "is_correct": false },
+        { "option_id": 2, "text": "मार्च ते जून", "is_correct": true },
+        { "option_id": 3, "text": "नोव्हेंबर ते जानेवारी", "is_correct": false },
+        { "option_id": 4, "text": "सप्टेंबर ते ऑक्टोबर", "is_correct": false }
+      ],
+      "answer": "मार्च ते जून"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "धान्य साठवण्यापूर्वी ते कशात वाळवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "उन्हात", "is_correct": true },
+        { "option_id": 3, "text": "सावलीत", "is_correct": false },
+        { "option_id": 4, "text": "डब्यात", "is_correct": false }
+      ],
+      "answer": "उन्हात"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सेंद्रिय शेतीतील उत्पादनांची चव कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "कडू", "is_correct": false },
+        { "option_id": 2, "text": "उत्तम आणि गोड", "is_correct": true },
+        { "option_id": 3, "text": "खराब", "is_correct": false },
+        { "option_id": 4, "text": "चव नसते", "is_correct": false }
+      ],
+      "answer": "उत्तम आणि गोड"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कंपोस्ट खत कशापासून तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 2, "text": "कचरा आणि पालापाचोळा", "is_correct": true },
+        { "option_id": 3, "text": "काच", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "कचरा आणि पालापाचोळा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "धान्याची उफणणी करताना कशाची मदत घेतली जाते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "वारा", "is_correct": true },
+        { "option_id": 3, "text": "आगीची", "is_correct": false },
+        { "option_id": 4, "text": "यंत्राची", "is_correct": false }
+      ],
+      "answer": "वारा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अन्न सुरक्षा कायद्यामुळे काय फायदा झाला?",
+      "options": [
+        { "option_id": 1, "text": "अन्न महाग झाले", "is_correct": false },
+        { "option_id": 2, "text": "कुपोषण आणि भूक बळी रोखण्यास मदत झाली", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी गरीब झाले", "is_correct": false },
+        { "option_id": 4, "text": "परदेशातून धान्य आले", "is_correct": false }
+      ],
+      "answer": "कुपोषण आणि भूक बळी रोखण्यास मदत झाली"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पिकांना पाणी देण्याच्या आधुनिक पद्धतीमुळे कशाचा अपव्यय थांबतो?",
+      "options": [
+        { "option_id": 1, "text": "मातीचा", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा", "is_correct": true },
+        { "option_id": 3, "text": "खताचा", "is_correct": false },
+        { "option_id": 4, "text": "वेळेचा", "is_correct": false }
+      ],
+      "answer": "पाण्याचा"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नदीवर धरण कशासाठी बांधले जाते?",
+      "options": [
+        { "option_id": 1, "text": "मासे पकडण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाणी अडवण्यासाठी व शेतीला पुरवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पोहण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रस्ता करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाणी अडवण्यासाठी व शेतीला पुरवण्यासाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "शेतीसाठी बियाणे कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ जंगलातून", "is_correct": false },
+        { "option_id": 2, "text": "सुधारित बियाणे केंद्रातून किंवा स्वतः राखून ठेवलेल्या धान्यातून", "is_correct": true },
+        { "option_id": 3, "text": "बाजारातील खाण्याच्या धान्यातून", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रातून", "is_correct": false }
+      ],
+      "answer": "सुधारित बियाणे केंद्रातून किंवा स्वतः राखून ठेवलेल्या धान्यातून"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "जमिनीत पाणी झिरपण्याचे प्रमाण कशामुळे वाढते?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट केल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "झाडे लावल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "खडक फोडल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "विहीर खणल्यामुळे", "is_correct": false }
+      ],
+      "answer": "झाडे लावल्यामुळे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात भाताचे पीक प्रामुख्याने कोठे घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "मराठवाडा", "is_correct": false },
+        { "option_id": 2, "text": "कोकण", "is_correct": true },
+        { "option_id": 3, "text": "विदर्भ", "is_correct": false },
+        { "option_id": 4, "text": "खानदेश", "is_correct": false }
+      ],
+      "answer": "कोकण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते कीटकनाशक नैसर्गिक आहे?",
+      "options": [
+        { "option_id": 1, "text": "डीडीटी", "is_correct": false },
+        { "option_id": 2, "text": "दशपर्णी अर्क", "is_correct": true },
+        { "option_id": 3, "text": "युरिया", "is_correct": false },
+        { "option_id": 4, "text": "फॉस्फेट", "is_correct": false }
+      ],
+      "answer": "दशपर्णी अर्क"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शेतीमध्ये ट्रॅक्टरचा वापर कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "पेरणीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "नांगरणी आणि ओढकामासाठी", "is_correct": true },
+        { "option_id": 3, "text": "केवळ पाणी भरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पीक कापण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नांगरणी आणि ओढकामासाठी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "अति जलसिंचनामुळे जमिनीचा कोणता दोष निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "जमीन सुपीक होते", "is_correct": false },
+        { "option_id": 2, "text": "जमीन खारपड होते", "is_correct": true },
+        { "option_id": 3, "text": "जमीन मऊ होते", "is_correct": false },
+        { "option_id": 4, "text": "जमीन काळी होते", "is_correct": false }
+      ],
+      "answer": "जमीन खारपड होते"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "धान्य कोठारात साठवताना तेथील हवा कशी असावी?",
+      "options": [
+        { "option_id": 1, "text": "दमट", "is_correct": false },
+        { "option_id": 2, "text": "कोरडी", "is_correct": true },
+        { "option_id": 3, "text": "थंडगार", "is_correct": false },
+        { "option_id": 4, "text": "कोंदट", "is_correct": false }
+      ],
+      "answer": "कोरडी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मिश्र शेती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वेगवेगळ्या मातीची शेती", "is_correct": false },
+        { "option_id": 2, "text": "शेतीसोबत पशुपालन करणे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ भाजीपाला पिकवणे", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात केलेली शेती", "is_correct": false }
+      ],
+      "answer": "शेतीसोबत पशुपालन करणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पिकांच्या फेरपालटामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जमीन खराब होते", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीचा पोत सुधारतो", "is_correct": true },
+        { "option_id": 3, "text": "उत्पन्न कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "पाणी जास्त लागते", "is_correct": false }
+      ],
+      "answer": "जमिनीचा पोत सुधारतो"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शेतीमध्ये कोळपणी का करतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी देण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "तण काढण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "बी पेरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कापणीसाठी", "is_correct": false }
+      ],
+      "answer": "तण काढण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणते पीक कडधान्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 2, "text": "मूग", "is_correct": true },
+        { "option_id": 3, "text": "गहू", "is_correct": false },
+        { "option_id": 4, "text": "बाजरी", "is_correct": false }
+      ],
+      "answer": "मूग"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "थ्रेशरचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "नांगरणी", "is_correct": false },
+        { "option_id": 2, "text": "मळणी", "is_correct": true },
+        { "option_id": 3, "text": "पेरणी", "is_correct": false },
+        { "option_id": 4, "text": "साठवण", "is_correct": false }
+      ],
+      "answer": "मळणी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शेतीचे मुख्य दोन हंगाम कोणते?",
+      "answer": "शेतीचे मुख्य दोन हंगाम खरीप हंगाम आणि रब्बी हंगाम हे आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "खरीप हंगाम म्हणजे काय?",
+      "answer": "जून ते ऑक्टोबर या पावसाळ्याच्या काळात घेतल्या जाणाऱ्या पिकांच्या हंगामाला खरीप हंगाम म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रब्बी हंगाम म्हणजे काय?",
+      "answer": "ऑक्टोबर ते मार्च या हिवाळ्याच्या काळात घेतल्या जाणाऱ्या पिकांच्या हंगामाला रब्बी हंगाम म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "उन्हाळी पिके म्हणजे काय?",
+      "answer": "मार्च ते जून या काळात जी पिके घेतली जातात, त्यांना उन्हाळी पिके म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "शेतीची प्रमुख कामे कोणती आहेत?",
+      "answer": "नांगरणी, पेरणी, कोळपणी, कापणी, मळणी आणि उफणणी ही शेतीची प्रमुख कामे आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नांगरणी कशासाठी करतात?",
+      "answer": "जमीन भुसभुशीत करण्यासाठी आणि खालची माती वर करण्यासाठी नांगरणी करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सुधारित बियाणे वापरल्याने काय फायदा होतो?",
+      "answer": "सुधारित बियाण्यांमुळे पीक जास्त येते आणि त्याला कीड कमी लागते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सिंचन म्हणजे काय?",
+      "answer": "पावसाव्यतिरिक्त विहिरी, नद्या किंवा धरणातून पिकांना पाणी देण्याला सिंचन म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ठिबक सिंचन पद्धतीचे वैशिष्ट्य काय?",
+      "answer": "या पद्धतीत पाईपद्वारे पिकांच्या मुळाशी थेंब थेंब पाणी दिले जाते, ज्यामुळे पाण्याचा अपव्यय टळतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तुषार सिंचन म्हणजे काय?",
+      "answer": "कारंज्यासारखे पाणी पिकांवर फवारण्याच्या पद्धतीला तुषार सिंचन म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "खते म्हणजे काय?",
+      "answer": "जमिनीचा कस वाढवण्यासाठी आणि पिकांच्या वाढीसाठी जमिनीत जे पदार्थ मिसळले जातात, त्यांना खते म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक खते कशापासून बनतात?",
+      "answer": "नैसर्गिक खते पालापाचोळा, शेण आणि कचरा कुजवून तयार केली जातात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रासायनिक खते म्हणजे काय?",
+      "answer": "कारखान्यात कृत्रिमरित्या तयार केलेल्या खतांना रासायनिक खते म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रासायनिक खतांच्या अतिवापराचे तोटे काय आहेत?",
+      "answer": "जमिनीची सुपीकता कमी होते आणि जमीन खारपड होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पिकांचे संरक्षण कसे केले जाते?",
+      "answer": "पिकांवर कीटकनाशके फवारून किंवा बुरशीनाशकांचा वापर करून संरक्षण केले जाते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मळणी म्हणजे काय?",
+      "answer": "कापलेल्या पिकातून धान्य किंवा दाणे वेगळे करण्याच्या क्रियेला मळणी म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "उफणणी म्हणजे काय?",
+      "answer": "वाऱ्याच्या साह्याने धान्यातील फोलपटे आणि कचरा दूर करण्याच्या क्रियेला उफणणी म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "धान्य साठवण्यापूर्वी काय काळजी घ्यावी?",
+      "answer": "धान्य उन्हात चांगले वाळवून त्यात कीड लागू नये म्हणून औषधे किंवा कडुनिंबाचा पाला घालावा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "धान्य साठवण्याची आधुनिक जागा कोणती?",
+      "answer": "धान्य साठवण्यासाठी 'सायलो' (कोठार) किंवा मोठ्या गोदामांचा वापर केला जातो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "हरितक्रांती म्हणजे काय?",
+      "answer": "नवनवीन तंत्रज्ञान आणि सुधारित बियाण्यांमुळे अन्नधान्याच्या उत्पादनात झालेली प्रचंड वाढ म्हणजे हरितक्रांती होय."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अन्न सुरक्षा म्हणजे काय?",
+      "answer": "देशातील प्रत्येक नागरिकाला त्याच्या गरजेनुसार पुरेसे अन्न मिळावे यासाठी केलेला कायदा म्हणजे अन्न सुरक्षा होय."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक वितरण प्रणालीचा काय उद्देश आहे?",
+      "answer": "गरीब कुटुंबांना रास्त दरात धान्य उपलब्ध करून देणे हा याचा मुख्य उद्देश आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सेंद्रिय शेती का महत्त्वाची आहे?",
+      "answer": "सेंद्रिय शेतीमुळे पर्यावरणाचे रक्षण होते आणि अन्न सकस व चविष्ट मिळते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये प्राण्यांचा वापर कोठे होतो?",
+      "answer": "नांगरणी, मळणी आणि मालाची वाहतूक करण्यासाठी बैल किंवा रेडा यांसारख्या प्राण्यांचा वापर होतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कंपोस्ट खत कसे तयार होते?",
+      "answer": "खड्ड्यात सेंद्रिय कचरा (पालापाचोळा, अन्नाचे अवशेष) टाकून तो कुजवल्यानंतर कंपोस्ट खत तयार होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पिकांवर पडणाऱ्या मुख्य रोगांची नावे सांगा.",
+      "answer": "तांबेरा, करपा आणि मावा हे पिकांवर पडणारे काही मुख्य रोग आहेत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "धान्यातील ओलावा का घालवावा लागतो?",
+      "answer": "ओलावा राहिल्यास धान्याला बुरशी लागते आणि ते सडण्याची भीती असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "विहीर आणि बोअरवेलमध्ये काय फरक आहे?",
+      "answer": "विहीर उथळ आणि मोठी असते, तर बोअरवेल खोल आणि अरुंद छिद्राची असते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अन्न साठवण्याचे फायदे काय?",
+      "answer": "दुष्काळ किंवा टंचाईच्या काळात अन्न साठवणुकीचा उपयोग होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "भाजीपाल्याची शेती कशी केली जाते?",
+      "answer": "भाजीपाल्याची शेती प्रामुख्याने सिंचनाच्या साह्याने वर्षभर केली जाऊ शकते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "जमिनीचा कस कशामुळे कमी होतो?",
+      "answer": "सतत एकाच प्रकारचे पीक घेणे आणि रासायनिक खतांचा अतिवापर यामुळे कस कमी होतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पिकांच्या वाढीसाठी सूर्यप्रकाशाचे महत्त्व काय?",
+      "answer": "वनस्पती सूर्यप्रकाशाच्या मदतीने स्वतःचे अन्न तयार करतात, ज्यामुळे त्यांची वाढ होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पेरणी करण्याचे विविध प्रकार कोणते?",
+      "answer": "हाताने फेकणे, पाभरीने पेरणी करणे आणि यंत्राद्वारे टोचणी करणे हे प्रकार आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "तण म्हणजे काय?",
+      "answer": "मुख्य पिकांसोबत उगवणाऱ्या अनावश्यक रोपट्यांना तण म्हणतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये सिंचनासाठी नद्यांचा वापर कसा करतात?",
+      "answer": "नद्यांवर धरणे किंवा बंधारे बांधून कालव्याद्वारे पाणी शेतात नेले जाते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "धान्य खराब होण्यास कारणीभूत घटक कोणते?",
+      "answer": "कीड, मुंग्या, उंदीर, घुशी आणि ओलावा हे धान्य खराब करण्यास कारणीभूत आहेत."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "खते देताना कोणती काळजी घ्यावी?",
+      "answer": "खते मातीत व्यवस्थित मिसळली पाहिजेत आणि त्यांचा प्रमाणबद्ध वापर करावा."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कृषी सेवा केंद्र म्हणजे काय?",
+      "answer": "जेथे शेतकऱ्यांना बियाणे, खते आणि तांत्रिक सल्ला मिळतो, त्याला कृषी सेवा केंद्र म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "फळबागांना पाणी देण्याची योग्य पद्धत कोणती?",
+      "answer": "फळबागांना पाणी देण्यासाठी ठिबक सिंचन ही सर्वात योग्य पद्धत आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मिश्र पिके म्हणजे काय?",
+      "answer": "एकाच शेतात एकाच वेळी दोन किंवा अधिक पिके घेणे म्हणजे मिश्र पिके होय."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कापणी म्हणजे काय?",
+      "answer": "पीक तयार झाल्यावर ते कापून गोळा करण्याच्या क्रियेला कापणी म्हणतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "जमिनीत गांडूळ खताचे महत्त्व काय?",
+      "answer": "गांडूळ माती भुसभुशीत करतात आणि जमिनीचा पोत सुधारतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "खरीप हंगामातील पिकांची ३ उदाहरणे द्या.",
+      "answer": "भात, बाजरी आणि मका ही खरीप हंगामातील पिके आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "रब्बी हंगामातील पिकांची ३ उदाहरणे द्या.",
+      "answer": "गहू, हरभरा आणि ज्वारी ही रब्बी हंगामातील पिके आहेत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "धान्य कोठारात कीड का लागते?",
+      "answer": "अपुरे ऊन, दमट हवा आणि अस्वच्छता यामुळे कोठारात कीड लागते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मोट म्हणजे काय?",
+      "answer": "विहिरीतून पाणी काढण्यासाठी वापरल्या जाणाऱ्या चामड्याच्या मोठ्या पिशवीला मोट म्हणतात (जुनी पद्धत)."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी साठवण्याचे काय फायदे आहेत?",
+      "answer": "जमिनीतील पाण्याची पातळी वाढते आणि उन्हाळ्यात पाण्याची टंचाई भासत नाही."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये सुधारित अवजारे कोणती आहेत?",
+      "answer": "ट्रॅक्टर, हार्वेस्टर, थ्रेशर आणि पॉवर टिलर ही सुधारित अवजारे आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "धान्य साठवण्यासाठी पोत्यांचा वापर का करतात?",
+      "answer": "पोती हाताळण्यास सोपी असतात आणि एकावर एक रचून साठवता येतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "शेतकरी निसर्गावर कसा अवलंबून असतो?",
+      "answer": "पिकांच्या वाढीसाठी पाऊस, ऊन आणि हवा या नैसर्गिक घटकांवर शेतकरी अवलंबून असतो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "सिंचनामुळे दुष्काळावर मात कशी करता येते?",
+      "answer": "साठवलेले पाणी टंचाईच्या काळात वापरून पीक वाचवता येते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "नगदी पिके म्हणजे काय?",
+      "answer": "जी पिके प्रामुख्याने विक्री करून पैसा मिळवण्यासाठी घेतली जातात (उदा. ऊस, कापूस), त्यांना नगदी पिके म्हणतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "पाणी अडवा, पाणी जिरवा म्हणजे काय?",
+      "answer": "पावसाचे पाणी वाहून जाऊ न देता ते जमिनीत मुरवणे म्हणजे पाणी अडवा, पाणी जिरवा होय."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "हरितक्रांतीमुळे भारताला कोणता फायदा झाला?",
+      "answer": "भारत अन्नधान्याच्या बाबतीत स्वावलंबी झाला आणि अन्नधान्याची आयात थांबली."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "शेतीतील टाकाऊ पदार्थांचा वापर कसा करावा?",
+      "answer": "त्यापासून सेंद्रिय खत किंवा जनावरांसाठी चारा तयार करून वापर करावा."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "पिकांना पाणी देण्याची वेळ कोणती असावी?",
+      "answer": "सकाळी लवकर किंवा संध्याकाळी पाणी देणे पिकांसाठी जास्त चांगले असते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "कीटकनाशकांचा वापर करताना कोणती काळजी घ्यावी?",
+      "answer": "कीटकनाशके अंगावर उडू नयेत आणि त्यांचा वापर मर्यादित प्रमाणातच करावा."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "पिकांच्या फेरपालटामुळे कीड कशी कमी होते?",
+      "answer": "पिके बदलल्यामुळे विशिष्ट किडीला आवश्यक असणारे खाद्य मिळत नाही, त्यामुळे किडीचे प्रमाण कमी होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पेव म्हणजे काय?",
+      "answer": "जमिनीच्या आत धान्य साठवण्यासाठी तयार केलेल्या जागेला 'पेव' म्हणतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "अन्नाची नासाडी कशी टाळता येईल?",
+      "answer": "जेवढे हवे तेवढेच ताटात घेणे आणि अन्नाचे योग्य साठवणूक करणे यामुळे नासाडी टाळता येईल."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "खतांमुळे पिकांवर काय परिणाम होतो?",
+      "answer": "खतांमुळे पिके वेगाने वाढतात आणि दाणे टपोरे व दर्जेदार मिळतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये कोळप्याचा वापर कशासाठी होतो?",
+      "answer": "पिकांमधील गवत (तण) काढण्यासाठी कोळप्याचा वापर केला जातो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पिकांसाठी सुपीक माती का आवश्यक आहे?",
+      "answer": "सुपीक मातीतून पिकांना आवश्यक पोषक घटक मिळतात, ज्यामुळे उत्पादन वाढते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "धान्य कापताना जमिनीच्या जवळून का कापतात?",
+      "answer": "जास्तीत जास्त धान्य मिळावे आणि उरलेला भाग जनावरांना चारा म्हणून वापरता यावा यासाठी."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "मळणी यंत्रामुळे वेळेची कशी बचत होते?",
+      "answer": "पूर्वी हाताने होणारे काम यंत्राद्वारे खूप कमी वेळात पूर्ण होते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "उन्हाळी हंगामात भाजीपाला का पिकवला जातो?",
+      "answer": "उन्हाळ्यात सिंचनाची सोय असल्यास पालेभाज्यांना चांगली मागणी असते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये ड्रीप इरिगेशन कोठे जास्त वापरले जाते?",
+      "answer": "जेथे पाण्याची कमतरता आहे अशा भागात ड्रीप इरिगेशन (ठिबक) जास्त वापरले जाते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "खत कोणत्या स्वरूपात दिले जाते?",
+      "answer": "खत पावडर, गोळ्या किंवा द्रव स्वरूपात दिले जाते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "धान्य कोठारात उंदीर येऊ नये म्हणून काय करावे?",
+      "answer": "कोठार पक्के असावे आणि त्याचे दरवाजे घट्ट बसवलेले असावेत."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "शेतीसाठी माती परीक्षण का करावे?",
+      "answer": "मातीत कोणते घटक कमी आहेत हे जाणून घेऊन त्यानुसार खते देण्यासाठी माती परीक्षण करावे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "शेतीमुळे आपल्याला कोणते अन्न पदार्थ मिळतात?",
+      "answer": "धान्य, कडधान्ये, फळे आणि भाजीपाला हे पदार्थ आपल्याला शेतीतून मिळतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "पिकांवर रसायने फवारण्याचे परिणाम काय होतात?",
+      "answer": "किडीचा नाश होतो पण अन्नात काही प्रमाणात रसायने राहण्याची शक्यता असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सेंद्रिय खताचे मुख्य उदाहरण कोणते?",
+      "answer": "शेणखत आणि गांडूळ खत ही सेंद्रिय खताची मुख्य उदाहरणे आहेत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "धान्य साठवताना तळाशी काय ठेवावे?",
+      "answer": "धान्य साठवताना तळाशी लाकडी फळ्या किंवा प्लास्टिक कागद ठेवावा जेणेकरून जमिनीचा ओलावा लागणार नाही."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये सौर उर्जेचा वापर कोठे होतो?",
+      "answer": "पाणी खेचणारे पंप चालवण्यासाठी आणि धान्य वाळवण्यासाठी सौर उर्जेचा वापर होतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "बदलत्या हवामानाचा शेतीवर काय परिणाम होतो?",
+      "answer": "अवेळी पाऊस किंवा कडक उन्हामुळे पिकांचे नुकसान होऊ शकते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "धान्य वितरण केंद्र म्हणजे काय?",
+      "answer": "शासकीय गुदामांतून रेशन दुकानांकडे धान्य पाठवण्याचे केंद्र म्हणजे वितरण केंद्र होय."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "निसर्ग शेती म्हणजे काय?",
+      "answer": "कोणत्याही बाह्य खताशिवाय केवळ निसर्गाच्या साखळीचा वापर करून केलेली शेती म्हणजे निसर्ग शेती."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "शेतीतील उत्पन्नाचा दर्जा कशावरून ठरतो?",
+      "answer": "धान्याचा आकार, रंग आणि त्यातील पोषक अंशावरून त्याचा दर्जा ठरतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "शेतकऱ्याचा मित्र कोणाला म्हणतात?",
+      "answer": "गांडूळ आणि साप यांसारख्या प्राण्यांना शेतकऱ्याचा मित्र म्हणतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "धान्य वाहतुकीसाठी कशाचा वापर होतो?",
+      "answer": "ट्रक, ट्रॅक्टर आणि बैलगाडी यांचा वापर धान्य वाहतुकीसाठी होतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "धान्याची स्वच्छता का गरजेची आहे?",
+      "answer": "स्वच्छ धान्याला जास्त भाव मिळतो आणि ते जास्त काळ टिकते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "सिंचनाचे जुने प्रकार कोणते?",
+      "answer": "मोट, रहाटगाडगे आणि छोटे कालवे हे सिंचनाचे जुने प्रकार आहेत."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "पेरणीनंतर कोळपणी किती दिवसांनी करतात?",
+      "answer": "पिके साधारणपणे एक वीतभर मोठी झाल्यावर तण काढण्यासाठी कोळपणी करतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "धान्य कोठारात ओलावा असल्यास काय होते?",
+      "answer": "धान्य कुजते आणि त्याला बुरशी लागते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "शेतीमुळे पर्यावरणाचे रक्षण कसे होते?",
+      "answer": "शेतीमुळे मोठ्या प्रमाणात हिरवळ निर्माण होते, ज्यामुळे हवा शुद्ध राहते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "जमिनीत पाणी साठवण्याच्या पद्धतीला काय म्हणतात?",
+      "answer": "याला 'जलसंधारण' म्हणतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "हरितक्रांतीचे मुख्य पीक कोणते होते?",
+      "answer": "गहू आणि तांदूळ ही हरितक्रांतीची मुख्य पिके होती."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "सेंद्रिय उत्पादनांना बाजारात जास्त किंमत का असते?",
+      "answer": "ती नैसर्गिक असल्याने आरोग्यदायी असतात आणि त्यांच्या उत्पादनात मेहनत जास्त असते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "विहरीचे पाणी उपसण्यासाठी काय वापरतात?",
+      "answer": "विहरीचे पाणी उपसण्यासाठी डिझेल इंजिन किंवा इलेक्ट्रिक पंप वापरतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "पिकांच्या मुळांना हवेची गरज का असते?",
+      "answer": "मुळांच्या श्वसनासाठी आणि वाढीसाठी हवेची गरज असते, म्हणूनच माती भुसभुशीत करतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "पाभरीने पेरणी कशी करतात?",
+      "answer": "बैलांच्या साहाय्याने पाभर ओढली जाते आणि नळीतून खाली बिया मातीत पडतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "शेती व्यवसायाला जोडधंदा कोणता?",
+      "answer": "दूधदुभत्याचा व्यवसाय (पशुपालन) हा शेतीला जोडधंदा आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "अन्न वाया घालवणे हे पाप का मानले जाते?",
+      "answer": "अन्न पिकवण्यासाठी शेतकऱ्याला खूप कष्ट करावे लागतात आणि जगात अनेक लोक उपाशी असतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "धान्य कोठारातील सुरक्षितता कशी राखतात?",
+      "answer": "कीटकनाशकांचा धूर देऊन किंवा औषधी पाला वापरून सुरक्षितता राखतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यातील ओलावा शेतीला कसा उपयुक्त ठरतो?",
+      "answer": "तो जमिनीत साठून राहिल्याने हिवाळ्यातील रब्बी पिकांना उपयोगाला येतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये सुधारित पद्धती का वापराव्यात?",
+      "answer": "कमी कष्टात आणि कमी वेळात जास्तीत जास्त उत्पन्न मिळवण्यासाठी सुधारित पद्धती वापराव्यात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "जमिनीतील पाणी कमी झाल्यावर काय होते?",
+      "answer": "विहिरी आटतात आणि पिके सुकायला लागतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "अन्न साखळीत शेतीचे स्थान काय?",
+      "answer": "अन्न साखळीची सुरुवात वनस्पतींपासून होते आणि शेती हे अन्नाचे प्रमुख उत्पादक स्थान आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "शेतीची कामे करताना हवामानाचा अंदाज का घ्यावा?",
+      "answer": "पेरणी किंवा मळणीच्या वेळी पाऊस आल्यास नुकसान टाळता यावे यासाठी."
+    }
+  ]
+}

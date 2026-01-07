@@ -1,0 +1,1206 @@
+{
+  "chapter_id": 24,
+  "chapter_name": "कापणी",
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शेतातील पिके तयार झाल्यावर ती कापण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पेरणी", "is_correct": false },
+        { "option_id": 2, "text": "कापणी", "is_correct": true },
+        { "option_id": 3, "text": "नांगरणी", "is_correct": false },
+        { "option_id": 4, "text": "कोळपणी", "is_correct": false }
+      ],
+      "answer": "कापणी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कापणीसाठी कोणत्या साधनाचा वापर प्रामुख्याने केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "खुरपे", "is_correct": false },
+        { "option_id": 2, "text": "विळा", "is_correct": true },
+        { "option_id": 3, "text": "कुदळ", "is_correct": false },
+        { "option_id": 4, "text": "फावडे", "is_correct": false }
+      ],
+      "answer": "विळा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कापणीनंतर पिकाची काय केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "मळणी", "is_correct": true },
+        { "option_id": 2, "text": "पेरणी", "is_correct": false },
+        { "option_id": 3, "text": "फवारणी", "is_correct": false },
+        { "option_id": 4, "text": "लागवड", "is_correct": false }
+      ],
+      "answer": "मळणी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मोठ्या शेतात कापणीसाठी आधुनिक काळात कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 2, "text": "ट्रॅक्टर", "is_correct": false },
+        { "option_id": 3, "text": "हार्वेस्टर", "is_correct": true },
+        { "option_id": 4, "text": "विळा", "is_correct": false }
+      ],
+      "answer": "हार्वेस्टर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पिके कापताना ती जमिनीपासून साधारण किती अंतरावर कापली जातात?",
+      "options": [
+        { "option_id": 1, "text": "खूप वरून", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीत गाडून", "is_correct": false },
+        { "option_id": 3, "text": "जमिनीलगत", "is_correct": true },
+        { "option_id": 4, "text": "केवळ शेंडे", "is_correct": false }
+      ],
+      "answer": "जमिनीलगत"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कापणीच्या वेळी हवामान कसे असावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळी", "is_correct": false },
+        { "option_id": 2, "text": "ढगाळ", "is_correct": false },
+        { "option_id": 3, "text": "कोरडे आणि ऊन", "is_correct": true },
+        { "option_id": 4, "text": "धुके असलेले", "is_correct": false }
+      ],
+      "answer": "कोरडे आणि ऊन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ज्वारीची कापणी झाल्यावर उरलेल्या ताटांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पेंढा", "is_correct": false },
+        { "option_id": 2, "text": "कडबा", "is_correct": true },
+        { "option_id": 3, "text": "गवत", "is_correct": false },
+        { "option_id": 4, "text": "भुसा", "is_correct": false }
+      ],
+      "answer": "कडबा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भात कापणीला कोकणात काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "लावणी", "is_correct": false },
+        { "option_id": 2, "text": "अवणी", "is_correct": false },
+        { "option_id": 3, "text": "कापणी", "is_correct": true },
+        { "option_id": 4, "text": "भाजावळ", "is_correct": false }
+      ],
+      "answer": "कापणी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "धान्य आणि कचरा वेगळा करण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उधळणी (पाखडणे)", "is_correct": true },
+        { "option_id": 2, "text": "पेरणी", "is_correct": false },
+        { "option_id": 3, "text": "वाळवणे", "is_correct": false },
+        { "option_id": 4, "text": "भरडणे", "is_correct": false }
+      ],
+      "answer": "उधळणी (पाखडणे)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते पीक जमिनीतून उपटून काढले जाते (कापले जात नाही)?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "भुईमूग", "is_correct": true },
+        { "option_id": 3, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 4, "text": "बाजरी", "is_correct": false }
+      ],
+      "answer": "भुईमूग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कापणीचा हंगाम आल्यावर शेतकऱ्याच्या मनात कोणती भावना असते?",
+      "options": [
+        { "option_id": 1, "text": "दुःख", "is_correct": false },
+        { "option_id": 2, "text": "आनंद", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कापणी करताना पिकाची मूठ धरून कशाने वार केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "कुऱ्हाड", "is_correct": false },
+        { "option_id": 2, "text": "काठी", "is_correct": false },
+        { "option_id": 3, "text": "विळा", "is_correct": true },
+        { "option_id": 4, "text": "तलवार", "is_correct": false }
+      ],
+      "answer": "विळा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पिकाची कापणी योग्य वेळी का करावी लागते?",
+      "options": [
+        { "option_id": 1, "text": "धान्य झडू नये म्हणून", "is_correct": true },
+        { "option_id": 2, "text": "पाऊस पडावा म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "पक्षी खाऊ नयेत म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "खत घालण्यासाठी", "is_correct": false }
+      ],
+      "answer": "धान्य झडू नये म्हणून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कापणी केलेल्या पिकाच्या जुड्या बांधण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गंजी", "is_correct": false },
+        { "option_id": 2, "text": "पेंढी", "is_correct": true },
+        { "option_id": 3, "text": "पोते", "is_correct": false },
+        { "option_id": 4, "text": "रास", "is_correct": false }
+      ],
+      "answer": "पेंढी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मळणी करण्यासाठी तयार केलेल्या जागेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वावर", "is_correct": false },
+        { "option_id": 2, "text": "खळे", "is_correct": true },
+        { "option_id": 3, "text": "कोठार", "is_correct": false },
+        { "option_id": 4, "text": "मळा", "is_correct": false }
+      ],
+      "answer": "खळे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कापणी पूर्ण झाल्यावर शेतकरी कोणता सण उत्साहाने साजरा करतात?",
+      "options": [
+        { "option_id": 1, "text": "दिवाळी", "is_correct": false },
+        { "option_id": 2, "text": "पोळा", "is_correct": false },
+        { "option_id": 3, "text": "होळी", "is_correct": false },
+        { "option_id": 4, "text": "धान्याची रास पुजून उत्सव", "is_correct": true }
+      ],
+      "answer": "धान्याची रास पुजून उत्सव"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "गव्हाच्या कापणीला उत्तर भारतात कोणता सण जोडला जातो?",
+      "options": [
+        { "option_id": 1, "text": "बैसाखी", "is_correct": true },
+        { "option_id": 2, "text": "ओणम", "is_correct": false },
+        { "option_id": 3, "text": "बिहू", "is_correct": false },
+        { "option_id": 4, "text": "पोंगल", "is_correct": false }
+      ],
+      "answer": "बैसाखी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कापणी यंत्राला (Combine Harvester) 'कम्बाइन' का म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ते वेगाने चालते", "is_correct": false },
+        { "option_id": 2, "text": "ते कापणी आणि मळणी दोन्ही करते", "is_correct": true },
+        { "option_id": 3, "text": "ते मोठे असते", "is_correct": false },
+        { "option_id": 4, "text": "ते लाल रंगाचे असते", "is_correct": false }
+      ],
+      "answer": "ते कापणी आणि मळणी दोन्ही करते"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कापणी करताना हाताला दुखापत होऊ नये म्हणून काय काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "विळा काळजीपूर्वक वापरावा", "is_correct": true },
+        { "option_id": 2, "text": "डोळे मिटून कापणी करावी", "is_correct": false },
+        { "option_id": 3, "text": "खूप वेगाने कापणी करावी", "is_correct": false },
+        { "option_id": 4, "text": "साधने वापरू नयेत", "is_correct": false }
+      ],
+      "answer": "विळा काळजीपूर्वक वापरावा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "खरिपाची कापणी कोणत्या महिन्यांत होते?",
+      "options": [
+        { "option_id": 1, "text": "मे-जून", "is_correct": false },
+        { "option_id": 2, "text": "सप्टेंबर-ऑक्टोबर", "is_correct": true },
+        { "option_id": 3, "text": "फेब्रुवारी-मार्च", "is_correct": false },
+        { "option_id": 4, "text": "जुलै-ऑगस्ट", "is_correct": false }
+      ],
+      "answer": "सप्टेंबर-ऑक्टोबर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रब्बी पिकांची कापणी कोणत्या ऋतूत होते?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळ्याच्या शेवटी/उन्हाळ्यात", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळ्याच्या सुरुवातीला", "is_correct": false },
+        { "option_id": 4, "text": "नेहमीच", "is_correct": false }
+      ],
+      "answer": "हिवाळ्याच्या शेवटी/उन्हाळ्यात"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कापणी झाल्यानंतर धान्य कुठे साठवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "विहिरीत", "is_correct": false },
+        { "option_id": 2, "text": "खळ्यात किंवा कोठारात", "is_correct": true },
+        { "option_id": 3, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 4, "text": "अंगणात उघड्यावर", "is_correct": false }
+      ],
+      "answer": "खळ्यात किंवा कोठारात"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कापणी करण्यासाठी लागणाऱ्या मजुरांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "शेतमजूर", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारी", "is_correct": false },
+        { "option_id": 4, "text": "चालक", "is_correct": false }
+      ],
+      "answer": "शेतमजूर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ऊस तोडणीसाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "विळा", "is_correct": false },
+        { "option_id": 2, "text": "कोयता", "is_correct": true },
+        { "option_id": 3, "text": "खुरपे", "is_correct": false },
+        { "option_id": 4, "text": "कात्री", "is_correct": false }
+      ],
+      "answer": "कोयता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कापणीला सुरुवात करण्यापूर्वी काही शेतकरी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "पिकाची पूजा", "is_correct": true },
+        { "option_id": 2, "text": "शेत सोडून जातात", "is_correct": false },
+        { "option_id": 3, "text": "झाडे लावतात", "is_correct": false },
+        { "option_id": 4, "text": "पाणी भरतात", "is_correct": false }
+      ],
+      "answer": "पिकाची पूजा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कापलेले धान्य वाळवण्यासाठी कुठे पसरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "खळ्यात", "is_correct": true },
+        { "option_id": 2, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 3, "text": "घराच्या छतावर", "is_correct": false },
+        { "option_id": 4, "text": "अंधारात", "is_correct": false }
+      ],
+      "answer": "खळ्यात"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पिकाचा रंग कोणता झाल्यावर कापणी केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "पिवळसर/सोनेरी", "is_correct": true },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "पिवळसर/सोनेरी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कापणीसाठी मजुरांचा तुटवडा भासल्यास शेतकरी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "यंत्रांचा वापर", "is_correct": true },
+        { "option_id": 2, "text": "कापणी थांबवतात", "is_correct": false },
+        { "option_id": 3, "text": "पीक जाळून टाकतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच करत नाहीत", "is_correct": false }
+      ],
+      "answer": "यंत्रांचा वापर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "बाजरीची कापणी झाल्यावर दाणे काढण्यासाठी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "पेरणी", "is_correct": false },
+        { "option_id": 2, "text": "मळणी", "is_correct": true },
+        { "option_id": 3, "text": "फवारणी", "is_correct": false },
+        { "option_id": 4, "text": "लागवड", "is_correct": false }
+      ],
+      "answer": "मळणी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कापणी करताना पिकाचे काय नुकसान होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "उंदीर खाणे", "is_correct": false },
+        { "option_id": 2, "text": "दाणे जमिनीवर सांडणे", "is_correct": true },
+        { "option_id": 3, "text": "वारा येणे", "is_correct": false },
+        { "option_id": 4, "text": "ऊर्जा मिळणे", "is_correct": false }
+      ],
+      "answer": "दाणे जमिनीवर सांडणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भाताची कापणी करताना साधारणपणे किती जुड्यांची एक पेंढी बांधतात?",
+      "options": [
+        { "option_id": 1, "text": "१", "is_correct": false },
+        { "option_id": 2, "text": "१०-१२", "is_correct": true },
+        { "option_id": 3, "text": "१००", "is_correct": false },
+        { "option_id": 4, "text": "५०", "is_correct": false }
+      ],
+      "answer": "१०-१२"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कापणीचा विळा कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "बोथट", "is_correct": false },
+        { "option_id": 2, "text": "धारदार", "is_correct": true },
+        { "option_id": 3, "text": "काचेचा", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचा", "is_correct": false }
+      ],
+      "answer": "धारदार"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कापणीच्या हंगामात शेतकऱ्याला कोणाची साथ मिळते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ बैलांची", "is_correct": false },
+        { "option_id": 2, "text": "पूर्ण कुटुंबाची", "is_correct": true },
+        { "option_id": 3, "text": "कोणाचीच नाही", "is_correct": false },
+        { "option_id": 4, "text": "शाळेतील मुलांची", "is_correct": false }
+      ],
+      "answer": "पूर्ण कुटुंबाची"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कापणी करताना काय करावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "वाकावे लागते", "is_correct": true },
+        { "option_id": 2, "text": "झोपावे लागते", "is_correct": false },
+        { "option_id": 3, "text": "धावावे लागते", "is_correct": false },
+        { "option_id": 4, "text": "नाचावे लागते", "is_correct": false }
+      ],
+      "answer": "वाकावे लागते"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कापणी हे कष्टाचे काम आहे की सोपे?",
+      "options": [
+        { "option_id": 1, "text": "खूप कष्टाचे", "is_correct": true },
+        { "option_id": 2, "text": "अगदी सोपे", "is_correct": false },
+        { "option_id": 3, "text": "बसून करण्याचे", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासारखे", "is_correct": false }
+      ],
+      "answer": "खूप कष्टाचे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कापणी करताना पिकाची मूठ कोणत्या हाताने धरतात?",
+      "options": [
+        { "option_id": 1, "text": "उजव्या", "is_correct": false },
+        { "option_id": 2, "text": "डाव्या", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "एकही नाही", "is_correct": false }
+      ],
+      "answer": "डाव्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कापणी करताना विळा कोणत्या हाताने चालवतात?",
+      "options": [
+        { "option_id": 1, "text": "उजव्या", "is_correct": true },
+        { "option_id": 2, "text": "डाव्या", "is_correct": false },
+        { "option_id": 3, "text": "पायाने", "is_correct": false },
+        { "option_id": 4, "text": "तोंडाने", "is_correct": false }
+      ],
+      "answer": "उजव्या"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कापणीसाठी दिवसभर काम केल्यावर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "उत्साह वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "थकवा येतो", "is_correct": true },
+        { "option_id": 3, "text": "भूक लागत नाही", "is_correct": false },
+        { "option_id": 4, "text": "झोप येत नाही", "is_correct": false }
+      ],
+      "answer": "थकवा येतो"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पिकाची कापणी करताना पक्षी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "दानांवर ताव मारतात", "is_correct": true },
+        { "option_id": 2, "text": "कापणीत मदत करतात", "is_correct": false },
+        { "option_id": 3, "text": "दूर पळून जातात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच करत नाहीत", "is_correct": false }
+      ],
+      "answer": "दानांवर ताव मारतात"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कापणीनंतर जमिनीवर उरलेल्या पिकाच्या भागाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मुळे", "is_correct": false },
+        { "option_id": 2, "text": "खोट", "is_correct": true },
+        { "option_id": 3, "text": "गवत", "is_correct": false },
+        { "option_id": 4, "text": "काडी", "is_correct": false }
+      ],
+      "answer": "खोट"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कपाशीची (Cotton) काय केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "कापणी", "is_correct": false },
+        { "option_id": 2, "text": "वेचणी", "is_correct": true },
+        { "option_id": 3, "text": "खोदणी", "is_correct": false },
+        { "option_id": 4, "text": "तोडणी", "is_correct": false }
+      ],
+      "answer": "वेचणी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कापणी झाल्यावर धान्य घरी आल्यावर कोणता आनंद होतो?",
+      "options": [
+        { "option_id": 1, "text": "लक्ष्मी घरी आली", "is_correct": true },
+        { "option_id": 2, "text": "काम संपले", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस पडला", "is_correct": false },
+        { "option_id": 4, "text": "बाजार भरला", "is_correct": false }
+      ],
+      "answer": "लक्ष्मी घरी आली"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कापणीच्या वेळी खालीलपैकी काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "वेळेचे नियोजन", "is_correct": true },
+        { "option_id": 2, "text": "नवीन कपडे", "is_correct": false },
+        { "option_id": 3, "text": "टीव्ही पाहणे", "is_correct": false },
+        { "option_id": 4, "text": "फिरायला जाणे", "is_correct": false }
+      ],
+      "answer": "वेळेचे नियोजन"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कापणी करताना ऊन टाळण्यासाठी शेतकरी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "दुपारी काम करतात", "is_correct": false },
+        { "option_id": 2, "text": "सकाळी लवकर काम सुरू करतात", "is_correct": true },
+        { "option_id": 3, "text": "रात्री काम करतात", "is_correct": false },
+        { "option_id": 4, "text": "काम करत नाहीत", "is_correct": false }
+      ],
+      "answer": "सकाळी लवकर काम सुरू करतात"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "विळ्याला धार लावण्यासाठी कोणाकडे जावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": false },
+        { "option_id": 2, "text": "लोहार", "is_correct": true },
+        { "option_id": 3, "text": "धोबी", "is_correct": false },
+        { "option_id": 4, "text": "कुंभार", "is_correct": false }
+      ],
+      "answer": "लोहार"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कापणीसाठी विळा चालवण्याच्या कृतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ओढणे", "is_correct": false },
+        { "option_id": 2, "text": "घाव घालणे/कापणे", "is_correct": true },
+        { "option_id": 3, "text": "ढकलणे", "is_correct": false },
+        { "option_id": 4, "text": "फेकणे", "is_correct": false }
+      ],
+      "answer": "घाव घालणे/कापणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "धान्याची रास कोठे केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यात", "is_correct": false },
+        { "option_id": 2, "text": "खळ्यात", "is_correct": true },
+        { "option_id": 3, "text": "विहिरीत", "is_correct": false },
+        { "option_id": 4, "text": "डोंगरावर", "is_correct": false }
+      ],
+      "answer": "खळ्यात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कापणीच्या वेळी पावसाची धास्ती का असते?",
+      "options": [
+        { "option_id": 1, "text": "पीक भिजून खराब होईल", "is_correct": true },
+        { "option_id": 2, "text": "पाणी मिळेल", "is_correct": false },
+        { "option_id": 3, "text": "थंडी वाजेल", "is_correct": false },
+        { "option_id": 4, "text": "गवत वाढेल", "is_correct": false }
+      ],
+      "answer": "पीक भिजून खराब होईल"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कापणी हे कोणत्या व्यवसायाशी संबंधित काम आहे?",
+      "options": [
+        { "option_id": 1, "text": "नोकरी", "is_correct": false },
+        { "option_id": 2, "text": "शेती", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार", "is_correct": false },
+        { "option_id": 4, "text": "उद्योग", "is_correct": false }
+      ],
+      "answer": "शेती"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कापणी पूर्ण झाल्यावर शेतकरी काय होतात?",
+      "options": [
+        { "option_id": 1, "text": "निश्चिंत", "is_correct": true },
+        { "option_id": 2, "text": "चिंतीत", "is_correct": false },
+        { "option_id": 3, "text": "दुःखी", "is_correct": false },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "निश्चिंत"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कापणी म्हणजे काय?",
+      "answer": "शेतातील पीक पूर्ण पिकल्यावर ते कापून जमा करण्याच्या क्रियेला कापणी म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कापणीसाठी कोणते मुख्य साधन वापरतात?",
+      "answer": "कापणीसाठी मुख्यत्वे 'विळा' हे साधन वापरले जाते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पीक कापणीसाठी तयार झाले आहे हे कसे ओळखावे?",
+      "answer": "पिकाचा रंग सोनेरी किंवा पिवळसर झाला आणि दाणे टणक झाले की पीक कापणीसाठी तयार झाले असे समजावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मळणी म्हणजे काय?",
+      "answer": "कापलेल्या पिकातून दाणे किंवा धान्य वेगळे करण्याच्या क्रियेला मळणी म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खळे कशासाठी तयार करतात?",
+      "answer": "कापलेले पीक ठेवण्यासाठी, वाळवण्यासाठी आणि मळणी करण्यासाठी खळे तयार करतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी पावसाची भीती का वाटते?",
+      "answer": "पाऊस पडल्यास कापलेले पीक भिजून खराब होते आणि धान्याला मोड येऊ शकतात, म्हणून पावसाची भीती वाटते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कडबा म्हणजे काय?",
+      "answer": "ज्वारी किंवा बाजरीची कापणी झाल्यावर उरलेली जी ताटे जनावरांच्या चाऱ्यासाठी वापरतात, त्यांना कडबा म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कापणीसाठी आधुनिक काळात कोणत्या यंत्राचा वापर होतो?",
+      "answer": "आधुनिक काळात कापणीसाठी 'हार्वेस्टर' किंवा 'कम्बाइन' या यंत्राचा वापर होतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "उधळणी किंवा पाखडणे म्हणजे काय?",
+      "answer": "वाऱ्याच्या साह्याने धान्यातील कचरा, फोलपटे वेगळी करण्याच्या क्रियेला उधळणी म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कापणी करताना कोणती खबरदारी घ्यावी?",
+      "answer": "विळा धारदार असल्याने तो चालवताना हाताला इजा होणार नाही याची काळजी घ्यावी लागते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "खरिपाची पिके कधी कापली जातात?",
+      "answer": "खरिपाची पिके साधारणपणे पावसाळा संपल्यावर म्हणजेच सप्टेंबर-ऑक्टोबर महिन्यात कापली जातात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रब्बी पिकांची कापणी कोणत्या महिन्यात होते?",
+      "answer": "रब्बी पिकांची कापणी साधारणपणे फेब्रुवारी ते मार्च या उन्हाळ्याच्या सुरुवातीला होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "विळ्याला धार का लावावी लागते?",
+      "answer": "विळा बोथट असल्यास कापणी नीट होत नाही आणि जास्त कष्ट लागतात, म्हणून त्याला धार लावावी लागते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शेतकरी कुटुंबातील सर्व सदस्य कापणीला का येतात?",
+      "answer": "कापणीचे काम मोठे असते आणि ते वेळेत पूर्ण करणे गरजेचे असते, म्हणून सर्व सदस्य मदत करतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पिकाची रास म्हणजे काय?",
+      "answer": "मळणी आणि पाखडणी झाल्यावर खळ्यात जमा झालेल्या स्वच्छ धान्याच्या ढिगाला रास म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कापणी उशिरा केल्यास काय नुकसान होते?",
+      "answer": "कापणी उशिरा केल्यास धान्य शेतातच झडून पडते किंवा पक्षी आणि प्राणी त्याचे नुकसान करतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भात कापणीनंतर काय केले जाते?",
+      "answer": "भात कापणीनंतर पेंढ्या बांधून त्या उन्हात वाळत घातल्या जातात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कोयता कशासाठी वापरतात?",
+      "answer": "कोयता प्रामुख्याने ऊस तोडणीसाठी किंवा जाड फांद्या कापण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "धान्य साठवण्यापूर्वी काय करावे लागते?",
+      "answer": "धान्य साठवण्यापूर्वी ते कडक उन्हात चांगले वाळवावे लागते जेणेकरून त्याला कीड लागणार नाही."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कापणीचा हंगाम शेतकऱ्यासाठी आनंदाचा का असतो?",
+      "answer": "वर्षभराच्या कष्टाचे फळ धान्यरूपाने घराकडे येते, म्हणून हा हंगाम आनंदाचा असतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कापणी करताना पिकाची मूठ का धरतात?",
+      "answer": "पीक नीट कापले जावे आणि ते खाली सांडू नये यासाठी डाव्या हाताने मूठ धरली जाते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कडब्याची गंजी म्हणजे काय?",
+      "answer": "चाऱ्यासाठी उपयोगात येणारा कडबा किंवा पेंढा एकावर एक रचून जो उंच ढीग करतात, त्याला गंजी म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "यंत्राद्वारे कापणी करण्याचे फायदे काय आहेत?",
+      "answer": "यंत्रामुळे कापणी जलद होते आणि मजुरांची गरज कमी लागते, तसेच वेळ वाचतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पेंढी कशी बांधतात?",
+      "answer": "कापलेले पीक एकत्र करून पिकाच्याच काही ताटांनी किंवा दोरीने त्याची जुडी बांधतात, त्याला पेंढी म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शेतकरी कापणीपूर्वी पिकाची पूजा का करतात?",
+      "answer": "भरघोस उत्पादन मिळाल्याबद्दल कृतज्ञता व्यक्त करण्यासाठी शेतकरी पिकाची पूजा करतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "धान्य घराकडे नेताना कशाचा वापर केला जातो?",
+      "answer": "धान्य नेण्यासाठी बैलगाडी, ट्रॅक्टर किंवा टेम्पोचा वापर केला जातो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भुईमुगाची काढणी कशी केली जाते?",
+      "answer": "भुईमुगाची झाडे मुळासकट जमिनीतून उपटून काढली जातात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कापणीच्या कामात बैलांचा वापर कुठे होतो?",
+      "answer": "कापलेले पीक वाहून नेण्यासाठी आणि मळणी करण्यासाठी बैलांचा वापर होतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "खळे तयार करताना जमिनीला काय लावतात?",
+      "answer": "खळे तयार करताना जमीन सपाट करून तिला शेणाने सारवले जाते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "धान्य कोठारात साठवताना काय काळजी घेतात?",
+      "answer": "कोठारात ओलावा नसावा आणि उंदीर-घुशींपासून संरक्षण व्हावे याची काळजी घेतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पिकाचे 'खोट' म्हणजे काय?",
+      "answer": "कापणी झाल्यावर जमिनीत उरलेला पिकाचा खालचा छोटा भाग म्हणजे खोट होय."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी शेतकऱ्याचे मुख्य लक्ष कशावर असते?",
+      "answer": "कापणीच्या वेळी हवामान आणि पिकाची स्थिती यावर शेतकऱ्याचे मुख्य लक्ष असते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "गव्हाची कापणी कोणत्या महिन्यात केली जाते?",
+      "answer": "गव्हाची कापणी साधारणपणे मार्च ते एप्रिल महिन्यात केली जाते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "विळा धार लावण्यासाठी लोहाराकडे का न्यावा लागतो?",
+      "answer": "विळ्याचे दाते घासले गेल्यामुळे तो बोथट होतो, म्हणून त्याला पुन्हा दाते पाडण्यासाठी लोहाराकडे नेतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मळणी यंत्राला काय म्हणतात?",
+      "answer": "मळणी करण्यासाठी वापरल्या जाणाऱ्या यंत्राला 'थ्रेशर' म्हणतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी वारा सुटला तर काय अडचण येते?",
+      "answer": "वारा सुटल्यास पीक आडवे पडते आणि कापणी करणे कठीण होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "कापणी झाल्यावर पेंढ्यांची रचना कशी करतात?",
+      "answer": "पेंढ्या एकमेकांवर रचून त्यांचे ढीग (गंजी) बनवले जातात जेणेकरून धान्य सुरक्षित राहील."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "धान्य स्वच्छ करणे का गरजेचे असते?",
+      "answer": "धान्यातून खडे, काड्या आणि धूळ काढण्यासाठी धान्य स्वच्छ करणे गरजेचे असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कापणी हे कष्टाचे काम का मानले जाते?",
+      "answer": "सतत वाकून आणि उन्हात काम करावे लागते, म्हणून कापणी हे कष्टाचे काम मानले जाते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "बाजरीची कापणी केल्यावर काय करतात?",
+      "answer": "बाजरीची कणसे कापून वेगळी केली जातात आणि मग त्यांची मळणी केली जाते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शेतीतील 'काढणी' आणि 'कापणी' यात काय फरक आहे?",
+      "answer": "कापणी म्हणजे विळ्याने कापणे, तर काढणी म्हणजे पीक जमिनीतून उपटून किंवा तोडून बाहेर काढणे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कापणीच्या हंगामात बाजारात कोणती लगबग असते?",
+      "answer": "नवीन धान्य विक्रीसाठी बाजारात येण्याची आणि व्यापाऱ्यांची खरेदी करण्याची लगबग असते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कापणी यंत्राचा वापर लहाण शेतात का करता येत नाही?",
+      "answer": "मोठी यंत्रे फिरण्यासाठी पुरेशी जागा लहान शेतात नसते आणि ती खर्चिकही पडतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कपाशीची वेचणी कधी करतात?",
+      "answer": "जेव्हा कपाशीची बोंडे पूर्ण उमलून पांढरा कापूस बाहेर दिसू लागतो, तेव्हा वेचणी करतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शेतकरी धान्य साठवण्यासाठी काय वापरतात?",
+      "answer": "शेतकरी धान्य साठवण्यासाठी पोती, कणगी किंवा लोखंडी पिंप वापरतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "विळ्याचे स्वरूप कसे असते?",
+      "answer": "विळा अर्धवर्तुळाकार आकाराचा असून त्याला पकडण्यासाठी लाकडी मूठ असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पिकाची काढणी योग्य वेळी न झाल्यास पशू-पक्षी काय करतात?",
+      "answer": "पशू-पक्षी उघड्यावरील पीक खाऊन टाकतात किंवा दाणे खाली पाडून नासाडी करतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी मजुरांना काय दिले जाते?",
+      "answer": "मजुरांना त्यांच्या कामाचा मोबदला म्हणून मजुरी (पैसे) किंवा काही ठिकाणी धान्य दिले जाते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "शेतीमध्ये 'सुगी'चा काळ म्हणजे काय?",
+      "answer": "पीक तयार होऊन त्याची कापणी आणि मळणी करण्याचा जो काळ असतो, त्याला सुगीचा काळ म्हणतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "धान्य आणि भूसा वाऱ्याने कसा वेगळा होतो?",
+      "answer": "धान्य जड असल्यामुळे ते सरळ खाली पडते आणि हलका भूसा वाऱ्याने दूर उडून जातो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी पाण्याची सोय का लागते?",
+      "answer": "भरपूर कष्टाचे काम आणि ऊन असल्याने मजुरांना पिण्याच्या पाण्याची गरज लागते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "पीक कापल्यावर ते लगेच कोठारात का भरत नाहीत?",
+      "answer": "त्यात ओलावा असू शकतो, म्हणून ते आधी वाळवणे आवश्यक असते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "कापणी झाल्यानंतर उरलेला पेंढा कोणाच्या कामाला येतो?",
+      "answer": "उरलेला पेंढा पाळीव जनावरांच्या खाण्यासाठी (चारा) उपयोगात येतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "शेतात काम करताना पायात चपला का असाव्यात?",
+      "answer": "जमिनीतील पिकांचे खोट किंवा काटे टोचू नयेत म्हणून पायात चपला असाव्यात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी विळा घसरला तर काय करावे?",
+      "answer": "इजा झाल्यास लगेच प्रथमोपचार करावा आणि जखम स्वच्छ करावी."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "सोयाबीनची कापणी कशी करतात?",
+      "answer": "सोयाबीनची झाडे वाळून पिवळी पडली की ती विळ्याने जमिनीलगत कापली जातात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळेस शेतकऱ्याचे आरोग्य का महत्त्वाचे असते?",
+      "answer": "कापणी हे कष्टाचे काम असल्याने शेतकरी शारीरिकदृष्ट्या सुदृढ असणे गरजेचे असते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "मळणी करताना बैलांच्या पायाखाली काय ठेवतात?",
+      "answer": "मळणी करताना बैलांच्या पायाखाली पिकाच्या पेंढ्या पसरून ठेवतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "धान्याची स्वच्छता करण्यासाठी कोणते घरगुती साधन वापरतात?",
+      "answer": "धान्य स्वच्छ करण्यासाठी सूप किंवा चाळणीचा वापर करतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "कापणी झाल्यावर शेत जमीन कशी दिसते?",
+      "answer": "कापणी झाल्यावर शेत मोकळे आणि केवळ पिकाची खोडे असलेली जमीन दिसते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कापणी पूर्ण होणे म्हणजे काय?",
+      "answer": "संपूर्ण शेतातील तयार पीक कापून खळ्यात सुरक्षित पोहोचवणे म्हणजे कापणी पूर्ण होणे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "मळणी यंत्राचे (Thresher) काय वैशिष्ट्य आहे?",
+      "answer": "हे यंत्र धान्य आणि पेंढा अत्यंत वेगाने आणि स्वतंत्रपणे वेगळे करते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कापणीच्या काळात दिवस कसा असतो?",
+      "answer": "कापणीच्या काळात दिवस लगबगीचा आणि कामाच्या व्यापाचा असतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "खळ्याची जागा कशी निवडतात?",
+      "answer": "खळ्याची जागा उंच, कोरडी आणि वाऱ्याची दिशा अनुकूल असेल अशी निवडतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "विळ्याला लाकडी मूठ का असते?",
+      "answer": "विळा पकडताना हाताला घट्ट पकड मिळावी आणि लोखंडाचा स्पर्श होऊन इजा होऊ नये म्हणून लाकडी मूठ असते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "कापणी करताना कोणते कपडे सोयीचे असतात?",
+      "answer": "सैल आणि सुती कपडे कापणी करताना सोयीचे असतात जेणेकरून घाम शोषला जाईल."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "धान्य साठवण्यापूर्वी त्यात कडुनिंबाचा पाला का टाकतात?",
+      "answer": "कीड आणि मुंग्यांपासून धान्याचे संरक्षण व्हावे म्हणून कडुनिंबाचा पाला टाकतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "शेतकऱ्याचा खरा खजिना कोणता असतो?",
+      "answer": "कापणी करून घरी आणलेले धान्य हाच शेतकऱ्याचा खरा खजिना असतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कापणी यंत्रामुळे मजुरांवर काय परिणाम होतो?",
+      "answer": "कापणी यंत्रामुळे मजुरांची कामे कमी होतात, पण मोठ्या शेतात काम सोपे होते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी शेतकऱ्याचे कुटुंब काय आनंद साजरा करते?",
+      "answer": "उत्पन्न मिळाल्यामुळे आणि घराची खाद्यान्न गरज पूर्ण झाल्यामुळे कुटुंब आनंद साजरा करते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "पीक कापताना ते विळ्याने मागे ओढायचे की पुढे ढकल्याचे असते?",
+      "answer": "पीक विळ्याच्या साह्याने स्वतःकडे किंवा मागे ओढून कापायचे असते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कापणी करताना पिकाची दिशा कशी असावी?",
+      "answer": "वारा ज्या दिशेने वाहत आहे त्याप्रमाणे पिकाची मांडणी करावी लागते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "कापणी करताना थकवा आल्यास शेतकरी काय करतात?",
+      "answer": "झाडाच्या सावलीत बसून थोडा वेळ विश्रांती घेतात आणि पाणी-जेवण करतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "गंजी रचण्याचे कौशल्य का महत्त्वाचे आहे?",
+      "answer": "गंजी नीट न रचल्यास ती कोसळू शकते किंवा पावसाचे पाणी आत शिरू शकते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी डोक्याला रुमाल का बांधतात?",
+      "answer": "उन्हापासून संरक्षण होण्यासाठी आणि डोक्यावर पेंढ्या वाहताना त्रास होऊ नये म्हणून रुमाल बांधतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "धान्याची रास केल्यावर तिची पूजा करण्याला काय म्हणतात?",
+      "answer": "धान्याची रास केल्यावर तिची पूजा करण्याला 'रासपुजा' म्हणतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "कापणी हा शेतीतील कितवा टप्पा आहे?",
+      "answer": "कापणी हा शेतीतील पेरणी आणि वाढीनंतरचा अंतिम पण महत्त्वाचा टप्पा आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "धान्य आणि कचरा वेगळा करण्यासाठी वाऱ्याचा उपयोग कसा होतो?",
+      "answer": "उंचावरून धान्य खाली सोडल्यास वारा कचरा उडवून नेतो आणि शुद्ध धान्य खाली साठते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी मजुरांना मिळणारा आहार कसा असतो?",
+      "answer": "कष्टाच्या कामामुळे मजुरांना जास्त ऊर्जा देणारा आणि पोटभरीचा आहार दिला जातो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कापणी पूर्ण झाल्यावर शेतकरी पुढची काय तयारी करतात?",
+      "answer": "कापणी झाल्यावर शेतकरी धान्य विक्रीची किंवा पुढच्या हंगामासाठी जमीन तयार करण्याची तयारी करतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "पिकाची कापणी करताना होणारा आवाज कशाचा असतो?",
+      "answer": "विळा कोरड्या पिकाच्या ताटांना छेदताना 'कचाकच' असा आवाज होतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "कापणी करताना विळा उलटा पकडल्यास काय होईल?",
+      "answer": "विळा उलटा पकडल्यास कापणी होणार नाही आणि हाताला जखम होण्याची शक्यता वाढेल."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "शेतातील धान्य सुरक्षित ठेवण्यासाठी कशाचा वापर करतात?",
+      "answer": "शेतात धान्य सुरक्षित ठेवण्यासाठी तात्पुरती झोपडी किंवा पाल उभारले जाते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "कापणीच्या कामात मुलांची काय मदत होते?",
+      "answer": "मुलं लहान पेंढ्या उचलणे, पाणी देणे किंवा धान्य वेचणे यासारखी हलकी कामे करतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "कापणी झालेली पिके खळ्यात नेताना काय काळजी घ्यावी?",
+      "answer": "रस्त्यात पेंढ्या पडणार नाहीत आणि धान्य सांडणार नाही याची काळजी घ्यावी."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "खळ्यावर पाळत का ठेवावी लागते?",
+      "answer": "धान्याची चोरी टाळण्यासाठी आणि भटके प्राणी धान्याचे नुकसान करू नयेत म्हणून पाळत ठेवावी लागते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "धान्य वाळवण्यासाठी कापड का वापरतात?",
+      "answer": "धान्य थेट मातीला लागू नये आणि उचलणे सोपे जावे म्हणून कापड किंवा ताडपत्री वापरतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कापणीसाठी विळा स्वतःच धार लावता येते का?",
+      "answer": "हो, काही शेतकरी दगडाच्या साह्याने विळ्याला तात्पुरती धार लावू शकतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "कापणी पूर्ण झाल्यावर जमिनीचा पोत सुधारण्यासाठी काय करतात?",
+      "answer": "जमिनीत उरलेली खोडे कुजण्यासाठी नांगरणी करून त्यात पाणी सोडले जाते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "शेतीतील 'नवा' म्हणजे काय?",
+      "answer": "नवीन धान्याची कापणी झाल्यावर त्यापासून जो पहिला नैवेद्य किंवा जेवण बनवतात, त्याला 'नवा' म्हणतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "कापणीच्या वेळी उष्णतेचा त्रास होऊ नये म्हणून काय प्यावे?",
+      "answer": "भरपूर पाणी, ताक किंवा लिंबू सरबत प्यावे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "कापणी यंत्राचा आवाज कसा असतो?",
+      "answer": "कापणी यंत्राचा आवाज मोठा आणि सतत घरघर करणारा असतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "धान्य पोत्यात भरताना काय वापरतात?",
+      "answer": "धान्य पोत्यात भरण्यासाठी 'पांढरी' किंवा मोठ्या डब्याचा वापर करतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कापणीच्या हंगामात गावोगावी काय फिरते?",
+      "answer": "कापणीच्या हंगामात गावोगावी हार्वेस्टर आणि थ्रेशर सारखी यंत्रे फिरतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "शेतातील कामगारांचे मुख्य साधन कोणते?",
+      "answer": "शेतातील कामगारांचे मुख्य साधन त्यांचे कष्ट आणि साधी अवजारे असतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "कापणीच्या काळात रात्रीचे वातावरण कसे असते?",
+      "answer": "खळ्यावर मळणीची लगबग सुरू असल्यास रात्रभर दिवे लावून काम केले जाते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पिकाची कापणी करताना कोणते पक्षी जास्त दिसतात?",
+      "answer": "चिमण्या, कावळे आणि पोपट यासारखे पक्षी धान्याच्या लोभाने जास्त दिसतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "कापणी उन्हाळ्यात करणे सोपे आहे की पावसाळ्यात?",
+      "answer": "कापणी नेहमी कोरड्या हवामानात म्हणजे उन्हाळ्यात किंवा हिवाळ्यानंतर करणे सोपे आणि सुरक्षित असते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "धान्य विक्रीसाठी कुठे नेले जाते?",
+      "answer": "धान्य विक्रीसाठी जवळच्या बाजार समिती (APMC) किंवा व्यापाऱ्यांकडे नेले जाते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कापणी हा जीवनाचा धडा काय देतो?",
+      "answer": "कापणी हा धडा देतो की 'जसे पेराल तसे उगवेल' आणि कष्टाचे फळ नक्की मिळते."
+    }
+  ]
+}

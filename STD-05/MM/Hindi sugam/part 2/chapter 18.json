@@ -1,0 +1,2012 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "5.Hindi.18",
+    "standard": "5",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "रोबोट",
+    "unit": "दूसरी इकाई"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘रोबोट’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तकनीक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तकनीक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनुष्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जानवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मशीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खिलौना",
+          "is_correct": false
+        }
+      ],
+      "answer": "मशीन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रोबोट किसके निर्देश पर काम करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनाओं पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोग्राम पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोग्राम पर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेती में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी जगह",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी जगह"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रोबोट किस कार्य में मदद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारी काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खतरनाक काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोहराव वाले काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रोबोट की सबसे बड़ी विशेषता क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तेज़ी और सटीकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तेज़ी और सटीकता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या नहीं कर सकता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काम करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदेश मानना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मशीन से चलना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोचना"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रोबोट मनुष्य से किस बात में अलग है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शरीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाठ में रोबोट को किसका सहायक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनुष्य का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जानवर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बच्चों का",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनुष्य का"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रोबोट का सही उपयोग क्यों ज़रूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेल के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा के लिए"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘रोबोट’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तकनीक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तकनीक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनुष्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जानवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मशीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खिलौना",
+          "is_correct": false
+        }
+      ],
+      "answer": "मशीन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रोबोट किसके निर्देश पर काम करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनाओं पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोग्राम पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोग्राम पर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेती में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी जगह",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी जगह"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रोबोट किस कार्य में मदद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारी काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खतरनाक काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोहराव वाले काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "रोबोट की सबसे बड़ी विशेषता क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तेज़ी और सटीकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तेज़ी और सटीकता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या नहीं कर सकता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काम करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदेश मानना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मशीन से चलना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोचना"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "रोबोट मनुष्य से किस बात में अलग है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शरीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठ में रोबोट को किसका सहायक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनुष्य का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जानवर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बच्चों का",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनुष्य का"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "रोबोट का सही उपयोग क्यों ज़रूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेल के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा के लिए"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘रोबोट’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तकनीक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तकनीक"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनुष्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जानवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मशीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खिलौना",
+          "is_correct": false
+        }
+      ],
+      "answer": "मशीन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रोबोट किसके निर्देश पर काम करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनाओं पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोग्राम पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोग्राम पर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेती में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी जगह",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी जगह"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रोबोट किस कार्य में मदद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारी काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खतरनाक काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोहराव वाले काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रोबोट की सबसे बड़ी विशेषता क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तेज़ी और सटीकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तेज़ी और सटीकता"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या नहीं कर सकता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काम करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदेश मानना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मशीन से चलना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोचना"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "रोबोट मनुष्य से किस बात में अलग है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शरीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाठ में रोबोट को किसका सहायक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनुष्य का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जानवर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बच्चों का",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनुष्य का"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "रोबोट का सही उपयोग क्यों ज़रूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेल के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा के लिए"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘रोबोट’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तकनीक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तकनीक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनुष्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जानवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मशीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खिलौना",
+          "is_correct": false
+        }
+      ],
+      "answer": "मशीन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "रोबोट किसके निर्देश पर काम करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनाओं पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोग्राम पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोग्राम पर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेती में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी जगह",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी जगह"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रोबोट किस कार्य में मदद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारी काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खतरनाक काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोहराव वाले काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "रोबोट की सबसे बड़ी विशेषता क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तेज़ी और सटीकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तेज़ी और सटीकता"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या नहीं कर सकता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काम करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदेश मानना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मशीन से चलना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोचना"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "रोबोट मनुष्य से किस बात में अलग है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शरीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाठ में रोबोट को किसका सहायक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनुष्य का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जानवर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बच्चों का",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनुष्य का"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "रोबोट का सही उपयोग क्यों ज़रूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेल के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा के लिए"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘रोबोट’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तकनीक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तकनीक"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनुष्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जानवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मशीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खिलौना",
+          "is_correct": false
+        }
+      ],
+      "answer": "मशीन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "रोबोट किसके निर्देश पर काम करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनाओं पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रोग्राम पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोग्राम पर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेती में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी जगह",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी जगह"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "रोबोट किस कार्य में मदद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारी काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खतरनाक काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोहराव वाले काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "रोबोट की सबसे बड़ी विशेषता क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तेज़ी और सटीकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तेज़ी और सटीकता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "रोबोट क्या नहीं कर सकता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काम करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदेश मानना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मशीन से चलना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोचना"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "रोबोट मनुष्य से किस बात में अलग है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शरीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाठ में रोबोट को किसका सहायक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनुष्य का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जानवर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बच्चों का",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनुष्य का"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "रोबोट का सही उपयोग क्यों ज़रूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेल के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा के लिए"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘रोबोट’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "यह पाठ तकनीक के सही उपयोग का महत्व बताता है।"
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "रोबोट क्या होता है?",
+      "answer": "रोबोट एक मशीन होता है जो निर्देशों पर काम करता है।"
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "रोबोट किसके द्वारा नियंत्रित होता है?",
+      "answer": "रोबोट प्रोग्राम द्वारा नियंत्रित होता है।"
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "रोबोट का उपयोग कहाँ किया जाता है?",
+      "answer": "रोबोट उद्योग, चिकित्सा और अंतरिक्ष में उपयोग होता है।"
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "रोबोट मनुष्य की मदद कैसे करता है?",
+      "answer": "वह कठिन और खतरनाक काम करता है।"
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "रोबोट में कौन-सी भावना नहीं होती?",
+      "answer": "रोबोट में भावनाएँ नहीं होतीं।"
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "रोबोट के उपयोग से क्या लाभ है?",
+      "answer": "काम तेज़ और सुरक्षित होता है।"
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "रोबोट का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि इससे नुकसान हो सकता है।"
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "रोबोट और मनुष्य में क्या अंतर है?",
+      "answer": "मनुष्य सोच सकता है, रोबोट नहीं।"
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "यह पाठ हमें क्या सिखाता है?",
+      "answer": "यह पाठ तकनीक का सही उपयोग सिखाता है।"
+    }
+  ]
+}
