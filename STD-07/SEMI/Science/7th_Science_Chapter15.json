@@ -1,0 +1,1684 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.15",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Materials We Use"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Materials are substances used to make ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "plants",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "objects",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "objects"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a natural material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nylon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is man-made material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wool",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Silk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Wood is obtained from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "plants",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "rocks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "plants"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Wool is obtained from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "plants",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "animals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "minerals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "animals"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which material is used to make clothes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which material is transparent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plastic sheet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Glass"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which material is opaque?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which material allows light to pass partially?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Transparent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Opaque",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Translucent",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Shiny",
+          "is_correct": false
+        }
+      ],
+      "answer": "Translucent"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which material is flexible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron rod",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood plank",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rubber",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which material is hard?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wool",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which material is soft?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Steel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which material is waterproof?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cotton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which material is absorbent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which material is non-absorbent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sponge",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which material conducts electricity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Copper",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which material is an insulator?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which metal is used for electric wires?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Silver",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which property makes metals useful for utensils?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Softness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Conductivity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Transparency",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flexibility",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conductivity"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which material is brittle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Plastic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Glass"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which material is elastic?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rubber",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which material is magnetic?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which material floats on water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which material sinks in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cork",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which material is soluble in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sand",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Chalk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which material is insoluble in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sugar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oil",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Alum",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oil"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which gas is used to fill balloons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carbon dioxide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which material is used to make tyres?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rubber",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which property allows stretching?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hardness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Elasticity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Transparency",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Brittleness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Elasticity"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which material is shiny?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which material is used to make utensils?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clay",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Metal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Metal"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which property makes glass break easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elasticity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hardness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brittleness",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Softness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brittleness"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which material is used to store water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cotton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which material is used for building houses?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brick",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brick"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which material is used to make bags?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which material is used to make ropes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jute",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jute"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which material is biodegradable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Metal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which material is non-biodegradable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which material can be recycled?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which material is used in making furniture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which material is used in making toys?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which material is light in weight?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Steel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which material is used in raincoats?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wool",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Silk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which material is fire resistant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Glass"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which material is used for insulation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aluminium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which material can be moulded easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which material is used in making bottles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which material is used for cooking vessels?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Metal"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What are materials?",
+      "answer": "Materials are substances used to make objects."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Name two natural materials.",
+      "answer": "Cotton and wood."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name two man-made materials.",
+      "answer": "Plastic and glass."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is transparency?",
+      "answer": "Ability to allow light to pass through."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is opaque material?",
+      "answer": "Material that does not allow light."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is translucent material?",
+      "answer": "Material allowing partial light."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is hardness?",
+      "answer": "Resistance to scratching."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is softness?",
+      "answer": "Ability to be pressed easily."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is flexibility?",
+      "answer": "Ability to bend easily."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is elasticity?",
+      "answer": "Ability to regain shape."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is brittleness?",
+      "answer": "Property of breaking easily."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is conductivity?",
+      "answer": "Ability to conduct heat or electricity."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is insulator?",
+      "answer": "Material that does not conduct electricity."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one conductor.",
+      "answer": "Copper."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one insulator.",
+      "answer": "Plastic."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is absorbent material?",
+      "answer": "Material that absorbs water."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give one absorbent material.",
+      "answer": "Cotton."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is non-absorbent material?",
+      "answer": "Material that does not absorb water."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Give one non-absorbent material.",
+      "answer": "Plastic."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is biodegradable material?",
+      "answer": "Material that decomposes naturally."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Give one biodegradable material.",
+      "answer": "Paper."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is non-biodegradable material?",
+      "answer": "Material that does not decompose."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Give one non-biodegradable material.",
+      "answer": "Plastic."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is recycling?",
+      "answer": "Process of reusing materials."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why recycling is important?",
+      "answer": "Reduces waste."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is solubility?",
+      "answer": "Ability to dissolve in water."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name one soluble material.",
+      "answer": "Salt."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name one insoluble material.",
+      "answer": "Sand."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is magnetic material?",
+      "answer": "Material attracted by magnet."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Give one magnetic material.",
+      "answer": "Iron."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is non-magnetic material?",
+      "answer": "Material not attracted by magnet."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Give one non-magnetic material.",
+      "answer": "Plastic."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why metals are used for utensils?",
+      "answer": "They conduct heat."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why plastic is used for bottles?",
+      "answer": "It is lightweight and waterproof."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why cotton clothes are comfortable?",
+      "answer": "They absorb sweat."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why woolen clothes are warm?",
+      "answer": "They trap air."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why glass is brittle?",
+      "answer": "It breaks easily."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why rubber is elastic?",
+      "answer": "It regains shape."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is density?",
+      "answer": "Mass per unit volume."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why wood floats on water?",
+      "answer": "Low density."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why iron sinks in water?",
+      "answer": "High density."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What material is used for insulation?",
+      "answer": "Plastic."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why metals are shiny?",
+      "answer": "They reflect light."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is durability?",
+      "answer": "Ability to last long."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why plastic is durable?",
+      "answer": "Resists decay."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is eco-friendly material?",
+      "answer": "Material safe for environment."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Give one eco-friendly material.",
+      "answer": "Jute."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why jute bags are preferred?",
+      "answer": "They are biodegradable."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is synthetic material?",
+      "answer": "Man-made material."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Give one synthetic material.",
+      "answer": "Nylon."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why materials are classified?",
+      "answer": "To choose suitable material."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What property makes rubber useful for tyres?",
+      "answer": "Elasticity."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why metals are recycled?",
+      "answer": "To save resources."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why plastic is harmful?",
+      "answer": "Non-biodegradable."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why material selection is important?",
+      "answer": "For proper use."
+    }
+  ]
+}

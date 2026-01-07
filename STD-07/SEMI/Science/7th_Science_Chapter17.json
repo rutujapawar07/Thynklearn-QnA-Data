@@ -1,0 +1,1600 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.17",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Effects of Light"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Light is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "force",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sound",
+          "is_correct": false
+        }
+      ],
+      "answer": "energy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which object gives out its own light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mirror",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Table",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Objects that do not emit light are called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "luminous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "transparent",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "non-luminous",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "opaque",
+          "is_correct": false
+        }
+      ],
+      "answer": "non-luminous"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is a luminous object?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Candle flame",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chair",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Moon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Candle flame"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Moon shines because it ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "produces light",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "reflects sunlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "absorbs light",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "stores light",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflects sunlight"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When light falls on a mirror, it is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "absorbed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "refracted",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "reflected",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "scattered",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflected"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The bouncing back of light is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "refraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "reflection",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "absorption",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflection"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which surface reflects most light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rough",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Smooth and shiny",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Uneven",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smooth and shiny"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which surface absorbs most light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Black",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Smooth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Black"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which mirror forms images?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plane mirror",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plane mirror"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Image formed by plane mirror is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "real",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "virtual",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "inverted",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "magnified",
+          "is_correct": false
+        }
+      ],
+      "answer": "virtual"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Image formed in plane mirror is laterally ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "upright",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "magnified",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "inverted",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "reversed",
+          "is_correct": true
+        }
+      ],
+      "answer": "reversed"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which image cannot be obtained on screen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Real image",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Virtual image",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Large image",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Small image",
+          "is_correct": false
+        }
+      ],
+      "answer": "Virtual image"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which mirror is used as looking mirror?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Concave",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Convex",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plane",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spherical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plane"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which mirror is used in vehicles as rear-view mirror?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Concave",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convex",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spherical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convex"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which mirror always forms diminished image?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Concave",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convex",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convex"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which mirror forms real and inverted image?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Concave",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Convex",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Concave"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The change in direction of light is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "refraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "absorption",
+          "is_correct": false
+        }
+      ],
+      "answer": "refraction"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which phenomenon makes pencil look bent in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Refraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scattering",
+          "is_correct": false
+        }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which medium bends light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Same medium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Different medium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Air only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vacuum",
+          "is_correct": false
+        }
+      ],
+      "answer": "Different medium"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Splitting of light into colours is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "refraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dispersion",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "scattering",
+          "is_correct": false
+        }
+      ],
+      "answer": "dispersion"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which colours make white light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seven colours",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Three colours",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Two colours",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "One colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "Seven colours"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Rainbow is formed due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "refraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which instrument splits light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lens",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mirror",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Prism",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass slab",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prism"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which colour deviates most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "Violet"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which colour deviates least?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": true
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which colour has maximum wavelength?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Red",
+          "is_correct": true
+        }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which colour has minimum wavelength?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Yellow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Violet",
+          "is_correct": true
+        }
+      ],
+      "answer": "Violet"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which material allows light to pass fully?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Opaque",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Translucent",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Transparent",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Shiny",
+          "is_correct": false
+        }
+      ],
+      "answer": "Transparent"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which material allows partial light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Transparent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Opaque",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Translucent",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mirror",
+          "is_correct": false
+        }
+      ],
+      "answer": "Translucent"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which material blocks light completely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic sheet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which object casts shadow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Transparent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Opaque",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mirror",
+          "is_correct": false
+        }
+      ],
+      "answer": "Opaque"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Shadow is formed when light is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflected",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "blocked",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "refracted",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "scattered",
+          "is_correct": false
+        }
+      ],
+      "answer": "blocked"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Shadow is always ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "colourful",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "transparent",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dark",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shiny",
+          "is_correct": false
+        }
+      ],
+      "answer": "dark"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Size of shadow depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "light source",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "object distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "screen distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which time shadows are longest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Morning and evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Midnight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afternoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Morning and evening"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which phenomenon helps us see objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reflection",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Refraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Absorption",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reflection"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which surface diffuses light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Polished",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rough",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mirror",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rough"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which object reflects light regularly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rough wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mirror",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cloth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mirror"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which mirror is used in torches?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Convex",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Concave",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Concave"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which mirror gives wider field of view?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Concave",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convex",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convex"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which image is always erect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Concave",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Convex",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Both plane and convex",
+          "is_correct": true
+        }
+      ],
+      "answer": "Both plane and convex"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which object does not form shadow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Glass",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book",
+          "is_correct": false
+        }
+      ],
+      "answer": "Glass"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which phenomenon causes mirage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Refraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scattering",
+          "is_correct": false
+        }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which part of eye controls light entry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Retina",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iris",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pupil",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cornea",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pupil"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is light?",
+      "answer": "Light is a form of energy that enables us to see."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is luminous object?",
+      "answer": "Object that emits its own light."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Give example of luminous object.",
+      "answer": "Sun."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is non-luminous object?",
+      "answer": "Object that does not emit light."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why moon is non-luminous?",
+      "answer": "It reflects sunlight."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is reflection?",
+      "answer": "Bouncing back of light."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a mirror?",
+      "answer": "Smooth surface that reflects light."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What type of image is formed by plane mirror?",
+      "answer": "Virtual image."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is lateral inversion?",
+      "answer": "Left-right reversal of image."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why image cannot be caught on screen?",
+      "answer": "It is virtual."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is refraction?",
+      "answer": "Bending of light in different medium."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Give example of refraction.",
+      "answer": "Bent pencil in water."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is dispersion?",
+      "answer": "Splitting of white light."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which colours form white light?",
+      "answer": "VIBGYOR."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is rainbow?",
+      "answer": "Natural spectrum of sunlight."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why rainbow has seven colours?",
+      "answer": "Due to dispersion."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is prism?",
+      "answer": "Transparent object with flat surfaces."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which colour deviates most?",
+      "answer": "Violet."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which colour deviates least?",
+      "answer": "Red."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is transparent material?",
+      "answer": "Allows light fully."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Give example of transparent material.",
+      "answer": "Glass."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is translucent material?",
+      "answer": "Allows partial light."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Give example of translucent material.",
+      "answer": "Butter paper."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is opaque material?",
+      "answer": "Does not allow light."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Give example of opaque material.",
+      "answer": "Wood."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is shadow?",
+      "answer": "Dark area formed when light is blocked."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why shadow is black?",
+      "answer": "No light reaches there."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Does transparent object form shadow?",
+      "answer": "No."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What affects size of shadow?",
+      "answer": "Distance of source and object."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "When are shadows longest?",
+      "answer": "Morning and evening."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is regular reflection?",
+      "answer": "Reflection from smooth surface."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is diffused reflection?",
+      "answer": "Reflection from rough surface."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why mirror forms clear image?",
+      "answer": "Regular reflection."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why wall does not form image?",
+      "answer": "Diffused reflection."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which mirror gives erect image?",
+      "answer": "Plane mirror."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which mirror gives diminished image?",
+      "answer": "Convex mirror."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which mirror is used in vehicles?",
+      "answer": "Convex mirror."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which mirror is used by dentist?",
+      "answer": "Concave mirror."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why concave mirror is used in torch?",
+      "answer": "Produces parallel rays."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is field of view?",
+      "answer": "Area visible in mirror."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which mirror has widest field of view?",
+      "answer": "Convex mirror."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is eye?",
+      "answer": "Sense organ for vision."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which part of eye forms image?",
+      "answer": "Retina."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which part controls light entry?",
+      "answer": "Pupil."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is iris?",
+      "answer": "Controls size of pupil."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is cornea?",
+      "answer": "Front transparent part of eye."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why we see objects?",
+      "answer": "Due to reflected light."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is scattering?",
+      "answer": "Spreading of light."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why sky appears blue?",
+      "answer": "Due to scattering."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is mirage?",
+      "answer": "Optical illusion due to refraction."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why stars twinkle?",
+      "answer": "Due to refraction."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is regular source of light?",
+      "answer": "Sun."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why black objects absorb heat?",
+      "answer": "They absorb more light."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why white objects reflect light?",
+      "answer": "They reflect most light."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why studying light is important?",
+      "answer": "Helps us understand vision."
+    }
+  ]
+}

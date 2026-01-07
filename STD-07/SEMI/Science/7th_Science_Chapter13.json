@@ -1,0 +1,1570 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.13",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Changes – Physical and Chemical"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A change in which no new substance is formed is called ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "biological",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "irreversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "physical"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "A change in which new substance is formed is called ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Melting of ice is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "irreversible",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "permanent",
+          "is_correct": false
+        }
+      ],
+      "answer": "physical"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Burning of paper is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which change is reversible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Burning wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rusting iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Freezing water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freezing water"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which change is irreversible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Melting wax",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Freezing water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rusting iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Boiling water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rusting iron"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Rusting is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which process involves formation of rust?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Melting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Boiling",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oxidation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Freezing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxidation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which substance is required for rusting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon dioxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which condition speeds up rusting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dry air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moist air",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vacuum",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moist air"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Cutting paper is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "irreversible",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "biological",
+          "is_correct": false
+        }
+      ],
+      "answer": "physical"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Digestion of food is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which change can be undone?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reversible",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Permanent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Biological",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reversible"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which change cannot be undone?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Irreversible",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Irreversible"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Formation of curd from milk is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "reversible",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which change involves change in state only?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Permanent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Irreversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which change gives heat and light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which change produces gas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Cooking of food is a ____ change.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "reversible",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which change changes colour of substance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical only",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical only"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of these is a physical change?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rusting iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Burning candle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dissolving sugar in water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking rice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dissolving sugar in water"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these is a chemical change?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Melting ice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Boiling water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rusting iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Freezing water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rusting iron"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which change forms ash?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Melting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Burning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Condensation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Burning"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which change is fast?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rusting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Burning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fermentation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Curd formation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Burning"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which change is slow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Burning matchstick",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rusting iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Explosion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lighting bulb",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rusting iron"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which change involves energy absorption?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Condensation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Melting",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rusting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Melting"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which change releases energy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Melting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Boiling",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Burning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Freezing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Burning"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which change does not form new substance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Permanent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Irreversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which change affects composition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which change affects shape only?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Irreversible",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Permanent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Rusting needs water and ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "hydrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "carbon dioxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "nitrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "oxygen"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which coating prevents rusting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Paint",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dust",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paint"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which metal rusts easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which process prevents rusting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxidation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Galvanization",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Burning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Melting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Galvanization"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which change is useful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Both physical and chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both physical and chemical"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which change occurs during respiration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which change occurs in photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which change is harmful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rusting iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Melting ice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Freezing water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rusting iron"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which change forms precipitate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which change produces smell?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which change is permanent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which change can be repeated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Irreversible",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reversible",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Permanent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reversible"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which change happens in fireworks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which change involves breaking bonds?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which change involves rearrangement of atoms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reversible",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is a physical change?",
+      "answer": "A change in which no new substance is formed."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is a chemical change?",
+      "answer": "A change in which new substance is formed."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Give one example of physical change.",
+      "answer": "Melting of ice."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Give one example of chemical change.",
+      "answer": "Rusting of iron."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is reversible change?",
+      "answer": "Change that can be undone."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is irreversible change?",
+      "answer": "Change that cannot be undone."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why melting is physical change?",
+      "answer": "No new substance is formed."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why burning is chemical change?",
+      "answer": "New substances are formed."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is rusting?",
+      "answer": "Formation of rust on iron."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which substances are needed for rusting?",
+      "answer": "Air and moisture."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why rusting is harmful?",
+      "answer": "It damages iron objects."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is galvanization?",
+      "answer": "Coating iron with zinc."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How painting prevents rusting?",
+      "answer": "Blocks air and moisture."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is oxidation?",
+      "answer": "Reaction with oxygen."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Is boiling water a chemical change?",
+      "answer": "No, it is physical change."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why cooking is chemical change?",
+      "answer": "Food properties change permanently."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is slow change?",
+      "answer": "Change that occurs slowly."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Give one slow change.",
+      "answer": "Rusting of iron."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is fast change?",
+      "answer": "Change that occurs quickly."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give one fast change.",
+      "answer": "Burning of paper."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is temporary change?",
+      "answer": "Change lasting short time."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is permanent change?",
+      "answer": "Change lasting forever."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is energy change?",
+      "answer": "Energy absorbed or released."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which change absorbs heat?",
+      "answer": "Melting."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which change releases heat?",
+      "answer": "Burning."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is precipitation?",
+      "answer": "Formation of solid from solution."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Give one chemical indicator.",
+      "answer": "Colour change."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What happens in digestion?",
+      "answer": "Chemical change of food."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why respiration is chemical change?",
+      "answer": "Energy is released."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happens in photosynthesis?",
+      "answer": "Food is formed chemically."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What change occurs in freezing?",
+      "answer": "Physical change."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What change occurs in curd formation?",
+      "answer": "Chemical change."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why tearing paper is physical change?",
+      "answer": "Composition remains same."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is fermentation?",
+      "answer": "Chemical change by microorganisms."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why fireworks are chemical change?",
+      "answer": "Heat and light produced."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What change occurs in baking?",
+      "answer": "Chemical change."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why rusting is slow?",
+      "answer": "Reaction takes time."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which change affects mass?",
+      "answer": "Chemical change."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which change affects shape?",
+      "answer": "Physical change."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is composition?",
+      "answer": "Substances present in material."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why physical change is useful?",
+      "answer": "Easy to reverse."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why chemical change is important?",
+      "answer": "Forms new substances."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What happens during burning candle?",
+      "answer": "Both physical and chemical changes."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is sublimation?",
+      "answer": "Solid directly changes to gas."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Is sublimation physical change?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why cutting vegetables is physical?",
+      "answer": "No new substance formed."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is corrosion?",
+      "answer": "Slow chemical damage of metals."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which metal does not rust?",
+      "answer": "Gold."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why aluminium does not rust easily?",
+      "answer": "Forms protective layer."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why changes are important?",
+      "answer": "They help in daily life."
+    }
+  ]
+}

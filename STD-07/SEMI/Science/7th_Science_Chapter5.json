@@ -1,0 +1,1512 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.5",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Food Safety"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Food safety means ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "good taste of food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "keeping food free from contamination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "selling food",
+          "is_correct": false
+        }
+      ],
+      "answer": "keeping food free from contamination"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Contaminated food can cause ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "strength",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "food poisoning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "food poisoning"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which microorganism commonly spoils food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bacteria",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Birds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plants",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Food poisoning mainly affects the ____ system.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "respiratory",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "digestive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "circulatory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "nervous",
+          "is_correct": false
+        }
+      ],
+      "answer": "digestive"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which practice helps prevent food contamination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dirty hands",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Covering food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Open storage",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Unwashed utensils",
+          "is_correct": false
+        }
+      ],
+      "answer": "Covering food"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which food spoils fastest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dry grains",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Milk",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sugar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salt",
+          "is_correct": false
+        }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Refrigeration helps food by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "drying it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "heating it",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "slowing microbial growth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "spoiling faster",
+          "is_correct": false
+        }
+      ],
+      "answer": "slowing microbial growth"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which method preserves food by removing water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Drying",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Boiling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drying"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Boiling food helps by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "adding taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "killing microbes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "changing color",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "drying",
+          "is_correct": false
+        }
+      ],
+      "answer": "killing microbes"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which preservative is natural?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sodium benzoate",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Chemicals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dyes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which vitamin is destroyed by overcooking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamin A",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vitamin B",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamin C",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamin D",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vitamin C"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which practice keeps food safe at home?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Washing hands",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Leaving food open",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Using dirty cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mixing raw and cooked food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Washing hands"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which food should be stored in airtight containers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cooked food",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Open food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spoiled food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cooked food"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which method uses cold temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Boiling",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Canning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Freezing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Drying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freezing"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which food is more prone to bacterial growth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fresh milk",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dry rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sugar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh milk"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which habit prevents food-borne diseases?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cleanliness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Improper cooking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Open storage",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cleanliness"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which gas is used in food packaging to preserve food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nitrogen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carbon dioxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which practice is unsafe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reheating food properly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Eating stale food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Covering food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Washing vegetables",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eating stale food"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which food preservation method uses vinegar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pickling",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Canning",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pickling"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which organism grows in stale food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bacteria",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Birds",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insects",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which sign shows spoiled food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good smell",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bad odor",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fresh look",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Proper color",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bad odor"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which practice avoids cross-contamination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Using same knife",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Separate utensils",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mixing foods",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Open cutting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Separate utensils"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which food must be washed before cooking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vegetables",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sugar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vegetables"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which factor promotes food spoilage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hygiene",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cleanliness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Refrigeration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heat"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which storage condition is best for grains?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dry place",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wet place",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Open place",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dirty place",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dry place"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which method increases shelf life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food preservation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Food wastage",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food exposure",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Food spoilage",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food preservation"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which bacteria causes food poisoning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Salmonella",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lactobacillus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rhizobium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Yeast",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salmonella"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which practice is important in school canteens?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hygiene",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Open food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Unclean water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hygiene"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which food should be avoided if stale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cooked rice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dry grains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sugar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cooked rice"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which habit ensures food safety?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hand washing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Eating uncovered food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Using dirty water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sharing utensils",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hand washing"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which food preservation uses sugar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jam making",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Canning",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jam making"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which method uses heat and airtight containers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Canning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Canning"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which water is safe for cooking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dirty water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Contaminated water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clean drinking water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Stagnant water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clean drinking water"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which food-borne disease causes vomiting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food poisoning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Asthma",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malaria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food poisoning"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which practice prevents insect contamination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Covering food",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Leaving food open",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Using dirty cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Open storage",
+          "is_correct": false
+        }
+      ],
+      "answer": "Covering food"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which place needs strict food safety?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Canteen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which food should be consumed fresh?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Milk products",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dry grains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sugar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Milk products"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which process removes germs from water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purification",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Boiling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which practice avoids food wastage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Proper storage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Leaving food open",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Overcooking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Throwing food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Proper storage"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which sign indicates food is unsafe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mould growth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fresh smell",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Normal color",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Good taste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mould growth"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which authority ensures food safety in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "FSSAI",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "WHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "UNESCO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "UNICEF",
+          "is_correct": false
+        }
+      ],
+      "answer": "FSSAI"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which practice is important while buying food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Checking expiry date",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignoring label",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Damaged packing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Open food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Checking expiry date"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which food is preserved by freezing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vegetables",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Dry grains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sugar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vegetables"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which practice helps maintain nutrients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Proper cooking",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Overcooking",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Burning food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Repeated reheating",
+          "is_correct": false
+        }
+      ],
+      "answer": "Proper cooking"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is food safety?",
+      "answer": "Food safety means keeping food safe from contamination."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why is food safety important?",
+      "answer": "It prevents food-borne diseases."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is food contamination?",
+      "answer": "Presence of harmful substances in food."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name one cause of food contamination.",
+      "answer": "Microorganisms."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is food poisoning?",
+      "answer": "Illness caused by eating contaminated food."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why should hands be washed before eating?",
+      "answer": "To remove germs."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why should food be covered?",
+      "answer": "To prevent contamination."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is food preservation?",
+      "answer": "Methods used to prevent food spoilage."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one food preservation method.",
+      "answer": "Refrigeration."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is refrigeration useful?",
+      "answer": "It slows growth of microbes."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is drying method?",
+      "answer": "Removing water from food."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is boiling effective?",
+      "answer": "It kills germs."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is pickling?",
+      "answer": "Preserving food using salt or vinegar."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should vegetables be washed?",
+      "answer": "To remove dirt and germs."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is cross-contamination?",
+      "answer": "Transfer of germs between foods."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why should raw and cooked food be kept separate?",
+      "answer": "To avoid contamination."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the role of preservatives?",
+      "answer": "To increase shelf life."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name a natural preservative.",
+      "answer": "Salt."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why should stale food be avoided?",
+      "answer": "It may cause illness."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a balanced diet?",
+      "answer": "Diet containing all nutrients."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is clean water important in cooking?",
+      "answer": "To avoid diseases."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is shelf life?",
+      "answer": "Time food remains safe to eat."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why should food labels be checked?",
+      "answer": "To know expiry date."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is mould?",
+      "answer": "Fungus growing on spoiled food."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why should overcooking be avoided?",
+      "answer": "It destroys nutrients."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is safe storage?",
+      "answer": "Proper keeping of food."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why should grains be stored dry?",
+      "answer": "To prevent spoilage."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is hygiene?",
+      "answer": "Clean habits to stay healthy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is kitchen hygiene important?",
+      "answer": "To prevent food contamination."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is food-borne disease?",
+      "answer": "Disease caused by unsafe food."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name one food-borne disease.",
+      "answer": "Food poisoning."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why should milk be boiled?",
+      "answer": "To kill harmful bacteria."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is canning?",
+      "answer": "Preserving food in airtight containers."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why should food not be left uncovered?",
+      "answer": "It attracts insects."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why should expiry date be checked?",
+      "answer": "To ensure food safety."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is reheating?",
+      "answer": "Heating cooked food again."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why should repeated reheating be avoided?",
+      "answer": "It spoils food quality."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is cleanliness important in canteens?",
+      "answer": "To avoid spread of disease."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is potable water?",
+      "answer": "Safe drinking water."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is junk food unsafe?",
+      "answer": "It lacks nutrients."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is malnutrition?",
+      "answer": "Lack of proper nutrition."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why should food waste be avoided?",
+      "answer": "To save resources."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is food inspection?",
+      "answer": "Checking food quality."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why should food be cooked properly?",
+      "answer": "To kill germs."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is FSSAI?",
+      "answer": "Authority ensuring food safety in India."
+    }
+  ]
+}

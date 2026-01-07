@@ -1,0 +1,1572 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.6",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Measurement of Physical Quantities"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Measurement means ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "guessing quantity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "comparing with standard unit",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "counting objects",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "estimating size",
+          "is_correct": false
+        }
+      ],
+      "answer": "comparing with standard unit"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is the SI unit of length?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Centimeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Meter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kilometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Millimeter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meter"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to measure length?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Measuring scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Balance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clock",
+          "is_correct": false
+        }
+      ],
+      "answer": "Measuring scale"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is the SI unit of mass?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gram",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kilogram",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Milligram",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tonne",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kilogram"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which instrument measures mass?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spring balance",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Beam balance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stopwatch",
+          "is_correct": false
+        }
+      ],
+      "answer": "Beam balance"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is the SI unit of time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Second",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Minute",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hour",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Day",
+          "is_correct": false
+        }
+      ],
+      "answer": "Second"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which device is used to measure time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Balance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Barometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clock"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which physical quantity is measured in meters?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Length",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temperature",
+          "is_correct": false
+        }
+      ],
+      "answer": "Length"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which physical quantity is measured in kilograms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Length",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which physical quantity is measured in seconds?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Length",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Volume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which instrument measures temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thermometer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Balance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is the SI unit of temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Celsius",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kelvin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fahrenheit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Joule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kelvin"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure volume of liquids?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kilogram",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Liter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Second",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liter"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which measuring instrument is used for small lengths?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meter scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vernier caliper",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stopwatch",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Thermometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vernier caliper"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which device measures very small thickness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meter scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vernier caliper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Screw gauge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Clock",
+          "is_correct": false
+        }
+      ],
+      "answer": "Screw gauge"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which physical quantity is measured using a measuring cylinder?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Volume",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Length",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Volume"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure speed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "m/s",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "m",
+          "is_correct": false
+        }
+      ],
+      "answer": "m/s"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Speed is the ratio of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "distance and time",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "mass and time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "length and mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "volume and mass",
+          "is_correct": false
+        }
+      ],
+      "answer": "distance and time"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which instrument measures atmospheric pressure?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Barometer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Balance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Barometer"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which quantity has magnitude only?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vector",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Scalar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Force",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Velocity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scalar"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which is a scalar quantity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Velocity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Force",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Acceleration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which is a vector quantity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Velocity",
+          "is_correct": true
+        }
+      ],
+      "answer": "Velocity"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the least count?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smallest value measured",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Largest value measured",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Zero error",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Total range",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smallest value measured"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which error occurs when zero reading is incorrect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Systematic error",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Zero error",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Random error",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Human error",
+          "is_correct": false
+        }
+      ],
+      "answer": "Zero error"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which instrument has jaws for measurement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Screw gauge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vernier caliper",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meter scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Balance",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vernier caliper"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which physical quantity is measured using stopwatch?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Length",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which unit is smaller?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Centimeter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kilometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Megameter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Centimeter"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which unit is larger?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Millimeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Centimeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Meter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Micrometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meter"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which physical quantity depends on direction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scalar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vector",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vector"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which quantity does not depend on direction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Velocity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Force",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Scalar",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Acceleration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scalar"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which instrument measures body temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laboratory thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clinical thermometer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clinical thermometer"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which range is marked on clinical thermometer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0–100°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "35–42°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "–10–110°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "0–50°C",
+          "is_correct": false
+        }
+      ],
+      "answer": "35–42°C"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which instrument measures time interval accurately?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clock",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stopwatch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Calendar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stopwatch"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which physical quantity is fundamental?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Force",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Length",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Volume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Length"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is NOT a fundamental quantity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Length",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": true
+        }
+      ],
+      "answer": "Speed"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which derived unit is used for speed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "m",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "m/s",
+          "is_correct": true
+        }
+      ],
+      "answer": "m/s"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which quantity is measured using spring balance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Weight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Volume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Weight"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Weight is a ____ quantity.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scalar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vector",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Constant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Derived",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vector"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which instrument is used in laboratories for precise measurement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ruler",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vernier caliper",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Measuring tape",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Yardstick",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vernier caliper"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure force?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Newton",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Joule",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Watt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pascal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure area?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "m²",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "m",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "m²"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure volume?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "m³",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "m",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "s",
+          "is_correct": false
+        }
+      ],
+      "answer": "m³"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which physical quantity changes with place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Weight",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Length",
+          "is_correct": false
+        }
+      ],
+      "answer": "Weight"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to measure curved length?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thread",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ruler",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Balance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Thermometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thread"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is measurement?",
+      "answer": "Measurement is comparison of an unknown quantity with a standard unit."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why is measurement important?",
+      "answer": "It helps in accuracy and comparison."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is a physical quantity?",
+      "answer": "Any measurable quantity is called physical quantity."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name two physical quantities.",
+      "answer": "Length and mass."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is SI unit?",
+      "answer": "International System of Units."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is SI unit of length?",
+      "answer": "Meter."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is SI unit of mass?",
+      "answer": "Kilogram."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is SI unit of time?",
+      "answer": "Second."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which instrument measures length?",
+      "answer": "Measuring scale."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which instrument measures mass?",
+      "answer": "Beam balance."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which instrument measures time?",
+      "answer": "Clock or stopwatch."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is volume?",
+      "answer": "Space occupied by an object."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which unit measures liquid volume?",
+      "answer": "Liter."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is temperature?",
+      "answer": "Measure of hotness or coldness."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which instrument measures temperature?",
+      "answer": "Thermometer."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is least count?",
+      "answer": "Smallest value an instrument can measure."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is zero error?",
+      "answer": "Error due to incorrect zero marking."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a scalar quantity?",
+      "answer": "Quantity with magnitude only."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Give one scalar quantity.",
+      "answer": "Mass."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a vector quantity?",
+      "answer": "Quantity with magnitude and direction."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give one vector quantity.",
+      "answer": "Velocity."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is speed?",
+      "answer": "Distance travelled per unit time."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which unit measures speed?",
+      "answer": "m/s."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is weight?",
+      "answer": "Gravitational force acting on mass."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why weight is vector?",
+      "answer": "It has direction."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is mass?",
+      "answer": "Amount of matter in an object."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Does mass change with place?",
+      "answer": "No."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Does weight change with place?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which instrument measures weight?",
+      "answer": "Spring balance."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is time interval?",
+      "answer": "Duration between two events."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which instrument measures small thickness?",
+      "answer": "Screw gauge."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which instrument measures small length accurately?",
+      "answer": "Vernier caliper."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is derived quantity?",
+      "answer": "Quantity obtained from fundamental quantities."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Give one derived quantity.",
+      "answer": "Speed."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is fundamental quantity?",
+      "answer": "Basic physical quantity."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Name one fundamental quantity.",
+      "answer": "Length."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is area?",
+      "answer": "Product of length and breadth."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which unit measures area?",
+      "answer": "Square meter."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is volume unit?",
+      "answer": "Cubic meter."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is curved length?",
+      "answer": "Length of a curved path."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How is curved length measured?",
+      "answer": "Using thread."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is laboratory thermometer used for?",
+      "answer": "Measuring high temperatures."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is clinical thermometer used for?",
+      "answer": "Measuring body temperature."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why standard units are needed?",
+      "answer": "For uniformity in measurement."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is error in measurement?",
+      "answer": "Difference between true and measured value."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Name one cause of error.",
+      "answer": "Human error."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is precision?",
+      "answer": "Closeness of repeated measurements."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is accuracy?",
+      "answer": "Closeness to true value."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which quantity is measured in seconds?",
+      "answer": "Time."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which quantity is measured in meters?",
+      "answer": "Length."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which quantity is measured in kilograms?",
+      "answer": "Mass."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why SI units are preferred?",
+      "answer": "They are internationally accepted."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is measurement range?",
+      "answer": "Minimum to maximum value measurable."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which unit is used for force?",
+      "answer": "Newton."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which quantity is measured using barometer?",
+      "answer": "Atmospheric pressure."
+    }
+  ]
+}

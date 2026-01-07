@@ -1,0 +1,1652 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.3",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Properties of Natural Resources"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Natural resources are obtained from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Factories",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Laboratories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Machines",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a natural resource?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron ore",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron ore"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Air is a ____ resource.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Man-made",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Natural",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Artificial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Synthetic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Natural"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Water is essential for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only plants",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All living beings",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Machines",
+          "is_correct": false
+        }
+      ],
+      "answer": "All living beings"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which resource is renewable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Coal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Petroleum",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Natural gas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which resource is non-renewable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Coal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Soil is important for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Construction only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Growing plants",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Growing plants"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which property of water helps aquatic life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Solvent property",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Solvent property"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which gas is most abundant in air?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon dioxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nitrogen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nitrogen"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which natural resource is used for respiration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Sun is a source of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Minerals",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Energy"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which property makes water a universal solvent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Colorless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Transparency",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ability to dissolve substances",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Density",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ability to dissolve substances"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which resource provides fuel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Coal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which natural resource is used in making cement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Limestone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Limestone"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which resource is obtained from plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Coal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Petroleum",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which natural resource supports life directly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Minerals",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rocks",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which resource is formed over millions of years?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which property of soil affects crop growth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Texture",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shape",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Size",
+          "is_correct": false
+        }
+      ],
+      "answer": "Texture"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which resource helps in generating electricity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which natural resource is exhausted fastest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fossil fuels",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fossil fuels"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which property of air supports burning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Density",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pressure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oxygen content",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Moisture",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxygen content"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which resource is called fossil fuel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which resource helps in transportation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both air and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both air and water"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which property of water regulates body temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Density",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "High heat capacity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taste",
+          "is_correct": false
+        }
+      ],
+      "answer": "High heat capacity"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which resource is used to make glass?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sand",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clay",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rock",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sand"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which resource is obtained by mining?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Minerals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Minerals"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which resource is renewable but limited?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wind",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which property of soil allows air circulation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Porosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hardness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Porosity"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which natural resource is essential for photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Both air and water",
+          "is_correct": true
+        }
+      ],
+      "answer": "Both air and water"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which resource is used for irrigation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which natural resource helps prevent erosion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vegetation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vegetation"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which property of air causes wind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pressure difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Density",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Humidity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pressure difference"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which resource is the main source of metals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rocks",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rocks"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which resource is needed to produce oxygen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plants",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plants"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which property makes water suitable for drinking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Density",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purity"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which resource is overused by humans?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fossil fuels",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wind",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fossil fuels"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which natural resource is stored in dams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which property of soil holds water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Texture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water retention",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temperature",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water retention"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which resource is required for combustion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which natural resource is essential for survival?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Coal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which resource is used to make fertilizers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Minerals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wind",
+          "is_correct": false
+        }
+      ],
+      "answer": "Minerals"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which natural resource is unevenly distributed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wind",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which property of water supports marine life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Transparency",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Solubility of gases",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Density",
+          "is_correct": false
+        }
+      ],
+      "answer": "Solubility of gases"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which resource takes longest to renew?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Coal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Air",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which natural resource helps maintain climate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which resource is used in making paper?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Coal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plastic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which property of air helps flying?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pressure",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Density",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buoyancy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Temperature",
+          "is_correct": false
+        }
+      ],
+      "answer": "Buoyancy"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which natural resource is affected by pollution most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both air and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both air and water"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which resource should be conserved for future?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Natural resources",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Machines",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buildings",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Roads",
+          "is_correct": false
+        }
+      ],
+      "answer": "Natural resources"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are natural resources?",
+      "answer": "Resources obtained from nature are natural resources."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name two natural resources.",
+      "answer": "Air and water."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are natural resources important?",
+      "answer": "They support life and development."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a renewable resource?",
+      "answer": "A resource that can be replenished naturally."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Give one non-renewable resource.",
+      "answer": "Coal."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is water essential?",
+      "answer": "It is needed for all life processes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is fossil fuel?",
+      "answer": "Fuel formed over millions of years."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is air important?",
+      "answer": "It is needed for respiration."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is soil used for?",
+      "answer": "Growing plants."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is mineral resource?",
+      "answer": "Resources obtained by mining."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is water conservation?",
+      "answer": "Saving water."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should resources be conserved?",
+      "answer": "To prevent depletion."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is air pollution?",
+      "answer": "Contamination of air."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is water pollution?",
+      "answer": "Contamination of water."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is soil conservation important?",
+      "answer": "To maintain fertility."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is solar energy?",
+      "answer": "Energy from the sun."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is wind energy?",
+      "answer": "Energy from wind."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which resource helps plants grow?",
+      "answer": "Soil."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are fossil fuels limited?",
+      "answer": "They take millions of years to form."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which gas supports burning?",
+      "answer": "Oxygen."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What property of water dissolves substances?",
+      "answer": "Solvent property."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which resource regulates climate?",
+      "answer": "Air."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is vegetation important?",
+      "answer": "It prevents soil erosion."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which resource is needed for irrigation?",
+      "answer": "Water."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is resource conservation?",
+      "answer": "Wise use of resources."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which resource is used for drinking?",
+      "answer": "Water."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is coal non-renewable?",
+      "answer": "It cannot be replaced quickly."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What causes wind?",
+      "answer": "Pressure difference in air."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which resource produces oxygen?",
+      "answer": "Plants."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which resource is affected most by pollution?",
+      "answer": "Air and water."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why should forests be conserved?",
+      "answer": "They protect environment."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which resource provides fuel?",
+      "answer": "Coal."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What property of soil holds water?",
+      "answer": "Water retention."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which resource helps generate electricity?",
+      "answer": "Wind."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is climate maintenance resource?",
+      "answer": "Air."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which resource is overused?",
+      "answer": "Fossil fuels."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is sunlight renewable?",
+      "answer": "It is continuously available."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which resource is stored in dams?",
+      "answer": "Water."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which resource helps transportation?",
+      "answer": "Air and water."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why conserve minerals?",
+      "answer": "They are limited."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What resource supports marine life?",
+      "answer": "Water."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which resource is unevenly distributed?",
+      "answer": "Water."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why save natural resources?",
+      "answer": "For future generations."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which resource takes long to renew?",
+      "answer": "Coal."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is environmental conservation?",
+      "answer": "Protecting natural resources."
+    }
+  ]
+}

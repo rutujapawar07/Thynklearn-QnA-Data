@@ -1,0 +1,1656 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.14",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Elements, Compounds and Mixtures"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "An element is a substance made up of ____ kind of atoms.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "many",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "one",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "different",
+          "is_correct": false
+        }
+      ],
+      "answer": "one"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is an element?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sugar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is a compound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is a mixture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carbon dioxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The smallest particle of an element is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "molecule",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "atom",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "compound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cell",
+          "is_correct": false
+        }
+      ],
+      "answer": "atom"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Elements are classified as ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "metals and non-metals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "solids and liquids",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "pure and impure",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "atoms and molecules",
+          "is_correct": false
+        }
+      ],
+      "answer": "metals and non-metals"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is a metal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sulphur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carbon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a non-metal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sulphur",
+          "is_correct": true
+        }
+      ],
+      "answer": "Sulphur"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which element is liquid at room temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which compound is formed by two elements?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mixture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atom",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Molecule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Compound",
+          "is_correct": true
+        }
+      ],
+      "answer": "Compound"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Water is a compound of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hydrogen and oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "oxygen and nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "carbon and oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "hydrogen and nitrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "hydrogen and oxygen"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Salt is a compound of sodium and ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "chlorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "hydrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "carbon",
+          "is_correct": false
+        }
+      ],
+      "answer": "chlorine"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a pure substance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Salt",
+          "is_correct": true
+        }
+      ],
+      "answer": "Salt"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a mixture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Milk",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which type of mixture has uniform composition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heterogeneous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Homogeneous",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Compound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Element",
+          "is_correct": false
+        }
+      ],
+      "answer": "Homogeneous"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Air is a ____ mixture.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "homogeneous",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "heterogeneous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "solid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "liquid",
+          "is_correct": false
+        }
+      ],
+      "answer": "homogeneous"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Sand and water form a ____ mixture.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "homogeneous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "compound",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "heterogeneous",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "solution",
+          "is_correct": false
+        }
+      ],
+      "answer": "heterogeneous"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of the following is a solution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oil and water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sand and water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Chalk and water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt and water"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate salt from water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedimentation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evaporation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Decantation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate sand from water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Filtration",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Crystallization",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Distillation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Filtration"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which method separates two solids of different sizes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sieving",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Distillation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sieving"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate cream from milk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedimentation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Churning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Evaporation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Churning"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which method separates liquids with different boiling points?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Distillation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sieving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Distillation"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate iron filings from sand?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic separation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sieving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnetic separation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate insoluble solids?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Distillation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Condensation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Filtration"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which mixture can be separated by handpicking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sand and salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rice and stones",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Salt and water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Milk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rice and stones"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which property of mixture allows separation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Physical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Atomic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nuclear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which method is used to purify drinking water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Churning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sieving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Magnetism",
+          "is_correct": false
+        }
+      ],
+      "answer": "Filtration"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which method separates coloured substances?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chromatography",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sieving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decantation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chromatography"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which is a homogeneous mixture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Milk",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sand",
+          "is_correct": false
+        }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which is a heterogeneous mixture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt solution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Soil",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sugar solution",
+          "is_correct": false
+        }
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which method separates mud from water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedimentation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Crystallization",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Distillation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sedimentation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which method is used to obtain crystals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Crystallization",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Decantation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sieving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crystallization"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which substance cannot be separated by physical methods?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mixture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Element",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Compound",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Solution",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compound"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which has fixed composition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mixture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compound",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compound"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which does not have fixed composition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Compound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Element",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mixture",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mixture"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which property is same throughout solution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Composition",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Taste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temperature",
+          "is_correct": false
+        }
+      ],
+      "answer": "Composition"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate oil and water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Decantation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sieving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evaporation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Decantation"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following is a solution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Milk",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Salt water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt water"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which element supports combustion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hydrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carbon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which element is essential for life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which mixture contains two or more substances?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Element",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compound",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mixture",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mixture"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which method is used to separate gases?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Distillation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fractional distillation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sieving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fractional distillation"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which element is represented by symbol Fe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silver",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which compound is used in cooking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sugar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which mixture can be separated easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Compound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Element",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mixture",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mixture"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which method separates soluble solids?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Evaporation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Filtration",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sieving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Handpicking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is an element?",
+      "answer": "A pure substance made of one kind of atom."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Give one example of element.",
+      "answer": "Oxygen."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a compound?",
+      "answer": "Substance formed by chemical combination of elements."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Give one example of compound.",
+      "answer": "Water."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a mixture?",
+      "answer": "Combination of two or more substances."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Give one example of mixture.",
+      "answer": "Air."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is an atom?",
+      "answer": "Smallest particle of an element."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a molecule?",
+      "answer": "Smallest particle of compound."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name two metals.",
+      "answer": "Iron and copper."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name two non-metals.",
+      "answer": "Oxygen and sulphur."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which element is liquid?",
+      "answer": "Mercury."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is homogeneous mixture?",
+      "answer": "Mixture with uniform composition."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Give example of homogeneous mixture.",
+      "answer": "Salt solution."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is heterogeneous mixture?",
+      "answer": "Mixture with non-uniform composition."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Give example of heterogeneous mixture.",
+      "answer": "Soil."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is solution?",
+      "answer": "Homogeneous mixture."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is solute?",
+      "answer": "Substance dissolved."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is solvent?",
+      "answer": "Substance that dissolves solute."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which method separates sand and water?",
+      "answer": "Filtration."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which method separates salt and water?",
+      "answer": "Evaporation."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is sedimentation?",
+      "answer": "Settling of heavy particles."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is decantation?",
+      "answer": "Pouring out clear liquid."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is filtration?",
+      "answer": "Separating insoluble solid."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is sieving?",
+      "answer": "Separating solids by size."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is handpicking?",
+      "answer": "Manual separation."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is magnetic separation?",
+      "answer": "Using magnet to separate iron."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is churning?",
+      "answer": "Separating cream from milk."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is distillation?",
+      "answer": "Separation by boiling points."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is crystallization?",
+      "answer": "Formation of crystals."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is chromatography?",
+      "answer": "Separation of colored substances."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which substances cannot be separated physically?",
+      "answer": "Compounds."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why mixtures can be separated?",
+      "answer": "No chemical bonding."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which has fixed composition?",
+      "answer": "Compound."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which has variable composition?",
+      "answer": "Mixture."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why water is compound?",
+      "answer": "It has fixed ratio of elements."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why air is mixture?",
+      "answer": "Composition varies."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is purification?",
+      "answer": "Removing impurities."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which method purifies water?",
+      "answer": "Filtration."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why separation is important?",
+      "answer": "To remove unwanted materials."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which element supports life?",
+      "answer": "Oxygen."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is physical property?",
+      "answer": "Property without chemical change."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is chemical property?",
+      "answer": "Property involving chemical change."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why compounds have properties different?",
+      "answer": "Elements combine chemically."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why mixtures retain properties?",
+      "answer": "No chemical change."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is alloy?",
+      "answer": "Mixture of metals."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Give example of alloy.",
+      "answer": "Brass."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is solubility?",
+      "answer": "Ability to dissolve."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which method separates oil and water?",
+      "answer": "Decantation."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is fraction?",
+      "answer": "Part of mixture."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why salt dissolves in water?",
+      "answer": "It is soluble."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which element is needed for respiration?",
+      "answer": "Oxygen."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why mixtures are useful?",
+      "answer": "Easy to prepare."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why compounds are important?",
+      "answer": "They form substances."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is impurity?",
+      "answer": "Unwanted substance."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why separation methods are needed?",
+      "answer": "To obtain pure substances."
+    }
+  ]
+}

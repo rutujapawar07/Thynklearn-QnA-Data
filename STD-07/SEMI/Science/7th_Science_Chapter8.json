@@ -1,0 +1,1572 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.8",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Static Electricity"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Static electricity is produced due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "flow of charges",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "resting charges",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "moving charges",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "chemical reaction",
+          "is_correct": false
+        }
+      ],
+      "answer": "resting charges"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which object gets charged easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Metal spoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic comb",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wooden stick",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass plate",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic comb"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Rubbing a balloon on hair produces ____ electricity.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "current",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "static",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "thermal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "chemical",
+          "is_correct": false
+        }
+      ],
+      "answer": "static"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which charge is present in excess on negatively charged body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Protons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neutrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atoms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrons"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which charge is present in excess on positively charged body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Electrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neutrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Protons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Molecules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protons"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Like charges ____ each other.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "attract",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "repel",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "destroy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ignore",
+          "is_correct": false
+        }
+      ],
+      "answer": "repel"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Unlike charges ____ each other.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "repel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ignore",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "destroy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "attract",
+          "is_correct": true
+        }
+      ],
+      "answer": "attract"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which material is a good insulator?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which material is a good conductor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Copper",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which instrument detects electric charge?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ammeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Voltmeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electroscope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Galvanometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electroscope"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Charging by rubbing is also called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "induction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "friction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "radiation",
+          "is_correct": false
+        }
+      ],
+      "answer": "friction"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Charging by touching is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "friction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "induction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "conduction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "radiation",
+          "is_correct": false
+        }
+      ],
+      "answer": "conduction"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Charging without touching is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "friction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "induction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "radiation",
+          "is_correct": false
+        }
+      ],
+      "answer": "induction"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which scientist discovered electric charge?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Newton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Franklin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Einstein",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Faraday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franklin"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Lightning is an example of ____ electricity.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "current",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "static",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "thermal",
+          "is_correct": false
+        }
+      ],
+      "answer": "static"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which charge flows in electric current?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Protons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neutrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atoms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrons"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Static electricity is usually produced by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rubbing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "heating",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cooling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "burning",
+          "is_correct": false
+        }
+      ],
+      "answer": "rubbing"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which object loses electrons when positively charged?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Negatively charged body",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neutral body",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Positively charged body",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Insulator",
+          "is_correct": false
+        }
+      ],
+      "answer": "Positively charged body"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which object gains electrons when negatively charged?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neutral body",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Positively charged body",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Negatively charged body",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Conductor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Negatively charged body"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which material does not allow charges to flow freely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conductor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Insulator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wire",
+          "is_correct": false
+        }
+      ],
+      "answer": "Insulator"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which phenomenon causes lightning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Static charges",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetism",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gravity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Heat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Static charges"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which charge remains stationary in static electricity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moving charge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Resting charge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flowing charge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neutral charge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Resting charge"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of the following is an insulator?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rubber",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Silver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rubber"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which object can be charged by friction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Metal rod",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic rod",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wet cloth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic rod"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which force acts between electric charges?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electrostatic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Frictional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrostatic"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Electrostatic force can be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "only attractive",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "only repulsive",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "both attractive and repulsive",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "neither",
+          "is_correct": false
+        }
+      ],
+      "answer": "both attractive and repulsive"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which condition causes sparks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "High charge difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Low temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Low pressure",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No charge",
+          "is_correct": false
+        }
+      ],
+      "answer": "High charge difference"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which charge is transferred during rubbing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Protons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neutrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atoms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrons"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which object remains neutral?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equal protons and electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "More electrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "More protons",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No atoms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal protons and electrons"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which weather condition increases static electricity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humid",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rainy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dry"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which material reduces static charge?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Moist air",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moist air"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which object is used for lightning protection?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Insulator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lightning conductor",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic rod",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber wire",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lightning conductor"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Lightning conductor works on principle of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "insulation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "conduction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "friction",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "induction",
+          "is_correct": false
+        }
+      ],
+      "answer": "conduction"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which place is lightning conductor installed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Underground",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On roof",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Inside room",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In water",
+          "is_correct": false
+        }
+      ],
+      "answer": "On roof"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which charge moves in conductor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Protons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neutrons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Atoms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrons"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which is NOT a conductor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plastic",
+          "is_correct": true
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which is NOT an insulator?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rubber",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": true
+        }
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which phenomenon shows attraction of paper bits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetism",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Static electricity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gravity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Static electricity"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which force causes hair to stand when combed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrostatic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frictional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrostatic"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which charge remains after rubbing glass rod with silk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Negative",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Positive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Neutral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No charge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Positive"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which charge remains after rubbing plastic rod with wool?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Positive",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Negative",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Neutral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No charge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Negative"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which effect is due to static electricity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Electric shock",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lightning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sparks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which device is used to show charges?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Electroscope",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ammeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Voltmeter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Battery",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electroscope"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which scientist explained lightning as electric phenomenon?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Newton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Franklin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tesla",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Faraday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Franklin"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is static electricity?",
+      "answer": "Electricity produced by stationary charges."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How is static electricity produced?",
+      "answer": "By rubbing two objects."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Which charges move during rubbing?",
+      "answer": "Electrons."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What happens when two like charges come close?",
+      "answer": "They repel each other."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What happens when unlike charges come close?",
+      "answer": "They attract each other."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is an electric charge?",
+      "answer": "Property of matter causing electric effects."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name two types of charges.",
+      "answer": "Positive and negative."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is conduction?",
+      "answer": "Charging by touching."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is induction?",
+      "answer": "Charging without contact."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is friction?",
+      "answer": "Rubbing of two surfaces."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is an electroscope?",
+      "answer": "Instrument to detect electric charge."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which material is a conductor?",
+      "answer": "Copper."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which material is an insulator?",
+      "answer": "Plastic."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why plastic is an insulator?",
+      "answer": "It does not allow free flow of electrons."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why metals are conductors?",
+      "answer": "They have free electrons."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is lightning?",
+      "answer": "Sudden discharge of static electricity."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "When does lightning occur?",
+      "answer": "When charge difference is high."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why lightning is dangerous?",
+      "answer": "It releases huge energy."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is lightning conductor?",
+      "answer": "Device to protect buildings."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Where is lightning conductor installed?",
+      "answer": "On top of buildings."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How does lightning conductor work?",
+      "answer": "Provides safe path to charges."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which charge is transferred during charging?",
+      "answer": "Electrons."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why dry weather increases static electricity?",
+      "answer": "Less moisture to leak charges."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does moist air reduce static electricity?",
+      "answer": "It allows charges to escape."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is electrostatic force?",
+      "answer": "Force between electric charges."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Is electrostatic force contact force?",
+      "answer": "No."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Can static electricity cause sparks?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why do hair stand on combing?",
+      "answer": "Due to like charges repelling."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why paper bits stick to comb?",
+      "answer": "Due to electrostatic attraction."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is neutral object?",
+      "answer": "Object with equal charges."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How does object become positively charged?",
+      "answer": "By losing electrons."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does object become negatively charged?",
+      "answer": "By gaining electrons."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why do we get shock sometimes?",
+      "answer": "Due to sudden discharge."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which charge remains stationary?",
+      "answer": "Static charge."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is difference between static and current electricity?",
+      "answer": "Static charges do not flow."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Give one example of static electricity.",
+      "answer": "Balloon sticking to wall."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is earthing?",
+      "answer": "Connecting charges to ground."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why earthing is important?",
+      "answer": "To prevent electric shock."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is safety measure during lightning?",
+      "answer": "Stay indoors."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why should not stand under tree during lightning?",
+      "answer": "High risk of strike."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which charge is present in nucleus?",
+      "answer": "Protons."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which charge is present outside nucleus?",
+      "answer": "Electrons."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why rubber shoes are worn?",
+      "answer": "They prevent electric shock."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why lightning produces sound?",
+      "answer": "Due to rapid heating of air."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is spark?",
+      "answer": "Sudden discharge of electricity."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Which object attracts light objects after rubbing?",
+      "answer": "Plastic comb."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why metal objects lose static charge easily?",
+      "answer": "Charges flow to ground."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is discharge?",
+      "answer": "Flow of charges."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which force acts at a distance?",
+      "answer": "Electrostatic force."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is static electricity temporary?",
+      "answer": "Charges leak away."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is charging by friction?",
+      "answer": "Charging by rubbing objects."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why glass rod becomes positively charged?",
+      "answer": "It loses electrons."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why plastic rod becomes negatively charged?",
+      "answer": "It gains electrons."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is electrical safety?",
+      "answer": "Preventing electric accidents."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is lightning conductor connected to earth?",
+      "answer": "To safely transfer charges."
+    }
+  ]
+}

@@ -1,0 +1,1600 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.20",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "In the World of Stars"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Stars are ____ celestial bodies.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "non-luminous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "luminous",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "artificial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "rocky",
+          "is_correct": false
+        }
+      ],
+      "answer": "luminous"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is the nearest star to Earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Polaris",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sirius",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Alpha Centauri",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The Sun is a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "planet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "satellite",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "star",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "asteroid",
+          "is_correct": false
+        }
+      ],
+      "answer": "star"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Stars appear to twinkle because of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "refraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "scattering",
+          "is_correct": false
+        }
+      ],
+      "answer": "refraction"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which celestial body reflects sunlight?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Star",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Planet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Galaxy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planet"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which planet is known as Morning Star?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mercury",
+          "is_correct": false
+        }
+      ],
+      "answer": "Venus"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which planet is known as Evening Star?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mercury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Venus",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Saturn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Venus"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which galaxy do we live in?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Andromeda",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Milky Way",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Whirlpool",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sombrero",
+          "is_correct": false
+        }
+      ],
+      "answer": "Milky Way"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "A group of stars forming a pattern is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "galaxy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "orbit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "constellation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "asteroid",
+          "is_correct": false
+        }
+      ],
+      "answer": "constellation"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which constellation looks like a hunter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ursa Major",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Orion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cassiopeia",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leo",
+          "is_correct": false
+        }
+      ],
+      "answer": "Orion"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which constellation helps to locate North direction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Orion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Leo",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ursa Major",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scorpius",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ursa Major"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which star is called Pole Star?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sirius",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Polaris",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vega",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polaris"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Pole Star appears stationary because it lies ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "near South Pole",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "in equatorial plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "near North Pole",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "far away",
+          "is_correct": false
+        }
+      ],
+      "answer": "near North Pole"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which constellation looks like a big bear?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Leo",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Orion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ursa Major",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cassiopeia",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ursa Major"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which celestial bodies revolve around stars?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Satellites",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Planets",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Comets",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Asteroids",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planets"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Planets do not twinkle because they ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "emit light",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "are very big",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "reflect light steadily",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "are closer",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflect light steadily"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which planet is the brightest in night sky?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saturn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Venus"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which celestial body has its own light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Star",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Asteroid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Star"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which object moves in an elliptical orbit around Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Star",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Constellation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Galaxy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Comet"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which object is made of ice and dust?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Asteroid",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Meteor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Satellite",
+          "is_correct": false
+        }
+      ],
+      "answer": "Comet"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which celestial body burns in atmosphere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Asteroid",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Meteor",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Comet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Planet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meteor"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which celestial body reaches Earth surface?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Meteor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Meteorite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Comet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Asteroid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meteorite"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which planet is called Red Planet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mars",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Saturn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which planet has rings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jupiter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saturn",
+          "is_correct": true
+        }
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which planet is farthest from Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neptune",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Uranus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Saturn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jupiter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neptune"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which planet is smallest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which planet is largest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saturn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jupiter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which planet supports life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Venus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Jupiter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which planet is known as Blue Planet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Neptune",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uranus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which celestial body is Earth's natural satellite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Star",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Moon shines because it ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "produces light",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "reflects sunlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "burns gas",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "stores light",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflects sunlight"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Phases of Moon occur due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth's shadow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon's rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Moon's revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sun's movement",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon's revolution"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Time taken by Moon to revolve around Earth is about ____ days.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "27",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "365",
+          "is_correct": false
+        }
+      ],
+      "answer": "27"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which day Moon is not visible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Full Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "New Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Half Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Crescent",
+          "is_correct": false
+        }
+      ],
+      "answer": "New Moon"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which day Moon appears full?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "New Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Half Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Full Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Crescent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Full Moon"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to observe stars?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Microscope",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Periscope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Telescope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spectroscope",
+          "is_correct": false
+        }
+      ],
+      "answer": "Telescope"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which celestial body is called shooting star?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Comet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Asteroid",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Meteor",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Planet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Meteor"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which celestial body has tail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Asteroid",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Comet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Moon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Comet"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which star is brightest in night sky?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Polaris",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sirius",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vega",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sirius"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which galaxy is nearest to Milky Way?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Andromeda",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sombrero",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Whirlpool",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pinwheel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Andromeda"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which celestial body revolves around planet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Star",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Comet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Asteroid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which celestial body forms solar system?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Planets",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sun and planets",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Galaxies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun and planets"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which celestial body is called dwarf planet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pluto",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pluto"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which planet is tilted on its axis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Uranus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saturn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uranus"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which constellation looks like letter W?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Leo",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Orion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cassiopeia",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scorpius",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cassiopeia"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What are stars?",
+      "answer": "Stars are huge luminous celestial bodies."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why stars appear to twinkle?",
+      "answer": "Due to refraction of light."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the Sun?",
+      "answer": "The Sun is a star."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why Sun is important?",
+      "answer": "It provides heat and light."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are planets?",
+      "answer": "Celestial bodies revolving around stars."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why planets do not twinkle?",
+      "answer": "They reflect light steadily."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a galaxy?",
+      "answer": "Group of billions of stars."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name our galaxy.",
+      "answer": "Milky Way."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is constellation?",
+      "answer": "Group of stars forming pattern."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name one constellation.",
+      "answer": "Ursa Major."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is Pole Star?",
+      "answer": "Star near North direction."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why Pole Star is important?",
+      "answer": "Helps find direction."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is Ursa Major?",
+      "answer": "A constellation."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is Orion?",
+      "answer": "A hunter constellation."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is Moon?",
+      "answer": "Natural satellite of Earth."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why Moon shines?",
+      "answer": "Reflects sunlight."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What causes phases of Moon?",
+      "answer": "Moon's revolution."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is New Moon?",
+      "answer": "Moon not visible."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is Full Moon?",
+      "answer": "Moon fully visible."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is Half Moon?",
+      "answer": "Half of Moon visible."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is comet?",
+      "answer": "Celestial body of ice and dust."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why comets have tail?",
+      "answer": "Due to Sun's heat."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is asteroid?",
+      "answer": "Rocky body revolving Sun."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is meteor?",
+      "answer": "Burning space rock."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is meteorite?",
+      "answer": "Meteor reaching Earth."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is shooting star?",
+      "answer": "Meteor."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which planet has rings?",
+      "answer": "Saturn."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which planet is red?",
+      "answer": "Mars."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which planet is largest?",
+      "answer": "Jupiter."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which planet is smallest?",
+      "answer": "Mercury."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is solar system?",
+      "answer": "Sun and its planets."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name inner planets.",
+      "answer": "Mercury, Venus, Earth, Mars."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name outer planets.",
+      "answer": "Jupiter, Saturn, Uranus, Neptune."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which planet supports life?",
+      "answer": "Earth."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which planet is blue?",
+      "answer": "Earth."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is telescope?",
+      "answer": "Instrument to observe space."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why telescope is used?",
+      "answer": "To see distant objects."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is Milky Way?",
+      "answer": "Our galaxy."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is Andromeda?",
+      "answer": "Nearest galaxy."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is dwarf planet?",
+      "answer": "Small planet-like body."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Name a dwarf planet.",
+      "answer": "Pluto."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is satellite?",
+      "answer": "Body revolving planet."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name Earth's satellite.",
+      "answer": "Moon."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why Moon has no atmosphere?",
+      "answer": "Low gravity."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why astronauts walk slowly on Moon?",
+      "answer": "Less gravity."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is gravity?",
+      "answer": "Force of attraction."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why stars appear fixed?",
+      "answer": "Very far away."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which star is brightest at night?",
+      "answer": "Sirius."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why study stars?",
+      "answer": "To understand universe."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is universe?",
+      "answer": "Everything in space."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why constellations change position?",
+      "answer": "Earth's movement."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is celestial sphere?",
+      "answer": "Imaginary sphere of sky."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why stars differ in brightness?",
+      "answer": "Different distances and sizes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is light year?",
+      "answer": "Distance travelled by light."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why astronomy is important?",
+      "answer": "Helps study space."
+    }
+  ]
+}

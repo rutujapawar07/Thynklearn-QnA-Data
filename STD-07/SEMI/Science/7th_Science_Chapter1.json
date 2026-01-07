@@ -1,0 +1,1310 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.1",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "The Living World: Adaptations and Classification"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Adaptation means _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sudden change",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "gradual change helping survival",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "temporary change",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "artificial change",
+          "is_correct": false
+        }
+      ],
+      "answer": "gradual change helping survival"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which plant is adapted to live in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cactus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lotus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Banyan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Acacia",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lotus"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which plant has spines instead of leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lotus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cactus",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sunflower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cactus"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Aquatic plants have ____ stems.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hard",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "woody",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "hollow",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "thorny",
+          "is_correct": false
+        }
+      ],
+      "answer": "hollow"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which feature helps lotus leaves float?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hairy surface",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waxy coating",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rough surface",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waxy coating"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Desert plants store water in their ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "roots",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "leaves",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "stems",
+          "is_correct": true
+        }
+      ],
+      "answer": "stems"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animal is called amphibian?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fish",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Snake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Frog",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Fish breathe through ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "lungs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "skin",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "gills",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "nose",
+          "is_correct": false
+        }
+      ],
+      "answer": "gills"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Camel is adapted to live in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "desert",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "desert"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which adaptation helps birds fly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heavy bones",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hollow bones",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Scales",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teeth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hollow bones"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Conical shape of trees helps in ____ regions.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "aquatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "snowy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "grassland",
+          "is_correct": false
+        }
+      ],
+      "answer": "snowy"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal has padded paws?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tiger",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Goat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Webbed feet help animals in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "running",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "flying",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "swimming",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "swimming"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Herbivores mainly eat ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "meat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "plants",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "insects",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fish",
+          "is_correct": false
+        }
+      ],
+      "answer": "plants"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Carnivores have ____ teeth.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sharp",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "round",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "small",
+          "is_correct": false
+        }
+      ],
+      "answer": "sharp"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which plant is parasitic?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cactus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cuscuta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lotus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Banyan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cuscuta"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Insectivorous plants eat insects to get ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "nitrogen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "nitrogen"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which animal lives both on land and water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Snake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Frog",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Scales in fish help in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "breathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "protection",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "hearing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "smelling",
+          "is_correct": false
+        }
+      ],
+      "answer": "protection"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which habitat has scarcity of water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aquatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Desert",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Grassland",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desert"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which feature helps frogs breathe in water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "lungs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "skin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "gills",
+          "is_correct": false
+        }
+      ],
+      "answer": "skin"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Animals with long ears can ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "see better",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hear distant sounds",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "swim",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fly",
+          "is_correct": false
+        }
+      ],
+      "answer": "hear distant sounds"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which bird has webbed feet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sparrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Crow",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Duck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Parrot",
+          "is_correct": false
+        }
+      ],
+      "answer": "Duck"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which animal is adapted for fast running?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tortoise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Frog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fish",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deer"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Desert animals are mostly active at ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "night",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "evening",
+          "is_correct": false
+        }
+      ],
+      "answer": "night"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which adaptation helps animals blend with surroundings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Camouflage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hibernation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Photosynthesis",
+          "is_correct": false
+        }
+      ],
+      "answer": "Camouflage"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Binomial nomenclature was given by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Darwin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Newton",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linnaeus",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Galileo",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linnaeus"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Scientific name has ____ parts.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "one",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "two",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "three",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "four",
+          "is_correct": false
+        }
+      ],
+      "answer": "two"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Genus comes ____ species in scientific name.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "after",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "before",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "with",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "instead of",
+          "is_correct": false
+        }
+      ],
+      "answer": "before"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why are organisms classified?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "to confuse",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "to study easily",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "to destroy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "to mix",
+          "is_correct": false
+        }
+      ],
+      "answer": "to study easily"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which level is highest in classification?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Species",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Genus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Family",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kingdom",
+          "is_correct": true
+        }
+      ],
+      "answer": "Kingdom"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which scientist proposed theory of evolution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Linnaeus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Darwin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mendel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Einstein",
+          "is_correct": false
+        }
+      ],
+      "answer": "Darwin"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Survival of the fittest means ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "weak survive",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "best adapted survive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "all survive",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "none survive",
+          "is_correct": false
+        }
+      ],
+      "answer": "best adapted survive"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which animal has gills and fins?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Frog",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fish",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Duck",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Snake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fish"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which plant grows in snowy regions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cactus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deodar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lotus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Grass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deodar"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which adaptation prevents water loss in desert plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Large leaves",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spines",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thin stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Soft roots",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spines"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Animals living in groups gain ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "danger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "protection",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "weakness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "confusion",
+          "is_correct": false
+        }
+      ],
+      "answer": "protection"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which animal has long hind legs for jumping?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Frog",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Camel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Snake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Classification helps to know ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "habits only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "relationships",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "colors",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sizes",
+          "is_correct": false
+        }
+      ],
+      "answer": "relationships"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Main aim of adaptation is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "survival",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "survival"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is adaptation?",
+      "answer": "Adaptation is a gradual change that helps organisms survive."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why are adaptations necessary?",
+      "answer": "They help organisms live in specific habitats."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Name one aquatic plant.",
+      "answer": "Lotus."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Why do lotus leaves have waxy coating?",
+      "answer": "To prevent rotting and repel water."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is habitat?",
+      "answer": "The natural home of an organism."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why cactus has spines?",
+      "answer": "To reduce water loss."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is camouflage?",
+      "answer": "Blending with surroundings for protection."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name one desert animal.",
+      "answer": "Camel."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How do fish breathe?",
+      "answer": "Through gills."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are amphibians?",
+      "answer": "Animals living on land and in water."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why are frog legs long?",
+      "answer": "For jumping and swimming."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is classification?",
+      "answer": "Grouping organisms based on similarities."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is classification useful?",
+      "answer": "It makes study easier."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who gave binomial nomenclature?",
+      "answer": "Carl Linnaeus."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are two parts of scientific name?",
+      "answer": "Genus and species."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why are snowy region trees conical?",
+      "answer": "To prevent snow accumulation."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are herbivores?",
+      "answer": "Animals that eat plants."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are carnivores?",
+      "answer": "Animals that eat other animals."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name an insectivorous plant.",
+      "answer": "Venus flytrap."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why do desert animals have thick skin?",
+      "answer": "To prevent water loss."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What helps birds fly?",
+      "answer": "Hollow bones and wings."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why do deer have long ears?",
+      "answer": "To hear predators."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is evolution?",
+      "answer": "Gradual change in organisms over time."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who proposed theory of evolution?",
+      "answer": "Charles Darwin."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is survival of the fittest?",
+      "answer": "Best adapted organisms survive."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why do aquatic plants have hollow stems?",
+      "answer": "For floating."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name one forest animal.",
+      "answer": "Tiger."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why do fish have streamlined body?",
+      "answer": "To swim easily."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is taxonomy?",
+      "answer": "Science of classification."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is main goal of adaptation?",
+      "answer": "Survival in environment."
+    }
+  ]
+}

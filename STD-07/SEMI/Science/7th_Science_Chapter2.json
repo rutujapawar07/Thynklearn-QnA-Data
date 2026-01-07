@@ -1,0 +1,1508 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.2",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Plants: Structure and Function"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which part of a plant anchors it to the soil?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Leaf",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Root",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Root"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which root system is found in wheat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tap root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fibrous root",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Adventitious root",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aerial root",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fibrous root"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Tap root system is commonly found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Monocots",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dicots",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Algae",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fungi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dicots"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which part of the root absorbs water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root cap",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Root hair",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Primary root",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lateral root",
+          "is_correct": false
+        }
+      ],
+      "answer": "Root hair"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which tissue transports water in plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Phloem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Xylem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cambium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cortex",
+          "is_correct": false
+        }
+      ],
+      "answer": "Xylem"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which tissue transports food in plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Xylem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Phloem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Epidermis",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pith",
+          "is_correct": false
+        }
+      ],
+      "answer": "Phloem"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Stem helps in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Photosynthesis only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Support and transport",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Reproduction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Support and transport"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which stem is found underground?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Runner",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rhizome",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Creeper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Climber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rhizome"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Potato is an example of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Leaf",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stem",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stem"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which leaf part makes food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midrib",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lamina",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Petiole",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lamina"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Photosynthesis occurs mainly in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Roots",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Flowers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Leaves"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which pigment is essential for photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carotene",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chlorophyll",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Xanthophyll",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anthocyanin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chlorophyll"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Stomata are mainly found on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Function of stomata is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Transpiration and gas exchange",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Support",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Transport",
+          "is_correct": false
+        }
+      ],
+      "answer": "Transpiration and gas exchange"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Loss of water vapour from leaves is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Respiration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Transpiration",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Photosynthesis",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Excretion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which vein pattern is seen in mango leaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parallel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Reticulate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "None",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Circular",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reticulate"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Parallel venation is seen in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pea",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mango",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Grass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rose",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grass"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which part protects the flower bud?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sepal",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Petal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stamen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pistil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sepal"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Male reproductive part of flower is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sepal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Petal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stamen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pistil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stamen"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Female reproductive part of flower is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stamen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anther",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Filament",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pistil",
+          "is_correct": true
+        }
+      ],
+      "answer": "Pistil"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which part of stamen produces pollen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Filament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anther",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ovary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stigma",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anther"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which part of pistil receives pollen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ovary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Style",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stigma",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ovule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stigma"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "After fertilization, ovule becomes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fruit",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Seed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flower",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaf",
+          "is_correct": false
+        }
+      ],
+      "answer": "Seed"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "After fertilization, ovary becomes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fruit",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stem",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fruit"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which flower part attracts insects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sepal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Petal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stamen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pistil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Petal"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Transport of water occurs through ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Xylem",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Phloem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cambium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Epidermis",
+          "is_correct": false
+        }
+      ],
+      "answer": "Xylem"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Transport of food occurs through ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Xylem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Phloem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cortex",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pith",
+          "is_correct": false
+        }
+      ],
+      "answer": "Phloem"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which plant has modified leaves as spines?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rose",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cactus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lotus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mango",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cactus"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which modification helps plants climb?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tendrils",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Roots",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tendrils"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which leaf modification stores food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tendril",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fleshy leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fleshy leaf"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which root modification stores food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prop root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fibrous root",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tap root",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storage root",
+          "is_correct": true
+        }
+      ],
+      "answer": "Storage root"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which plant has prop roots?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Banyan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pea",
+          "is_correct": false
+        }
+      ],
+      "answer": "Banyan"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which stem modification helps in spreading?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuber",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Runner",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bulb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rhizome",
+          "is_correct": false
+        }
+      ],
+      "answer": "Runner"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which plant shows runner stem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strawberry",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Potato",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ginger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Onion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strawberry"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which plant has bulb?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ginger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Onion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Potato",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mint",
+          "is_correct": false
+        }
+      ],
+      "answer": "Onion"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which part conducts food to all parts?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Leaf",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stem"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which tissue provides support to plant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parenchyma",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Collenchyma",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sclerenchyma",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": true
+        }
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which tissue is living?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Xylem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Phloem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sclerenchyma",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Both A and C",
+          "is_correct": false
+        }
+      ],
+      "answer": "Phloem"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which plant part shows transpiration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which process prepares food in plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Respiration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Transpiration",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Photosynthesis",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Germination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which gas is released during photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon dioxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which gas is used during photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon dioxide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which factor is essential for photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Light",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sound",
+          "is_correct": false
+        }
+      ],
+      "answer": "Light"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which part of plant bears leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flower",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Seed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stem"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which structure connects leaf to stem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lamina",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Petiole",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Midrib",
+          "is_correct": false
+        }
+      ],
+      "answer": "Petiole"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which leaf part contains veins?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Petiole",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lamina",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Margin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Apex",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lamina"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the main function of roots?",
+      "answer": "Roots anchor the plant and absorb water and minerals."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is tap root system?",
+      "answer": "A root system with one main root and lateral branches."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is fibrous root system?",
+      "answer": "A root system with many thin roots of equal size."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are root hairs?",
+      "answer": "Thin structures that absorb water from soil."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name one function of stem.",
+      "answer": "Stem supports the plant."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is stem important?",
+      "answer": "It transports water and food."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is photosynthesis?",
+      "answer": "Process by which plants make food using sunlight."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which part of leaf makes food?",
+      "answer": "Lamina."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why are leaves green?",
+      "answer": "Because of chlorophyll."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are stomata?",
+      "answer": "Tiny pores on leaves for gas exchange."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define transpiration.",
+      "answer": "Loss of water vapour from leaves."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two functions of leaf.",
+      "answer": "Photosynthesis and transpiration."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is venation?",
+      "answer": "Arrangement of veins in leaf."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is reticulate venation?",
+      "answer": "Veins forming a network."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is parallel venation?",
+      "answer": "Veins running parallel."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a flower?",
+      "answer": "Reproductive part of plant."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name male part of flower.",
+      "answer": "Stamen."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name female part of flower.",
+      "answer": "Pistil."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is pollination?",
+      "answer": "Transfer of pollen from anther to stigma."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is fertilization?",
+      "answer": "Fusion of male and female gametes."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What happens to ovule after fertilization?",
+      "answer": "It becomes seed."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What happens to ovary after fertilization?",
+      "answer": "It becomes fruit."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is xylem?",
+      "answer": "Tissue that transports water."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is phloem?",
+      "answer": "Tissue that transports food."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are plant tissues?",
+      "answer": "Groups of similar cells performing same function."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name one modified root.",
+      "answer": "Storage root."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is prop root?",
+      "answer": "Root providing extra support."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name one modified stem.",
+      "answer": "Tuber."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is a runner?",
+      "answer": "A horizontal stem that spreads."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is a bulb?",
+      "answer": "Underground stem storing food."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why cactus has spines?",
+      "answer": "To reduce water loss."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is chlorophyll?",
+      "answer": "Green pigment needed for photosynthesis."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which gas plants release?",
+      "answer": "Oxygen."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which gas plants use?",
+      "answer": "Carbon dioxide."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are flowers colourful?",
+      "answer": "To attract insects."
+    }
+  ]
+}

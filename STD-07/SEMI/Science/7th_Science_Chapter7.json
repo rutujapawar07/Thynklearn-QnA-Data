@@ -1,0 +1,1572 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.7",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Motion, Force and Work"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Motion means change in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "shape",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "position",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "color",
+          "is_correct": false
+        }
+      ],
+      "answer": "position"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "An object is said to be at rest if it does not change its ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "direction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "position",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shape",
+          "is_correct": false
+        }
+      ],
+      "answer": "position"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is an example of motion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Book on table",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parked car",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Moving bicycle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Standing tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moving bicycle"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which motion repeats itself at equal intervals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Random motion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rectilinear motion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Periodic motion",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Circular motion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Periodic motion"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Motion along a straight line is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular motion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Periodic motion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rectilinear motion",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oscillatory motion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rectilinear motion"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by a ceiling fan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rectilinear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Circular",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Periodic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oscillatory",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circular"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "To and fro motion is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oscillatory",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Random",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Linear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oscillatory"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by a pendulum?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Random",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oscillatory",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rectilinear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oscillatory"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure speed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "m",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "m/s",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "kg",
+          "is_correct": false
+        }
+      ],
+      "answer": "m/s"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Speed is defined as ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "distance × time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "distance ÷ time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "time ÷ distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "mass ÷ time",
+          "is_correct": false
+        }
+      ],
+      "answer": "distance ÷ time"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which physical quantity tells how fast an object moves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Speed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speed"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is a contact force?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gravitational force",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic force",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Frictional force",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Electrostatic force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frictional force"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which force opposes motion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic force",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gravitational force",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Friction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Muscular force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friction"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Friction is a ____ force.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Non-contact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Contact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Balanced",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Natural",
+          "is_correct": false
+        }
+      ],
+      "answer": "Contact"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which force pulls objects towards Earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrostatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Frictional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravitational"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which force acts without contact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muscular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Frictional",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mechanical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravitational"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which force is exerted by muscles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Muscular",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frictional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Muscular"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which force helps us walk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Frictional",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Electrostatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gravitational",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frictional"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which force can change shape of object?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Force",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Motion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Force"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which force slows down moving objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muscular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Friction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Electrostatic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friction"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by Earth around Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Periodic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both A and B",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rectilinear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by a train on straight track?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rectilinear",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oscillatory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Random",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rectilinear"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which motion has no fixed path?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rectilinear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Random",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Periodic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Random"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which quantity is measured in newton?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Force",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Force"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "SI unit of force is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joule",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Newton",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Watt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Meter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Work is said to be done when ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "force is applied",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "force causes motion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "object moves fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "object is heavy",
+          "is_correct": false
+        }
+      ],
+      "answer": "force causes motion"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "If no movement occurs, work done is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "maximum",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "zero",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "negative",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "infinite",
+          "is_correct": false
+        }
+      ],
+      "answer": "zero"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "SI unit of work is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Newton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Watt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Joule",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Meter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which factor affects work done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Force",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both force and distance",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both force and distance"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which machine reduces effort?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lever",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pulley",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Inclined plane",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which force acts between magnets?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Frictional",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Magnetic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Muscular",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnetic"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which force acts between charged objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrostatic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frictional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrostatic"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by hands of clock?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Periodic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both A and B",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Random",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which force is useful and harmful both?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friction",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Electrostatic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friction"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which force produces heat due to rubbing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrostatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Friction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gravitational",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friction"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which force can stop a moving object?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Force",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Force"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by a swing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rectilinear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oscillatory",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Random",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oscillatory"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which force changes direction of motion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Force",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Force"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which motion is shown by falling stone?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rectilinear",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Random",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oscillatory",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rectilinear"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which force is always attractive?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrostatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Frictional",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravitational"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which force acts on all objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrostatic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gravitational",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Muscular",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravitational"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which force needs contact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gravitational",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Frictional",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Electrostatic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frictional"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which motion is fastest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Slow motion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fast motion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stationary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fast motion"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which motion has fixed path?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Random",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rectilinear",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oscillatory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Irregular",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rectilinear"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is motion?",
+      "answer": "Motion is change in position of an object with time."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is rest?",
+      "answer": "State when an object does not change position."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Give one example of motion.",
+      "answer": "Moving car."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Give one example of rest.",
+      "answer": "Book on table."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is rectilinear motion?",
+      "answer": "Motion in straight line."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is circular motion?",
+      "answer": "Motion along a circular path."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is periodic motion?",
+      "answer": "Motion repeating at equal intervals."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is oscillatory motion?",
+      "answer": "To and fro motion."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define speed.",
+      "answer": "Distance travelled per unit time."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Write formula of speed.",
+      "answer": "Speed = Distance ÷ Time."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is force?",
+      "answer": "A push or pull acting on an object."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are effects of force?",
+      "answer": "It can change shape or motion."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is friction?",
+      "answer": "Force opposing motion."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Is friction contact force?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one non-contact force.",
+      "answer": "Gravitational force."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is gravitational force?",
+      "answer": "Force of attraction by Earth."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is muscular force?",
+      "answer": "Force exerted by muscles."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is magnetic force?",
+      "answer": "Force between magnets."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is electrostatic force?",
+      "answer": "Force between charged objects."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is friction useful?",
+      "answer": "It helps in walking."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is friction harmful?",
+      "answer": "It causes wear and tear."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is work?",
+      "answer": "Work is done when force causes displacement."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "When is work not done?",
+      "answer": "When there is no movement."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Write SI unit of force.",
+      "answer": "Newton."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Write SI unit of work.",
+      "answer": "Joule."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What factors affect work?",
+      "answer": "Force and distance."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is machine?",
+      "answer": "Device that makes work easier."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name one simple machine.",
+      "answer": "Lever."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is motion of pendulum?",
+      "answer": "Oscillatory motion."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What motion does fan show?",
+      "answer": "Circular motion."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is random motion?",
+      "answer": "Motion without fixed path."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What motion does Earth show?",
+      "answer": "Circular and periodic."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is contact force?",
+      "answer": "Force requiring contact."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is non-contact force?",
+      "answer": "Force without contact."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which force slows moving objects?",
+      "answer": "Friction."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which force attracts objects?",
+      "answer": "Gravitational force."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is speed unit?",
+      "answer": "m/s."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is fast motion?",
+      "answer": "High speed motion."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is slow motion?",
+      "answer": "Low speed motion."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is distance?",
+      "answer": "Length of path travelled."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Does force always produce motion?",
+      "answer": "No."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Can force change shape?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is effect of friction on machines?",
+      "answer": "Reduces efficiency."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why oiling reduces friction?",
+      "answer": "It smoothens surfaces."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is balanced force?",
+      "answer": "Equal forces acting oppositely."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is unbalanced force?",
+      "answer": "Unequal forces acting."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What motion does swing show?",
+      "answer": "Oscillatory motion."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is direction?",
+      "answer": "Path in which object moves."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is magnitude?",
+      "answer": "Size of quantity."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What force acts on all objects?",
+      "answer": "Gravitational force."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which force always attracts?",
+      "answer": "Gravitational force."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is mechanical energy?",
+      "answer": "Energy due to motion or position."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Does work need force?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Give one example of work.",
+      "answer": "Lifting a box."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why friction produces heat?",
+      "answer": "Due to rubbing surfaces."
+    }
+  ]
+}

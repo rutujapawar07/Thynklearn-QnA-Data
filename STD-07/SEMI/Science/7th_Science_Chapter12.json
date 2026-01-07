@@ -1,0 +1,1626 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.12",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "The Muscular System and Digestive System in Human Being"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Muscles help in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "thinking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "digestion only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "breathing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "movement"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which type of muscles are attached to bones?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Skeletal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Involuntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skeletal"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which muscles work without our control?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voluntary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Smooth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Striated",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smooth"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which muscle is found in heart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Voluntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cardiac"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which muscle never gets tired?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Voluntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cardiac"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which muscles show striations?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Skeletal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Involuntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skeletal"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which muscle movement is slow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Smooth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Voluntary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Striated",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smooth"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which muscles help in walking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Skeletal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Involuntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skeletal"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which muscle contracts rhythmically?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Voluntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cardiac"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which muscle is under conscious control?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Involuntary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Voluntary",
+          "is_correct": true
+        }
+      ],
+      "answer": "Voluntary"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Digestion starts in the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mouth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "oesophagus",
+          "is_correct": false
+        }
+      ],
+      "answer": "mouth"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which organ helps in chewing food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tongue",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teeth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Liver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teeth"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which juice is secreted in mouth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saliva",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gastric juice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pancreatic juice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saliva"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which enzyme digests starch?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pepsin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Amylase",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lipase",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trypsin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Amylase"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which organ connects mouth to stomach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Trachea",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oesophagus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Liver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oesophagus"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which organ stores food temporarily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Liver",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stomach",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pancreas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which juice is secreted by stomach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saliva",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bile",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gastric juice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pancreatic juice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gastric juice"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which enzyme digests proteins?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Amylase",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lipase",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pepsin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Maltase",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which organ produces bile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pancreas",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Liver",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Small intestine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liver"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which juice helps in fat digestion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gastric",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saliva",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bile",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pancreatic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bile"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which organ absorbs digested food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Small intestine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oesophagus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which structure increases absorption area?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Villi",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ribs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alveoli",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Muscles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Villi"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which organ absorbs water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Large intestine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Liver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large intestine"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Removal of undigested food is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Digestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Assimilation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Egestion",
+          "is_correct": true
+        }
+      ],
+      "answer": "Egestion"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which system controls digestion movements?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Muscular",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nervous",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Respiratory",
+          "is_correct": false
+        }
+      ],
+      "answer": "Muscular"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which muscle movement pushes food forward?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voluntary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Peristalsis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flexion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peristalsis"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which muscles are found in alimentary canal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Smooth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Striated",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smooth"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which nutrient gives energy for muscles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carbohydrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamins",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbohydrates"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which mineral is needed for muscle contraction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Calcium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sodium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which vitamin helps muscle health?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamin A",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vitamin B",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamin D",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamin C",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vitamin B"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which system helps in body movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Digestive",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Muscular",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Respiratory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Circulatory",
+          "is_correct": false
+        }
+      ],
+      "answer": "Muscular"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which organ churns food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Liver",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stomach",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pancreas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which enzyme digests fats?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pepsin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Amylase",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lipase",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Trypsin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lipase"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which juice is secreted by pancreas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gastric",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pancreatic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Saliva",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pancreatic"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which part of intestine is longest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small intestine",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Large intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oesophagus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which muscle type is spindle-shaped?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Smooth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Striated",
+          "is_correct": false
+        }
+      ],
+      "answer": "Smooth"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which muscle fibers are branched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Voluntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cardiac"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which digestive organ is J-shaped?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stomach",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Liver",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pancreas",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Intestine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which process uses absorbed food for growth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Digestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Assimilation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Egestion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Assimilation"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which muscle helps in breathing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Intercostal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Digestive",
+          "is_correct": false
+        }
+      ],
+      "answer": "Intercostal"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which system supplies nutrients to muscles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Digestive",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Respiratory",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Circulatory",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Excretory",
+          "is_correct": false
+        }
+      ],
+      "answer": "Circulatory"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which enzyme works in acidic medium?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Amylase",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lipase",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pepsin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Trypsin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which muscle is involuntary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Biceps",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Triceps",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Heart",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Leg muscle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heart"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which organ completes digestion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Small intestine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Liver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which system removes waste after digestion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muscular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Excretory",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Respiratory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nervous",
+          "is_correct": false
+        }
+      ],
+      "answer": "Excretory"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which juice neutralizes stomach acid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pancreatic juice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saliva",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gastric juice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pancreatic juice"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which muscle contracts and relaxes alternately?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Smooth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Skeletal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cardiac",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Voluntary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cardiac"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are muscles?",
+      "answer": "Muscles are tissues that help in movement."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is muscular system?",
+      "answer": "System that helps in body movement."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Name types of muscles.",
+      "answer": "Skeletal, smooth and cardiac."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are skeletal muscles?",
+      "answer": "Muscles attached to bones."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are smooth muscles?",
+      "answer": "Involuntary muscles found in organs."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are cardiac muscles?",
+      "answer": "Special muscles of heart."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which muscles are voluntary?",
+      "answer": "Skeletal muscles."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which muscles are involuntary?",
+      "answer": "Smooth and cardiac muscles."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why cardiac muscles never tire?",
+      "answer": "They work continuously."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is digestion?",
+      "answer": "Process of breaking food into simple substances."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name digestive organs.",
+      "answer": "Mouth, stomach, intestine."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Where does digestion start?",
+      "answer": "In the mouth."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is saliva?",
+      "answer": "Digestive juice in mouth."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Function of saliva?",
+      "answer": "Digests starch."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is oesophagus?",
+      "answer": "Food pipe."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is stomach?",
+      "answer": "J-shaped digestive organ."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is gastric juice?",
+      "answer": "Digestive juice of stomach."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Function of pepsin?",
+      "answer": "Digests proteins."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is bile?",
+      "answer": "Digestive juice from liver."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Function of bile?",
+      "answer": "Helps in fat digestion."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is pancreas?",
+      "answer": "Organ secreting pancreatic juice."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is pancreatic juice?",
+      "answer": "Digestive juice digesting all nutrients."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Where does digestion complete?",
+      "answer": "Small intestine."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are villi?",
+      "answer": "Finger-like structures for absorption."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Function of villi?",
+      "answer": "Increase absorption."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is absorption?",
+      "answer": "Taking digested food into blood."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is assimilation?",
+      "answer": "Using food for growth."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is egestion?",
+      "answer": "Removal of undigested food."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is peristalsis?",
+      "answer": "Wave-like muscle movement."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which muscles help peristalsis?",
+      "answer": "Smooth muscles."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which muscles help in breathing?",
+      "answer": "Intercostal muscles."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why muscles need energy?",
+      "answer": "For contraction."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which nutrient gives muscle energy?",
+      "answer": "Carbohydrates."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which mineral is needed for muscles?",
+      "answer": "Calcium."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why digestion is important?",
+      "answer": "Provides nutrients."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is large intestine?",
+      "answer": "Absorbs water."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Function of tongue?",
+      "answer": "Helps swallowing."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Function of teeth?",
+      "answer": "Chewing food."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why food is chewed?",
+      "answer": "To ease digestion."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which muscle bends arm?",
+      "answer": "Biceps."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which muscle straightens arm?",
+      "answer": "Triceps."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is enzyme?",
+      "answer": "Biological catalyst."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why digestion is mechanical and chemical?",
+      "answer": "Both processes occur."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which system controls muscle movement?",
+      "answer": "Nervous system."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why healthy digestion is needed?",
+      "answer": "For proper growth."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What causes indigestion?",
+      "answer": "Improper digestion."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why water is needed in digestion?",
+      "answer": "Helps absorption."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is balanced diet?",
+      "answer": "Diet with all nutrients."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why exercise is important for muscles?",
+      "answer": "Keeps them strong."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why digestive health is important?",
+      "answer": "Maintains body functions."
+    }
+  ]
+}

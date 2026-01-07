@@ -1,0 +1,998 @@
+{
+  "chapter": "1.1 It’s a Small World",
+  "subject": "Std 7 English",
+  "total_questions": 150,
+  "mcq_questions": [
+    {
+      "id": 1,
+      "question": "What is the central idea of the poem?",
+      "options": {
+        "A": "Unity among all people",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "What does the title suggest?",
+      "options": {
+        "A": "The world is interconnected",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which emotion is shared by everyone?",
+      "options": {
+        "A": "Hope",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which emotion is also shared by everyone?",
+      "options": {
+        "A": "Fear",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "What does a smile stand for in the poem?",
+      "options": {
+        "A": "Friendship",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "What physically separates people?",
+      "options": {
+        "A": "Mountains and oceans",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "What connects people emotionally?",
+      "options": {
+        "A": "Common feelings",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "How many moons are mentioned?",
+      "options": {
+        "A": "One",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "How many suns are mentioned?",
+      "options": {
+        "A": "One",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "What does the poem encourage?",
+      "options": {
+        "A": "Peaceful living",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "What does the word 'aware' mean?",
+      "options": {
+        "A": "Conscious",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "What feeling creates friendship?",
+      "options": {
+        "A": "A smile",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "What is repeated in the poem?",
+      "options": {
+        "A": "The main message",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "What is the tone of the poem?",
+      "options": {
+        "A": "Hopeful",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "What is the mood of the poem?",
+      "options": {
+        "A": "Positive",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "What does the poem say about humanity?",
+      "options": {
+        "A": "All are alike",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "What does the poem value more?",
+      "options": {
+        "A": "Unity over differences",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "What makes the world feel small?",
+      "options": {
+        "A": "Human connection",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "What is shared beyond borders?",
+      "options": {
+        "A": "Emotions",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "What does the poem promote?",
+      "options": {
+        "A": "Global harmony",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "What does the moon symbolize?",
+      "options": {
+        "A": "Oneness",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "What does the sun symbolize?",
+      "options": {
+        "A": "Unity",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "What does the poem say about differences?",
+      "options": {
+        "A": "They are minor",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "What does the poem say about fear?",
+      "options": {
+        "A": "Everyone has fears",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "What does the poem say about hope?",
+      "options": {
+        "A": "Everyone has hopes",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "What is the form of the poem?",
+      "options": {
+        "A": "Song",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Why is repetition used?",
+      "options": {
+        "A": "To stress the idea",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "What does 'share' highlight?",
+      "options": {
+        "A": "Togetherness",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "What makes friendship universal?",
+      "options": {
+        "A": "Smile",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "What does the poem suggest about people?",
+      "options": {
+        "A": "They are similar",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "What connects people worldwide?",
+      "options": {
+        "A": "Common emotions",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "What message is given to students?",
+      "options": {
+        "A": "Unity is important",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "What kind of world is described?",
+      "options": {
+        "A": "Shared world",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "What does the poem reduce?",
+      "options": {
+        "A": "Differences",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "What does the poem increase?",
+      "options": {
+        "A": "Understanding",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "What feeling joins people?",
+      "options": {
+        "A": "Friendship",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "What is the takeaway of the poem?",
+      "options": {
+        "A": "Peace",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "What does the poem teach?",
+      "options": {
+        "A": "Human equality",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "What is highlighted more?",
+      "options": {
+        "A": "Sameness",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "What is ignored in the poem?",
+      "options": {
+        "A": "Boundaries",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "What brings people closer?",
+      "options": {
+        "A": "Shared feelings",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "What is common to all humans?",
+      "options": {
+        "A": "Emotions",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "What idea dominates the poem?",
+      "options": {
+        "A": "Unity",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "What does the poem remind us?",
+      "options": {
+        "A": "We are connected",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "What creates harmony?",
+      "options": {
+        "A": "Understanding",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "What does the poem inspire?",
+      "options": {
+        "A": "Togetherness",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "What does the poem reject?",
+      "options": {
+        "A": "Division",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "What makes the world small?",
+      "options": {
+        "A": "Human bonds",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "What is the poem’s message?",
+      "options": {
+        "A": "Live as one",
+        "B": "Power",
+        "C": "Wealth",
+        "D": "Competition"
+      },
+      "answer": "A"
+    }
+  ],
+  "one_line_questions": [
+    {
+      "id": 1,
+      "question": "What is the theme of the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 2,
+      "question": "What does the title 'It’s a Small World' mean?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 3,
+      "question": "Name one shared human emotion.",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 4,
+      "question": "What emotion pairs are mentioned in the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 5,
+      "question": "What does a smile represent?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 6,
+      "question": "How many moons are there in the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 7,
+      "question": "How many suns are mentioned?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 8,
+      "question": "What divides people physically?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 9,
+      "question": "What unites people emotionally?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 10,
+      "question": "What message does the poem give?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 11,
+      "question": "What does the poem say about humanity?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 12,
+      "question": "What does the poem promote?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 13,
+      "question": "What kind of poem is it?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 14,
+      "question": "Why is repetition used in the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 15,
+      "question": "What does the word 'aware' mean?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 16,
+      "question": "What feeling creates friendship?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 17,
+      "question": "What does the golden sun symbolize?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 18,
+      "question": "What does the moon symbolize?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 19,
+      "question": "What is the tone of the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 20,
+      "question": "What is the mood of the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 21,
+      "question": "What makes the world feel small?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 22,
+      "question": "What does the poem say about differences?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 23,
+      "question": "What does the poem say about hope?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 24,
+      "question": "What does the poem say about fear?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 25,
+      "question": "What connects people across nations?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 26,
+      "question": "What is common despite cultures?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 27,
+      "question": "What does the poem encourage readers to do?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 28,
+      "question": "What does the poem teach students?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 29,
+      "question": "What value is emphasized most?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 30,
+      "question": "What human quality is celebrated?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 31,
+      "question": "What does the poem say about friendship?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 32,
+      "question": "What is shared among all people?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 33,
+      "question": "What brings harmony in the world?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 34,
+      "question": "What does the poem ignore?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 35,
+      "question": "What does the poem highlight?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 36,
+      "question": "What lesson does the poem give?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 37,
+      "question": "What idea is repeated in the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 38,
+      "question": "What makes friendship universal?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 39,
+      "question": "What does the poem inspire?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 40,
+      "question": "What is the central message?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 41,
+      "question": "What is the importance of awareness?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 42,
+      "question": "What creates understanding?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 43,
+      "question": "What reduces distance between people?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 44,
+      "question": "What does the poem say about equality?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 45,
+      "question": "What makes humans similar?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 46,
+      "question": "What does the poem say about unity?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 47,
+      "question": "What does the poem discourage?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 48,
+      "question": "What feeling binds people together?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 49,
+      "question": "What does the poem say about borders?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 50,
+      "question": "What does the poem remind us of?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 51,
+      "question": "What creates peace according to the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 52,
+      "question": "Why are mountains mentioned?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 53,
+      "question": "Why are oceans mentioned?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 54,
+      "question": "What does sharing emotions show?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 55,
+      "question": "What does the poem say about mankind?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 56,
+      "question": "What kind of world is described?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 57,
+      "question": "What does the poem suggest about life?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 58,
+      "question": "What does the poem emphasize?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 59,
+      "question": "What is the key takeaway?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 60,
+      "question": "What message is given to society?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 61,
+      "question": "What makes the poem meaningful?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 62,
+      "question": "What does the poem celebrate?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 63,
+      "question": "What is the poem’s moral?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 64,
+      "question": "What feeling spreads friendship?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 65,
+      "question": "What does the poem say about relationships?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 66,
+      "question": "What is common to all humans?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 67,
+      "question": "What does the poem say about togetherness?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 68,
+      "question": "What helps people understand each other?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 69,
+      "question": "What does the poem say about peace?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 70,
+      "question": "What does the poem say about harmony?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 71,
+      "question": "What does the poem teach about living?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 72,
+      "question": "What makes the poem universal?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 73,
+      "question": "What does the poem say about emotions?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 74,
+      "question": "What does the poem say about similarity?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 75,
+      "question": "What does the poem say about unity in diversity?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 76,
+      "question": "What is shared by everyone?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 77,
+      "question": "What does the poem say about compassion?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 78,
+      "question": "What does the poem say about kindness?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 79,
+      "question": "What makes the world united?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 80,
+      "question": "What does the poem say about cooperation?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 81,
+      "question": "What does the poem encourage globally?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 82,
+      "question": "What does the poem teach about humanity?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 83,
+      "question": "What does the poem say about understanding?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 84,
+      "question": "What does the poem say about friendship across borders?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 85,
+      "question": "What does the poem highlight about humans?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 86,
+      "question": "What does the poem say about common life experiences?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 87,
+      "question": "What does the poem say about shared feelings?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 88,
+      "question": "What does the poem suggest about global living?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 89,
+      "question": "What does the poem conclude?",
+      "answer": "It emphasizes unity and shared human emotions."
+    },
+    {
+      "id": 90,
+      "question": "What is the final message of the poem?",
+      "answer": "It emphasizes unity and shared human emotions."
+    }
+  ]
+}

@@ -1,0 +1,1600 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.10",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Disaster Management"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A disaster is a ____ event.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "planned",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sudden and harmful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "routine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "useful",
+          "is_correct": false
+        }
+      ],
+      "answer": "sudden and harmful"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a natural disaster?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fire accident",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earthquake",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Road accident",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gas leak",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Floods are mainly caused due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "earth movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "excess rainfall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "volcanic eruption",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cyclone only",
+          "is_correct": false
+        }
+      ],
+      "answer": "excess rainfall"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which disaster is caused by shaking of the earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earthquake",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Drought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Cyclones usually form over ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "deserts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "oceans",
+          "is_correct": true
+        }
+      ],
+      "answer": "oceans"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which disaster is caused by prolonged lack of rainfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drought",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tsunami",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drought"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which instrument measures earthquakes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anemometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Seismograph",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Thermometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Seismograph"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The point inside Earth where earthquake originates is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "focus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "epicenter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fault",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "crust",
+          "is_correct": false
+        }
+      ],
+      "answer": "focus"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The point on Earth's surface directly above focus is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "crater",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "fault",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "epicenter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "core",
+          "is_correct": false
+        }
+      ],
+      "answer": "epicenter"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which scale measures earthquake intensity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Richter scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Kelvin scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Beaufort scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Celsius scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Richter scale"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Tsunami is caused due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "volcanic eruption",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "undersea earthquake",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cyclone",
+          "is_correct": false
+        }
+      ],
+      "answer": "undersea earthquake"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which disaster involves violent winds and heavy rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cyclone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earthquake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cyclone"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a man-made disaster?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chemical leak",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tsunami",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chemical leak"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which gas leak disaster occurred in Bhopal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chlorine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ammonia",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "MIC",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Oxygen",
+          "is_correct": false
+        }
+      ],
+      "answer": "MIC"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which organization helps during disasters in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ISRO",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "NDRF",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "DRDO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "BARC",
+          "is_correct": false
+        }
+      ],
+      "answer": "NDRF"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "First aid is given ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "before disaster",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "during disaster",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "after disaster",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "anytime",
+          "is_correct": false
+        }
+      ],
+      "answer": "after disaster"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which disaster causes land to slide down?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Landslide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Landslide"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which disaster preparedness reduces loss?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignoring warnings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Panic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delay",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planning"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which warning system helps before cyclone?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traffic signal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Early warning system",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Alarm clock",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Electric bell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Early warning system"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which factor increases disaster damage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Preparedness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Awareness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Unplanned development",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Training",
+          "is_correct": false
+        }
+      ],
+      "answer": "Unplanned development"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which disaster is common in coastal areas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cyclone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Landslide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cyclone"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which disaster occurs due to forest fire?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Natural",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Man-made",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which safety step is correct during earthquake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Use lift",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hide under table",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Run outside immediately",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stand near window",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hide under table"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which disaster is caused by heavy snowfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Avalanche",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Avalanche"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which agency provides weather warnings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "IMD",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "WHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "UNESCO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "UNICEF",
+          "is_correct": false
+        }
+      ],
+      "answer": "IMD"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which disaster occurs suddenly without warning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earthquake",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Famine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which disaster affects agriculture most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Drought",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tsunami",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drought"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which material should be avoided during earthquake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Glass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Glass"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which safety kit is useful during disaster?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "First aid kit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Toy kit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tool box",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paint box",
+          "is_correct": false
+        }
+      ],
+      "answer": "First aid kit"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which disaster can be predicted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cyclone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Volcanic eruption",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Landslide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cyclone"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which disaster causes water scarcity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Drought",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tsunami",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drought"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which disaster causes loss of crops due to excess water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fire",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flood"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which activity increases flood risk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afforestation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deforestation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rainwater harvesting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which disaster management phase involves rescue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mitigation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparedness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Response",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Recovery",
+          "is_correct": false
+        }
+      ],
+      "answer": "Response"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which disaster management phase focuses on rebuilding?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Preparedness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Response",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Recovery",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Warning",
+          "is_correct": false
+        }
+      ],
+      "answer": "Recovery"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which natural disaster involves lava?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Volcano",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flood",
+          "is_correct": false
+        }
+      ],
+      "answer": "Volcano"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which disaster is related to tectonic plates?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earthquake",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cyclone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which disaster causes spread of diseases?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Volcano",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Avalanche",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flood"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which measure reduces disaster impact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Early warning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Late action",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring risk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No planning",
+          "is_correct": false
+        }
+      ],
+      "answer": "Early warning"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which disaster is caused by heavy rain on hills?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Landslide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Landslide"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which safety rule is correct during flood?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walk in water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Use clean drinking water",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Swim in flood water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore warnings",
+          "is_correct": false
+        }
+      ],
+      "answer": "Use clean drinking water"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which disaster causes destruction due to waves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cyclone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tsunami",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Earthquake",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tsunami"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which disaster is measured on Beaufort scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cyclone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Volcano",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cyclone"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which role is played by community in disasters?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "No role",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rescue and help",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Panic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delay",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rescue and help"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which disaster management reduces future risk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Response",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Recovery",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mitigation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Warning",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mitigation"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is a disaster?",
+      "answer": "A sudden event causing large scale damage and loss."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is disaster management?",
+      "answer": "Planning and actions to reduce disaster impact."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name one natural disaster.",
+      "answer": "Earthquake."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name one man-made disaster.",
+      "answer": "Chemical leak."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is earthquake?",
+      "answer": "Shaking of Earth's surface."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is focus of earthquake?",
+      "answer": "Point where earthquake originates."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is epicenter?",
+      "answer": "Point above focus on Earth's surface."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which instrument records earthquakes?",
+      "answer": "Seismograph."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is flood?",
+      "answer": "Overflow of water on land."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What causes floods?",
+      "answer": "Heavy rainfall."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is drought?",
+      "answer": "Prolonged lack of rainfall."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is cyclone?",
+      "answer": "Storm with strong winds and rain."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is tsunami?",
+      "answer": "Large sea waves caused by earthquake."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is landslide?",
+      "answer": "Sudden sliding of land."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is avalanche?",
+      "answer": "Flow of snow down a mountain."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is volcanic eruption?",
+      "answer": "Release of lava and gases."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is disaster preparedness?",
+      "answer": "Readiness before disaster."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is mitigation?",
+      "answer": "Reducing disaster effects."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is response phase?",
+      "answer": "Immediate action after disaster."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is recovery phase?",
+      "answer": "Rebuilding after disaster."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why early warning is important?",
+      "answer": "It saves lives."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is first aid?",
+      "answer": "Immediate medical help."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why first aid is important?",
+      "answer": "Prevents complications."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name one safety measure during earthquake.",
+      "answer": "Hide under table."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name one safety measure during flood.",
+      "answer": "Drink clean water."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What should be avoided during earthquake?",
+      "answer": "Using lift."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which organization manages disasters in India?",
+      "answer": "NDRF."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is IMD?",
+      "answer": "Indian Meteorological Department."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why community participation is important?",
+      "answer": "Faster help."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is emergency kit?",
+      "answer": "Kit with essential items."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name one item in emergency kit.",
+      "answer": "First aid box."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why deforestation increases floods?",
+      "answer": "Reduces water absorption."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How does afforestation help?",
+      "answer": "Prevents floods."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is shelter home?",
+      "answer": "Safe place during disaster."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is evacuation?",
+      "answer": "Moving people to safe place."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why drills are important?",
+      "answer": "Improve preparedness."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is disaster risk?",
+      "answer": "Chance of damage."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why awareness is important?",
+      "answer": "Reduces panic."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is rescue operation?",
+      "answer": "Saving affected people."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is relief work?",
+      "answer": "Providing food and shelter."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why clean water is important after disaster?",
+      "answer": "Prevents diseases."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is rehabilitation?",
+      "answer": "Restoring normal life."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why children need special care?",
+      "answer": "They are vulnerable."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is man-made disaster?",
+      "answer": "Disaster caused by human activity."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is chemical disaster?",
+      "answer": "Accident involving chemicals."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was Bhopal gas tragedy?",
+      "answer": "Industrial gas leak."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why earthquakes cannot be predicted?",
+      "answer": "Uncertain earth movement."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which disaster spreads diseases?",
+      "answer": "Flood."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why training is needed?",
+      "answer": "Efficient response."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is disaster warning?",
+      "answer": "Advance alert."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why should emergency numbers be known?",
+      "answer": "Quick help."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is coordination?",
+      "answer": "Working together."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why safe construction is important?",
+      "answer": "Reduces damage."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is vulnerability?",
+      "answer": "Susceptibility to harm."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why disaster management is important?",
+      "answer": "Protects life and property."
+    }
+  ]
+}

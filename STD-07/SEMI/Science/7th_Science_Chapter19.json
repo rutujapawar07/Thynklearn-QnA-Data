@@ -1,0 +1,1628 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.19",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Properties of a Magnetic Field"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A magnet produces a ____ around it.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "electric field",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "gravitational field",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "magnetic field",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "sound field",
+          "is_correct": false
+        }
+      ],
+      "answer": "magnetic field"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The region around a magnet where magnetic force is felt is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "electric field",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "magnetic field",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "force field",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "energy field",
+          "is_correct": false
+        }
+      ],
+      "answer": "magnetic field"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to detect magnetic field?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ammeter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compass"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The ends of a magnet are called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "centres",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "edges",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "poles",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "faces",
+          "is_correct": false
+        }
+      ],
+      "answer": "poles"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "A freely suspended magnet always points in ____ direction.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "east-west",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "north-south",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "up-down",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "random",
+          "is_correct": false
+        }
+      ],
+      "answer": "north-south"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which pole of magnet points towards north?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "South pole",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "North pole",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Centre",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "North pole"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Like magnetic poles ____ each other.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "attract",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "repel",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ignore",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "destroy",
+          "is_correct": false
+        }
+      ],
+      "answer": "repel"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Unlike magnetic poles ____ each other.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "repel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ignore",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "attract",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "destroy",
+          "is_correct": false
+        }
+      ],
+      "answer": "attract"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Magnetic field is strongest at the ____ of a magnet.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "centre",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "middle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "poles",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "sides",
+          "is_correct": false
+        }
+      ],
+      "answer": "poles"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which material is attracted by a magnet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which material is non-magnetic?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Steel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nickel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which metal is strongly magnetic?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which object can be magnetized?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wooden stick",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic ruler",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron nail",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Glass rod",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron nail"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which method is used to magnetize an iron bar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heating",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hammering",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rubbing with magnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cooling",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rubbing with magnet"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which type of magnet is temporary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Natural magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electromagnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Permanent magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which magnet loses magnetism easily?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Permanent magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electromagnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Natural magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Steel magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which magnet is made by electric current?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Natural magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electromagnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Horse-shoe magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which material is used to make permanent magnets?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aluminium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Steel"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which shape of magnet has strong magnetic field?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ring",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Horse-shoe",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Disc",
+          "is_correct": false
+        }
+      ],
+      "answer": "Horse-shoe"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which instrument shows direction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Voltmeter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compass"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The magnetic field lines are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "straight",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "imaginary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "zigzag",
+          "is_correct": false
+        }
+      ],
+      "answer": "imaginary"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Magnetic field lines emerge from ____ pole.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "south",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "north",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "both",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "centre",
+          "is_correct": false
+        }
+      ],
+      "answer": "north"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Magnetic field lines enter ____ pole.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "north",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "south",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "centre",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "both",
+          "is_correct": false
+        }
+      ],
+      "answer": "south"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Magnetic field lines never ____ each other.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cross",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "touch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "join",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "separate",
+          "is_correct": false
+        }
+      ],
+      "answer": "cross"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The closer the magnetic field lines, the ____ the field.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "weaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "stronger",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "absent",
+          "is_correct": false
+        }
+      ],
+      "answer": "stronger"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which pole is marked blue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "North",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "South",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Both",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "South"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which pole is marked red?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "North",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "South",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which material is used in compass needle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Steel"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which object shows Earth's magnetic field?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron nail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wire",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compass"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Earth behaves like a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "magnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "battery",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "conductor",
+          "is_correct": false
+        }
+      ],
+      "answer": "magnet"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which pole of Earth is near geographic north?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic north",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic south",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Geographic south",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnetic south"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which phenomenon helps birds navigate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gravity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic field",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sound waves",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Light",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnetic field"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which property of magnet attracts iron?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Electricity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetism",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sound",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnetism"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which magnet produces temporary magnetism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electromagnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Natural magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Steel magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which method removes magnetism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heating",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hammering",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dropping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which object stores magnetic energy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Battery",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Capacitor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Resistor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnet"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which magnet is strongest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Natural magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Electromagnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ring magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which magnetic property is used in cranes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Repulsion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Induction",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Electromagnetism",
+          "is_correct": true
+        }
+      ],
+      "answer": "Electromagnetism"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which device uses magnetic field?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Motor",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bulb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Heater",
+          "is_correct": false
+        }
+      ],
+      "answer": "Motor"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which property causes compass needle to align?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gravity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electricity",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Magnetism",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Heat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnetism"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which substance does not affect magnetic field?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Steel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nickel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which magnet is naturally occurring?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Electromagnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lodestone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Steel magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lodestone"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which part of magnet has zero magnetic strength?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ends",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Centre",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sides",
+          "is_correct": false
+        }
+      ],
+      "answer": "Centre"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which property allows magnet to induce magnetism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Induction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Repulsion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Alignment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Induction"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which field is invisible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Electric",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnetic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which magnet is used in electric bell?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bar magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electromagnet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ring magnet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Natural magnet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electromagnet"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is magnetic field?",
+      "answer": "Region around a magnet where its force acts."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are magnetic poles?",
+      "answer": "Ends of a magnet."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name the two poles of magnet.",
+      "answer": "North and South."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a compass?",
+      "answer": "Instrument used to find direction."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why compass needle moves?",
+      "answer": "Due to magnetic field."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is attraction?",
+      "answer": "Pulling force of magnet."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is repulsion?",
+      "answer": "Pushing force between like poles."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which poles attract each other?",
+      "answer": "Unlike poles."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which poles repel each other?",
+      "answer": "Like poles."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where is magnetic field strongest?",
+      "answer": "At the poles."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is magnetism?",
+      "answer": "Property of attracting magnetic materials."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two magnetic materials.",
+      "answer": "Iron and steel."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name two non-magnetic materials.",
+      "answer": "Plastic and wood."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is magnetization?",
+      "answer": "Process of making magnet."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name one method of magnetization.",
+      "answer": "Rubbing method."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is demagnetization?",
+      "answer": "Loss of magnetism."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one way to demagnetize.",
+      "answer": "Heating."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a permanent magnet?",
+      "answer": "Magnet retaining magnetism."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is a temporary magnet?",
+      "answer": "Magnet losing magnetism easily."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is an electromagnet?",
+      "answer": "Magnet made using electricity."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which material is used for electromagnet?",
+      "answer": "Soft iron."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which material is used for permanent magnet?",
+      "answer": "Steel."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is magnetic induction?",
+      "answer": "Temporary magnetization."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why soft iron is used in electromagnets?",
+      "answer": "Loses magnetism easily."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why steel is used for permanent magnets?",
+      "answer": "Retains magnetism."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are magnetic field lines?",
+      "answer": "Imaginary lines showing field."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "From where do field lines start?",
+      "answer": "North pole."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Where do field lines end?",
+      "answer": "South pole."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Do field lines cross?",
+      "answer": "No."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What do closer field lines show?",
+      "answer": "Stronger field."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is Earth's magnetic field?",
+      "answer": "Magnetic field of Earth."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why Earth is called a magnet?",
+      "answer": "It has magnetic field."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which pole of Earth attracts north pole of magnet?",
+      "answer": "Magnetic south."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How birds navigate?",
+      "answer": "Using Earth's magnetic field."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is lodestone?",
+      "answer": "Natural magnet."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why magnets are stored with keepers?",
+      "answer": "To prevent demagnetization."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is a keeper?",
+      "answer": "Soft iron piece."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which shape magnet is strongest?",
+      "answer": "Horse-shoe magnet."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why horse-shoe magnet is strong?",
+      "answer": "Poles are close."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is magnetic declination?",
+      "answer": "Angle between directions."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is magnetic inclination?",
+      "answer": "Angle of magnetic field."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is magnetic strength?",
+      "answer": "Power of magnet."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which property helps cranes lift iron?",
+      "answer": "Electromagnetism."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why magnets should not be heated?",
+      "answer": "They lose magnetism."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why magnets should not be dropped?",
+      "answer": "They get demagnetized."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which device uses magnetic field?",
+      "answer": "Electric motor."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is magnetic compass used for?",
+      "answer": "Finding directions."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why iron filings form pattern?",
+      "answer": "Follow magnetic field."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happens at centre of magnet?",
+      "answer": "Field is weak."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why magnetic field is invisible?",
+      "answer": "It has no light."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is magnetic effect?",
+      "answer": "Effect of magnet."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why study magnetic field?",
+      "answer": "Used in devices."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which animals sense magnetic field?",
+      "answer": "Birds."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is magnetic shielding?",
+      "answer": "Blocking magnetic field."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why magnets are useful?",
+      "answer": "Used in daily life."
+    }
+  ]
+}

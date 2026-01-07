@@ -1,0 +1,1512 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.4",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Nutrition in Living Organisms"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Nutrition is the process of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "breathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "obtaining food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "growth only",
+          "is_correct": false
+        }
+      ],
+      "answer": "obtaining food"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which mode of nutrition is found in green plants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Holozoic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saprophytic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Autotrophic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Parasitic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autotrophic"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Plants prepare their own food by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "respiration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "photosynthesis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "transpiration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "digestion",
+          "is_correct": false
+        }
+      ],
+      "answer": "photosynthesis"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which gas is required for photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carbon dioxide",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Hydrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which pigment is essential for photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chlorophyll",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Haemoglobin",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Melanin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carotene",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chlorophyll"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which part of plant mainly performs photosynthesis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which substance provides energy to living organisms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Minerals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carbohydrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Water",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbohydrates"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which nutrient helps in body building?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carbohydrates",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Proteins",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamins",
+          "is_correct": false
+        }
+      ],
+      "answer": "Proteins"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which nutrient protects the body from diseases?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamins",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carbohydrates",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vitamins"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which nutrient provides stored energy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fats",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fats"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which vitamin is produced in the skin in sunlight?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamin A",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vitamin B",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamin C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamin D",
+          "is_correct": true
+        }
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which mineral is needed for healthy bones?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Calcium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sodium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which disease is caused by deficiency of vitamin C?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rickets",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Scurvy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Beriberi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anaemia",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scurvy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which disease is caused by lack of iodine?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Goitre",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anaemia",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rickets",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scurvy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Goitre"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which nutrient is required for growth and repair?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Proteins",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carbohydrates",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Proteins"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which mode of nutrition is seen in amoeba?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Autotrophic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saprophytic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Holozoic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Parasitic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Holozoic"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which organism feeds on dead matter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parasite",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autotroph",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Saprophyte",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Herbivore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saprophyte"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which organism depends on host for food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saprophyte",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autotroph",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parasite",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Producer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parasite"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which part of digestive system absorbs nutrients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small intestine",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Large intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oesophagus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which enzyme digests starch?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pepsin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Amylase",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lipase",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trypsin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Amylase"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which organ produces bile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pancreas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Liver",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Small intestine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liver"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Bile helps in digestion of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbohydrates",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fats",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamins",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fats"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which enzyme digests proteins?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Amylase",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lipase",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pepsin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Maltase",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which enzyme digests fats?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Amylase",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lipase",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trypsin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pepsin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lipase"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which part of alimentary canal is longest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stomach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oesophagus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Small intestine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Large intestine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which process breaks food into simpler substances?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Assimilation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Digestion",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Egestion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Removal of undigested food is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ingestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Digestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Egestion",
+          "is_correct": true
+        }
+      ],
+      "answer": "Egestion"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which nutrient is required in small quantity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carbohydrates",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamins",
+          "is_correct": true
+        }
+      ],
+      "answer": "Vitamins"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which mode of nutrition is seen in fungi?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Holozoic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autotrophic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Saprophytic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Parasitic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saprophytic"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which organism shows both autotrophic and heterotrophic nutrition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cactus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Algae",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pitcher plant",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mushroom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pitcher plant"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which part of plant traps insects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Root",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Flower",
+          "is_correct": false
+        }
+      ],
+      "answer": "Leaf"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which nutrient gives insulation to body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fats",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fats"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which mineral is essential for blood formation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calcium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Potassium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which disease is caused by lack of vitamin D?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scurvy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Beriberi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rickets",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Goitre",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rickets"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which vitamin helps in blood clotting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamin A",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vitamin B",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamin C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamin K",
+          "is_correct": true
+        }
+      ],
+      "answer": "Vitamin K"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which nutrient helps in digestion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Minerals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which process includes taking food into body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Digestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ingestion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Assimilation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ingestion"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which part connects mouth to stomach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Trachea",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Oesophagus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Larynx",
+          "is_correct": false
+        }
+      ],
+      "answer": "Oesophagus"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which organ churns food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large intestine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stomach",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Liver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which nutrient gives instant energy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carbohydrates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamins",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbohydrates"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which nutrient deficiency causes night blindness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Vitamin A",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Vitamin B",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamin C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Vitamin D",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vitamin A"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which process uses absorbed food for growth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Digestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Assimilation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Egestion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Absorption",
+          "is_correct": false
+        }
+      ],
+      "answer": "Assimilation"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which nutrient is essential for nerve function?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vitamin B",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Calcium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vitamin B"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which substance helps transport nutrients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Vitamins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is nutrition?",
+      "answer": "Nutrition is the process of obtaining and using food."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why do organisms need nutrition?",
+      "answer": "For energy, growth and repair."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is autotrophic nutrition?",
+      "answer": "Mode of nutrition in which organisms make their own food."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is heterotrophic nutrition?",
+      "answer": "Mode of nutrition where organisms depend on others for food."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name the process by which plants make food.",
+      "answer": "Photosynthesis."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Which raw materials are needed for photosynthesis?",
+      "answer": "Water, carbon dioxide and sunlight."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is chlorophyll?",
+      "answer": "Green pigment needed for photosynthesis."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are leaves green?",
+      "answer": "Due to presence of chlorophyll."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are nutrients?",
+      "answer": "Components of food needed by body."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name any two nutrients.",
+      "answer": "Carbohydrates and proteins."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which nutrient gives energy?",
+      "answer": "Carbohydrates."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which nutrient helps in body building?",
+      "answer": "Proteins."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which nutrient protects body from diseases?",
+      "answer": "Vitamins."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which nutrient stores energy?",
+      "answer": "Fats."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are minerals?",
+      "answer": "Inorganic nutrients needed in small amount."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is calcium important?",
+      "answer": "For healthy bones and teeth."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is iron important?",
+      "answer": "For blood formation."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is deficiency disease?",
+      "answer": "Disease caused by lack of nutrients."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name a disease caused by vitamin C deficiency.",
+      "answer": "Scurvy."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name a disease caused by vitamin D deficiency.",
+      "answer": "Rickets."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is digestion?",
+      "answer": "Breaking of food into simpler substances."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Where does digestion start?",
+      "answer": "In the mouth."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which enzyme is present in saliva?",
+      "answer": "Amylase."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the function of stomach?",
+      "answer": "Churns food and digests proteins."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which organ produces bile?",
+      "answer": "Liver."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the role of bile?",
+      "answer": "Helps in fat digestion."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which organ absorbs nutrients?",
+      "answer": "Small intestine."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is absorption?",
+      "answer": "Taking digested food into blood."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is assimilation?",
+      "answer": "Using absorbed food for growth."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is egestion?",
+      "answer": "Removal of undigested food."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is holozoic nutrition?",
+      "answer": "Nutrition involving ingestion and digestion."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name an organism showing holozoic nutrition.",
+      "answer": "Human."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is saprophytic nutrition?",
+      "answer": "Feeding on dead matter."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name a saprophyte.",
+      "answer": "Mushroom."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is parasitic nutrition?",
+      "answer": "Getting food from host."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Name a parasite.",
+      "answer": "Tapeworm."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is insectivorous plant?",
+      "answer": "Plant that feeds on insects."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Give one example of insectivorous plant.",
+      "answer": "Pitcher plant."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why do pitcher plants eat insects?",
+      "answer": "To obtain nitrogen."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is balanced diet important?",
+      "answer": "It provides all nutrients."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is balanced diet?",
+      "answer": "Diet containing all nutrients."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is water important in nutrition?",
+      "answer": "It helps digestion and transport."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which nutrient is needed in small quantity?",
+      "answer": "Vitamins."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why should junk food be avoided?",
+      "answer": "It lacks nutrients."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is malnutrition?",
+      "answer": "Lack of proper nutrition."
+    }
+  ]
+}

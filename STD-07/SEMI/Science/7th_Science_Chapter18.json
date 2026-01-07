@@ -1,0 +1,1626 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.18",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Sound – Production of Sound"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Sound is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "light",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "force",
+          "is_correct": false
+        }
+      ],
+      "answer": "energy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Sound is produced due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "vibration",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "refraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "rotation",
+          "is_correct": false
+        }
+      ],
+      "answer": "vibration"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which object produces sound when struck?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bell",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bell"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Vibrating object moves to and fro ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "once",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "repeatedly",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "never",
+          "is_correct": false
+        }
+      ],
+      "answer": "repeatedly"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Sound needs ____ to travel.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "vacuum",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "medium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "light",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "energy",
+          "is_correct": false
+        }
+      ],
+      "answer": "medium"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Sound cannot travel through ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "solid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "vacuum",
+          "is_correct": true
+        }
+      ],
+      "answer": "vacuum"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which medium allows sound to travel fastest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "solid",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "vacuum",
+          "is_correct": false
+        }
+      ],
+      "answer": "solid"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Human voice is produced by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tongue",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "lungs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "vocal cords",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "nose",
+          "is_correct": false
+        }
+      ],
+      "answer": "vocal cords"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which organ helps in hearing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "eye",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ear",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "skin",
+          "is_correct": false
+        }
+      ],
+      "answer": "ear"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which part of ear vibrates on hearing sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cochlea",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ear drum",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "auditory nerve",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pinna",
+          "is_correct": false
+        }
+      ],
+      "answer": "ear drum"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Sound travels in the form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "particles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "waves",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "light rays",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "heat",
+          "is_correct": false
+        }
+      ],
+      "answer": "waves"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Higher frequency sound is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low pitch",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "high pitch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "loud",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "soft",
+          "is_correct": false
+        }
+      ],
+      "answer": "high pitch"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Lower frequency sound is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "high pitch",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "low pitch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "loud",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sharp",
+          "is_correct": false
+        }
+      ],
+      "answer": "low pitch"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Loudness of sound depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "frequency",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "amplitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pitch",
+          "is_correct": false
+        }
+      ],
+      "answer": "amplitude"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Pitch of sound depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "amplitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "frequency",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "loudness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "frequency"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Unit of frequency is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "decibel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hertz",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "metre",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "second",
+          "is_correct": false
+        }
+      ],
+      "answer": "hertz"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Unit of loudness is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hertz",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "joule",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "decibel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "newton",
+          "is_correct": false
+        }
+      ],
+      "answer": "decibel"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which sound is pleasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "music",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "loud sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "echo",
+          "is_correct": false
+        }
+      ],
+      "answer": "music"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which sound is unpleasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "melody",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "noise",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "tune",
+          "is_correct": false
+        }
+      ],
+      "answer": "noise"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Excessive sound causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hearing loss",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "vision loss",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "taste loss",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sleep",
+          "is_correct": false
+        }
+      ],
+      "answer": "hearing loss"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which sound is harmful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "soft music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "melody",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "noise",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "low sound",
+          "is_correct": false
+        }
+      ],
+      "answer": "noise"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Sound pollution affects ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "eyes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ears",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "skin",
+          "is_correct": false
+        }
+      ],
+      "answer": "ears"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which device amplifies sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mirror",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "microscope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "microphone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "thermometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "microphone"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which device converts sound into electrical signals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "speaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "microphone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "earphone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "radio",
+          "is_correct": false
+        }
+      ],
+      "answer": "microphone"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which device converts electrical signals into sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "microphone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "speaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "camera",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "bulb",
+          "is_correct": false
+        }
+      ],
+      "answer": "speaker"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which musical instrument produces sound by vibration of strings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "drum",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tabla",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "guitar",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "flute",
+          "is_correct": false
+        }
+      ],
+      "answer": "guitar"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which instrument produces sound by vibration of air column?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "guitar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tabla",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flute",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "violin",
+          "is_correct": false
+        }
+      ],
+      "answer": "flute"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which instrument produces sound by vibration of membrane?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "flute",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "drum",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "guitar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "piano",
+          "is_correct": false
+        }
+      ],
+      "answer": "drum"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which part of ear connects to auditory nerve?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pinna",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cochlea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ear drum",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "canal",
+          "is_correct": false
+        }
+      ],
+      "answer": "cochlea"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which part of ear collects sound waves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ear drum",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "pinna",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cochlea",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "nerve",
+          "is_correct": false
+        }
+      ],
+      "answer": "pinna"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which sound has more energy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "soft sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "loud sound",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "low pitch",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "high pitch",
+          "is_correct": false
+        }
+      ],
+      "answer": "loud sound"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which sound has less amplitude?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "loud sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "soft sound",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "music",
+          "is_correct": false
+        }
+      ],
+      "answer": "soft sound"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which sound is measured in hertz?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "loudness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "pitch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "frequency",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "amplitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "frequency"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which sound characteristic depends on vibration speed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "loudness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "pitch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "quality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "echo",
+          "is_correct": false
+        }
+      ],
+      "answer": "pitch"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which sound characteristic depends on vibration size?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pitch",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "loudness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "frequency",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "loudness"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which phenomenon causes echo?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "reflection",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "refraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dispersion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "absorption",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflection"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Echo is heard when sound is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "absorbed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "reflected",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "refracted",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "blocked",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflected"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which surface reflects sound well?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "curtain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "carpet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "wall",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "cotton",
+          "is_correct": false
+        }
+      ],
+      "answer": "wall"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which material absorbs sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "foam",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "stone",
+          "is_correct": false
+        }
+      ],
+      "answer": "foam"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which sound helps communication?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "speech",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "echo",
+          "is_correct": false
+        }
+      ],
+      "answer": "speech"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which animal uses echo for navigation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "bat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "cow",
+          "is_correct": false
+        }
+      ],
+      "answer": "bat"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which sound frequency is audible to humans?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "below 20 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "above 20000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all",
+          "is_correct": false
+        }
+      ],
+      "answer": "20–20000 Hz"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Sound above human hearing range is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "audible",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "infrasonic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ultrasonic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "ultrasonic"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Sound below human hearing range is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ultrasonic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "audible",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "infrasonic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "music",
+          "is_correct": false
+        }
+      ],
+      "answer": "infrasonic"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which animal can hear ultrasonic sound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "dog",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "human",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "horse",
+          "is_correct": false
+        }
+      ],
+      "answer": "dog"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which phenomenon helps dolphins detect objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "echo",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sonar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "music",
+          "is_correct": false
+        }
+      ],
+      "answer": "sonar"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which device uses sound waves to detect objects?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "radar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sonar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "camera",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "telescope",
+          "is_correct": false
+        }
+      ],
+      "answer": "sonar"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is sound?",
+      "answer": "Sound is a form of energy produced by vibrations."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How is sound produced?",
+      "answer": "Sound is produced by vibrating objects."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is vibration?",
+      "answer": "Repeated to and fro motion."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Can sound travel in vacuum?",
+      "answer": "No."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why sound needs medium?",
+      "answer": "To transfer vibrations."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which medium carries sound fastest?",
+      "answer": "Solid."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is frequency?",
+      "answer": "Number of vibrations per second."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is pitch?",
+      "answer": "Shrillness of sound."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is loudness?",
+      "answer": "Strength of sound."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is amplitude?",
+      "answer": "Maximum displacement of vibration."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which unit measures frequency?",
+      "answer": "Hertz."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which unit measures loudness?",
+      "answer": "Decibel."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is noise?",
+      "answer": "Unpleasant sound."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is music?",
+      "answer": "Pleasant sound."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does ear drum help hearing?",
+      "answer": "It vibrates."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is echo?",
+      "answer": "Reflected sound."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why echo is heard?",
+      "answer": "Due to reflection."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which surface reflects sound?",
+      "answer": "Hard surface."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which material absorbs sound?",
+      "answer": "Soft material."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is sound pollution?",
+      "answer": "Excessive unwanted sound."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one cause of sound pollution.",
+      "answer": "Vehicle horns."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name one effect of sound pollution.",
+      "answer": "Hearing loss."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is audible range?",
+      "answer": "20–20000 Hz."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is infrasonic sound?",
+      "answer": "Sound below 20 Hz."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is ultrasonic sound?",
+      "answer": "Sound above 20000 Hz."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which animal hears ultrasonic sound?",
+      "answer": "Dog."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which animal uses echolocation?",
+      "answer": "Bat."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is SONAR?",
+      "answer": "Sound Navigation and Ranging."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Where is SONAR used?",
+      "answer": "Detect underwater objects."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which instrument produces sound by strings?",
+      "answer": "Guitar."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which instrument produces sound by air?",
+      "answer": "Flute."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which instrument produces sound by membrane?",
+      "answer": "Drum."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are vocal cords?",
+      "answer": "Sound producing organs in throat."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How human voice is produced?",
+      "answer": "By vibration of vocal cords."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is ear?",
+      "answer": "Organ of hearing."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which part collects sound?",
+      "answer": "Pinna."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which part converts vibrations to signals?",
+      "answer": "Cochlea."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which part sends signal to brain?",
+      "answer": "Auditory nerve."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is quality of sound?",
+      "answer": "Characteristic distinguishing sounds."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why loud sound is harmful?",
+      "answer": "Damages hearing."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is soft sound?",
+      "answer": "Sound with small amplitude."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is loud sound?",
+      "answer": "Sound with large amplitude."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why sound weakens with distance?",
+      "answer": "Energy spreads out."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is resonance?",
+      "answer": "Increased vibration at same frequency."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is sound wave?",
+      "answer": "Energy wave of vibration."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why curtains reduce noise?",
+      "answer": "They absorb sound."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why walls reflect sound?",
+      "answer": "They are hard."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is communication?",
+      "answer": "Exchange of information."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How sound helps communication?",
+      "answer": "By speech."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why sound study is important?",
+      "answer": "Helps in daily life."
+    }
+  ]
+}

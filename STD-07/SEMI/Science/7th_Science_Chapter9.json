@@ -1,0 +1,1544 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Science.9",
+    "standard": "7",
+    "subject": "Science",
+    "chapter_name": "Heat"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Heat is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "force",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "power",
+          "is_correct": false
+        }
+      ],
+      "answer": "energy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "SI unit of temperature is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Celsius",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fahrenheit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kelvin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Joule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kelvin"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to measure temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thermometer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Balance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which thermometer is used to measure body temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laboratory",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clinical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Digital scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weather",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clinical"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Normal human body temperature is ____ °C.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "35",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "37",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "38",
+          "is_correct": false
+        }
+      ],
+      "answer": "37"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Heat flows from ____ object to ____ object.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cold to hot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hot to cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "solid to liquid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "liquid to gas",
+          "is_correct": false
+        }
+      ],
+      "answer": "hot to cold"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which material is a good conductor of heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which material is a bad conductor of heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Silver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Transfer of heat without medium is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "radiation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "reflection",
+          "is_correct": false
+        }
+      ],
+      "answer": "radiation"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which mode of heat transfer occurs in solids?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conduction"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which mode of heat transfer occurs in liquids and gases?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Convection",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Sun gives us heat by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "radiation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "reflection",
+          "is_correct": false
+        }
+      ],
+      "answer": "radiation"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which color absorbs more heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "White",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Yellow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "answer": "Black"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which color reflects most heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "White",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Blue",
+          "is_correct": false
+        }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why are cooking utensils made of metals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They are light",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They are cheap",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They conduct heat well",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They look shiny",
+          "is_correct": false
+        }
+      ],
+      "answer": "They conduct heat well"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why handles of utensils are made of wood?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wood is conductor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wood is insulator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wood is heavy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wood is shiny",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wood is insulator"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which phenomenon causes sea breeze?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Evaporation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which phenomenon causes land breeze?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Condensation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which state of matter shows convection?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Solid",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Liquid",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gas",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Both liquid and gas",
+          "is_correct": true
+        }
+      ],
+      "answer": "Both liquid and gas"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which instrument measures very high temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clinical thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Laboratory thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Digital thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pyrometer",
+          "is_correct": true
+        }
+      ],
+      "answer": "Pyrometer"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why woolen clothes keep us warm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They produce heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They absorb heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They trap air",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They reflect heat",
+          "is_correct": false
+        }
+      ],
+      "answer": "They trap air"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which heat transfer does not need medium?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Radiation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Radiation"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which property helps metals conduct heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Density",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Free electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hardness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Free electrons"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which material is used as insulator in buildings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Glass wool",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Steel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Glass wool"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which phenomenon explains chimney working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Evaporation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which unit is used to measure heat energy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kelvin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Celsius",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Joule",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Meter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which metal is best conductor of heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silver",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aluminium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why do we wear light-colored clothes in summer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They absorb heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They reflect heat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They produce heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They block air",
+          "is_correct": false
+        }
+      ],
+      "answer": "They reflect heat"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why black clothes are avoided in summer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They reflect heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They absorb heat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They block air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They are heavy",
+          "is_correct": false
+        }
+      ],
+      "answer": "They absorb heat"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which process transfers heat by movement of particles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Reflection",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which process transfers heat by direct contact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evaporation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conduction"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which process transfers heat by waves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Radiation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insulation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Radiation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why metals feel cold in winter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They produce cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They conduct heat away",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They absorb heat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They reflect heat",
+          "is_correct": false
+        }
+      ],
+      "answer": "They conduct heat away"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which object heats faster?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Black object",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "White object",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Transparent object",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All same",
+          "is_correct": false
+        }
+      ],
+      "answer": "Black object"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why thermos flask keeps liquids hot?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "By insulation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "By convection",
+          "is_correct": false
+        }
+      ],
+      "answer": "By insulation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which material reduces heat transfer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conductor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Insulator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wire",
+          "is_correct": false
+        }
+      ],
+      "answer": "Insulator"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which part of thermometer contains mercury?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bulb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Stem",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cap",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bulb"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which temperature scale is commonly used in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kelvin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fahrenheit",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Celsius",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rankine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Celsius"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which heat transfer occurs in vacuum?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Convection",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Radiation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Radiation"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why desert houses have thick walls?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For strength",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To reduce heat transfer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For beauty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For ventilation",
+          "is_correct": false
+        }
+      ],
+      "answer": "To reduce heat transfer"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which phenomenon explains hot air balloon rising?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Radiation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Conduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Convection",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Condensation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which material is used in winter clothing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wool",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Plastic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Glass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wool"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which factor affects conduction?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature of material",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shape",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Size only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature of material"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is heat?",
+      "answer": "Heat is a form of energy."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is temperature?",
+      "answer": "Measure of hotness or coldness."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Which instrument measures temperature?",
+      "answer": "Thermometer."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is normal body temperature?",
+      "answer": "37°C."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is SI unit of temperature?",
+      "answer": "Kelvin."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is conduction?",
+      "answer": "Transfer of heat by direct contact."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is convection?",
+      "answer": "Transfer of heat by movement of particles."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is radiation?",
+      "answer": "Transfer of heat without medium."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which mode works in solids?",
+      "answer": "Conduction."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which mode works in liquids?",
+      "answer": "Convection."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which mode works in vacuum?",
+      "answer": "Radiation."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why metals are good conductors?",
+      "answer": "They have free electrons."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why wood is insulator?",
+      "answer": "It lacks free electrons."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is insulator?",
+      "answer": "Material that resists heat flow."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why cooking pots are metal?",
+      "answer": "They conduct heat."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why utensil handles are wooden?",
+      "answer": "To prevent burns."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is sea breeze?",
+      "answer": "Cool air moving from sea to land."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is land breeze?",
+      "answer": "Cool air moving from land to sea."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why black objects absorb more heat?",
+      "answer": "They absorb radiation."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why white clothes are worn in summer?",
+      "answer": "They reflect heat."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why woolen clothes keep us warm?",
+      "answer": "They trap air."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is laboratory thermometer?",
+      "answer": "Measures high temperatures."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is clinical thermometer?",
+      "answer": "Measures body temperature."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why mercury is used in thermometer?",
+      "answer": "It expands uniformly."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is heat energy unit?",
+      "answer": "Joule."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which metal conducts heat best?",
+      "answer": "Silver."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is thermos flask?",
+      "answer": "Container preventing heat loss."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How does thermos reduce heat loss?",
+      "answer": "By insulation."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why thick walls keep houses cool?",
+      "answer": "They reduce heat transfer."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why desert houses are white?",
+      "answer": "To reflect heat."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What causes convection currents?",
+      "answer": "Difference in density."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why hot air rises?",
+      "answer": "It becomes lighter."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is heat transfer?",
+      "answer": "Movement of heat energy."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which factor affects conduction?",
+      "answer": "Nature of material."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why metals feel cold?",
+      "answer": "They conduct heat away."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why plastic feels warm?",
+      "answer": "It does not conduct heat."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is poor conductor?",
+      "answer": "Material resisting heat flow."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Name one insulator.",
+      "answer": "Wood."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is good conductor?",
+      "answer": "Material allowing heat flow."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Name one conductor.",
+      "answer": "Copper."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What causes sea breeze during day?",
+      "answer": "Land heats faster."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What causes land breeze at night?",
+      "answer": "Sea remains warmer."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why wool traps air?",
+      "answer": "Air is poor conductor."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why iron rod heats quickly?",
+      "answer": "High conductivity."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is radiation example?",
+      "answer": "Heat from sun."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why dark clothes are warm?",
+      "answer": "They absorb heat."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why light clothes are cool?",
+      "answer": "They reflect heat."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is pyrometer?",
+      "answer": "Instrument to measure high temperature."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why do metals expand on heating?",
+      "answer": "Particles move faster."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is expansion?",
+      "answer": "Increase in size on heating."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why gaps are left in railway tracks?",
+      "answer": "To allow expansion."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which heat transfer is fastest?",
+      "answer": "Radiation."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why hot tea cools faster in cup?",
+      "answer": "Heat loss to surroundings."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is thermal insulation?",
+      "answer": "Reducing heat transfer."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why thermos has vacuum?",
+      "answer": "To stop conduction and convection."
+    }
+  ]
+}
