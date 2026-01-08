@@ -1,0 +1,1268 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.05",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "भारत व अन्य देश",
+    "question_set": "MCQs 1–50"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणाचा मुख्य उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध करणे", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय हित जपणे", "is_correct": true },
+        { "option_id": 3, "text": "इतर देशांवर वर्चस्व मिळवणे", "is_correct": false },
+        { "option_id": 4, "text": "एकाकी धोरण स्वीकारणे", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय हित जपणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारत कोणत्या खंडात स्थित आहे?",
+      "options": [
+        { "option_id": 1, "text": "युरोप", "is_correct": false },
+        { "option_id": 2, "text": "आशिया", "is_correct": true },
+        { "option_id": 3, "text": "आफ्रिका", "is_correct": false },
+        { "option_id": 4, "text": "ऑस्ट्रेलिया", "is_correct": false }
+      ],
+      "answer": "आशिया"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात कोणत्या मार्गावर भर दिला जातो?",
+      "options": [
+        { "option_id": 1, "text": "हिंसा", "is_correct": false },
+        { "option_id": 2, "text": "संवाद व सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "आक्रमण", "is_correct": false },
+        { "option_id": 4, "text": "अलगाव", "is_correct": false }
+      ],
+      "answer": "संवाद व सहकार्य"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारत आणि पाकिस्तान यांच्यातील मुख्य वाद कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार", "is_correct": false },
+        { "option_id": 2, "text": "काश्मीर", "is_correct": true },
+        { "option_id": 3, "text": "भाषा", "is_correct": false },
+        { "option_id": 4, "text": "चलन", "is_correct": false }
+      ],
+      "answer": "काश्मीर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान युद्ध किती वेळा झाले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "एकदा", "is_correct": false },
+        { "option_id": 2, "text": "दोनदा", "is_correct": false },
+        { "option_id": 3, "text": "तीनदा", "is_correct": true },
+        { "option_id": 4, "text": "चारदा", "is_correct": false }
+      ],
+      "answer": "तीनदा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारत व चीन यांच्यातील युद्ध कधी झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९५६", "is_correct": false },
+        { "option_id": 2, "text": "१९६२", "is_correct": true },
+        { "option_id": 3, "text": "१९७१", "is_correct": false },
+        { "option_id": 4, "text": "१९८४", "is_correct": false }
+      ],
+      "answer": "१९६२"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारत-चीन सीमावाद कोणत्या भागाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "पंजाब", "is_correct": false },
+        { "option_id": 2, "text": "अक्साई चीन", "is_correct": true },
+        { "option_id": 3, "text": "सिक्कीम", "is_correct": false },
+        { "option_id": 4, "text": "गुजरात", "is_correct": false }
+      ],
+      "answer": "अक्साई चीन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "तिबेट प्रश्न कोणत्या दोन देशांशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "भारत व पाकिस्तान", "is_correct": false },
+        { "option_id": 2, "text": "भारत व चीन", "is_correct": true },
+        { "option_id": 3, "text": "भारत व नेपाळ", "is_correct": false },
+        { "option_id": 4, "text": "भारत व भूटान", "is_correct": false }
+      ],
+      "answer": "भारत व चीन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बांगलादेशाची निर्मिती कधी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६५", "is_correct": false },
+        { "option_id": 2, "text": "१९७१", "is_correct": true },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९८०", "is_correct": false }
+      ],
+      "answer": "१९७१"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "श्रीलंकेतील कोणत्या प्रश्नामुळे भारत प्रभावित झाला?",
+      "options": [
+        { "option_id": 1, "text": "तमिळ प्रश्न", "is_correct": true },
+        { "option_id": 2, "text": "काश्मीर प्रश्न", "is_correct": false },
+        { "option_id": 3, "text": "सीमावाद", "is_correct": false },
+        { "option_id": 4, "text": "पाणीवाटप", "is_correct": false }
+      ],
+      "answer": "तमिळ प्रश्न"
+    },
+    
+    {
+  "questions": [
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारत आणि पाकिस्तान यांच्यातील मुख्य वाद कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार", "is_correct": false },
+        { "option_id": 2, "text": "काश्मीर", "is_correct": true },
+        { "option_id": 3, "text": "भाषा", "is_correct": false },
+        { "option_id": 4, "text": "चलन", "is_correct": false }
+      ],
+      "answer": "काश्मीर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान यांच्यात किती वेळा युद्ध झाले आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकदा", "is_correct": false },
+        { "option_id": 2, "text": "दोनदा", "is_correct": false },
+        { "option_id": 3, "text": "तीनदा", "is_correct": true },
+        { "option_id": 4, "text": "चारदा", "is_correct": false }
+      ],
+      "answer": "तीनदा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारत आणि चीन यांच्यातील युद्ध कधी झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९५६", "is_correct": false },
+        { "option_id": 2, "text": "१९६२", "is_correct": true },
+        { "option_id": 3, "text": "१९७१", "is_correct": false },
+        { "option_id": 4, "text": "१९८४", "is_correct": false }
+      ],
+      "answer": "१९६२"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारत-चीन सीमावाद कोणत्या भागाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "सिक्कीम", "is_correct": false },
+        { "option_id": 2, "text": "अक्साई चीन", "is_correct": true },
+        { "option_id": 3, "text": "काश्मीर", "is_correct": false },
+        { "option_id": 4, "text": "पंजाब", "is_correct": false }
+      ],
+      "answer": "अक्साई चीन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "तिबेट प्रश्न कोणत्या दोन देशांशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "भारत व पाकिस्तान", "is_correct": false },
+        { "option_id": 2, "text": "भारत व चीन", "is_correct": true },
+        { "option_id": 3, "text": "भारत व नेपाळ", "is_correct": false },
+        { "option_id": 4, "text": "भारत व भूटान", "is_correct": false }
+      ],
+      "answer": "भारत व चीन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अफगाणिस्तानला भारताने कोणत्या क्षेत्रात मदत केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "शांतता व विकास", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध", "is_correct": false },
+        { "option_id": 4, "text": "शस्त्रनिर्मिती", "is_correct": false }
+      ],
+      "answer": "शांतता व विकास"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "बांगलादेशाची निर्मिती कधी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९६५", "is_correct": false },
+        { "option_id": 2, "text": "१९७१", "is_correct": true },
+        { "option_id": 3, "text": "१९७५", "is_correct": false },
+        { "option_id": 4, "text": "१९८०", "is_correct": false }
+      ],
+      "answer": "१९७१"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "श्रीलंकेतील कोणत्या प्रश्नामुळे भारत प्रभावित झाला?",
+      "options": [
+        { "option_id": 1, "text": "तमिळ प्रश्न", "is_correct": true },
+        { "option_id": 2, "text": "काश्मीर प्रश्न", "is_correct": false },
+        { "option_id": 3, "text": "सीमावाद", "is_correct": false },
+        { "option_id": 4, "text": "पाणीवाटप", "is_correct": false }
+      ],
+      "answer": "तमिळ प्रश्न"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारत व नेपाळ यांच्यातील मैत्री करार कधी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९४७", "is_correct": false },
+        { "option_id": 2, "text": "१९५०", "is_correct": true },
+        { "option_id": 3, "text": "१९६२", "is_correct": false },
+        { "option_id": 4, "text": "१९७१", "is_correct": false }
+      ],
+      "answer": "१९५०"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भारताच्या संरक्षणाची जबाबदारी कोणत्या देशाबाबत आहे?",
+      "options": [
+        { "option_id": 1, "text": "नेपाळ", "is_correct": false },
+        { "option_id": 2, "text": "भूटान", "is_correct": true },
+        { "option_id": 3, "text": "मालदीव", "is_correct": false },
+        { "option_id": 4, "text": "म्यानमार", "is_correct": false }
+      ],
+      "answer": "भूटान"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारत-मालदीव संबंध कोणत्या क्षेत्रात महत्त्वाचे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "सागरी सुरक्षा", "is_correct": true },
+        { "option_id": 2, "text": "खनिज", "is_correct": false },
+        { "option_id": 3, "text": "अंतराळ", "is_correct": false },
+        { "option_id": 4, "text": "कृषी", "is_correct": false }
+      ],
+      "answer": "सागरी सुरक्षा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "म्यानमार भारतासाठी महत्त्वाचा का आहे?",
+      "options": [
+        { "option_id": 1, "text": "युरोपाशी संपर्कासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आग्नेय आशियाचे प्रवेशद्वार", "is_correct": true },
+        { "option_id": 3, "text": "ऊर्जा निर्यात", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "आग्नेय आशियाचे प्रवेशद्वार"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सार्क (SAARC) ची स्थापना कधी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८०", "is_correct": false },
+        { "option_id": 2, "text": "१९८५", "is_correct": true },
+        { "option_id": 3, "text": "१९९०", "is_correct": false },
+        { "option_id": 4, "text": "१९९५", "is_correct": false }
+      ],
+      "answer": "१९८५"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भारत-अमेरिका अणुकरार कधी झाला?",
+      "options": [
+        { "option_id": 1, "text": "२००१", "is_correct": false },
+        { "option_id": 2, "text": "२००५", "is_correct": false },
+        { "option_id": 3, "text": "२००८", "is_correct": true },
+        { "option_id": 4, "text": "२०१०", "is_correct": false }
+      ],
+      "answer": "२००८"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "शीतयुद्ध काळात भारताचे मैत्रीपूर्ण संबंध कोणत्या देशाशी होते?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "सोव्हिएत रशिया", "is_correct": true },
+        { "option_id": 3, "text": "चीन", "is_correct": false },
+        { "option_id": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "सोव्हिएत रशिया"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारताने कोणत्या धोरणाद्वारे आग्नेय आशियाशी संबंध वाढवले?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर धोरण", "is_correct": false },
+        { "option_id": 2, "text": "पूर्वेकडे पहा धोरण", "is_correct": true },
+        { "option_id": 3, "text": "पश्चिम धोरण", "is_correct": false },
+        { "option_id": 4, "text": "निरपेक्ष धोरण", "is_correct": false }
+      ],
+      "answer": "पूर्वेकडे पहा धोरण"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पश्चिम आशिया भारतासाठी महत्त्वाचा का आहे?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जा पुरवठा", "is_correct": true },
+        { "option_id": 3, "text": "शेती", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "ऊर्जा पुरवठा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "भारत-आफ्रिका सहकार्य मुख्यत्वे कोणत्या क्षेत्रात आहे?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्य व शिक्षण", "is_correct": true },
+        { "option_id": 2, "text": "युद्ध", "is_correct": false },
+        { "option_id": 3, "text": "चलन", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "आरोग्य व शिक्षण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भारतासाठी सागरी सुरक्षा का महत्त्वाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 2, "text": "व्यापार मार्ग सुरक्षित ठेवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "भाषा संरक्षणासाठी", "is_correct": false },
+        { "option_id": 4, "text": "संस्कृतीसाठी", "is_correct": false }
+      ],
+      "answer": "व्यापार मार्ग सुरक्षित ठेवण्यासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणाचा मुख्य आधार कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "शांतता व सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "वर्चस्व", "is_correct": false },
+        { "option_id": 4, "text": "एकाधिकार", "is_correct": false }
+      ],
+      "answer": "शांतता व सहकार्य"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भारत-जपान सहकार्य मुख्यत्वे कोणत्या क्षेत्रात आहे?",
+      "options": [
+        { "option_id": 1, "text": "पायाभूत सुविधा", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "कला", "is_correct": false },
+        { "option_id": 4, "text": "शेती", "is_correct": false }
+      ],
+      "answer": "पायाभूत सुविधा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारत-इस्त्रायल सहकार्य मुख्यत्वे कोणत्या क्षेत्रात आहे?",
+      "options": [
+        { "option_id": 1, "text": "संरक्षण", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 4, "text": "भाषा", "is_correct": false }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भारतासाठी बहुपक्षीय परराष्ट्र धोरण का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकटेपणा वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "संतुलित आंतरराष्ट्रीय संबंध ठेवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्धा वाढवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "संतुलित आंतरराष्ट्रीय संबंध ठेवण्यासाठी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भारत-पाकिस्तान संवाद अयशस्वी ठरण्याचे मुख्य कारण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार", "is_correct": false },
+        { "option_id": 2, "text": "दहशतवाद", "is_correct": true },
+        { "option_id": 3, "text": "भाषा", "is_correct": false },
+        { "option_id": 4, "text": "चलन", "is_correct": false }
+      ],
+      "answer": "दहशतवाद"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारतासाठी ऊर्जा सुरक्षा का महत्त्वाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 2, "text": "औद्योगिक विकासासाठी", "is_correct": true },
+        { "option_id": 3, "text": "संस्कृतीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "भाषेसाठी", "is_correct": false }
+      ],
+      "answer": "औद्योगिक विकासासाठी"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात कोणता घटक सर्वाधिक महत्त्वाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रीय हित", "is_correct": true },
+        { "option_id": 2, "text": "युद्ध", "is_correct": false },
+        { "option_id": 3, "text": "वर्चस्व", "is_correct": false },
+        { "option_id": 4, "text": "एकाधिकार", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय हित"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भारतासाठी दक्षिण आशियातील स्थैर्य का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रीय सुरक्षेसाठी", "is_correct": true },
+        { "option_id": 2, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 3, "text": "भाषेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "संस्कृतीसाठी", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय सुरक्षेसाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "भारत-चीन आर्थिक संबंधांचे वैशिष्ट्य काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "संघर्षपूर्ण", "is_correct": false },
+        { "option_id": 2, "text": "व्यापार वाढ", "is_correct": true },
+        { "option_id": 3, "text": "विरहित", "is_correct": false },
+        { "option_id": 4, "text": "तुटलेले", "is_correct": false }
+      ],
+      "answer": "व्यापार वाढ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भारत-आफ्रिका शिखर परिषद कशासाठी आयोजित केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "विकास सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध", "is_correct": false },
+        { "option_id": 4, "text": "भाषा", "is_correct": false }
+      ],
+      "answer": "विकास सहकार्य"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात कोणत्या मार्गावर भर दिला जातो?",
+      "options": [
+        { "option_id": 1, "text": "हिंसा", "is_correct": false },
+        { "option_id": 2, "text": "संवाद", "is_correct": true },
+        { "option_id": 3, "text": "आक्रमण", "is_correct": false },
+        { "option_id": 4, "text": "एकतर्फी निर्णय", "is_correct": false }
+      ],
+      "answer": "संवाद"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "भारतासाठी इंडो-पॅसिफिक क्षेत्र का महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "सांस्कृतिक कारणांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "सागरी व धोरणात्मक कारणांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "भाषेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळासाठी", "is_correct": false }
+      ],
+      "answer": "सागरी व धोरणात्मक कारणांसाठी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "भारतासाठी आफ्रिकेशी संबंध का आवश्यक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "ऊर्जा व संसाधनांसाठी", "is_correct": true },
+        { "option_id": 2, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 3, "text": "भाषेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळासाठी", "is_correct": false }
+      ],
+      "answer": "ऊर्जा व संसाधनांसाठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात कोणता दृष्टिकोन आहे?",
+      "options": [
+        { "option_id": 1, "text": "आक्रमक", "is_correct": false },
+        { "option_id": 2, "text": "शांततामय", "is_correct": true },
+        { "option_id": 3, "text": "एकाधिकारवादी", "is_correct": false },
+        { "option_id": 4, "text": "विभाजक", "is_correct": false }
+      ],
+      "answer": "शांततामय"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "भारतासाठी परराष्ट्र धोरणाचा अंतिम उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "जागतिक वर्चस्व", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय विकास व सुरक्षा", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्धा", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय विकास व सुरक्षा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "भारत व अन्य देश या प्रकरणाचा अभ्यास का महत्त्वाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त परीक्षेसाठी", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक संबंध समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भाषेसाठी", "is_correct": false }
+      ],
+      "answer": "जागतिक संबंध समजण्यासाठी"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात कोणते तत्त्व महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "निरपेक्षता", "is_correct": false },
+        { "option_id": 2, "text": "सार्वभौमत्वाचा आदर", "is_correct": true },
+        { "option_id": 3, "text": "वर्चस्व", "is_correct": false },
+        { "option_id": 4, "text": "एकाधिकार", "is_correct": false }
+      ],
+      "answer": "सार्वभौमत्वाचा आदर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "भारतासाठी शेजारी राष्ट्रांशी मैत्री का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्थैर्य व विकासासाठी", "is_correct": true },
+        { "option_id": 2, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 3, "text": "भाषेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळासाठी", "is_correct": false }
+      ],
+      "answer": "स्थैर्य व विकासासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणात कोणत्या मार्गाचा अवलंब केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "युद्धाचा मार्ग", "is_correct": false },
+        { "option_id": 2, "text": "संवाद व सहकार्याचा मार्ग", "is_correct": true },
+        { "option_id": 3, "text": "एकतर्फी निर्णय", "is_correct": false },
+        { "option_id": 4, "text": "हिंसा", "is_correct": false }
+      ],
+      "answer": "संवाद व सहकार्याचा मार्ग"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भारतासाठी बहुपक्षीय संघटनांतील सहभाग का महत्त्वाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकटेपणा वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक प्रभाव वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भाषेसाठी", "is_correct": false }
+      ],
+      "answer": "जागतिक प्रभाव वाढवण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारताच्या परराष्ट्र धोरणाचा अभ्यास विद्यार्थ्यांसाठी का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त गुणांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक जाणीव निर्माण करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भाषेसाठी", "is_correct": false }
+      ],
+      "answer": "जागतिक जाणीव निर्माण करण्यासाठी"
+    }
+  ]
+},
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.05",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "भारत व अन्य देश",
+    "question_set": "Short Answers 1–100"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणाचा अर्थ काय?",
+      "answer": "भारत इतर देशांशी ज्या प्रकारचे संबंध ठेवतो त्यास भारताचे परराष्ट्र धोरण म्हणतात."
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणाचा मुख्य उद्देश कोणता आहे?",
+      "answer": "राष्ट्रीय हिताचे संरक्षण करणे हा भारताच्या परराष्ट्र धोरणाचा मुख्य उद्देश आहे."
+    },
+    {
+      "question_id": 3,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या खंडात स्थित आहे?",
+      "answer": "भारत आशिया खंडात स्थित आहे."
+    },
+    {
+      "question_id": 4,
+      "question_type": "SHORT",
+      "question": "भारत-पाकिस्तान संबंध तणावपूर्ण का आहेत?",
+      "answer": "काश्मीर प्रश्न व दहशतवादामुळे भारत-पाकिस्तान संबंध तणावपूर्ण आहेत."
+    },
+    {
+      "question_id": 5,
+      "question_type": "SHORT",
+      "question": "काश्मीर प्रश्न म्हणजे काय?",
+      "answer": "काश्मीर प्रदेशावर भारत व पाकिस्तान दोन्ही देशांचा दावा म्हणजे काश्मीर प्रश्न होय."
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "SHORT",
+      "question": "भारत-पाकिस्तान यांच्यात किती युद्धे झाली आहेत?",
+      "answer": "भारत-पाकिस्तान यांच्यात तीन वेळा युद्धे झाली आहेत."
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "भारत-चीन युद्ध कधी झाले?",
+      "answer": "भारत-चीन युद्ध १९६२ मध्ये झाले."
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "भारत-चीन सीमावाद कोणत्या भागाशी संबंधित आहे?",
+      "answer": "भारत-चीन सीमावाद अक्साई चीन भागाशी संबंधित आहे."
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "तिबेट प्रश्न काय आहे?",
+      "answer": "तिबेटवर चीनच्या नियंत्रणामुळे निर्माण झालेला प्रश्न म्हणजे तिबेट प्रश्न होय."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "दलाई लामा भारतात का आले?",
+      "answer": "चीनच्या कारवाईमुळे दलाई लामांनी भारतात आश्रय घेतला."
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "भारत-अफगाणिस्तान संबंध कसे आहेत?",
+      "answer": "भारत-अफगाणिस्तान संबंध मैत्रीपूर्ण व सहकार्याचे आहेत."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "भारताने अफगाणिस्तानला कोणत्या क्षेत्रात मदत केली आहे?",
+      "answer": "भारताने विकास, शिक्षण व आरोग्य क्षेत्रात मदत केली आहे."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "बांगलादेशाची निर्मिती कधी झाली?",
+      "answer": "बांगलादेशाची निर्मिती १९७१ साली झाली."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "बांगलादेशाच्या स्वातंत्र्यलढ्यात भारताची भूमिका काय होती?",
+      "answer": "भारताने बांगलादेशाच्या स्वातंत्र्यलढ्यात मदत केली."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "भारत-बांगलादेश संबंध आज कसे आहेत?",
+      "answer": "भारत-बांगलादेश संबंध सध्या सहकार्याचे आहेत."
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "श्रीलंकेतील तमिळ प्रश्न काय आहे?",
+      "answer": "श्रीलंकेतील तमिळ लोकांच्या हक्कांशी संबंधित प्रश्न म्हणजे तमिळ प्रश्न होय."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "भारताने श्रीलंकेत शांतिसेना का पाठवली?",
+      "answer": "तमिळ संघर्ष थांबवण्यासाठी भारताने शांतिसेना पाठवली."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "भारत-नेपाळ मैत्री करार कधी झाला?",
+      "answer": "भारत-नेपाळ मैत्री करार १९५० मध्ये झाला."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "भारत-नेपाळ संबंध कशामुळे महत्त्वाचे आहेत?",
+      "answer": "सांस्कृतिक व भौगोलिक जवळीकमुळे हे संबंध महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "भूटानच्या संरक्षणाची जबाबदारी कोणावर आहे?",
+      "answer": "भूटानच्या संरक्षणाची जबाबदारी भारतावर आहे."
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "भारत-भूटान संबंध कसे आहेत?",
+      "answer": "भारत-भूटान संबंध अत्यंत मैत्रीपूर्ण आहेत."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "भारत-मालदीव संबंध कोणत्या क्षेत्रात महत्त्वाचे आहेत?",
+      "answer": "सागरी सुरक्षा क्षेत्रात भारत-मालदीव संबंध महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "म्यानमार भारतासाठी महत्त्वाचा का आहे?",
+      "answer": "म्यानमार भारतासाठी आग्नेय आशियाचे प्रवेशद्वार आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "भारताच्या ‘पूर्वेकडे पहा’ धोरणाचा उद्देश काय होता?",
+      "answer": "आग्नेय आशियाशी आर्थिक संबंध वाढवणे हा उद्देश होता."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "सार्क म्हणजे काय?",
+      "answer": "दक्षिण आशियाई देशांची प्रादेशिक संघटना म्हणजे सार्क होय."
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "सार्कची स्थापना कधी झाली?",
+      "answer": "सार्कची स्थापना १९८५ साली झाली."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "भारत-अमेरिका संबंध कधी सुधारले?",
+      "answer": "शीतयुद्धानंतर भारत-अमेरिका संबंध सुधारले."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "भारत-अमेरिका अणुकरार कधी झाला?",
+      "answer": "भारत-अमेरिका अणुकरार २००८ मध्ये झाला."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध काळात भारताचे मैत्रीपूर्ण संबंध कोणत्या देशाशी होते?",
+      "answer": "शीतयुद्ध काळात भारताचे मैत्रीपूर्ण संबंध सोव्हिएत रशियाशी होते."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "भारत-रशिया संबंध कशामुळे महत्त्वाचे आहेत?",
+      "answer": "संरक्षण व तांत्रिक सहकार्यामुळे हे संबंध महत्त्वाचे आहेत."
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "भारत-युरोपियन राष्ट्रांशी संबंध कशावर आधारित आहेत?",
+      "answer": "व्यापार व तंत्रज्ञान सहकार्यावर आधारित आहेत."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "भारत-आफ्रिका संबंधांचे वैशिष्ट्य काय आहे?",
+      "answer": "विकास व संसाधनांवरील सहकार्य हे वैशिष्ट्य आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "भारतासाठी पश्चिम आशिया महत्त्वाचा का आहे?",
+      "answer": "ऊर्जा पुरवठ्यासाठी पश्चिम आशिया महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणात शांततेचे महत्त्व काय?",
+      "answer": "शांततेशिवाय विकास शक्य नसल्यामुळे शांततेला महत्त्व दिले जाते."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "भारतासाठी सागरी सुरक्षा का आवश्यक आहे?",
+      "answer": "व्यापार व ऊर्जा मार्ग सुरक्षित ठेवण्यासाठी सागरी सुरक्षा आवश्यक आहे."
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "भारत-जपान संबंध कशावर आधारित आहेत?",
+      "answer": "पायाभूत सुविधा व तंत्रज्ञान सहकार्यावर आधारित आहेत."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "भारत-इस्त्रायल संबंध कोणत्या क्षेत्रात महत्त्वाचे आहेत?",
+      "answer": "संरक्षण व कृषी तंत्रज्ञान क्षेत्रात महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणात राष्ट्रीय हित म्हणजे काय?",
+      "answer": "देशाची सुरक्षा, विकास व स्वातंत्र्य म्हणजे राष्ट्रीय हित होय."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "भारतासाठी बहुपक्षीय धोरण का आवश्यक आहे?",
+      "answer": "संतुलित जागतिक संबंध ठेवण्यासाठी बहुपक्षीय धोरण आवश्यक आहे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "भारत दहशतवादाविरुद्ध कोणती भूमिका घेतो?",
+      "answer": "भारत दहशतवादाविरुद्ध कठोर भूमिका घेतो."
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "भारत-पाकिस्तान संवाद अयशस्वी का ठरतो?",
+      "answer": "दहशतवादी कारवायांमुळे संवाद अयशस्वी ठरतो."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "भारतासाठी ऊर्जा सुरक्षा का महत्त्वाची आहे?",
+      "answer": "औद्योगिक विकासासाठी ऊर्जा सुरक्षा महत्त्वाची आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "भारत-आफ्रिका शिखर परिषद का आयोजित केली जाते?",
+      "answer": "विकास सहकार्य वाढवण्यासाठी ही परिषद आयोजित केली जाते."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणात संवादाला महत्त्व का दिले जाते?",
+      "answer": "संघर्ष टाळण्यासाठी संवादाला महत्त्व दिले जाते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "भारतासाठी दक्षिण आशियातील स्थैर्य का आवश्यक आहे?",
+      "answer": "राष्ट्रीय सुरक्षेसाठी दक्षिण आशियातील स्थैर्य आवश्यक आहे."
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणात सार्वभौमत्वाचा अर्थ काय?",
+      "answer": "प्रत्येक देशाच्या स्वातंत्र्याचा आदर करणे म्हणजे सार्वभौमत्व होय."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणात आर्थिक घटक का महत्त्वाचा आहे?",
+      "answer": "व्यापार व गुंतवणूक विकासासाठी आवश्यक असल्यामुळे तो महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "भारत-चीन आर्थिक संबंधांचे स्वरूप कसे आहे?",
+      "answer": "सीमावाद असूनही व्यापार वाढत आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "भारताच्या परराष्ट्र धोरणातील आव्हाने कोणती?",
+      "answer": "सीमावाद, दहशतवाद व जागतिक राजकारण ही प्रमुख आव्हाने आहेत."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "‘भारत व अन्य देश’ या प्रकरणाचा अभ्यास का आवश्यक आहे?",
+      "answer": "जागतिक संबंध व भारताची भूमिका समजण्यासाठी हा अभ्यास आवश्यक आहे."
+    }
+
+    
+  ]
+},
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.05",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "भारत व अन्य देश",
+    "question_set": "Long Answers 1–50"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "LONG",
+      "question": "भारताचे शेजारी राष्ट्रांशी संबंध अभ्यासण्याची गरज स्पष्ट करा.",
+      "answer": "भारत आशिया खंडातील महत्त्वाचा देश आहे. त्याच्या सीमा अनेक राष्ट्रांशी जोडलेल्या आहेत. शेजारी राष्ट्रांशी असलेले संबंध देशाच्या सुरक्षेवर परिणाम करतात. व्यापार, दळणवळण व सांस्कृतिक देवाणघेवाणीवरही त्याचा प्रभाव पडतो. प्रादेशिक शांतता राखण्यासाठी हे संबंध महत्त्वाचे असतात. म्हणून भारताचे शेजारी राष्ट्रांशी संबंध अभ्यासणे आवश्यक आहे."
+    },
+    {
+      "question_id": 2,
+      "question_type": "LONG",
+      "question": "भारत आणि पाकिस्तान यांच्यातील संबंधांचा आढावा घ्या.",
+      "answer": "१९४७ मध्ये भारताची फाळणी होऊन पाकिस्तानची निर्मिती झाली. काश्मीर प्रश्नामुळे दोन्ही देशांत तणाव निर्माण झाला. १९६५ व १९७१ मध्ये युद्धे झाली. १९७२ चा सिमला करार द्विपक्षीय संवादावर आधारित होता. १९९९ मधील कारगिल संघर्षाने तणाव वाढवला. आज दहशतवाद हे मुख्य संघर्षाचे कारण आहे."
+    },
+    {
+      "question_id": 3,
+      "question_type": "LONG",
+      "question": "काश्मीर प्रश्न भारत-पाकिस्तान संबंधांवर कसा परिणाम करतो?",
+      "answer": "काश्मीर हा भारत-पाकिस्तान संघर्षाचा केंद्रबिंदू आहे. १९४७ पासून हा प्रश्न प्रलंबित आहे. यामुळे अनेक युद्धे झाली. शांततापूर्ण संवाद वारंवार खंडित होतो. दहशतवादी कारवाया वाढल्या आहेत. त्यामुळे दोन्ही देशांतील संबंध तणावपूर्ण राहिले आहेत."
+    },
+    {
+      "question_id": 4,
+      "question_type": "LONG",
+      "question": "भारत-चीन सीमावाद स्पष्ट करा.",
+      "answer": "भारत-चीन सीमावाद अक्साई चीन व मॅकमोहन रेषेशी संबंधित आहे. चीन मॅकमोहन रेषा मान्य करत नाही. १९६२ मध्ये चीनने भारतावर आक्रमण केले. त्यानंतर संबंध तणावपूर्ण झाले. संवादाच्या मार्गाने प्रश्न सोडवण्याचे प्रयत्न सुरू आहेत. तरीही सीमावाद पूर्णपणे सुटलेला नाही."
+    },
+    {
+      "question_id": 5,
+      "question_type": "LONG",
+      "question": "तिबेट प्रश्न भारत-चीन संबंधांवर कसा प्रभाव टाकतो?",
+      "answer": "तिबेट हा ऐतिहासिकदृष्ट्या स्वायत्त प्रदेश होता. चीनने तिथे आपले नियंत्रण वाढवले. दलाई लामांनी भारतात आश्रय घेतला. या घटनेमुळे भारत-चीन संबंध तणावपूर्ण झाले. चीनला भारताच्या भूमिकेबद्दल नाराजी आहे. त्यामुळे तिबेट प्रश्न महत्त्वाचा ठरतो."
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "LONG",
+      "question": "भारत-अफगाणिस्तान संबंध स्पष्ट करा.",
+      "answer": "अफगाणिस्तानमध्ये दीर्घकाळ राजकीय अस्थिरता आहे. भारताने अफगाणिस्तानला शांतता व लोकशाही स्थापनेसाठी मदत केली आहे. रस्ते, शाळा, आरोग्य सुविधा उभारण्यात भारताने योगदान दिले. विज्ञान व तंत्रज्ञान क्षेत्रातही सहकार्य केले आहे. भारताचे संबंध मैत्रीपूर्ण आहेत."
+    },
+    {
+      "question_id": 7,
+      "question_type": "LONG",
+      "question": "भारत-बांगलादेश संबंधांचा आढावा घ्या.",
+      "answer": "बांगलादेशाची निर्मिती १९७१ मध्ये झाली. भारताने बांगलादेश मुक्ती संग्रामात मदत केली. सुरुवातीला काही सीमावाद व पाणीवाटपाचे प्रश्न होते. विविध करारांमुळे हे प्रश्न सुटले. आज दोन्ही देशांमध्ये व्यापारी संबंध वाढत आहेत."
+    },
+    {
+      "question_id": 8,
+      "question_type": "LONG",
+      "question": "भारत-श्रीलंका संबंध स्पष्ट करा.",
+      "answer": "भारत व श्रीलंका यांचे संबंध मैत्रीपूर्ण आहेत. श्रीलंकेतील तमिळ संघर्षामुळे अस्थिरता निर्माण झाली होती. भारताने शांतिसेना पाठवली होती. सागरी सुरक्षेच्या दृष्टीने श्रीलंका महत्त्वाचा देश आहे. त्यामुळे सहकार्य आवश्यक आहे."
+    },
+    {
+      "question_id": 9,
+      "question_type": "LONG",
+      "question": "भारत-नेपाळ संबंधांचे महत्त्व स्पष्ट करा.",
+      "answer": "भारत व नेपाळ यांच्यात १९५० चा मैत्री करार झाला. या करारामुळे नागरिकांना मुक्त प्रवेश मिळाला. नेपाळ आर्थिक व ऊर्जेच्या गरजांसाठी भारतावर अवलंबून आहे. लोकशाही स्थापनेस भारताने मदत केली. संबंध ऐतिहासिक व सांस्कृतिक आहेत."
+    },
+    {
+      "question_id": 10,
+      "question_type": "LONG",
+      "question": "भारत-भूटान संबंध स्पष्ट करा.",
+      "answer": "भूटानच्या संरक्षणाची जबाबदारी भारतावर आहे. जलविद्युत प्रकल्पांमध्ये भारताने सहकार्य केले आहे. आर्थिक विकासासाठी भारत मदत करतो. दोन्ही देशांमध्ये परस्पर विश्वास आहे. संबंध अत्यंत मैत्रीपूर्ण आहेत."
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "LONG",
+      "question": "भारत-मालदीव संबंध स्पष्ट करा.",
+      "answer": "भारत व मालदीव यांचे संबंध सुरुवातीपासूनच मैत्रीपूर्ण आहेत. भारताने पायाभूत सुविधा, आरोग्य व दळणवळण क्षेत्रात मदत केली आहे. संरक्षण सहकार्यही वाढले आहे. पर्यटन व अवकाश क्षेत्रात करार झाले आहेत. दहशतवादविरोधी सहकार्यही आहे."
+    },
+    {
+      "question_id": 12,
+      "question_type": "LONG",
+      "question": "भारत-म्यानमार संबंधांचे महत्त्व स्पष्ट करा.",
+      "answer": "म्यानमार भारतासाठी आग्नेय आशियाचे प्रवेशद्वार आहे. दळणवळण प्रकल्पांमुळे व्यापार वाढतो. नैसर्गिक वायू आयात करण्याची शक्यता आहे. लोकशाही स्थापनेस भारताने पाठिंबा दिला आहे. त्यामुळे संबंध महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 13,
+      "question_type": "LONG",
+      "question": "दक्षिण आशियाई सहकार्य संघटना (SAARC) स्पष्ट करा.",
+      "answer": "सार्कची स्थापना १९८५ मध्ये झाली. दक्षिण आशियाई देशांचा विकास साधणे हा उद्देश आहे. दारिद्र्य निर्मूलन व व्यापार वाढवणे हे हेतू आहेत. मुक्त व्यापार क्षेत्राचा करार करण्यात आला. प्रादेशिक सहकार्याचे हे महत्त्वाचे व्यासपीठ आहे."
+    },
+    {
+      "question_id": 14,
+      "question_type": "LONG",
+      "question": "भारत-अमेरिका संबंधांचा विकास स्पष्ट करा.",
+      "answer": "सुरुवातीला संबंध मर्यादित होते. शीतयुद्धानंतर सहकार्य वाढले. २००५ चा संरक्षण करार व २००८ चा अणुकरार महत्त्वाचे टप्पे आहेत. व्यापार व तंत्रज्ञान सहकार्य वाढले आहे. आज संबंध धोरणात्मक आहेत."
+    },
+    {
+      "question_id": 15,
+      "question_type": "LONG",
+      "question": "भारत-रशिया संबंधांचा आढावा घ्या.",
+      "answer": "शीतयुद्ध काळात भारत-सोव्हिएत रशिया मैत्रीपूर्ण होते. १९७१ चा मैत्री करार महत्त्वाचा होता. रशियाने लष्करी व आर्थिक मदत केली. सोव्हिएत विघटनानंतर संबंध काही काळ मंदावले. नंतर सहकार्य पुन्हा वाढले."
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "भारत-युरोपीय राष्ट्रे संबंध स्पष्ट करा.",
+      "answer": "भारत व युरोपीय राष्ट्रांमध्ये व्यापारी संबंध आहेत. जर्मनी व फ्रान्स तंत्रज्ञानात गुंतवणूक करतात. संरक्षण व सायबर सुरक्षा क्षेत्रात सहकार्य आहे. हवामान बदलावर संयुक्त प्रयत्न होतात. हे संबंध विकासासाठी उपयुक्त आहेत."
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "भारत-आफ्रिका संबंधांचे महत्त्व स्पष्ट करा.",
+      "answer": "आफ्रिकेशी सहकार्य दोघांसाठी फायदेशीर आहे. भारत शिक्षण, आरोग्य व कौशल्य विकासात मदत करतो. आफ्रिकेकडून भारताला ऊर्जा संसाधने मिळतात. व्यापार वाढवण्यावर भर आहे. शिखर परिषदांमुळे सहकार्य वाढले."
+    },
+    {
+      "question_id": 18,
+      "question_type": "LONG",
+      "question": "भारत-इंडो-पॅसिफिक धोरण स्पष्ट करा.",
+      "answer": "इंडो-पॅसिफिक क्षेत्रात भारताचे महत्त्व वाढले आहे. जपान, ऑस्ट्रेलिया व आग्नेय आशियाशी सहकार्य आहे. सागरी सुरक्षा महत्त्वाची ठरते. व्यापार व गुंतवणूक वाढते. धोरणात्मक संतुलन राखले जाते."
+    },
+    {
+      "question_id": 19,
+      "question_type": "LONG",
+      "question": "‘पूर्वेकडे पहा’ व ‘कृती करा’ धोरण स्पष्ट करा.",
+      "answer": "१९९१ नंतर भारताने ‘पूर्वेकडे पहा’ धोरण स्वीकारले. आग्नेय आशियाशी व्यापार वाढवण्याचा उद्देश होता. २०१४ नंतर ‘कृती करा’ धोरण सुरू झाले. आर्थिक व संरक्षण सहकार्य वाढले. धोरण अधिक सक्रीय झाले."
+    },
+    {
+      "question_id": 20,
+      "question_type": "LONG",
+      "question": "भारत-पश्चिम आशिया संबंध स्पष्ट करा.",
+      "answer": "पश्चिम आशिया भारतासाठी ऊर्जा पुरवठ्याचा स्रोत आहे. इराण, सौदी अरेबिया, यूएई महत्त्वाचे भागीदार आहेत. अनेक भारतीय तेथे कार्यरत आहेत. संरक्षण व तंत्रज्ञान सहकार्य आहे. संबंध परस्परावलंबी आहेत."
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "भारताच्या परराष्ट्र धोरणाचा प्रमुख उद्देश स्पष्ट करा.",
+      "answer": "सर्व राष्ट्रांशी मैत्रीपूर्ण संबंध राखणे हा मुख्य उद्देश आहे. शांतता व सहकार्य वाढवणे आवश्यक आहे. परस्पर विकास साधणे महत्त्वाचे आहे. स्वायत्त परराष्ट्र धोरण राबवले जाते. राष्ट्रीय हित सर्वोच्च मानले जाते."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "भारत शेजारी राष्ट्रांमध्ये लोकशाहीसाठी कसे कार्य करतो?",
+      "answer": "भारत लोकशाही मूल्यांचा पुरस्कार करतो. नेपाळ व अफगाणिस्तानला मदत केली आहे. निवडणूक प्रक्रिया व संस्था उभारणीस सहकार्य केले जाते. स्थैर्यासाठी प्रयत्न होतात."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "भारत-पाकिस्तान संबंधांतील अण्वस्त्र प्रश्न स्पष्ट करा.",
+      "answer": "१९९८ मध्ये दोन्ही देशांनी अणुचाचण्या केल्या. त्यामुळे प्रादेशिक सुरक्षेला धोका निर्माण झाला. आंतरराष्ट्रीय समुदायाने चिंता व्यक्त केली. आण्विक संघर्ष टाळण्यासाठी संवाद आवश्यक आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "भारत-चीन आर्थिक संबंधांचे महत्त्व स्पष्ट करा.",
+      "answer": "सीमावाद असूनही आर्थिक संबंध वाढले आहेत. व्यापार व गुंतवणूक वाढली आहे. आर्थिक सहकार्यामुळे तणाव काही प्रमाणात कमी झाला. विकासाला चालना मिळाली."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "भारतासाठी शेजारी राष्ट्रांशी शांततामय संबंध का आवश्यक आहेत?",
+      "answer": "राष्ट्रीय सुरक्षा सुनिश्चित करण्यासाठी शांतता आवश्यक आहे. आर्थिक विकासासाठी स्थिरता गरजेची आहे. प्रादेशिक सहकार्य वाढते. संघर्ष टाळता येतो."
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "भारत-बांगलादेश पाणीवाटप करारांचे महत्त्व स्पष्ट करा.",
+      "answer": "पाणीवाटप हा संवेदनशील विषय आहे. करारांमुळे संघर्ष कमी झाले. परस्पर विश्वास वाढला. सहकार्याचे वातावरण निर्माण झाले."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "भारत-श्रीलंका सागरी सहकार्य स्पष्ट करा.",
+      "answer": "सागरी सुरक्षेसाठी सहकार्य महत्त्वाचे आहे. दहशतवाद व चाचेगिरी रोखली जाते. व्यापार मार्ग सुरक्षित राहतात."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "भारत-नेपाळ ऊर्जासहकार्य स्पष्ट करा.",
+      "answer": "नेपाळमध्ये जलविद्युत क्षमता आहे. भारताने प्रकल्पांमध्ये गुंतवणूक केली आहे. दोन्ही देशांना लाभ होतो."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "भारत-मालदीव संरक्षण सहकार्य स्पष्ट करा.",
+      "answer": "भारत मालदीवची सुरक्षा क्षमता वाढवतो. नौदल व तटरक्षक दलांमध्ये सहकार्य आहे. सागरी सुरक्षा मजबूत होते."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "भारत-आफ्रिका व्यापार संबंध स्पष्ट करा.",
+      "answer": "आफ्रिकेशी व्यापार वाढवण्यावर भारताचा भर आहे. ऊर्जा, शेती व तंत्रज्ञान क्षेत्रात सहकार्य आहे. दोन्हींचा विकास साधतो."
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "भारत-अमेरिका अणुसहकार्य कराराचे महत्त्व स्पष्ट करा.",
+      "answer": "२००८ च्या करारामुळे भारताला अणुतंत्रज्ञान मिळाले. ऊर्जा गरजा भागवता आल्या. आंतरराष्ट्रीय विश्वास वाढला."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "भारत-रशिया लष्करी सहकार्य स्पष्ट करा.",
+      "answer": "संयुक्त प्रकल्प उभारले गेले. शस्त्रनिर्मिती व तंत्रज्ञानात सहकार्य झाले. संरक्षण क्षमता वाढली."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "भारत-युरोपियन संघ सहकार्य स्पष्ट करा.",
+      "answer": "व्यापार, संशोधन व हवामान बदल क्षेत्रात सहकार्य आहे. तंत्रज्ञान हस्तांतरण होते. विकासाला चालना मिळते."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "भारत-आग्नेय आशिया आर्थिक संबंध स्पष्ट करा.",
+      "answer": "मुक्त अर्थव्यवस्थेनंतर व्यापार वाढला. गुंतवणूक वाढली. धोरणात्मक सहकार्य झाले."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "भारताच्या परराष्ट्र धोरणात शांततेचे महत्त्व स्पष्ट करा.",
+      "answer": "शांततेशिवाय विकास शक्य नाही. भारत संवादावर भर देतो. संघर्ष टाळण्याचा प्रयत्न करतो."
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "भारत-चीन-रशिया त्रिपक्षीय चर्चांचे महत्त्व स्पष्ट करा.",
+      "answer": "आर्थिक व राजकीय सहकार्य वाढते. प्रादेशिक स्थैर्य साधले जाते. बहुपक्षीय संवादास चालना मिळते."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "भारत-पाकिस्तान संवाद का अयशस्वी ठरतो?",
+      "answer": "दहशतवादाला पाकिस्तानचा पाठिंबा आहे. विश्वासाचा अभाव आहे. त्यामुळे संवाद टिकत नाही."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "भारतासाठी सागरी सुरक्षा का महत्त्वाची आहे?",
+      "answer": "व्यापार मार्ग सागरी आहेत. ऊर्जा आयात सुरक्षित ठेवणे गरजेचे आहे. दहशतवाद व चाचेगिरी रोखली जाते."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "भारताच्या परराष्ट्र धोरणात आर्थिक घटकांचे महत्त्व स्पष्ट करा.",
+      "answer": "व्यापार व गुंतवणूक विकासासाठी आवश्यक आहेत. आंतरराष्ट्रीय सहकार्यामुळे अर्थव्यवस्था मजबूत होते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "भारत-आफ्रिका शिखर परिषदेचे महत्त्व स्पष्ट करा.",
+      "answer": "सर्व आफ्रिकी देशांचा सहभाग होता. विकास, दहशतवाद व हवामान बदलावर चर्चा झाली."
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "भारत-जपान सहकार्य स्पष्ट करा.",
+      "answer": "पायाभूत सुविधा, रेल्वे व अणुऊर्जा क्षेत्रात सहकार्य आहे. सागरी सुरक्षा मजबूत होते."
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "भारत-ऑस्ट्रेलिया संबंध स्पष्ट करा.",
+      "answer": "सामाजिक सुरक्षा, संरक्षण व पर्यटन क्षेत्रात करार झाले. व्यापारी संबंध वाढले."
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "भारत-इस्त्रायल संबंध स्पष्ट करा.",
+      "answer": "संरक्षण व शेती तंत्रज्ञानात सहकार्य आहे. आधुनिक शस्त्रसामग्री मिळते."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "भारताच्या परराष्ट्र धोरणात ऊर्जा सुरक्षेचे महत्त्व स्पष्ट करा.",
+      "answer": "ऊर्जा आयात आवश्यक आहे. पश्चिम आशिया व आफ्रिका महत्त्वाचे भागीदार आहेत."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "भारत-दक्षिण आशिया संबंधांतील भारताची भूमिका स्पष्ट करा.",
+      "answer": "भारत प्रादेशिक नेतृत्व करतो. विकास व सहकार्यावर भर देतो."
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "भारताच्या परराष्ट्र धोरणात दहशतवादविरोधी भूमिका स्पष्ट करा.",
+      "answer": "दहशतवादाविरुद्ध कठोर भूमिका घेतली जाते. आंतरराष्ट्रीय सहकार्य वाढवले जाते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "भारत-पश्चिम आशिया स्थलांतराचा आर्थिक परिणाम स्पष्ट करा.",
+      "answer": "अनिवासी भारतीयांच्या पाठवलेल्या रकमा अर्थव्यवस्थेस उपयुक्त ठरतात."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "भारतासाठी बहुपक्षीय परराष्ट्र धोरणाचे महत्त्व स्पष्ट करा.",
+      "answer": "अनेक राष्ट्रांशी संतुलित संबंध ठेवता येतात. जागतिक प्रभाव वाढतो."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "भारताच्या परराष्ट्र धोरणातील आव्हाने स्पष्ट करा.",
+      "answer": "सीमावाद, दहशतवाद व महासत्तांचे राजकारण ही आव्हाने आहेत."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "‘भारत व अन्य देश’ या प्रकरणाचे अध्ययन विद्यार्थ्यांसाठी का महत्त्वाचे आहे?",
+      "answer": "विद्यार्थ्यांना जागतिक संबंधांची समज मिळते. परराष्ट्र धोरणाचे महत्त्व कळते. जागतिक नागरिकत्वाची जाणीव निर्माण होते."
+    }
+  ]
+}
+
+  ]
+}

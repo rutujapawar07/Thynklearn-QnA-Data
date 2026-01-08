@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.09",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "वरदान माँगूँगा नहीं"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'वरदान माँगूँगा नहीं' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "हरिवंश राय बच्चन", "is_correct": false },
+        { "option_id": 2, "text": "शिवमंगल सिंह 'सुमन'", "is_correct": true },
+        { "option_id": 3, "text": "मैथिलीशरण गुप्त", "is_correct": false },
+        { "option_id": 4, "text": "रामधारी सिंह दिनकर", "is_correct": false }
+      ],
+      "answer": "शिवमंगल सिंह 'सुमन'"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवि क्या नहीं माँगना चाहते?",
+      "options": [
+        { "option_id": 1, "text": "धन", "is_correct": false },
+        { "option_id": 2, "text": "वरदान (दया की भीख)", "is_correct": true },
+        { "option_id": 3, "text": "ज्ञान", "is_correct": false },
+        { "option_id": 4, "text": "सम्मान", "is_correct": false }
+      ],
+      "answer": "वरदान (दया की भीख)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवि जीवन को क्या मानते हैं?",
+      "options": [
+        { "option_id": 1, "text": "एक खेल", "is_correct": false },
+        { "option_id": 2, "text": "महा-संग्राम", "is_correct": true },
+        { "option_id": 3, "text": "एक सपना", "is_correct": false },
+        { "option_id": 4, "text": "सज़ा", "is_correct": false }
+      ],
+      "answer": "महा-संग्राम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवि हार-जीत में कैसा महसूस करते हैं?",
+      "options": [
+        { "option_id": 1, "text": "भयभीत", "is_correct": false },
+        { "option_id": 2, "text": "दुखी", "is_correct": false },
+        { "option_id": 3, "text": "किंचित नहीं भयभीत", "is_correct": true },
+        { "option_id": 4, "text": "उदास", "is_correct": false }
+      ],
+      "answer": "किंचित नहीं भयभीत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवि अपनी 'लघुता' (छोटापन) को क्यों नहीं छूने देना चाहते?",
+      "options": [
+        { "option_id": 1, "text": "क्योंकि वे महान बने रहना चाहते हैं", "is_correct": true },
+        { "option_id": 2, "text": "क्योंकि वे अमीर हैं", "is_correct": false },
+        { "option_id": 3, "text": "क्योंकि उन्हें डर है", "is_correct": false },
+        { "option_id": 4, "text": "क्योंकि वे अकेले हैं", "is_correct": false }
+      ],
+      "answer": "क्योंकि वे महान बने रहना चाहते हैं"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवि किस पथ से भागना नहीं चाहते?",
+      "options": [
+        { "option_id": 1, "text": "घर के रास्ते से", "is_correct": false },
+        { "option_id": 2, "text": "कर्तव्य पथ से", "is_correct": true },
+        { "option_id": 3, "text": "जंगल के रास्ते से", "is_correct": false },
+        { "option_id": 4, "text": "नदी के किनारे से", "is_correct": false }
+      ],
+      "answer": "कर्तव्य पथ से"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'प्रहर' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "पहाड़", "is_correct": false },
+        { "option_id": 2, "text": "समय का एक भाग (तीन घंटे का समय)", "is_correct": true },
+        { "option_id": 3, "text": "प्रहार", "is_correct": false },
+        { "option_id": 4, "text": "प्यार", "is_correct": false }
+      ],
+      "answer": "समय का एक भाग (तीन घंटे का समय)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'खंडहर' किसका प्रतीक है?",
+      "options": [
+        { "option_id": 1, "text": "नए घर का", "is_correct": false },
+        { "option_id": 2, "text": "भग्नावशेष (टूटे हुए अवशेष)", "is_correct": true },
+        { "option_id": 3, "text": "महल का", "is_correct": false },
+        { "option_id": 4, "text": "मंदिर का", "is_correct": false }
+      ],
+      "answer": "भग्नावशेष (टूटे हुए अवशेष)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवि हृदय की वेदना को क्या नहीं करना चाहते?",
+      "options": [
+        { "option_id": 1, "text": "बढ़ाना नहीं चाहते", "is_correct": false },
+        { "option_id": 2, "text": "व्यर्थ त्यागना नहीं चाहते", "is_correct": true },
+        { "option_id": 3, "text": "छिपाना नहीं चाहते", "is_correct": false },
+        { "option_id": 4, "text": "भुलाना नहीं चाहते", "is_correct": false }
+      ],
+      "answer": "व्यर्थ त्यागना नहीं चाहते"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवि विश्व की क्या नहीं चाहेंगे?",
+      "options": [
+        { "option_id": 1, "text": "शांति", "is_correct": false },
+        { "option_id": 2, "text": "संपत्ति", "is_correct": true },
+        { "option_id": 3, "text": "मित्रता", "is_correct": false },
+        { "option_id": 4, "text": "प्रशंसा", "is_correct": false }
+      ],
+      "answer": "संपत्ति"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'अभिशाप' का विलोम शब्द क्या है?",
+      "options": [
+        { "option_id": 1, "text": "वरदान", "is_correct": true },
+        { "option_id": 2, "text": "शाप", "is_correct": false },
+        { "option_id": 3, "text": "पाप", "is_correct": false },
+        { "option_id": 4, "text": "दुःख", "is_correct": false }
+      ],
+      "answer": "वरदान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'तिल-तिल मिटना' मुहावरे का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "जल्दी मरना", "is_correct": false },
+        { "option_id": 2, "text": "धीरे-धीरे समाप्त होना", "is_correct": true },
+        { "option_id": 3, "text": "तिल खाना", "is_correct": false },
+        { "option_id": 4, "text": "गायब होना", "is_correct": false }
+      ],
+      "answer": "धीरे-धीरे समाप्त होना"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "यह हार एक __________ है।",
+      "options": [
+        { "option_id": 1, "text": "अंत", "is_correct": false },
+        { "option_id": 2, "text": "विराम", "is_correct": true },
+        { "option_id": 3, "text": "शुरुआत", "is_correct": false },
+        { "option_id": 4, "text": "सज़ा", "is_correct": false }
+      ],
+      "answer": "विराम"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवि सुखद प्रहरों की __________ के लिए भीख नहीं माँगेंगे।",
+      "options": [
+        { "option_id": 1, "text": "स्मृति (याद)", "is_correct": true },
+        { "option_id": 2, "text": "कल्पना", "is_correct": false },
+        { "option_id": 3, "text": "तस्वीर", "is_correct": false },
+        { "option_id": 4, "text": "कहानी", "is_correct": false }
+      ],
+      "answer": "स्मृति (याद)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "संघर्ष पथ पर जो मिले यह भी __________ वह भी __________।",
+      "options": [
+        { "option_id": 1, "text": "गलत, गलत", "is_correct": false },
+        { "option_id": 2, "text": "सही, सही", "is_correct": true },
+        { "option_id": 3, "text": "अच्छा, बुरा", "is_correct": false },
+        { "option_id": 4, "text": "अपना, पराया", "is_correct": false }
+      ],
+      "answer": "सही, सही"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि किन परिस्थितियों में वरदान नहीं माँगना चाहते?",
+      "answer": "कवि सुखद स्मृतियों के लिए, अपने खंडहरों के लिए या विश्व की संपत्ति चाहने के लिए वरदान नहीं माँगना चाहते। वे दया की भीख लेने के बजाय तिल-तिल मिटना पसंद करते हैं।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "सुखद स्मृति किसके लिए है?",
+      "answer": "सुखद स्मृति 'सुखद प्रहरों' के लिए है।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "कवि भयभीत क्यों नहीं हैं?",
+      "answer": "कवि हार और जीत दोनों को समान मानते हैं और संघर्ष पथ पर जो भी मिले उसे स्वीकार करने को तैयार हैं, इसलिए वे भयभीत नहीं हैं[cite: 33].।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "कवि महान किसे बने रहने देना चाहते हैं?",
+      "answer": "कवि सामने वाले (शत्रु या परिस्थितियों) को महान बने रहने देना चाहते हैं, वे अपनी लघुता (छोटापन) को नहीं छूना चाहते।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "कवि हृदय को ताप या अभिशाप देने पर भी क्या नहीं करेंगे?",
+      "answer": "कवि हृदय को ताप या अभिशाप मिलने पर भी कर्तव्य पथ से भागेंगे नहीं।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "'वरदान माँगूँगा नहीं' कविता में कौन-सा भाव व्यक्त हुआ है?",
+      "answer": "इस कविता में स्वाभिमान, आत्मविश्वास, और संघर्ष का भाव व्यक्त हुआ है। कवि सुख-दुख, हार-जीत सभी स्थितियों में अडिग रहकर अपने कर्तव्य पथ पर आगे बढ़ना चाहते हैं।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "कवि हार को क्या मानते हैं?",
+      "answer": "कवि हार को केवल एक 'विराम' मानते हैं, अंत नहीं।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'किंचित' शब्द का अर्थ बताइए।",
+      "answer": "'किंचित' का अर्थ है 'थोड़ा भी' या 'जरा भी'।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवि दया की भीख लेने के बजाय क्या स्वीकार करते हैं?",
+      "answer": "कवि दया की भीख लेने के बजाय 'तिल-तिल मिटना' (कष्ट सहकर धीरे-धीरे समाप्त होना) स्वीकार करते हैं[cite: 33].।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "शिवमंगल सिंह 'सुमन' जी की प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "हिल्लोल, जीवन के गान, युग का मेल, मिट्टी की बारात, विश्वास बढ़ता ही गया, वाणी की व्यथा आदि।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "'यह हार एक विराम है, जीवन महा-संग्राम है' - इन पंक्तियों का भावार्थ स्पष्ट कीजिए।",
+      "answer": "कवि कहते हैं कि जीवन एक बहुत बड़ा युद्ध (महा-संग्राम) है। इस युद्ध में कभी जीत मिलती है तो कभी हार। हार जीवन का अंत नहीं है, बल्कि यह एक छोटा सा 'विराम' (रुकावट) है। हमें हार से निराश होकर रुकना नहीं चाहिए, बल्कि उससे सीख लेकर पुनः संघर्ष के लिए तैयार होना चाहिए। जीवन की निरंतरता और संघर्ष ही मुख्य है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कवि वरदान माँगने से इनकार क्यों करते हैं? अपने शब्दों में लिखिए।",
+      "answer": "कवि एक स्वाभिमानी व्यक्ति हैं। वे किसी की दया या कृपा पर निर्भर नहीं रहना चाहते। उन्हें लगता है कि वरदान माँगना अपनी कमजोरी प्रदर्शित करना है। वे अपने संघर्ष और मेहनत के बल पर जीवन जीना चाहते हैं। चाहे कितनी भी मुश्किलें आएँ, वे अपने आत्म-सम्मान के साथ समझौता नहीं करना चाहते, इसलिए वे वरदान माँगने से साफ इनकार करते हैं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'चाहे हृदय को ताप दो, चाहे मुझे अभिशाप दो' - इस पंक्ति के माध्यम से कवि क्या कहना चाहते हैं?",
+      "answer": "इस पंक्ति के माध्यम से कवि अपनी दृढ़ता और कर्तव्यनिष्ठा को प्रकट करते हैं। वे कहते हैं कि चाहे संसार उन्हें कितने भी कष्ट (हृदय को ताप) दे या उनकी निंदा करे (अभिशाप दे), वे अपने कर्तव्य के रास्ते से कभी पीछे नहीं हटेंगे। वे हर प्रकार की पीड़ा और अपमान को सहने के लिए तैयार हैं, लेकिन अपने लक्ष्य और कर्तव्य से विचलित नहीं होंगे।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "कविता के आधार पर 'संघर्ष' के प्रति कवि के दृष्टिकोण को समझाइए।",
+      "answer": "कवि के लिए जीवन संघर्ष का ही दूसरा नाम है। वे संघर्ष से डरते नहीं, बल्कि उसका स्वागत करते हैं। उनके लिए संघर्ष पथ पर मिलने वाली सफलता (जीत) और असफलता (हार) दोनों ही स्वीकार्य (सही) हैं। वे मानते हैं कि संघर्ष करते हुए जो भी अनुभव मिले, वह महत्वपूर्ण है। वे बिना किसी भय के और बिना किसी से सहायता (वरदान) माँगे निरंतर संघर्षरत रहना चाहते हैं।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "इस कविता से हमें क्या प्रेरणा मिलती है?",
+      "answer": "इस कविता से हमें स्वाभिमान के साथ जीने, मुसीबतों से न घबराने और निरंतर संघर्ष करने की प्रेरणा मिलती है। हमें सिखाया गया है कि सुख-दुख, हार-जीत जीवन के हिस्से हैं, इनसे प्रभावित होकर हमें अपने कर्तव्य पथ से नहीं डिगना चाहिए। हमें किसी के सामने हाथ फैलाने या दया की भीख माँगने के बजाय अपनी शक्ति पर विश्वास रखकर आगे बढ़ना चाहिए।"
+    }
+  ]
+}

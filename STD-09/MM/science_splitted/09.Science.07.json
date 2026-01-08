@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.07",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "परिसंस्थेतील ऊर्जाप्रवाह"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "परिसंस्था म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजीवांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्जीव घटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीवांचा समूह"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील उत्पादक कोण असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बुरशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हरित वनस्पती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "हरित वनस्पती"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीतील पहिला घटक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृतोपजीवी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पादक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शाकाहारी प्राणी कोणत्या पोषण पातळीवर असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रथम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वोच्च",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीय"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च भक्षक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हरिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाघ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कीटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाघ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अनेक अन्नसाखळ्यांचा समूह म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नसाखळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा मनोरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अन्नजाळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परिसंस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नजाळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ऊर्जा मनोऱ्यात ऊर्जा कशी बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समान राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमी होत जाते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नष्ट होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होत जाते"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील ऊर्जेचा मुख्य स्रोत कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ऊर्जेचा प्रवाह कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चक्रीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकेरी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "विघटक कोणते सजीव असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूक्ष्मजीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भक्षक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूक्ष्मजीव"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मृत सजीवांचे विघटन कोण करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "विघटक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ऊर्जा मनोऱ्याची संकल्पना कोणी मांडली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डार्विन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एल्टन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लिंडमन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "एल्टन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "प्राथमिक भक्षक कोणते असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मांसाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाकाहारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उभयाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विघटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाकाहारी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अन्नजाळे का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संतुलनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव कमी करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विघटनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संतुलनासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील पोषण पातळी म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अन्नाचा स्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नाचा स्तर"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "परिसंस्था म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजीवांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्जीव घटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीवांचा समूह"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील उत्पादक कोण असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बुरशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हरित वनस्पती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "हरित वनस्पती"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीतील पहिला घटक कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृतोपजीवी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पादक"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शाकाहारी प्राणी कोणत्या पोषण पातळीवर असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रथम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वोच्च",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीय"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च भक्षक कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हरिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाघ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कीटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाघ"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अनेक अन्नसाखळ्यांचा समूह म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नसाखळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा मनोरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अन्नजाळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परिसंस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नजाळे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ऊर्जा मनोऱ्यात ऊर्जा कशी बदलते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समान राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमी होत जाते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नष्ट होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होत जाते"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील ऊर्जेचा मुख्य स्रोत कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ऊर्जेचा प्रवाह कसा असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चक्रीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकेरी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "विघटक कोणते सजीव असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूक्ष्मजीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भक्षक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूक्ष्मजीव"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मृत सजीवांचे विघटन कोण करतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "विघटक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ऊर्जा मनोऱ्याची संकल्पना कोणी मांडली? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डार्विन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एल्टन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लिंडमन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "एल्टन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "प्राथमिक भक्षक कोणते असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मांसाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाकाहारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उभयाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विघटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाकाहारी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "अन्नजाळे का आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संतुलनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव कमी करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विघटनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संतुलनासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील पोषण पातळी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अन्नाचा स्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नाचा स्तर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "परिसंस्था म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजीवांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्जीव घटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीवांचा समूह"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील उत्पादक कोण असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बुरशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हरित वनस्पती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "हरित वनस्पती"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीतील पहिला घटक कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृतोपजीवी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पादक"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "शाकाहारी प्राणी कोणत्या पोषण पातळीवर असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रथम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वोच्च",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीय"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च भक्षक कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हरिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाघ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कीटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाघ"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अनेक अन्नसाखळ्यांचा समूह म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नसाखळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा मनोरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अन्नजाळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परिसंस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नजाळे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ऊर्जा मनोऱ्यात ऊर्जा कशी बदलते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समान राहते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमी होत जाते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नष्ट होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होत जाते"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील ऊर्जेचा मुख्य स्रोत कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "ऊर्जेचा प्रवाह कसा असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चक्रीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकेरी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "विघटक कोणते सजीव असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूक्ष्मजीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भक्षक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूक्ष्मजीव"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "मृत सजीवांचे विघटन कोण करतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "विघटक"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "ऊर्जा मनोऱ्याची संकल्पना कोणी मांडली? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डार्विन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एल्टन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लिंडमन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "एल्टन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "प्राथमिक भक्षक कोणते असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मांसाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाकाहारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उभयाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विघटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाकाहारी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "अन्नजाळे का आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संतुलनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव कमी करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विघटनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संतुलनासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील पोषण पातळी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अन्नाचा स्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नाचा स्तर"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "परिसंस्था म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजीवांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्जीव घटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीवांचा समूह"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "परिसंस्थेतील उत्पादक कोण असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बुरशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हरित वनस्पती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "हरित वनस्पती"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "अन्नसाखळीतील पहिला घटक कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विघटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृतोपजीवी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पादक"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "शाकाहारी प्राणी कोणत्या पोषण पातळीवर असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रथम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वोच्च",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीय"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सर्वोच्च भक्षक कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हरिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाघ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कीटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाघ"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "परिसंस्था म्हणजे काय?",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने तयार होणारी व्यवस्था म्हणजे परिसंस्था."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "उत्पादक म्हणजे काय?",
+      "answer": "स्वयंपोषी सजीवांना उत्पादक म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भक्षक म्हणजे काय?",
+      "answer": "इतर सजीवांवर अवलंबून असणारे सजीव म्हणजे भक्षक."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "विघटक म्हणजे काय?",
+      "answer": "मृत सजीवांचे विघटन करणारे सजीव म्हणजे विघटक."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "अन्नसाखळी म्हणजे काय?",
+      "answer": "सजीवांमधील अन्नावर आधारित क्रम म्हणजे अन्नसाखळी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अन्नजाळे म्हणजे काय?",
+      "answer": "अनेक अन्नसाखळ्यांचा समूह म्हणजे अन्नजाळे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ऊर्जा मनोरा म्हणजे काय?",
+      "answer": "पोषण पातळीनुसार ऊर्जेचे वितरण दर्शवणारी रचना म्हणजे ऊर्जा मनोरा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पोषण पातळी म्हणजे काय?",
+      "answer": "अन्न मिळवण्याचा स्तर म्हणजे पोषण पातळी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्राथमिक भक्षक कोणते?",
+      "answer": "शाकाहारी प्राणी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "द्वितीयक भक्षक कोणते?",
+      "answer": "मांसाहारी प्राणी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सर्वोच्च भक्षक म्हणजे काय?",
+      "answer": "अन्नसाखळीतील शेवटचा भक्षक."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा प्रवाह कसा असतो?",
+      "answer": "ऊर्जेचा प्रवाह एकेरी असतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ऊर्जा का कमी होत जाते?",
+      "answer": "प्रत्येक स्तरावर ऊर्जा खर्च होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सूर्याचे महत्त्व काय?",
+      "answer": "तो ऊर्जेचा मुख्य स्रोत आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "विघटकांचे कार्य काय?",
+      "answer": "मृत पदार्थांचे साध्या पदार्थांत रूपांतर करणे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेचे संतुलन कशावर अवलंबून असते?",
+      "answer": "अन्नजाळ्यावर."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "उभयाहारी म्हणजे काय?",
+      "answer": "शाकाहारी व मांसाहारी दोन्ही खाणारे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ऊर्जा चक्राकार का नसते?",
+      "answer": "ती उष्णतेच्या रूपात नष्ट होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेतील ऊर्जा कुठे जाते?",
+      "answer": "विघटकांपर्यंत पोहोचते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मानव कोणत्या पोषण पातळीवर आहे?",
+      "answer": "उभयाहारी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "परिसंस्था म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने तयार होणारी व्यवस्था म्हणजे परिसंस्था."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "उत्पादक म्हणजे  स्पष्ट करा.",
+      "answer": "स्वयंपोषी सजीवांना उत्पादक म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "इतर सजीवांवर अवलंबून असणारे सजीव म्हणजे भक्षक."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "विघटक म्हणजे  स्पष्ट करा.",
+      "answer": "मृत सजीवांचे विघटन करणारे सजीव म्हणजे विघटक."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अन्नसाखळी म्हणजे  स्पष्ट करा.",
+      "answer": "सजीवांमधील अन्नावर आधारित क्रम म्हणजे अन्नसाखळी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अन्नजाळे म्हणजे  स्पष्ट करा.",
+      "answer": "अनेक अन्नसाखळ्यांचा समूह म्हणजे अन्नजाळे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "ऊर्जा मनोरा म्हणजे  स्पष्ट करा.",
+      "answer": "पोषण पातळीनुसार ऊर्जेचे वितरण दर्शवणारी रचना म्हणजे ऊर्जा मनोरा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पोषण पातळी म्हणजे  स्पष्ट करा.",
+      "answer": "अन्न मिळवण्याचा स्तर म्हणजे पोषण पातळी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "प्राथमिक भक्षक कोणते?",
+      "answer": "शाकाहारी प्राणी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "द्वितीयक भक्षक कोणते?",
+      "answer": "मांसाहारी प्राणी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "सर्वोच्च भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "अन्नसाखळीतील शेवटचा भक्षक."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा प्रवाह कसा असतो?",
+      "answer": "ऊर्जेचा प्रवाह एकेरी असतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ऊर्जा का कमी होत जाते?",
+      "answer": "प्रत्येक स्तरावर ऊर्जा खर्च होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सूर्याचे महत्त्व  स्पष्ट करा.",
+      "answer": "तो ऊर्जेचा मुख्य स्रोत आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "विघटकांचे कार्य  स्पष्ट करा.",
+      "answer": "मृत पदार्थांचे साध्या पदार्थांत रूपांतर करणे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेचे संतुलन कशावर अवलंबून असते?",
+      "answer": "अन्नजाळ्यावर."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "उभयाहारी म्हणजे  स्पष्ट करा.",
+      "answer": "शाकाहारी व मांसाहारी दोन्ही खाणारे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ऊर्जा चक्राकार का नसते?",
+      "answer": "ती उष्णतेच्या रूपात नष्ट होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेतील ऊर्जा कुठे जाते?",
+      "answer": "विघटकांपर्यंत पोहोचते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मानव कोणत्या पोषण पातळीवर आहे?",
+      "answer": "उभयाहारी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "परिसंस्था म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने तयार होणारी व्यवस्था म्हणजे परिसंस्था."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "उत्पादक म्हणजे  स्पष्ट करा.",
+      "answer": "स्वयंपोषी सजीवांना उत्पादक म्हणतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "इतर सजीवांवर अवलंबून असणारे सजीव म्हणजे भक्षक."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "विघटक म्हणजे  स्पष्ट करा.",
+      "answer": "मृत सजीवांचे विघटन करणारे सजीव म्हणजे विघटक."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "अन्नसाखळी म्हणजे  स्पष्ट करा.",
+      "answer": "सजीवांमधील अन्नावर आधारित क्रम म्हणजे अन्नसाखळी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "अन्नजाळे म्हणजे  स्पष्ट करा.",
+      "answer": "अनेक अन्नसाखळ्यांचा समूह म्हणजे अन्नजाळे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "ऊर्जा मनोरा म्हणजे  स्पष्ट करा.",
+      "answer": "पोषण पातळीनुसार ऊर्जेचे वितरण दर्शवणारी रचना म्हणजे ऊर्जा मनोरा."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पोषण पातळी म्हणजे  स्पष्ट करा.",
+      "answer": "अन्न मिळवण्याचा स्तर म्हणजे पोषण पातळी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "प्राथमिक भक्षक कोणते?",
+      "answer": "शाकाहारी प्राणी."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "द्वितीयक भक्षक कोणते?",
+      "answer": "मांसाहारी प्राणी."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "सर्वोच्च भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "अन्नसाखळीतील शेवटचा भक्षक."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा प्रवाह कसा असतो?",
+      "answer": "ऊर्जेचा प्रवाह एकेरी असतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "ऊर्जा का कमी होत जाते?",
+      "answer": "प्रत्येक स्तरावर ऊर्जा खर्च होते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "सूर्याचे महत्त्व  स्पष्ट करा.",
+      "answer": "तो ऊर्जेचा मुख्य स्रोत आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "विघटकांचे कार्य  स्पष्ट करा.",
+      "answer": "मृत पदार्थांचे साध्या पदार्थांत रूपांतर करणे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेचे संतुलन कशावर अवलंबून असते?",
+      "answer": "अन्नजाळ्यावर."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "उभयाहारी म्हणजे  स्पष्ट करा.",
+      "answer": "शाकाहारी व मांसाहारी दोन्ही खाणारे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ऊर्जा चक्राकार का नसते?",
+      "answer": "ती उष्णतेच्या रूपात नष्ट होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेतील ऊर्जा कुठे जाते?",
+      "answer": "विघटकांपर्यंत पोहोचते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "मानव कोणत्या पोषण पातळीवर आहे?",
+      "answer": "उभयाहारी."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "परिसंस्था म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने तयार होणारी व्यवस्था म्हणजे परिसंस्था."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "उत्पादक म्हणजे  स्पष्ट करा.",
+      "answer": "स्वयंपोषी सजीवांना उत्पादक म्हणतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "इतर सजीवांवर अवलंबून असणारे सजीव म्हणजे भक्षक."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "विघटक म्हणजे  स्पष्ट करा.",
+      "answer": "मृत सजीवांचे विघटन करणारे सजीव म्हणजे विघटक."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "अन्नसाखळी म्हणजे  स्पष्ट करा.",
+      "answer": "सजीवांमधील अन्नावर आधारित क्रम म्हणजे अन्नसाखळी."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "अन्नजाळे म्हणजे  स्पष्ट करा.",
+      "answer": "अनेक अन्नसाखळ्यांचा समूह म्हणजे अन्नजाळे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "ऊर्जा मनोरा म्हणजे  स्पष्ट करा.",
+      "answer": "पोषण पातळीनुसार ऊर्जेचे वितरण दर्शवणारी रचना म्हणजे ऊर्जा मनोरा."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पोषण पातळी म्हणजे  स्पष्ट करा.",
+      "answer": "अन्न मिळवण्याचा स्तर म्हणजे पोषण पातळी."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "प्राथमिक भक्षक कोणते?",
+      "answer": "शाकाहारी प्राणी."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "द्वितीयक भक्षक कोणते?",
+      "answer": "मांसाहारी प्राणी."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "सर्वोच्च भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "अन्नसाखळीतील शेवटचा भक्षक."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा प्रवाह कसा असतो?",
+      "answer": "ऊर्जेचा प्रवाह एकेरी असतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "ऊर्जा का कमी होत जाते?",
+      "answer": "प्रत्येक स्तरावर ऊर्जा खर्च होते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "सूर्याचे महत्त्व  स्पष्ट करा.",
+      "answer": "तो ऊर्जेचा मुख्य स्रोत आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "विघटकांचे कार्य  स्पष्ट करा.",
+      "answer": "मृत पदार्थांचे साध्या पदार्थांत रूपांतर करणे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेचे संतुलन कशावर अवलंबून असते?",
+      "answer": "अन्नजाळ्यावर."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "उभयाहारी म्हणजे  स्पष्ट करा.",
+      "answer": "शाकाहारी व मांसाहारी दोन्ही खाणारे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "ऊर्जा चक्राकार का नसते?",
+      "answer": "ती उष्णतेच्या रूपात नष्ट होते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेतील ऊर्जा कुठे जाते?",
+      "answer": "विघटकांपर्यंत पोहोचते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "मानव कोणत्या पोषण पातळीवर आहे?",
+      "answer": "उभयाहारी."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "परिसंस्था म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने तयार होणारी व्यवस्था म्हणजे परिसंस्था."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "उत्पादक म्हणजे  स्पष्ट करा.",
+      "answer": "स्वयंपोषी सजीवांना उत्पादक म्हणतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "इतर सजीवांवर अवलंबून असणारे सजीव म्हणजे भक्षक."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "विघटक म्हणजे  स्पष्ट करा.",
+      "answer": "मृत सजीवांचे विघटन करणारे सजीव म्हणजे विघटक."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "अन्नसाखळी म्हणजे  स्पष्ट करा.",
+      "answer": "सजीवांमधील अन्नावर आधारित क्रम म्हणजे अन्नसाखळी."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "अन्नजाळे म्हणजे  स्पष्ट करा.",
+      "answer": "अनेक अन्नसाखळ्यांचा समूह म्हणजे अन्नजाळे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "ऊर्जा मनोरा म्हणजे  स्पष्ट करा.",
+      "answer": "पोषण पातळीनुसार ऊर्जेचे वितरण दर्शवणारी रचना म्हणजे ऊर्जा मनोरा."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पोषण पातळी म्हणजे  स्पष्ट करा.",
+      "answer": "अन्न मिळवण्याचा स्तर म्हणजे पोषण पातळी."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "प्राथमिक भक्षक कोणते?",
+      "answer": "शाकाहारी प्राणी."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "द्वितीयक भक्षक कोणते?",
+      "answer": "मांसाहारी प्राणी."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "सर्वोच्च भक्षक म्हणजे  स्पष्ट करा.",
+      "answer": "अन्नसाखळीतील शेवटचा भक्षक."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "ऊर्जेचा प्रवाह कसा असतो?",
+      "answer": "ऊर्जेचा प्रवाह एकेरी असतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "ऊर्जा का कमी होत जाते?",
+      "answer": "प्रत्येक स्तरावर ऊर्जा खर्च होते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "सूर्याचे महत्त्व  स्पष्ट करा.",
+      "answer": "तो ऊर्जेचा मुख्य स्रोत आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "विघटकांचे कार्य  स्पष्ट करा.",
+      "answer": "मृत पदार्थांचे साध्या पदार्थांत रूपांतर करणे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेचे संतुलन कशावर अवलंबून असते?",
+      "answer": "अन्नजाळ्यावर."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "उभयाहारी म्हणजे  स्पष्ट करा.",
+      "answer": "शाकाहारी व मांसाहारी दोन्ही खाणारे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "ऊर्जा चक्राकार का नसते?",
+      "answer": "ती उष्णतेच्या रूपात नष्ट होते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "परिसंस्थेतील ऊर्जा कुठे जाते?",
+      "answer": "विघटकांपर्यंत पोहोचते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "मानव कोणत्या पोषण पातळीवर आहे?",
+      "answer": "उभयाहारी."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो?",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "परिसंस्था सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंवादाने परिसंस्था तयार होते. उत्पादक, भक्षक व विघटक यांचा यात समावेश होतो. ऊर्जेचा प्रवाह सूर्यापासून सुरू होतो."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "अन्नसाखळी व अन्नजाळे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अन्नसाखळी म्हणजे सजीवांमधील अन्नावर आधारित क्रम. अनेक अन्नसाखळ्यांपासून अन्नजाळे तयार होते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "ऊर्जा मनोरा सविस्तर लिहा. सविस्तर लिहा.",
+      "answer": "ऊर्जा मनोऱ्यात प्रत्येक पोषण पातळीवरील ऊर्जा दर्शवली जाते. उत्पादकांकडे ऊर्जा सर्वाधिक असते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "ऊर्जेचा प्रवाह एकेरी का असतो? सविस्तर लिहा.",
+      "answer": "ऊर्जा प्रत्येक पातळीवर उष्णतेच्या रूपात नष्ट होते. म्हणून ती पुन्हा सूर्याकडे जात नाही."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "विघटकांचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "विघटक मृत सजीवांचे विघटन करतात. यामुळे पोषकद्रव्ये पुन्हा परिसंस्थेत परत जातात."
+    }
+  ]
+}

@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M11",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "वाचनाचं महत्त्व"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञानवृद्धी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चरित्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रंथालय वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दैनंदिन वाचन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रंथालय वापर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दसंपदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण प्रगती",
+          "is_correct": false
+        }
+      ],
+      "answer": "निबंध"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वावलंबन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "करिअर मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वावलंबन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रंथालय वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषाशैली",
+          "is_correct": true
+        }
+      ],
+      "answer": "भाषाशैली"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जिज्ञासा",
+          "is_correct": true
+        }
+      ],
+      "answer": "जिज्ञासा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यास नीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चरित्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पुस्तके",
+          "is_correct": true
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वैयक्तिक विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विचार विस्तार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैयक्तिक विकास"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दसंपदा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चरित्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दैनंदिन वाचन",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दसंपदा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अचूकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दैनंदिन वाचन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूकता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चरित्रे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        }
+      ],
+      "answer": "चरित्रे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विचार विस्तार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाज सजगता",
+          "is_correct": true
+        }
+      ],
+      "answer": "समाज सजगता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञानवृद्धी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रंथालय वापर",
+          "is_correct": true
+        }
+      ],
+      "answer": "ग्रंथालय वापर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यास नीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "निबंध"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वावलंबन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लक्ष देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वावलंबन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषाशैली",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पुस्तके",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषाशैली"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जिज्ञासा",
+          "is_correct": true
+        }
+      ],
+      "answer": "जिज्ञासा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैयक्तिक विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लक्ष देणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैयक्तिक विकास"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रंथालय वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "करिअर मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शब्दसंपदा",
+          "is_correct": true
+        }
+      ],
+      "answer": "शब्दसंपदा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चरित्रे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूकता"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चरित्रे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चरित्रे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विचार विस्तार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाज सजगता",
+          "is_correct": true
+        }
+      ],
+      "answer": "समाज सजगता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्रंथालय वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञानवृद्धी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रंथालय वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रंथालय वापर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": true
+        }
+      ],
+      "answer": "निबंध"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वावलंबन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वावलंबन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषाशैली",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रंथालय वापर",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषाशैली"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यास नीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जिज्ञासा",
+          "is_correct": true
+        }
+      ],
+      "answer": "जिज्ञासा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दसंपदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रंथालय वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषाशैली",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करिअर मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैयक्तिक विकास",
+          "is_correct": true
+        }
+      ],
+      "answer": "वैयक्तिक विकास"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दसंपदा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषाशैली",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दसंपदा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अचूकता",
+          "is_correct": true
+        }
+      ],
+      "answer": "अचूकता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चरित्रे",
+          "is_correct": true
+        }
+      ],
+      "answer": "चरित्रे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाज सजगता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वैयक्तिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        }
+      ],
+      "answer": "समाज सजगता"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यास नीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करिअर मदत",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञानवृद्धी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लक्ष देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रंथालय वापर",
+          "is_correct": true
+        }
+      ],
+      "answer": "ग्रंथालय वापर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षण प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चिंतनशक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "निबंध"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वावलंबन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लक्ष देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वावलंबन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषाशैली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लक्ष देणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषाशैली"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिज्ञासा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिज्ञासा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करिअर मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अचूकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वैयक्तिक विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अचूकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करिअर मदत",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैयक्तिक विकास"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शब्दसंपदा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वावलंबन",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दसंपदा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अचूकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथासंग्रह",
+          "is_correct": false
+        }
+      ],
+      "answer": "अचूकता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "स्त्रोत ओळखा (47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चरित्रे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "करिअर मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समाज सजगता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चरित्रे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चरित्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "करिअर मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाज सजगता",
+          "is_correct": true
+        }
+      ],
+      "answer": "समाज सजगता"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन वाचन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाषाशैली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानवृद्धी",
+          "is_correct": true
+        }
+      ],
+      "answer": "ज्ञानवृद्धी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सवय ओळखा (50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षण प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिज्ञासा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रंथालय वापर",
+          "is_correct": true
+        }
+      ],
+      "answer": "ग्रंथालय वापर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "ONE_LINE",
+      "question": "वृत्तपत्र वाचन स्पष्ट करा",
+      "answer": "वृत्तपत्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "ONE_LINE",
+      "question": "कल्पनाशक्ती स्पष्ट करा",
+      "answer": "कल्पनाशक्ती हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "ONE_LINE",
+      "question": "शिस्त स्पष्ट करा",
+      "answer": "शिस्त हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "ONE_LINE",
+      "question": "भाषा सुधार स्पष्ट करा",
+      "answer": "भाषा सुधार हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "ONE_LINE",
+      "question": "चरित्र वाचन स्पष्ट करा",
+      "answer": "चरित्र वाचन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "ONE_LINE",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "ONE_LINE",
+      "question": "करिअर सहाय्य स्पष्ट करा",
+      "answer": "करिअर सहाय्य हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "ONE_LINE",
+      "question": "वैयक्तिक विकास स्पष्ट करा",
+      "answer": "वैयक्तिक विकास हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "ONE_LINE",
+      "question": "वाचन सवय स्पष्ट करा",
+      "answer": "वाचन सवय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "ONE_LINE",
+      "question": "ज्ञानवृद्धी स्पष्ट करा",
+      "answer": "ज्ञानवृद्धी हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "ONE_LINE",
+      "question": "चिंतन स्पष्ट करा",
+      "answer": "चिंतन हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "ONE_LINE",
+      "question": "ग्रंथालय स्पष्ट करा",
+      "answer": "ग्रंथालय हे वाचनातून निर्माण होणारे जीवनविकासाचे शक्तिशाली साधन आहे."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "वाचनाचे फायदे स्पष्ट करा",
+      "answer": "वाचनाचे फायदे हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "वाचन सवयीचे महत्त्व स्पष्ट करा",
+      "answer": "वाचन सवयीचे महत्त्व हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "ग्रंथालयाची भूमिका स्पष्ट करा",
+      "answer": "ग्रंथालयाची भूमिका हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "ज्ञानवृद्धीतील वाचन स्पष्ट करा",
+      "answer": "ज्ञानवृद्धीतील वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "भाषा विकास स्पष्ट करा",
+      "answer": "भाषा विकास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "कल्पनाशक्ती वाढ स्पष्ट करा",
+      "answer": "कल्पनाशक्ती वाढ हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "शिस्त आणि अभ्यास स्पष्ट करा",
+      "answer": "शिस्त आणि अभ्यास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "चरित्रांमधून प्रेरणा स्पष्ट करा",
+      "answer": "चरित्रांमधून प्रेरणा हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "उत्तम करिअरसाठी वाचन स्पष्ट करा",
+      "answer": "उत्तम करिअरसाठी वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "वाचनाचे फायदे स्पष्ट करा",
+      "answer": "वाचनाचे फायदे हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "वाचन सवयीचे महत्त्व स्पष्ट करा",
+      "answer": "वाचन सवयीचे महत्त्व हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "ग्रंथालयाची भूमिका स्पष्ट करा",
+      "answer": "ग्रंथालयाची भूमिका हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "ज्ञानवृद्धीतील वाचन स्पष्ट करा",
+      "answer": "ज्ञानवृद्धीतील वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "भाषा विकास स्पष्ट करा",
+      "answer": "भाषा विकास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "कल्पनाशक्ती वाढ स्पष्ट करा",
+      "answer": "कल्पनाशक्ती वाढ हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "शिस्त आणि अभ्यास स्पष्ट करा",
+      "answer": "शिस्त आणि अभ्यास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "चरित्रांमधून प्रेरणा स्पष्ट करा",
+      "answer": "चरित्रांमधून प्रेरणा हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "उत्तम करिअरसाठी वाचन स्पष्ट करा",
+      "answer": "उत्तम करिअरसाठी वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "वाचनाचे फायदे स्पष्ट करा",
+      "answer": "वाचनाचे फायदे हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "वाचन सवयीचे महत्त्व स्पष्ट करा",
+      "answer": "वाचन सवयीचे महत्त्व हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "ग्रंथालयाची भूमिका स्पष्ट करा",
+      "answer": "ग्रंथालयाची भूमिका हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "ज्ञानवृद्धीतील वाचन स्पष्ट करा",
+      "answer": "ज्ञानवृद्धीतील वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "भाषा विकास स्पष्ट करा",
+      "answer": "भाषा विकास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "कल्पनाशक्ती वाढ स्पष्ट करा",
+      "answer": "कल्पनाशक्ती वाढ हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "शिस्त आणि अभ्यास स्पष्ट करा",
+      "answer": "शिस्त आणि अभ्यास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "चरित्रांमधून प्रेरणा स्पष्ट करा",
+      "answer": "चरित्रांमधून प्रेरणा हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "उत्तम करिअरसाठी वाचन स्पष्ट करा",
+      "answer": "उत्तम करिअरसाठी वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "वाचनाचे फायदे स्पष्ट करा",
+      "answer": "वाचनाचे फायदे हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "वाचन सवयीचे महत्त्व स्पष्ट करा",
+      "answer": "वाचन सवयीचे महत्त्व हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "ग्रंथालयाची भूमिका स्पष्ट करा",
+      "answer": "ग्रंथालयाची भूमिका हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "ज्ञानवृद्धीतील वाचन स्पष्ट करा",
+      "answer": "ज्ञानवृद्धीतील वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "भाषा विकास स्पष्ट करा",
+      "answer": "भाषा विकास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "कल्पनाशक्ती वाढ स्पष्ट करा",
+      "answer": "कल्पनाशक्ती वाढ हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "शिस्त आणि अभ्यास स्पष्ट करा",
+      "answer": "शिस्त आणि अभ्यास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "चरित्रांमधून प्रेरणा स्पष्ट करा",
+      "answer": "चरित्रांमधून प्रेरणा हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "उत्तम करिअरसाठी वाचन स्पष्ट करा",
+      "answer": "उत्तम करिअरसाठी वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "वाचनाचे फायदे स्पष्ट करा",
+      "answer": "वाचनाचे फायदे हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "वाचन सवयीचे महत्त्व स्पष्ट करा",
+      "answer": "वाचन सवयीचे महत्त्व हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "ग्रंथालयाची भूमिका स्पष्ट करा",
+      "answer": "ग्रंथालयाची भूमिका हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "ज्ञानवृद्धीतील वाचन स्पष्ट करा",
+      "answer": "ज्ञानवृद्धीतील वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "भाषा विकास स्पष्ट करा",
+      "answer": "भाषा विकास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "कल्पनाशक्ती वाढ स्पष्ट करा",
+      "answer": "कल्पनाशक्ती वाढ हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "शिस्त आणि अभ्यास स्पष्ट करा",
+      "answer": "शिस्त आणि अभ्यास हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "चरित्रांमधून प्रेरणा स्पष्ट करा",
+      "answer": "चरित्रांमधून प्रेरणा हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "समाज जागरूकता स्पष्ट करा",
+      "answer": "समाज जागरूकता हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "उत्तम करिअरसाठी वाचन स्पष्ट करा",
+      "answer": "उत्तम करिअरसाठी वाचन हा या धड्याचा प्रमुख संदेश आहे.\nवाचनामुळे ज्ञान सखोल होते आणि विचारक्षमता विस्तारते.\nभाषा, कल्पना, शिस्त व जीवनदृष्टी यात घडणारे बदल महत्त्वाचे असतात.\nही सवय भविष्यातील शिक्षण व यशासाठी पाया घालते."
+    }
+  ]
+}

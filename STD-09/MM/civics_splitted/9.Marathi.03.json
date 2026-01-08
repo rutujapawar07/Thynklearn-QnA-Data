@@ -1,0 +1,1564 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.03",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "भारताची सुरक्षा व्यवस्था"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त लष्करी शक्ती", "is_correct": false },
+        { "option_id": 2, "text": "देशाच्या सार्वभौमत्वाचे व अस्तित्वाचे संरक्षण", "is_correct": true },
+        { "option_id": 3, "text": "आर्थिक विकास", "is_correct": false },
+        { "option_id": 4, "text": "राजकीय सत्ता", "is_correct": false }
+      ],
+      "answer": "देशाच्या सार्वभौमत्वाचे व अस्तित्वाचे संरक्षण"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेला सर्वाधिक धोका कशामुळे निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "शेजारी राष्ट्रांचे आक्रमण", "is_correct": true },
+        { "option_id": 2, "text": "सांस्कृतिक देवाणघेवाण", "is_correct": false },
+        { "option_id": 3, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार", "is_correct": false }
+      ],
+      "answer": "शेजारी राष्ट्रांचे आक्रमण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेचे मुख्य घटक कोणते आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पोलीस दल", "is_correct": false },
+        { "option_id": 2, "text": "भूदल, नौदल आणि वायुदल", "is_correct": true },
+        { "option_id": 3, "text": "न्यायालय", "is_correct": false },
+        { "option_id": 4, "text": "संसद", "is_correct": false }
+      ],
+      "answer": "भूदल, नौदल आणि वायुदल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारताच्या भूदलाची मुख्य जबाबदारी कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "सागरी सीमा रक्षण", "is_correct": false },
+        { "option_id": 2, "text": "हवाई सीमा रक्षण", "is_correct": false },
+        { "option_id": 3, "text": "भौगोलिक सीमांचे रक्षण", "is_correct": true },
+        { "option_id": 4, "text": "कायदा व सुव्यवस्था", "is_correct": false }
+      ],
+      "answer": "भौगोलिक सीमांचे रक्षण"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारताच्या सागरी सीमांचे रक्षण कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "भूदल", "is_correct": false },
+        { "option_id": 2, "text": "वायुदल", "is_correct": false },
+        { "option_id": 3, "text": "नौदल", "is_correct": true },
+        { "option_id": 4, "text": "सीआरपीएफ", "is_correct": false }
+      ],
+      "answer": "नौदल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारताच्या हवाई सीमा व अवकाशाचे रक्षण कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "भूदल", "is_correct": false },
+        { "option_id": 2, "text": "नौदल", "is_correct": false },
+        { "option_id": 3, "text": "वायुदल", "is_correct": true },
+        { "option_id": 4, "text": "बीएसएफ", "is_correct": false }
+      ],
+      "answer": "वायुदल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारताच्या सर्व संरक्षण दलांचे सरसेनापती कोण असतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रधानमंत्री", "is_correct": false },
+        { "option_id": 2, "text": "संरक्षण मंत्री", "is_correct": false },
+        { "option_id": 3, "text": "राष्ट्रपती", "is_correct": true },
+        { "option_id": 4, "text": "सेनाप्रमुख", "is_correct": false }
+      ],
+      "answer": "राष्ट्रपती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये संरक्षण दलांवर कोणाचे नियंत्रण असते?",
+      "options": [
+        { "option_id": 1, "text": "लष्करी नेतृत्व", "is_correct": false },
+        { "option_id": 2, "text": "नागरी नेतृत्व", "is_correct": true },
+        { "option_id": 3, "text": "न्यायालय", "is_correct": false },
+        { "option_id": 4, "text": "राज्य सरकार", "is_correct": false }
+      ],
+      "answer": "नागरी नेतृत्व"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "तीनही संरक्षण दलांमध्ये समन्वयासाठी कोणते पद निर्माण करण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "सेनाध्यक्ष", "is_correct": false },
+        { "option_id": 2, "text": "संरक्षण मंत्री", "is_correct": false },
+        { "option_id": 3, "text": "Chief of Defence Staff", "is_correct": true },
+        { "option_id": 4, "text": "गृहसचिव", "is_correct": false }
+      ],
+      "answer": "Chief of Defence Staff"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "निमलष्करी दलांचे प्रमुख कार्य कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध लढणे", "is_correct": false },
+        { "option_id": 2, "text": "संरक्षण दलांना साहाय्य करणे", "is_correct": true },
+        { "option_id": 3, "text": "कायदे करणे", "is_correct": false },
+        { "option_id": 4, "text": "न्याय देणे", "is_correct": false }
+      ],
+      "answer": "संरक्षण दलांना साहाय्य करणे"
+    },
+    {
+  "questions": [
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "निमलष्करी दलांचा वापर मुख्यतः कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "परराष्ट्र धोरण", "is_correct": false },
+        { "option_id": 2, "text": "अंतर्गत सुरक्षा", "is_correct": true },
+        { "option_id": 3, "text": "न्यायव्यवस्था", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षण", "is_correct": false }
+      ],
+      "answer": "अंतर्गत सुरक्षा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते निमलष्करी दल आहे?",
+      "options": [
+        { "option_id": 1, "text": "भारतीय नौदल", "is_correct": false },
+        { "option_id": 2, "text": "भारतीय वायुदल", "is_correct": false },
+        { "option_id": 3, "text": "सीआरपीएफ", "is_correct": true },
+        { "option_id": 4, "text": "भारतीय भूदल", "is_correct": false }
+      ],
+      "answer": "सीआरपीएफ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सीमावर्ती भागांच्या सुरक्षेसाठी कोणते दल कार्य करते?",
+      "options": [
+        { "option_id": 1, "text": "बीएसएफ", "is_correct": true },
+        { "option_id": 2, "text": "सीआयएसएफ", "is_correct": false },
+        { "option_id": 3, "text": "आयबी", "is_correct": false },
+        { "option_id": 4, "text": "रॉ", "is_correct": false }
+      ],
+      "answer": "बीएसएफ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "देशांतर्गत महत्त्वाच्या आस्थापनांच्या सुरक्षेसाठी कोणते दल जबाबदार आहे?",
+      "options": [
+        { "option_id": 1, "text": "सीआयएसएफ", "is_correct": true },
+        { "option_id": 2, "text": "बीएसएफ", "is_correct": false },
+        { "option_id": 3, "text": "सीआरपीएफ", "is_correct": false },
+        { "option_id": 4, "text": "आसाम रायफल्स", "is_correct": false }
+      ],
+      "answer": "सीआयएसएफ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत गुप्तचर संस्थांचे कार्य काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध लढणे", "is_correct": false },
+        { "option_id": 2, "text": "माहिती संकलन", "is_correct": true },
+        { "option_id": 3, "text": "कायदे करणे", "is_correct": false },
+        { "option_id": 4, "text": "न्यायदान", "is_correct": false }
+      ],
+      "answer": "माहिती संकलन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारताची अंतर्गत गुप्तचर संस्था कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "रॉ", "is_correct": false },
+        { "option_id": 2, "text": "आयबी", "is_correct": true },
+        { "option_id": 3, "text": "सीबीआय", "is_correct": false },
+        { "option_id": 4, "text": "एनआयए", "is_correct": false }
+      ],
+      "answer": "आयबी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भारताची बाह्य गुप्तचर संस्था कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "आयबी", "is_correct": false },
+        { "option_id": 2, "text": "रॉ", "is_correct": true },
+        { "option_id": 3, "text": "सीबीआय", "is_correct": false },
+        { "option_id": 4, "text": "सीआरपीएफ", "is_correct": false }
+      ],
+      "answer": "रॉ"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "दहशतवाद हा कोणत्या प्रकारचा सुरक्षा धोका आहे?",
+      "options": [
+        { "option_id": 1, "text": "बाह्य", "is_correct": false },
+        { "option_id": 2, "text": "अंतर्गत", "is_correct": true },
+        { "option_id": 3, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 4, "text": "आर्थिक", "is_correct": false }
+      ],
+      "answer": "अंतर्गत"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सायबर हल्ले कोणत्या प्रकारच्या सुरक्षेशी संबंधित आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लष्करी सुरक्षा", "is_correct": false },
+        { "option_id": 2, "text": "सायबर सुरक्षा", "is_correct": true },
+        { "option_id": 3, "text": "सीमा सुरक्षा", "is_correct": false },
+        { "option_id": 4, "text": "सामाजिक सुरक्षा", "is_correct": false }
+      ],
+      "answer": "सायबर सुरक्षा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षा सल्लागार (NSA) कोणत्या बाबींवर सल्ला देतात?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण धोरण", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय सुरक्षा", "is_correct": true },
+        { "option_id": 3, "text": "न्यायव्यवस्था", "is_correct": false },
+        { "option_id": 4, "text": "कर व्यवस्था", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय सुरक्षा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत नागरी नियंत्रण का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोकशाही टिकवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "लष्कर कमजोर करण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "युद्ध वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खर्च वाढवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "लोकशाही टिकवण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय आपत्ती व्यवस्थापन कोणत्या सुरक्षेशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "लष्करी सुरक्षा", "is_correct": false },
+        { "option_id": 2, "text": "मानवी सुरक्षा", "is_correct": true },
+        { "option_id": 3, "text": "सीमा सुरक्षा", "is_correct": false },
+        { "option_id": 4, "text": "सायबर सुरक्षा", "is_correct": false }
+      ],
+      "answer": "मानवी सुरक्षा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेतील सर्वात मोठे आव्हान कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 2, "text": "दहशतवाद", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार", "is_correct": false }
+      ],
+      "answer": "दहशतवाद"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नक्षलवाद हा कोणत्या प्रकारचा धोका आहे?",
+      "options": [
+        { "option_id": 1, "text": "बाह्य", "is_correct": false },
+        { "option_id": 2, "text": "अंतर्गत", "is_correct": true },
+        { "option_id": 3, "text": "आर्थिक", "is_correct": false },
+        { "option_id": 4, "text": "नैसर्गिक", "is_correct": false }
+      ],
+      "answer": "अंतर्गत"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मानवी सुरक्षा संकल्पनेत कोणत्या बाबींचा समावेश होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त लष्करी सुरक्षा", "is_correct": false },
+        { "option_id": 2, "text": "अन्न, आरोग्य व पर्यावरण सुरक्षा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त सीमा सुरक्षा", "is_correct": false },
+        { "option_id": 4, "text": "फक्त सायबर सुरक्षा", "is_correct": false }
+      ],
+      "answer": "अन्न, आरोग्य व पर्यावरण सुरक्षा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत सायबर सुरक्षेचे महत्त्व का वाढले आहे?",
+      "options": [
+        { "option_id": 1, "text": "डिजिटल अवलंबनामुळे", "is_correct": true },
+        { "option_id": 2, "text": "खेळ वाढल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "पर्यटनामुळे", "is_correct": false },
+        { "option_id": 4, "text": "संस्कृतीमुळे", "is_correct": false }
+      ],
+      "answer": "डिजिटल अवलंबनामुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षा धोरण ठरवण्यात कोण महत्त्वाची भूमिका बजावते?",
+      "options": [
+        { "option_id": 1, "text": "न्यायालय", "is_correct": false },
+        { "option_id": 2, "text": "केंद्र सरकार", "is_correct": true },
+        { "option_id": 3, "text": "राज्य सरकार", "is_correct": false },
+        { "option_id": 4, "text": "माध्यमे", "is_correct": false }
+      ],
+      "answer": "केंद्र सरकार"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सीमेवरील घुसखोरी रोखण्याचे कार्य कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "बीएसएफ", "is_correct": true },
+        { "option_id": 2, "text": "सीआयएसएफ", "is_correct": false },
+        { "option_id": 3, "text": "रॉ", "is_correct": false },
+        { "option_id": 4, "text": "सीबीआय", "is_correct": false }
+      ],
+      "answer": "बीएसएफ"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत कायदा व सुव्यवस्था राखण्याची जबाबदारी कोणाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "संरक्षण दल", "is_correct": false },
+        { "option_id": 2, "text": "राज्य सरकार", "is_correct": true },
+        { "option_id": 3, "text": "केंद्र सरकार", "is_correct": false },
+        { "option_id": 4, "text": "राष्ट्रपती", "is_correct": false }
+      ],
+      "answer": "राज्य सरकार"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेतील लोकशाही मूल्य कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "लष्करी शासन", "is_correct": false },
+        { "option_id": 2, "text": "नागरी नियंत्रण", "is_correct": true },
+        { "option_id": 3, "text": "हुकूमशाही", "is_correct": false },
+        { "option_id": 4, "text": "गुप्तता", "is_correct": false }
+      ],
+      "answer": "नागरी नियंत्रण"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत पोलीस दलाचे मुख्य कार्य काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "सीमा रक्षण", "is_correct": false },
+        { "option_id": 2, "text": "कायदा व सुव्यवस्था", "is_correct": true },
+        { "option_id": 3, "text": "हवाई सुरक्षा", "is_correct": false },
+        { "option_id": 4, "text": "सागरी सुरक्षा", "is_correct": false }
+      ],
+      "answer": "कायदा व सुव्यवस्था"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेसाठी नागरिकांची भूमिका कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त मतदान", "is_correct": false },
+        { "option_id": 2, "text": "सतर्कता व सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "लष्करी प्रशिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "कर न भरणे", "is_correct": false }
+      ],
+      "answer": "सतर्कता व सहकार्य"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेचा मानवी दृष्टिकोन कशावर भर देतो?",
+      "options": [
+        { "option_id": 1, "text": "हिंसा", "is_correct": false },
+        { "option_id": 2, "text": "मानवी कल्याण", "is_correct": true },
+        { "option_id": 3, "text": "शस्त्रसज्जता", "is_correct": false },
+        { "option_id": 4, "text": "युद्ध", "is_correct": false }
+      ],
+      "answer": "मानवी कल्याण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षा धोरणाचा अंतिम उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "शांतता व सुरक्षितता", "is_correct": true },
+        { "option_id": 3, "text": "सत्ता वाढ", "is_correct": false },
+        { "option_id": 4, "text": "वर्चस्व", "is_correct": false }
+      ],
+      "answer": "शांतता व सुरक्षितता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत संरक्षण खर्च का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सुरक्षा क्षमता वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पर्यटनासाठी", "is_correct": false },
+        { "option_id": 4, "text": "संस्कृतीसाठी", "is_correct": false }
+      ],
+      "answer": "सुरक्षा क्षमता वाढवण्यासाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत कायदेशीर चौकट कोण पुरवते?",
+      "options": [
+        { "option_id": 1, "text": "संविधान", "is_correct": true },
+        { "option_id": 2, "text": "माध्यमे", "is_correct": false },
+        { "option_id": 3, "text": "लष्कर", "is_correct": false },
+        { "option_id": 4, "text": "पोलीस", "is_correct": false }
+      ],
+      "answer": "संविधान"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन कोणत्या प्रकारच्या सुरक्षेशी निगडित आहे?",
+      "options": [
+        { "option_id": 1, "text": "लष्करी", "is_correct": false },
+        { "option_id": 2, "text": "मानवी", "is_correct": true },
+        { "option_id": 3, "text": "सायबर", "is_correct": false },
+        { "option_id": 4, "text": "सीमा", "is_correct": false }
+      ],
+      "answer": "मानवी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेत शिक्षणाचे महत्त्व कशासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "नागरिक जागरूकतेसाठी", "is_correct": true },
+        { "option_id": 2, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 3, "text": "हेरगिरीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "गुप्ततेसाठी", "is_correct": false }
+      ],
+      "answer": "नागरिक जागरूकतेसाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेत माध्यमांची भूमिका कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "गोंधळ निर्माण करणे", "is_correct": false },
+        { "option_id": 2, "text": "जागरूकता निर्माण करणे", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध भडकवणे", "is_correct": false },
+        { "option_id": 4, "text": "गुप्तता ठेवणे", "is_correct": false }
+      ],
+      "answer": "जागरूकता निर्माण करणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत सर्वात महत्त्वाचे मूल्य कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोकशाही", "is_correct": true },
+        { "option_id": 2, "text": "हुकूमशाही", "is_correct": false },
+        { "option_id": 3, "text": "आक्रमकता", "is_correct": false },
+        { "option_id": 4, "text": "गुप्तता", "is_correct": false }
+      ],
+      "answer": "लोकशाही"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेत नागरिकांचे कर्तव्य कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "कायदा पाळणे", "is_correct": true },
+        { "option_id": 2, "text": "कायदा मोडणे", "is_correct": false },
+        { "option_id": 3, "text": "कर न भरणे", "is_correct": false },
+        { "option_id": 4, "text": "अराजकता", "is_correct": false }
+      ],
+      "answer": "कायदा पाळणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेच्या मानवी संकल्पनेत कोणता घटक येत नाही?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्य सुरक्षा", "is_correct": false },
+        { "option_id": 2, "text": "अन्न सुरक्षा", "is_correct": false },
+        { "option_id": 3, "text": "पर्यावरण सुरक्षा", "is_correct": false },
+        { "option_id": 4, "text": "लष्करी आक्रमण", "is_correct": true }
+      ],
+      "answer": "लष्करी आक्रमण"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत संविधानिक प्रमुख कोण आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रधानमंत्री", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रपती", "is_correct": true },
+        { "option_id": 3, "text": "मुख्यमंत्री", "is_correct": false },
+        { "option_id": 4, "text": "सेनाध्यक्ष", "is_correct": false }
+      ],
+      "answer": "राष्ट्रपती"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षेत सायबर हल्ले वाढण्याचे मुख्य कारण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "डिजिटलीकरण", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 4, "text": "संस्कृती", "is_correct": false }
+      ],
+      "answer": "डिजिटलीकरण"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षेत पर्यावरणीय धोके कशाशी संबंधित आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मानवी सुरक्षा", "is_correct": true },
+        { "option_id": 2, "text": "लष्करी सुरक्षा", "is_correct": false },
+        { "option_id": 3, "text": "सीमा सुरक्षा", "is_correct": false },
+        { "option_id": 4, "text": "सायबर सुरक्षा", "is_correct": false }
+      ],
+      "answer": "मानवी सुरक्षा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेचा अभ्यास कोणत्या विषयात केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "राजकारणशास्त्र", "is_correct": true },
+        { "option_id": 2, "text": "भौतिकशास्त्र", "is_correct": false },
+        { "option_id": 3, "text": "रसायनशास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "जीवशास्त्र", "is_correct": false }
+      ],
+      "answer": "राजकारणशास्त्र"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेत सुधारणा का आवश्यक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "धोके बदलत असल्यामुळे", "is_correct": true },
+        { "option_id": 2, "text": "युद्ध वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "खर्च कमी करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "संविधान बदलण्यासाठी", "is_correct": false }
+      ],
+      "answer": "धोके बदलत असल्यामुळे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेत समन्वय का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "गोंधळ टाळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "कार्यक्षमता वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नियंत्रण कमी करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खर्च वाढवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कार्यक्षमता वाढवण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "राष्ट्रीय सुरक्षेत लोकसहभाग का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "सतर्कता वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "गुप्तता राखण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कर चुकवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सतर्कता वाढवण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भारताच्या सुरक्षा व्यवस्थेचा अंतिम उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध जिंकणे", "is_correct": false },
+        { "option_id": 2, "text": "देशाची सुरक्षितता व शांतता राखणे", "is_correct": true },
+        { "option_id": 3, "text": "सत्ता वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "इतर देशांवर वर्चस्व", "is_correct": false }
+      ],
+      "answer": "देशाची सुरक्षितता व शांतता राखणे"
+    }
+  ]
+},
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.03",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "भारताची सुरक्षा व्यवस्था",
+    "question_set": "Short Answers 1–100"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षा म्हणजे काय?",
+      "answer": "देशाचे सार्वभौमत्व, स्वातंत्र्य आणि अखंडता यांचे संरक्षण म्हणजे राष्ट्रीय सुरक्षा होय."
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "भारताच्या सुरक्षा व्यवस्थेचे मुख्य उद्दिष्ट काय आहे?",
+      "answer": "देशाची सुरक्षितता राखणे आणि नागरिकांचे संरक्षण करणे हे मुख्य उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 3,
+      "question_type": "SHORT",
+      "question": "भारताच्या सुरक्षा व्यवस्थेचे प्रमुख घटक कोणते आहेत?",
+      "answer": "भूदल, नौदल, वायुदल, निमलष्करी दल आणि पोलीस व्यवस्था हे प्रमुख घटक आहेत."
+    },
+    {
+      "question_id": 4,
+      "question_type": "SHORT",
+      "question": "भूदलाचे मुख्य कार्य काय आहे?",
+      "answer": "भारताच्या भौगोलिक सीमांचे संरक्षण करणे हे भूदलाचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 5,
+      "question_type": "SHORT",
+      "question": "नौदलाची जबाबदारी काय आहे?",
+      "answer": "भारताच्या सागरी सीमांचे आणि सागरी व्यापार मार्गांचे रक्षण करणे हे नौदलाचे कार्य आहे."
+    },
+    {
+      "question_id": 6,
+      "question_type": "SHORT",
+      "question": "वायुदलाचे मुख्य कार्य कोणते आहे?",
+      "answer": "हवाई सीमा आणि अवकाशाचे संरक्षण करणे हे वायुदलाचे कार्य आहे."
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "भारताच्या संरक्षण दलांचे सरसेनापती कोण असतात?",
+      "answer": "भारताचे राष्ट्रपती हे सर्व संरक्षण दलांचे सरसेनापती असतात."
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "नागरी नियंत्रण म्हणजे काय?",
+      "answer": "संरक्षण दलांवर लोकनियुक्त सरकारचे नियंत्रण असणे म्हणजे नागरी नियंत्रण होय."
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "Chief of Defence Staff (CDS) चे कार्य काय आहे?",
+      "answer": "तीनही संरक्षण दलांमध्ये समन्वय साधणे हे CDS चे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "निमलष्करी दल म्हणजे काय?",
+      "answer": "संरक्षण दलांना सहाय्य करणारी दलं म्हणजे निमलष्करी दल होय."
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "सीआरपीएफचे मुख्य कार्य काय आहे?",
+      "answer": "अंतर्गत सुरक्षा आणि दंगल नियंत्रण हे सीआरपीएफचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "बीएसएफचे कार्य कोणते आहे?",
+      "answer": "सीमावर्ती भागांचे रक्षण करणे हे बीएसएफचे कार्य आहे."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "सीआयएसएफ कुठे सुरक्षा पुरवते?",
+      "answer": "महत्त्वाच्या औद्योगिक व सार्वजनिक आस्थापनांना सीआयएसएफ सुरक्षा पुरवते."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "भारताची अंतर्गत गुप्तचर संस्था कोणती आहे?",
+      "answer": "इंटेलिजन्स ब्युरो (IB) ही भारताची अंतर्गत गुप्तचर संस्था आहे."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "भारताची बाह्य गुप्तचर संस्था कोणती आहे?",
+      "answer": "रिसर्च अँड अ‍ॅनालिसिस विंग (RAW) ही भारताची बाह्य गुप्तचर संस्था आहे."
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "दहशतवाद म्हणजे काय?",
+      "answer": "भीती निर्माण करून राजकीय उद्दिष्टे साध्य करण्याची हिंसक कृती म्हणजे दहशतवाद होय."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "नक्षलवाद हा कोणत्या प्रकारचा धोका आहे?",
+      "answer": "नक्षलवाद हा अंतर्गत सुरक्षा धोका आहे."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "सायबर सुरक्षा म्हणजे काय?",
+      "answer": "डिजिटल प्रणाली व माहितीचे संरक्षण म्हणजे सायबर सुरक्षा होय."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "सायबर हल्ले वाढण्याचे कारण काय?",
+      "answer": "डिजिटलीकरण आणि इंटरनेटवरील अवलंबन वाढल्यामुळे सायबर हल्ले वाढतात."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षा सल्लागाराचे कार्य काय आहे?",
+      "answer": "राष्ट्रीय सुरक्षेबाबत सरकारला सल्ला देणे हे त्यांचे मुख्य कार्य आहे."
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षा म्हणजे काय?",
+      "answer": "नागरिकांचे अन्न, आरोग्य, पर्यावरण व सुरक्षित जीवन यांचे संरक्षण म्हणजे मानवी सुरक्षा होय."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन कोणत्या सुरक्षेशी संबंधित आहे?",
+      "answer": "आपत्ती व्यवस्थापन हे मानवी सुरक्षेशी संबंधित आहे."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत राज्य सरकारांची भूमिका काय आहे?",
+      "answer": "कायदा व सुव्यवस्था राखणे ही राज्य सरकारांची मुख्य भूमिका आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत केंद्र सरकारची भूमिका काय आहे?",
+      "answer": "राष्ट्रीय सुरक्षा धोरण आखणे आणि संरक्षण दलांचे नियंत्रण करणे ही केंद्र सरकारची भूमिका आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत नागरिकांची भूमिका काय आहे?",
+      "answer": "सतर्क राहणे, कायदा पाळणे आणि सहकार्य करणे ही नागरिकांची भूमिका आहे."
+    }
+
+    
+  ]
+},
+
+{
+  "questions": [
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत लोकशाही मूल्यांचे महत्त्व काय आहे?",
+      "answer": "लोकशाही मूल्यांमुळे संरक्षण दलांवर नागरी नियंत्रण राहते आणि उत्तरदायित्व सुनिश्चित होते."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत शिक्षणाचे महत्त्व काय आहे?",
+      "answer": "शिक्षणामुळे नागरिकांमध्ये जागरूकता, शिस्त आणि राष्ट्रीय कर्तव्याची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत माध्यमांची भूमिका काय आहे?",
+      "answer": "माध्यमे जनजागृती करतात आणि सुरक्षेशी संबंधित माहिती नागरिकांपर्यंत पोहोचवतात."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत पर्यावरणीय धोके कोणते आहेत?",
+      "answer": "हवामान बदल, प्रदूषण आणि नैसर्गिक आपत्ती हे पर्यावरणीय धोके आहेत."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत आर्थिक घटकांचे महत्त्व काय आहे?",
+      "answer": "मजबूत अर्थव्यवस्था असल्यास सुरक्षा व्यवस्था अधिक सक्षम बनते."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "सीमांचे संरक्षण का आवश्यक आहे?",
+      "answer": "सीमांचे संरक्षण केल्याने देशाची अखंडता आणि सार्वभौमत्व टिकून राहते."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "सागरी सुरक्षेचे महत्त्व काय आहे?",
+      "answer": "सागरी सुरक्षेमुळे व्यापार मार्ग आणि ऊर्जा पुरवठा सुरक्षित राहतो."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "अंतर्गत सुरक्षा धोके कोणते आहेत?",
+      "answer": "दहशतवाद, नक्षलवाद आणि जातीय दंगली हे अंतर्गत सुरक्षा धोके आहेत."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "बाह्य सुरक्षा धोके कोणते आहेत?",
+      "answer": "शेजारी देशांचे आक्रमण आणि सीमावाद हे बाह्य सुरक्षा धोके आहेत."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत समन्वय का आवश्यक आहे?",
+      "answer": "विविध सुरक्षा यंत्रणांमध्ये समन्वय असल्यास कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत तंत्रज्ञानाचे महत्त्व काय आहे?",
+      "answer": "आधुनिक तंत्रज्ञानामुळे सुरक्षा अधिक प्रभावी आणि जलद होते."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "संरक्षण खर्च का आवश्यक असतो?",
+      "answer": "संरक्षण खर्चामुळे लष्करी सज्जता आणि आधुनिक साधनसामग्री उपलब्ध होते."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "संविधान राष्ट्रीय सुरक्षेला कसा आधार देते?",
+      "answer": "संविधान सुरक्षा व्यवस्थेला कायदेशीर व संस्थात्मक आधार देते."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत शांततेचे महत्त्व काय आहे?",
+      "answer": "शांततेमुळे देशाचा विकास आणि सामाजिक स्थैर्य साध्य होते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "मानवी सुरक्षेचा मुख्य उद्देश काय आहे?",
+      "answer": "मानवी जीवन सुरक्षित व सन्मानजनक बनवणे हा मानवी सुरक्षेचा उद्देश आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कायदा व सुव्यवस्थेचे महत्त्व काय आहे?",
+      "answer": "कायदा व सुव्यवस्था टिकल्याने समाज सुरक्षित आणि स्थिर राहतो."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "गुप्तचर संस्थांचे कार्य काय आहे?",
+      "answer": "संभाव्य धोके ओळखणे आणि माहिती संकलन करणे हे गुप्तचर संस्थांचे कार्य आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "नागरिकांचे राष्ट्रीय सुरक्षेत कर्तव्य काय आहे?",
+      "answer": "सतर्क राहणे आणि संशयास्पद बाबी प्रशासनाला कळवणे हे नागरिकांचे कर्तव्य आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "सामाजिक एकतेचे राष्ट्रीय सुरक्षेत महत्त्व काय आहे?",
+      "answer": "सामाजिक एकतेमुळे अंतर्गत धोके कमी होतात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन का आवश्यक आहे?",
+      "answer": "आपत्तीमुळे होणारे नुकसान कमी करण्यासाठी आपत्ती व्यवस्थापन आवश्यक आहे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "आरोग्य सुरक्षा म्हणजे काय?",
+      "answer": "नागरिकांचे आरोग्य सुरक्षित ठेवणे म्हणजे आरोग्य सुरक्षा होय."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "अन्न सुरक्षेचे महत्त्व काय आहे?",
+      "answer": "अन्न उपलब्ध असल्यास सामाजिक अस्थिरता कमी होते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण राष्ट्रीय सुरक्षेशी कसे संबंधित आहे?",
+      "answer": "पर्यावरण सुरक्षित असल्यास मानवी जीवन आणि संसाधने सुरक्षित राहतात."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "सायबर धोके कोणत्या प्रकारचे असतात?",
+      "answer": "डेटा चोरी, हॅकिंग आणि ऑनलाइन फसवणूक हे सायबर धोके आहेत."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "डिजिटलीकरणामुळे कोणता नवीन सुरक्षा धोका निर्माण झाला आहे?",
+      "answer": "सायबर हल्ल्यांचा धोका डिजिटलीकरणामुळे वाढला आहे."
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षा धोरण कोण ठरवते?",
+      "answer": "केंद्र सरकार राष्ट्रीय सुरक्षा धोरण ठरवते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "नागरी नियंत्रण का आवश्यक आहे?",
+      "answer": "लोकशाही टिकवण्यासाठी नागरी नियंत्रण आवश्यक असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "लष्कराचे राजकारणापासून दूर राहणे का आवश्यक आहे?",
+      "answer": "लोकशाही व्यवस्थेचे संरक्षण करण्यासाठी लष्कर राजकारणापासून दूर राहते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत पोलीस दलाचे महत्त्व काय आहे?",
+      "answer": "पोलीस दल कायदा व सुव्यवस्था राखण्याचे कार्य करते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत नागरिक सहभागाचे महत्त्व काय आहे?",
+      "answer": "नागरिक सहभागामुळे सतर्कता आणि सहकार्य वाढते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत माहितीची भूमिका काय आहे?",
+      "answer": "योग्य माहितीमुळे धोके वेळेत ओळखता येतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सीमेवरील घुसखोरी म्हणजे काय?",
+      "answer": "अनधिकृतपणे सीमा ओलांडणे म्हणजे घुसखोरी होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत आंतरराष्ट्रीय सहकार्य का आवश्यक आहे?",
+      "answer": "जागतिक धोके सामूहिकपणे हाताळण्यासाठी आंतरराष्ट्रीय सहकार्य आवश्यक असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत धोरणात्मक नियोजनाचे महत्त्व काय आहे?",
+      "answer": "भविष्यातील धोके ओळखण्यासाठी धोरणात्मक नियोजन आवश्यक असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत गुप्ततेचे महत्त्व काय आहे?",
+      "answer": "संवेदनशील माहिती सुरक्षित ठेवण्यासाठी गुप्तता आवश्यक असते."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत कायदेशीर चौकटीचे महत्त्व काय आहे?",
+      "answer": "कायदेशीर चौकटीमुळे सुरक्षा कारवाईला वैधता मिळते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत प्रशिक्षणाचे महत्त्व काय आहे?",
+      "answer": "प्रशिक्षणामुळे सुरक्षा दलांची कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत आधुनिक शस्त्रास्त्रांचे महत्त्व काय आहे?",
+      "answer": "आधुनिक शस्त्रास्त्रे संरक्षण क्षमता वाढवतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत सीमा व्यवस्थापनाचे महत्त्व काय आहे?",
+      "answer": "सीमा व्यवस्थापनामुळे घुसखोरी आणि तस्करी रोखता येते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत अंतर्गत स्थैर्याचे महत्त्व काय आहे?",
+      "answer": "अंतर्गत स्थैर्य असल्यास बाह्य धोके सहज हाताळता येतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत नागरिक शिस्तीचे महत्त्व काय आहे?",
+      "answer": "नागरिक शिस्तीमुळे कायदा व सुव्यवस्था टिकते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत सामाजिक माध्यमांचा प्रभाव काय आहे?",
+      "answer": "सामाजिक माध्यमे माहिती वेगाने पसरवतात, त्यामुळे त्यांचा प्रभाव मोठा असतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत अफवांचे धोके कोणते आहेत?",
+      "answer": "अफवांमुळे सामाजिक अस्थिरता निर्माण होऊ शकते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत माहिती तंत्रज्ञानाचे महत्त्व काय आहे?",
+      "answer": "माहिती तंत्रज्ञानामुळे सुरक्षा व्यवस्थापन अधिक सक्षम होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत संशोधन व विकासाचे महत्त्व काय आहे?",
+      "answer": "संशोधन व विकासामुळे नवीन सुरक्षा उपाय विकसित होतात."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत भविष्यातील प्रमुख धोका कोणता आहे?",
+      "answer": "सायबर हल्ले आणि दहशतवाद हे भविष्यातील प्रमुख धोके आहेत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत आंतरराष्ट्रीय दहशतवाद का धोका ठरतो?",
+      "answer": "तो देशांच्या सीमांपलीकडे कार्य करतो म्हणून धोका ठरतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत ऊर्जा सुरक्षेचे महत्त्व काय आहे?",
+      "answer": "ऊर्जा उपलब्ध असल्यास आर्थिक व औद्योगिक स्थैर्य टिकते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत पाणी सुरक्षा का महत्त्वाची आहे?",
+      "answer": "पाण्याच्या तुटवड्यामुळे संघर्ष निर्माण होऊ शकतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत हवामान बदलाचा परिणाम काय आहे?",
+      "answer": "हवामान बदलामुळे आपत्ती आणि स्थलांतर वाढते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत लोकसंख्या घटकाचा परिणाम काय आहे?",
+      "answer": "लोकसंख्या वाढल्यास संसाधनांवर ताण येतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत शेजारी देशांचे महत्त्व काय आहे?",
+      "answer": "शेजारी देशांशी चांगले संबंध असल्यास सुरक्षा धोके कमी होतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत सामरिक विचारसरणीचे महत्त्व काय आहे?",
+      "answer": "सामरिक विचारसरणीमुळे दीर्घकालीन सुरक्षा नियोजन शक्य होते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत संवादाचे महत्त्व काय आहे?",
+      "answer": "संवादामुळे संघर्ष टाळता येतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत शांततामय मार्गांचे महत्त्व काय आहे?",
+      "answer": "शांततामय मार्गांनी दीर्घकालीन सुरक्षा साध्य होते."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत संविधानिक संस्थांचे महत्त्व काय आहे?",
+      "answer": "संविधानिक संस्था सुरक्षा व्यवस्थेवर नियंत्रण ठेवतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत पारदर्शकतेचे महत्त्व काय आहे?",
+      "answer": "पारदर्शकतेमुळे जनतेचा विश्वास वाढतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत गोपनीयता का आवश्यक आहे?",
+      "answer": "संवेदनशील माहिती सुरक्षित ठेवण्यासाठी गोपनीयता आवश्यक आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत नेतृत्वाचे महत्त्व काय आहे?",
+      "answer": "दूरदृष्टी असलेले नेतृत्व सुरक्षा व्यवस्थेला दिशा देते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत धोरण सातत्याचे महत्त्व काय आहे?",
+      "answer": "सातत्यामुळे दीर्घकालीन सुरक्षा उद्दिष्टे साध्य होतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत सामाजिक स्थैर्याचे महत्त्व काय आहे?",
+      "answer": "सामाजिक स्थैर्य असल्यास अंतर्गत धोके कमी होतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत युवकांची भूमिका काय आहे?",
+      "answer": "युवक देशाच्या सुरक्षेसाठी सज्ज व जागरूक राहू शकतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत महिलांची भूमिका काय आहे?",
+      "answer": "महिला सुरक्षा दल, प्रशासन व समाजात महत्त्वाची भूमिका बजावतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत राष्ट्रीय एकात्मतेचे महत्त्व काय आहे?",
+      "answer": "राष्ट्रीय एकात्मतेमुळे देश मजबूत राहतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत सामाजिक न्यायाचे महत्त्व काय आहे?",
+      "answer": "सामाजिक न्यायामुळे असंतोष कमी होतो."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत कायदा पालनाचे महत्त्व काय आहे?",
+      "answer": "कायदा पालनामुळे सुरक्षा व्यवस्था प्रभावी राहते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत नागरिक जागरूकतेचे महत्त्व काय आहे?",
+      "answer": "जागरूक नागरिक धोके लवकर ओळखू शकतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत देशभक्तीचे महत्त्व काय आहे?",
+      "answer": "देशभक्तीमुळे नागरिक सुरक्षेसाठी योगदान देतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत विश्वासाचे महत्त्व काय आहे?",
+      "answer": "सरकार व नागरिकांमधील विश्वास सुरक्षा मजबूत करतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत नैतिक मूल्यांचे महत्त्व काय आहे?",
+      "answer": "नैतिक मूल्यांमुळे सुरक्षा उपाय मानवी राहतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत दीर्घकालीन नियोजनाचे महत्त्व काय आहे?",
+      "answer": "दीर्घकालीन नियोजनामुळे भविष्यातील धोके हाताळता येतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत शांतता शिक्षणाचे महत्त्व काय आहे?",
+      "answer": "शांतता शिक्षणामुळे संघर्ष टाळण्याची वृत्ती निर्माण होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत सहकार्याचे महत्त्व काय आहे?",
+      "answer": "सहकार्यामुळे सुरक्षा उपाय अधिक प्रभावी होतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेत भविष्यकालीन तयारीचे महत्त्व काय आहे?",
+      "answer": "पूर्वतयारीमुळे संकटांचा सामना सहज करता येतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सुरक्षेचा अभ्यास विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+      "answer": "या अभ्यासामुळे विद्यार्थ्यांमध्ये राष्ट्रीय जबाबदारीची जाणीव निर्माण होते."
+    }
+  ]
+},
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.03",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "भारताची सुरक्षा व्यवस्था",
+    "question_set": "Long Answers 1–50"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षा म्हणजे काय? तिचे महत्त्व स्पष्ट करा.",
+      "answer": "राष्ट्रीय सुरक्षा म्हणजे देशाचे स्वातंत्र्य, सार्वभौमत्व आणि अखंडता यांचे संरक्षण होय. कोणत्याही देशाच्या अस्तित्वासाठी सुरक्षा अत्यंत महत्त्वाची असते. सुरक्षित वातावरणामुळे विकास साध्य होतो. नागरिकांचे जीवन व मालमत्ता सुरक्षित राहते. बाह्य व अंतर्गत धोके रोखले जातात. त्यामुळे राष्ट्रीय सुरक्षेला सर्वोच्च प्राधान्य दिले जाते."
+    },
+    {
+      "question_id": 2,
+      "question_type": "LONG",
+      "question": "भारताच्या सुरक्षा व्यवस्थेचे प्रमुख घटक स्पष्ट करा.",
+      "answer": "भारताच्या सुरक्षा व्यवस्थेत भूदल, नौदल आणि वायुदल हे मुख्य घटक आहेत. याशिवाय निमलष्करी दलांची महत्त्वाची भूमिका आहे. पोलीस व्यवस्था अंतर्गत सुरक्षा राखते. गुप्तचर संस्था धोके ओळखण्याचे काम करतात. नागरी प्रशासन संपूर्ण व्यवस्थेचे नियंत्रण करते. या सर्व घटकांमुळे सुरक्षा व्यवस्था प्रभावी बनते."
+    },
+    {
+      "question_id": 3,
+      "question_type": "LONG",
+      "question": "भारताच्या भूदलाची भूमिका स्पष्ट करा.",
+      "answer": "भूदल भारताच्या सुरक्षा व्यवस्थेचा कणा आहे. देशाच्या भूसीमांचे संरक्षण करणे हे त्याचे मुख्य कार्य आहे. युद्धकाळात शत्रूशी थेट लढा देणे हे भूदल करते. आपत्तीच्या काळात मदतकार्यही केले जाते. अंतर्गत सुरक्षेतही भूदल सहाय्य करते. त्यामुळे भूदलाची भूमिका अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 4,
+      "question_type": "LONG",
+      "question": "भारताच्या नौदलाची भूमिका स्पष्ट करा.",
+      "answer": "नौदल भारताच्या सागरी सीमांचे संरक्षण करते. सागरी व्यापार मार्ग सुरक्षित ठेवणे हे त्याचे महत्त्वाचे कार्य आहे. युद्धकाळात सागरी हल्ले रोखण्याचे काम नौदल करते. सागरी दरोडे व तस्करी रोखली जाते. आपत्तीच्या वेळी मदतकार्य केले जाते. त्यामुळे नौदलाची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 5,
+      "question_type": "LONG",
+      "question": "भारताच्या वायुदलाची भूमिका स्पष्ट करा.",
+      "answer": "वायुदल भारताच्या हवाई सीमांचे संरक्षण करते. हवाई हल्ल्यांपासून देशाचे रक्षण करणे हे त्याचे मुख्य कार्य आहे. युद्धकाळात जलद प्रतिसाद देण्याची क्षमता वायुदलाकडे असते. आपत्ती व्यवस्थापनातही वायुदल मदत करते. अवकाश सुरक्षेचे महत्त्व वाढत आहे. त्यामुळे वायुदलाची भूमिका वाढत आहे."
+    },
+    {
+      "question_id": 6,
+      "question_type": "LONG",
+      "question": "निमलष्करी दलांची भूमिका स्पष्ट करा.",
+      "answer": "निमलष्करी दल सुरक्षा व्यवस्थेला सहाय्य करतात. अंतर्गत सुरक्षा राखणे हे त्यांचे मुख्य कार्य आहे. सीमावर्ती भागांचे संरक्षण केले जाते. दंगल नियंत्रण आणि निवडणूक सुरक्षा केली जाते. आपत्तीच्या काळात मदत केली जाते. त्यामुळे निमलष्करी दलांची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 7,
+      "question_type": "LONG",
+      "question": "नागरी नियंत्रण म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "संरक्षण दलांवर लोकनियुक्त सरकारचे नियंत्रण म्हणजे नागरी नियंत्रण होय. हे लोकशाहीचे मूलभूत तत्त्व आहे. लष्कर राजकारणापासून दूर राहते. निर्णय प्रक्रियेत पारदर्शकता राहते. सत्तेचा गैरवापर टाळता येतो. त्यामुळे नागरी नियंत्रण आवश्यक आहे."
+    },
+    {
+      "question_id": 8,
+      "question_type": "LONG",
+      "question": "Chief of Defence Staff (CDS) ची गरज स्पष्ट करा.",
+      "answer": "तीनही संरक्षण दलांमध्ये समन्वय साधण्यासाठी CDS पद निर्माण करण्यात आले. संयुक्त नियोजन शक्य होते. संसाधनांचा योग्य वापर होतो. धोरणात्मक निर्णय अधिक प्रभावी बनतात. दलांमधील समन्वय वाढतो. त्यामुळे CDS ची गरज महत्त्वाची आहे."
+    },
+    {
+      "question_id": 9,
+      "question_type": "LONG",
+      "question": "भारताच्या गुप्तचर संस्थांची भूमिका स्पष्ट करा.",
+      "answer": "गुप्तचर संस्था संभाव्य धोके ओळखतात. अंतर्गत आणि बाह्य माहिती संकलित करतात. दहशतवादी कारवाया रोखण्यात मदत करतात. सरकारला वेळेवर माहिती पुरवतात. सुरक्षा धोरण ठरवण्यात सहाय्य करतात. त्यामुळे गुप्तचर संस्थांची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 10,
+      "question_type": "LONG",
+      "question": "अंतर्गत सुरक्षा धोके स्पष्ट करा.",
+      "answer": "अंतर्गत सुरक्षा धोके देशाच्या आतून निर्माण होतात. दहशतवाद हा गंभीर धोका आहे. नक्षलवाद काही भागांत आढळतो. जातीय व धार्मिक दंगली अस्थिरता निर्माण करतात. सायबर गुन्हे वाढत आहेत. त्यामुळे अंतर्गत धोके गंभीर ठरतात."
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "LONG",
+      "question": "बाह्य सुरक्षा धोके स्पष्ट करा.",
+      "answer": "बाह्य धोके शेजारी देशांकडून निर्माण होतात. सीमावाद हा प्रमुख बाह्य धोका आहे. शत्रू राष्ट्रांचे आक्रमण शक्य असते. दहशतवादी घुसखोरी होऊ शकते. युद्धाचा धोका कायम असतो. त्यामुळे बाह्य सुरक्षा धोके महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 12,
+      "question_type": "LONG",
+      "question": "दहशतवाद म्हणजे काय? तो राष्ट्रीय सुरक्षेला कसा धोका ठरतो?",
+      "answer": "दहशतवाद म्हणजे हिंसक मार्गाने भीती निर्माण करणे होय. सामान्य नागरिकांना लक्ष्य केले जाते. सामाजिक अस्थिरता निर्माण होते. आर्थिक नुकसान होते. आंतरराष्ट्रीय प्रतिमा खराब होते. त्यामुळे दहशतवाद राष्ट्रीय सुरक्षेला गंभीर धोका ठरतो."
+    },
+    {
+      "question_id": 13,
+      "question_type": "LONG",
+      "question": "नक्षलवाद हा अंतर्गत सुरक्षा धोका कसा आहे?",
+      "answer": "नक्षलवाद ग्रामीण व जंगल भागांत आढळतो. तो सशस्त्र उठावावर आधारित आहे. प्रशासनावर हल्ले केले जातात. विकास कामांना अडथळा येतो. नागरिकांचे जीवन असुरक्षित होते. त्यामुळे नक्षलवाद गंभीर अंतर्गत धोका आहे."
+    },
+    {
+      "question_id": 14,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा म्हणजे काय? तिचे महत्त्व स्पष्ट करा.",
+      "answer": "सायबर सुरक्षा म्हणजे डिजिटल माहितीचे संरक्षण होय. सायबर हल्ले वाढत आहेत. सरकारी व आर्थिक माहिती धोक्यात येते. नागरिकांची गोपनीयता भंग होते. आधुनिक युगात सायबर सुरक्षा अत्यंत आवश्यक आहे. त्यामुळे तिचे महत्त्व वाढले आहे."
+    },
+    {
+      "question_id": 15,
+      "question_type": "LONG",
+      "question": "मानवी सुरक्षा संकल्पना स्पष्ट करा.",
+      "answer": "मानवी सुरक्षा नागरिकांच्या जीवनाशी संबंधित आहे. अन्न, आरोग्य आणि पर्यावरण सुरक्षा महत्त्वाची आहे. मानवी हक्कांचे संरक्षण केले जाते. नैसर्गिक आपत्तींपासून संरक्षण दिले जाते. सुरक्षित जीवन हे मुख्य उद्दिष्ट आहे. त्यामुळे मानवी सुरक्षा महत्त्वाची आहे."
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे राष्ट्रीय सुरक्षेत महत्त्व स्पष्ट करा.",
+      "answer": "आपत्ती व्यवस्थापनामुळे जीवित व आर्थिक नुकसान कमी होते. नैसर्गिक आपत्ती वारंवार येतात. वेळेवर मदतकार्य केले जाते. प्रशासनाची तयारी वाढते. नागरिकांचा विश्वास वाढतो. त्यामुळे आपत्ती व्यवस्थापन महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत केंद्र सरकारची भूमिका स्पष्ट करा.",
+      "answer": "केंद्र सरकार राष्ट्रीय सुरक्षा धोरण ठरवते. संरक्षण दलांवर नियंत्रण ठेवते. गुप्तचर संस्थांचे समन्वय साधते. कायदे व धोरणे आखते. आंतरराष्ट्रीय सहकार्य वाढवते. त्यामुळे केंद्र सरकारची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 18,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत राज्य सरकारांची भूमिका स्पष्ट करा.",
+      "answer": "राज्य सरकारे कायदा व सुव्यवस्था राखतात. पोलीस दलाचे नियंत्रण करतात. अंतर्गत सुरक्षेत केंद्राला सहकार्य करतात. आपत्ती व्यवस्थापनात भूमिका बजावतात. स्थानिक धोके ओळखतात. त्यामुळे राज्य सरकारांची भूमिका आवश्यक आहे."
+    },
+    {
+      "question_id": 19,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत नागरिकांची भूमिका स्पष्ट करा.",
+      "answer": "नागरिकांनी कायदा पाळणे आवश्यक आहे. सतर्क राहणे महत्त्वाचे आहे. संशयास्पद बाबी प्रशासनाला कळवाव्यात. सामाजिक एकता राखावी. अफवांवर विश्वास ठेवू नये. त्यामुळे नागरिकांची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 20,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत शिक्षणाचे महत्त्व स्पष्ट करा.",
+      "answer": "शिक्षणामुळे जागरूक नागरिक घडतात. राष्ट्रीय कर्तव्याची जाणीव निर्माण होते. अफवांपासून दूर राहण्याची क्षमता वाढते. विज्ञान व तंत्रज्ञान विकासास चालना मिळते. शिस्त आणि जबाबदारी वाढते. त्यामुळे शिक्षण महत्त्वाचे आहे."
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत माध्यमांची भूमिका स्पष्ट करा.",
+      "answer": "माध्यमे जनजागृती करतात. सुरक्षा विषयक माहिती लोकांपर्यंत पोहोचवतात. प्रशासनाला जबाबदार धरतात. अफवांवर नियंत्रण ठेवणे आवश्यक असते. योग्य माहिती दिल्यास सुरक्षा मजबूत होते. त्यामुळे माध्यमांची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत आर्थिक घटकांचे महत्त्व स्पष्ट करा.",
+      "answer": "मजबूत अर्थव्यवस्था सुरक्षा क्षमतेस आधार देते. संरक्षण खर्चासाठी निधी उपलब्ध होतो. बेरोजगारी कमी होते. सामाजिक स्थैर्य टिकते. आर्थिक दुर्बलता सुरक्षा धोका ठरू शकते. त्यामुळे आर्थिक घटक महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत सामाजिक एकतेचे महत्त्व स्पष्ट करा.",
+      "answer": "सामाजिक एकता असल्यास अंतर्गत धोके कमी होतात. दंगली टाळता येतात. नागरिकांमध्ये विश्वास वाढतो. राष्ट्रीय एकात्मता मजबूत होते. शत्रूंच्या कटांना अपयश येते. त्यामुळे सामाजिक एकता महत्त्वाची आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत तंत्रज्ञानाचे महत्त्व स्पष्ट करा.",
+      "answer": "आधुनिक तंत्रज्ञानामुळे सुरक्षा अधिक प्रभावी होते. सायबर सुरक्षा साधने विकसित झाली आहेत. आधुनिक शस्त्रास्त्रे वापरात आहेत. माहिती विश्लेषण शक्य होते. प्रतिसाद वेळ कमी होतो. त्यामुळे तंत्रज्ञान महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत सीमांचे महत्त्व स्पष्ट करा.",
+      "answer": "सीमांचे संरक्षण देशाची अखंडता राखते. घुसखोरी रोखली जाते. तस्करी थांबवता येते. शेजारी देशांशी तणाव नियंत्रित होतो. सुरक्षा दल सज्ज राहतात. त्यामुळे सीमांचे महत्त्व मोठे आहे."
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत सागरी सुरक्षेचे महत्त्व स्पष्ट करा.",
+      "answer": "सागरी मार्गांवर व्यापार अवलंबून असतो. ऊर्जा आयात सुरक्षित राहते. दरोडे व तस्करी रोखली जाते. नौदलाची भूमिका वाढते. महासागरातील धोके टाळले जातात. त्यामुळे सागरी सुरक्षा महत्त्वाची आहे."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत पर्यावरणीय घटकांचे महत्त्व स्पष्ट करा.",
+      "answer": "हवामान बदलामुळे आपत्ती वाढतात. संसाधनांवर ताण येतो. स्थलांतर वाढते. सामाजिक अस्थिरता निर्माण होऊ शकते. पर्यावरण संरक्षण आवश्यक ठरते. त्यामुळे पर्यावरणीय घटक महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत कायदेशीर चौकटीचे महत्त्व स्पष्ट करा.",
+      "answer": "कायदेशीर चौकटीमुळे सुरक्षा कारवाईला वैधता मिळते. मानवाधिकारांचे संरक्षण होते. अधिकारांचा गैरवापर टाळता येतो. प्रशासनाला दिशा मिळते. लोकांचा विश्वास वाढतो. त्यामुळे कायदेशीर चौकट महत्त्वाची आहे."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत दीर्घकालीन नियोजनाचे महत्त्व स्पष्ट करा.",
+      "answer": "भविष्यातील धोके ओळखण्यासाठी नियोजन आवश्यक आहे. संसाधनांची योग्य तयारी करता येते. धोरण सातत्य राखले जाते. आकस्मिक परिस्थिती हाताळता येते. सुरक्षा मजबूत होते. त्यामुळे दीर्घकालीन नियोजन महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत शांततेचे महत्त्व स्पष्ट करा.",
+      "answer": "शांततेमुळे विकास शक्य होतो. नागरिकांचे जीवन सुरक्षित राहते. आर्थिक प्रगती साध्य होते. आंतरराष्ट्रीय सहकार्य वाढते. संघर्ष टाळता येतात. त्यामुळे शांततेचे महत्त्व मोठे आहे."
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत आंतरराष्ट्रीय सहकार्याचे महत्त्व स्पष्ट करा.",
+      "answer": "आंतरराष्ट्रीय धोके सामूहिक स्वरूपाचे असतात. दहशतवाद सीमांपलीकडे पसरतो. माहिती देवाणघेवाण आवश्यक असते. संयुक्त कारवाई शक्य होते. जागतिक शांतता राखता येते. त्यामुळे आंतरराष्ट्रीय सहकार्य महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत विश्वासाचे महत्त्व स्पष्ट करा.",
+      "answer": "सरकार व नागरिकांमधील विश्वास आवश्यक असतो. धोरणांची अंमलबजावणी सुलभ होते. अफवांना आळा बसतो. सहकार्य वाढते. सामाजिक स्थैर्य टिकते. त्यामुळे विश्वास महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत नैतिक मूल्यांचे महत्त्व स्पष्ट करा.",
+      "answer": "नैतिक मूल्यांमुळे मानवी दृष्टिकोन राखला जातो. मानवाधिकारांचे उल्लंघन टाळले जाते. लोकशाही मूल्ये जपली जातात. आंतरराष्ट्रीय प्रतिमा सुधारते. न्याय्य धोरण राबवले जाते. त्यामुळे नैतिक मूल्ये महत्त्वाची आहेत."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत युवकांची भूमिका स्पष्ट करा.",
+      "answer": "युवक राष्ट्राचे भविष्य आहेत. सुरक्षा दलांमध्ये सहभाग घेतात. सामाजिक माध्यमांत जागरूकता निर्माण करतात. राष्ट्रभक्ती वाढवतात. स्वयंसेवी कार्य करतात. त्यामुळे युवकांची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत महिलांची भूमिका स्पष्ट करा.",
+      "answer": "महिला सुरक्षा दलांत कार्य करतात. प्रशासन व आपत्ती व्यवस्थापनात सहभाग घेतात. सामाजिक स्थैर्य राखण्यात मदत करतात. आरोग्य व शिक्षण क्षेत्रात योगदान देतात. समान सहभाग महत्त्वाचा आहे. त्यामुळे महिलांची भूमिका वाढत आहे."
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत सामाजिक न्यायाचे महत्त्व स्पष्ट करा.",
+      "answer": "सामाजिक न्याय असल्यास असंतोष कमी होतो. वंचित घटक मुख्य प्रवाहात येतात. अंतर्गत धोके कमी होतात. सामाजिक स्थैर्य टिकते. राष्ट्रीय एकता वाढते. त्यामुळे सामाजिक न्याय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत अफवांचे धोके स्पष्ट करा.",
+      "answer": "अफवांमुळे भीती पसरते. दंगली होऊ शकतात. प्रशासनावर अविश्वास निर्माण होतो. सामाजिक माध्यमांत वेगाने पसरतात. सुरक्षा कारवाई अडथळ्यात येते. त्यामुळे अफवा धोकादायक आहेत."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत माहिती तंत्रज्ञानाचे महत्त्व स्पष्ट करा.",
+      "answer": "माहिती तंत्रज्ञानामुळे जलद संवाद शक्य होतो. डेटा विश्लेषण करता येते. सायबर सुरक्षेस मदत होते. गुप्तचर कार्यक्षमता वाढते. निर्णय प्रक्रिया सुधारते. त्यामुळे IT महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत भविष्यकालीन आव्हाने स्पष्ट करा.",
+      "answer": "सायबर युद्ध वाढू शकते. हवामान बदल मोठे आव्हान आहे. दहशतवादाचे स्वरूप बदलत आहे. संसाधनांवरील ताण वाढतो. तंत्रज्ञानाचा गैरवापर संभवतो. त्यामुळे भविष्यातील आव्हाने गंभीर आहेत."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत शांततामय मार्गांचे महत्त्व स्पष्ट करा.",
+      "answer": "संवाद व वाटाघाटी संघर्ष टाळतात. युद्धाचा खर्च व हानी कमी होते. आंतरराष्ट्रीय सहकार्य वाढते. दीर्घकालीन समाधान मिळते. मानवी मूल्ये जपली जातात. त्यामुळे शांततामय मार्ग महत्त्वाचे आहेत."
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत संविधानाची भूमिका स्पष्ट करा.",
+      "answer": "संविधान सुरक्षा व्यवस्थेला कायदेशीर आधार देते. अधिकार व कर्तव्ये स्पष्ट करते. नागरी नियंत्रण सुनिश्चित करते. मानवाधिकारांचे संरक्षण करते. आपत्कालीन तरतुदी उपलब्ध करून देते. त्यामुळे संविधानाची भूमिका महत्त्वाची आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत नेतृत्वाचे महत्त्व स्पष्ट करा.",
+      "answer": "दूरदृष्टी असलेले नेतृत्व आवश्यक असते. धोरणात्मक निर्णय घेतले जातात. संकट काळात मार्गदर्शन मिळते. जनतेचा विश्वास निर्माण होतो. समन्वय साधला जातो. त्यामुळे नेतृत्व महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत धोरण सातत्याचे महत्त्व स्पष्ट करा.",
+      "answer": "सातत्यामुळे दीर्घकालीन उद्दिष्टे साध्य होतात. धोरण बदलांमुळे गोंधळ टळतो. संसाधन नियोजन सोपे होते. आंतरराष्ट्रीय विश्वास वाढतो. सुरक्षा मजबूत राहते. त्यामुळे धोरण सातत्य महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत पारदर्शकतेचे महत्त्व स्पष्ट करा.",
+      "answer": "पारदर्शकतेमुळे जनतेचा विश्वास वाढतो. गैरवापर टाळता येतो. लोकशाही मूल्ये जपली जातात. निर्णय प्रक्रिया स्पष्ट होते. उत्तरदायित्व वाढते. त्यामुळे पारदर्शकता महत्त्वाची आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत गोपनीयतेचे महत्त्व स्पष्ट करा.",
+      "answer": "संवेदनशील माहिती सुरक्षित ठेवणे आवश्यक असते. शत्रूंना माहिती मिळू नये. गुप्तचर कारवाया सुरक्षित राहतात. धोरणात्मक योजना उघड होत नाहीत. सुरक्षा मजबूत राहते. त्यामुळे गोपनीयता महत्त्वाची आहे."
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत सहकार्याचे महत्त्व स्पष्ट करा.",
+      "answer": "सहकार्यामुळे कार्यक्षमता वाढते. विविध यंत्रणा एकत्र काम करतात. धोके जलद हाताळता येतात. संसाधनांचा योग्य वापर होतो. नागरिक व प्रशासनात समन्वय राहतो. त्यामुळे सहकार्य महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत देशभक्तीचे महत्त्व स्पष्ट करा.",
+      "answer": "देशभक्तीमुळे नागरिक देशासाठी कार्य करतात. सुरक्षा दलांना नैतिक बळ मिळते. सामाजिक एकता वाढते. संकट काळात सहकार्य वाढते. राष्ट्रीय भावना मजबूत होते. त्यामुळे देशभक्ती महत्त्वाची आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत भविष्यातील तयारीचे महत्त्व स्पष्ट करा.",
+      "answer": "भविष्यातील धोके ओळखून तयारी आवश्यक असते. प्रशिक्षण व साधनसामग्री तयार ठेवली जाते. आकस्मिक परिस्थिती हाताळता येते. नुकसान कमी होते. सुरक्षा मजबूत होते. त्यामुळे पूर्वतयारी महत्त्वाची आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेत शांतता शिक्षणाचे महत्त्व स्पष्ट करा.",
+      "answer": "शांतता शिक्षणामुळे संघर्ष टाळण्याची वृत्ती निर्माण होते. सहिष्णुता वाढते. संवादाला प्राधान्य दिले जाते. सामाजिक सलोखा टिकतो. दीर्घकालीन स्थैर्य साध्य होते. त्यामुळे शांतता शिक्षण महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय सुरक्षेचा अभ्यास विद्यार्थ्यांसाठी का आवश्यक आहे?",
+      "answer": "या अभ्यासामुळे विद्यार्थ्यांमध्ये राष्ट्रीय जबाबदारी निर्माण होते. देशातील सुरक्षा यंत्रणा समजतात. जागतिक घडामोडींची जाणीव होते. देशभक्ती वाढते. जागरूक नागरिक घडतात. म्हणून राष्ट्रीय सुरक्षेचा अभ्यास आवश्यक आहे."
+    }
+  ]
+}
+
+
+  ]
+}

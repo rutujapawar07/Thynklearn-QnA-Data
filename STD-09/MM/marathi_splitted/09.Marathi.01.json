@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M01",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "Vande Mataram"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वन्दे मातरम्",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्याग",
+          "is_correct": false
+        }
+      ],
+      "answer": "वन्दे मातरम्"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्वज",
+          "is_correct": true
+        }
+      ],
+      "answer": "ध्वज"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भारतमाता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "देशभक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संस्कृती",
+          "is_correct": false
+        }
+      ],
+      "answer": "युवक जागृती"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "देशभक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारतमाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विजय",
+          "is_correct": true
+        }
+      ],
+      "answer": "विजय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्फूर्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकात्मता",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्फूर्ती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शौर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संरक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "लढा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशभक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शौर्य",
+          "is_correct": true
+        }
+      ],
+      "answer": "शौर्य"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भारतमाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "युवक जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेरणा",
+          "is_correct": true
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्याग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य संग्राम"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वन्दे मातरम्",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संरक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "वन्दे मातरम्"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वज",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अभिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वज"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युवक जागृती",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकात्मता",
+          "is_correct": false
+        }
+      ],
+      "answer": "युवक जागृती"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकजूट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जागृती",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विजय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्फूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "विजय"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्फूर्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शौर्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्फूर्ती"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकजूट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शौर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": false
+        }
+      ],
+      "answer": "लढा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकजूट",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शौर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "युवक जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शौर्य"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशभक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अभिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्वातंत्र्य संग्राम"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन्दे मातरम्",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्याग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "वन्दे मातरम्"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वज",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकजूट",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वज"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अभिमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लढा",
+          "is_correct": false
+        }
+      ],
+      "answer": "युवक जागृती"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एकजूट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "त्याग",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विजय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "त्याग",
+          "is_correct": false
+        }
+      ],
+      "answer": "विजय"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शौर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "युवक जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्फूर्ती",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्फूर्ती"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लढा",
+          "is_correct": true
+        }
+      ],
+      "answer": "लढा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शौर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "त्याग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्फूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शौर्य"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशभक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्याग",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्वातंत्र्य संग्राम"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन्दे मातरम्",
+          "is_correct": true
+        }
+      ],
+      "answer": "वन्दे मातरम्"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्फूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वज"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "धैर्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकजूट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संरक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "युवक जागृती"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भारतमाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभिमान",
+          "is_correct": true
+        }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्फूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विजय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        }
+      ],
+      "answer": "विजय"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्फूर्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माता",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्फूर्ती"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युवक जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकजूट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लढा",
+          "is_correct": true
+        }
+      ],
+      "answer": "लढा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संस्कृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राष्ट्रीय भावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भारतमाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शौर्य",
+          "is_correct": true
+        }
+      ],
+      "answer": "शौर्य"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "गुणधर्म ओळखा (47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माता",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "प्रभाव ओळखा (48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकात्मता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशभक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वातंत्र्य संग्राम",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्वातंत्र्य संग्राम"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "थीम ओळखा (49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकजूट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन्दे मातरम्",
+          "is_correct": true
+        }
+      ],
+      "answer": "वन्दे मातरम्"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "प्रतीक ओळखा (50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वज",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शौर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन्दे मातरम्",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वज"
+    },
+    {
+      "question_id": 51,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "ONE_LINE",
+      "question": "क्रांतीआवाहन स्पष्ट करा",
+      "answer": "क्रांतीआवाहन ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "ONE_LINE",
+      "question": "एकात्मता स्पष्ट करा",
+      "answer": "एकात्मता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "ONE_LINE",
+      "question": "संघर्ष स्पष्ट करा",
+      "answer": "संघर्ष ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "ONE_LINE",
+      "question": "स्वातंत्र्य स्पष्ट करा",
+      "answer": "स्वातंत्र्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "ONE_LINE",
+      "question": "मातृभूमी स्पष्ट करा",
+      "answer": "मातृभूमी ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "ONE_LINE",
+      "question": "त्याग स्पष्ट करा",
+      "answer": "त्याग ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "ONE_LINE",
+      "question": "शौर्य स्पष्ट करा",
+      "answer": "शौर्य ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "ONE_LINE",
+      "question": "सांस्कृतिक वैभव स्पष्ट करा",
+      "answer": "सांस्कृतिक वैभव ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "ONE_LINE",
+      "question": "भारतमाता स्पष्ट करा",
+      "answer": "भारतमाता ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "ONE_LINE",
+      "question": "देशभक्ती स्पष्ट करा",
+      "answer": "देशभक्ती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "ONE_LINE",
+      "question": "राष्ट्रीय जागृती स्पष्ट करा",
+      "answer": "राष्ट्रीय जागृती ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "ONE_LINE",
+      "question": "प्रेरणा स्पष्ट करा",
+      "answer": "प्रेरणा ही 'वन्दे मातरम्' या गीतातून जागृत झालेली राष्ट्रविकासाची शक्तिशाली भावना आहे."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "वन्दे मातरम् चे महत्त्व स्पष्ट करा",
+      "answer": "वन्दे मातरम् चे महत्त्व हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "भारतमातेचे प्रतीक स्पष्ट करा",
+      "answer": "भारतमातेचे प्रतीक हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "देशभक्ती जागृती स्पष्ट करा",
+      "answer": "देशभक्ती जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "स्वातंत्र्य संघर्षातील भूमिका स्पष्ट करा",
+      "answer": "स्वातंत्र्य संघर्षातील भूमिका हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "एकात्मतेचा संदेश स्पष्ट करा",
+      "answer": "एकात्मतेचा संदेश हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय ओळख मजबूत करणे स्पष्ट करा",
+      "answer": "राष्ट्रीय ओळख मजबूत करणे हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "त्याग आणि धैर्य स्पष्ट करा",
+      "answer": "त्याग आणि धैर्य हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "क्रांतिकारी स्फूर्ती स्पष्ट करा",
+      "answer": "क्रांतिकारी स्फूर्ती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "सांस्कृतिक अभिमान स्पष्ट करा",
+      "answer": "सांस्कृतिक अभिमान हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "शौर्य जागृती स्पष्ट करा",
+      "answer": "शौर्य जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "वन्दे मातरम् चे महत्त्व स्पष्ट करा",
+      "answer": "वन्दे मातरम् चे महत्त्व हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "भारतमातेचे प्रतीक स्पष्ट करा",
+      "answer": "भारतमातेचे प्रतीक हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "देशभक्ती जागृती स्पष्ट करा",
+      "answer": "देशभक्ती जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "स्वातंत्र्य संघर्षातील भूमिका स्पष्ट करा",
+      "answer": "स्वातंत्र्य संघर्षातील भूमिका हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "एकात्मतेचा संदेश स्पष्ट करा",
+      "answer": "एकात्मतेचा संदेश हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय ओळख मजबूत करणे स्पष्ट करा",
+      "answer": "राष्ट्रीय ओळख मजबूत करणे हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "त्याग आणि धैर्य स्पष्ट करा",
+      "answer": "त्याग आणि धैर्य हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "क्रांतिकारी स्फूर्ती स्पष्ट करा",
+      "answer": "क्रांतिकारी स्फूर्ती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "सांस्कृतिक अभिमान स्पष्ट करा",
+      "answer": "सांस्कृतिक अभिमान हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "शौर्य जागृती स्पष्ट करा",
+      "answer": "शौर्य जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "वन्दे मातरम् चे महत्त्व स्पष्ट करा",
+      "answer": "वन्दे मातरम् चे महत्त्व हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "भारतमातेचे प्रतीक स्पष्ट करा",
+      "answer": "भारतमातेचे प्रतीक हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "देशभक्ती जागृती स्पष्ट करा",
+      "answer": "देशभक्ती जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "स्वातंत्र्य संघर्षातील भूमिका स्पष्ट करा",
+      "answer": "स्वातंत्र्य संघर्षातील भूमिका हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "एकात्मतेचा संदेश स्पष्ट करा",
+      "answer": "एकात्मतेचा संदेश हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय ओळख मजबूत करणे स्पष्ट करा",
+      "answer": "राष्ट्रीय ओळख मजबूत करणे हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "त्याग आणि धैर्य स्पष्ट करा",
+      "answer": "त्याग आणि धैर्य हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "क्रांतिकारी स्फूर्ती स्पष्ट करा",
+      "answer": "क्रांतिकारी स्फूर्ती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "सांस्कृतिक अभिमान स्पष्ट करा",
+      "answer": "सांस्कृतिक अभिमान हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "शौर्य जागृती स्पष्ट करा",
+      "answer": "शौर्य जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "वन्दे मातरम् चे महत्त्व स्पष्ट करा",
+      "answer": "वन्दे मातरम् चे महत्त्व हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "भारतमातेचे प्रतीक स्पष्ट करा",
+      "answer": "भारतमातेचे प्रतीक हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "देशभक्ती जागृती स्पष्ट करा",
+      "answer": "देशभक्ती जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "स्वातंत्र्य संघर्षातील भूमिका स्पष्ट करा",
+      "answer": "स्वातंत्र्य संघर्षातील भूमिका हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "एकात्मतेचा संदेश स्पष्ट करा",
+      "answer": "एकात्मतेचा संदेश हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय ओळख मजबूत करणे स्पष्ट करा",
+      "answer": "राष्ट्रीय ओळख मजबूत करणे हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "त्याग आणि धैर्य स्पष्ट करा",
+      "answer": "त्याग आणि धैर्य हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "क्रांतिकारी स्फूर्ती स्पष्ट करा",
+      "answer": "क्रांतिकारी स्फूर्ती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "सांस्कृतिक अभिमान स्पष्ट करा",
+      "answer": "सांस्कृतिक अभिमान हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "शौर्य जागृती स्पष्ट करा",
+      "answer": "शौर्य जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "वन्दे मातरम् चे महत्त्व स्पष्ट करा",
+      "answer": "वन्दे मातरम् चे महत्त्व हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "भारतमातेचे प्रतीक स्पष्ट करा",
+      "answer": "भारतमातेचे प्रतीक हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "देशभक्ती जागृती स्पष्ट करा",
+      "answer": "देशभक्ती जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "स्वातंत्र्य संघर्षातील भूमिका स्पष्ट करा",
+      "answer": "स्वातंत्र्य संघर्षातील भूमिका हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "एकात्मतेचा संदेश स्पष्ट करा",
+      "answer": "एकात्मतेचा संदेश हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "राष्ट्रीय ओळख मजबूत करणे स्पष्ट करा",
+      "answer": "राष्ट्रीय ओळख मजबूत करणे हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "त्याग आणि धैर्य स्पष्ट करा",
+      "answer": "त्याग आणि धैर्य हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "क्रांतिकारी स्फूर्ती स्पष्ट करा",
+      "answer": "क्रांतिकारी स्फूर्ती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "सांस्कृतिक अभिमान स्पष्ट करा",
+      "answer": "सांस्कृतिक अभिमान हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "शौर्य जागृती स्पष्ट करा",
+      "answer": "शौर्य जागृती हा या गीताचा मुख्य संदेश आहे.\nत्याने भारतीयांमध्ये मातृभूमीप्रेम व समर्पण जागवले.\nजनतेत संघर्षाची तयारी आणि एकजूट निर्माण झाली.\nही प्रेरणा स्वातंत्र्यलढ्याला बळकटी देणारी ठरली."
+    }
+  ]
+}

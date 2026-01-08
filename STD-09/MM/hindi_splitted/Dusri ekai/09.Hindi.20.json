@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.20",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "मेरे पिता जी (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'मेरे पिता जी' पाठ के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "सुमित्रानंदन पंत", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. हरिवंशराय बच्चन", "is_correct": true },
+        { "option_id": 3, "text": "महादेवी वर्मा", "is_correct": false },
+        { "option_id": 4, "text": "प्रेमचंद", "is_correct": false }
+      ],
+      "answer": "डॉ. हरिवंशराय बच्चन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लेखक के पिता किस प्रेस में काम करते थे?",
+      "options": [
+        { "option_id": 1, "text": "गीता प्रेस", "is_correct": false },
+        { "option_id": 2, "text": "पॉयनियर प्रेस", "is_correct": true },
+        { "option_id": 3, "text": "इंडियन प्रेस", "is_correct": false },
+        { "option_id": 4, "text": "नेशनल प्रेस", "is_correct": false }
+      ],
+      "answer": "पॉयनियर प्रेस"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "घर से दफ्तर की दूरी कितनी थी?",
+      "options": [
+        { "option_id": 1, "text": "दो मील", "is_correct": false },
+        { "option_id": 2, "text": "चार मील", "is_correct": true },
+        { "option_id": 3, "text": "पाँच मील", "is_correct": false },
+        { "option_id": 4, "text": "दस मील", "is_correct": false }
+      ],
+      "answer": "चार मील"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखक के पिता दफ्तर कैसे जाते थे?",
+      "options": [
+        { "option_id": 1, "text": "साइकिल से", "is_correct": false },
+        { "option_id": 2, "text": "पैदल", "is_correct": true },
+        { "option_id": 3, "text": "तांगे से", "is_correct": false },
+        { "option_id": 4, "text": "बस से", "is_correct": false }
+      ],
+      "answer": "पैदल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दफ्तर के लिए उन्होंने कौन सी टोपी अपनाई थी?",
+      "options": [
+        { "option_id": 1, "text": "गांधी टोपी", "is_correct": false },
+        { "option_id": 2, "text": "फेल्ट कैप", "is_correct": false },
+        { "option_id": 3, "text": "दुपल्ली टोपी", "is_correct": true },
+        { "option_id": 4, "text": "हैट", "is_correct": false }
+      ],
+      "answer": "दुपल्ली टोपी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दफ्तर से बाहर जाने पर वे कौन सी टोपी पहनते थे?",
+      "options": [
+        { "option_id": 1, "text": "दुपल्ली टोपी", "is_correct": false },
+        { "option_id": 2, "text": "फेल्ट कैप (विलायती)", "is_correct": true },
+        { "option_id": 3, "text": "पगड़ी", "is_correct": false },
+        { "option_id": 4, "text": "ऊनी टोपी", "is_correct": false }
+      ],
+      "answer": "फेल्ट कैप (विलायती)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "लेखक के पिता रोज सुबह कितने बजे उठते थे?",
+      "options": [
+        { "option_id": 1, "text": "पाँच बजे", "is_correct": false },
+        { "option_id": 2, "text": "चार बजे", "is_correct": false },
+        { "option_id": 3, "text": "तीन बजे", "is_correct": true },
+        { "option_id": 4, "text": "छह बजे", "is_correct": false }
+      ],
+      "answer": "तीन बजे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पिता जी 'मानस' (रामचरितमानस) का पाठ कितने दिनों में समाप्त करते थे?",
+      "options": [
+        { "option_id": 1, "text": "सात दिन (सप्ताह) में", "is_correct": false },
+        { "option_id": 2, "text": "नौ दिन (नवाहिक) में", "is_correct": true },
+        { "option_id": 3, "text": "एक महीने में", "is_correct": false },
+        { "option_id": 4, "text": "एक दिन में", "is_correct": false }
+      ],
+      "answer": "नौ दिन (नवाहिक) में"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बचपन में लेखक के रोने पर उन्हें चुप कराने का क्या उपाय था?",
+      "options": [
+        { "option_id": 1, "text": "खिलौने देना", "is_correct": false },
+        { "option_id": 2, "text": "लोरी सुनाना", "is_correct": false },
+        { "option_id": 3, "text": "पिता जी का मानस पाठ सुनाना", "is_correct": true },
+        { "option_id": 4, "text": "दूध पिलाना", "is_correct": false }
+      ],
+      "answer": "पिता जी का मानस पाठ सुनाना"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखक ने 'गीता' का अनुवाद किस भाषा में किया?",
+      "options": [
+        { "option_id": 1, "text": "खड़ी बोली", "is_correct": false },
+        { "option_id": 2, "text": "ब्रज भाषा", "is_correct": false },
+        { "option_id": 3, "text": "अवधी (जनगीता)", "is_correct": true },
+        { "option_id": 4, "text": "संस्कृत", "is_correct": false }
+      ],
+      "answer": "अवधी (जनगीता)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पिता जी को किस चीज का 'मर्ज' (शौक) था?",
+      "options": [
+        { "option_id": 1, "text": "सोने का", "is_correct": false },
+        { "option_id": 2, "text": "चलने का", "is_correct": true },
+        { "option_id": 3, "text": "खाने का", "is_correct": false },
+        { "option_id": 4, "text": "बातें करने का", "is_correct": false }
+      ],
+      "answer": "चलने का"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नींद के बारे में पिता जी का क्या सिद्धांत था?",
+      "options": [
+        { "option_id": 1, "text": "नींद लंबाई माँगती है", "is_correct": false },
+        { "option_id": 2, "text": "नींद गहराई माँगती है, लंबाई नहीं", "is_correct": true },
+        { "option_id": 3, "text": "दिन में सोना चाहिए", "is_correct": false },
+        { "option_id": 4, "text": "कम से कम १० घंटे सोना चाहिए", "is_correct": false }
+      ],
+      "answer": "नींद गहराई माँगती है, लंबाई नहीं"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लेखक के घर में आई घड़ी किस युग की थी?",
+      "options": [
+        { "option_id": 1, "text": "मुगल युग की", "is_correct": false },
+        { "option_id": 2, "text": "आधुनिक युग की", "is_correct": false },
+        { "option_id": 3, "text": "विक्टोरियन युग की", "is_correct": true },
+        { "option_id": 4, "text": "प्राचीन काल की", "is_correct": false }
+      ],
+      "answer": "विक्टोरियन युग की"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखक की माँ उस घड़ी को क्या कहती थीं?",
+      "options": [
+        { "option_id": 1, "text": "अलार्म घड़ी", "is_correct": false },
+        { "option_id": 2, "text": "राम घड़ी", "is_correct": true },
+        { "option_id": 3, "text": "दीवार घड़ी", "is_correct": false },
+        { "option_id": 4, "text": "विदेशी घड़ी", "is_correct": false }
+      ],
+      "answer": "राम घड़ी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'चलास' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "चला जाना", "is_correct": false },
+        { "option_id": 2, "text": "चलने का शौक", "is_correct": true },
+        { "option_id": 3, "text": "थकान", "is_correct": false },
+        { "option_id": 4, "text": "चाल", "is_correct": false }
+      ],
+      "answer": "चलने का शौक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "लेखक के पिता के किन गुणों ने उन्हें विशिष्टता प्रदान की?",
+      "answer": "समय की पाबंदी, शुद्ध-स्वच्छ लिखावट, सही-साफ हिसाब-किताब रखने की आदत और विनम्र-निश्चल व्यवहार ने उन्हें विशिष्टता दी।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "पिता जी दफ्तर के लिए कैसी पोशाक पहनते थे?",
+      "answer": "वे काला जूता, ढीला पाजामा, अचकन और दुपल्ली टोपी पहनते थे; जाड़ों में ऊनी गुलूबंद भी होता था।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "शहर में दंगा होने पर पिता जी ने क्या किया?",
+      "answer": "वे धोती और कुरते की बाँहें ऊपर चढ़ाकर, नंगे पाँव और हाथ में मोटा डंडा लेकर घर से बाहर निकले और लोगों को समझाया।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "पिता जी ने दंगा करने वालों को क्या समझाया?",
+      "answer": "उन्होंने समझाया कि धर्म का नाता है तो इन्सानियत का नाता भी है; लड़ाई बे-समझी की है और अंततः सबको मेल से ही रहना होगा।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "पिता जी की पूजा की कोठरी में किनकी तस्वीरें थीं?",
+      "answer": "दीवार पर राम, कृष्ण, शिव, गणेश, हनुमान, सरस्वती, लक्ष्मी, दुर्गा की शीशे जड़ी छोटी-छोटी तस्वीरें लटकी थीं; कोई मूर्ति नहीं थी।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "मानस का पाठ करते समय पिता जी की आवाज कैसी होती थी?",
+      "answer": "उनका स्वर साफ, सप्राण और लयपूर्ण होता था और उनकी आवाज सारे घर में गूँजती थी।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "लेखक को खड़ी बोली की कविता और अवधी/ब्रज की कविता पढ़ने में क्या अंतर लगता है?",
+      "answer": "लेखक ब्रज और अवधी की कविता घंटों पढ़ सकते हैं, लेकिन खड़ी बोली की कविता घंटे भर पढ़ने पर उनकी जीभ ऐंठने लगती है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "पिता जी की ३५ वर्ष की नौकरी की क्या विशेषता थी?",
+      "answer": "वे कहा करते थे कि अपनी ३५ वर्ष की नौकरी में वे एक दिन भी दफ्तर देर से नहीं पहुँचे।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "पिता जी ने आराम घड़ी क्यों खरीदी थी?",
+      "answer": "घर के लोगों को 'सेंस ऑफ टाइम' (वक्त का अंदाज) देने के लिए और समय की पाबंदी निभाने में सहयोग के लिए उन्होंने घड़ी खरीदी थी।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'बेहया साबित होना' मुहावरे का संदर्भ पाठ में क्या है?",
+      "answer": "घड़ी के संदर्भ में इसका अर्थ है कि वह पुरानी और 'कंडम' होने के बावजूद बिना बिगड़े लगातार चलती रही।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "लेखक के पिता के व्यक्तित्व की प्रमुख विशेषताएँ लिखिए।",
+      "answer": "लेखक के पिता समय के अत्यंत पाबंद, नियमबद्ध और परिश्रमी व्यक्ति थे। वे ३५ वर्षों तक कभी दफ्तर देर से नहीं गए। वे सादा जीवन और उच्च विचार में विश्वास रखते थे। वे धार्मिक प्रवृत्ति के थे और नियमित रूप से गंगा स्नान और मानस पाठ करते थे। वे निडर भी थे, जो दंगे के समय अकेले बाहर निकल गए थे। उनका स्वास्थ्य बहुत अच्छा था और उन्हें चलने का बहुत शौक था।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "हिंदू-मुस्लिम दंगे के समय पिता जी के व्यवहार से क्या संदेश मिलता है?",
+      "answer": "दंगे के समय पिता जी ने नंगे पाँव और डंडा लेकर बाहर निकलकर साहस का परिचय दिया। उन्होंने लोगों को समझाया कि धर्म से बड़ा इन्सानियत का नाता है। लड़ाई-झगड़े से किसी धर्म का अंत नहीं होता, अंततः सबको साथ ही रहना पड़ता है। उनका यह व्यवहार सांप्रदायिक सद्भाव, निडरता और मानवता का संदेश देता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "पिता जी की दिनचर्या का वर्णन कीजिए।",
+      "answer": "पिता जी की दिनचर्या नियमबद्ध थी। वे रोज तड़के ३ बजे उठते और ३-४ मील दूर गंगा स्नान को जाते। ६:३० बजे लौटकर पूजा और मानस पाठ करते। ८:३० बजे भोजन करके ९ बजे तक दफ्तर के लिए निकल जाते। दफ्तर से लौटने का समय निश्चित नहीं था, कभी देर रात तो कभी जल्दी आते। खाना खाने के बाद भी वे रात को २-३ मील टहलने जाते थे। वे कम सोते थे लेकिन गहरी नींद लेते थे।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "'आराम घड़ी' का लेखक के परिवार में क्या महत्त्व था?",
+      "answer": "यह घड़ी लेखक के पिता ने नौकरी के पहले वर्ष में खरीदी थी। यह पुरानी विक्टोरियन युग की थी लेकिन बहुत मजबूत थी। यह घर के दालान में रखी रहती थी और पूरे परिवार को समय का पाबंद बनाती थी। इसने परिवार के कई सुख-दुख, जन्म-मरण और उत्सव देखे थे। पिता जी के जीवनपर्यंत और उनकी मृत्यु के ३० वर्ष बाद भी वह चलती रही। यह पिता जी की निशानी बनकर परिवार के साथ जुड़ी रही।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "लेखक के पिता के 'समय की पाबंदी' के आग्रह का घर के अन्य सदस्यों पर क्या प्रभाव पड़ता था?",
+      "answer": "पिता जी की समय की पाबंदी का पालन करने के लिए घर के लोगों को भी सहयोग करना पड़ता था। भोजन ठीक समय पर ८:३० बजे तैयार होना जरूरी था। यदि भोजन तैयार न होता, तो पिता जी बिना खाए दफ्तर चले जाते। इसका परिणाम यह होता कि माँ को भी दिन भर उपवास करना पड़ता और घर की अन्य महिलाओं की बातें सुननी पड़तीं। इसलिए पूरा घर घड़ी की सुई के अनुसार चलता था।"
+    }
+  ]
+}

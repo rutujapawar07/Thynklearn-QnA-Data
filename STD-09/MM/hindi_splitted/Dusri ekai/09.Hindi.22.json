@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.22",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "स्वतंत्रता गान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'स्वतंत्रता गान' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "हरिवंश राय बच्चन", "is_correct": false },
+        { "option_id": 2, "text": "गोपाल सिंह नेपाली", "is_correct": true },
+        { "option_id": 3, "text": "मैथिलीशरण गुप्त", "is_correct": false },
+        { "option_id": 4, "text": "रामधारी सिंह दिनकर", "is_correct": false }
+      ],
+      "answer": "गोपाल सिंह नेपाली"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "यह 'निशीथ' का दिया क्या ला रहा है?",
+      "options": [
+        { "option_id": 1, "text": "अंधकार", "is_correct": false },
+        { "option_id": 2, "text": "तूफान", "is_correct": false },
+        { "option_id": 3, "text": "विहान (सवेरा)", "is_correct": true },
+        { "option_id": 4, "text": "चाँदनी", "is_correct": false }
+      ],
+      "answer": "विहान (सवेरा)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार आज किस पर यह दिया नहीं बुझना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "केवल महलों में", "is_correct": false },
+        { "option_id": 2, "text": "द्वार-द्वार पर", "is_correct": true },
+        { "option_id": 3, "text": "मंदिर में", "is_correct": false },
+        { "option_id": 4, "text": "बाजार में", "is_correct": false }
+      ],
+      "answer": "द्वार-द्वार पर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "यह स्वदेश का दिया किसके समान है?",
+      "options": [
+        { "option_id": 1, "text": "धन के", "is_correct": false },
+        { "option_id": 2, "text": "प्राण के", "is_correct": true },
+        { "option_id": 3, "text": "फूल के", "is_correct": false },
+        { "option_id": 4, "text": "तारे के", "is_correct": false }
+      ],
+      "answer": "प्राण के"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कब्र और मजार पर जलने वाला दिया किसका प्रतीक है?",
+      "options": [
+        { "option_id": 1, "text": "अंधविश्वास का", "is_correct": false },
+        { "option_id": 2, "text": "किसी शहीद के पुण्य प्राण दान का", "is_correct": true },
+        { "option_id": 3, "text": "अमीरी का", "is_correct": false },
+        { "option_id": 4, "text": "उत्सव का", "is_correct": false }
+      ],
+      "answer": "किसी शहीद के पुण्य प्राण दान का"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'निशीथ' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "सुबह", "is_correct": false },
+        { "option_id": 2, "text": "शाम", "is_correct": false },
+        { "option_id": 3, "text": "निशा / रात", "is_correct": true },
+        { "option_id": 4, "text": "दोपहर", "is_correct": false }
+      ],
+      "answer": "निशा / रात"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "देश पर और समाज पर किसका वितान है?",
+      "options": [
+        { "option_id": 1, "text": "बादलों का", "is_correct": false },
+        { "option_id": 2, "text": "ज्योति का", "is_correct": true },
+        { "option_id": 3, "text": "अंधकार का", "is_correct": false },
+        { "option_id": 4, "text": "धुएं का", "is_correct": false }
+      ],
+      "answer": "ज्योति का"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'विहान' का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "पक्षी", "is_correct": false },
+        { "option_id": 2, "text": "सवेरा", "is_correct": true },
+        { "option_id": 3, "text": "विमान", "is_correct": false },
+        { "option_id": 4, "text": "विज्ञान", "is_correct": false }
+      ],
+      "answer": "सवेरा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "यह दिया कैसी जीत-हार पर नहीं बुझना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "बड़ी", "is_correct": false },
+        { "option_id": 2, "text": "अंतिम", "is_correct": false },
+        { "option_id": 3, "text": "क्षुद्र (छोटी)", "is_correct": true },
+        { "option_id": 4, "text": "महत्वपूर्ण", "is_correct": false }
+      ],
+      "answer": "क्षुद्र (छोटी)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'दुकूल' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "किनारा", "is_correct": false },
+        { "option_id": 2, "text": "दुपट्टा / वस्त्र", "is_correct": true },
+        { "option_id": 3, "text": "कुल", "is_correct": false },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "दुपट्टा / वस्त्र"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "यह कविता किस प्रकार का गीत है?",
+      "options": [
+        { "option_id": 1, "text": "शोकगीत", "is_correct": false },
+        { "option_id": 2, "text": "प्रेरणागीत", "is_correct": true },
+        { "option_id": 3, "text": "भक्तिगीत", "is_correct": false },
+        { "option_id": 4, "text": "हास्यगीत", "is_correct": false }
+      ],
+      "answer": "प्रेरणागीत"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार 'आज गंगधार पर' क्या नहीं बुझना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "उम्मीद", "is_correct": false },
+        { "option_id": 2, "text": "यह दिया", "is_correct": true },
+        { "option_id": 3, "text": "लहर", "is_correct": false },
+        { "option_id": 4, "text": "नाव", "is_correct": false }
+      ],
+      "answer": "यह दिया"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "स्वतंत्र भावना का स्वतंत्र क्या है?",
+      "options": [
+        { "option_id": 1, "text": "स्थान", "is_correct": false },
+        { "option_id": 2, "text": "मान", "is_correct": false },
+        { "option_id": 3, "text": "गान", "is_correct": true },
+        { "option_id": 4, "text": "दान", "is_correct": false }
+      ],
+      "answer": "गान"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'कछार' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "नाव", "is_correct": false },
+        { "option_id": 2, "text": "किनारा", "is_correct": true },
+        { "option_id": 3, "text": "कछुआ", "is_correct": false },
+        { "option_id": 4, "text": "गहराई", "is_correct": false }
+      ],
+      "answer": "किनारा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गोपाल सिंह नेपाली का जन्म कहाँ हुआ था?",
+      "options": [
+        { "option_id": 1, "text": "पटना", "is_correct": false },
+        { "option_id": 2, "text": "बेतिया, चंपारण (बिहार)", "is_correct": true },
+        { "option_id": 3, "text": "वाराणसी", "is_correct": false },
+        { "option_id": 4, "text": "लखनऊ", "is_correct": false }
+      ],
+      "answer": "बेतिया, चंपारण (बिहार)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि किस दिए को बुझने नहीं देना चाहते?",
+      "answer": "कवि स्वतंत्रता और स्वाभिमान रूपी दिए को किसी भी परिस्थिति में बुझने नहीं देना चाहते।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कविता में 'बयार' और 'वितान' शब्दों का क्या अर्थ है?",
+      "answer": "'बयार' का अर्थ है 'हवा' और 'वितान' का अर्थ है 'आकाश' या 'गगन' [cite: 396, 400]।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "यह दिया किसका प्रतीक है?",
+      "answer": "यह दिया स्वतंत्रता, शक्ति, भक्ति और शहीदों के बलिदान का प्रतीक है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार यह दिया कैसे प्राप्त हुआ है?",
+      "answer": "कवि के अनुसार यह दिया शक्ति और भक्ति द्वारा प्राप्त हुआ है और यह स्वतंत्रता का उपहार है [cite: 357, 358]।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "स्वदेश का दिया किसके समान बताया गया है?",
+      "answer": "स्वदेश का दिया 'प्राण' के समान बताया गया है [cite: 361]।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कविता में किन परिस्थितियों में भी दिया जलाए रखने की बात की गई है?",
+      "answer": "घोर अंधकार हो, तेज हवा (बयार) चल रही हो, आँधियाँ और बिजलियाँ हों, चाहे शांति हो या अशांति, हर स्थिति में दिया जलाए रखने की बात की गई है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "यह दिया किन स्थानों पर नहीं बुझना चाहिए?",
+      "answer": "यह दिया द्वार-द्वार पर, गंगधार पर, कब्र पर, मजार पर, तीर पर और कछार पर नहीं बुझना चाहिए।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "गोपाल सिंह नेपाली की किन्हीं दो प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "उमंग, पंछी, रागिनी, नीलिमा, पंचमी, रिमझिम आदि [cite: 374]।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "'क्षुद्र जीत-हार' से कवि का क्या तात्पर्य है?",
+      "answer": "कवि का तात्पर्य है कि जीवन की छोटी-मोटी सफलताओं या असफलताओं के कारण हमें अपने महान उद्देश्य (स्वतंत्रता) को विस्मृत नहीं करना चाहिए।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "प्रेरणागीत किसे कहते हैं?",
+      "answer": "प्रेरणागीत वे गीत होते हैं जो हमारे दिलों में उतरकर हमारी जिंदगी को जूझने की शक्ति और आगे बढ़ने की प्रेरणा देते हैं [cite: 376]।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "'घोर अंधकार हो, चल रही बयार हो' - इन पंक्तियों का भावार्थ स्पष्ट कीजिए।",
+      "answer": "कवि कहते हैं कि चाहे हमारे सामने घोर संकट रूपी अंधकार हो और विपरीत परिस्थितियों की तेज हवा चल रही हो, फिर भी हमें निराश नहीं होना चाहिए। हमें हर घर के द्वार पर स्वतंत्रता का दीपक जलाए रखना है। [cite_start]यह रात (गुलामी/निराशा) का दिया ही हमारे जीवन में नया सवेरा (स्वतंत्रता/आशा) लेकर आएगा [cite: 355, 356]।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कवि ने 'शहीद का पुण्य प्राण दान' किसे कहा है और क्यों?",
+      "answer": "कवि ने स्वतंत्रता के दीपक को 'शहीद का पुण्य प्राण दान' कहा है। देश की आजादी के लिए अनगिनत वीरों ने अपने प्राणों की आहुति दी है। यह स्वतंत्रता हमें उनके बलिदानों के फलस्वरुप मिली है। [cite_start]इसलिए, कब्रों और मजारों पर जलने वाला यह दिया उनके त्याग का प्रतीक है और इसे बुझने नहीं देना चाहिए, क्योंकि यह उनकी निशानी है [cite: 385, 386]।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "स्वतंत्रता गान कविता का केंद्रीय भाव (Central Idea) लिखिए।",
+      "answer": "इस कविता का केंद्रीय भाव स्वतंत्रता की रक्षा और देशप्रेम है। कवि आह्वान करते हैं कि हमें अपनी स्वतंत्रता को हर कीमत पर बनाए रखना है। चाहे कितनी भी बाधाएँ, तूफ़ान या संकट आएँ, स्वतंत्रता का दीपक हमेशा प्रज्वलित रहना चाहिए। यह दीपक हमें शक्ति, भक्ति और बलिदान से मिला है। यह केवल एक दिया नहीं, बल्कि देश के प्राणों के समान है। हमें क्षुद्र जीत-हार से ऊपर उठकर राष्ट्र की अखंडता और स्वतंत्रता को अक्षुण्ण रखना है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "'यह अतीत कल्पना, यह विनीत प्रार्थना' - इन पंक्तियों के माध्यम से कवि क्या कहना चाहते हैं?",
+      "answer": "कवि कहना चाहते हैं कि यह स्वतंत्रता हमारी सदियों पुरानी कल्पना और स्वप्न का साकार रूप है। यह हमारी विनम्र प्रार्थना और पवित्र भावना का परिणाम है। यह एक अनंत साधना है जो कभी रुकनी नहीं चाहिए। चाहे देश में शांति हो या अशांति, युद्ध हो या संधि, हमें हर हाल में देश और समाज के आकाश में इस ज्योति को फैलाए रखना है। [cite_start]यह हमारी धरोहर है [cite: 362, 363, 364, 365]।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "इस कविता से युवा पीढ़ी को क्या संदेश मिलता है?",
+      "answer": "इस कविता से युवा पीढ़ी को यह संदेश मिलता है कि उन्हें अपने पूर्वजों के बलिदानों को व्यर्थ नहीं जाने देना चाहिए। स्वतंत्रता एक अमूल्य उपहार है जिसे सुरक्षित रखना हर नागरिक का कर्तव्य है। युवाओं को विपरीत परिस्थितियों में भी साहस नहीं खोना चाहिए और देश के सम्मान की रक्षा के लिए सदैव तत्पर रहना चाहिए। उन्हें छोटी-मोटी समस्याओं (क्षुद्र जीत-हार) में उलझने के बजाय राष्ट्रहित को सर्वोपरि रखना चाहिए।"
+    }
+  ]
+}

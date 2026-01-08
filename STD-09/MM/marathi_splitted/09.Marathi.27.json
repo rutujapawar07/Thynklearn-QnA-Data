@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M27",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "संवाद लेखन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "[MCQ-1] 'संवाद अर्थ' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवाद अर्थ' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवाद अर्थ' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "[MCQ-2] 'सुसंवाद' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सुसंवाद' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सुसंवाद' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "[MCQ-3] 'मतमतांतरे' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मतमतांतरे' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मतमतांतरे' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "[MCQ-4] 'विषय-चिंतन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विषय-चिंतन' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विषय-चिंतन' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "[MCQ-5] 'संभाषण' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संभाषण' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संभाषण' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "[MCQ-6] 'व्यक्तिमत्त्व' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'व्यक्तिमत्त्व' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'व्यक्तिमत्त्व' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "[MCQ-7] 'संवाद कोणाकोणात' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवाद कोणाकोणात' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवाद कोणाकोणात' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "[MCQ-8] 'वय-व्यवसाय फरक' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वय-व्यवसाय फरक' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वय-व्यवसाय फरक' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "[MCQ-9] 'भाषा बदल' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भाषा बदल' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भाषा बदल' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "[MCQ-10] 'अनौपचारिक भाषा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'अनौपचारिक भाषा' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'अनौपचारिक भाषा' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "[MCQ-11] 'समारोप' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'समारोप' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'समारोप' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "[MCQ-12] 'विचार पोहोच' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विचार पोहोच' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विचार पोहोच' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "[MCQ-13] 'संवेदनशीलता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवेदनशीलता' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवेदनशीलता' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "[MCQ-14] 'गुणग्राहकता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'गुणग्राहकता' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'गुणग्राहकता' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "[MCQ-15] 'अनाग्रही वृत्ती' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'अनाग्रही वृत्ती' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'अनाग्रही वृत्ती' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "[MCQ-16] 'विवेकशीलता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विवेकशीलता' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विवेकशीलता' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "[MCQ-17] 'भावनिकता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भावनिकता' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भावनिकता' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "[MCQ-18] 'विश्वासार्हता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विश्वासार्हता' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विश्वासार्हता' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "[MCQ-19] 'स्वागतशील वृत्ती' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'स्वागतशील वृत्ती' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'स्वागतशील वृत्ती' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "[MCQ-20] 'सुसंवादी' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सुसंवादी' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सुसंवादी' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "[MCQ-21] 'हो-नाही नाही' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'हो-नाही नाही' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'हो-नाही नाही' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "[MCQ-22] 'पाल्हाळीक नाही' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पाल्हाळीक नाही' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पाल्हाळीक नाही' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "[MCQ-23] 'मध्ये थांबू नये' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मध्ये थांबू नये' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मध्ये थांबू नये' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "[MCQ-24] 'ओढून ताणू नये' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'ओढून ताणू नये' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'ओढून ताणू नये' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "[MCQ-25] 'बिंदू सोडू नये' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'बिंदू सोडू नये' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'बिंदू सोडू नये' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "[MCQ-26] 'संगणकाचा महिमा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संगणकाचा महिमा' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संगणकाचा महिमा' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "[MCQ-27] 'आजोबा-नात संवाद' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आजोबा-नात संवाद' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आजोबा-नात संवाद' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "[MCQ-28] 'वर्तमानपत्र' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वर्तमानपत्र' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वर्तमानपत्र' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "[MCQ-29] 'ऑनलाइन सुविधा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'ऑनलाइन सुविधा' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'ऑनलाइन सुविधा' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "[MCQ-30] 'नेट' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'नेट' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'नेट' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "[MCQ-31] 'ई-मेल' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'ई-मेल' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'ई-मेल' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "[MCQ-32] 'तंत्रज्ञान बदल' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'तंत्रज्ञान बदल' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'तंत्रज्ञान बदल' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "[MCQ-33] 'भाषाशैली' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भाषाशैली' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भाषाशैली' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "[MCQ-34] 'प्रश्नोत्तर' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रश्नोत्तर' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रश्नोत्तर' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "[MCQ-35] 'नमुना संवाद' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'नमुना संवाद' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'नमुना संवाद' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "[MCQ-36] 'दोन पातळी भाषा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'दोन पातळी भाषा' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'दोन पातळी भाषा' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "[MCQ-37] 'प्रास्ताविक' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रास्ताविक' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रास्ताविक' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "[MCQ-38] 'शब्दसुसंगती' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'शब्दसुसंगती' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'शब्दसुसंगती' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "[MCQ-39] 'भाव-छटा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भाव-छटा' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भाव-छटा' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "[MCQ-40] 'संवाद संपादन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवाद संपादन' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवाद संपादन' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "[MCQ-41] 'आदर' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आदर' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आदर' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "[MCQ-42] 'ऐकण्याची वृत्ती' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'ऐकण्याची वृत्ती' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'ऐकण्याची वृत्ती' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "[MCQ-43] 'रुची निर्माण' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'रुची निर्माण' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'रुची निर्माण' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "[MCQ-44] 'उद्दिष्ट' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'उद्दिष्ट' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'उद्दिष्ट' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "[MCQ-45] 'विषय धरून बोलणे' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विषय धरून बोलणे' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विषय धरून बोलणे' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "[MCQ-46] 'संवाद लेखन सराव' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवाद लेखन सराव' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवाद लेखन सराव' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "[MCQ-47] 'यथार्थता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'यथार्थता' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'यथार्थता' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "[MCQ-48] 'संवाद उदाहरण' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवाद उदाहरण' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवाद उदाहरण' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "[MCQ-49] 'संवाद अर्थ' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संवाद अर्थ' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संवाद अर्थ' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "[MCQ-50] 'सुसंवाद' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सुसंवाद' हा धड्यातील मुख्य मुद्दा आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संवाद फक्त गणिती प्रश्न आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद एक शब्दात संपतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात व्यक्ती नसतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सुसंवाद' हा धड्यातील मुख्य मुद्दा आहे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "[SHORT-51] 'संवाद अर्थ' संदर्भात अर्थ लिहा.",
+      "answer": "'संवाद अर्थ' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "[SHORT-52] 'सुसंवाद' संदर्भात भूमिका लिहा.",
+      "answer": "'सुसंवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "[SHORT-53] 'मतमतांतरे' संदर्भात महत्त्व लिहा.",
+      "answer": "'मतमतांतरे' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "[SHORT-54] 'विषय-चिंतन' संदर्भात उपयोग लिहा.",
+      "answer": "'विषय-चिंतन' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "[SHORT-55] 'संभाषण' संदर्भात शिकवण लिहा.",
+      "answer": "'संभाषण' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "[SHORT-56] 'व्यक्तिमत्त्व' संदर्भात अवयव लिहा.",
+      "answer": "'व्यक्तिमत्त्व' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "[SHORT-57] 'संवाद कोणाकोणात' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'संवाद कोणाकोणात' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "[SHORT-58] 'वय-व्यवसाय फरक' संदर्भात उदाहरण लिहा.",
+      "answer": "'वय-व्यवसाय फरक' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "[SHORT-59] 'भाषा बदल' संदर्भात अर्थ लिहा.",
+      "answer": "'भाषा बदल' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "[SHORT-60] 'अनौपचारिक भाषा' संदर्भात भूमिका लिहा.",
+      "answer": "'अनौपचारिक भाषा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "[SHORT-61] 'समारोप' संदर्भात महत्त्व लिहा.",
+      "answer": "'समारोप' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "[SHORT-62] 'विचार पोहोच' संदर्भात उपयोग लिहा.",
+      "answer": "'विचार पोहोच' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "[SHORT-63] 'संवेदनशीलता' संदर्भात शिकवण लिहा.",
+      "answer": "'संवेदनशीलता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "[SHORT-64] 'गुणग्राहकता' संदर्भात अवयव लिहा.",
+      "answer": "'गुणग्राहकता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "[SHORT-65] 'अनाग्रही वृत्ती' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'अनाग्रही वृत्ती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "[SHORT-66] 'विवेकशीलता' संदर्भात उदाहरण लिहा.",
+      "answer": "'विवेकशीलता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "[SHORT-67] 'भावनिकता' संदर्भात अर्थ लिहा.",
+      "answer": "'भावनिकता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "[SHORT-68] 'विश्वासार्हता' संदर्भात भूमिका लिहा.",
+      "answer": "'विश्वासार्हता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "[SHORT-69] 'स्वागतशील वृत्ती' संदर्भात महत्त्व लिहा.",
+      "answer": "'स्वागतशील वृत्ती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "[SHORT-70] 'सुसंवादी' संदर्भात उपयोग लिहा.",
+      "answer": "'सुसंवादी' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "[SHORT-71] 'हो-नाही नाही' संदर्भात शिकवण लिहा.",
+      "answer": "'हो-नाही नाही' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "[SHORT-72] 'पाल्हाळीक नाही' संदर्भात अवयव लिहा.",
+      "answer": "'पाल्हाळीक नाही' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "[SHORT-73] 'मध्ये थांबू नये' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'मध्ये थांबू नये' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "[SHORT-74] 'ओढून ताणू नये' संदर्भात उदाहरण लिहा.",
+      "answer": "'ओढून ताणू नये' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "[SHORT-75] 'बिंदू सोडू नये' संदर्भात अर्थ लिहा.",
+      "answer": "'बिंदू सोडू नये' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "[SHORT-76] 'संगणकाचा महिमा' संदर्भात भूमिका लिहा.",
+      "answer": "'संगणकाचा महिमा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "[SHORT-77] 'आजोबा-नात संवाद' संदर्भात महत्त्व लिहा.",
+      "answer": "'आजोबा-नात संवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "[SHORT-78] 'वर्तमानपत्र' संदर्भात उपयोग लिहा.",
+      "answer": "'वर्तमानपत्र' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "[SHORT-79] 'ऑनलाइन सुविधा' संदर्भात शिकवण लिहा.",
+      "answer": "'ऑनलाइन सुविधा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "[SHORT-80] 'नेट' संदर्भात अवयव लिहा.",
+      "answer": "'नेट' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "[SHORT-81] 'ई-मेल' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'ई-मेल' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "[SHORT-82] 'तंत्रज्ञान बदल' संदर्भात उदाहरण लिहा.",
+      "answer": "'तंत्रज्ञान बदल' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "[SHORT-83] 'भाषाशैली' संदर्भात अर्थ लिहा.",
+      "answer": "'भाषाशैली' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "[SHORT-84] 'प्रश्नोत्तर' संदर्भात भूमिका लिहा.",
+      "answer": "'प्रश्नोत्तर' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "[SHORT-85] 'नमुना संवाद' संदर्भात महत्त्व लिहा.",
+      "answer": "'नमुना संवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "[SHORT-86] 'दोन पातळी भाषा' संदर्भात उपयोग लिहा.",
+      "answer": "'दोन पातळी भाषा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "[SHORT-87] 'प्रास्ताविक' संदर्भात शिकवण लिहा.",
+      "answer": "'प्रास्ताविक' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "[SHORT-88] 'शब्दसुसंगती' संदर्भात अवयव लिहा.",
+      "answer": "'शब्दसुसंगती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "[SHORT-89] 'भाव-छटा' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'भाव-छटा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "[SHORT-90] 'संवाद संपादन' संदर्भात उदाहरण लिहा.",
+      "answer": "'संवाद संपादन' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "[SHORT-91] 'आदर' संदर्भात अर्थ लिहा.",
+      "answer": "'आदर' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "[SHORT-92] 'ऐकण्याची वृत्ती' संदर्भात भूमिका लिहा.",
+      "answer": "'ऐकण्याची वृत्ती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "[SHORT-93] 'रुची निर्माण' संदर्भात महत्त्व लिहा.",
+      "answer": "'रुची निर्माण' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "[SHORT-94] 'उद्दिष्ट' संदर्भात उपयोग लिहा.",
+      "answer": "'उद्दिष्ट' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "[SHORT-95] 'विषय धरून बोलणे' संदर्भात शिकवण लिहा.",
+      "answer": "'विषय धरून बोलणे' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "[SHORT-96] 'संवाद लेखन सराव' संदर्भात अवयव लिहा.",
+      "answer": "'संवाद लेखन सराव' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "[SHORT-97] 'यथार्थता' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'यथार्थता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "[SHORT-98] 'संवाद उदाहरण' संदर्भात उदाहरण लिहा.",
+      "answer": "'संवाद उदाहरण' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "[SHORT-99] 'संवाद अर्थ' संदर्भात अर्थ लिहा.",
+      "answer": "'संवाद अर्थ' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "[SHORT-100] 'सुसंवाद' संदर्भात भूमिका लिहा.",
+      "answer": "'सुसंवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "[SHORT-101] 'मतमतांतरे' संदर्भात महत्त्व लिहा.",
+      "answer": "'मतमतांतरे' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "[SHORT-102] 'विषय-चिंतन' संदर्भात उपयोग लिहा.",
+      "answer": "'विषय-चिंतन' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "[SHORT-103] 'संभाषण' संदर्भात शिकवण लिहा.",
+      "answer": "'संभाषण' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "[SHORT-104] 'व्यक्तिमत्त्व' संदर्भात अवयव लिहा.",
+      "answer": "'व्यक्तिमत्त्व' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "[SHORT-105] 'संवाद कोणाकोणात' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'संवाद कोणाकोणात' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "[SHORT-106] 'वय-व्यवसाय फरक' संदर्भात उदाहरण लिहा.",
+      "answer": "'वय-व्यवसाय फरक' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "[SHORT-107] 'भाषा बदल' संदर्भात अर्थ लिहा.",
+      "answer": "'भाषा बदल' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "[SHORT-108] 'अनौपचारिक भाषा' संदर्भात भूमिका लिहा.",
+      "answer": "'अनौपचारिक भाषा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "[SHORT-109] 'समारोप' संदर्भात महत्त्व लिहा.",
+      "answer": "'समारोप' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "[SHORT-110] 'विचार पोहोच' संदर्भात उपयोग लिहा.",
+      "answer": "'विचार पोहोच' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "[SHORT-111] 'संवेदनशीलता' संदर्भात शिकवण लिहा.",
+      "answer": "'संवेदनशीलता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "[SHORT-112] 'गुणग्राहकता' संदर्भात अवयव लिहा.",
+      "answer": "'गुणग्राहकता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "[SHORT-113] 'अनाग्रही वृत्ती' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'अनाग्रही वृत्ती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "[SHORT-114] 'विवेकशीलता' संदर्भात उदाहरण लिहा.",
+      "answer": "'विवेकशीलता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "[SHORT-115] 'भावनिकता' संदर्भात अर्थ लिहा.",
+      "answer": "'भावनिकता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "[SHORT-116] 'विश्वासार्हता' संदर्भात भूमिका लिहा.",
+      "answer": "'विश्वासार्हता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "[SHORT-117] 'स्वागतशील वृत्ती' संदर्भात महत्त्व लिहा.",
+      "answer": "'स्वागतशील वृत्ती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "[SHORT-118] 'सुसंवादी' संदर्भात उपयोग लिहा.",
+      "answer": "'सुसंवादी' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "[SHORT-119] 'हो-नाही नाही' संदर्भात शिकवण लिहा.",
+      "answer": "'हो-नाही नाही' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "[SHORT-120] 'पाल्हाळीक नाही' संदर्भात अवयव लिहा.",
+      "answer": "'पाल्हाळीक नाही' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "[SHORT-121] 'मध्ये थांबू नये' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'मध्ये थांबू नये' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "[SHORT-122] 'ओढून ताणू नये' संदर्भात उदाहरण लिहा.",
+      "answer": "'ओढून ताणू नये' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "[SHORT-123] 'बिंदू सोडू नये' संदर्भात अर्थ लिहा.",
+      "answer": "'बिंदू सोडू नये' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "[SHORT-124] 'संगणकाचा महिमा' संदर्भात भूमिका लिहा.",
+      "answer": "'संगणकाचा महिमा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "[SHORT-125] 'आजोबा-नात संवाद' संदर्भात महत्त्व लिहा.",
+      "answer": "'आजोबा-नात संवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "[SHORT-126] 'वर्तमानपत्र' संदर्भात उपयोग लिहा.",
+      "answer": "'वर्तमानपत्र' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "[SHORT-127] 'ऑनलाइन सुविधा' संदर्भात शिकवण लिहा.",
+      "answer": "'ऑनलाइन सुविधा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "[SHORT-128] 'नेट' संदर्भात अवयव लिहा.",
+      "answer": "'नेट' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "[SHORT-129] 'ई-मेल' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'ई-मेल' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "[SHORT-130] 'तंत्रज्ञान बदल' संदर्भात उदाहरण लिहा.",
+      "answer": "'तंत्रज्ञान बदल' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "[SHORT-131] 'भाषाशैली' संदर्भात अर्थ लिहा.",
+      "answer": "'भाषाशैली' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "[SHORT-132] 'प्रश्नोत्तर' संदर्भात भूमिका लिहा.",
+      "answer": "'प्रश्नोत्तर' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "[SHORT-133] 'नमुना संवाद' संदर्भात महत्त्व लिहा.",
+      "answer": "'नमुना संवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "[SHORT-134] 'दोन पातळी भाषा' संदर्भात उपयोग लिहा.",
+      "answer": "'दोन पातळी भाषा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "[SHORT-135] 'प्रास्ताविक' संदर्भात शिकवण लिहा.",
+      "answer": "'प्रास्ताविक' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "[SHORT-136] 'शब्दसुसंगती' संदर्भात अवयव लिहा.",
+      "answer": "'शब्दसुसंगती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "[SHORT-137] 'भाव-छटा' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'भाव-छटा' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "[SHORT-138] 'संवाद संपादन' संदर्भात उदाहरण लिहा.",
+      "answer": "'संवाद संपादन' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "[SHORT-139] 'आदर' संदर्भात अर्थ लिहा.",
+      "answer": "'आदर' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "[SHORT-140] 'ऐकण्याची वृत्ती' संदर्भात भूमिका लिहा.",
+      "answer": "'ऐकण्याची वृत्ती' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "[SHORT-141] 'रुची निर्माण' संदर्भात महत्त्व लिहा.",
+      "answer": "'रुची निर्माण' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "[SHORT-142] 'उद्दिष्ट' संदर्भात उपयोग लिहा.",
+      "answer": "'उद्दिष्ट' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "[SHORT-143] 'विषय धरून बोलणे' संदर्भात शिकवण लिहा.",
+      "answer": "'विषय धरून बोलणे' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो शिकवण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "[SHORT-144] 'संवाद लेखन सराव' संदर्भात अवयव लिहा.",
+      "answer": "'संवाद लेखन सराव' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अवयव दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "[SHORT-145] 'यथार्थता' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'यथार्थता' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो विद्यार्थी लाभ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "[SHORT-146] 'संवाद उदाहरण' संदर्भात उदाहरण लिहा.",
+      "answer": "'संवाद उदाहरण' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उदाहरण दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "[SHORT-147] 'संवाद अर्थ' संदर्भात अर्थ लिहा.",
+      "answer": "'संवाद अर्थ' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो अर्थ दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "[SHORT-148] 'सुसंवाद' संदर्भात भूमिका लिहा.",
+      "answer": "'सुसंवाद' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो भूमिका दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "[SHORT-149] 'मतमतांतरे' संदर्भात महत्त्व लिहा.",
+      "answer": "'मतमतांतरे' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो महत्त्व दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "[SHORT-150] 'विषय-चिंतन' संदर्भात उपयोग लिहा.",
+      "answer": "'विषय-चिंतन' हा संवाद लेखनाचा आवश्यक भाग आहे.\nतो उपयोग दाखवून परिणामकारक संभाषण साधतो."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "[LONG-151] 'संवाद अर्थ' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'संवाद अर्थ' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "[LONG-152] 'सुसंवाद' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'सुसंवाद' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "[LONG-153] 'मतमतांतरे' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'मतमतांतरे' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "[LONG-154] 'विषय-चिंतन' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'विषय-चिंतन' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "[LONG-155] 'संभाषण' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'संभाषण' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "[LONG-156] 'व्यक्तिमत्त्व' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'व्यक्तिमत्त्व' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "[LONG-157] 'संवाद कोणाकोणात' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'संवाद कोणाकोणात' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "[LONG-158] 'वय-व्यवसाय फरक' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'वय-व्यवसाय फरक' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "[LONG-159] 'भाषा बदल' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'भाषा बदल' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "[LONG-160] 'अनौपचारिक भाषा' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'अनौपचारिक भाषा' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "[LONG-161] 'समारोप' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'समारोप' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "[LONG-162] 'विचार पोहोच' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'विचार पोहोच' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "[LONG-163] 'संवेदनशीलता' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'संवेदनशीलता' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "[LONG-164] 'गुणग्राहकता' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'गुणग्राहकता' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "[LONG-165] 'अनाग्रही वृत्ती' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'अनाग्रही वृत्ती' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "[LONG-166] 'विवेकशीलता' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'विवेकशीलता' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "[LONG-167] 'भावनिकता' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'भावनिकता' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "[LONG-168] 'विश्वासार्हता' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'विश्वासार्हता' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "[LONG-169] 'स्वागतशील वृत्ती' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'स्वागतशील वृत्ती' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "[LONG-170] 'सुसंवादी' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'सुसंवादी' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "[LONG-171] 'हो-नाही नाही' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'हो-नाही नाही' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "[LONG-172] 'पाल्हाळीक नाही' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'पाल्हाळीक नाही' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "[LONG-173] 'मध्ये थांबू नये' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'मध्ये थांबू नये' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "[LONG-174] 'ओढून ताणू नये' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'ओढून ताणू नये' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "[LONG-175] 'बिंदू सोडू नये' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'बिंदू सोडू नये' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "[LONG-176] 'संगणकाचा महिमा' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'संगणकाचा महिमा' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "[LONG-177] 'आजोबा-नात संवाद' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'आजोबा-नात संवाद' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "[LONG-178] 'वर्तमानपत्र' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'वर्तमानपत्र' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "[LONG-179] 'ऑनलाइन सुविधा' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'ऑनलाइन सुविधा' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "[LONG-180] 'नेट' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'नेट' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "[LONG-181] 'ई-मेल' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'ई-मेल' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "[LONG-182] 'तंत्रज्ञान बदल' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'तंत्रज्ञान बदल' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "[LONG-183] 'भाषाशैली' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'भाषाशैली' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "[LONG-184] 'प्रश्नोत्तर' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'प्रश्नोत्तर' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "[LONG-185] 'नमुना संवाद' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'नमुना संवाद' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "[LONG-186] 'दोन पातळी भाषा' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'दोन पातळी भाषा' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "[LONG-187] 'प्रास्ताविक' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'प्रास्ताविक' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "[LONG-188] 'शब्दसुसंगती' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'शब्दसुसंगती' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "[LONG-189] 'भाव-छटा' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'भाव-छटा' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "[LONG-190] 'संवाद संपादन' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'संवाद संपादन' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "[LONG-191] 'आदर' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'आदर' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "[LONG-192] 'ऐकण्याची वृत्ती' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'ऐकण्याची वृत्ती' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "[LONG-193] 'रुची निर्माण' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'रुची निर्माण' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "[LONG-194] 'उद्दिष्ट' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'उद्दिष्ट' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "[LONG-195] 'विषय धरून बोलणे' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'विषय धरून बोलणे' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "[LONG-196] 'संवाद लेखन सराव' या संदर्भात संवाद कौशल्य विस्ताराने मांड.",
+      "answer": "'संवाद लेखन सराव' संवाद लेखनात मध्यवर्ती ठरतो.\nतो संवाद कौशल्य अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "[LONG-197] 'यथार्थता' या संदर्भात लक्ष-ऐकणे विस्ताराने मांड.",
+      "answer": "'यथार्थता' संवाद लेखनात मध्यवर्ती ठरतो.\nतो लक्ष-ऐकणे अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "[LONG-198] 'संवाद उदाहरण' या संदर्भात भाषाशैली विस्ताराने मांड.",
+      "answer": "'संवाद उदाहरण' संवाद लेखनात मध्यवर्ती ठरतो.\nतो भाषाशैली अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "[LONG-199] 'संवाद अर्थ' या संदर्भात वास्तव अनुभव विस्ताराने मांड.",
+      "answer": "'संवाद अर्थ' संवाद लेखनात मध्यवर्ती ठरतो.\nतो वास्तव अनुभव अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "[LONG-200] 'सुसंवाद' या संदर्भात सामाजिक अर्थ विस्ताराने मांड.",
+      "answer": "'सुसंवाद' संवाद लेखनात मध्यवर्ती ठरतो.\nतो सामाजिक अर्थ अधोरेखित करतो व संभाषण जिवंत ठेवतो.\nभाषा सोपी, नैसर्गिक व विषयाशी सुसंगत ठेवावी लागते.\nऐकणे, आदर आणि प्रतिसाद यामुळे विचार-विनिमय घडतो.\nसमाज व ज्ञान समजण्यासाठी संवाद प्रभावी माध्यम ठरतो."
+    }
+  ]
+}

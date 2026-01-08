@@ -1,0 +1,1557 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.01",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "महायुद्धोत्तर राजकीय घडामोडी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पहिले महायुद्ध कोणत्या कालावधीत झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९१० ते १९१४", "is_correct": false },
+        { "option_id": 2, "text": "१९१४ ते १९१८", "is_correct": true },
+        { "option_id": 3, "text": "१९१८ ते १९२५", "is_correct": false },
+        { "option_id": 4, "text": "१९३९ ते १९४५", "is_correct": false }
+      ],
+      "answer": "१९१४ ते १९१८"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पहिल्या महायुद्धानंतर कोणती आंतरराष्ट्रीय संघटना स्थापन झाली?",
+      "options": [
+        { "option_id": 1, "text": "संयुक्त राष्ट्रे", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रसंघ", "is_correct": true },
+        { "option_id": 3, "text": "नाटो", "is_correct": false },
+        { "option_id": 4, "text": "वॉर्सा करार", "is_correct": false }
+      ],
+      "answer": "राष्ट्रसंघ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दुसरे महायुद्ध कोणत्या कालावधीत झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९१४ ते १९१८", "is_correct": false },
+        { "option_id": 2, "text": "१९२५ ते १९३५", "is_correct": false },
+        { "option_id": 3, "text": "१९३९ ते १९४५", "is_correct": true },
+        { "option_id": 4, "text": "१९४५ ते १९५०", "is_correct": false }
+      ],
+      "answer": "१९३९ ते १९४५"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हिरोशिमा आणि नागासाकी या शहरांवर अणुबॉम्ब कोणी टाकले?",
+      "options": [
+        { "option_id": 1, "text": "ब्रिटन", "is_correct": false },
+        { "option_id": 2, "text": "जर्मनी", "is_correct": false },
+        { "option_id": 3, "text": "अमेरिका", "is_correct": true },
+        { "option_id": 4, "text": "सोव्हिएत रशिया", "is_correct": false }
+      ],
+      "answer": "अमेरिका"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धाचा कालखंड कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "१९१८ ते १९३९", "is_correct": false },
+        { "option_id": 2, "text": "१९३९ ते १९४५", "is_correct": false },
+        { "option_id": 3, "text": "१९४५ ते १९९१", "is_correct": true },
+        { "option_id": 4, "text": "१९९१ ते २०००", "is_correct": false }
+      ],
+      "answer": "१९४५ ते १९९१"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "शीतयुद्ध काळात जगाचे कोणते स्वरूप निर्माण झाले?",
+      "options": [
+        { "option_id": 1, "text": "एकध्रुवीय", "is_correct": false },
+        { "option_id": 2, "text": "द्विध्रुवीय", "is_correct": true },
+        { "option_id": 3, "text": "बहुध्रुवीय", "is_correct": false },
+        { "option_id": 4, "text": "अराजक", "is_correct": false }
+      ],
+      "answer": "द्विध्रुवीय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नाटो ही लष्करी संघटना कोणाच्या नेतृत्वाखाली होती?",
+      "options": [
+        { "option_id": 1, "text": "सोव्हिएत रशिया", "is_correct": false },
+        { "option_id": 2, "text": "चीन", "is_correct": false },
+        { "option_id": 3, "text": "अमेरिका", "is_correct": true },
+        { "option_id": 4, "text": "भारत", "is_correct": false }
+      ],
+      "answer": "अमेरिका"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वॉर्सा करार कोणाच्या नेतृत्वाखाली होता?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "ब्रिटन", "is_correct": false },
+        { "option_id": 3, "text": "सोव्हिएत रशिया", "is_correct": true },
+        { "option_id": 4, "text": "फ्रान्स", "is_correct": false }
+      ],
+      "answer": "सोव्हिएत रशिया"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धात प्रत्यक्ष युद्ध का झाले नाही?",
+      "options": [
+        { "option_id": 1, "text": "देशांमध्ये मैत्री होती", "is_correct": false },
+        { "option_id": 2, "text": "अण्वस्त्रांच्या भीतीमुळे", "is_correct": true },
+        { "option_id": 3, "text": "संयुक्त राष्ट्रांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "आर्थिक अडचणींमुळे", "is_correct": false }
+      ],
+      "answer": "अण्वस्त्रांच्या भीतीमुळे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादाचा मुख्य उद्देश कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "महासत्तांशी युद्ध करणे", "is_correct": false },
+        { "option_id": 2, "text": "महासत्तांच्या गटांपासून दूर राहणे", "is_correct": true },
+        { "option_id": 3, "text": "लष्करी करार करणे", "is_correct": false },
+        { "option_id": 4, "text": "वसाहती निर्माण करणे", "is_correct": false }
+      ],
+      "answer": "महासत्तांच्या गटांपासून दूर राहणे"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादी चळवळीची सुरुवात कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९४५", "is_correct": false },
+        { "option_id": 2, "text": "१९५५", "is_correct": false },
+        { "option_id": 3, "text": "१९६१", "is_correct": true },
+        { "option_id": 4, "text": "१९७१", "is_correct": false }
+      ],
+      "answer": "१९६१"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादी चळवळीचे एक नेते कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "अब्राहम लिंकन", "is_correct": false },
+        { "option_id": 2, "text": "पंडित जवाहरलाल नेहरू", "is_correct": true },
+        { "option_id": 3, "text": "विन्स्टन चर्चिल", "is_correct": false },
+        { "option_id": 4, "text": "हिटलर", "is_correct": false }
+      ],
+      "answer": "पंडित जवाहरलाल नेहरू"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जगाचे द्‌विध्रुवीकरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एकच महासत्ता असणे", "is_correct": false },
+        { "option_id": 2, "text": "दोन महासत्तांमध्ये राष्ट्रांचे विभाजन", "is_correct": true },
+        { "option_id": 3, "text": "अनेक महासत्ता असणे", "is_correct": false },
+        { "option_id": 4, "text": "राष्ट्रसंघाची निर्मिती", "is_correct": false }
+      ],
+      "answer": "दोन महासत्तांमध्ये राष्ट्रांचे विभाजन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धाच्या काळात अमेरिका कोणत्या विचारसरणीचा पुरस्कार करत होती?",
+      "options": [
+        { "option_id": 1, "text": "समाजवाद", "is_correct": false },
+        { "option_id": 2, "text": "भांडवलशाही", "is_correct": true },
+        { "option_id": 3, "text": "हुकूमशाही", "is_correct": false },
+        { "option_id": 4, "text": "राजेशाही", "is_correct": false }
+      ],
+      "answer": "भांडवलशाही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सोव्हिएत रशिया कोणत्या विचारसरणीचा पुरस्कार करत होता?",
+      "options": [
+        { "option_id": 1, "text": "भांडवलशाही", "is_correct": false },
+        { "option_id": 2, "text": "समाजवाद", "is_correct": true },
+        { "option_id": 3, "text": "राजेशाही", "is_correct": false },
+        { "option_id": 4, "text": "लोकशाही", "is_correct": false }
+      ],
+      "answer": "समाजवाद"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धाच्या काळात शस्त्रास्त्र स्पर्धा का वाढली?",
+      "options": [
+        { "option_id": 1, "text": "शांतता राखण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सत्ता व वर्चस्वासाठी", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "संयुक्त राष्ट्रांच्या आदेशामुळे", "is_correct": false }
+      ],
+      "answer": "सत्ता व वर्चस्वासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सोव्हिएत रशियाचे विघटन कोणत्या वर्षी झाले?",
+      "options": [
+        { "option_id": 1, "text": "१९८५", "is_correct": false },
+        { "option_id": 2, "text": "१९८९", "is_correct": false },
+        { "option_id": 3, "text": "१९९१", "is_correct": true },
+        { "option_id": 4, "text": "१९९५", "is_correct": false }
+      ],
+      "answer": "१९९१"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धाची अखेर होण्याचे मुख्य कारण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "नवीन युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "सोव्हिएत रशियाचे विघटन", "is_correct": true },
+        { "option_id": 3, "text": "नाटोची स्थापना", "is_correct": false },
+        { "option_id": 4, "text": "राष्ट्रसंघाची निर्मिती", "is_correct": false }
+      ],
+      "answer": "सोव्हिएत रशियाचे विघटन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धानंतर जागतिक राजकारणात कोणती महासत्ता उरली?",
+      "options": [
+        { "option_id": 1, "text": "चीन", "is_correct": false },
+        { "option_id": 2, "text": "रशिया", "is_correct": false },
+        { "option_id": 3, "text": "अमेरिका", "is_correct": true },
+        { "option_id": 4, "text": "भारत", "is_correct": false }
+      ],
+      "answer": "अमेरिका"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "देशांमधील युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "देशांची एकाकी भूमिका", "is_correct": false },
+        { "option_id": 3, "text": "व्यापार व माहितीचा जागतिक प्रसार", "is_correct": true },
+        { "option_id": 4, "text": "लष्करी करार", "is_correct": false }
+      ],
+      "answer": "व्यापार व माहितीचा जागतिक प्रसार"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणामुळे कोणता बदल झाला?",
+      "options": [
+        { "option_id": 1, "text": "देशांच्या सीमांना अधिक महत्त्व", "is_correct": false },
+        { "option_id": 2, "text": "देशांमधील संपर्क वाढला", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार बंद झाला", "is_correct": false },
+        { "option_id": 4, "text": "लोकांमध्ये अंतर वाढले", "is_correct": false }
+      ],
+      "answer": "देशांमधील संपर्क वाढला"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धानंतर कोणत्या संघटनेची भूमिका अधिक महत्त्वाची ठरली?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रसंघ", "is_correct": false },
+        { "option_id": 2, "text": "संयुक्त राष्ट्रे", "is_correct": true },
+        { "option_id": 3, "text": "नाटो", "is_correct": false },
+        { "option_id": 4, "text": "असियान", "is_correct": false }
+      ],
+      "answer": "संयुक्त राष्ट्रे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "परस्परावलंबन हे कोणत्या व्यवस्थेचे वैशिष्ट्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्थानिक व्यवस्था", "is_correct": false },
+        { "option_id": 2, "text": "आंतरराष्ट्रीय व्यवस्था", "is_correct": true },
+        { "option_id": 3, "text": "कौटुंबिक व्यवस्था", "is_correct": false },
+        { "option_id": 4, "text": "शालेय व्यवस्था", "is_correct": false }
+      ],
+      "answer": "आंतरराष्ट्रीय व्यवस्था"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "राष्ट्रसंघाची मुख्य जबाबदारी कोणती होती?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध घडवून आणणे", "is_correct": false },
+        { "option_id": 2, "text": "युद्ध टाळणे", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "वसाहती निर्माण करणे", "is_correct": false }
+      ],
+      "answer": "युद्ध टाळणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादी चळवळीचा मुख्य आधार कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "लष्करी शक्ती", "is_correct": false },
+        { "option_id": 2, "text": "मानवतावाद व शांतता", "is_correct": true },
+        { "option_id": 3, "text": "साम्राज्यवाद", "is_correct": false },
+        { "option_id": 4, "text": "हुकूमशाही", "is_correct": false }
+      ],
+      "answer": "मानवतावाद व शांतता"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पहिल्या महायुद्धानंतर युरोपमध्ये कोणता बदल घडून आला?",
+      "options": [
+        { "option_id": 1, "text": "जुनी साम्राज्ये बळकट झाली", "is_correct": false },
+        { "option_id": 2, "text": "नवी राष्ट्रे अस्तित्वात आली", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध पूर्णपणे थांबले", "is_correct": false },
+        { "option_id": 4, "text": "वसाहती वाढल्या", "is_correct": false }
+      ],
+      "answer": "नवी राष्ट्रे अस्तित्वात आली"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या महायुद्धात मित्र राष्ट्रांमध्ये भारताचा समावेश होता का?",
+      "options": [
+        { "option_id": 1, "text": "होय", "is_correct": true },
+        { "option_id": 2, "text": "नाही", "is_correct": false },
+        { "option_id": 3, "text": "कधीच नाही", "is_correct": false },
+        { "option_id": 4, "text": "माहित नाही", "is_correct": false }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या महायुद्धात कोणत्या देशाने अण्वस्त्रांची निर्मिती केली?",
+      "options": [
+        { "option_id": 1, "text": "जर्मनी", "is_correct": false },
+        { "option_id": 2, "text": "अमेरिका", "is_correct": true },
+        { "option_id": 3, "text": "ब्रिटन", "is_correct": false },
+        { "option_id": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "अमेरिका"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शीतयुद्ध काळात प्रत्यक्ष युद्ध न होता तणाव का होता?",
+      "options": [
+        { "option_id": 1, "text": "दोन्ही देश गरीब होते", "is_correct": false },
+        { "option_id": 2, "text": "अण्वस्त्रांच्या वापराची भीती", "is_correct": true },
+        { "option_id": 3, "text": "संयुक्त राष्ट्रांचा दबाव", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार बंद होता", "is_correct": false }
+      ],
+      "answer": "अण्वस्त्रांच्या वापराची भीती"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "नाटो आणि वॉर्सा करार या कशाचे उदाहरण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "आर्थिक संघटना", "is_correct": false },
+        { "option_id": 2, "text": "लष्करी संघटना", "is_correct": true },
+        { "option_id": 3, "text": "सांस्कृतिक संघटना", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी संघटना", "is_correct": false }
+      ],
+      "answer": "लष्करी संघटना"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "द्‌विध्रुवीकरणामुळे जागतिक राजकारणात काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "तणाव कमी झाला", "is_correct": false },
+        { "option_id": 2, "text": "तणाव वाढला", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध संपले", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार थांबला", "is_correct": false }
+      ],
+      "answer": "तणाव वाढला"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादी धोरणाचा अवलंब कोणत्या देशांनी केला?",
+      "options": [
+        { "option_id": 1, "text": "फक्त महासत्ता", "is_correct": false },
+        { "option_id": 2, "text": "नव्याने स्वतंत्र झालेले देश", "is_correct": true },
+        { "option_id": 3, "text": "युरोपीय देश", "is_correct": false },
+        { "option_id": 4, "text": "वसाहती देश", "is_correct": false }
+      ],
+      "answer": "नव्याने स्वतंत्र झालेले देश"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादी चळवळीचा प्रारंभ कोणत्या शहरात झाला?",
+      "options": [
+        { "option_id": 1, "text": "बेलग्रेड", "is_correct": true },
+        { "option_id": 2, "text": "नवी दिल्ली", "is_correct": false },
+        { "option_id": 3, "text": "लंडन", "is_correct": false },
+        { "option_id": 4, "text": "वॉशिंग्टन", "is_correct": false }
+      ],
+      "answer": "बेलग्रेड"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "अलिप्ततावादी चळवळीचे एक प्रमुख उद्दिष्ट कोणते?",
+      "options": [
+        { "option_id": 1, "text": "युद्धाला प्रोत्साहन", "is_correct": false },
+        { "option_id": 2, "text": "शांततामय सहअस्तित्व", "is_correct": true },
+        { "option_id": 3, "text": "लष्करी करार", "is_correct": false },
+        { "option_id": 4, "text": "वसाहती विस्तार", "is_correct": false }
+      ],
+      "answer": "शांततामय सहअस्तित्व"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "शस्त्रास्त्र स्पर्धेमुळे कोणता धोका निर्माण झाला?",
+      "options": [
+        { "option_id": 1, "text": "जागतिक शांतता धोक्यात आली", "is_correct": true },
+        { "option_id": 2, "text": "व्यापार वाढला", "is_correct": false },
+        { "option_id": 3, "text": "लोकशाही बळकट झाली", "is_correct": false },
+        { "option_id": 4, "text": "पर्यावरण सुधारले", "is_correct": false }
+      ],
+      "answer": "जागतिक शांतता धोक्यात आली"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धाच्या अखेरीस कोणता बदल झाला?",
+      "options": [
+        { "option_id": 1, "text": "दोन महासत्ता वाढल्या", "is_correct": false },
+        { "option_id": 2, "text": "एकमेव महासत्ता उरली", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध वाढले", "is_correct": false },
+        { "option_id": 4, "text": "राष्ट्रसंघ पुन्हा सुरू झाला", "is_correct": false }
+      ],
+      "answer": "एकमेव महासत्ता उरली"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शीतयुद्धानंतर व्यापार संबंधांमध्ये काय बदल झाला?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार कमी झाला", "is_correct": false },
+        { "option_id": 2, "text": "व्यापाराला प्राधान्य मिळाले", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार बंद झाला", "is_correct": false },
+        { "option_id": 4, "text": "फक्त स्थानिक व्यापार झाला", "is_correct": false }
+      ],
+      "answer": "व्यापाराला प्राधान्य मिळाले"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणामुळे कोणत्या घटकांचा प्रसार झाला?",
+      "options": [
+        { "option_id": 1, "text": "भांडवल, श्रम, माहिती", "is_correct": true },
+        { "option_id": 2, "text": "फक्त लष्कर", "is_correct": false },
+        { "option_id": 3, "text": "फक्त संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "फक्त भाषा", "is_correct": false }
+      ],
+      "answer": "भांडवल, श्रम, माहिती"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "जागतिकीकरणाचा एक तोटा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार वाढला", "is_correct": false },
+        { "option_id": 2, "text": "श्रीमंत व गरीब देशांतील दरी कायम", "is_correct": true },
+        { "option_id": 3, "text": "माहितीचा प्रसार", "is_correct": false },
+        { "option_id": 4, "text": "संपर्क वाढला", "is_correct": false }
+      ],
+      "answer": "श्रीमंत व गरीब देशांतील दरी कायम"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "संयुक्त राष्ट्रांची भूमिका शीतयुद्धानंतर कशी झाली?",
+      "options": [
+        { "option_id": 1, "text": "कमी महत्त्वाची", "is_correct": false },
+        { "option_id": 2, "text": "अधिक महत्त्वाची", "is_correct": true },
+        { "option_id": 3, "text": "समाप्त", "is_correct": false },
+        { "option_id": 4, "text": "फक्त लष्करी", "is_correct": false }
+      ],
+      "answer": "अधिक महत्त्वाची"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संरक्षणाला जागतिक स्वरूप कधी मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "पहिल्या महायुद्धानंतर", "is_correct": false },
+        { "option_id": 2, "text": "शीतयुद्धानंतर", "is_correct": true },
+        { "option_id": 3, "text": "शीतयुद्ध काळात", "is_correct": false },
+        { "option_id": 4, "text": "महायुद्धांपूर्वी", "is_correct": false }
+      ],
+      "answer": "शीतयुद्धानंतर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचा विषय कोणत्या पातळीवर महत्त्वाचा ठरला?",
+      "options": [
+        { "option_id": 1, "text": "स्थानिक", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय", "is_correct": false },
+        { "option_id": 3, "text": "जागतिक", "is_correct": true },
+        { "option_id": 4, "text": "कौटुंबिक", "is_correct": false }
+      ],
+      "answer": "जागतिक"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शीतयुद्ध काळात वैचारिक संघर्ष कोणत्या दोन विचारसरणींमध्ये होता?",
+      "options": [
+        { "option_id": 1, "text": "लोकशाही व राजेशाही", "is_correct": false },
+        { "option_id": 2, "text": "भांडवलशाही व समाजवाद", "is_correct": true },
+        { "option_id": 3, "text": "धर्म व विज्ञान", "is_correct": false },
+        { "option_id": 4, "text": "सांस्कृतिक व सामाजिक", "is_correct": false }
+      ],
+      "answer": "भांडवलशाही व समाजवाद"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "असियान ही संघटना कोणत्या प्रदेशाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "युरोप", "is_correct": false },
+        { "option_id": 2, "text": "आग्नेय आशिया", "is_correct": true },
+        { "option_id": 3, "text": "आफ्रिका", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण अमेरिका", "is_correct": false }
+      ],
+      "answer": "आग्नेय आशिया"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "युरोपीय देशांनी कोणती आर्थिक संघटना निर्माण केली?",
+      "options": [
+        { "option_id": 1, "text": "नाटो", "is_correct": false },
+        { "option_id": 2, "text": "युरोपीय आर्थिक संघ", "is_correct": true },
+        { "option_id": 3, "text": "राष्ट्रसंघ", "is_correct": false },
+        { "option_id": 4, "text": "वॉर्सा करार", "is_correct": false }
+      ],
+      "answer": "युरोपीय आर्थिक संघ"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "निःशस्त्रीकरणाचे प्रयत्न का सुरू झाले?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक शांततेसाठी", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वसाहतींसाठी", "is_correct": false }
+      ],
+      "answer": "जागतिक शांततेसाठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "एकध्रुवीय व्यवस्था म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दोन महासत्ता असणे", "is_correct": false },
+        { "option_id": 2, "text": "एकच महासत्ता असणे", "is_correct": true },
+        { "option_id": 3, "text": "अनेक महासत्ता असणे", "is_correct": false },
+        { "option_id": 4, "text": "महासत्ता नसणे", "is_correct": false }
+      ],
+      "answer": "एकच महासत्ता असणे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "बहुध्रुवीय व्यवस्था कशाला म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "एक महासत्ता", "is_correct": false },
+        { "option_id": 2, "text": "दोन महासत्ता", "is_correct": false },
+        { "option_id": 3, "text": "अनेक महासत्ता", "is_correct": true },
+        { "option_id": 4, "text": "महासत्ता नसणे", "is_correct": false }
+      ],
+      "answer": "अनेक महासत्ता"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "‘वसुधैव कुटुंबकम्’ या मूल्याचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त कुटुंब महत्त्वाचे", "is_correct": false },
+        { "option_id": 2, "text": "संपूर्ण जग एक कुटुंब", "is_correct": true },
+        { "option_id": 3, "text": "एक देश श्रेष्ठ", "is_correct": false },
+        { "option_id": 4, "text": "युद्ध आवश्यक", "is_correct": false }
+      ],
+      "answer": "संपूर्ण जग एक कुटुंब"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "महायुद्धोत्तर काळातील अभ्यासाचा मुख्य उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध कसे करावे", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक घडामोडी समजून घेणे", "is_correct": true },
+        { "option_id": 3, "text": "लष्कर वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "वसाहती निर्माण करणे", "is_correct": false }
+      ],
+      "answer": "जागतिक घडामोडी समजून घेणे"
+    },
+  
+  {
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यवस्था म्हणजे काय?",
+      "answer": "स्वतंत्र व सार्वभौम राष्ट्रांमधील परस्पर संबंध, करार आणि व्यवहार यांमधून निर्माण झालेल्या व्यवस्थेला आंतरराष्ट्रीय व्यवस्था म्हणतात."
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "परस्परावलंबन म्हणजे काय?",
+      "answer": "राष्ट्रे आर्थिक, राजकीय किंवा संरक्षणाच्या कारणांसाठी एकमेकांवर अवलंबून असतात, याला परस्परावलंबन म्हणतात."
+    },
+    {
+      "question_id": 3,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धाचा कालखंड लिहा.",
+      "answer": "पहिले महायुद्ध १९१४ ते १९१८ या कालावधीत झाले."
+    },
+    {
+      "question_id": 4,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धानंतर कोणती आंतरराष्ट्रीय संघटना स्थापन झाली?",
+      "answer": "पहिल्या महायुद्धानंतर राष्ट्रसंघ ही आंतरराष्ट्रीय संघटना स्थापन झाली."
+    },
+    {
+      "question_id": 5,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंघाची मुख्य जबाबदारी कोणती होती?",
+      "answer": "युद्ध टाळणे आणि आंतरराष्ट्रीय शांतता प्रस्थापित करणे ही राष्ट्रसंघाची मुख्य जबाबदारी होती."
+    },
+    {
+      "question_id": 6,
+      "question_type": "SHORT",
+      "question": "दुसऱ्या महायुद्धाचा कालखंड लिहा.",
+      "answer": "दुसरे महायुद्ध १९३९ ते १९४५ या काळात झाले."
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "दुसरे महायुद्ध पहिल्यापेक्षा अधिक संहारक का ठरले?",
+      "answer": "दुसऱ्या महायुद्धात प्रगत तंत्रज्ञान आणि अण्वस्त्रांचा वापर झाल्यामुळे ते अधिक संहारक ठरले."
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "हिरोशिमा व नागासाकी येथे काय घडले?",
+      "answer": "अमेरिकेने हिरोशिमा व नागासाकी या शहरांवर अणुबॉम्ब टाकले."
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध म्हणजे काय?",
+      "answer": "प्रत्यक्ष युद्ध न होता महासत्तांमधील तणावपूर्ण संघर्षाला शीतयुद्ध म्हणतात."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धाचा कालखंड कोणता होता?",
+      "answer": "शीतयुद्धाचा कालखंड १९४५ ते १९९१ असा होता."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धातील दोन महासत्ता कोणत्या होत्या?",
+      "answer": "अमेरिका आणि सोव्हिएत रशिया या दोन महासत्ता शीतयुद्धात होत्या."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "द्‌विध्रुवीकरण म्हणजे काय?",
+      "answer": "जगातील राष्ट्रांचे दोन महासत्तांच्या गटात विभाजन होणे म्हणजे द्‌विध्रुवीकरण होय."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "नाटो म्हणजे काय?",
+      "answer": "नाटो ही अमेरिकेच्या नेतृत्वाखालील लष्करी संघटना होती."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "वॉर्सा करार म्हणजे काय?",
+      "answer": "वॉर्सा करार ही सोव्हिएत रशियाच्या नेतृत्वाखालील लष्करी संघटना होती."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावाद म्हणजे काय?",
+      "answer": "महासत्तांच्या गटात सामील न होता स्वतंत्र धोरण स्वीकारणे म्हणजे अलिप्ततावाद होय."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीची सुरुवात कधी झाली?",
+      "answer": "अलिप्ततावादी चळवळीची सुरुवात सन १९६१ मध्ये झाली."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीचे एक भारतीय नेते कोण होते?",
+      "answer": "पंडित जवाहरलाल नेहरू हे अलिप्ततावादी चळवळीचे प्रमुख भारतीय नेते होते."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "शस्त्रास्त्र स्पर्धा म्हणजे काय?",
+      "answer": "महासत्तांनी एकमेकांपेक्षा अधिक संहारक शस्त्रे निर्माण करण्यासाठी केलेली स्पर्धा म्हणजे शस्त्रास्त्र स्पर्धा होय."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "निःशस्त्रीकरण म्हणजे काय?",
+      "answer": "शस्त्रास्त्रांची संख्या कमी करण्याच्या प्रक्रियेला निःशस्त्रीकरण म्हणतात."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "सोव्हिएत रशियाचे विघटन कधी झाले?",
+      "answer": "सोव्हिएत रशियाचे विघटन १९९१ साली झाले."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धाची अखेर कशी झाली?",
+      "answer": "सोव्हिएत रशियाच्या विघटनामुळे शीतयुद्धाची अखेर झाली."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर जागतिक राजकारणात कोणता बदल झाला?",
+      "answer": "शीतयुद्धानंतर अमेरिका ही एकमेव महासत्ता म्हणून उरली."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरण म्हणजे काय?",
+      "answer": "व्यापार, भांडवल, श्रम आणि माहितीचा जागतिक स्तरावर होणारा प्रसार म्हणजे जागतिकीकरण होय."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणाचा एक फायदा लिहा.",
+      "answer": "जागतिकीकरणामुळे व्यापार आणि देशांमधील संपर्क वाढला."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणाचा एक तोटा लिहा.",
+      "answer": "जागतिकीकरणामुळे श्रीमंत आणि गरीब देशांमधील दरी कमी झाली नाही."
+    }
+  ]
+},
+{
+  "questions": [
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धामुळे जगावर कोणते परिणाम झाले?",
+      "answer": "पहिल्या महायुद्धामुळे मोठ्या प्रमाणावर जीवित व वित्तहानी झाली आणि अनेक देशांच्या अर्थव्यवस्था कोसळल्या."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धानंतर युरोपमध्ये कोणते बदल घडून आले?",
+      "answer": "युरोपमधील जुनी साम्राज्ये कोसळली आणि अनेक नवी राष्ट्रे अस्तित्वात आली."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "वसाहतींमध्ये स्वातंत्र्य चळवळी का सुरू झाल्या?",
+      "answer": "युरोपीय राष्ट्रांच्या वर्चस्वाला विरोध करण्यासाठी व स्वातंत्र्य मिळवण्यासाठी वसाहतींमध्ये चळवळी सुरू झाल्या."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंघ अपयशी का ठरला?",
+      "answer": "राष्ट्रसंघ युद्ध थांबवण्यात अपयशी ठरला आणि दुसरे महायुद्ध रोखू शकला नाही."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "दुसऱ्या महायुद्धात भारताचा सहभाग कसा होता?",
+      "answer": "दुसऱ्या महायुद्धात भारत मित्र राष्ट्रांच्या बाजूने सहभागी झाला."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "दुसरे महायुद्ध अधिक व्यापक का ठरले?",
+      "answer": "दुसरे महायुद्ध अनेक खंडांमध्ये पसरले होते आणि त्यात अधिक देश सहभागी झाले."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "अणुबॉम्बचा वापर का करण्यात आला?",
+      "answer": "युद्ध लवकर संपवण्यासाठी अमेरिकेने जपानवर अणुबॉम्बचा वापर केला."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध काळात उघड युद्ध का झाले नाही?",
+      "answer": "अण्वस्त्रांच्या वापरामुळे होणाऱ्या प्रचंड विनाशाच्या भीतीमुळे उघड युद्ध झाले नाही."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धात वैचारिक संघर्ष कशावर आधारित होता?",
+      "answer": "भांडवलशाही आणि समाजवाद या दोन विचारसरणींवर शीतयुद्धातील संघर्ष आधारित होता."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "लष्करी संघटनांची निर्मिती का झाली?",
+      "answer": "महासत्तांनी आपल्या गटातील राष्ट्रांच्या संरक्षणासाठी लष्करी संघटना निर्माण केल्या."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "जगाचे द्‌विध्रुवीकरण म्हणजे काय परिणाम झाला?",
+      "answer": "राष्ट्रे दोन महासत्तांच्या गटात विभागली गेल्याने जागतिक तणाव वाढला."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी धोरण का स्वीकारले गेले?",
+      "answer": "महासत्तांच्या संघर्षात अडकू नये म्हणून काही देशांनी अलिप्ततावादी धोरण स्वीकारले."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीचा मुख्य उद्देश काय होता?",
+      "answer": "आंतरराष्ट्रीय शांतता राखणे आणि स्वतंत्र परराष्ट्र धोरण स्वीकारणे हा मुख्य उद्देश होता."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीने कोणत्या मूल्यांचा पुरस्कार केला?",
+      "answer": "मानवतावाद, शांतता आणि समानता या मूल्यांचा अलिप्ततावादी चळवळीने पुरस्कार केला."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "शस्त्रास्त्र स्पर्धेचा जागतिक शांततेवर काय परिणाम झाला?",
+      "answer": "शस्त्रास्त्र स्पर्धेमुळे जागतिक शांतता धोक्यात आली."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "निःशस्त्रीकरणाचे प्रयत्न का सुरू झाले?",
+      "answer": "अण्वस्त्रांमुळे होणारा विनाश टाळण्यासाठी निःशस्त्रीकरणाचे प्रयत्न सुरू झाले."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "गोर्बाचेव्ह यांच्या धोरणांचे नाव लिहा.",
+      "answer": "पेरेस्त्रोईका आणि ग्लासनोस्त ही गोर्बाचेव्ह यांची धोरणे होती."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "पेरेस्त्रोईका धोरणाचा उद्देश काय होता?",
+      "answer": "आर्थिक व प्रशासकीय पुनर्रचना करणे हा पेरेस्त्रोईका धोरणाचा उद्देश होता."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "ग्लासनोस्त धोरणाचा अर्थ काय?",
+      "answer": "राजकीय व सामाजिक खुलेपणा वाढवणे म्हणजे ग्लासनोस्त होय."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "सोव्हिएत रशियाच्या विघटनाचे एक परिणाम लिहा.",
+      "answer": "सोव्हिएत रशियाच्या विघटनामुळे अनेक नवी स्वतंत्र राष्ट्रे निर्माण झाली."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर अमेरिका कोणत्या स्थानावर आली?",
+      "answer": "शीतयुद्धानंतर अमेरिका ही एकमेव महासत्ता बनली."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर व्यापार धोरणात काय बदल झाला?",
+      "answer": "शीतयुद्धानंतर देशांनी व्यापारी संबंधांना प्राधान्य दिले."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे माहिती तंत्रज्ञानाचे महत्त्व कसे वाढले?",
+      "answer": "माहिती तंत्रज्ञानामुळे जगातील घडामोडी वेगाने सर्वत्र पोहोचू लागल्या."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर कोणते प्रश्न जागतिक स्वरूपाचे झाले?",
+      "answer": "पर्यावरण संरक्षण, मानवी हक्क आणि स्त्री-पुरुष समानता हे प्रश्न जागतिक स्वरूपाचे झाले."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "महायुद्धोत्तर अभ्यास का महत्त्वाचा आहे?",
+      "answer": "महायुद्धोत्तर अभ्यासामुळे आजच्या जागतिक राजकारणाची पार्श्वभूमी समजते."
+    }
+  ]
+},
+
+{
+  "questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धात कोणते देश मित्र राष्ट्रे होते?",
+      "answer": "ब्रिटन, फ्रान्स, रशिया, इटली आणि अमेरिका हे पहिले महायुद्धातील मित्र राष्ट्रे होती."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धातील मध्यगत राष्ट्रे कोणती होती?",
+      "answer": "जर्मनी, ऑस्ट्रिया-हंगेरी, तुर्कस्तान आणि बल्गेरिया ही मध्यगत राष्ट्रे होती."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पहिल्या महायुद्धामुळे आर्थिक क्षेत्रावर काय परिणाम झाला?",
+      "answer": "पहिल्या महायुद्धामुळे अनेक देशांच्या अर्थव्यवस्था कोसळल्या आणि आर्थिक संकट निर्माण झाले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "युरोपमधील साम्राज्ये का कोसळली?",
+      "answer": "युद्धामुळे झालेल्या राजकीय व आर्थिक दुर्बलतेमुळे युरोपमधील साम्राज्ये कोसळली."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वसाहतवादाला विरोध का वाढला?",
+      "answer": "स्वातंत्र्याची जाणीव आणि शोषणाविरुद्ध असंतोष वाढल्यामुळे वसाहतवादाला विरोध वाढला."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हुकूमशाही राजवटी कशामुळे उदयास आल्या?",
+      "answer": "आर्थिक संकटे आणि लोकशाहीची कमजोरी यांमुळे काही देशांत हुकूमशाही राजवटी उदयास आल्या."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हिटलरचा उदय कोणत्या देशात झाला?",
+      "answer": "हिटलरचा उदय जर्मनीमध्ये झाला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दुसऱ्या महायुद्धातील मित्र राष्ट्रे कोणती होती?",
+      "answer": "ब्रिटन, फ्रान्स, अमेरिका, सोव्हिएत रशिया, चीन आणि भारत ही दुसऱ्या महायुद्धातील मित्र राष्ट्रे होती."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दुसऱ्या महायुद्धातील अक्ष राष्ट्रे कोणती होती?",
+      "answer": "जर्मनी, जपान आणि इटली ही दुसऱ्या महायुद्धातील अक्ष राष्ट्रे होती."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "दुसरे महायुद्ध संपण्याची दोन प्रमुख कारणे लिहा.",
+      "answer": "जर्मनीचा पराभव आणि जपानवर अणुबॉम्बचा वापर ही दुसरे महायुद्ध संपण्याची प्रमुख कारणे होती."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धाची सुरुवात कशामुळे झाली?",
+      "answer": "अमेरिका आणि सोव्हिएत रशिया यांच्यातील सत्ता व विचारसरणीतील संघर्षामुळे शीतयुद्धाची सुरुवात झाली."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धात कोणत्या प्रकारची स्पर्धा होती?",
+      "answer": "शीतयुद्धात सत्ता, शस्त्रास्त्रे आणि विचारसरणी यांवर आधारित स्पर्धा होती."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध काळात लष्करी संघटनांचे महत्त्व का वाढले?",
+      "answer": "गटातील राष्ट्रांच्या संरक्षणासाठी आणि प्रभाव वाढवण्यासाठी लष्करी संघटनांचे महत्त्व वाढले."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "युरोपचे वैचारिक विभाजन कसे झाले?",
+      "answer": "पश्चिम युरोप अमेरिका समर्थक झाला तर पूर्व युरोप सोव्हिएत रशियाच्या प्रभावाखाली गेला."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "प्रादेशिक संघटनांची गरज का भासली?",
+      "answer": "विकसनशील देशांना आर्थिक विकासासाठी परस्पर सहकार्य आवश्यक असल्यामुळे प्रादेशिक संघटना निर्माण झाल्या."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "असियान संघटनेचा उद्देश काय होता?",
+      "answer": "आग्नेय आशियाई देशांचा आर्थिक व प्रादेशिक विकास साधणे हा असियानचा उद्देश होता."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीला कोणत्या खंडांतील देशांनी पाठिंबा दिला?",
+      "answer": "आशिया आणि आफ्रिका खंडांतील नव्याने स्वतंत्र झालेल्या देशांनी या चळवळीला पाठिंबा दिला."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीचे एक आंतरराष्ट्रीय उद्दिष्ट लिहा.",
+      "answer": "आंतरराष्ट्रीय प्रश्न शांततामय मार्गाने सोडवणे हे अलिप्ततावादी चळवळीचे एक उद्दिष्ट होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नव्या आंतरराष्ट्रीय आर्थिक व्यवस्थेची मागणी का करण्यात आली?",
+      "answer": "गरीब व विकसनशील देशांच्या आर्थिक समस्यांकडे लक्ष वेधण्यासाठी नव्या आंतरराष्ट्रीय आर्थिक व्यवस्थेची मागणी करण्यात आली."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मानवतावाद हा अलिप्ततावादी चळवळीचा आधार का होता?",
+      "answer": "सर्व राष्ट्रांमध्ये समानता व शांतता प्रस्थापित करण्यासाठी मानवतावादाचा आधार घेण्यात आला."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध संपुष्टात येण्यास कोणती आर्थिक कारणे होती?",
+      "answer": "सोव्हिएत रशियाची कमकुवत अर्थव्यवस्था आणि आर्थिक खुलेपणाची गरज ही प्रमुख कारणे होती."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पेरेस्त्रोईका धोरणामुळे कोणते बदल झाले?",
+      "answer": "पेरेस्त्रोईका धोरणामुळे आर्थिक व प्रशासकीय क्षेत्रात सुधारणा झाल्या."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ग्लासनोस्त धोरणामुळे काय घडले?",
+      "answer": "ग्लासनोस्त धोरणामुळे राजकीय खुलेपणा वाढला आणि माध्यमांवरील नियंत्रण कमी झाले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर देशांमधील संबंध कसे बदलले?",
+      "answer": "शत्रुराष्ट्राऐवजी स्पर्धक राष्ट्र ही संकल्पना पुढे आली आणि आर्थिक संबंध वाढले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे संस्कृतीवर काय परिणाम झाला?",
+      "answer": "जागतिकीकरणामुळे विविध संस्कृतींमधील संपर्क आणि विचारांची देवाणघेवाण वाढली."
+    }
+  ]
+},
+{
+  "questions": [
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे आर्थिक क्षेत्रात कोणते बदल झाले?",
+      "answer": "जागतिकीकरणामुळे देशांमधील व्यापार वाढला आणि अर्थव्यवस्था परस्परांशी अधिक जोडल्या गेल्या."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे बाजारपेठांवर काय परिणाम झाला?",
+      "answer": "जागतिकीकरणामुळे बाजारपेठांमध्ये विविध वस्तूंची मुबलकता निर्माण झाली."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर ‘मदत’ या संकल्पनेऐवजी कोणती संकल्पना पुढे आली?",
+      "answer": "शीतयुद्धानंतर ‘मदत’ या संकल्पनेऐवजी आर्थिक संबंध प्रस्थापित करण्याची संकल्पना पुढे आली."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "संयुक्त राष्ट्रांच्या जबाबदाऱ्यांमध्ये कशी वाढ झाली?",
+      "answer": "जागतिक शांतता व सुरक्षितता टिकवण्यासाठी संयुक्त राष्ट्रांना अधिक ठोस भूमिका घ्यावी लागली."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पर्यावरण रक्षण हा जागतिक प्रश्न का बनला?",
+      "answer": "पर्यावरणाच्या समस्या सर्व देशांना प्रभावित करत असल्यामुळे पर्यावरण रक्षण हा जागतिक प्रश्न बनला."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचे संरक्षण आंतरराष्ट्रीय पातळीवर का महत्त्वाचे ठरले?",
+      "answer": "मानवी हक्कांचे उल्लंघन सर्व मानवतेवर परिणाम करत असल्यामुळे त्यांचे संरक्षण आंतरराष्ट्रीय पातळीवर महत्त्वाचे ठरले."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "स्त्री-पुरुष समानतेचा विषय जागतिक स्तरावर का मांडला गेला?",
+      "answer": "समान अधिकार व संधी मिळाव्यात म्हणून स्त्री-पुरुष समानतेचा विषय जागतिक स्तरावर मांडला गेला."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्तींचा सामना करण्यासाठी जागतिक सहकार्य का आवश्यक आहे?",
+      "answer": "नैसर्गिक आपत्तींचे परिणाम अनेक देशांवर होत असल्यामुळे त्यांचा सामना करण्यासाठी जागतिक सहकार्य आवश्यक आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "माहिती तंत्रज्ञानातील क्रांतीचा एक परिणाम लिहा.",
+      "answer": "माहिती तंत्रज्ञानामुळे जगातील घडामोडी तत्काळ सर्वत्र कळू लागल्या."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे देशांच्या सीमांचे महत्त्व कसे बदलले?",
+      "answer": "जागतिकीकरणामुळे देशांच्या सीमांना पूर्वीइतके महत्त्व राहिले नाही."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणाचा एक सामाजिक परिणाम लिहा.",
+      "answer": "जागतिकीकरणामुळे लोकांमधील विचार व संस्कृतींची देवाणघेवाण वाढली."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर कोणती राजकीय संकल्पना बदलली?",
+      "answer": "‘शत्रुराष्ट्र’ या संकल्पनेऐवजी ‘स्पर्धक राष्ट्र’ ही संकल्पना पुढे आली."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतर आर्थिक एकत्रीकरण का वाढले?",
+      "answer": "व्यापार व आर्थिक संबंध खुले झाल्यामुळे आर्थिक एकत्रीकरण वाढले."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणाचा गरीब देशांवर कोणता परिणाम झाला?",
+      "answer": "जागतिकीकरणामुळे काही संधी निर्माण झाल्या, पण गरीब व श्रीमंत देशांतील दरी पूर्णपणे कमी झाली नाही."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शीतयुद्धानंतरच्या जगाचे एक वैशिष्ट्य लिहा.",
+      "answer": "शीतयुद्धानंतर आंतरराष्ट्रीय संबंधांमध्ये आर्थिक हितसंबंधांना अधिक महत्त्व मिळाले."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे शिक्षण क्षेत्रावर काय परिणाम झाला?",
+      "answer": "जागतिकीकरणामुळे ज्ञानाचा जागतिक प्रसार वाढला आणि शैक्षणिक संधी विस्तारल्या."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणामुळे रोजगाराच्या संधींमध्ये काय बदल झाला?",
+      "answer": "जागतिकीकरणामुळे काही नवीन रोजगार संधी निर्माण झाल्या, पण स्पर्धाही वाढली."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "जागतिकीकरणाचा पर्यावरणावर एक परिणाम लिहा.",
+      "answer": "उद्योगवाढीमुळे पर्यावरणावर ताण वाढला आणि प्रदूषणाच्या समस्या निर्माण झाल्या."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय प्रश्न शांततामय मार्गाने सोडवणे का आवश्यक आहे?",
+      "answer": "युद्धामुळे मोठा विनाश होतो, म्हणून आंतरराष्ट्रीय प्रश्न शांततामय मार्गाने सोडवणे आवश्यक आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "अलिप्ततावादी चळवळीचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "अलिप्ततावादी चळवळ आजही शांतता, समानता आणि सहकार्याचे महत्त्व अधोरेखित करते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नव्या आंतरराष्ट्रीय आर्थिक व्यवस्थेची (NIEO) मागणी का महत्त्वाची होती?",
+      "answer": "विकसनशील देशांच्या आर्थिक समस्यांना न्याय मिळावा म्हणून NIEO ची मागणी महत्त्वाची होती."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध संपल्यानंतर लोकशाहीकरणाला कशी चालना मिळाली?",
+      "answer": "हुकूमशाही राजवटी कमी झाल्याने आणि खुलेपणा वाढल्याने लोकशाहीकरणाला चालना मिळाली."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शीतयुद्ध संपण्याचा पूर्व युरोपवर काय परिणाम झाला?",
+      "answer": "पूर्व युरोपमधील अनेक देशांनी लोकशाही व भांडवलशाही मार्गांचा स्वीकार केला."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सोव्हिएत रशियाच्या विघटनानंतर किती प्रकारची व्यवस्था निर्माण झाली?",
+      "answer": "सोव्हिएत रशियाच्या विघटनानंतर एकध्रुवीय जागतिक व्यवस्था निर्माण झाली."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "महायुद्धोत्तर राजकीय घडामोडींचा अभ्यास विद्यार्थ्यांसाठी का उपयुक्त आहे?",
+      "answer": "या अभ्यासामुळे जागतिक राजकारणाची पार्श्वभूमी, समस्या आणि शांततेचे महत्त्व समजते."
+    }
+  ]
+},
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "LONG",
+      "question": "पहिल्या महायुद्धाची पार्श्वभूमी आणि परिणाम सविस्तर स्पष्ट करा.",
+      "answer": "पहिले महायुद्ध १९१४ ते १९१८ या काळात झाले. या युद्धात युरोपातील प्रमुख देश सहभागी झाले होते. युद्धामुळे प्रचंड प्रमाणात जीवित व वित्तहानी झाली. अनेक देशांच्या अर्थव्यवस्था कोसळल्या आणि सामाजिक अस्थिरता निर्माण झाली. युद्धानंतर युरोपमधील जुनी साम्राज्ये नष्ट झाली. नवीन राष्ट्रे अस्तित्वात आली. या युद्धामुळे आंतरराष्ट्रीय शांततेसाठी राष्ट्रसंघाची स्थापना करण्यात आली."
+    },
+    {
+      "question_id": 2,
+      "question_type": "LONG",
+      "question": "राष्ट्रसंघाची स्थापना, उद्दिष्टे आणि अपयश यांचे सविस्तर वर्णन करा.",
+      "answer": "पहिल्या महायुद्धानंतर पुन्हा युद्ध होऊ नये म्हणून राष्ट्रसंघाची स्थापना करण्यात आली. युद्ध टाळणे आणि आंतरराष्ट्रीय प्रश्न शांततेने सोडवणे हे त्याचे मुख्य उद्दिष्ट होते. राष्ट्रसंघाने चर्चा व वाटाघाटींना प्रोत्साहन दिले. मात्र त्याला स्वतःची लष्करी शक्ती नव्हती. अनेक महासत्ता त्यात सक्रिय नव्हत्या. त्यामुळे राष्ट्रसंघ दुसरे महायुद्ध रोखण्यात अपयशी ठरला."
+    },
+    {
+      "question_id": 3,
+      "question_type": "LONG",
+      "question": "दुसरे महायुद्ध पहिल्या महायुद्धापेक्षा अधिक संहारक का ठरले?",
+      "answer": "दुसरे महायुद्ध १९३९ ते १९४५ या काळात झाले. या युद्धात अधिक देश सहभागी झाले होते. प्रगत तंत्रज्ञानाचा मोठ्या प्रमाणावर वापर करण्यात आला. अणुबॉम्बसारखी संहारक शस्त्रे वापरण्यात आली. हिरोशिमा आणि नागासाकीवर अणुबॉम्ब टाकण्यात आले. त्यामुळे प्रचंड जीवितहानी झाली. म्हणून दुसरे महायुद्ध अधिक संहारक ठरले."
+    },
+    {
+      "question_id": 4,
+      "question_type": "LONG",
+      "question": "दुसऱ्या महायुद्धाचे जागतिक परिणाम स्पष्ट करा.",
+      "answer": "दुसऱ्या महायुद्धामुळे संपूर्ण जगावर मोठा परिणाम झाला. अनेक देशांची अर्थव्यवस्था उद्ध्वस्त झाली. युरोपची राजकीय सत्ता कमी झाली. अमेरिका आणि सोव्हिएत रशिया या दोन महासत्ता म्हणून उदयास आल्या. वसाहतींमध्ये स्वातंत्र्य चळवळी तीव्र झाल्या. संयुक्त राष्ट्रांची स्थापना करण्यात आली. जागतिक राजकारणात शीतयुद्धाचा प्रारंभ झाला."
+    },
+    {
+      "question_id": 5,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध म्हणजे काय? त्याची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "शीतयुद्ध म्हणजे प्रत्यक्ष युद्ध न होता महासत्तांमधील तणावपूर्ण संघर्ष होय. अमेरिका आणि सोव्हिएत रशिया या दोन महासत्तांमध्ये हा संघर्ष होता. या काळात शस्त्रास्त्र स्पर्धा वाढली. वैचारिक संघर्ष तीव्र झाला. लष्करी संघटनांची निर्मिती झाली. अण्वस्त्रांच्या भीतीमुळे प्रत्यक्ष युद्ध टाळले गेले. शीतयुद्धाने जागतिक राजकारणावर दीर्घकालीन प्रभाव टाकला."
+    },
+    {
+      "question_id": 6,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील द्‌विध्रुवीकरण स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात जग दोन महासत्तांच्या गटात विभागले गेले. अमेरिका नेतृत्वाखाली भांडवलशाही गट तयार झाला. सोव्हिएत रशियाच्या नेतृत्वाखाली समाजवादी गट निर्माण झाला. अनेक लहान राष्ट्रे या गटांमध्ये सामील झाली. यामुळे जागतिक राजकारणात तणाव वाढला. आंतरराष्ट्रीय संबंध अधिक गुंतागुंतीचे झाले. या प्रक्रियेला द्‌विध्रुवीकरण म्हणतात."
+    },
+    {
+      "question_id": 7,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादाची संकल्पना आणि त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "अलिप्ततावाद म्हणजे महासत्तांच्या गटांपासून दूर राहण्याचे धोरण होय. आशिया व आफ्रिकेतील नव्याने स्वतंत्र झालेल्या देशांनी हे धोरण स्वीकारले. शांतता आणि स्वातंत्र्य जपणे हा त्याचा उद्देश होता. भारताने या चळवळीचे नेतृत्व केले. अलिप्ततावादामुळे विकसनशील देशांना स्वतंत्र आवाज मिळाला. आंतरराष्ट्रीय शांततेला प्रोत्साहन मिळाले."
+    },
+    {
+      "question_id": 8,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीचे उद्दिष्टे आणि योगदान स्पष्ट करा.",
+      "answer": "अलिप्ततावादी चळवळीचा मुख्य उद्देश शांतता राखणे हा होता. महासत्तांच्या संघर्षात सहभागी न होणे हे तिचे धोरण होते. वसाहतवाद आणि साम्राज्यवादाला विरोध करण्यात आला. गरीब व विकसनशील देशांच्या समस्या मांडल्या गेल्या. निःशस्त्रीकरणाला पाठिंबा देण्यात आला. या चळवळीने आंतरराष्ट्रीय सहकार्याला चालना दिली."
+    },
+    {
+      "question_id": 9,
+      "question_type": "LONG",
+      "question": "शीतयुद्धाची अखेर कशी झाली? कारणे स्पष्ट करा.",
+      "answer": "शीतयुद्धाची अखेर १९९१ साली झाली. सोव्हिएत रशियाची अर्थव्यवस्था कमकुवत झाली होती. गोर्बाचेव्ह यांनी पेरेस्त्रोईका आणि ग्लासनोस्त ही धोरणे राबवली. आर्थिक आणि राजकीय खुलेपणा वाढला. पूर्व युरोपमधील देशांमध्ये बदल झाले. अखेरीस सोव्हिएत रशियाचे विघटन झाले. त्यामुळे शीतयुद्ध संपुष्टात आले."
+    },
+    {
+      "question_id": 10,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतरच्या जगातील प्रमुख बदल स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर अमेरिका ही एकमेव महासत्ता उरली. आंतरराष्ट्रीय संबंधांमध्ये आर्थिक हितसंबंधांना महत्त्व मिळाले. व्यापार आणि जागतिकीकरण वाढले. संयुक्त राष्ट्रांची भूमिका अधिक महत्त्वाची ठरली. मानवी हक्क आणि पर्यावरण संरक्षण हे जागतिक प्रश्न बनले. देशांमधील सहकार्य वाढले. जागतिक राजकारणाचे स्वरूप बदलले."
+    }
+  ]
+},
+{
+  "questions": [
+    {
+      "question_id": 11,
+      "question_type": "LONG",
+      "question": "पहिल्या महायुद्धानंतर वसाहतींमध्ये स्वातंत्र्य चळवळी का वाढल्या?",
+      "answer": "पहिल्या महायुद्धामुळे युरोपीय राष्ट्रे आर्थिक व राजकीयदृष्ट्या दुर्बल झाली. वसाहतींतील लोकांमध्ये स्वातंत्र्याची जाणीव वाढली. युद्धात वसाहतींतील सैनिकांचा मोठ्या प्रमाणावर वापर झाला होता. त्यांना समान हक्क मिळत नसल्याची भावना निर्माण झाली. युरोपीय राष्ट्रांचे वर्चस्व आव्हानासमोर आले. त्यामुळे आशिया व आफ्रिकेतील वसाहतींमध्ये स्वातंत्र्य चळवळी तीव्र झाल्या."
+    },
+    {
+      "question_id": 12,
+      "question_type": "LONG",
+      "question": "हुकूमशाही राजवटींचा उदय कसा झाला ते स्पष्ट करा.",
+      "answer": "पहिल्या महायुद्धानंतर अनेक देशांत आर्थिक संकटे निर्माण झाली. लोकशाही व्यवस्था दुर्बल ठरल्या. बेरोजगारी व महागाई वाढली. लोकांमध्ये असंतोष निर्माण झाला. या परिस्थितीत काही नेत्यांनी कडक नियंत्रणाचे आश्वासन दिले. त्यामुळे जर्मनी, इटली व इतर देशांत हुकूमशाही राजवटी उदयास आल्या."
+    },
+    {
+      "question_id": 13,
+      "question_type": "LONG",
+      "question": "दुसऱ्या महायुद्धात भारताचा सहभाग आणि त्याचे परिणाम स्पष्ट करा.",
+      "answer": "दुसऱ्या महायुद्धात भारत मित्र राष्ट्रांच्या बाजूने सहभागी झाला. अनेक भारतीय सैनिक युद्धात सहभागी झाले. युद्धामुळे भारतावर आर्थिक ताण पडला. महागाई आणि तुटवडा वाढला. भारतीय स्वातंत्र्य चळवळीला वेग मिळाला. युद्धानंतर ब्रिटन कमकुवत झाल्याने भारताच्या स्वातंत्र्याचा मार्ग मोकळा झाला."
+    },
+    {
+      "question_id": 14,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील शस्त्रास्त्र स्पर्धा स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात अमेरिका व सोव्हिएत रशिया यांच्यात शस्त्रास्त्र स्पर्धा सुरू झाली. दोन्ही महासत्तांनी अण्वस्त्रांची निर्मिती केली. अधिक संहारक शस्त्रे बनवण्याची चढाओढ सुरू होती. लष्करी खर्च मोठ्या प्रमाणावर वाढला. या स्पर्धेमुळे जागतिक शांतता धोक्यात आली. त्यामुळे निःशस्त्रीकरणाचे प्रयत्नही सुरू झाले."
+    },
+    {
+      "question_id": 15,
+      "question_type": "LONG",
+      "question": "नाटो आणि वॉर्सा करार यांचे महत्त्व स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात नाटो आणि वॉर्सा करार या दोन प्रमुख लष्करी संघटना निर्माण झाल्या. नाटो ही अमेरिकेच्या नेतृत्वाखालील संघटना होती. वॉर्सा करार सोव्हिएत रशियाच्या नेतृत्वाखाली होता. या संघटनांमुळे गटातील राष्ट्रांना संरक्षण मिळाले. मात्र यामुळे गटांतील तणाव वाढला. जागतिक राजकारण अधिक ध्रुवीकरणाकडे गेले."
+    },
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "द्‌विध्रुवीकरणाचे जागतिक परिणाम स्पष्ट करा.",
+      "answer": "द्‌विध्रुवीकरणामुळे जग दोन महासत्तांच्या गटांत विभागले गेले. अनेक लहान राष्ट्रांना एखाद्या गटात सामील व्हावे लागले. जागतिक तणाव वाढला. आंतरराष्ट्रीय संबंध अधिक गुंतागुंतीचे झाले. शस्त्रास्त्र स्पर्धेला चालना मिळाली. शांततेसाठी धोका निर्माण झाला."
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीची पार्श्वभूमी स्पष्ट करा.",
+      "answer": "दुसऱ्या महायुद्धानंतर अनेक देशांना स्वातंत्र्य मिळाले. शीतयुद्धामुळे जग द्‌विध्रुवीय झाले होते. नव्याने स्वतंत्र झालेले देश महासत्तांच्या संघर्षात अडकू इच्छित नव्हते. त्यांनी स्वतंत्र परराष्ट्र धोरण स्वीकारण्याचा निर्णय घेतला. यामुळे अलिप्ततावादी चळवळीचा उदय झाला. भारतासह अनेक देश या चळवळीत सहभागी झाले."
+    },
+    {
+      "question_id": 18,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीचे भारतासाठी महत्त्व स्पष्ट करा.",
+      "answer": "अलिप्ततावादी चळवळीमुळे भारताला स्वतंत्र परराष्ट्र धोरण राबवता आले. भारत महासत्तांच्या दबावापासून दूर राहिला. विकसनशील देशांचे नेतृत्व करण्याची संधी मिळाली. आंतरराष्ट्रीय शांततेसाठी भारताने भूमिका बजावली. मानवी हक्क आणि निःशस्त्रीकरणाचे मुद्दे भारताने मांडले. त्यामुळे भारताचा आंतरराष्ट्रीय सन्मान वाढला."
+    },
+    {
+      "question_id": 19,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध संपण्यामागील आर्थिक कारणे स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात शस्त्रास्त्र स्पर्धेमुळे प्रचंड आर्थिक खर्च झाला. सोव्हिएत रशियाची अर्थव्यवस्था कमकुवत झाली. उद्योग व तंत्रज्ञानात मागे पडलेपण जाणवले. आर्थिक खुलेपणाची गरज निर्माण झाली. त्यामुळे सुधारणा राबवण्यात आल्या. अखेरीस आर्थिक अडचणींमुळे सोव्हिएत रशियाचे विघटन झाले."
+    },
+    {
+      "question_id": 20,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतरच्या जागतिकीकरणाची प्रक्रिया स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर व्यापार व आर्थिक संबंध खुले झाले. भांडवल, श्रम आणि माहितीचा जागतिक प्रसार वाढला. माहिती तंत्रज्ञानातील प्रगतीमुळे संपर्क सुलभ झाला. देशांमधील सीमांचे महत्त्व कमी झाले. आर्थिक एकत्रीकरण वाढले. मात्र त्याचबरोबर गरीब व श्रीमंत देशांतील दरी कायम राहिली."
+    }
+  ]
+},
+{
+  "questions": [
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळात वैचारिक संघर्ष कसा होता ते स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात अमेरिका आणि सोव्हिएत रशिया यांच्यात वैचारिक संघर्ष होता. अमेरिका भांडवलशाही आणि लोकशाही व्यवस्थेचा पुरस्कार करत होती. सोव्हिएत रशिया समाजवादी आणि एकपक्षीय व्यवस्थेचा समर्थक होता. दोन्ही महासत्तांना आपली विचारसरणी जगभर पसरवायची होती. त्यामुळे लहान राष्ट्रांवर प्रभाव टाकण्याची स्पर्धा सुरू झाली. या वैचारिक संघर्षामुळे जागतिक राजकारणात तणाव वाढला."
+    },
+    {
+      "question_id": 22,
+      "question_type": "LONG",
+      "question": "लष्करी संघटनांच्या निर्मितीची कारणे आणि परिणाम स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात महासत्तांनी आपली सुरक्षा मजबूत करण्यासाठी लष्करी संघटना निर्माण केल्या. नाटो आणि वॉर्सा करार ही त्याची प्रमुख उदाहरणे आहेत. या संघटनांमुळे गटातील राष्ट्रांना संरक्षण मिळाले. मात्र त्याचबरोबर गटांमधील तणाव वाढला. शस्त्रास्त्र स्पर्धेला चालना मिळाली. जागतिक शांततेला धोका निर्माण झाला."
+    },
+    {
+      "question_id": 23,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील प्रादेशिक संघटनांची भूमिका स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात विकसनशील देशांनी प्रादेशिक संघटना निर्माण केल्या. या संघटनांचा उद्देश आर्थिक विकास आणि परस्पर सहकार्य वाढवणे हा होता. युरोपीय देशांनी युरोपीय आर्थिक संघ स्थापन केला. आग्नेय आशियातील देशांनी असियान संघटना निर्माण केली. या संघटनांमुळे प्रादेशिक स्थैर्य वाढले. आर्थिक सहकार्याला चालना मिळाली."
+    },
+    {
+      "question_id": 24,
+      "question_type": "LONG",
+      "question": "निःशस्त्रीकरणाच्या प्रयत्नांचे महत्त्व स्पष्ट करा.",
+      "answer": "शस्त्रास्त्र स्पर्धेमुळे जागतिक शांतता धोक्यात आली होती. अण्वस्त्रांमुळे होणारा विनाश सर्वांना ज्ञात होता. त्यामुळे निःशस्त्रीकरणाचे प्रयत्न सुरू झाले. शस्त्रास्त्रांची संख्या मर्यादित ठेवण्याचे करार करण्यात आले. या प्रयत्नांमुळे तणाव काही प्रमाणात कमी झाला. जागतिक शांततेसाठी निःशस्त्रीकरण महत्त्वाचे ठरले."
+    },
+    {
+      "question_id": 25,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील भारताची भूमिका स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात भारताने अलिप्ततावादी धोरण स्वीकारले. भारत महासत्तांच्या गटात सामील झाला नाही. स्वतंत्र परराष्ट्र धोरण राबवणे हा भारताचा उद्देश होता. भारताने शांतता आणि सहअस्तित्वाचा संदेश दिला. विकसनशील देशांच्या समस्या आंतरराष्ट्रीय पातळीवर मांडल्या. त्यामुळे भारताचा जागतिक सन्मान वाढला."
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीचे मूल्यमापन करा.",
+      "answer": "अलिप्ततावादी चळवळीने वसाहतवाद आणि साम्राज्यवादाला विरोध केला. आंतरराष्ट्रीय प्रश्न शांततेने सोडवण्यावर भर दिला. विकसनशील देशांना एकत्र येण्याची संधी मिळाली. निःशस्त्रीकरण आणि मानवी हक्कांचे मुद्दे मांडले गेले. मात्र काही वेळा या चळवळीची प्रभावीता मर्यादित ठरली. तरीही तिचे ऐतिहासिक महत्त्व मोठे आहे."
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "सोव्हिएत रशियाच्या विघटनाचे आंतरराष्ट्रीय परिणाम स्पष्ट करा.",
+      "answer": "सोव्हिएत रशियाच्या विघटनामुळे शीतयुद्ध संपुष्टात आले. अमेरिका ही एकमेव महासत्ता म्हणून उदयास आली. पूर्व युरोपमधील देशांमध्ये लोकशाही राजवटी स्थापन झाल्या. जागतिक राजकारणात एकध्रुवीय व्यवस्था निर्माण झाली. आंतरराष्ट्रीय संबंधांमध्ये आर्थिक हितसंबंधांना अधिक महत्त्व मिळाले. जागतिकीकरणाला गती मिळाली."
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर संयुक्त राष्ट्रांची भूमिका स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर संयुक्त राष्ट्रांची भूमिका अधिक महत्त्वाची ठरली. जागतिक शांतता व सुरक्षितता राखण्याची जबाबदारी वाढली. मानवी हक्कांचे संरक्षण करण्यावर भर देण्यात आला. पर्यावरण रक्षण आणि नैसर्गिक आपत्तींचा सामना या विषयांवर काम झाले. शांततामय तोडग्यांसाठी संयुक्त राष्ट्रांनी पुढाकार घेतला. त्यामुळे तिचे महत्त्व वाढले."
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतरच्या जगाचे राजकीय स्वरूप स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर जागतिक राजकारणात एकध्रुवीय व्यवस्था निर्माण झाली. अमेरिका ही प्रमुख महासत्ता ठरली. लष्करी संघर्षांपेक्षा आर्थिक स्पर्धेला महत्त्व आले. आंतरराष्ट्रीय संबंध अधिक खुले झाले. अनेक देशांनी लोकशाही आणि भांडवलशाही मार्ग स्वीकारला. जागतिक राजकारणाचे स्वरूप बदलले."
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "जागतिकीकरणाचे फायदे आणि तोटे स्पष्ट करा.",
+      "answer": "जागतिकीकरणामुळे व्यापार आणि आर्थिक सहकार्य वाढले. बाजारपेठांमध्ये विविध वस्तू उपलब्ध झाल्या. माहिती आणि तंत्रज्ञानाचा प्रसार झाला. मात्र त्याचबरोबर गरीब व श्रीमंत देशांतील दरी कायम राहिली. स्थानिक उद्योगांवर स्पर्धेचा ताण वाढला. त्यामुळे जागतिकीकरणाचे फायदे व तोटे दोन्ही दिसून येतात."
+    }
+  ]
+},
+{
+  "questions": [
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील शस्त्रास्त्र नियंत्रणाचे प्रयत्न स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात शस्त्रास्त्र स्पर्धेमुळे जागतिक शांततेला धोका निर्माण झाला. अण्वस्त्रांमुळे होणाऱ्या विनाशाची जाणीव दोन्ही महासत्तांना झाली. त्यामुळे शस्त्रास्त्र नियंत्रणासाठी चर्चा सुरू झाल्या. अण्वस्त्रांची संख्या मर्यादित ठेवण्यासाठी करार करण्यात आले. काही अण्वस्त्र चाचण्यांवर बंदी घालण्यात आली. या प्रयत्नांमुळे तणाव काही प्रमाणात कमी झाला."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील आर्थिक स्पर्धेचे स्वरूप स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात महासत्तांमध्ये आर्थिक स्पर्धाही तीव्र होती. अमेरिका भांडवलशाही अर्थव्यवस्थेचा पुरस्कार करत होती. सोव्हिएत रशिया समाजवादी अर्थव्यवस्थेचा समर्थक होता. दोन्ही देशांनी आपली आर्थिक प्रणाली श्रेष्ठ ठरवण्याचा प्रयत्न केला. लहान राष्ट्रांना आर्थिक मदत देऊन प्रभाव वाढवण्यात आला. त्यामुळे जागतिक अर्थकारणावर शीतयुद्धाचा प्रभाव पडला."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील तंत्रज्ञान प्रगतीचे परिणाम स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात तंत्रज्ञानाच्या क्षेत्रात मोठी प्रगती झाली. लष्करी तंत्रज्ञानाचा वेगाने विकास झाला. अंतराळ संशोधनातही स्पर्धा सुरू झाली. उपग्रह आणि क्षेपणास्त्र तंत्रज्ञान विकसित झाले. या प्रगतीमुळे जीवनाच्या अनेक क्षेत्रांवर परिणाम झाला. मात्र तंत्रज्ञानाचा वापर संहारासाठी होण्याचा धोका वाढला."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "क्यूबाचा संघर्ष (१९६२) शीतयुद्धातील महत्त्वाची घटना का ठरली?",
+      "answer": "क्यूबाचा संघर्ष १९६२ साली घडला. या संघर्षात अमेरिका आणि सोव्हिएत रशिया प्रत्यक्ष युद्धाच्या उंबरठ्यावर आले. क्यूबामध्ये अण्वस्त्रे तैनात केल्यामुळे तणाव वाढला. संपूर्ण जग अणुयुद्धाच्या भीतीखाली होते. शेवटी चर्चेच्या माध्यमातून तोडगा काढण्यात आला. त्यामुळे क्यूबाचा संघर्ष शीतयुद्धातील अत्यंत महत्त्वाची घटना ठरली."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "शीतयुद्ध काळातील विकसनशील देशांची स्थिती स्पष्ट करा.",
+      "answer": "शीतयुद्ध काळात विकसनशील देशांवर महासत्तांचा प्रभाव होता. अनेक देशांना कोणत्या ना कोणत्या गटात सामील व्हावे लागले. आर्थिक व लष्करी मदतीवर त्यांचे अवलंबन वाढले. काही देशांनी अलिप्ततावादी धोरण स्वीकारले. विकासाच्या समस्या कायम राहिल्या. तरीही या देशांनी आपली स्वतंत्र ओळख निर्माण करण्याचा प्रयत्न केला."
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "अलिप्ततावादी चळवळीचे शांततेसाठीचे योगदान स्पष्ट करा.",
+      "answer": "अलिप्ततावादी चळवळीने जागतिक शांततेचा पुरस्कार केला. महासत्तांच्या संघर्षापासून दूर राहण्याचा संदेश दिला. आंतरराष्ट्रीय प्रश्न चर्चेने सोडवण्यावर भर दिला. निःशस्त्रीकरणाचे समर्थन केले. विकसनशील देशांच्या समस्या शांततेच्या मार्गाने मांडल्या. त्यामुळे आंतरराष्ट्रीय शांततेसाठी या चळवळीचे महत्त्व मोठे ठरले."
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर लोकशाहीकरणाची प्रक्रिया स्पष्ट करा.",
+      "answer": "शीतयुद्ध संपल्यानंतर अनेक देशांमध्ये राजकीय बदल झाले. हुकूमशाही राजवटी कोसळल्या. लोकशाही व्यवस्थेचा स्वीकार करण्यात आला. माध्यमांवरील नियंत्रण कमी झाले. नागरिकांना अधिक अधिकार मिळाले. त्यामुळे लोकशाहीकरणाची प्रक्रिया वेगाने पुढे गेली."
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "पूर्व युरोपमधील बदल शीतयुद्धाच्या अखेरीशी कसे संबंधित आहेत?",
+      "answer": "शीतयुद्धाच्या अखेरीस पूर्व युरोपमधील समाजवादी राजवटी कोसळल्या. लोकशाही व भांडवलशाही मार्ग स्वीकारण्यात आला. सोव्हिएत रशियाचा प्रभाव कमी झाला. अनेक देश स्वतंत्र झाले. यामुळे युरोपच्या राजकीय नकाशात मोठे बदल झाले. हे बदल शीतयुद्धाच्या समाप्तीशी थेट संबंधित होते."
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर उदयास आलेल्या एकध्रुवीय व्यवस्थेचे स्वरूप स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर अमेरिका ही एकमेव महासत्ता म्हणून उदयास आली. जागतिक राजकारणात तिचा प्रभाव वाढला. लष्करी आणि आर्थिक शक्ती तिच्याकडे केंद्रीत झाली. आंतरराष्ट्रीय निर्णयांमध्ये अमेरिकेची भूमिका महत्त्वाची ठरली. मात्र इतर देशांनीही आपला प्रभाव वाढवण्याचा प्रयत्न केला. त्यामुळे एकध्रुवीय व्यवस्थेचे स्वरूप काहीसे बदलू लागले."
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतरच्या आंतरराष्ट्रीय संबंधांतील बदल स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर आंतरराष्ट्रीय संबंधांमध्ये मोठे बदल झाले. लष्करी संघर्षांपेक्षा आर्थिक सहकार्याला प्राधान्य मिळाले. व्यापार आणि जागतिकीकरण वाढले. आंतरराष्ट्रीय संघटनांची भूमिका वाढली. पर्यावरण व मानवी हक्क यांसारखे विषय महत्त्वाचे ठरले. आंतरराष्ट्रीय संबंध अधिक बहुआयामी झाले."
+    }
+  ]
+},
+
+{
+  "questions": [
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर पर्यावरण संरक्षणाला जागतिक स्वरूप कसे प्राप्त झाले ते स्पष्ट करा.",
+      "answer": "शीतयुद्धानंतर औद्योगिकीकरण आणि जागतिकीकरण वाढले. यामुळे पर्यावरणावर मोठा ताण पडला. प्रदूषण, हवामान बदल आणि नैसर्गिक संसाधनांचा ऱ्हास हे प्रश्न सर्व देशांना प्रभावित करू लागले. त्यामुळे पर्यावरण संरक्षण हा केवळ राष्ट्रीय न राहता जागतिक प्रश्न ठरला. विविध आंतरराष्ट्रीय करार आणि परिषदांचे आयोजन झाले. पर्यावरण संरक्षणासाठी देशांमध्ये सहकार्य वाढले."
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "मानवी हक्कांचे संरक्षण आंतरराष्ट्रीय राजकारणात का महत्त्वाचे ठरले?",
+      "answer": "दुसऱ्या महायुद्धानंतर मानवी हक्कांचे उल्लंघन मोठ्या प्रमाणावर लक्षात आले. शीतयुद्धानंतर लोकशाही मूल्यांना महत्त्व मिळाले. प्रत्येक व्यक्तीला मूलभूत अधिकार मिळावेत ही भावना बळकट झाली. मानवी हक्कांचे उल्लंघन केवळ एका देशापुरते मर्यादित राहत नाही. त्यामुळे त्याचे आंतरराष्ट्रीय परिणाम होतात. म्हणून मानवी हक्कांचे संरक्षण आंतरराष्ट्रीय राजकारणात महत्त्वाचे ठरले."
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर स्त्री-पुरुष समानतेचा विषय जागतिक स्तरावर कसा पुढे आला?",
+      "answer": "शीतयुद्धानंतर मानवी हक्कांच्या चर्चेला चालना मिळाली. स्त्री-पुरुष समानतेचा प्रश्न याचाच एक भाग होता. शिक्षण, रोजगार आणि राजकीय सहभागात महिलांना समान संधी मिळावी यासाठी प्रयत्न सुरू झाले. आंतरराष्ट्रीय परिषदांमध्ये या विषयावर चर्चा झाली. अनेक देशांनी समानतेसाठी कायदे केले. त्यामुळे स्त्री-पुरुष समानतेचा विषय जागतिक स्तरावर महत्त्वाचा ठरला."
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "नैसर्गिक आपत्तींचा सामना करण्यासाठी आंतरराष्ट्रीय सहकार्य का आवश्यक आहे?",
+      "answer": "नैसर्गिक आपत्तींचे परिणाम अनेक देशांवर एकाच वेळी होतात. भूकंप, पूर, चक्रीवादळे आणि दुष्काळ यांचा व्यापक परिणाम दिसतो. सर्व देशांकडे पुरेशी साधने उपलब्ध नसतात. त्यामुळे मदत, तंत्रज्ञान आणि अनुभवांची देवाणघेवाण आवश्यक ठरते. आंतरराष्ट्रीय संघटनांच्या माध्यमातून सहकार्य शक्य होते. म्हणून नैसर्गिक आपत्तींचा सामना करण्यासाठी आंतरराष्ट्रीय सहकार्य आवश्यक आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "जागतिकीकरणाचा शिक्षण क्षेत्रावर झालेला परिणाम स्पष्ट करा.",
+      "answer": "जागतिकीकरणामुळे शिक्षण क्षेत्रात मोठे बदल झाले. विविध देशांतील ज्ञान आणि माहिती सहज उपलब्ध झाली. उच्च शिक्षणासाठी आंतरराष्ट्रीय संधी वाढल्या. तंत्रज्ञानामुळे ऑनलाइन शिक्षणाचा विस्तार झाला. शिक्षण अधिक स्पर्धात्मक झाले. मात्र शिक्षणातील असमानतेचे प्रश्नही पुढे आले."
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "जागतिकीकरणामुळे रोजगार क्षेत्रात कोणते बदल झाले?",
+      "answer": "जागतिकीकरणामुळे नवीन उद्योग आणि सेवा क्षेत्रे विकसित झाली. आंतरराष्ट्रीय कंपन्यांमुळे रोजगाराच्या संधी वाढल्या. मात्र स्थानिक उद्योगांवर स्पर्धेचा ताण वाढला. काही पारंपरिक रोजगार नष्ट झाले. कौशल्यांना अधिक महत्त्व मिळाले. त्यामुळे रोजगार क्षेत्राचे स्वरूप बदलले."
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "जागतिकीकरणाचा विकसनशील देशांवर झालेला परिणाम स्पष्ट करा.",
+      "answer": "जागतिकीकरणामुळे विकसनशील देशांना जागतिक बाजारपेठ मिळाली. परदेशी गुंतवणूक वाढली. तंत्रज्ञान आणि माहितीचा प्रसार झाला. मात्र मोठ्या कंपन्यांशी स्पर्धा करणे कठीण झाले. गरीब आणि श्रीमंत देशांतील दरी पूर्णपणे कमी झाली नाही. त्यामुळे विकसनशील देशांवर जागतिकीकरणाचा मिश्र परिणाम झाला."
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "शीतयुद्धानंतर आंतरराष्ट्रीय संघटनांचे महत्त्व कसे वाढले?",
+      "answer": "शीतयुद्धानंतर जागतिक प्रश्नांची संख्या वाढली. शांतता, मानवी हक्क, पर्यावरण आणि विकास यांसारख्या मुद्द्यांना महत्त्व आले. या प्रश्नांचे निराकरण एकट्या देशाला शक्य नव्हते. त्यामुळे आंतरराष्ट्रीय संघटनांची भूमिका वाढली. संयुक्त राष्ट्रांसारख्या संघटनांनी पुढाकार घेतला. आंतरराष्ट्रीय सहकार्य अधिक मजबूत झाले."
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "‘वसुधैव कुटुंबकम्’ या मूल्याचे आंतरराष्ट्रीय राजकारणातील महत्त्व स्पष्ट करा.",
+      "answer": "‘वसुधैव कुटुंबकम्’ म्हणजे संपूर्ण जग एक कुटुंब आहे ही संकल्पना होय. या मूल्यामुळे राष्ट्रांमध्ये परस्पर सहकार्याची भावना वाढते. संघर्षाऐवजी संवादाला महत्त्व दिले जाते. जागतिक समस्या सामूहिकरित्या सोडवण्याची प्रेरणा मिळते. शांतता आणि मानवतावादाला चालना मिळते. आंतरराष्ट्रीय राजकारणात हे मूल्य अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "महायुद्धोत्तर राजकीय घडामोडींचा अभ्यास आजच्या काळात का आवश्यक आहे?",
+      "answer": "महायुद्धोत्तर घडामोडींमुळे आजचे जागतिक राजकारण घडले आहे. शीतयुद्ध, जागतिकीकरण आणि आंतरराष्ट्रीय सहकार्य यांची पार्श्वभूमी समजते. युद्धाचे दुष्परिणाम स्पष्ट होतात. शांततेचे महत्त्व अधोरेखित होते. जागतिक समस्यांकडे व्यापक दृष्टिकोनातून पाहता येते. त्यामुळे या घडामोडींचा अभ्यास आजच्या काळात अत्यंत आवश्यक आहे."
+    }
+  ]
+} 
+
+]
+
+}
+
+
+

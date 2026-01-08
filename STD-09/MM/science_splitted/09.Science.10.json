@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.10",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "माहिती संप्रेषण तंत्रज्ञान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ICT म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इंटरनेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहिती व संप्रेषण तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोबाइल",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ICT चा पूर्ण अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Information & Computer Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Information and Communication Technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Internet Communication Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Integrated Computer Tech",
+          "is_correct": false
+        }
+      ],
+      "answer": "Information and Communication Technology"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ICT चे साधन आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टपाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "ई-मेल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "इंटरनेटचा उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माहिती मिळवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संप्रेषणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ई-मेल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनिक पत्रव्यवहार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मोबाइल सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोशल मीडिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेबसाइट",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनिक पत्रव्यवहार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "व्हिडिओ कॉन्फरन्सिंगचा उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरस्थ संवाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खरेदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दूरस्थ संवाद"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ऑनलाईन शिक्षण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाळेत शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरस्थ शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "दूरस्थ शिक्षण"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "डिजिटल इंडिया हा उपक्रम कोणत्या क्षेत्राशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ICT",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ICT"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ई-गव्हर्नन्स म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरकारी कामे कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल पद्धतीने सरकारी सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खाजगी सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल पद्धतीने सरकारी सेवा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते सोशल मीडिया आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एमएस वर्ड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एक्सेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फेसबुक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पॉवरपॉईंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "फेसबुक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डेटा साठवण ऑनलाईन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डेटा नष्ट करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑफलाईन स्टोरेज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रिंटिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "डेटा साठवण ऑनलाईन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सायबर सुरक्षा कशासाठी आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डेटा संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खरेदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "डेटा संरक्षण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सायबर गुन्हा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑनलाईन खरेदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल चोरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सॉफ्टवेअर",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल चोरी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ऑनलाईन बँकिंगचा फायदा काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ वाचतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुलभ व्यवहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ई-कॉमर्स म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑनलाईन व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऑनलाईन शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑनलाईन गेम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऑनलाईन सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑनलाईन व्यापार"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ICT म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इंटरनेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहिती व संप्रेषण तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोबाइल",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ICT चा पूर्ण अर्थ काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Information & Computer Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Information and Communication Technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Internet Communication Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Integrated Computer Tech",
+          "is_correct": false
+        }
+      ],
+      "answer": "Information and Communication Technology"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ICT चे साधन आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टपाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "ई-मेल"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "इंटरनेटचा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माहिती मिळवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संप्रेषणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ई-मेल म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनिक पत्रव्यवहार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मोबाइल सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोशल मीडिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेबसाइट",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनिक पत्रव्यवहार"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "व्हिडिओ कॉन्फरन्सिंगचा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरस्थ संवाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खरेदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दूरस्थ संवाद"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ऑनलाईन शिक्षण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाळेत शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरस्थ शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "दूरस्थ शिक्षण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "डिजिटल इंडिया हा उपक्रम कोणत्या क्षेत्राशी संबंधित आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ICT",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ICT"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ई-गव्हर्नन्स म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरकारी कामे कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल पद्धतीने सरकारी सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खाजगी सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल पद्धतीने सरकारी सेवा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते सोशल मीडिया आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एमएस वर्ड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एक्सेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फेसबुक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पॉवरपॉईंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "फेसबुक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डेटा साठवण ऑनलाईन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डेटा नष्ट करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑफलाईन स्टोरेज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रिंटिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "डेटा साठवण ऑनलाईन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सायबर सुरक्षा कशासाठी आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डेटा संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खरेदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "डेटा संरक्षण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सायबर गुन्हा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑनलाईन खरेदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल चोरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सॉफ्टवेअर",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल चोरी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ऑनलाईन बँकिंगचा फायदा काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ वाचतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुलभ व्यवहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ई-कॉमर्स म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑनलाईन व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऑनलाईन शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑनलाईन गेम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऑनलाईन सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑनलाईन व्यापार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ICT म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इंटरनेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहिती व संप्रेषण तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोबाइल",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "ICT चा पूर्ण अर्थ काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Information & Computer Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Information and Communication Technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Internet Communication Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Integrated Computer Tech",
+          "is_correct": false
+        }
+      ],
+      "answer": "Information and Communication Technology"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ICT चे साधन आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टपाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "ई-मेल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "इंटरनेटचा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माहिती मिळवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संप्रेषणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ई-मेल म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनिक पत्रव्यवहार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मोबाइल सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोशल मीडिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेबसाइट",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनिक पत्रव्यवहार"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "व्हिडिओ कॉन्फरन्सिंगचा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरस्थ संवाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खरेदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दूरस्थ संवाद"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ऑनलाईन शिक्षण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाळेत शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरस्थ शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "दूरस्थ शिक्षण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "डिजिटल इंडिया हा उपक्रम कोणत्या क्षेत्राशी संबंधित आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ICT",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ICT"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "ई-गव्हर्नन्स म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरकारी कामे कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल पद्धतीने सरकारी सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खाजगी सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल पद्धतीने सरकारी सेवा"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते सोशल मीडिया आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एमएस वर्ड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एक्सेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फेसबुक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पॉवरपॉईंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "फेसबुक"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डेटा साठवण ऑनलाईन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डेटा नष्ट करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑफलाईन स्टोरेज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रिंटिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "डेटा साठवण ऑनलाईन"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सायबर सुरक्षा कशासाठी आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डेटा संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खरेदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "डेटा संरक्षण"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सायबर गुन्हा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑनलाईन खरेदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल चोरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सॉफ्टवेअर",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल चोरी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "ऑनलाईन बँकिंगचा फायदा काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ वाचतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुलभ व्यवहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "ई-कॉमर्स म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑनलाईन व्यापार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ऑनलाईन शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑनलाईन गेम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऑनलाईन सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑनलाईन व्यापार"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "ICT म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इंटरनेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहिती व संप्रेषण तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोबाइल",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ICT चा पूर्ण अर्थ काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Information & Computer Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Information and Communication Technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Internet Communication Tech",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Integrated Computer Tech",
+          "is_correct": false
+        }
+      ],
+      "answer": "Information and Communication Technology"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ICT चे साधन आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टपाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ई-मेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "ई-मेल"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "इंटरनेटचा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माहिती मिळवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संप्रेषणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ई-मेल म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉनिक पत्रव्यवहार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मोबाइल सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोशल मीडिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेबसाइट",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉनिक पत्रव्यवहार"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ICT म्हणजे काय?",
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान म्हणजे ICT."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "ICT चे उपयोग लिहा.",
+      "answer": "शिक्षण, बँकिंग, आरोग्य, प्रशासन."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ई-मेल म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनिक पद्धतीने पत्रव्यवहार."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "इंटरनेट म्हणजे काय?",
+      "answer": "जागतिक संगणक जाळे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सोशल मीडिया म्हणजे काय?",
+      "answer": "ऑनलाईन संवादाचे माध्यम."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन शिक्षण म्हणजे काय?",
+      "answer": "इंटरनेटद्वारे शिक्षण."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ई-गव्हर्नन्स म्हणजे काय?",
+      "answer": "डिजिटल सरकारी सेवा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "डिजिटल इंडिया म्हणजे काय?",
+      "answer": "डिजिटल सेवा वाढवण्याचा उपक्रम."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सायबर सुरक्षा म्हणजे काय?",
+      "answer": "डिजिटल माहितीचे संरक्षण."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हा म्हणजे काय?",
+      "answer": "ऑनलाईन माध्यमातून होणारा गुन्हा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे काय?",
+      "answer": "ऑनलाईन खरेदी-विक्री."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन बँकिंग म्हणजे काय?",
+      "answer": "इंटरनेटद्वारे बँकिंग सेवा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे काय?",
+      "answer": "डेटा ऑनलाईन साठवण."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंग म्हणजे काय?",
+      "answer": "दूरस्थ व्हिडिओ संवाद."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मोबाइल अ‍ॅप म्हणजे काय?",
+      "answer": "मोबाइलवरील सॉफ्टवेअर."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "डिजिटल व्यवहार म्हणजे काय?",
+      "answer": "ऑनलाईन पैसे व्यवहार."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "OTP म्हणजे काय?",
+      "answer": "एकवेळ वापरायचा पासवर्ड."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सायबर बुलिंग म्हणजे काय?",
+      "answer": "ऑनलाईन छळ."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन फसवणूक म्हणजे काय?",
+      "answer": "डिजिटल फसवणूक."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "डेटा म्हणजे काय?",
+      "answer": "माहितीचा संग्रह."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ICT म्हणजे  स्पष्ट करा.",
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान म्हणजे ICT."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "ICT चे उपयोग लिहा.",
+      "answer": "शिक्षण, बँकिंग, आरोग्य, प्रशासन."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ई-मेल म्हणजे  स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉनिक पद्धतीने पत्रव्यवहार."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "इंटरनेट म्हणजे  स्पष्ट करा.",
+      "answer": "जागतिक संगणक जाळे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सोशल मीडिया म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन संवादाचे माध्यम."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन शिक्षण म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे शिक्षण."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "ई-गव्हर्नन्स म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सरकारी सेवा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "डिजिटल इंडिया म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सेवा वाढवण्याचा उपक्रम."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सायबर सुरक्षा म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल माहितीचे संरक्षण."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हा म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन माध्यमातून होणारा गुन्हा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन खरेदी-विक्री."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन बँकिंग म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे बँकिंग सेवा."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे  स्पष्ट करा.",
+      "answer": "डेटा ऑनलाईन साठवण."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंग म्हणजे  स्पष्ट करा.",
+      "answer": "दूरस्थ व्हिडिओ संवाद."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मोबाइल अ‍ॅप म्हणजे  स्पष्ट करा.",
+      "answer": "मोबाइलवरील सॉफ्टवेअर."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "डिजिटल व्यवहार म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन पैसे व्यवहार."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "OTP म्हणजे  स्पष्ट करा.",
+      "answer": "एकवेळ वापरायचा पासवर्ड."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "सायबर बुलिंग म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन छळ."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन फसवणूक म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल फसवणूक."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "डेटा म्हणजे  स्पष्ट करा.",
+      "answer": "माहितीचा संग्रह."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ICT म्हणजे  स्पष्ट करा.",
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान म्हणजे ICT."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ICT चे उपयोग लिहा.",
+      "answer": "शिक्षण, बँकिंग, आरोग्य, प्रशासन."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ई-मेल म्हणजे  स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉनिक पद्धतीने पत्रव्यवहार."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "इंटरनेट म्हणजे  स्पष्ट करा.",
+      "answer": "जागतिक संगणक जाळे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सोशल मीडिया म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन संवादाचे माध्यम."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन शिक्षण म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे शिक्षण."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "ई-गव्हर्नन्स म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सरकारी सेवा."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "डिजिटल इंडिया म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सेवा वाढवण्याचा उपक्रम."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सायबर सुरक्षा म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल माहितीचे संरक्षण."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हा म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन माध्यमातून होणारा गुन्हा."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन खरेदी-विक्री."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन बँकिंग म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे बँकिंग सेवा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे  स्पष्ट करा.",
+      "answer": "डेटा ऑनलाईन साठवण."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंग म्हणजे  स्पष्ट करा.",
+      "answer": "दूरस्थ व्हिडिओ संवाद."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मोबाइल अ‍ॅप म्हणजे  स्पष्ट करा.",
+      "answer": "मोबाइलवरील सॉफ्टवेअर."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "डिजिटल व्यवहार म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन पैसे व्यवहार."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "OTP म्हणजे  स्पष्ट करा.",
+      "answer": "एकवेळ वापरायचा पासवर्ड."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "सायबर बुलिंग म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन छळ."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन फसवणूक म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल फसवणूक."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "डेटा म्हणजे  स्पष्ट करा.",
+      "answer": "माहितीचा संग्रह."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "ICT म्हणजे  स्पष्ट करा.",
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान म्हणजे ICT."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "ICT चे उपयोग लिहा.",
+      "answer": "शिक्षण, बँकिंग, आरोग्य, प्रशासन."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "ई-मेल म्हणजे  स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉनिक पद्धतीने पत्रव्यवहार."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "इंटरनेट म्हणजे  स्पष्ट करा.",
+      "answer": "जागतिक संगणक जाळे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "सोशल मीडिया म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन संवादाचे माध्यम."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन शिक्षण म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे शिक्षण."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "ई-गव्हर्नन्स म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सरकारी सेवा."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "डिजिटल इंडिया म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सेवा वाढवण्याचा उपक्रम."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "सायबर सुरक्षा म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल माहितीचे संरक्षण."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हा म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन माध्यमातून होणारा गुन्हा."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन खरेदी-विक्री."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन बँकिंग म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे बँकिंग सेवा."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे  स्पष्ट करा.",
+      "answer": "डेटा ऑनलाईन साठवण."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंग म्हणजे  स्पष्ट करा.",
+      "answer": "दूरस्थ व्हिडिओ संवाद."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "मोबाइल अ‍ॅप म्हणजे  स्पष्ट करा.",
+      "answer": "मोबाइलवरील सॉफ्टवेअर."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "डिजिटल व्यवहार म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन पैसे व्यवहार."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "OTP म्हणजे  स्पष्ट करा.",
+      "answer": "एकवेळ वापरायचा पासवर्ड."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "सायबर बुलिंग म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन छळ."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन फसवणूक म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल फसवणूक."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "डेटा म्हणजे  स्पष्ट करा.",
+      "answer": "माहितीचा संग्रह."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "ICT म्हणजे  स्पष्ट करा.",
+      "answer": "माहिती व संप्रेषण तंत्रज्ञान म्हणजे ICT."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "ICT चे उपयोग लिहा.",
+      "answer": "शिक्षण, बँकिंग, आरोग्य, प्रशासन."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "ई-मेल म्हणजे  स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉनिक पद्धतीने पत्रव्यवहार."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "इंटरनेट म्हणजे  स्पष्ट करा.",
+      "answer": "जागतिक संगणक जाळे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "सोशल मीडिया म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन संवादाचे माध्यम."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन शिक्षण म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे शिक्षण."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "ई-गव्हर्नन्स म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सरकारी सेवा."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "डिजिटल इंडिया म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल सेवा वाढवण्याचा उपक्रम."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "सायबर सुरक्षा म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल माहितीचे संरक्षण."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "सायबर गुन्हा म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन माध्यमातून होणारा गुन्हा."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "ई-कॉमर्स म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन खरेदी-विक्री."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन बँकिंग म्हणजे  स्पष्ट करा.",
+      "answer": "इंटरनेटद्वारे बँकिंग सेवा."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "क्लाउड कम्प्युटिंग म्हणजे  स्पष्ट करा.",
+      "answer": "डेटा ऑनलाईन साठवण."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "व्हिडिओ कॉन्फरन्सिंग म्हणजे  स्पष्ट करा.",
+      "answer": "दूरस्थ व्हिडिओ संवाद."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "मोबाइल अ‍ॅप म्हणजे  स्पष्ट करा.",
+      "answer": "मोबाइलवरील सॉफ्टवेअर."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "डिजिटल व्यवहार म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन पैसे व्यवहार."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "OTP म्हणजे  स्पष्ट करा.",
+      "answer": "एकवेळ वापरायचा पासवर्ड."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "सायबर बुलिंग म्हणजे  स्पष्ट करा.",
+      "answer": "ऑनलाईन छळ."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन फसवणूक म्हणजे  स्पष्ट करा.",
+      "answer": "डिजिटल फसवणूक."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "डेटा म्हणजे  स्पष्ट करा.",
+      "answer": "माहितीचा संग्रह."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे?",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "ICT चे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ICT मुळे माहितीचा वेगवान प्रसार होतो. शिक्षण, आरोग्य, व्यापार व प्रशासन क्षेत्रात कार्यक्षमता वाढते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "ई-गव्हर्नन्स सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ई-गव्हर्नन्समुळे सरकारी सेवा पारदर्शक व सुलभ होतात. नागरिकांना ऑनलाईन सुविधा मिळतात."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "डिजिटल इंडिया उपक्रमाचे उद्दिष्टे लिहा. सविस्तर लिहा.",
+      "answer": "डिजिटल पायाभूत सुविधा वाढवणे, डिजिटल साक्षरता वाढवणे हे उद्दिष्ट आहे."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "सायबर सुरक्षा का आवश्यक आहे? सविस्तर लिहा.",
+      "answer": "डिजिटल माहिती चोरी व फसवणूक टाळण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "ICT चा शिक्षण क्षेत्रातील उपयोग स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ऑनलाईन शिक्षण, ई-लर्निंग व व्हर्च्युअल क्लासरूम शक्य झाले आहेत."
+    }
+  ]
+}

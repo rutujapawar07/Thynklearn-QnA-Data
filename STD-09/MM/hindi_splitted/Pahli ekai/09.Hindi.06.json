@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.06",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "ऐ सखि!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'ऐ सखि!' पूरक पठन के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "कबीर", "is_correct": false },
+        { "option_id": 2, "text": "अमीर खुसरो", "is_correct": true },
+        { "option_id": 3, "text": "रहीम", "is_correct": false },
+        { "option_id": 4, "text": "सूरदास", "is_correct": false }
+      ],
+      "answer": "अमीर खुसरो"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रात के समय आकर भोर होते ही कौन चला जाता है?",
+      "options": [
+        { "option_id": 1, "text": "साजन", "is_correct": false },
+        { "option_id": 2, "text": "तारा", "is_correct": true },
+        { "option_id": 3, "text": "चोर", "is_correct": false },
+        { "option_id": 4, "text": "सपना", "is_correct": false }
+      ],
+      "answer": "तारा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "किसके आने पर शादी होती है?",
+      "options": [
+        { "option_id": 1, "text": "साजन", "is_correct": false },
+        { "option_id": 2, "text": "पंडित", "is_correct": false },
+        { "option_id": 3, "text": "ढोल", "is_correct": true },
+        { "option_id": 4, "text": "मेहमान", "is_correct": false }
+      ],
+      "answer": "ढोल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अमीर खुसरो किस बोली के लोकप्रिय कवि हैं?",
+      "options": [
+        { "option_id": 1, "text": "अवधी", "is_correct": false },
+        { "option_id": 2, "text": "खड़ी बोली", "is_correct": true },
+        { "option_id": 3, "text": "ब्रजभाषा", "is_correct": false },
+        { "option_id": 4, "text": "मैथिली", "is_correct": false }
+      ],
+      "answer": "खड़ी बोली"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "माँगने पर जल भरकर कौन लाता है?",
+      "options": [
+        { "option_id": 1, "text": "नौकर", "is_correct": false },
+        { "option_id": 2, "text": "लोटा", "is_correct": true },
+        { "option_id": 3, "text": "साजन", "is_correct": false },
+        { "option_id": 4, "text": "नल", "is_correct": false }
+      ],
+      "answer": "लोटा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सोते समय बार-बार जगाकर कौन काटता है?",
+      "options": [
+        { "option_id": 1, "text": "मच्छर", "is_correct": false },
+        { "option_id": 2, "text": "मक्खी", "is_correct": true },
+        { "option_id": 3, "text": "चींटी", "is_correct": false },
+        { "option_id": 4, "text": "खटमल", "is_correct": false }
+      ],
+      "answer": "मक्खी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "राम भजन बिन कौन कभी नहीं सोता?",
+      "options": [
+        { "option_id": 1, "text": "भक्त", "is_correct": false },
+        { "option_id": 2, "text": "साजन", "is_correct": false },
+        { "option_id": 3, "text": "तोता", "is_correct": true },
+        { "option_id": 4, "text": "साधु", "is_correct": false }
+      ],
+      "answer": "तोता"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अर्धरात्रि को भवन में कौन आता है जिससे मन आनंदित होता है?",
+      "options": [
+        { "option_id": 1, "text": "चोर", "is_correct": false },
+        { "option_id": 2, "text": "चंद (चंद्रमा)", "is_correct": true },
+        { "option_id": 3, "text": "मेहमान", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "चंद (चंद्रमा)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आँखों से एक पल के लिए भी कौन दूर नहीं होता?",
+      "options": [
+        { "option_id": 1, "text": "चश्मा", "is_correct": false },
+        { "option_id": 2, "text": "अंजन (काजल)", "is_correct": true },
+        { "option_id": 3, "text": "आँसू", "is_correct": false },
+        { "option_id": 4, "text": "साजन", "is_correct": false }
+      ],
+      "answer": "अंजन (काजल)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'मुकरियाँ' साहित्य की किस विधा का रूप हैं?",
+      "options": [
+        { "option_id": 1, "text": "कहानी", "is_correct": false },
+        { "option_id": 2, "text": "पहेलियाँ", "is_correct": true },
+        { "option_id": 3, "text": "नाटक", "is_correct": false },
+        { "option_id": 4, "text": "उपन्यास", "is_correct": false }
+      ],
+      "answer": "पहेलियाँ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'भौन' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "भौंरा", "is_correct": false },
+        { "option_id": 2, "text": "भवन", "is_correct": true },
+        { "option_id": 3, "text": "भोला", "is_correct": false },
+        { "option_id": 4, "text": "सुबह", "is_correct": false }
+      ],
+      "answer": "भवन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लोटा मन का कैसा है?",
+      "options": [
+        { "option_id": 1, "text": "हल्का", "is_correct": false },
+        { "option_id": 2, "text": "भारी", "is_correct": true },
+        { "option_id": 3, "text": "छोटा", "is_correct": false },
+        { "option_id": 4, "text": "कच्चा", "is_correct": false }
+      ],
+      "answer": "भारी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'अचरज' का सही अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "अचार", "is_correct": false },
+        { "option_id": 2, "text": "आश्चर्य", "is_correct": true },
+        { "option_id": 3, "text": "अंधेरा", "is_correct": false },
+        { "option_id": 4, "text": "अकेला", "is_correct": false }
+      ],
+      "answer": "आश्चर्य"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'हिय' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "हाथ", "is_correct": false },
+        { "option_id": 2, "text": "हृदय", "is_correct": true },
+        { "option_id": 3, "text": "हिम्मत", "is_correct": false },
+        { "option_id": 4, "text": "हार", "is_correct": false }
+      ],
+      "answer": "हृदय"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अमीर खुसरो किसका आविष्कारक माने जाते हैं?",
+      "options": [
+        { "option_id": 1, "text": "तबला", "is_correct": false },
+        { "option_id": 2, "text": "सितार", "is_correct": true },
+        { "option_id": 3, "text": "बाँसुरी", "is_correct": false },
+        { "option_id": 4, "text": "हारमोनियम", "is_correct": false }
+      ],
+      "answer": "सितार"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "मुकरियाँ किसे कहते हैं?",
+      "answer": "मुकरियाँ लोक प्रचलित पहेलियों का ही एक रूप है जिसका लक्ष्य मनोरंजन के साथ-साथ बुद्धिचातुर्य की परीक्षा लेना होता है। इसमें एक सखी प्रश्न पूछती है जिसमें साजन का संकेत होता है, लेकिन दूसरी सखी उसका उत्तर किसी वस्तु या प्राणी के रूप में देती है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "'रात समय वह मेरे आवे' - इस मुकरी का उत्तर क्या है और क्यों?",
+      "answer": "इस मुकरी का उत्तर 'तारा' है। क्योंकि तारे रात में आते हैं और भोर होते ही गायब हो जाते हैं, जो कि साजन (पति) के लिए सामान्यतः संभव नहीं है।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "अमीर खुसरो का जन्म कब और कहाँ हुआ था?",
+      "answer": "अमीर खुसरो का जन्म १२५३ ई. में पटियाला, एटा (उत्तर प्रदेश) में हुआ था।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "लोटे की विशेषताएँ मुकरी में क्या बताई गई हैं?",
+      "answer": "मुकरी में बताया गया है कि लोटा माँगने पर जल भरकर लाता है, मन की तपन (प्यास/गर्मी) बुझाता है, वह 'मन का भारी' है और 'तन का छोटा' है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "तोते का रंग-रूप कैसा बताया गया है?",
+      "answer": "तोते को अति सुरंग (सुंदर रंग वाला) और रंग-रंगीला बताया गया है। वह गुणवान है, बहुत चटकीला है और राम-भजन के बिना कभी नहीं सोता।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "ढोल के बारे में क्या कहा गया है?",
+      "answer": "ढोल के बारे में कहा गया है कि वह आता है तभी शादी होती है, उस दिन उसके अलावा कोई दूसरा महत्त्वपूर्ण नहीं होता और उसके बोल मीठे लगते हैं।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "'व्याकुल हुई मैं हक्की-बक्की' - नायिका क्यों व्याकुल हो गई?",
+      "answer": "नायिका मक्खी के कारण व्याकुल और हक्की-बक्की हो गई क्योंकि वह बार-बार सोते समय जगा देती है और न जागने पर काट खाती है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'अर्धनिशा' का अर्थ क्या है?",
+      "answer": "'अर्धनिशा' का अर्थ है आधी रात।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "काजल (अंजन) क्या करता है?",
+      "answer": "काजल सदा शोभा बढ़ाता है, आँखों से एक पल के लिए भी अलग नहीं होता और आठों पहर (हर समय) मनोरंजन (सुंदरता) करता है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "अमीर खुसरो की किन्हीं दो प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "अमीर खुसरो की प्रमुख कृतियाँ हैं - 'तुहफा-तुस-सिगर', 'वसतुल-हयात', 'दोहे', 'कह मुकरियाँ' आदि।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "अमीर खुसरो की मुकरियों की भाषा-शैली और विशेषताएँ स्पष्ट कीजिए।",
+      "answer": "अमीर खुसरो अपनी मुकरियों में लोकभाषा और खड़ी बोली का प्रयोग करते हैं। उनकी शैली विनोदी और चतुर है। हर मुकरी में नायिका अपनी सखी से एक पहेली पूछती है। पहेली का वर्णन ऐसा होता है कि उत्तर 'साजन' (पति/प्रेमी) लगता है, लेकिन अंत में नायिका मुकर जाती है और उत्तर कोई वस्तु या प्राणी निकलता है (जैसे लोटा, ढोल, तारा आदि)। यह 'कहकर मुकर जाना' ही इस विधा की विशेषता है जो श्रोता को चौंकाती है और मनोरंजन करती है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "'ऐ सखि साजन? ना सखि चंद' - इस मुकरी का भावार्थ अपने शब्दों में लिखिए।",
+      "answer": "इस मुकरी में नायिका कहती है कि वह आधी रात को मेरे भवन (घर) में आया। उसकी सुंदरता का वर्णन कोई कवि भी नहीं कर सकता। उसे देखते ही मेरा मन आनंद से भर गया। सखी पूछती है कि क्या वह साजन है? तो नायिका उत्तर देती है - नहीं सखी, वह 'चाँद' है। यहाँ चाँद और साजन दोनों के आने से मन में होने वाले आनंद की तुलना की गई है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "लोटा और साजन में क्या समानता और विरोधाभास मुकरी के माध्यम से व्यक्त हुआ है?",
+      "answer": "मुकरी में कहा गया है कि जब माँगते हैं तो जल भरकर लाता है और मन की तपन (प्यास या विरह की वेदना) बुझाता है। यह बात साजन और लोटा दोनों पर लागू हो सकती है। लेकिन आगे कहा गया है 'मन का भारी, तन का छोटा'। साजन 'मन का भारी' (गंभीर) हो सकता है, लेकिन 'तन का छोटा' विशेषण लोटे पर ही सटीक बैठता है। अंत में उत्तर 'लोटा' देकर साजन होने की संभावना को नकार दिया जाता है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "ढोल वाली मुकरी का अर्थ स्पष्ट करते हुए बताइए कि वह साजन क्यों नहीं है?",
+      "answer": "मुकरी में कहा गया है कि जब वह आता है तभी शादी होती है और उस दिन उसके सिवा कोई दूसरा नहीं होता। उसके बोल भी मीठे लगते हैं। यह सुनकर लगता है कि यह दूल्हा (साजन) है क्योंकि दूल्हे के आने पर ही शादी होती है। लेकिन सखी द्वारा 'साजन' पूछने पर नायिका कहती है 'ना सखि ढोल'। क्योंकि शादी के समय ढोल का बजना अनिवार्य होता है और उसकी आवाज मंगलसूचक और मीठी लगती है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "अमीर खुसरो का हिंदी साहित्य में क्या योगदान है?",
+      "answer": "अमीर खुसरो हिंदी साहित्य के आदिकाल के प्रमुख कवि हैं। उन्हें खड़ी बोली हिंदी का प्रथम कवि माना जाता है। उन्होंने हिंदी, हिंदवी और फारसी में एक साथ लिखा। उन्होंने भारतीय संगीत में ध्रुपद के स्थान पर 'कव्वाली' और 'सितार' का आविष्कार किया। उनकी पहेलियाँ, मुकरियाँ, दोहे और गीत आज भी जनमानस में अत्यंत लोकप्रिय हैं। उन्होंने अपनी रचनाओं के माध्यम से हिंदू-मुस्लिम संस्कृति के समन्वय का प्रयास किया।"
+    }
+  ]
+}

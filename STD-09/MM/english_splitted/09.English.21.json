@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.21",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Language Study"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "played",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "to play",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "plays",
+          "is_correct": false
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is a determiner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "some",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "quickly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "beautiful",
+          "is_correct": false
+        }
+      ],
+      "answer": "some"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "played",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "plays",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "to play",
+          "is_correct": true
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence contains a preposition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cat sat on the mat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Birds fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He ran fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She laughed loudly",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cat sat on the mat"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sentence contains a preposition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He ran fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "She laughed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Birds fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The cat sat on the mat",
+          "is_correct": true
+        }
+      ],
+      "answer": "The cat sat on the mat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Pick the adjective:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "almost",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "runs",
+          "is_correct": false
+        }
+      ],
+      "answer": "tall"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is a homophone pair?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "run / ran",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cat / dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sea / see",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "big / bigger",
+          "is_correct": false
+        }
+      ],
+      "answer": "sea / see"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Pick the adjective:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "runs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "almost",
+          "is_correct": false
+        }
+      ],
+      "answer": "tall"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Pick the correct verb tense:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She wrote tomorrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "She is writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "She writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She write",
+          "is_correct": false
+        }
+      ],
+      "answer": "She is writing"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which shows degree of comparison?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "taller",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tallest?",
+          "is_correct": false
+        }
+      ],
+      "answer": "taller"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is abstract noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "shirt",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "honesty",
+          "is_correct": true
+        }
+      ],
+      "answer": "honesty"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "pink",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "because",
+          "is_correct": true
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pink",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "because",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "under",
+          "is_correct": false
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "to play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "played",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "plays",
+          "is_correct": false
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "kind",
+          "is_correct": false
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Pick the correct verb tense:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She is writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She write",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She wrote tomorrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "She is writing"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which word is abstract noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "shirt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "honesty",
+          "is_correct": true
+        }
+      ],
+      "answer": "honesty"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "can",
+          "is_correct": true
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which shows degree of comparison?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "taller",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "tallest?",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tall",
+          "is_correct": false
+        }
+      ],
+      "answer": "taller"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "because",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pink",
+          "is_correct": false
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which sentence contains a preposition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He ran fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birds fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She laughed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The cat sat on the mat",
+          "is_correct": true
+        }
+      ],
+      "answer": "The cat sat on the mat"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which is a homophone pair?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "run / ran",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cat / dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "big / bigger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sea / see",
+          "is_correct": true
+        }
+      ],
+      "answer": "sea / see"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "because",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pink",
+          "is_correct": false
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Pick the correct verb tense:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "She write",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She wrote tomorrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She is writing",
+          "is_correct": true
+        }
+      ],
+      "answer": "She is writing"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which shows degree of comparison?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "taller",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tallest?",
+          "is_correct": false
+        }
+      ],
+      "answer": "taller"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "to play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "plays",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "played",
+          "is_correct": false
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "kind",
+          "is_correct": false
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pink",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "because",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "under",
+          "is_correct": false
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Pick the correct verb tense:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She write",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "She writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She is writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "She wrote tomorrow",
+          "is_correct": false
+        }
+      ],
+      "answer": "She is writing"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which is a determiner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "quickly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "some",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "beautiful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "some"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "pink",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "because",
+          "is_correct": true
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which is a determiner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "beautiful",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "some",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "sing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "quickly",
+          "is_correct": false
+        }
+      ],
+      "answer": "some"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which word is abstract noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "table",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shirt",
+          "is_correct": false
+        }
+      ],
+      "answer": "honesty"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which is a determiner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "some",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "beautiful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "quickly",
+          "is_correct": false
+        }
+      ],
+      "answer": "some"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Select the conjunction:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "quiet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "pink",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "because",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "under",
+          "is_correct": false
+        }
+      ],
+      "answer": "because"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Pick the adjective:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "runs",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "almost",
+          "is_correct": false
+        }
+      ],
+      "answer": "tall"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "under",
+          "is_correct": false
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "to play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "plays",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "played",
+          "is_correct": false
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word is abstract noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "shirt",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "table",
+          "is_correct": false
+        }
+      ],
+      "answer": "honesty"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "to play",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "plays",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "played",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which shows degree of comparison?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tall",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "taller",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "tallest?",
+          "is_correct": false
+        }
+      ],
+      "answer": "taller"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which sentence contains a preposition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He ran fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birds fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She laughed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The cat sat on the mat",
+          "is_correct": true
+        }
+      ],
+      "answer": "The cat sat on the mat"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which word is abstract noun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "honesty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "table",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "shirt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cat",
+          "is_correct": false
+        }
+      ],
+      "answer": "honesty"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which sentence contains a preposition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He ran fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The cat sat on the mat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Birds fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She laughed loudly",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cat sat on the mat"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Choose the modal verb:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "can",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "under",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "kind",
+          "is_correct": false
+        }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Find the correct infinitive:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "played",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "plays",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "to play",
+          "is_correct": true
+        }
+      ],
+      "answer": "to play"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Pick the correct verb tense:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She write",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "She writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She wrote tomorrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She is writing",
+          "is_correct": true
+        }
+      ],
+      "answer": "She is writing"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Pick the adjective:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "runs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "almost",
+          "is_correct": false
+        }
+      ],
+      "answer": "tall"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 51)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 52)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 53)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 54)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 55)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 56)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 57)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 58)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 59)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 60)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 61)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 62)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 63)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 64)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 65)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 66)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 67)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 68)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 69)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 70)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 71)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 72)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 73)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 74)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 75)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 76)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 77)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 78)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 79)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 80)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 81)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 82)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 83)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 84)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 85)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 86)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 87)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 88)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 89)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 90)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 91)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 92)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 93)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 94)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 95)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 96)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 97)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 98)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 99)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 100)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 101)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 102)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 103)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 104)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 105)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 106)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 107)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 108)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 109)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 110)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 111)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 112)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 113)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 114)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 115)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 116)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 117)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 118)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 119)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 120)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 121)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 122)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 123)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 124)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 125)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 126)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 127)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 128)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 129)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 130)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 131)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 132)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 133)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 134)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 135)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 136)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 137)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 138)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 139)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 140)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Define a determiner. (Variant 141)",
+      "answer": "A word placed before a noun to limit its meaning."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Give two examples of prepositions. (Variant 142)",
+      "answer": "On, under, beside, above, in."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is an infinitive? (Variant 143)",
+      "answer": "The base verb with 'to', used as a noun or action."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why are homophones confusing? (Variant 144)",
+      "answer": "They sound alike but have different meanings."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How do modals show ability? (Variant 145)",
+      "answer": "Modals like can/could express what someone is able to do."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is tense important? (Variant 146)",
+      "answer": "It shows when an action happens."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What do conjunctions connect? (Variant 147)",
+      "answer": "Words like and/because link ideas or sentences."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why use adjectives? (Variant 148)",
+      "answer": "To describe nouns and add detail."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is a pronoun? (Variant 149)",
+      "answer": "A word replacing a noun such as he, she, it."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Give one example of degree of comparison. (Variant 150)",
+      "answer": "Tall, taller, tallest show increasing degree."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 151)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 152)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 153)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 154)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 155)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 156)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 157)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 158)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 159)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 160)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 161)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 162)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 163)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 164)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 165)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 166)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 167)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 168)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 169)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 170)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 171)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 172)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 173)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 174)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 175)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 176)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 177)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 178)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 179)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 180)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 181)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 182)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 183)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 184)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 185)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 186)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 187)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 188)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 189)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 190)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 191)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 192)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 193)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 194)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 195)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain how determiners, adjectives and nouns work together in sentences. (Insight 196)",
+      "answer": "Determiners narrow meaning, adjectives colour the noun and nouns name the object, helping build complete ideas."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Describe the purpose of modal verbs with examples. (Insight 197)",
+      "answer": "Modals add meanings like ability, permission or necessity\u2014e.g., students can learn languages or must study rules."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "How can students master homophones effectively? (Insight 198)",
+      "answer": "By reading, practising usage and memorising meaning pairs, confusion reduces."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Why do grammar rules support clear communication? (Insight 199)",
+      "answer": "Grammar gives structure so ideas are shared accurately and understood everywhere."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Discuss the role of tenses in storytelling and conversation. (Insight 200)",
+      "answer": "Tenses place events in time and allow speakers to share past, present or future clearly."
+    }
+  ]
+}

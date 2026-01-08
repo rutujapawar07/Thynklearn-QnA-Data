@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.12",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "ध्वनीचा अभ्यास"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ध्वनी म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनामुळे निर्माण होणारी संवेदना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनामुळे निर्माण होणारी संवेदना"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्माण होण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ध्वनी कोणत्या माध्यमात प्रवास करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निर्वात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घन, द्रव व वायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन, द्रव व वायू"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्वातात का प्रवास करत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माध्यम नसते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "माध्यम नसते"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ध्वनीची तीव्रता कोणावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवर्तकाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनाची प्रबलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तरंगलांबी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनाची प्रबलता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ध्वनीची पिच कोणावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आमplitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवृत्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माध्यम",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवृत्ती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ध्वनीची आवृत्ती कोणत्या एककात मोजतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेकंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हर्ट्झ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जूल",
+          "is_correct": false
+        }
+      ],
+      "answer": "हर्ट्झ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ध्वनीचा वेग सर्वाधिक कुठे असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन पदार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निर्वात",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन पदार्थ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मानवी कानाला ऐकू येणारी आवृत्ती किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0–10 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "20000–50000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त 1000 Hz",
+          "is_correct": false
+        }
+      ],
+      "answer": "20–20000 Hz"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी आवृत्तीचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऐकू येणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20,000 Hz पेक्षा जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "20 Hz पेक्षा कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "20,000 Hz पेक्षा जास्त"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "20 Hz पेक्षा कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20,000 Hz पेक्षा जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्राणी ऐकतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "20 Hz पेक्षा कमी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "प्रतिध्वनी म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वनी शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्वनी विकिरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वनी परावर्तन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "प्रतिध्वनी ऐकण्यासाठी किमान अंतर किती असावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "8.5 m",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "17 m",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "34 m",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "50 m",
+          "is_correct": false
+        }
+      ],
+      "answer": "17 m"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "SONAR चा उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समुद्रतळ शोधण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमानासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "समुद्रतळ शोधण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुखद ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनावश्यक तीव्र ध्वनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनावश्यक तीव्र ध्वनी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनामुळे निर्माण होणारी संवेदना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनामुळे निर्माण होणारी संवेदना"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्माण होण्यासाठी काय आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ध्वनी कोणत्या माध्यमात प्रवास करतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निर्वात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घन, द्रव व वायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन, द्रव व वायू"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्वातात का प्रवास करत नाही? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माध्यम नसते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "माध्यम नसते"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ध्वनीची तीव्रता कोणावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवर्तकाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनाची प्रबलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तरंगलांबी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनाची प्रबलता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ध्वनीची पिच कोणावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आमplitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवृत्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माध्यम",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवृत्ती"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ध्वनीची आवृत्ती कोणत्या एककात मोजतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेकंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हर्ट्झ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जूल",
+          "is_correct": false
+        }
+      ],
+      "answer": "हर्ट्झ"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ध्वनीचा वेग सर्वाधिक कुठे असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन पदार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निर्वात",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन पदार्थ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मानवी कानाला ऐकू येणारी आवृत्ती किती? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0–10 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "20000–50000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त 1000 Hz",
+          "is_correct": false
+        }
+      ],
+      "answer": "20–20000 Hz"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी आवृत्तीचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऐकू येणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20,000 Hz पेक्षा जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "20 Hz पेक्षा कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "20,000 Hz पेक्षा जास्त"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "20 Hz पेक्षा कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20,000 Hz पेक्षा जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्राणी ऐकतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "20 Hz पेक्षा कमी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "प्रतिध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वनी शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्वनी विकिरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वनी परावर्तन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "प्रतिध्वनी ऐकण्यासाठी किमान अंतर किती असावे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "8.5 m",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "17 m",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "34 m",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "50 m",
+          "is_correct": false
+        }
+      ],
+      "answer": "17 m"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "SONAR चा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समुद्रतळ शोधण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमानासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "समुद्रतळ शोधण्यासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुखद ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनावश्यक तीव्र ध्वनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनावश्यक तीव्र ध्वनी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनामुळे निर्माण होणारी संवेदना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनामुळे निर्माण होणारी संवेदना"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्माण होण्यासाठी काय आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ध्वनी कोणत्या माध्यमात प्रवास करतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निर्वात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घन, द्रव व वायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन, द्रव व वायू"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्वातात का प्रवास करत नाही? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माध्यम नसते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "माध्यम नसते"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ध्वनीची तीव्रता कोणावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवर्तकाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनाची प्रबलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तरंगलांबी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनाची प्रबलता"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ध्वनीची पिच कोणावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आमplitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवृत्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माध्यम",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवृत्ती"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ध्वनीची आवृत्ती कोणत्या एककात मोजतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेकंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हर्ट्झ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जूल",
+          "is_correct": false
+        }
+      ],
+      "answer": "हर्ट्झ"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ध्वनीचा वेग सर्वाधिक कुठे असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन पदार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निर्वात",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन पदार्थ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "मानवी कानाला ऐकू येणारी आवृत्ती किती? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0–10 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "20000–50000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त 1000 Hz",
+          "is_correct": false
+        }
+      ],
+      "answer": "20–20000 Hz"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी आवृत्तीचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऐकू येणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20,000 Hz पेक्षा जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "20 Hz पेक्षा कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "20,000 Hz पेक्षा जास्त"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "20 Hz पेक्षा कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "20–20000 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "20,000 Hz पेक्षा जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्राणी ऐकतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "20 Hz पेक्षा कमी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "प्रतिध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वनी शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्वनी विकिरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्वनी परावर्तन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "प्रतिध्वनी ऐकण्यासाठी किमान अंतर किती असावे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "8.5 m",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "17 m",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "34 m",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "50 m",
+          "is_correct": false
+        }
+      ],
+      "answer": "17 m"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "SONAR चा उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समुद्रतळ शोधण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमानासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाबासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "समुद्रतळ शोधण्यासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुखद ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनावश्यक तीव्र ध्वनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनावश्यक तीव्र ध्वनी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "ध्वनी म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनामुळे निर्माण होणारी संवेदना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनामुळे निर्माण होणारी संवेदना"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्माण होण्यासाठी काय आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपन"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "ध्वनी कोणत्या माध्यमात प्रवास करतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निर्वात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घन, द्रव व वायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन, द्रव व वायू"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्वातात का प्रवास करत नाही? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माध्यम नसते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "माध्यम नसते"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ध्वनीची तीव्रता कोणावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवर्तकाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कंपनाची प्रबलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तरंगलांबी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कंपनाची प्रबलता"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ध्वनी म्हणजे काय?",
+      "answer": "कंपनांमुळे निर्माण होणारी ऐकण्याची संवेदना म्हणजे ध्वनी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "ध्वनी कसा निर्माण होतो?",
+      "answer": "वस्तूंच्या कंपनांमुळे ध्वनी निर्माण होतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ध्वनीसाठी माध्यम का आवश्यक आहे?",
+      "answer": "ध्वनी तरंगांना प्रसारणासाठी माध्यम लागते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ध्वनी निर्वातात का जात नाही?",
+      "answer": "निर्वातात माध्यम नसल्यामुळे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आवृत्ती म्हणजे काय?",
+      "answer": "एका सेकंदातील कंपनांची संख्या."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आवृत्तीचे एकक काय?",
+      "answer": "हर्ट्झ."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पिच म्हणजे काय?",
+      "answer": "ध्वनीची उंच-नीचता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तीव्रता म्हणजे काय?",
+      "answer": "ध्वनीची मोठेपणाची पातळी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ध्वनीचा वेग कशावर अवलंबून असतो?",
+      "answer": "माध्यमावर."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हवेत ध्वनीचा वेग किती?",
+      "answer": "सुमारे 340 m/s."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "प्रतिध्वनी म्हणजे काय?",
+      "answer": "परावर्तित ध्वनी पुन्हा ऐकू येणे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे काय?",
+      "answer": "20,000 Hz पेक्षा जास्त आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे काय?",
+      "answer": "20 Hz पेक्षा कमी आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "SONAR म्हणजे काय?",
+      "answer": "ध्वनी तरंगांवर आधारित शोध प्रणाली."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "SONAR चा उपयोग लिहा.",
+      "answer": "समुद्रातील वस्तू शोधण्यासाठी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण म्हणजे काय?",
+      "answer": "अनावश्यक व हानिकारक ध्वनी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे एक कारण लिहा.",
+      "answer": "वाहतुकीचा आवाज."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे परिणाम लिहा.",
+      "answer": "श्रवणशक्तीवर परिणाम."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "मानवी कानाची ऐकण्याची मर्यादा काय?",
+      "answer": "20–20000 Hz."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "संगीत व आवाज यात फरक काय?",
+      "answer": "संगीत सुखद, आवाज त्रासदायक."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "कंपनांमुळे निर्माण होणारी ऐकण्याची संवेदना म्हणजे ध्वनी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "ध्वनी कसा निर्माण होतो?",
+      "answer": "वस्तूंच्या कंपनांमुळे ध्वनी निर्माण होतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ध्वनीसाठी माध्यम का आवश्यक आहे?",
+      "answer": "ध्वनी तरंगांना प्रसारणासाठी माध्यम लागते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ध्वनी निर्वातात का जात नाही?",
+      "answer": "निर्वातात माध्यम नसल्यामुळे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आवृत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "एका सेकंदातील कंपनांची संख्या."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आवृत्तीचे एकक  स्पष्ट करा.",
+      "answer": "हर्ट्झ."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पिच म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची उंच-नीचता."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "तीव्रता म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची मोठेपणाची पातळी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ध्वनीचा वेग कशावर अवलंबून असतो?",
+      "answer": "माध्यमावर."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "हवेत ध्वनीचा वेग किती?",
+      "answer": "सुमारे 340 m/s."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "प्रतिध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "परावर्तित ध्वनी पुन्हा ऐकू येणे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20,000 Hz पेक्षा जास्त आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20 Hz पेक्षा कमी आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "SONAR म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनी तरंगांवर आधारित शोध प्रणाली."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "SONAR चा उपयोग लिहा.",
+      "answer": "समुद्रातील वस्तू शोधण्यासाठी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण म्हणजे  स्पष्ट करा.",
+      "answer": "अनावश्यक व हानिकारक ध्वनी."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे एक कारण लिहा.",
+      "answer": "वाहतुकीचा आवाज."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे परिणाम लिहा.",
+      "answer": "श्रवणशक्तीवर परिणाम."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "मानवी कानाची ऐकण्याची मर्यादा  स्पष्ट करा.",
+      "answer": "20–20000 Hz."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "संगीत व आवाज यात फरक  स्पष्ट करा.",
+      "answer": "संगीत सुखद, आवाज त्रासदायक."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "कंपनांमुळे निर्माण होणारी ऐकण्याची संवेदना म्हणजे ध्वनी."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ध्वनी कसा निर्माण होतो?",
+      "answer": "वस्तूंच्या कंपनांमुळे ध्वनी निर्माण होतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ध्वनीसाठी माध्यम का आवश्यक आहे?",
+      "answer": "ध्वनी तरंगांना प्रसारणासाठी माध्यम लागते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ध्वनी निर्वातात का जात नाही?",
+      "answer": "निर्वातात माध्यम नसल्यामुळे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "आवृत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "एका सेकंदातील कंपनांची संख्या."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "आवृत्तीचे एकक  स्पष्ट करा.",
+      "answer": "हर्ट्झ."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पिच म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची उंच-नीचता."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "तीव्रता म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची मोठेपणाची पातळी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "ध्वनीचा वेग कशावर अवलंबून असतो?",
+      "answer": "माध्यमावर."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "हवेत ध्वनीचा वेग किती?",
+      "answer": "सुमारे 340 m/s."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "प्रतिध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "परावर्तित ध्वनी पुन्हा ऐकू येणे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20,000 Hz पेक्षा जास्त आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20 Hz पेक्षा कमी आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "SONAR म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनी तरंगांवर आधारित शोध प्रणाली."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "SONAR चा उपयोग लिहा.",
+      "answer": "समुद्रातील वस्तू शोधण्यासाठी."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण म्हणजे  स्पष्ट करा.",
+      "answer": "अनावश्यक व हानिकारक ध्वनी."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे एक कारण लिहा.",
+      "answer": "वाहतुकीचा आवाज."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे परिणाम लिहा.",
+      "answer": "श्रवणशक्तीवर परिणाम."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "मानवी कानाची ऐकण्याची मर्यादा  स्पष्ट करा.",
+      "answer": "20–20000 Hz."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "संगीत व आवाज यात फरक  स्पष्ट करा.",
+      "answer": "संगीत सुखद, आवाज त्रासदायक."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "कंपनांमुळे निर्माण होणारी ऐकण्याची संवेदना म्हणजे ध्वनी."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "ध्वनी कसा निर्माण होतो?",
+      "answer": "वस्तूंच्या कंपनांमुळे ध्वनी निर्माण होतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "ध्वनीसाठी माध्यम का आवश्यक आहे?",
+      "answer": "ध्वनी तरंगांना प्रसारणासाठी माध्यम लागते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "ध्वनी निर्वातात का जात नाही?",
+      "answer": "निर्वातात माध्यम नसल्यामुळे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "आवृत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "एका सेकंदातील कंपनांची संख्या."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "आवृत्तीचे एकक  स्पष्ट करा.",
+      "answer": "हर्ट्झ."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "पिच म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची उंच-नीचता."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "तीव्रता म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची मोठेपणाची पातळी."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "ध्वनीचा वेग कशावर अवलंबून असतो?",
+      "answer": "माध्यमावर."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "हवेत ध्वनीचा वेग किती?",
+      "answer": "सुमारे 340 m/s."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "प्रतिध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "परावर्तित ध्वनी पुन्हा ऐकू येणे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20,000 Hz पेक्षा जास्त आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20 Hz पेक्षा कमी आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "SONAR म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनी तरंगांवर आधारित शोध प्रणाली."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "SONAR चा उपयोग लिहा.",
+      "answer": "समुद्रातील वस्तू शोधण्यासाठी."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण म्हणजे  स्पष्ट करा.",
+      "answer": "अनावश्यक व हानिकारक ध्वनी."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे एक कारण लिहा.",
+      "answer": "वाहतुकीचा आवाज."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे परिणाम लिहा.",
+      "answer": "श्रवणशक्तीवर परिणाम."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "मानवी कानाची ऐकण्याची मर्यादा  स्पष्ट करा.",
+      "answer": "20–20000 Hz."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "संगीत व आवाज यात फरक  स्पष्ट करा.",
+      "answer": "संगीत सुखद, आवाज त्रासदायक."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "कंपनांमुळे निर्माण होणारी ऐकण्याची संवेदना म्हणजे ध्वनी."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "ध्वनी कसा निर्माण होतो?",
+      "answer": "वस्तूंच्या कंपनांमुळे ध्वनी निर्माण होतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "ध्वनीसाठी माध्यम का आवश्यक आहे?",
+      "answer": "ध्वनी तरंगांना प्रसारणासाठी माध्यम लागते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "ध्वनी निर्वातात का जात नाही?",
+      "answer": "निर्वातात माध्यम नसल्यामुळे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "आवृत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "एका सेकंदातील कंपनांची संख्या."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "आवृत्तीचे एकक  स्पष्ट करा.",
+      "answer": "हर्ट्झ."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "पिच म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची उंच-नीचता."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "तीव्रता म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनीची मोठेपणाची पातळी."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "ध्वनीचा वेग कशावर अवलंबून असतो?",
+      "answer": "माध्यमावर."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "हवेत ध्वनीचा वेग किती?",
+      "answer": "सुमारे 340 m/s."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "प्रतिध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "परावर्तित ध्वनी पुन्हा ऐकू येणे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "अल्ट्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20,000 Hz पेक्षा जास्त आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "इन्फ्रासोनिक ध्वनी म्हणजे  स्पष्ट करा.",
+      "answer": "20 Hz पेक्षा कमी आवृत्तीचा ध्वनी."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "SONAR म्हणजे  स्पष्ट करा.",
+      "answer": "ध्वनी तरंगांवर आधारित शोध प्रणाली."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "SONAR चा उपयोग लिहा.",
+      "answer": "समुद्रातील वस्तू शोधण्यासाठी."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण म्हणजे  स्पष्ट करा.",
+      "answer": "अनावश्यक व हानिकारक ध्वनी."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे एक कारण लिहा.",
+      "answer": "वाहतुकीचा आवाज."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणाचे परिणाम लिहा.",
+      "answer": "श्रवणशक्तीवर परिणाम."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "मानवी कानाची ऐकण्याची मर्यादा  स्पष्ट करा.",
+      "answer": "20–20000 Hz."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "संगीत व आवाज यात फरक  स्पष्ट करा.",
+      "answer": "संगीत सुखद, आवाज त्रासदायक."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "ध्वनी निर्मिती व प्रसारण स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी वस्तूंच्या कंपनांमुळे निर्माण होतो. हा घन, द्रव व वायू माध्यमातून प्रवास करतो. निर्वातात ध्वनी जात नाही."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "ध्वनीची वैशिष्ट्ये स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनीची पिच, तीव्रता व गुणवत्तेवर त्याचे स्वरूप अवलंबून असते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "प्रतिध्वनी सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "ध्वनी परावर्तित होऊन पुन्हा ऐकू येतो तेव्हा प्रतिध्वनी तयार होते. यासाठी योग्य अंतर आवश्यक असते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "SONAR प्रणाली स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "SONAR मध्ये अल्ट्रासोनिक तरंग वापरून समुद्रतळ व वस्तू शोधतात."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "ध्वनी प्रदूषणाचे कारणे व उपाय लिहा. सविस्तर लिहा.",
+      "answer": "वाहतूक, यंत्रसामग्री ही कारणे आहेत. आवाज नियंत्रण हे उपाय आहेत."
+    }
+  ]
+}

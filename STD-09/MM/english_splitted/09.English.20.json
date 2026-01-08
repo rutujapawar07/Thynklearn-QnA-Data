@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.20",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Silver"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tagore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Calm and magical",
+          "is_correct": true
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why is everything still?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night is calm and quiet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Morning begins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Storm is loud",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night is calm and quiet"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which figure of speech dominates?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personification",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Irony",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alliteration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hyperbole",
+          "is_correct": false
+        }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which figure of speech dominates?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hyperbole",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Irony",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Personification",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Alliteration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calm and magical",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What shines on rooftops and trees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunshine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Moonlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lanterns",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moonlight"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Comedy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ballad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why is everything still?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night is calm and quiet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Morning begins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Animals hide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm is loud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night is calm and quiet"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What shines on rooftops and trees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moonlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lanterns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunshine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moonlight"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Comedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calm and magical",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What effect does moonlight have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Turns things silver",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Makes them disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Burns them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Turns them green",
+          "is_correct": false
+        }
+      ],
+      "answer": "Turns things silver"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which creature peers from its hole?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mouse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fox",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mouse"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which figure of speech dominates?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hyperbole",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Personification",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Irony",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Alliteration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the dog doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Barking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hunting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleeping"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Comedy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tagore",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the dog doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hunting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Barking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleeping"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What shines on rooftops and trees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunshine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moonlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lanterns",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moonlight"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why is everything still?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Storm is loud",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Morning begins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Animals hide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Night is calm and quiet",
+          "is_correct": true
+        }
+      ],
+      "answer": "Night is calm and quiet"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Calm and magical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What shines on rooftops and trees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lanterns",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Moonlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sunshine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moonlight"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What effect does moonlight have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Makes them disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Burns them",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Turns them green",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Turns things silver",
+          "is_correct": true
+        }
+      ],
+      "answer": "Turns things silver"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What shines on rooftops and trees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lanterns",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunshine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Moonlight",
+          "is_correct": true
+        }
+      ],
+      "answer": "Moonlight"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why is everything still?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Storm is loud",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Morning begins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night is calm and quiet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Animals hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night is calm and quiet"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Comedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Calm and magical",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Calm and magical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tagore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What effect does moonlight have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Turns things silver",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Turns them green",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Burns them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Makes them disappear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Turns things silver"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Calm and magical",
+          "is_correct": true
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tagore",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tagore",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What colour transforms the night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Silver",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Golden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What shines on rooftops and trees?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lanterns",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moonlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fire",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunshine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moonlight"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Comedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Humorous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Calm and magical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calm and magical"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tagore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is everything still?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Night is calm and quiet",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Morning begins",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Animals hide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm is loud",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night is calm and quiet"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which figure of speech dominates?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Irony",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alliteration",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Personification",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Hyperbole",
+          "is_correct": false
+        }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Comedy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What effect does moonlight have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Burns them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Turns them green",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Turns things silver",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Makes them disappear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Turns things silver"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Comedy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Epic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tagore",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the dog doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Barking",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hunting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleeping"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the dog doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Barking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hunting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sleeping"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Browning",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tagore",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What type of poem is it?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Epic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Comedy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ballad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Descriptive nature poem",
+          "is_correct": true
+        }
+      ],
+      "answer": "Descriptive nature poem"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is everything still?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning begins",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Storm is loud",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night is calm and quiet",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Animals hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Night is calm and quiet"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 51)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 52)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 53)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 54)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 55)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 56)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 57)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 58)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 59)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 60)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 61)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 62)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 63)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 64)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 65)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 66)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 67)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 68)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 69)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 70)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 71)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 72)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 73)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 74)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 75)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 76)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 77)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 78)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 79)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 80)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 81)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 82)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 83)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 84)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 85)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 86)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 87)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 88)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 89)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 90)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 91)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 92)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 93)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 94)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 95)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 96)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 97)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 98)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 99)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 100)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 101)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 102)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 103)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 104)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 105)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 106)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 107)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 108)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 109)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 110)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 111)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 112)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 113)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 114)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 115)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 116)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 117)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 118)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 119)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 120)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 121)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 122)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 123)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 124)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 125)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 126)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 127)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 128)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 129)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 130)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 131)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 132)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 133)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 134)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 135)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 136)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 137)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 138)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 139)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 140)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is the night called silver? (Variant 141)",
+      "answer": "Because moonlight coats the world in silver."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How does moonlight change ordinary objects? (Variant 142)",
+      "answer": "It paints roofs, trees and fields in a glowing colour."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is everything so quiet? (Variant 143)",
+      "answer": "Animals rest and nature sleeps."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Which animals appear in the poem? (Variant 144)",
+      "answer": "Dog, doves and a mouse."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the dog doing in the yard? (Variant 145)",
+      "answer": "It sleeps in its kennel."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is the mouse cautious? (Variant 146)",
+      "answer": "It fears predators in the still night."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does the poet make the scene magical? (Variant 147)",
+      "answer": "Through images of shine, stillness and soft motion."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is the poem peaceful? (Variant 148)",
+      "answer": "Calm night and gentle movement soothe the mind."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What emotion does moonlight inspire? (Variant 149)",
+      "answer": "Wonder and quiet appreciation of nature."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is the title suitable? (Variant 150)",
+      "answer": "All objects seem dipped in silver."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 151)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 152)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 153)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 154)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 155)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 156)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 157)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 158)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 159)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 160)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 161)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 162)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 163)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 164)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 165)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 166)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 167)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 168)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 169)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 170)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 171)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 172)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 173)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 174)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 175)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 176)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 177)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 178)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 179)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 180)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 181)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 182)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 183)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 184)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 185)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 186)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 187)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 188)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 189)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 190)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 191)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 192)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 193)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 194)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 195)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Describe how moonlight transforms the night world in the poem. (Insight 196)",
+      "answer": "Moonlight covers roofs, branches and living creatures, changing their colour into silver."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain how movement and stillness work together in the imagery. (Insight 197)",
+      "answer": "Animals barely stir while shadows shift slightly, creating balance between rest and life."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "How does the poet use sound and silence to build atmosphere? (Insight 198)",
+      "answer": "Silence dominates, but tiny movements create a dreamy visual rhythm."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Why is the poem a celebration of nature\u2019s beauty? (Insight 199)",
+      "answer": "It highlights quiet beauty that appears only when we slow down and look."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "What message about observation can readers learn? (Insight 200)",
+      "answer": "Looking carefully at ordinary scenes reveals hidden magic."
+    }
+  ]
+}

@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M04",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "विज्ञानाचे वरदान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोपनीयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य प्रगती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंतराळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्य प्रगती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुविधा वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंतराळ",
+          "is_correct": true
+        }
+      ],
+      "answer": "अंतराळ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोपक्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगवान जीवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुविधा वाढ",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवोपक्रम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोपनीयता",
+          "is_correct": true
+        }
+      ],
+      "answer": "गोपनीयता"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        }
+      ],
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्य प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूचना तंत्रज्ञान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुरुपयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेगवान जीवन",
+          "is_correct": true
+        }
+      ],
+      "answer": "वेगवान जीवन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुरुपयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रदूषण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेगवान जीवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संचार",
+          "is_correct": true
+        }
+      ],
+      "answer": "संचार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "औद्योगिक उत्पादन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान प्रसार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान प्रसार"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": true
+        }
+      ],
+      "answer": "मानवी मूल्ये कमी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेगवान जीवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरोग्य प्रगती",
+          "is_correct": true
+        }
+      ],
+      "answer": "आरोग्य प्रगती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "यंत्रावर अवलंबित्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अंतराळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कृषी सुधार",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंतराळ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोपनीयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोपक्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञान प्रसार",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवोपक्रम"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समृद्धी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोपनीयता",
+          "is_correct": true
+        }
+      ],
+      "answer": "गोपनीयता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुविधा वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तंत्रज्ञान",
+          "is_correct": true
+        }
+      ],
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंतराळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूचना तंत्रज्ञान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोपनीयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेगवान जीवन",
+          "is_correct": true
+        }
+      ],
+      "answer": "वेगवान जीवन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समृद्धी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रदूषण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी सुधार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तंत्रज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "संचार"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तंत्रज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "औद्योगिक उत्पादन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान प्रसार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुरुपयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान प्रसार"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेगवान जीवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्य प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": true
+        }
+      ],
+      "answer": "मानवी मूल्ये कमी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोपनीयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य प्रगती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समृद्धी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्य प्रगती"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अंतराळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुरुपयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंतराळ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवोपक्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवोपक्रम"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान प्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोपनीयता",
+          "is_correct": true
+        }
+      ],
+      "answer": "गोपनीयता"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञान प्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तंत्रज्ञान",
+          "is_correct": true
+        }
+      ],
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान प्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यंत्रावर अवलंबित्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंतराळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूचना तंत्रज्ञान"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेगवान जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोपनीयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगवान जीवन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रदूषण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रदूषण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संचार"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान प्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        }
+      ],
+      "answer": "औद्योगिक उत्पादन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञान प्रसार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "यंत्रावर अवलंबित्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान प्रसार"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैद्यक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेगवान जीवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी मूल्ये कमी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरोग्य प्रगती",
+          "is_correct": true
+        }
+      ],
+      "answer": "आरोग्य प्रगती"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंतराळ",
+          "is_correct": true
+        }
+      ],
+      "answer": "अंतराळ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृत्रिम बुद्धिमत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोपक्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवोपक्रम"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोपनीयता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोपनीयता"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यंत्रावर अवलंबित्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समृद्धी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोपनीयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुविधा वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": true
+        }
+      ],
+      "answer": "सूचना तंत्रज्ञान"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैद्यक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान प्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगवान जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "समृद्धी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगवान जीवन"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृषी सुधार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रदूषण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "असंतुलन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रदूषण"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नवोपक्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुरुपयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संचार"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृषी सुधार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तंत्रज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "औद्योगिक उत्पादन"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञान प्रसार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वैद्यक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान प्रसार"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "आव्हान ओळखा (48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूचना तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी मूल्ये कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्पादन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक उत्पादन",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी मूल्ये कमी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "फायदा ओळखा (49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैद्यक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य प्रगती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "असंतुलन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुविधा वाढ",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्य प्रगती"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "क्षेत्र ओळखा (50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरोग्य प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अंतराळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असंतुलन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंतराळ"
+    },
+    {
+      "question_id": 51,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "ONE_LINE",
+      "question": "ऊर्जा उत्पादन स्पष्ट करा",
+      "answer": "ऊर्जा उत्पादन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "ONE_LINE",
+      "question": "माहिती क्रांती स्पष्ट करा",
+      "answer": "माहिती क्रांती हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "ONE_LINE",
+      "question": "वाहतूक सुविधा स्पष्ट करा",
+      "answer": "वाहतूक सुविधा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "ONE_LINE",
+      "question": "शिक्षण सुधार स्पष्ट करा",
+      "answer": "शिक्षण सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "ONE_LINE",
+      "question": "आविष्कार स्पष्ट करा",
+      "answer": "आविष्कार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "ONE_LINE",
+      "question": "उद्योग वाढ स्पष्ट करा",
+      "answer": "उद्योग वाढ हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "ONE_LINE",
+      "question": "कृषी सुधार स्पष्ट करा",
+      "answer": "कृषी सुधार हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "ONE_LINE",
+      "question": "समाज बदल स्पष्ट करा",
+      "answer": "समाज बदल हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "ONE_LINE",
+      "question": "वैज्ञानिक संशोधन स्पष्ट करा",
+      "answer": "वैज्ञानिक संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "ONE_LINE",
+      "question": "तंत्रज्ञान वापर स्पष्ट करा",
+      "answer": "तंत्रज्ञान वापर हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "ONE_LINE",
+      "question": "आरोग्य सेवा स्पष्ट करा",
+      "answer": "आरोग्य सेवा हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "ONE_LINE",
+      "question": "अंतराळ संशोधन स्पष्ट करा",
+      "answer": "अंतराळ संशोधन हे विज्ञानाने दिलेले जीवनमान सुधारण्याचे प्रभावी आणि क्रांतिकारी योगदान आहे."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे समाजातील योगदान स्पष्ट करा",
+      "answer": "विज्ञानाचे समाजातील योगदान हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "आरोग्य क्षेत्रातील लाभ स्पष्ट करा",
+      "answer": "आरोग्य क्षेत्रातील लाभ हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "अंतराळ संशोधनाचे महत्त्व स्पष्ट करा",
+      "answer": "अंतराळ संशोधनाचे महत्त्व हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "तंत्रज्ञानामुळे बदल स्पष्ट करा",
+      "answer": "तंत्रज्ञानामुळे बदल हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "माहिती क्रांतीचा प्रभाव स्पष्ट करा",
+      "answer": "माहिती क्रांतीचा प्रभाव हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "औद्योगिक क्रांती स्पष्ट करा",
+      "answer": "औद्योगिक क्रांती हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "कृषी क्षेत्रातील सुधारणा स्पष्ट करा",
+      "answer": "कृषी क्षेत्रातील सुधारणा हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "ऊर्जा क्षेत्रातील शोध स्पष्ट करा",
+      "answer": "ऊर्जा क्षेत्रातील शोध हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "विज्ञान आणि शिक्षण स्पष्ट करा",
+      "answer": "विज्ञान आणि शिक्षण हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे दुरुपयोगावर उपाय स्पष्ट करा",
+      "answer": "विज्ञानाचे दुरुपयोगावर उपाय हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे समाजातील योगदान स्पष्ट करा",
+      "answer": "विज्ञानाचे समाजातील योगदान हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "आरोग्य क्षेत्रातील लाभ स्पष्ट करा",
+      "answer": "आरोग्य क्षेत्रातील लाभ हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "अंतराळ संशोधनाचे महत्त्व स्पष्ट करा",
+      "answer": "अंतराळ संशोधनाचे महत्त्व हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "तंत्रज्ञानामुळे बदल स्पष्ट करा",
+      "answer": "तंत्रज्ञानामुळे बदल हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "माहिती क्रांतीचा प्रभाव स्पष्ट करा",
+      "answer": "माहिती क्रांतीचा प्रभाव हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "औद्योगिक क्रांती स्पष्ट करा",
+      "answer": "औद्योगिक क्रांती हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "कृषी क्षेत्रातील सुधारणा स्पष्ट करा",
+      "answer": "कृषी क्षेत्रातील सुधारणा हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "ऊर्जा क्षेत्रातील शोध स्पष्ट करा",
+      "answer": "ऊर्जा क्षेत्रातील शोध हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "विज्ञान आणि शिक्षण स्पष्ट करा",
+      "answer": "विज्ञान आणि शिक्षण हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे दुरुपयोगावर उपाय स्पष्ट करा",
+      "answer": "विज्ञानाचे दुरुपयोगावर उपाय हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे समाजातील योगदान स्पष्ट करा",
+      "answer": "विज्ञानाचे समाजातील योगदान हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "आरोग्य क्षेत्रातील लाभ स्पष्ट करा",
+      "answer": "आरोग्य क्षेत्रातील लाभ हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "अंतराळ संशोधनाचे महत्त्व स्पष्ट करा",
+      "answer": "अंतराळ संशोधनाचे महत्त्व हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "तंत्रज्ञानामुळे बदल स्पष्ट करा",
+      "answer": "तंत्रज्ञानामुळे बदल हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "माहिती क्रांतीचा प्रभाव स्पष्ट करा",
+      "answer": "माहिती क्रांतीचा प्रभाव हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "औद्योगिक क्रांती स्पष्ट करा",
+      "answer": "औद्योगिक क्रांती हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "कृषी क्षेत्रातील सुधारणा स्पष्ट करा",
+      "answer": "कृषी क्षेत्रातील सुधारणा हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "ऊर्जा क्षेत्रातील शोध स्पष्ट करा",
+      "answer": "ऊर्जा क्षेत्रातील शोध हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "विज्ञान आणि शिक्षण स्पष्ट करा",
+      "answer": "विज्ञान आणि शिक्षण हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे दुरुपयोगावर उपाय स्पष्ट करा",
+      "answer": "विज्ञानाचे दुरुपयोगावर उपाय हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे समाजातील योगदान स्पष्ट करा",
+      "answer": "विज्ञानाचे समाजातील योगदान हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "आरोग्य क्षेत्रातील लाभ स्पष्ट करा",
+      "answer": "आरोग्य क्षेत्रातील लाभ हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "अंतराळ संशोधनाचे महत्त्व स्पष्ट करा",
+      "answer": "अंतराळ संशोधनाचे महत्त्व हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "तंत्रज्ञानामुळे बदल स्पष्ट करा",
+      "answer": "तंत्रज्ञानामुळे बदल हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "माहिती क्रांतीचा प्रभाव स्पष्ट करा",
+      "answer": "माहिती क्रांतीचा प्रभाव हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "औद्योगिक क्रांती स्पष्ट करा",
+      "answer": "औद्योगिक क्रांती हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "कृषी क्षेत्रातील सुधारणा स्पष्ट करा",
+      "answer": "कृषी क्षेत्रातील सुधारणा हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "ऊर्जा क्षेत्रातील शोध स्पष्ट करा",
+      "answer": "ऊर्जा क्षेत्रातील शोध हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "विज्ञान आणि शिक्षण स्पष्ट करा",
+      "answer": "विज्ञान आणि शिक्षण हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे दुरुपयोगावर उपाय स्पष्ट करा",
+      "answer": "विज्ञानाचे दुरुपयोगावर उपाय हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे समाजातील योगदान स्पष्ट करा",
+      "answer": "विज्ञानाचे समाजातील योगदान हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "आरोग्य क्षेत्रातील लाभ स्पष्ट करा",
+      "answer": "आरोग्य क्षेत्रातील लाभ हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "अंतराळ संशोधनाचे महत्त्व स्पष्ट करा",
+      "answer": "अंतराळ संशोधनाचे महत्त्व हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "तंत्रज्ञानामुळे बदल स्पष्ट करा",
+      "answer": "तंत्रज्ञानामुळे बदल हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "माहिती क्रांतीचा प्रभाव स्पष्ट करा",
+      "answer": "माहिती क्रांतीचा प्रभाव हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "औद्योगिक क्रांती स्पष्ट करा",
+      "answer": "औद्योगिक क्रांती हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "कृषी क्षेत्रातील सुधारणा स्पष्ट करा",
+      "answer": "कृषी क्षेत्रातील सुधारणा हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "ऊर्जा क्षेत्रातील शोध स्पष्ट करा",
+      "answer": "ऊर्जा क्षेत्रातील शोध हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "विज्ञान आणि शिक्षण स्पष्ट करा",
+      "answer": "विज्ञान आणि शिक्षण हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "विज्ञानाचे दुरुपयोगावर उपाय स्पष्ट करा",
+      "answer": "विज्ञानाचे दुरुपयोगावर उपाय हे आधुनिक जीवनातील मुख्य प्रेरक शक्ती मानले जाते.\nविज्ञानामुळे जीवन सोयीस्कर, वेगाने व कार्यक्षम झाले आहे.\nसंशोधन, प्रयोग आणि तंत्रज्ञानाने समाज, उद्योग व आरोग्य क्षेत्रात क्रांती घडवली.\nही प्रगती देशाच्या सर्वांगीण विकासाच्या दृष्टीने अत्यंत महत्त्वाची आहे."
+    }
+  ]
+}

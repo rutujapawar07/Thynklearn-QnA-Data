@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.11",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "निर्माणों के पावन युग में"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'निर्माणों के पावन युग में' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "हरिवंश राय बच्चन", "is_correct": false },
+        { "option_id": 2, "text": "अटल बिहारी वाजपेयी", "is_correct": true },
+        { "option_id": 3, "text": "रामधारी सिंह दिनकर", "is_correct": false },
+        { "option_id": 4, "text": "सुमित्रानंदन पंत", "is_correct": false }
+      ],
+      "answer": "अटल बिहारी वाजपेयी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "निर्माणों के पावन युग में हमें क्या नहीं भूलना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "धन कमाना", "is_correct": false },
+        { "option_id": 2, "text": "चरित्र निर्माण", "is_correct": true },
+        { "option_id": 3, "text": "मकान बनाना", "is_correct": false },
+        { "option_id": 4, "text": "घूमना-फिरना", "is_correct": false }
+      ],
+      "answer": "चरित्र निर्माण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "स्वार्थ साधना की आँधी में किसका कल्याण नहीं भूलना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "स्वयं का", "is_correct": false },
+        { "option_id": 2, "text": "मित्रों का", "is_correct": false },
+        { "option_id": 3, "text": "वसुधा (पृथ्वी) का", "is_correct": true },
+        { "option_id": 4, "text": "परिवार का", "is_correct": false }
+      ],
+      "answer": "वसुधा (पृथ्वी) का"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "साहस को क्या स्वीकार नहीं है?",
+      "options": [
+        { "option_id": 1, "text": "तैरना", "is_correct": false },
+        { "option_id": 2, "text": "मँझधारों में डूबना", "is_correct": true },
+        { "option_id": 3, "text": "किनारे पर रहना", "is_correct": false },
+        { "option_id": 4, "text": "संघर्ष करना", "is_correct": false }
+      ],
+      "answer": "मँझधारों में डूबना"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जटिल समस्या सुलझाने को क्या नहीं भूलना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "पुराने तरीके", "is_correct": false },
+        { "option_id": 2, "text": "नूतन अनुसंधान", "is_correct": true },
+        { "option_id": 3, "text": "दूसरों की मदद", "is_correct": false },
+        { "option_id": 4, "text": "किताबें पढ़ना", "is_correct": false }
+      ],
+      "answer": "नूतन अनुसंधान"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "तार के बिना क्या संभव नहीं है?",
+      "options": [
+        { "option_id": 1, "text": "संगीत", "is_correct": false },
+        { "option_id": 2, "text": "झंकार", "is_correct": true },
+        { "option_id": 3, "text": "गीत", "is_correct": false },
+        { "option_id": 4, "text": "नाच", "is_correct": false }
+      ],
+      "answer": "झंकार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "यदि नैतिक आधार नहीं है तो शिक्षा क्या नहीं साध सकेगी?",
+      "options": [
+        { "option_id": 1, "text": "धन", "is_correct": false },
+        { "option_id": 2, "text": "स्वर", "is_correct": true },
+        { "option_id": 3, "text": "लक्ष्य", "is_correct": false },
+        { "option_id": 4, "text": "सफलता", "is_correct": false }
+      ],
+      "answer": "स्वर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कीर्ति कौमुदी की गरिमा में किसका सम्मान नहीं भूलना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "बड़ों का", "is_correct": false },
+        { "option_id": 2, "text": "संस्कृति का", "is_correct": true },
+        { "option_id": 3, "text": "नेताओं का", "is_correct": false },
+        { "option_id": 4, "text": "अमीरों का", "is_correct": false }
+      ],
+      "answer": "संस्कृति का"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आविष्कारों की कृतियों में यदि __________ नहीं है तो वे व्यर्थ हैं।",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "मानव का प्यार", "is_correct": true },
+        { "option_id": 3, "text": "मशीनें", "is_correct": false },
+        { "option_id": 4, "text": "बिजली", "is_correct": false }
+      ],
+      "answer": "मानव का प्यार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सृजनहीन विज्ञान कैसा है?",
+      "options": [
+        { "option_id": 1, "text": "लाभदायक", "is_correct": false },
+        { "option_id": 2, "text": "महत्त्वपूर्ण", "is_correct": false },
+        { "option_id": 3, "text": "व्यर्थ", "is_correct": true },
+        { "option_id": 4, "text": "शक्तिशाली", "is_correct": false }
+      ],
+      "answer": "व्यर्थ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भौतिकता के उत्थानों में किसका उत्थान नहीं भूलना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "जीवन का", "is_correct": true },
+        { "option_id": 2, "text": "शहर का", "is_correct": false },
+        { "option_id": 3, "text": "व्यापार का", "is_correct": false },
+        { "option_id": 4, "text": "भवन का", "is_correct": false }
+      ],
+      "answer": "जीवन का"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'कौमुदी' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "कमल", "is_correct": false },
+        { "option_id": 2, "text": "चाँदनी", "is_correct": true },
+        { "option_id": 3, "text": "कीचड़", "is_correct": false },
+        { "option_id": 4, "text": "सूरज", "is_correct": false }
+      ],
+      "answer": "चाँदनी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'अगम' का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "आसान", "is_correct": false },
+        { "option_id": 2, "text": "अपार / जहाँ पहुँचा न जा सके", "is_correct": true },
+        { "option_id": 3, "text": "छोटा", "is_correct": false },
+        { "option_id": 4, "text": "कम गहरा", "is_correct": false }
+      ],
+      "answer": "अपार / जहाँ पहुँचा न जा सके"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवि ने संघर्षों को क्या माना है?",
+      "options": [
+        { "option_id": 1, "text": "छोटा तालाब", "is_correct": false },
+        { "option_id": 2, "text": "अगम अगाध सिंधु (सागर)", "is_correct": true },
+        { "option_id": 3, "text": "पहाड़", "is_correct": false },
+        { "option_id": 4, "text": "रेगिस्तान", "is_correct": false }
+      ],
+      "answer": "अगम अगाध सिंधु (सागर)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अटल बिहारी वाजपेयी जी भारत के __________ थे।",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रपति", "is_correct": false },
+        { "option_id": 2, "text": "पूर्व प्रधानमंत्री", "is_correct": true },
+        { "option_id": 3, "text": "वैज्ञानिक", "is_correct": false },
+        { "option_id": 4, "text": "खिलाड़ी", "is_correct": false }
+      ],
+      "answer": "पूर्व प्रधानमंत्री"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि ने युग को 'निर्माणों का पावन युग' क्यों कहा है?",
+      "answer": "कवि ने इसे निर्माणों का पावन युग इसलिए कहा है क्योंकि यह समय नवनिर्माण, विकास और प्रगति का है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार किस आँधी में वसुधा का कल्याण नहीं भूलना चाहिए?",
+      "answer": "स्वार्थ साधना की आँधी में वसुधा का कल्याण नहीं भूलना चाहिए।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "जटिल समस्याओं को सुलझाने के लिए क्या आवश्यक है?",
+      "answer": "जटिल समस्याओं को सुलझाने के लिए नूतन अनुसंधान (नए शोध) आवश्यक हैं।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "कवि ने किन गुणों को 'तार' के समान माना है?",
+      "answer": "कवि ने शील, विनय, आदर्श और श्रेष्ठता को तार के समान माना है, जिनके बिना झंकार संभव नहीं है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "शिक्षा का नैतिक आधार क्यों जरूरी है?",
+      "answer": "शिक्षा का नैतिक आधार इसलिए जरूरी है क्योंकि इसके बिना शिक्षा स्वर नहीं साध सकती, अर्थात वह दिशाहीन और प्रभावहीन रहती है।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "विज्ञान कब व्यर्थ हो जाता है?",
+      "answer": "जब विज्ञान सृजनहीन हो और उससे प्राणियों का उपकार न हो, तो वह व्यर्थ हो जाता है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "'वसुधा' और 'मँझधार' शब्दों के अर्थ लिखिए।",
+      "answer": "'वसुधा' का अर्थ है पृथ्वी और 'मँझधार' का अर्थ है लहरों के बीचोंबीच।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "अटल बिहारी वाजपेयी जी की प्रमुख रचनाएँ कौन सी हैं?",
+      "answer": "मेरी इक्यावन कविताएँ, कुछ लेख : कुछ भाषण, बिंदु-बिंदु विचार, अमर बलिदान आदि।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवि भौतिकता के उत्थानों में क्या याद रखने को कहते हैं?",
+      "answer": "कवि भौतिकता के उत्थानों में जीवन का उत्थान याद रखने को कहते हैं।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'अगाध' शब्द का अर्थ क्या है?",
+      "answer": "'अगाध' का अर्थ है अथाह या बहुत गहरा।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "'निर्माणों के पावन युग में हम चरित्र निर्माण न भूलें' - इस पंक्ति का भावार्थ स्पष्ट कीजिए।",
+      "answer": "इस पंक्ति का भावार्थ यह है कि वर्तमान युग विकास और नवनिर्माण का पवित्र समय है। हम भौतिक सुख-सुविधाओं, पुलों, भवनों और मशीनों का निर्माण कर रहे हैं। लेकिन इस बाहरी चकाचौंध में हमें यह नहीं भूलना चाहिए कि सबसे महत्वपूर्ण निर्माण 'चरित्र निर्माण' है। यदि व्यक्ति का चरित्र गिर गया, तो सारे भौतिक निर्माण व्यर्थ हैं। देश की असली शक्ति उसके नागरिकों के उज्ज्वल चरित्र में निहित है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कवि ने साहस और संघर्ष के बारे में क्या विचार व्यक्त किए हैं?",
+      "answer": "कवि ने माना है कि जीवन में संघर्षों का सागर अपार और गहरा (अगम अगाध सिंधु) है और इसका कोई अंत नहीं दिखता। लेकिन साहसी व्यक्ति को संघर्षों के बीच (मँझधारों में) हार मानकर डूब जाना स्वीकार नहीं होता। साहस का अर्थ ही है कि हम कठिन परिस्थितियों का सामना करें और जटिल समस्याओं को सुलझाने के लिए नए-नए तरीके (नूतन अनुसंधान) खोजें, न कि हार मान लें।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "शिक्षा और संस्कृति के संबंध में कवि का क्या दृष्टिकोण है?",
+      "answer": "कवि का मानना है कि शील, विनय, आदर्श और श्रेष्ठता जैसे गुण जीवन रूपी वीणा के तार हैं, जिनके बिना जीवन संगीत नहीं बज सकता। शिक्षा केवल किताबी ज्ञान नहीं है; यदि उसका कोई नैतिक आधार नहीं है, तो वह व्यर्थ है। इसके साथ ही, हमें अपनी कीर्ति और सफलता (कौमुदी) की चमक में अपनी संस्कृति का सम्मान करना नहीं भूलना चाहिए। संस्कृति ही हमारी पहचान और नींव है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "विज्ञान और आविष्कारों के प्रति कवि ने क्या चेतावनी दी है?",
+      "answer": "कवि ने चेतावनी दी है कि हम विज्ञान के क्षेत्र में चाहे कितनी भी प्रगति कर लें और नए-नए आविष्कार कर लें, लेकिन यदि उन कृतियों में मानव के प्रति प्रेम और कल्याण की भावना नहीं है, तो वे व्यर्थ हैं। विज्ञान सृजनकारी होना चाहिए, विनाशकारी नहीं। यदि विज्ञान से प्राणियों का भला (उपकार) नहीं होता, तो वह 'सृजनहीन विज्ञान' है जो अंततः मानवता के लिए घातक है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "'भौतिकता के उत्थानों में जीवन का उत्थान न भूलें' - इस पंक्ति को अपने शब्दों में स्पष्ट कीजिए।",
+      "answer": "इस पंक्ति का आशय यह है कि हम आज भौतिक सुख-सुविधाओं (जैसे धन, मशीनें, गैजेट्स) को बढ़ाने में लगे हुए हैं। इसे 'भौतिकता का उत्थान' कहा गया है। लेकिन इस दौड़ में हमें 'जीवन का उत्थान' अर्थात मानवीय मूल्यों, दया, प्रेम, नैतिकता और आत्मिक शांति को नहीं भूलना चाहिए। सच्चा विकास तभी है जब बाहरी समृद्धि के साथ-साथ मनुष्य का आंतरिक और नैतिक स्तर भी ऊँचा उठे।"
+    }
+  ]
+}

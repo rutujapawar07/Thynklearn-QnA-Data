@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M16",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "वनवासी कविता"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'धूसर दव' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूसर दव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फांद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "धूसर दव"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'औषधी शोधणारे' यांच्या जीवनात 'सावली' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": true
+        }
+      ],
+      "answer": "सावली"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'शिकारी' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झाडे",
+          "is_correct": true
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'कुलकरी' यांच्या जीवनात 'कुसर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फांद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "कुसर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'धबधबा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धबधबा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फांद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "धबधबा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'शिकारी' यांच्या जीवनात 'पानगळ' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फांद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "पानगळ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'ओढा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धूसर दव",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओढा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'औषधी शोधणारे' यांच्या जीवनात 'वन' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": true
+        }
+      ],
+      "answer": "वन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'वन' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": true
+        }
+      ],
+      "answer": "वन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'पानगळ' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पानगळ",
+          "is_correct": true
+        }
+      ],
+      "answer": "पानगळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'फांद्या' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": false
+        }
+      ],
+      "answer": "फांद्या"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धबधबा",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'औषधी शोधणारे' यांच्या जीवनात 'फांद्या' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पानगळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "फांद्या"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'सावली' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": true
+        }
+      ],
+      "answer": "सावली"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'कुसर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": true
+        }
+      ],
+      "answer": "कुसर"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "'शिकारी' यांच्या जीवनात 'वन' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओढा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'कुसर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पानगळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "कुसर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'जंगलरक्षक' यांच्या जीवनात 'धूसर दव' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धूसर दव"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'पानगळ' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पानगळ",
+          "is_correct": true
+        }
+      ],
+      "answer": "पानगळ"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'ओढा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओढा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'फांद्या' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फांद्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झाडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "फांद्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "'जंगलरक्षक' यांच्या जीवनात 'वन' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पानगळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "वन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "'शिकारी' यांच्या जीवनात 'डोंगर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धबधबा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'जंगलरक्षक' यांच्या जीवनात 'ओढा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ओढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओढा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "'जंगलरक्षक' यांच्या जीवनात 'धबधबा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "धूसर दव",
+          "is_correct": false
+        }
+      ],
+      "answer": "धबधबा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'वनवासी' यांच्या जीवनात 'पानगळ' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पानगळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": false
+        }
+      ],
+      "answer": "पानगळ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'सावली' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सावली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धबधबा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सावली"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'ओढा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धबधबा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओढा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'जंगलरक्षक' यांच्या जीवनात 'सावली' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": true
+        }
+      ],
+      "answer": "सावली"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'कुसर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": true
+        }
+      ],
+      "answer": "कुसर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'पानगळ' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानगळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": false
+        }
+      ],
+      "answer": "पानगळ"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'डोंगर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'वनवासी' यांच्या जीवनात 'धबधबा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": false
+        }
+      ],
+      "answer": "धबधबा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'वनवासी' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फांद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पानगळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'धूसर दव' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धूसर दव",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धूसर दव"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "'कुलकरी' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झाडे",
+          "is_correct": true
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'डोंगर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगर",
+          "is_correct": true
+        }
+      ],
+      "answer": "डोंगर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'भटक्या जमाती' यांच्या जीवनात 'धूसर दव' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धूसर दव",
+          "is_correct": true
+        }
+      ],
+      "answer": "धूसर दव"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'औषधी शोधणारे' यांच्या जीवनात 'कुसर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसर",
+          "is_correct": true
+        }
+      ],
+      "answer": "कुसर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'जंगलरक्षक' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "'कुलकरी' यांच्या जीवनात 'सावली' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओढा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सावली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सावली"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'वनवासी' यांच्या जीवनात 'ओढा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ओढा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओढा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "'कुलकरी' यांच्या जीवनात 'डोंगर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फांद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगर"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "'औषधी शोधणारे' यांच्या जीवनात 'ओढा' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओढा",
+          "is_correct": true
+        }
+      ],
+      "answer": "ओढा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'शिकारी' यांच्या जीवनात 'कुसर' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कुसर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'शिकारी' यांच्या जीवनात 'सावली' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सावली",
+          "is_correct": true
+        }
+      ],
+      "answer": "सावली"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "'मूलनिवासी' यांच्या जीवनात 'झाडे' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "'चरवाहे' यांच्या जीवनात 'वन' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धूसर दव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वन",
+          "is_correct": true
+        }
+      ],
+      "answer": "वन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "'वनवासी' यांच्या जीवनात 'धूसर दव' कोणती भूमिका बजावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धूसर दव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फांद्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धबधबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओढा",
+          "is_correct": false
+        }
+      ],
+      "answer": "धूसर दव"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'प्रकृती' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'प्रकृती' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'प्रकृती' आणि 'मूलनिवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'प्रकृती' मनात उगवते.\n'मूलनिवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'शांतता' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'शांतता' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'आनंद' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'आनंद' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'सहजीवन' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'सहजीवन' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'आनंद' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'आनंद' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'अनुभव' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'अनुभव' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'आनंद' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'आनंद' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'प्रकृती' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'प्रकृती' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'संवाद' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'संवाद' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'एकांत' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'एकांत' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'शांतता' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'शांतता' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'संवाद' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'संवाद' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'एकांत' आणि 'मूलनिवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'एकांत' मनात उगवते.\n'मूलनिवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'प्रकृती' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'प्रकृती' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'जोड' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'जोड' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'शांतता' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'शांतता' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'सहजीवन' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'सहजीवन' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'अनुभव' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'अनुभव' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'प्रकृती' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'प्रकृती' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'अनुभव' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'अनुभव' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'संवाद' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'संवाद' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'प्रकृती' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'प्रकृती' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'अनुभव' आणि 'मूलनिवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'अनुभव' मनात उगवते.\n'मूलनिवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'शांतता' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'शांतता' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'जोड' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'जोड' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'शांतता' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'शांतता' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'शांतता' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'शांतता' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'संगत' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'संगत' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'सहजीवन' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'सहजीवन' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'संवाद' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'संवाद' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'संगत' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'संगत' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'कौतुक' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'कौतुक' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'जोड' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'जोड' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'प्रकृती' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'प्रकृती' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'सहजीवन' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'सहजीवन' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'संवाद' आणि 'मूलनिवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'संवाद' मनात उगवते.\n'मूलनिवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'शांतता' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'शांतता' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'आनंद' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'आनंद' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'सहजीवन' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'सहजीवन' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'कौतुक' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'कौतुक' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'कौतुक' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'कौतुक' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'कौतुक' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'कौतुक' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'शांतता' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'शांतता' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'संवाद' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'संवाद' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'संगत' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'संगत' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'प्रकृती' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'प्रकृती' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'प्रकृती' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'प्रकृती' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'एकांत' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'एकांत' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'एकांत' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'एकांत' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'एकांत' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'एकांत' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'कौतुक' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'कौतुक' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'जोड' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'जोड' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'अनुभव' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'अनुभव' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'संगत' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'संगत' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'सहजीवन' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'सहजीवन' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'संवाद' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'संवाद' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'अनुभव' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'अनुभव' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'अनुभव' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'अनुभव' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'जोड' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'जोड' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'शांतता' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'शांतता' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'सहजीवन' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'सहजीवन' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'संगत' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'संगत' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'सहजीवन' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'सहजीवन' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'सहजीवन' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'सहजीवन' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'अनुभव' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'अनुभव' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "वनातील 'फांद्या', 'जोड' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'फांद्या' अनुभवताना 'जोड' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'सहजीवन' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'सहजीवन' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'संवाद' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'संवाद' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "वनातील 'वन', 'सहजीवन' आणि 'मूलनिवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'वन' अनुभवताना 'सहजीवन' मनात उगवते.\n'मूलनिवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'जोड' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'जोड' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'प्रकृती' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'प्रकृती' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'प्रकृती' आणि 'मूलनिवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'प्रकृती' मनात उगवते.\n'मूलनिवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'संवाद' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'संवाद' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'एकांत' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'एकांत' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'सहजीवन' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'सहजीवन' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'कौतुक' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'कौतुक' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "वनातील 'धूसर दव', 'अनुभव' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धूसर दव' अनुभवताना 'अनुभव' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'संगत' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'संगत' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'अनुभव' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'अनुभव' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'अनुभव' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'अनुभव' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "वनातील 'सावली', 'जोड' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'सावली' अनुभवताना 'जोड' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'सहजीवन' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'सहजीवन' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'आनंद' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'आनंद' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'जोड' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'जोड' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'एकांत' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'एकांत' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "वनातील 'डोंगर', 'अनुभव' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'डोंगर' अनुभवताना 'अनुभव' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'आनंद' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'आनंद' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'कौतुक' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'कौतुक' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'शांतता' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'शांतता' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'संवाद' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'संवाद' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'संगत' आणि 'चरवाहे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'संगत' मनात उगवते.\n'चरवाहे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'अनुभव' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'अनुभव' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'आनंद' आणि 'कुलकरी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'आनंद' मनात उगवते.\n'कुलकरी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "वनातील 'ओढा', 'शांतता' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'ओढा' अनुभवताना 'शांतता' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. त्यातून जगण्याचा आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'कौतुक' आणि 'वनवासी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'कौतुक' मनात उगवते.\n'वनवासी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "वनातील 'पानगळ', 'एकांत' आणि 'शिकारी' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'पानगळ' अनुभवताना 'एकांत' मनात उगवते.\n'शिकारी' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "वनातील 'झाडे', 'संवाद' आणि 'भटक्या जमाती' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'झाडे' अनुभवताना 'संवाद' मनात उगवते.\n'भटक्या जमाती' साठी तो त्यांच्या जगण्याचा आधार ठरतो. प्रकृती मनावर गारवा करते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "वनातील 'धबधबा', 'सहजीवन' आणि 'औषधी शोधणारे' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'धबधबा' अनुभवताना 'सहजीवन' मनात उगवते.\n'औषधी शोधणारे' साठी तो त्यांच्या जगण्याचा आधार ठरतो. निसर्गाशी जोड निर्माण होते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "वनातील 'कुसर', 'अनुभव' आणि 'जंगलरक्षक' यांचा अनुभव काही ओळींत लिहा.",
+      "answer": "वनातील 'कुसर' अनुभवताना 'अनुभव' मनात उगवते.\n'जंगलरक्षक' साठी तो त्यांच्या जगण्याचा आधार ठरतो. दैनंदिन अर्थ नवीन मिळतो."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'सावली', 'भटक्या जमाती' व 'जगण्याची शैली' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'सावली' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जगण्याची शैली' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'कुसर', 'भटक्या जमाती' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'कुसर' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'कुलकरी' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'कुलकरी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'भटक्या जमाती' व 'जगण्याची शैली' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जगण्याची शैली' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'डोंगर', 'शिकारी' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'डोंगर' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'चरवाहे' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'चरवाहे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'ओढा', 'चरवाहे' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'ओढा' हे जगण्याचे मूळ वातावरण उलगडते.\n'चरवाहे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'शिकारी' व 'जतन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जतन' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'औषधी शोधणारे' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'औषधी शोधणारे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'पानगळ', 'औषधी शोधणारे' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'पानगळ' हे जगण्याचे मूळ वातावरण उलगडते.\n'औषधी शोधणारे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'पानगळ', 'भटक्या जमाती' व 'शोध' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'पानगळ' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'शोध' ही जगण्याची दिशा बनते.\nपरंपरा व संस्कार या परिसरात घडतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'वनवासी' व 'जतन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जतन' ही जगण्याची दिशा बनते.\nपरंपरा व संस्कार या परिसरात घडतात.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धूसर दव', 'औषधी शोधणारे' व 'संवर्धन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धूसर दव' हे जगण्याचे मूळ वातावरण उलगडते.\n'औषधी शोधणारे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संवर्धन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'कुसर', 'शिकारी' व 'शोध' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'कुसर' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'शोध' ही जगण्याची दिशा बनते.\nपरंपरा व संस्कार या परिसरात घडतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'फांद्या', 'वनवासी' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'फांद्या' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'सावली', 'जंगलरक्षक' व 'परंपरा' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'सावली' हे जगण्याचे मूळ वातावरण उलगडते.\n'जंगलरक्षक' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'परंपरा' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'वनवासी' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'जंगलरक्षक' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'जंगलरक्षक' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'वन', 'औषधी शोधणारे' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'वन' हे जगण्याचे मूळ वातावरण उलगडते.\n'औषधी शोधणारे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'भटक्या जमाती' व 'परंपरा' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'परंपरा' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'वनवासी' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'कुसर', 'चरवाहे' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'कुसर' हे जगण्याचे मूळ वातावरण उलगडते.\n'चरवाहे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'ओढा', 'चरवाहे' व 'जतन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'ओढा' हे जगण्याचे मूळ वातावरण उलगडते.\n'चरवाहे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जतन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'सावली', 'शिकारी' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'सावली' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'सावली', 'कुलकरी' व 'जतन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'सावली' हे जगण्याचे मूळ वातावरण उलगडते.\n'कुलकरी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जतन' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'डोंगर', 'औषधी शोधणारे' व 'जतन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'डोंगर' हे जगण्याचे मूळ वातावरण उलगडते.\n'औषधी शोधणारे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जतन' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'वन', 'वनवासी' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'वन' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'शिकारी' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nपरंपरा व संस्कार या परिसरात घडतात.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'सावली', 'मूलनिवासी' व 'जतन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'सावली' हे जगण्याचे मूळ वातावरण उलगडते.\n'मूलनिवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जतन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'वन', 'शिकारी' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'वन' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'ओढा', 'वनवासी' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'ओढा' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'कुसर', 'चरवाहे' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'कुसर' हे जगण्याचे मूळ वातावरण उलगडते.\n'चरवाहे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'फांद्या', 'कुलकरी' व 'जगण्याची शैली' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'फांद्या' हे जगण्याचे मूळ वातावरण उलगडते.\n'कुलकरी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जगण्याची शैली' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धूसर दव', 'कुलकरी' व 'परंपरा' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धूसर दव' हे जगण्याचे मूळ वातावरण उलगडते.\n'कुलकरी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'परंपरा' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'डोंगर', 'वनवासी' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'डोंगर' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nपरंपरा व संस्कार या परिसरात घडतात.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'डोंगर', 'जंगलरक्षक' व 'जगण्याची शैली' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'डोंगर' हे जगण्याचे मूळ वातावरण उलगडते.\n'जंगलरक्षक' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जगण्याची शैली' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धूसर दव', 'भटक्या जमाती' व 'संवर्धन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धूसर दव' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संवर्धन' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'चरवाहे' व 'संरक्षण' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'चरवाहे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संरक्षण' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'कुसर', 'कुलकरी' व 'परंपरा' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'कुसर' हे जगण्याचे मूळ वातावरण उलगडते.\n'कुलकरी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'परंपरा' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'सावली', 'मूलनिवासी' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'सावली' हे जगण्याचे मूळ वातावरण उलगडते.\n'मूलनिवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nकविता या जगण्याचा लयबद्ध आलेख दाखवते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'फांद्या', 'मूलनिवासी' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'फांद्या' हे जगण्याचे मूळ वातावरण उलगडते.\n'मूलनिवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'धबधबा', 'औषधी शोधणारे' व 'जगण्याची शैली' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'धबधबा' हे जगण्याचे मूळ वातावरण उलगडते.\n'औषधी शोधणारे' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'जगण्याची शैली' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'ओढा', 'शिकारी' व 'संवर्धन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'ओढा' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संवर्धन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'फांद्या', 'वनवासी' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'फांद्या' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'शिकारी' व 'संवर्धन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'शिकारी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संवर्धन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'कुसर', 'भटक्या जमाती' व 'परंपरा' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'कुसर' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'परंपरा' ही जगण्याची दिशा बनते.\nपरंपरा व संस्कार या परिसरात घडतात.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'ओढा', 'भटक्या जमाती' व 'दिशादर्शक' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'ओढा' हे जगण्याचे मूळ वातावरण उलगडते.\n'भटक्या जमाती' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'दिशादर्शक' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'पानगळ', 'जंगलरक्षक' व 'संतुलन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'पानगळ' हे जगण्याचे मूळ वातावरण उलगडते.\n'जंगलरक्षक' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संतुलन' ही जगण्याची दिशा बनते.\nजंगलातील मानवी मूल्ये नव्याने उमजतात.\nवनवासींचा जीवनदर्शन यातून समोर येतो."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'पानगळ', 'जंगलरक्षक' व 'शोध' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'पानगळ' हे जगण्याचे मूळ वातावरण उलगडते.\n'जंगलरक्षक' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'शोध' ही जगण्याची दिशा बनते.\nनिसर्गापासून शिकण्यासारखे खूप आहे.\nमानव व पर्यावरण यांचे संतुलन स्पष्ट होते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "वनवासी कवितेत 'झाडे', 'वनवासी' व 'संवर्धन' या आशयाचा विस्तार करा.",
+      "answer": "वनवासी कवितेत 'झाडे' हे जगण्याचे मूळ वातावरण उलगडते.\n'वनवासी' निसर्गाशी तादात्म्य साधून जीवन जगतात.\nत्यांच्यासाठी 'संवर्धन' ही जगण्याची दिशा बनते.\nप्रत्येक क्षणी निसर्गाशी नाते दृढ होते.\nनिसर्गाच्या कवेत जीवन सार्थक वाटते."
+    }
+  ]
+}

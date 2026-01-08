@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M28",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "वृत्तान्त लेखन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "[MCQ-1] 'वृत्तान्ताची व्याख्या' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वृत्तान्ताची व्याख्या' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वृत्तान्ताची व्याख्या' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "[MCQ-2] 'सत्यकथन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सत्यकथन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सत्यकथन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "[MCQ-3] 'वस्तुनिष्ठता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वस्तुनिष्ठता' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वस्तुनिष्ठता' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "[MCQ-4] 'घटनांचा क्रम' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'घटनांचा क्रम' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'घटनांचा क्रम' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "[MCQ-5] 'स्थळ-वेळ उल्लेख' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'स्थळ-वेळ उल्लेख' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'स्थळ-वेळ उल्लेख' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "[MCQ-6] 'व्यक्ती नावे' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'व्यक्ती नावे' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'व्यक्ती नावे' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "[MCQ-7] 'क्रमवार माहिती' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'क्रमवार माहिती' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'क्रमवार माहिती' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "[MCQ-8] 'संमेलन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संमेलन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संमेलन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "[MCQ-9] 'शिबीर' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'शिबीर' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'शिबीर' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "[MCQ-10] 'कार्यशाळा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कार्यशाळा' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कार्यशाळा' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "[MCQ-11] 'सभा' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सभा' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सभा' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "[MCQ-12] 'भावनारहित मांडणी' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भावनारहित मांडणी' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भावनारहित मांडणी' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "[MCQ-13] 'लहान वाक्ये' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'लहान वाक्ये' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'लहान वाक्ये' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "[MCQ-14] 'लहान परिच्छेद' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'लहान परिच्छेद' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'लहान परिच्छेद' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "[MCQ-15] 'स्पष्टता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'स्पष्टता' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'स्पष्टता' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "[MCQ-16] 'तारीख' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'तारीख' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'तारीख' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "[MCQ-17] 'नेमके वर्णन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'नेमके वर्णन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'नेमके वर्णन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "[MCQ-18] 'कल्पनेला वाव नाही' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कल्पनेला वाव नाही' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कल्पनेला वाव नाही' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "[MCQ-19] 'राग-दु:ख नाही' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'राग-दु:ख नाही' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'राग-दु:ख नाही' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "[MCQ-20] 'आश्चर्य नको' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आश्चर्य नको' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आश्चर्य नको' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "[MCQ-21] 'भाषा वास्तवदर्शी' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भाषा वास्तवदर्शी' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भाषा वास्तवदर्शी' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "[MCQ-22] 'आटोपशीरता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आटोपशीरता' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आटोपशीरता' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "[MCQ-23] 'आकर्षकता' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आकर्षकता' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आकर्षकता' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "[MCQ-24] 'वृत्तान्त नमुना' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वृत्तान्त नमुना' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वृत्तान्त नमुना' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "[MCQ-25] 'मराठी भाषा दिन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मराठी भाषा दिन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मराठी भाषा दिन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "[MCQ-26] 'ग्रंथदिंडी' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'ग्रंथदिंडी' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'ग्रंथदिंडी' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "[MCQ-27] 'सभागृह' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सभागृह' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सभागृह' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "[MCQ-28] 'सरस्वती प्रार्थना' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सरस्वती प्रार्थना' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सरस्वती प्रार्थना' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "[MCQ-29] 'कविता वाचन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कविता वाचन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कविता वाचन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "[MCQ-30] 'गीतगायन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'गीतगायन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'गीतगायन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "[MCQ-31] 'कथाकथन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कथाकथन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कथाकथन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "[MCQ-32] 'अभिवाचन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'अभिवाचन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'अभिवाचन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "[MCQ-33] 'कुसुमाग्रज योगदान' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कुसुमाग्रज योगदान' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कुसुमाग्रज योगदान' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "[MCQ-34] 'भाषेचे महत्त्व' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भाषेचे महत्त्व' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भाषेचे महत्त्व' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "[MCQ-35] 'आभारप्रदर्शन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आभारप्रदर्शन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आभारप्रदर्शन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "[MCQ-36] 'पसायदान' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पसायदान' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पसायदान' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "[MCQ-37] 'व्यासपीठ' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'व्यासपीठ' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'व्यासपीठ' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "[MCQ-38] 'प्रमुख पाहुणे' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रमुख पाहुणे' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रमुख पाहुणे' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "[MCQ-39] 'मुख्याध्यापक' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मुख्याध्यापक' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मुख्याध्यापक' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "[MCQ-40] 'विद्यार्थी सहभाग' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विद्यार्थी सहभाग' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विद्यार्थी सहभाग' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "[MCQ-41] 'कार्यक्रमांचा क्रम' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कार्यक्रमांचा क्रम' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कार्यक्रमांचा क्रम' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "[MCQ-42] 'दिवस-उत्सव' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'दिवस-उत्सव' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'दिवस-उत्सव' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "[MCQ-43] 'प्रेक्षक' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रेक्षक' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रेक्षक' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "[MCQ-44] 'सुत्रसंचालन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सुत्रसंचालन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सुत्रसंचालन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "[MCQ-45] 'वेळ व्यवस्थापन' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वेळ व्यवस्थापन' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वेळ व्यवस्थापन' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "[MCQ-46] 'स्थळी व्यवस्था' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'स्थळी व्यवस्था' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'स्थळी व्यवस्था' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "[MCQ-47] 'ठिकाणाचा उल्लेख' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'ठिकाणाचा उल्लेख' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'ठिकाणाचा उल्लेख' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "[MCQ-48] 'निष्कर्ष' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'निष्कर्ष' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'निष्कर्ष' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "[MCQ-49] 'संदेश' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संदेश' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संदेश' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "[MCQ-50] 'वृत्तान्त लेखन सराव' संदर्भात योग्य विधान निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'वृत्तान्त लेखन सराव' हा वृत्तान्त लेखनाचा भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वृत्तान्त कल्पनारम्य कथा असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृत्तान्तात ओळख नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वृत्तान्तात क्रम नसतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "'वृत्तान्त लेखन सराव' हा वृत्तान्त लेखनाचा भाग आहे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "[SHORT-51] 'वृत्तान्ताची व्याख्या' संदर्भात अर्थ लिहा.",
+      "answer": "'वृत्तान्ताची व्याख्या' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "[SHORT-52] 'सत्यकथन' संदर्भात भूमिका लिहा.",
+      "answer": "'सत्यकथन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "[SHORT-53] 'वस्तुनिष्ठता' संदर्भात महत्त्व लिहा.",
+      "answer": "'वस्तुनिष्ठता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "[SHORT-54] 'घटनांचा क्रम' संदर्भात उपयोग लिहा.",
+      "answer": "'घटनांचा क्रम' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "[SHORT-55] 'स्थळ-वेळ उल्लेख' संदर्भात अवयव लिहा.",
+      "answer": "'स्थळ-वेळ उल्लेख' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "[SHORT-56] 'व्यक्ती नावे' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'व्यक्ती नावे' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "[SHORT-57] 'क्रमवार माहिती' संदर्भात उदाहरण लिहा.",
+      "answer": "'क्रमवार माहिती' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "[SHORT-58] 'संमेलन' संदर्भात शिकवण लिहा.",
+      "answer": "'संमेलन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "[SHORT-59] 'शिबीर' संदर्भात अर्थ लिहा.",
+      "answer": "'शिबीर' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "[SHORT-60] 'कार्यशाळा' संदर्भात भूमिका लिहा.",
+      "answer": "'कार्यशाळा' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "[SHORT-61] 'सभा' संदर्भात महत्त्व लिहा.",
+      "answer": "'सभा' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "[SHORT-62] 'भावनारहित मांडणी' संदर्भात उपयोग लिहा.",
+      "answer": "'भावनारहित मांडणी' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "[SHORT-63] 'लहान वाक्ये' संदर्भात अवयव लिहा.",
+      "answer": "'लहान वाक्ये' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "[SHORT-64] 'लहान परिच्छेद' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'लहान परिच्छेद' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "[SHORT-65] 'स्पष्टता' संदर्भात उदाहरण लिहा.",
+      "answer": "'स्पष्टता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "[SHORT-66] 'तारीख' संदर्भात शिकवण लिहा.",
+      "answer": "'तारीख' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "[SHORT-67] 'नेमके वर्णन' संदर्भात अर्थ लिहा.",
+      "answer": "'नेमके वर्णन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "[SHORT-68] 'कल्पनेला वाव नाही' संदर्भात भूमिका लिहा.",
+      "answer": "'कल्पनेला वाव नाही' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "[SHORT-69] 'राग-दु:ख नाही' संदर्भात महत्त्व लिहा.",
+      "answer": "'राग-दु:ख नाही' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "[SHORT-70] 'आश्चर्य नको' संदर्भात उपयोग लिहा.",
+      "answer": "'आश्चर्य नको' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "[SHORT-71] 'भाषा वास्तवदर्शी' संदर्भात अवयव लिहा.",
+      "answer": "'भाषा वास्तवदर्शी' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "[SHORT-72] 'आटोपशीरता' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'आटोपशीरता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "[SHORT-73] 'आकर्षकता' संदर्भात उदाहरण लिहा.",
+      "answer": "'आकर्षकता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "[SHORT-74] 'वृत्तान्त नमुना' संदर्भात शिकवण लिहा.",
+      "answer": "'वृत्तान्त नमुना' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "[SHORT-75] 'मराठी भाषा दिन' संदर्भात अर्थ लिहा.",
+      "answer": "'मराठी भाषा दिन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "[SHORT-76] 'ग्रंथदिंडी' संदर्भात भूमिका लिहा.",
+      "answer": "'ग्रंथदिंडी' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "[SHORT-77] 'सभागृह' संदर्भात महत्त्व लिहा.",
+      "answer": "'सभागृह' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "[SHORT-78] 'सरस्वती प्रार्थना' संदर्भात उपयोग लिहा.",
+      "answer": "'सरस्वती प्रार्थना' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "[SHORT-79] 'कविता वाचन' संदर्भात अवयव लिहा.",
+      "answer": "'कविता वाचन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "[SHORT-80] 'गीतगायन' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'गीतगायन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "[SHORT-81] 'कथाकथन' संदर्भात उदाहरण लिहा.",
+      "answer": "'कथाकथन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "[SHORT-82] 'अभिवाचन' संदर्भात शिकवण लिहा.",
+      "answer": "'अभिवाचन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "[SHORT-83] 'कुसुमाग्रज योगदान' संदर्भात अर्थ लिहा.",
+      "answer": "'कुसुमाग्रज योगदान' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "[SHORT-84] 'भाषेचे महत्त्व' संदर्भात भूमिका लिहा.",
+      "answer": "'भाषेचे महत्त्व' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "[SHORT-85] 'आभारप्रदर्शन' संदर्भात महत्त्व लिहा.",
+      "answer": "'आभारप्रदर्शन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "[SHORT-86] 'पसायदान' संदर्भात उपयोग लिहा.",
+      "answer": "'पसायदान' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "[SHORT-87] 'व्यासपीठ' संदर्भात अवयव लिहा.",
+      "answer": "'व्यासपीठ' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "[SHORT-88] 'प्रमुख पाहुणे' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'प्रमुख पाहुणे' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "[SHORT-89] 'मुख्याध्यापक' संदर्भात उदाहरण लिहा.",
+      "answer": "'मुख्याध्यापक' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "[SHORT-90] 'विद्यार्थी सहभाग' संदर्भात शिकवण लिहा.",
+      "answer": "'विद्यार्थी सहभाग' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "[SHORT-91] 'कार्यक्रमांचा क्रम' संदर्भात अर्थ लिहा.",
+      "answer": "'कार्यक्रमांचा क्रम' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "[SHORT-92] 'दिवस-उत्सव' संदर्भात भूमिका लिहा.",
+      "answer": "'दिवस-उत्सव' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "[SHORT-93] 'प्रेक्षक' संदर्भात महत्त्व लिहा.",
+      "answer": "'प्रेक्षक' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "[SHORT-94] 'सुत्रसंचालन' संदर्भात उपयोग लिहा.",
+      "answer": "'सुत्रसंचालन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "[SHORT-95] 'वेळ व्यवस्थापन' संदर्भात अवयव लिहा.",
+      "answer": "'वेळ व्यवस्थापन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "[SHORT-96] 'स्थळी व्यवस्था' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'स्थळी व्यवस्था' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "[SHORT-97] 'ठिकाणाचा उल्लेख' संदर्भात उदाहरण लिहा.",
+      "answer": "'ठिकाणाचा उल्लेख' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "[SHORT-98] 'निष्कर्ष' संदर्भात शिकवण लिहा.",
+      "answer": "'निष्कर्ष' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "[SHORT-99] 'संदेश' संदर्भात अर्थ लिहा.",
+      "answer": "'संदेश' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "[SHORT-100] 'वृत्तान्त लेखन सराव' संदर्भात भूमिका लिहा.",
+      "answer": "'वृत्तान्त लेखन सराव' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "[SHORT-101] 'वृत्तान्ताची व्याख्या' संदर्भात महत्त्व लिहा.",
+      "answer": "'वृत्तान्ताची व्याख्या' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "[SHORT-102] 'सत्यकथन' संदर्भात उपयोग लिहा.",
+      "answer": "'सत्यकथन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "[SHORT-103] 'वस्तुनिष्ठता' संदर्भात अवयव लिहा.",
+      "answer": "'वस्तुनिष्ठता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "[SHORT-104] 'घटनांचा क्रम' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'घटनांचा क्रम' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "[SHORT-105] 'स्थळ-वेळ उल्लेख' संदर्भात उदाहरण लिहा.",
+      "answer": "'स्थळ-वेळ उल्लेख' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "[SHORT-106] 'व्यक्ती नावे' संदर्भात शिकवण लिहा.",
+      "answer": "'व्यक्ती नावे' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "[SHORT-107] 'क्रमवार माहिती' संदर्भात अर्थ लिहा.",
+      "answer": "'क्रमवार माहिती' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "[SHORT-108] 'संमेलन' संदर्भात भूमिका लिहा.",
+      "answer": "'संमेलन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "[SHORT-109] 'शिबीर' संदर्भात महत्त्व लिहा.",
+      "answer": "'शिबीर' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "[SHORT-110] 'कार्यशाळा' संदर्भात उपयोग लिहा.",
+      "answer": "'कार्यशाळा' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "[SHORT-111] 'सभा' संदर्भात अवयव लिहा.",
+      "answer": "'सभा' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "[SHORT-112] 'भावनारहित मांडणी' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'भावनारहित मांडणी' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "[SHORT-113] 'लहान वाक्ये' संदर्भात उदाहरण लिहा.",
+      "answer": "'लहान वाक्ये' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "[SHORT-114] 'लहान परिच्छेद' संदर्भात शिकवण लिहा.",
+      "answer": "'लहान परिच्छेद' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "[SHORT-115] 'स्पष्टता' संदर्भात अर्थ लिहा.",
+      "answer": "'स्पष्टता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "[SHORT-116] 'तारीख' संदर्भात भूमिका लिहा.",
+      "answer": "'तारीख' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "[SHORT-117] 'नेमके वर्णन' संदर्भात महत्त्व लिहा.",
+      "answer": "'नेमके वर्णन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "[SHORT-118] 'कल्पनेला वाव नाही' संदर्भात उपयोग लिहा.",
+      "answer": "'कल्पनेला वाव नाही' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "[SHORT-119] 'राग-दु:ख नाही' संदर्भात अवयव लिहा.",
+      "answer": "'राग-दु:ख नाही' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "[SHORT-120] 'आश्चर्य नको' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'आश्चर्य नको' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "[SHORT-121] 'भाषा वास्तवदर्शी' संदर्भात उदाहरण लिहा.",
+      "answer": "'भाषा वास्तवदर्शी' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "[SHORT-122] 'आटोपशीरता' संदर्भात शिकवण लिहा.",
+      "answer": "'आटोपशीरता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "[SHORT-123] 'आकर्षकता' संदर्भात अर्थ लिहा.",
+      "answer": "'आकर्षकता' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "[SHORT-124] 'वृत्तान्त नमुना' संदर्भात भूमिका लिहा.",
+      "answer": "'वृत्तान्त नमुना' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "[SHORT-125] 'मराठी भाषा दिन' संदर्भात महत्त्व लिहा.",
+      "answer": "'मराठी भाषा दिन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "[SHORT-126] 'ग्रंथदिंडी' संदर्भात उपयोग लिहा.",
+      "answer": "'ग्रंथदिंडी' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "[SHORT-127] 'सभागृह' संदर्भात अवयव लिहा.",
+      "answer": "'सभागृह' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "[SHORT-128] 'सरस्वती प्रार्थना' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'सरस्वती प्रार्थना' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "[SHORT-129] 'कविता वाचन' संदर्भात उदाहरण लिहा.",
+      "answer": "'कविता वाचन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "[SHORT-130] 'गीतगायन' संदर्भात शिकवण लिहा.",
+      "answer": "'गीतगायन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "[SHORT-131] 'कथाकथन' संदर्भात अर्थ लिहा.",
+      "answer": "'कथाकथन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "[SHORT-132] 'अभिवाचन' संदर्भात भूमिका लिहा.",
+      "answer": "'अभिवाचन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "[SHORT-133] 'कुसुमाग्रज योगदान' संदर्भात महत्त्व लिहा.",
+      "answer": "'कुसुमाग्रज योगदान' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "[SHORT-134] 'भाषेचे महत्त्व' संदर्भात उपयोग लिहा.",
+      "answer": "'भाषेचे महत्त्व' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "[SHORT-135] 'आभारप्रदर्शन' संदर्भात अवयव लिहा.",
+      "answer": "'आभारप्रदर्शन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "[SHORT-136] 'पसायदान' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'पसायदान' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "[SHORT-137] 'व्यासपीठ' संदर्भात उदाहरण लिहा.",
+      "answer": "'व्यासपीठ' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "[SHORT-138] 'प्रमुख पाहुणे' संदर्भात शिकवण लिहा.",
+      "answer": "'प्रमुख पाहुणे' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "[SHORT-139] 'मुख्याध्यापक' संदर्भात अर्थ लिहा.",
+      "answer": "'मुख्याध्यापक' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "[SHORT-140] 'विद्यार्थी सहभाग' संदर्भात भूमिका लिहा.",
+      "answer": "'विद्यार्थी सहभाग' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "[SHORT-141] 'कार्यक्रमांचा क्रम' संदर्भात महत्त्व लिहा.",
+      "answer": "'कार्यक्रमांचा क्रम' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "[SHORT-142] 'दिवस-उत्सव' संदर्भात उपयोग लिहा.",
+      "answer": "'दिवस-उत्सव' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "[SHORT-143] 'प्रेक्षक' संदर्भात अवयव लिहा.",
+      "answer": "'प्रेक्षक' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अवयव दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "[SHORT-144] 'सुत्रसंचालन' संदर्भात विद्यार्थी लाभ लिहा.",
+      "answer": "'सुत्रसंचालन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो विद्यार्थी लाभ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "[SHORT-145] 'वेळ व्यवस्थापन' संदर्भात उदाहरण लिहा.",
+      "answer": "'वेळ व्यवस्थापन' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उदाहरण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "[SHORT-146] 'स्थळी व्यवस्था' संदर्भात शिकवण लिहा.",
+      "answer": "'स्थळी व्यवस्था' हा वृत्तान्तातील मुख्य घटक आहे.\nतो शिकवण दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "[SHORT-147] 'ठिकाणाचा उल्लेख' संदर्भात अर्थ लिहा.",
+      "answer": "'ठिकाणाचा उल्लेख' हा वृत्तान्तातील मुख्य घटक आहे.\nतो अर्थ दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "[SHORT-148] 'निष्कर्ष' संदर्भात भूमिका लिहा.",
+      "answer": "'निष्कर्ष' हा वृत्तान्तातील मुख्य घटक आहे.\nतो भूमिका दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "[SHORT-149] 'संदेश' संदर्भात महत्त्व लिहा.",
+      "answer": "'संदेश' हा वृत्तान्तातील मुख्य घटक आहे.\nतो महत्त्व दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "[SHORT-150] 'वृत्तान्त लेखन सराव' संदर्भात उपयोग लिहा.",
+      "answer": "'वृत्तान्त लेखन सराव' हा वृत्तान्तातील मुख्य घटक आहे.\nतो उपयोग दर्शवून घटना स्पष्टपणे मांडतो."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "[LONG-151] 'वृत्तान्ताची व्याख्या' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'वृत्तान्ताची व्याख्या' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "[LONG-152] 'सत्यकथन' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'सत्यकथन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "[LONG-153] 'वस्तुनिष्ठता' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'वस्तुनिष्ठता' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "[LONG-154] 'घटनांचा क्रम' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'घटनांचा क्रम' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "[LONG-155] 'स्थळ-वेळ उल्लेख' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'स्थळ-वेळ उल्लेख' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "[LONG-156] 'व्यक्ती नावे' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'व्यक्ती नावे' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "[LONG-157] 'क्रमवार माहिती' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'क्रमवार माहिती' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "[LONG-158] 'संमेलन' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'संमेलन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "[LONG-159] 'शिबीर' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'शिबीर' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "[LONG-160] 'कार्यशाळा' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'कार्यशाळा' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "[LONG-161] 'सभा' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'सभा' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "[LONG-162] 'भावनारहित मांडणी' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'भावनारहित मांडणी' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "[LONG-163] 'लहान वाक्ये' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'लहान वाक्ये' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "[LONG-164] 'लहान परिच्छेद' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'लहान परिच्छेद' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "[LONG-165] 'स्पष्टता' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'स्पष्टता' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "[LONG-166] 'तारीख' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'तारीख' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "[LONG-167] 'नेमके वर्णन' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'नेमके वर्णन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "[LONG-168] 'कल्पनेला वाव नाही' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'कल्पनेला वाव नाही' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "[LONG-169] 'राग-दु:ख नाही' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'राग-दु:ख नाही' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "[LONG-170] 'आश्चर्य नको' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'आश्चर्य नको' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "[LONG-171] 'भाषा वास्तवदर्शी' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'भाषा वास्तवदर्शी' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "[LONG-172] 'आटोपशीरता' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'आटोपशीरता' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "[LONG-173] 'आकर्षकता' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'आकर्षकता' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "[LONG-174] 'वृत्तान्त नमुना' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'वृत्तान्त नमुना' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "[LONG-175] 'मराठी भाषा दिन' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'मराठी भाषा दिन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "[LONG-176] 'ग्रंथदिंडी' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'ग्रंथदिंडी' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "[LONG-177] 'सभागृह' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'सभागृह' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "[LONG-178] 'सरस्वती प्रार्थना' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'सरस्वती प्रार्थना' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "[LONG-179] 'कविता वाचन' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'कविता वाचन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "[LONG-180] 'गीतगायन' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'गीतगायन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "[LONG-181] 'कथाकथन' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'कथाकथन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "[LONG-182] 'अभिवाचन' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'अभिवाचन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "[LONG-183] 'कुसुमाग्रज योगदान' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'कुसुमाग्रज योगदान' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "[LONG-184] 'भाषेचे महत्त्व' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'भाषेचे महत्त्व' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "[LONG-185] 'आभारप्रदर्शन' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'आभारप्रदर्शन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "[LONG-186] 'पसायदान' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'पसायदान' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "[LONG-187] 'व्यासपीठ' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'व्यासपीठ' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "[LONG-188] 'प्रमुख पाहुणे' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'प्रमुख पाहुणे' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "[LONG-189] 'मुख्याध्यापक' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'मुख्याध्यापक' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "[LONG-190] 'विद्यार्थी सहभाग' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'विद्यार्थी सहभाग' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "[LONG-191] 'कार्यक्रमांचा क्रम' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'कार्यक्रमांचा क्रम' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "[LONG-192] 'दिवस-उत्सव' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'दिवस-उत्सव' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "[LONG-193] 'प्रेक्षक' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'प्रेक्षक' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "[LONG-194] 'सुत्रसंचालन' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'सुत्रसंचालन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "[LONG-195] 'वेळ व्यवस्थापन' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'वेळ व्यवस्थापन' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "[LONG-196] 'स्थळी व्यवस्था' संदर्भात वस्तुनिष्ठता विस्ताराने लिहा.",
+      "answer": "'स्थळी व्यवस्था' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वस्तुनिष्ठता अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "[LONG-197] 'ठिकाणाचा उल्लेख' संदर्भात नेमकेपणा विस्ताराने लिहा.",
+      "answer": "'ठिकाणाचा उल्लेख' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो नेमकेपणा अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "[LONG-198] 'निष्कर्ष' संदर्भात वाचनानुभव विस्ताराने लिहा.",
+      "answer": "'निष्कर्ष' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो वाचनानुभव अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "[LONG-199] 'संदेश' संदर्भात भाषिक कौशल्य विस्ताराने लिहा.",
+      "answer": "'संदेश' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो भाषिक कौशल्य अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "[LONG-200] 'वृत्तान्त लेखन सराव' संदर्भात समाजातील उपयोग विस्ताराने लिहा.",
+      "answer": "'वृत्तान्त लेखन सराव' हा वृत्तान्त लेखनातील मूलभूत घटक ठरतो.\nतो समाजातील उपयोग अधोरेखित करत घटना स्पष्ट व नेमक्या शब्दांत मांडतो.\nक्रमवार माहिती, तारीख-स्थळ-अभिनेत्यांचा उल्लेख आवश्यक असतो.\nआत्मनिष्ठ भावना बाजूला ठेवून वस्तुनिष्ठ लेखन करावे लागते.\nयातून समाजातील कार्यक्रमांचे खरे स्वरूप समजते."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.14",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "इनाम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'इनाम' पाठ के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "हरिशंकर परसाई", "is_correct": false },
+        { "option_id": 2, "text": "अरुण", "is_correct": true },
+        { "option_id": 3, "text": "श्रीलाल शुक्ल", "is_correct": false },
+        { "option_id": 4, "text": "शरद जोशी", "is_correct": false }
+      ],
+      "answer": "अरुण"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "देसी कंपनी ने किस विदेशी विज्ञापन को अपनाया?",
+      "options": [
+        { "option_id": 1, "text": "कार का", "is_correct": false },
+        { "option_id": 2, "text": "टेलीविजन का", "is_correct": false },
+        { "option_id": 3, "text": "रेफ्रीजरेटर का", "is_correct": true },
+        { "option_id": 4, "text": "वाशिंग मशीन का", "is_correct": false }
+      ],
+      "answer": "रेफ्रीजरेटर का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "प्रतियोगिता का परिणाम किस तारीख को निकलना था?",
+      "options": [
+        { "option_id": 1, "text": "१ जनवरी", "is_correct": false },
+        { "option_id": 2, "text": "१५ अगस्त", "is_correct": false },
+        { "option_id": 3, "text": "१ अप्रैल", "is_correct": true },
+        { "option_id": 4, "text": "२ अक्टूबर", "is_correct": false }
+      ],
+      "answer": "१ अप्रैल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखक को इनाम में क्या मिला?",
+      "options": [
+        { "option_id": 1, "text": "नकद राशि", "is_correct": false },
+        { "option_id": 2, "text": "रेफ्रीजरेटर", "is_correct": true },
+        { "option_id": 3, "text": "विदेश यात्रा", "is_correct": false },
+        { "option_id": 4, "text": "सोने का सिक्का", "is_correct": false }
+      ],
+      "answer": "रेफ्रीजरेटर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अमिता ने ताली पीटकर क्या कहा?",
+      "options": [
+        { "option_id": 1, "text": "मैं ठंडा पानी पिऊँगी", "is_correct": false },
+        { "option_id": 2, "text": "मैं रोज आइसक्रीम खाया करूँगी", "is_correct": true },
+        { "option_id": 3, "text": "मैं बर्फ के क्यूब चूसूँगी", "is_correct": false },
+        { "option_id": 4, "text": "हम इसे बेच देंगे", "is_correct": false }
+      ],
+      "answer": "मैं रोज आइसक्रीम खाया करूँगी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रेफ्रीजरेटर देखने के लिए लगी भीड़ की तुलना किससे की गई है?",
+      "options": [
+        { "option_id": 1, "text": "सिनेमा की भीड़ से", "is_correct": false },
+        { "option_id": 2, "text": "नेता की रैली से", "is_correct": false },
+        { "option_id": 3, "text": "बहू को देखने आने वाली भीड़ से", "is_correct": true },
+        { "option_id": 4, "text": "मेले की भीड़ से", "is_correct": false }
+      ],
+      "answer": "बहू को देखने आने वाली भीड़ से"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शांति बुआ रेफ्रीजरेटर में क्या रखने आई थीं?",
+      "options": [
+        { "option_id": 1, "text": "मिठाई", "is_correct": false },
+        { "option_id": 2, "text": "पनीर", "is_correct": false },
+        { "option_id": 3, "text": "गुथा हुआ आटा", "is_correct": true },
+        { "option_id": 4, "text": "फल", "is_correct": false }
+      ],
+      "answer": "गुथा हुआ आटा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लाला दीनदयाल ने आइसक्रीम खाने से मना क्यों किया?",
+      "options": [
+        { "option_id": 1, "text": "उन्हें पसंद नहीं थी", "is_correct": false },
+        { "option_id": 2, "text": "वे बीमार थे", "is_correct": false },
+        { "option_id": 3, "text": "दाँत चीसने (दर्द) का बहाना बनाकर", "is_correct": true },
+        { "option_id": 4, "text": "व्रत था", "is_correct": false }
+      ],
+      "answer": "दाँत चीसने (दर्द) का बहाना बनाकर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कैलाश ने लेखक के घर की कौन सी चीज खा ली?",
+      "options": [
+        { "option_id": 1, "text": "मिठाई", "is_correct": false },
+        { "option_id": 2, "text": "सिल्वर क्रीम", "is_correct": true },
+        { "option_id": 3, "text": "आइसक्रीम", "is_correct": false },
+        { "option_id": 4, "text": "फल", "is_correct": false }
+      ],
+      "answer": "सिल्वर क्रीम"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बनर्जी कोलकाता से क्या लेकर आए थे?",
+      "options": [
+        { "option_id": 1, "text": "रसगुल्ले", "is_correct": false },
+        { "option_id": 2, "text": "संदेश और खीर", "is_correct": true },
+        { "option_id": 3, "text": "मछली", "is_correct": false },
+        { "option_id": 4, "text": "मिष्टी दोई", "is_correct": false }
+      ],
+      "answer": "संदेश और खीर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लेखक ने रमा के पराठे किसे दे दिए?",
+      "options": [
+        { "option_id": 1, "text": "कुत्ते को", "is_correct": false },
+        { "option_id": 2, "text": "गरीब को", "is_correct": false },
+        { "option_id": 3, "text": "साधु को", "is_correct": true },
+        { "option_id": 4, "text": "खुद खा लिए", "is_correct": false }
+      ],
+      "answer": "साधु को"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'खयाली पुलाव पकाना' मुहावरे का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "खाना बनाना", "is_correct": false },
+        { "option_id": 2, "text": "कल्पना में खोए रहना", "is_correct": true },
+        { "option_id": 3, "text": "झूठ बोलना", "is_correct": false },
+        { "option_id": 4, "text": "योजना बनाना", "is_correct": false }
+      ],
+      "answer": "कल्पना में खोए रहना"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जले-भुने पड़ोसी ने रेफ्रीजरेटर को क्या कहा?",
+      "options": [
+        { "option_id": 1, "text": "सफेद हाथी", "is_correct": true },
+        { "option_id": 2, "text": "काली बला", "is_correct": false },
+        { "option_id": 3, "text": "बिजली का दुश्मन", "is_correct": false },
+        { "option_id": 4, "text": "लोहे का बक्सा", "is_correct": false }
+      ],
+      "answer": "सफेद हाथी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार मोहल्ले में समाचार कैसे फैलते हैं?",
+      "options": [
+        { "option_id": 1, "text": "धीरे-धीरे", "is_correct": false },
+        { "option_id": 2, "text": "अखबार की तरह", "is_correct": false },
+        { "option_id": 3, "text": "उड़ती बीमारी से भी तेज", "is_correct": true },
+        { "option_id": 4, "text": "हवा की तरह", "is_correct": false }
+      ],
+      "answer": "उड़ती बीमारी से भी तेज"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'जुगाड़' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "गाड़ी", "is_correct": false },
+        { "option_id": 2, "text": "व्यवस्था / प्रबंध", "is_correct": true },
+        { "option_id": 3, "text": "झगड़ा", "is_correct": false },
+        { "option_id": 4, "text": "जोड़ना", "is_correct": false }
+      ],
+      "answer": "व्यवस्था / प्रबंध"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "प्रतियोगिता का सवाल क्या था?",
+      "answer": "प्रतियोगिता का सवाल था - 'इस रेफ्रीजरेटर को खरीदने के क्या सात लाभ हैं?'"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "लेखक की पत्नी ने कंपनी के बारे में क्या तर्क दिया?",
+      "answer": "पत्नी ने कहा कि कंपनी के पास पहले से कोई सही उत्तर नहीं है, वह सबसे अच्छे उत्तर को इनाम देगी और इससे उनका मुफ्त में विज्ञापन हो जाएगा और एक्सपर्ट के पैसे भी बचेंगे।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "हेमंत ने रेफ्रीजरेटर आने पर क्या करने को कहा?",
+      "answer": "हेमंत ने कहा कि वह बर्फ के क्यूब चूसूँगा।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "रेफ्रीजरेटर का पानी ठंडा क्यों नहीं हो पा रहा था?",
+      "answer": "क्योंकि देखने आने वालों का ताँता लगा हुआ था और बोतलें भरते ही खाली हो जाती थीं, पानी को ठंडा होने का समय ही नहीं मिल रहा था।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "पड़ोसियों को लेखक के लॉटरी जीतने पर क्या शक था?",
+      "answer": "उन्हें शक था कि लेखक का कोई रिश्तेदार कंपनी में है जिसने उन्हें जवाब बता दिए हैं या लेखक ने खुद पैसे देकर रेफ्रीजरेटर खरीदा है और लॉटरी का नाटक कर रहा है।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "लेखक की प्राइवेसी (एकांत) कैसे छिन गई?",
+      "answer": "मोहल्ले के लोग अपना-अपना सामान (आटा, मिठाई, सब्जी, फल) रेफ्रीजरेटर में रखने आने लगे, जिससे घर में लोगों का आना-जाना लगा रहता था और नहाना-खाना भी मुश्किल हो गया था।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "शांति बुआ को अपना पनीर मटर वापस क्यों नहीं मिला?",
+      "answer": "लेखक ने बहाना बनाया कि उसमें मच्छर गिर गए थे, इसलिए फेंक दिया।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "चमनलाल लखनऊ से क्या लेकर आए थे?",
+      "answer": "चमनलाल लखनऊ से टोकरा भर करेले लेकर आए थे।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कैलाश ने सिंधी आलुओं के बारे में क्या कहा?",
+      "answer": "कैलाश ने कहा कि उसे सिंधी आलू बहुत पसंद हैं, इसलिए उसने पत्नी से काफी बनवा लिए हैं और वह उन्हें लेखक के फ्रिज में रखना चाहता है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'मिसरी घोलकर बोलना' मुहावरे का अर्थ लिखिए।",
+      "answer": "'मिसरी घोलकर बोलना' का अर्थ है - मीठी-मीठी बातें करना।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "रेफ्रीजरेटर आने के बाद लेखक के घर की स्थिति का वर्णन कीजिए।",
+      "answer": "रेफ्रीजरेटर आने के बाद लेखक का घर एक प्रदर्शनी बन गया। सगे-संबंधी और पड़ोसी उसे देखने के लिए उमड़ पड़े। पत्नी को सबको पानी और चाय पिलानी पड़ी। पानी ठंडा होने से पहले ही खत्म हो जाता था। लोगों की जलने-भुने वाली बातें सुननी पड़ीं। इसके बाद, मोहल्ले वालों ने फ्रिज को अपना समझ लिया और उसमें अपना सामान (आटा, मिठाई, सब्जियाँ) रखना शुरू कर दिया। लेखक के परिवार को अपनी चीजों के लिए जगह नहीं मिलती थी और उनकी निजी जिंदगी (प्राइवेसी) पूरी तरह खत्म हो गई।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "पड़ोसियों और रिश्तेदारों की प्रतिक्रियाएँ कैसी थीं? विस्तार से लिखिए।",
+      "answer": "पड़ोसियों और रिश्तेदारों की प्रतिक्रियाओं में ईर्ष्या और अवसरवादिता साफ दिख रही थी। कुछ ने कहा कि बिजली का बिल आएगा तो पता चलेगा (सफेद हाथी)। किसी ने कहा कि लेखक का रिश्तेदार कंपनी में है। एक ने बच्चे से उगलवाने की कोशिश की कि फ्रिज के पैसे दिए हैं। लाला दीनदयाल जलते-भुनते आए और झूठा बहाना बनाकर आइसक्रीम नहीं खाई। बाद में सबने अपने स्वार्थ के लिए फ्रिज का इस्तेमाल गोदाम की तरह करना शुरू कर दिया।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "लेखक और उनकी पत्नी ने पड़ोसियों के सामान से छुटकारा पाने के लिए क्या उपाय किए?",
+      "answer": "जब लेखक और उनकी पत्नी पड़ोसियों के रोज-रोज के सामान रखने से तंग आ गए, तो उन्होंने तरकीबें सोचीं। उन्होंने लोगों का सामान गायब करना या बहाने बनाना शुरू किया। शांति बुआ से कहा कि पनीर में मच्छर गिर गए थे। रमा से कहा कि उसके पराठे एक साधु को दे दिए। चक्रवर्ती से कहा कि उनका साग भीग गया था। इस तरह के झूठ बोलकर और बहाने बनाकर उन्होंने धीरे-धीरे पड़ोसियों को अपना सामान लाने से रोका।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "कैलाश के प्रसंग से लेखक की विवशता कैसे प्रकट होती है?",
+      "answer": "कैलाश जब सिंधी आलू रखने आया, तो फ्रिज भरा हुआ था। लेखक ने विवशता जताई, तो कैलाश ने उन्हें ताना मारा कि 'ऐरे-गैरे' के लिए जगह है पर दोस्तों के लिए नहीं। मजबूरी में लेखक को फ्रिज खोलकर दिखाना पड़ा। कैलाश ने न केवल जबरदस्ती जगह बनाने की कोशिश की, बल्कि बच्चों के लिए रखी 'सिल्वर क्रीम' भी यह कहकर खा गया कि ऐसी चीजें पेट में होनी चाहिए। लेखक चाहकर भी उसे रोक नहीं सके, यह उनकी चरम विवशता थी।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "इस कहानी के माध्यम से समाज की किस मानसिकता पर व्यंग्य किया गया है?",
+      "answer": "इस कहानी के माध्यम से लेखक ने समाज की दोहरी मानसिकता, ईर्ष्या, और मुफ्तखोरी (परजीवी वृत्ति) पर करारा व्यंग्य किया है। लोग दूसरों की खुशी में खुश होने के बजाय जलते हैं और शक करते हैं। साथ ही, वे दूसरों की संपत्ति या सुविधा का अनुचित लाभ उठाने में भी संकोच नहीं करते। वे दूसरे की प्राइवेसी की परवाह नहीं करते और अपना काम निकालने के लिए अधिकार जमाते हैं। यह कहानी मध्यमवर्गीय समाज के खोखलेपन और स्वार्थ को उजागर करती है।"
+    }
+  ]
+}

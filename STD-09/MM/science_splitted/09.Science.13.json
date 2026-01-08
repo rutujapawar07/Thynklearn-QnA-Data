@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.13",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "कार्बन : एक महत्त्वाचे मूलद्रव्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कार्बन कोणत्या गटातील मूलद्रव्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपधातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वायू",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधातू"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कार्बनची संयुजा किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या स्वसंयोजन गुणधर्माला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समावयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयुजता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कॅटेनेशन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कॅटेनेशन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कार्बनचे समावयवी संयुगे म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान सूत्र, वेगळी रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वेगळी सूत्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान रचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक संयुगे",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान सूत्र, वेगळी रचना"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या कोणत्या रूपात विद्युत वाहकता असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रेफाइट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोळसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रेफाइट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हिरा कठीण का असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्बल बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रिमितीय जाळी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुहेरी बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिमितीय जाळी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ग्रेफाइट मऊ का असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्तरांमध्ये दुर्बल बंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आयनिक बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिमितीय जाळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुहेरी बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तरांमध्ये दुर्बल बंध"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हायड्रोकार्बन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्बन-ऑक्सिजन संयुगे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्बन-हायड्रोजन संयुगे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कार्बन-नायट्रोजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कार्बन-हॅलोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्बन-हायड्रोजन संयुगे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "संतृप्त हायड्रोकार्बन कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्काईन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्कोहॉल",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन्स"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "असंतृप्त हायड्रोकार्बन कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन्स व अल्काईन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्कोहॉल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅसिड",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन्स व अल्काईन्स"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "इथेनचे सूत्र काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "C2H2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "C2H4",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "C2H6",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "CH4",
+          "is_correct": false
+        }
+      ],
+      "answer": "C2H6"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "इथीनमध्ये कोणता बंध असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिहेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुहेरी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "इथाईनमध्ये कोणता बंध असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिहेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हायड्रोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिहेरी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अल्कोहॉलचा कार्यात्मक गट कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "–COOH",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "–CHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "–OH",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "–NH2",
+          "is_correct": false
+        }
+      ],
+      "answer": "–OH"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कार्बॉक्सिलिक आम्लाचा कार्यात्मक गट कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "–OH",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "–COOH",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "–CHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "–NH2",
+          "is_correct": false
+        }
+      ],
+      "answer": "–COOH"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कार्बन कोणत्या गटातील मूलद्रव्य आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपधातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वायू",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधातू"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कार्बनची संयुजा किती आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या स्वसंयोजन गुणधर्माला काय म्हणतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समावयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयुजता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कॅटेनेशन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कॅटेनेशन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कार्बनचे समावयवी संयुगे म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान सूत्र, वेगळी रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वेगळी सूत्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान रचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक संयुगे",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान सूत्र, वेगळी रचना"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या कोणत्या रूपात विद्युत वाहकता असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रेफाइट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोळसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रेफाइट"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हिरा कठीण का असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्बल बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रिमितीय जाळी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुहेरी बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिमितीय जाळी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ग्रेफाइट मऊ का असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्तरांमध्ये दुर्बल बंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आयनिक बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिमितीय जाळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुहेरी बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तरांमध्ये दुर्बल बंध"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हायड्रोकार्बन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्बन-ऑक्सिजन संयुगे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्बन-हायड्रोजन संयुगे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कार्बन-नायट्रोजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कार्बन-हॅलोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्बन-हायड्रोजन संयुगे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "संतृप्त हायड्रोकार्बन कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्काईन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्कोहॉल",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन्स"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "असंतृप्त हायड्रोकार्बन कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन्स व अल्काईन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्कोहॉल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅसिड",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन्स व अल्काईन्स"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "इथेनचे सूत्र काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "C2H2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "C2H4",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "C2H6",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "CH4",
+          "is_correct": false
+        }
+      ],
+      "answer": "C2H6"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "इथीनमध्ये कोणता बंध असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिहेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुहेरी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "इथाईनमध्ये कोणता बंध असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिहेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हायड्रोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिहेरी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "अल्कोहॉलचा कार्यात्मक गट कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "–COOH",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "–CHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "–OH",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "–NH2",
+          "is_correct": false
+        }
+      ],
+      "answer": "–OH"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कार्बॉक्सिलिक आम्लाचा कार्यात्मक गट कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "–OH",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "–COOH",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "–CHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "–NH2",
+          "is_correct": false
+        }
+      ],
+      "answer": "–COOH"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कार्बन कोणत्या गटातील मूलद्रव्य आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपधातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वायू",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधातू"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कार्बनची संयुजा किती आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या स्वसंयोजन गुणधर्माला काय म्हणतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समावयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयुजता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कॅटेनेशन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कॅटेनेशन"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कार्बनचे समावयवी संयुगे म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान सूत्र, वेगळी रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वेगळी सूत्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान रचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक संयुगे",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान सूत्र, वेगळी रचना"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या कोणत्या रूपात विद्युत वाहकता असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रेफाइट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोळसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रेफाइट"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हिरा कठीण का असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्बल बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रिमितीय जाळी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुहेरी बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिमितीय जाळी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ग्रेफाइट मऊ का असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्तरांमध्ये दुर्बल बंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आयनिक बंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिमितीय जाळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुहेरी बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तरांमध्ये दुर्बल बंध"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हायड्रोकार्बन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्बन-ऑक्सिजन संयुगे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्बन-हायड्रोजन संयुगे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कार्बन-नायट्रोजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कार्बन-हॅलोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्बन-हायड्रोजन संयुगे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "संतृप्त हायड्रोकार्बन कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्काईन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्कोहॉल",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन्स"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "असंतृप्त हायड्रोकार्बन कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन्स व अल्काईन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्कोहॉल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅसिड",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन्स व अल्काईन्स"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "इथेनचे सूत्र काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "C2H2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "C2H4",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "C2H6",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "CH4",
+          "is_correct": false
+        }
+      ],
+      "answer": "C2H6"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "इथीनमध्ये कोणता बंध असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिहेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुहेरी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "इथाईनमध्ये कोणता बंध असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्रिहेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हायड्रोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिहेरी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "अल्कोहॉलचा कार्यात्मक गट कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "–COOH",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "–CHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "–OH",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "–NH2",
+          "is_correct": false
+        }
+      ],
+      "answer": "–OH"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कार्बॉक्सिलिक आम्लाचा कार्यात्मक गट कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "–OH",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "–COOH",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "–CHO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "–NH2",
+          "is_correct": false
+        }
+      ],
+      "answer": "–COOH"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कार्बन कोणत्या गटातील मूलद्रव्य आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपधातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वायू",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधातू"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कार्बनची संयुजा किती आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या स्वसंयोजन गुणधर्माला काय म्हणतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समावयता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयुजता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कॅटेनेशन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कॅटेनेशन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कार्बनचे समावयवी संयुगे म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान सूत्र, वेगळी रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वेगळी सूत्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समान रचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आयनिक संयुगे",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान सूत्र, वेगळी रचना"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कार्बनच्या कोणत्या रूपात विद्युत वाहकता असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रेफाइट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोळसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रेफाइट"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कार्बन म्हणजे काय?",
+      "answer": "चार संयुजा असलेले अधातू मूलद्रव्य म्हणजे कार्बन."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कार्बनची संयुजा किती?",
+      "answer": "कार्बनची संयुजा चार आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कॅटेनेशन म्हणजे काय?",
+      "answer": "कार्बन-कार्बन बंध तयार करण्याची क्षमता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "समावयवता म्हणजे काय?",
+      "answer": "समान आण्विक सूत्र असून वेगळी रचना असणे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हिरा म्हणजे काय?",
+      "answer": "कार्बनचे अत्यंत कठीण स्फटिकीय रूप."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ग्रेफाइट म्हणजे काय?",
+      "answer": "कार्बनचे मऊ व विद्युतवाहक रूप."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हायड्रोकार्बन म्हणजे काय?",
+      "answer": "कार्बन व हायड्रोजनची संयुगे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अल्केन म्हणजे काय?",
+      "answer": "संतृप्त हायड्रोकार्बन."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अल्कीन म्हणजे काय?",
+      "answer": "दुहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अल्काईन म्हणजे काय?",
+      "answer": "त्रिहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "इथेनचे सूत्र लिहा.",
+      "answer": "C2H6."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "इथीनचे सूत्र लिहा.",
+      "answer": "C2H4."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "इथाईनचे सूत्र लिहा.",
+      "answer": "C2H2."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "अल्कोहॉल म्हणजे काय?",
+      "answer": "–OH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कार्बॉक्सिलिक आम्ल म्हणजे काय?",
+      "answer": "–COOH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कार्यात्मक गट म्हणजे काय?",
+      "answer": "संयुगाचे गुणधर्म ठरवणारा गट."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "समावयवांचे एक उदाहरण द्या.",
+      "answer": "ब्युटेन व आयसोब्युटेन."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "इथेनॉलचा उपयोग लिहा.",
+      "answer": "इंधन व द्रावक म्हणून."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "अॅसिटिक आम्लाचा उपयोग लिहा.",
+      "answer": "सिरका तयार करण्यासाठी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कार्बन संयुगे महत्त्वाची का आहेत?",
+      "answer": "दैनंदिन जीवनात वापर होतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "चार संयुजा असलेले अधातू मूलद्रव्य म्हणजे कार्बन."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कार्बनची संयुजा किती?",
+      "answer": "कार्बनची संयुजा चार आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कॅटेनेशन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन-कार्बन बंध तयार करण्याची क्षमता."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "समावयवता म्हणजे  स्पष्ट करा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी रचना असणे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हिरा म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे अत्यंत कठीण स्फटिकीय रूप."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "ग्रेफाइट म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे मऊ व विद्युतवाहक रूप."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हायड्रोकार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन व हायड्रोजनची संयुगे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अल्केन म्हणजे  स्पष्ट करा.",
+      "answer": "संतृप्त हायड्रोकार्बन."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अल्कीन म्हणजे  स्पष्ट करा.",
+      "answer": "दुहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "अल्काईन म्हणजे  स्पष्ट करा.",
+      "answer": "त्रिहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "इथेनचे सूत्र लिहा.",
+      "answer": "C2H6."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "इथीनचे सूत्र लिहा.",
+      "answer": "C2H4."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "इथाईनचे सूत्र लिहा.",
+      "answer": "C2H2."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "अल्कोहॉल म्हणजे  स्पष्ट करा.",
+      "answer": "–OH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कार्बॉक्सिलिक आम्ल म्हणजे  स्पष्ट करा.",
+      "answer": "–COOH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कार्यात्मक गट म्हणजे  स्पष्ट करा.",
+      "answer": "संयुगाचे गुणधर्म ठरवणारा गट."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "समावयवांचे एक उदाहरण द्या.",
+      "answer": "ब्युटेन व आयसोब्युटेन."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "इथेनॉलचा उपयोग लिहा.",
+      "answer": "इंधन व द्रावक म्हणून."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "अॅसिटिक आम्लाचा उपयोग लिहा.",
+      "answer": "सिरका तयार करण्यासाठी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "कार्बन संयुगे महत्त्वाची का आहेत?",
+      "answer": "दैनंदिन जीवनात वापर होतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "चार संयुजा असलेले अधातू मूलद्रव्य म्हणजे कार्बन."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कार्बनची संयुजा किती?",
+      "answer": "कार्बनची संयुजा चार आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कॅटेनेशन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन-कार्बन बंध तयार करण्याची क्षमता."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "समावयवता म्हणजे  स्पष्ट करा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी रचना असणे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हिरा म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे अत्यंत कठीण स्फटिकीय रूप."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ग्रेफाइट म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे मऊ व विद्युतवाहक रूप."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "हायड्रोकार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन व हायड्रोजनची संयुगे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "अल्केन म्हणजे  स्पष्ट करा.",
+      "answer": "संतृप्त हायड्रोकार्बन."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अल्कीन म्हणजे  स्पष्ट करा.",
+      "answer": "दुहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अल्काईन म्हणजे  स्पष्ट करा.",
+      "answer": "त्रिहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "इथेनचे सूत्र लिहा.",
+      "answer": "C2H6."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "इथीनचे सूत्र लिहा.",
+      "answer": "C2H4."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "इथाईनचे सूत्र लिहा.",
+      "answer": "C2H2."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "अल्कोहॉल म्हणजे  स्पष्ट करा.",
+      "answer": "–OH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "कार्बॉक्सिलिक आम्ल म्हणजे  स्पष्ट करा.",
+      "answer": "–COOH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "कार्यात्मक गट म्हणजे  स्पष्ट करा.",
+      "answer": "संयुगाचे गुणधर्म ठरवणारा गट."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "समावयवांचे एक उदाहरण द्या.",
+      "answer": "ब्युटेन व आयसोब्युटेन."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "इथेनॉलचा उपयोग लिहा.",
+      "answer": "इंधन व द्रावक म्हणून."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "अॅसिटिक आम्लाचा उपयोग लिहा.",
+      "answer": "सिरका तयार करण्यासाठी."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "कार्बन संयुगे महत्त्वाची का आहेत?",
+      "answer": "दैनंदिन जीवनात वापर होतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "कार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "चार संयुजा असलेले अधातू मूलद्रव्य म्हणजे कार्बन."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "कार्बनची संयुजा किती?",
+      "answer": "कार्बनची संयुजा चार आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कॅटेनेशन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन-कार्बन बंध तयार करण्याची क्षमता."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "समावयवता म्हणजे  स्पष्ट करा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी रचना असणे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "हिरा म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे अत्यंत कठीण स्फटिकीय रूप."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "ग्रेफाइट म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे मऊ व विद्युतवाहक रूप."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "हायड्रोकार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन व हायड्रोजनची संयुगे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "अल्केन म्हणजे  स्पष्ट करा.",
+      "answer": "संतृप्त हायड्रोकार्बन."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "अल्कीन म्हणजे  स्पष्ट करा.",
+      "answer": "दुहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "अल्काईन म्हणजे  स्पष्ट करा.",
+      "answer": "त्रिहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "इथेनचे सूत्र लिहा.",
+      "answer": "C2H6."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "इथीनचे सूत्र लिहा.",
+      "answer": "C2H4."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "इथाईनचे सूत्र लिहा.",
+      "answer": "C2H2."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "अल्कोहॉल म्हणजे  स्पष्ट करा.",
+      "answer": "–OH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "कार्बॉक्सिलिक आम्ल म्हणजे  स्पष्ट करा.",
+      "answer": "–COOH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "कार्यात्मक गट म्हणजे  स्पष्ट करा.",
+      "answer": "संयुगाचे गुणधर्म ठरवणारा गट."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "समावयवांचे एक उदाहरण द्या.",
+      "answer": "ब्युटेन व आयसोब्युटेन."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "इथेनॉलचा उपयोग लिहा.",
+      "answer": "इंधन व द्रावक म्हणून."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "अॅसिटिक आम्लाचा उपयोग लिहा.",
+      "answer": "सिरका तयार करण्यासाठी."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कार्बन संयुगे महत्त्वाची का आहेत?",
+      "answer": "दैनंदिन जीवनात वापर होतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "कार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "चार संयुजा असलेले अधातू मूलद्रव्य म्हणजे कार्बन."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "कार्बनची संयुजा किती?",
+      "answer": "कार्बनची संयुजा चार आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कॅटेनेशन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन-कार्बन बंध तयार करण्याची क्षमता."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "समावयवता म्हणजे  स्पष्ट करा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी रचना असणे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "हिरा म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे अत्यंत कठीण स्फटिकीय रूप."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "ग्रेफाइट म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बनचे मऊ व विद्युतवाहक रूप."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "हायड्रोकार्बन म्हणजे  स्पष्ट करा.",
+      "answer": "कार्बन व हायड्रोजनची संयुगे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "अल्केन म्हणजे  स्पष्ट करा.",
+      "answer": "संतृप्त हायड्रोकार्बन."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "अल्कीन म्हणजे  स्पष्ट करा.",
+      "answer": "दुहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "अल्काईन म्हणजे  स्पष्ट करा.",
+      "answer": "त्रिहेरी बंध असलेले हायड्रोकार्बन."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "इथेनचे सूत्र लिहा.",
+      "answer": "C2H6."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "इथीनचे सूत्र लिहा.",
+      "answer": "C2H4."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "इथाईनचे सूत्र लिहा.",
+      "answer": "C2H2."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "अल्कोहॉल म्हणजे  स्पष्ट करा.",
+      "answer": "–OH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "कार्बॉक्सिलिक आम्ल म्हणजे  स्पष्ट करा.",
+      "answer": "–COOH कार्यात्मक गट असलेली संयुगे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "कार्यात्मक गट म्हणजे  स्पष्ट करा.",
+      "answer": "संयुगाचे गुणधर्म ठरवणारा गट."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "समावयवांचे एक उदाहरण द्या.",
+      "answer": "ब्युटेन व आयसोब्युटेन."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "इथेनॉलचा उपयोग लिहा.",
+      "answer": "इंधन व द्रावक म्हणून."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "अॅसिटिक आम्लाचा उपयोग लिहा.",
+      "answer": "सिरका तयार करण्यासाठी."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कार्बन संयुगे महत्त्वाची का आहेत?",
+      "answer": "दैनंदिन जीवनात वापर होतो."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "कार्बनच्या गुणधर्मांचे वर्णन करा. सविस्तर लिहा.",
+      "answer": "कार्बनची संयुजा चार असून तो स्वसंयोजन करतो. यामुळे असंख्य संयुगे तयार होतात."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "हिरा व ग्रेफाइट यांची तुलना करा. सविस्तर लिहा.",
+      "answer": "हिरा कठीण व विद्युतवाहक नसतो. ग्रेफाइट मऊ व विद्युतवाहक असतो."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "संतृप्त व असंतृप्त हायड्रोकार्बन स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "संतृप्तमध्ये एकेरी बंध तर असंतृप्तमध्ये दुहेरी किंवा त्रिहेरी बंध असतात."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "समावयवता सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "समान आण्विक सूत्र असून वेगळी संरचना असलेल्या संयुगांना समावयव म्हणतात."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "कार्बन संयुगांचे दैनंदिन जीवनातील उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "इंधन, औषधे, प्लास्टिक, वस्त्रे यामध्ये वापर होतो."
+    }
+  ]
+}

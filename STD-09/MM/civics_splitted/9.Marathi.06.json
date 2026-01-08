@@ -1,0 +1,947 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.06",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "आंतरराष्ट्रीय समस्या",
+    "question_set": "MCQs 1–50"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ज्या समस्या अनेक देशांवर परिणाम करतात त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रीय समस्या", "is_correct": false },
+        { "option_id": 2, "text": "आंतरराष्ट्रीय समस्या", "is_correct": true },
+        { "option_id": 3, "text": "स्थानिक समस्या", "is_correct": false },
+        { "option_id": 4, "text": "प्रादेशिक समस्या", "is_correct": false }
+      ],
+      "answer": "आंतरराष्ट्रीय समस्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती आंतरराष्ट्रीय समस्या आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र-कर्नाटक सीमावाद", "is_correct": false },
+        { "option_id": 2, "text": "कावेरी पाणीवाटप", "is_correct": false },
+        { "option_id": 3, "text": "निर्वासितांचे प्रश्न", "is_correct": true },
+        { "option_id": 4, "text": "राज्यस्तरीय बेरोजगारी", "is_correct": false }
+      ],
+      "answer": "निर्वासितांचे प्रश्न"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मानवी हक्क म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त कायदेशीर हक्क", "is_correct": false },
+        { "option_id": 2, "text": "माणूस म्हणून जगण्यासाठी आवश्यक हक्क", "is_correct": true },
+        { "option_id": 3, "text": "फक्त आर्थिक हक्क", "is_correct": false },
+        { "option_id": 4, "text": "फक्त राजकीय हक्क", "is_correct": false }
+      ],
+      "answer": "माणूस म्हणून जगण्यासाठी आवश्यक हक्क"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांच्या जाहीरनाम्याला केव्हा मान्यता देण्यात आली?",
+      "options": [
+        { "option_id": 1, "text": "१९४५", "is_correct": false },
+        { "option_id": 2, "text": "१९४८", "is_correct": true },
+        { "option_id": 3, "text": "१९५०", "is_correct": false },
+        { "option_id": 4, "text": "१९६६", "is_correct": false }
+      ],
+      "answer": "१९४८"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचा वैश्विक जाहीरनामा कोणत्या संस्थेने मंजूर केला?",
+      "options": [
+        { "option_id": 1, "text": "जागतिक बँक", "is_correct": false },
+        { "option_id": 2, "text": "संयुक्त राष्ट्रे", "is_correct": true },
+        { "option_id": 3, "text": "सार्क", "is_correct": false },
+        { "option_id": 4, "text": "डब्ल्यूएचओ", "is_correct": false }
+      ],
+      "answer": "संयुक्त राष्ट्रे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांच्या जाहीरनाम्यात एकूण किती कलमे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "२०", "is_correct": false },
+        { "option_id": 2, "text": "२५", "is_correct": false },
+        { "option_id": 3, "text": "३०", "is_correct": true },
+        { "option_id": 4, "text": "३५", "is_correct": false }
+      ],
+      "answer": "३०"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बालकांच्या हक्कांचा जाहीरनामा कधी प्रसिद्ध झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९४८", "is_correct": false },
+        { "option_id": 2, "text": "१९५०", "is_correct": false },
+        { "option_id": 3, "text": "१९५९", "is_correct": true },
+        { "option_id": 4, "text": "१९६६", "is_correct": false }
+      ],
+      "answer": "१९५९"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारतात मानवी हक्कांना कोणत्या स्वरूपात स्थान दिले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कायदेशीर हक्क", "is_correct": false },
+        { "option_id": 2, "text": "मूलभूत हक्क", "is_correct": true },
+        { "option_id": 3, "text": "नैसर्गिक हक्क", "is_correct": false },
+        { "option_id": 4, "text": "ऐच्छिक हक्क", "is_correct": false }
+      ],
+      "answer": "मूलभूत हक्क"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मानवी हक्क संरक्षण कायदा भारतात कधी करण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "१९८५", "is_correct": false },
+        { "option_id": 2, "text": "१९९०", "is_correct": false },
+        { "option_id": 3, "text": "१९९३", "is_correct": true },
+        { "option_id": 4, "text": "२०००", "is_correct": false }
+      ],
+      "answer": "१९९३"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संरक्षण कोणत्या हक्काशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "राजकीय हक्क", "is_correct": false },
+        { "option_id": 2, "text": "आर्थिक हक्क", "is_correct": false },
+        { "option_id": 3, "text": "मानवी हक्क", "is_correct": true },
+        { "option_id": 4, "text": "कायदेशीर हक्क", "is_correct": false }
+      ],
+      "answer": "मानवी हक्क"
+    },
+
+    {
+  "questions": [
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पर्यावरण समस्या आंतरराष्ट्रीय का मानल्या जातात?",
+      "options": [
+        { "option_id": 1, "text": "त्या एका देशापुरत्या मर्यादित असतात", "is_correct": false },
+        { "option_id": 2, "text": "त्या अनेक देशांवर परिणाम करतात", "is_correct": true },
+        { "option_id": 3, "text": "त्या फक्त शहरांशी संबंधित असतात", "is_correct": false },
+        { "option_id": 4, "text": "त्या तात्पुरत्या असतात", "is_correct": false }
+      ],
+      "answer": "त्या अनेक देशांवर परिणाम करतात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हवामान बदल ही कोणत्या प्रकारची समस्या आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्थानिक समस्या", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय समस्या", "is_correct": false },
+        { "option_id": 3, "text": "आंतरराष्ट्रीय समस्या", "is_correct": true },
+        { "option_id": 4, "text": "राजकीय समस्या", "is_correct": false }
+      ],
+      "answer": "आंतरराष्ट्रीय समस्या"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जागतिक तापमानवाढीचे मुख्य कारण कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "वनसंवर्धन", "is_correct": false },
+        { "option_id": 2, "text": "हरितगृह वायू", "is_correct": true },
+        { "option_id": 3, "text": "पर्जन्यमान", "is_correct": false },
+        { "option_id": 4, "text": "भूकंप", "is_correct": false }
+      ],
+      "answer": "हरितगृह वायू"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संरक्षणासाठी १९७२ मध्ये कोणती परिषद झाली?",
+      "options": [
+        { "option_id": 1, "text": "पॅरिस परिषद", "is_correct": false },
+        { "option_id": 2, "text": "स्टॉकहोम परिषद", "is_correct": true },
+        { "option_id": 3, "text": "रिओ परिषद", "is_correct": false },
+        { "option_id": 4, "text": "क्योटो परिषद", "is_correct": false }
+      ],
+      "answer": "स्टॉकहोम परिषद"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रिओ परिषद कोणत्या वर्षी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१९८५", "is_correct": false },
+        { "option_id": 2, "text": "१९९२", "is_correct": true },
+        { "option_id": 3, "text": "२०००", "is_correct": false },
+        { "option_id": 4, "text": "२०१५", "is_correct": false }
+      ],
+      "answer": "१९९२"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पॅरिस हवामान करार कधी झाला?",
+      "options": [
+        { "option_id": 1, "text": "२००५", "is_correct": false },
+        { "option_id": 2, "text": "२०१०", "is_correct": false },
+        { "option_id": 3, "text": "२०१५", "is_correct": true },
+        { "option_id": 4, "text": "२०१८", "is_correct": false }
+      ],
+      "answer": "२०१५"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "निर्वासित म्हणजे कोण?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटक", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःहून स्थलांतर करणारे लोक", "is_correct": false },
+        { "option_id": 3, "text": "युद्ध किंवा अत्याचारामुळे देश सोडणारे लोक", "is_correct": true },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "युद्ध किंवा अत्याचारामुळे देश सोडणारे लोक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "निर्वासितांच्या प्रश्नांशी कोणती संस्था संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "डब्ल्यूएचओ", "is_correct": false },
+        { "option_id": 2, "text": "यूएनएचसीआर", "is_correct": true },
+        { "option_id": 3, "text": "युनेस्को", "is_correct": false },
+        { "option_id": 4, "text": "आयएमएफ", "is_correct": false }
+      ],
+      "answer": "यूएनएचसीआर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "दहशतवाद म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "शांततामय आंदोलन", "is_correct": false },
+        { "option_id": 2, "text": "भीती निर्माण करणारी हिंसक कृती", "is_correct": true },
+        { "option_id": 3, "text": "लोकशाही प्रक्रिया", "is_correct": false },
+        { "option_id": 4, "text": "आर्थिक सुधारणा", "is_correct": false }
+      ],
+      "answer": "भीती निर्माण करणारी हिंसक कृती"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दहशतवादाचा परिणाम कशावर होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त एका देशावर", "is_correct": false },
+        { "option_id": 2, "text": "फक्त अर्थव्यवस्थेवर", "is_correct": false },
+        { "option_id": 3, "text": "जागतिक शांततेवर", "is_correct": true },
+        { "option_id": 4, "text": "फक्त राजकारणावर", "is_correct": false }
+      ],
+      "answer": "जागतिक शांततेवर"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचे संरक्षण कोणाची जबाबदारी आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त नागरिकांची", "is_correct": false },
+        { "option_id": 2, "text": "फक्त सरकारची", "is_correct": false },
+        { "option_id": 3, "text": "सर्वांची", "is_correct": true },
+        { "option_id": 4, "text": "फक्त न्यायालयांची", "is_correct": false }
+      ],
+      "answer": "सर्वांची"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "बालमजुरी हा कोणत्या हक्काचा भंग आहे?",
+      "options": [
+        { "option_id": 1, "text": "राजकीय हक्क", "is_correct": false },
+        { "option_id": 2, "text": "मानवी हक्क", "is_correct": true },
+        { "option_id": 3, "text": "आर्थिक हक्क", "is_correct": false },
+        { "option_id": 4, "text": "सांस्कृतिक हक्क", "is_correct": false }
+      ],
+      "answer": "मानवी हक्क"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "जागतिक पर्यावरण दिन कधी साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "२२ एप्रिल", "is_correct": false },
+        { "option_id": 2, "text": "५ जून", "is_correct": true },
+        { "option_id": 3, "text": "१० डिसेंबर", "is_correct": false },
+        { "option_id": 4, "text": "२४ ऑक्टोबर", "is_correct": false }
+      ],
+      "answer": "५ जून"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जागतिक तापमानवाढीचा सर्वाधिक परिणाम कशावर होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामानावर", "is_correct": true },
+        { "option_id": 2, "text": "भाषेवर", "is_correct": false },
+        { "option_id": 3, "text": "संस्कृतीवर", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षणावर", "is_correct": false }
+      ],
+      "answer": "हवामानावर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ओझोन थर नष्ट होण्याचे मुख्य कारण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 2, "text": "सीएफसी वायू", "is_correct": true },
+        { "option_id": 3, "text": "धूळ", "is_correct": false },
+        { "option_id": 4, "text": "ध्वनीप्रदूषण", "is_correct": false }
+      ],
+      "answer": "सीएफसी वायू"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "निर्वासित प्रश्न का निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "खेळामुळे", "is_correct": false },
+        { "option_id": 2, "text": "युद्ध व अत्याचारामुळे", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारामुळे", "is_correct": false },
+        { "option_id": 4, "text": "पर्यटनामुळे", "is_correct": false }
+      ],
+      "answer": "युद्ध व अत्याचारामुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचा उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त कायदे करणे", "is_correct": false },
+        { "option_id": 2, "text": "मानवी प्रतिष्ठा जपणे", "is_correct": true },
+        { "option_id": 3, "text": "राजकीय सत्ता वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "आर्थिक नियंत्रण", "is_correct": false }
+      ],
+      "answer": "मानवी प्रतिष्ठा जपणे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पर्यावरणीय समस्या सोडवण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकट्या देशाचे प्रयत्न", "is_correct": false },
+        { "option_id": 2, "text": "आंतरराष्ट्रीय सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "फक्त कायदे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त तंत्रज्ञान", "is_correct": false }
+      ],
+      "answer": "आंतरराष्ट्रीय सहकार्य"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "दहशतवादाला आळा घालण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त लष्करी कारवाई", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "फक्त निर्बंध", "is_correct": false },
+        { "option_id": 4, "text": "संवाद टाळणे", "is_correct": false }
+      ],
+      "answer": "जागतिक सहकार्य"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांची अंमलबजावणी कोण करतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त संयुक्त राष्ट्रे", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय सरकारे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त स्वयंसेवी संस्था", "is_correct": false },
+        { "option_id": 4, "text": "फक्त न्यायालये", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय सरकारे"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "मानवी हक्क दिन कधी साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "५ जून", "is_correct": false },
+        { "option_id": 2, "text": "१० डिसेंबर", "is_correct": true },
+        { "option_id": 3, "text": "२४ ऑक्टोबर", "is_correct": false },
+        { "option_id": 4, "text": "१५ ऑगस्ट", "is_correct": false }
+      ],
+      "answer": "१० डिसेंबर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संरक्षण कोणाच्या सहभागाने यशस्वी होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सरकार", "is_correct": false },
+        { "option_id": 2, "text": "फक्त संस्था", "is_correct": false },
+        { "option_id": 3, "text": "सर्व नागरिक", "is_correct": true },
+        { "option_id": 4, "text": "फक्त विद्यार्थी", "is_correct": false }
+      ],
+      "answer": "सर्व नागरिक"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "दहशतवाद कोणत्या मूल्यांना धोका पोहोचवतो?",
+      "options": [
+        { "option_id": 1, "text": "शांतता व सुरक्षितता", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार", "is_correct": false }
+      ],
+      "answer": "शांतता व सुरक्षितता"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "जागतिक समस्या सोडवण्यासाठी कोणती भूमिका महत्त्वाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकतर्फी निर्णय", "is_correct": false },
+        { "option_id": 2, "text": "सहकार्य व समन्वय", "is_correct": true },
+        { "option_id": 3, "text": "अलगाव", "is_correct": false },
+        { "option_id": 4, "text": "स्पर्धा", "is_correct": false }
+      ],
+      "answer": "सहकार्य व समन्वय"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचा भंग टाळण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "जागृती", "is_correct": true },
+        { "option_id": 2, "text": "उपेक्षा", "is_correct": false },
+        { "option_id": 3, "text": "हिंसा", "is_correct": false },
+        { "option_id": 4, "text": "मौन", "is_correct": false }
+      ],
+      "answer": "जागृती"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "जागतिक समस्या सोडवण्यात विद्यार्थ्यांची भूमिका काय असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "उदासीन राहणे", "is_correct": false },
+        { "option_id": 2, "text": "जागरूक नागरिक बनणे", "is_correct": true },
+        { "option_id": 3, "text": "नियम मोडणे", "is_correct": false },
+        { "option_id": 4, "text": "दूर राहणे", "is_correct": false }
+      ],
+      "answer": "जागरूक नागरिक बनणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पर्यावरणीय संतुलन बिघडण्याचे कारण काय?",
+      "options": [
+        { "option_id": 1, "text": "वनतोड", "is_correct": true },
+        { "option_id": 2, "text": "वृक्षारोपण", "is_correct": false },
+        { "option_id": 3, "text": "पुनर्वापर", "is_correct": false },
+        { "option_id": 4, "text": "संरक्षण", "is_correct": false }
+      ],
+      "answer": "वनतोड"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "जागतिक शांततेस सर्वाधिक धोका कोणत्या समस्येमुळे आहे?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 2, "text": "दहशतवाद", "is_correct": true },
+        { "option_id": 3, "text": "संस्कृती", "is_correct": false },
+        { "option_id": 4, "text": "पर्यटन", "is_correct": false }
+      ],
+      "answer": "दहशतवाद"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "निर्वासित प्रश्न सोडवण्यासाठी कोण आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त एका देशाची मदत", "is_correct": false },
+        { "option_id": 2, "text": "आंतरराष्ट्रीय सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "उपेक्षा", "is_correct": false },
+        { "option_id": 4, "text": "हिंसा", "is_correct": false }
+      ],
+      "answer": "आंतरराष्ट्रीय सहकार्य"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचा आदर का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त कायद्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "मानवी प्रतिष्ठा जपण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "शक्ती दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "राजकारणासाठी", "is_correct": false }
+      ],
+      "answer": "मानवी प्रतिष्ठा जपण्यासाठी"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "जागतिक पर्यावरण समस्यांचा परिणाम कशावर होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वन्यजीवनावर", "is_correct": false },
+        { "option_id": 2, "text": "मानवजातीवर", "is_correct": true },
+        { "option_id": 3, "text": "फक्त हवामानावर", "is_correct": false },
+        { "option_id": 4, "text": "फक्त समुद्रावर", "is_correct": false }
+      ],
+      "answer": "मानवजातीवर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "दहशतवादविरोधी लढ्यात भारताची भूमिका कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "उपेक्षेची", "is_correct": false },
+        { "option_id": 2, "text": "सक्रिय", "is_correct": true },
+        { "option_id": 3, "text": "निरपेक्ष", "is_correct": false },
+        { "option_id": 4, "text": "निष्क्रिय", "is_correct": false }
+      ],
+      "answer": "सक्रिय"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचा प्रचार कोण करतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सरकार", "is_correct": false },
+        { "option_id": 2, "text": "संयुक्त राष्ट्रे व स्वयंसेवी संस्था", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पोलीस", "is_correct": false },
+        { "option_id": 4, "text": "फक्त सैन्य", "is_correct": false }
+      ],
+      "answer": "संयुक्त राष्ट्रे व स्वयंसेवी संस्था"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पर्यावरणीय समस्या सोडवण्यात कोणाची भूमिका सर्वात महत्त्वाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शास्त्रज्ञ", "is_correct": false },
+        { "option_id": 2, "text": "फक्त सरकार", "is_correct": false },
+        { "option_id": 3, "text": "सर्व समाजाची", "is_correct": true },
+        { "option_id": 4, "text": "फक्त उद्योग", "is_correct": false }
+      ],
+      "answer": "सर्व समाजाची"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "जागतिक समस्या अभ्यासण्याचा उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त माहिती मिळवणे", "is_correct": false },
+        { "option_id": 2, "text": "उपाय शोधणे व जागरूकता वाढवणे", "is_correct": true },
+        { "option_id": 3, "text": "स्पर्धा वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "उपेक्षा करणे", "is_correct": false }
+      ],
+      "answer": "उपाय शोधणे व जागरूकता वाढवणे"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "जागतिक तापमानवाढ रोखण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "जास्त इंधन वापर", "is_correct": false },
+        { "option_id": 2, "text": "हरितगृह वायू कमी करणे", "is_correct": true },
+        { "option_id": 3, "text": "वनतोड", "is_correct": false },
+        { "option_id": 4, "text": "प्रदूषण वाढवणे", "is_correct": false }
+      ],
+      "answer": "हरितगृह वायू कमी करणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मानवी हक्कांचे उल्लंघन रोखण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "उपेक्षा", "is_correct": false },
+        { "option_id": 2, "text": "कायदे व जागृती", "is_correct": true },
+        { "option_id": 3, "text": "हिंसा", "is_correct": false },
+        { "option_id": 4, "text": "मौन", "is_correct": false }
+      ],
+      "answer": "कायदे व जागृती"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय समस्यांचा अभ्यास विद्यार्थ्यांसाठी का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त परीक्षेसाठी", "is_correct": false },
+        { "option_id": 2, "text": "जागतिक जाणीव निर्माण करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 4, "text": "मनोरंजनासाठी", "is_correct": false }
+      ],
+      "answer": "जागतिक जाणीव निर्माण करण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "जागतिक समस्या सोडवण्यासाठी पुढील पिढीची भूमिका काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "उपेक्षा", "is_correct": false },
+        { "option_id": 2, "text": "जागरूक व जबाबदार नागरिक बनणे", "is_correct": true },
+        { "option_id": 3, "text": "निष्क्रिय राहणे", "is_correct": false },
+        { "option_id": 4, "text": "दूर राहणे", "is_correct": false }
+      ],
+      "answer": "जागरूक व जबाबदार नागरिक बनणे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "‘आंतरराष्ट्रीय समस्या’ या प्रकरणाचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रत्येक देश स्वतंत्र आहे", "is_correct": false },
+        { "option_id": 2, "text": "सहकार्याशिवाय जागतिक समस्या सुटत नाहीत", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध अपरिहार्य आहे", "is_correct": false },
+        { "option_id": 4, "text": "समस्या टाळता येतात", "is_correct": false }
+      ],
+      "answer": "सहकार्याशिवाय जागतिक समस्या सुटत नाहीत"
+    }
+  ]
+},
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Marathi.06",
+    "standard": "9",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "आंतरराष्ट्रीय समस्या",
+    "question_set": "Short Answers 1–100"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय समस्या म्हणजे काय?",
+      "answer": "ज्या समस्या एकापेक्षा अधिक देशांवर परिणाम करतात त्यांना आंतरराष्ट्रीय समस्या म्हणतात."
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय समस्यांचे एक उदाहरण द्या.",
+      "answer": "निर्वासितांचा प्रश्न हे आंतरराष्ट्रीय समस्येचे एक उदाहरण आहे."
+    },
+    {
+      "question_id": 3,
+      "question_type": "SHORT",
+      "question": "मानवी हक्क म्हणजे काय?",
+      "answer": "माणूस म्हणून सन्मानाने जगण्यासाठी आवश्यक असलेले हक्क म्हणजे मानवी हक्क."
+    },
+    {
+      "question_id": 4,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचा वैश्विक जाहीरनामा कधी स्वीकारला गेला?",
+      "answer": "मानवी हक्कांचा वैश्विक जाहीरनामा १९४८ साली स्वीकारला गेला."
+    },
+    {
+      "question_id": 5,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचा जाहीरनामा कोणत्या संस्थेने स्वीकारला?",
+      "answer": "मानवी हक्कांचा जाहीरनामा संयुक्त राष्ट्र संघाने स्वीकारला."
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांच्या जाहीरनाम्यात किती कलमे आहेत?",
+      "answer": "मानवी हक्कांच्या जाहीरनाम्यात एकूण ३० कलमे आहेत."
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये मानवी हक्कांना कोणत्या स्वरूपात स्थान दिले आहे?",
+      "answer": "भारतामध्ये मानवी हक्कांना मूलभूत हक्कांच्या स्वरूपात स्थान दिले आहे."
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "मानवी हक्क संरक्षण कायदा कधी करण्यात आला?",
+      "answer": "मानवी हक्क संरक्षण कायदा १९९३ साली करण्यात आला."
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "बालकांच्या हक्कांचा जाहीरनामा कधी स्वीकारला गेला?",
+      "answer": "बालकांच्या हक्कांचा जाहीरनामा १९५९ साली स्वीकारला गेला."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "बालमजुरी हा कोणत्या हक्कांचा भंग आहे?",
+      "answer": "बालमजुरी हा मानवी हक्कांचा भंग आहे."
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "पर्यावरण समस्या आंतरराष्ट्रीय का मानल्या जातात?",
+      "answer": "पर्यावरण समस्या अनेक देशांवर एकाच वेळी परिणाम करतात म्हणून त्या आंतरराष्ट्रीय मानल्या जातात."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "जागतिक तापमानवाढ म्हणजे काय?",
+      "answer": "पृथ्वीच्या सरासरी तापमानात होणारी वाढ म्हणजे जागतिक तापमानवाढ."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "जागतिक तापमानवाढीचे मुख्य कारण कोणते?",
+      "answer": "हरितगृह वायूंचे प्रमाण वाढणे हे जागतिक तापमानवाढीचे मुख्य कारण आहे."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "हरितगृह वायू म्हणजे काय?",
+      "answer": "पृथ्वीचे तापमान वाढवणारे वायू म्हणजे हरितगृह वायू."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "ओझोन थराचे महत्त्व काय आहे?",
+      "answer": "ओझोन थर पृथ्वीला सूर्याच्या हानिकारक किरणांपासून संरक्षण देतो."
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "ओझोन थर नष्ट होण्याचे मुख्य कारण कोणते?",
+      "answer": "सीएफसी वायू हे ओझोन थर नष्ट होण्याचे मुख्य कारण आहे."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "स्टॉकहोम परिषद कधी झाली?",
+      "answer": "स्टॉकहोम परिषद १९७२ साली झाली."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "रिओ परिषद कधी झाली?",
+      "answer": "रिओ परिषद १९९२ साली झाली."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "पॅरिस हवामान करार कधी झाला?",
+      "answer": "पॅरिस हवामान करार २०१५ साली झाला."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "जागतिक पर्यावरण दिन कधी साजरा केला जातो?",
+      "answer": "जागतिक पर्यावरण दिन ५ जून रोजी साजरा केला जातो."
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "निर्वासित म्हणजे कोण?",
+      "answer": "युद्ध, दहशतवाद किंवा छळामुळे स्वतःचा देश सोडणाऱ्या व्यक्तींना निर्वासित म्हणतात."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "निर्वासित प्रश्न का निर्माण होतो?",
+      "answer": "युद्ध, अंतर्गत संघर्ष आणि अत्याचारामुळे निर्वासित प्रश्न निर्माण होतो."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "निर्वासितांच्या समस्यांशी कोणती संस्था संबंधित आहे?",
+      "answer": "निर्वासितांच्या समस्यांशी यूएनएचसीआर ही संस्था संबंधित आहे."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "यूएनएचसीआरचा पूर्ण अर्थ काय आहे?",
+      "answer": "युनायटेड नेशन्स हाय कमिशनर फॉर रिफ्युजीज असा यूएनएचसीआरचा पूर्ण अर्थ आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "दहशतवाद म्हणजे काय?",
+      "answer": "भीती निर्माण करण्यासाठी केलेली हिंसक कृती म्हणजे दहशतवाद."
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "दहशतवाद ही आंतरराष्ट्रीय समस्या का आहे?",
+      "answer": "दहशतवाद अनेक देशांवर परिणाम करतो म्हणून तो आंतरराष्ट्रीय समस्या आहे."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "दहशतवादाचा समाजावर काय परिणाम होतो?",
+      "answer": "दहशतवादामुळे समाजात भीती व अस्थिरता निर्माण होते."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "दहशतवाद रोखण्यासाठी काय आवश्यक आहे?",
+      "answer": "दहशतवाद रोखण्यासाठी आंतरराष्ट्रीय सहकार्य आवश्यक आहे."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचे संरक्षण कोणाची जबाबदारी आहे?",
+      "answer": "मानवी हक्कांचे संरक्षण सरकार आणि नागरिक दोघांचीही जबाबदारी आहे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "मानवी हक्क दिन कधी साजरा केला जातो?",
+      "answer": "मानवी हक्क दिन १० डिसेंबर रोजी साजरा केला जातो."
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "पर्यावरणीय संतुलन म्हणजे काय?",
+      "answer": "निसर्गातील घटकांमधील समतोल म्हणजे पर्यावरणीय संतुलन."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "पर्यावरणीय संतुलन बिघडण्याचे एक कारण सांगा.",
+      "answer": "वनतोड हे पर्यावरणीय संतुलन बिघडण्याचे एक कारण आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षणासाठी काय आवश्यक आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी आंतरराष्ट्रीय सहकार्य आवश्यक आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचा उद्देश काय आहे?",
+      "answer": "मानवी प्रतिष्ठा व स्वातंत्र्य जपणे हा मानवी हक्कांचा उद्देश आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचे उल्लंघन म्हणजे काय?",
+      "answer": "मानवी हक्कांचा अपमान किंवा नकार देणे म्हणजे उल्लंघन होय."
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "जागतिक समस्या सोडवण्यासाठी काय आवश्यक आहे?",
+      "answer": "जागतिक समस्या सोडवण्यासाठी सहकार्य व समन्वय आवश्यक आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "विद्यार्थ्यांची आंतरराष्ट्रीय समस्यांबाबत भूमिका काय असू शकते?",
+      "answer": "विद्यार्थी जागरूक व जबाबदार नागरिक बनू शकतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "जागतिक शांततेला सर्वाधिक धोका कोणत्या समस्येमुळे आहे?",
+      "answer": "दहशतवादामुळे जागतिक शांततेला सर्वाधिक धोका आहे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "पर्यावरणीय समस्या मानवजातीवर कशा परिणाम करतात?",
+      "answer": "पर्यावरणीय समस्यांमुळे मानवाचे आरोग्य व जीवनमान बिघडते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचा आदर का आवश्यक आहे?",
+      "answer": "मानवी सन्मान टिकवण्यासाठी मानवी हक्कांचा आदर आवश्यक आहे."
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "जागतिक समस्या अभ्यासण्याचा मुख्य उद्देश काय आहे?",
+      "answer": "जागतिक समस्या अभ्यासण्याचा उद्देश उपाय शोधणे व जागरूकता वाढवणे हा आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पर्यावरणीय समस्या सोडवण्यात नागरिकांची भूमिका काय आहे?",
+      "answer": "नागरिकांनी पर्यावरणपूरक वर्तन करणे आवश्यक आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "मानवी हक्कांचा प्रचार कोण करतो?",
+      "answer": "संयुक्त राष्ट्रे व स्वयंसेवी संस्था मानवी हक्कांचा प्रचार करतात."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "जागतिक तापमानवाढ कमी करण्यासाठी काय करणे आवश्यक आहे?",
+      "answer": "हरितगृह वायूंचे उत्सर्जन कमी करणे आवश्यक आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "निर्वासित प्रश्न सोडवणे कठीण का असते?",
+      "answer": "अनेक देशांचा सहभाग असल्यामुळे हा प्रश्न सोडवणे कठीण असते."
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "मानवी हक्क व लोकशाही यांचा संबंध काय आहे?",
+      "answer": "लोकशाहीत मानवी हक्कांचे संरक्षण केले जाते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण ही कोणाची जबाबदारी आहे?",
+      "answer": "पर्यावरण संरक्षण ही सर्वांची सामूहिक जबाबदारी आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय समस्या राष्ट्रीय समस्यांपेक्षा वेगळ्या का आहेत?",
+      "answer": "आंतरराष्ट्रीय समस्या अनेक देशांशी संबंधित असल्यामुळे वेगळ्या असतात."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "दहशतवादाविरुद्ध लढा देण्यासाठी भारताची भूमिका काय आहे?",
+      "answer": "भारत दहशतवादाविरुद्ध सक्रिय भूमिका घेतो."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "‘आंतरराष्ट्रीय समस्या’ हे प्रकरण विद्यार्थ्यांसाठी का महत्त्वाचे आहे?",
+      "answer": "या प्रकरणामुळे विद्यार्थ्यांना जागतिक जाणीव निर्माण होते."
+    }
+
+   
+  ]
+}
+
+  ]
+}

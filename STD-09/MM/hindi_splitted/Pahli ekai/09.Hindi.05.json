@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.05",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "जूलिया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'जूलिया' एकांकी के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "लियो टॉल्स्टॉय", "is_correct": false },
+        { "option_id": 2, "text": "अंतोन चेखव", "is_correct": true },
+        { "option_id": 3, "text": "मैक्सिम गोर्की", "is_correct": false },
+        { "option_id": 4, "text": "प्रेमचंद", "is_correct": false }
+      ],
+      "answer": "अंतोन चेखव"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जूलिया घर में किस पद पर काम करती थी?",
+      "options": [
+        { "option_id": 1, "text": "रसोइया", "is_correct": false },
+        { "option_id": 2, "text": "गवर्नेस (सेविका)", "is_correct": true },
+        { "option_id": 3, "text": "मालकिन", "is_correct": false },
+        { "option_id": 4, "text": "सफाईकर्मी", "is_correct": false }
+      ],
+      "answer": "गवर्नेस (सेविका)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जूलिया के अनुसार उसकी तनख्वाह कितनी तय हुई थी?",
+      "options": [
+        { "option_id": 1, "text": "तीस रूबल", "is_correct": false },
+        { "option_id": 2, "text": "चालीस रूबल", "is_correct": true },
+        { "option_id": 3, "text": "पचास रूबल", "is_correct": false },
+        { "option_id": 4, "text": "साठ रूबल", "is_correct": false }
+      ],
+      "answer": "चालीस रूबल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गृहस्वामी के अनुसार जूलिया को काम करते हुए कितने दिन हुए थे?",
+      "options": [
+        { "option_id": 1, "text": "दो महीने पाँच दिन", "is_correct": false },
+        { "option_id": 2, "text": "तीन महीने", "is_correct": false },
+        { "option_id": 3, "text": "दो महीने", "is_correct": true },
+        { "option_id": 4, "text": "डेढ़ महीने", "is_correct": false }
+      ],
+      "answer": "दो महीने"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गृहस्वामी ने इतवार (रविवार) की छुट्टी के लिए क्या तर्क दिया?",
+      "options": [
+        { "option_id": 1, "text": "तुमने बहुत काम किया", "is_correct": false },
+        { "option_id": 2, "text": "बच्चे को घुमाने ले जाना कोई काम नहीं होता", "is_correct": true },
+        { "option_id": 3, "text": "इतवार को काम करना चाहिए", "is_correct": false },
+        { "option_id": 4, "text": "इतवार को पैसे ज्यादा मिलते हैं", "is_correct": false }
+      ],
+      "answer": "बच्चे को घुमाने ले जाना कोई काम नहीं होता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गृहस्वामी ने प्याली तोड़ने के लिए कितने रूबल काटे?",
+      "options": [
+        { "option_id": 1, "text": "पाँच रूबल", "is_correct": false },
+        { "option_id": 2, "text": "दस रूबल", "is_correct": false },
+        { "option_id": 3, "text": "दो रूबल", "is_correct": true },
+        { "option_id": 4, "text": "एक रूबल", "is_correct": false }
+      ],
+      "answer": "दो रूबल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बच्चे की जैकेट फटने पर कितने रूबल काटे गए?",
+      "options": [
+        { "option_id": 1, "text": "दस रूबल", "is_correct": true },
+        { "option_id": 2, "text": "बीस रूबल", "is_correct": false },
+        { "option_id": 3, "text": "पाँच रूबल", "is_correct": false },
+        { "option_id": 4, "text": "पंद्रह रूबल", "is_correct": false }
+      ],
+      "answer": "दस रूबल"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "जूलिया की लापरवाही से नौकरानी मारिया ने क्या चुरा लिया?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "वान्या के नए जूते", "is_correct": true },
+        { "option_id": 3, "text": "किताबें", "is_correct": false },
+        { "option_id": 4, "text": "जैकेट", "is_correct": false }
+      ],
+      "answer": "वान्या के नए जूते"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सारे पैसे काटने के बाद गृहस्वामी ने जूलिया को कितने रूबल दिए?",
+      "options": [
+        { "option_id": 1, "text": "साठ", "is_correct": false },
+        { "option_id": 2, "text": "चौदह", "is_correct": false },
+        { "option_id": 3, "text": "ग्यारह", "is_correct": true },
+        { "option_id": 4, "text": "अस्सी", "is_correct": false }
+      ],
+      "answer": "ग्यारह"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जूलिया ने 'ग्यारह रूबल' लेने के बाद क्या कहा?",
+      "options": [
+        { "option_id": 1, "text": "यह अन्याय है", "is_correct": false },
+        { "option_id": 2, "text": "मुझे और चाहिए", "is_correct": false },
+        { "option_id": 3, "text": "जी धन्यवाद", "is_correct": true },
+        { "option_id": 4, "text": "मैं जा रही हूँ", "is_correct": false }
+      ],
+      "answer": "जी धन्यवाद"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गृहस्वामी वास्तव में जूलिया को कितने पैसे देना चाहता था?",
+      "options": [
+        { "option_id": 1, "text": "ग्यारह रूबल", "is_correct": false },
+        { "option_id": 2, "text": "अस्सी रूबल", "is_correct": true },
+        { "option_id": 3, "text": "साठ रूबल", "is_correct": false },
+        { "option_id": 4, "text": "चालीस रूबल", "is_correct": false }
+      ],
+      "answer": "अस्सी रूबल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गृहस्वामी जूलिया को क्या सबक सिखाना चाहता था?",
+      "options": [
+        { "option_id": 1, "text": "काम चोरी न करना", "is_correct": false },
+        { "option_id": 2, "text": "अन्याय का विरोध करना", "is_correct": true },
+        { "option_id": 3, "text": "पैसे बचाना", "is_correct": false },
+        { "option_id": 4, "text": "समय पर आना", "is_correct": false }
+      ],
+      "answer": "अन्याय का विरोध करना"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'भीरु' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "बहादुर", "is_correct": false },
+        { "option_id": 2, "text": "डरपोक", "is_correct": true },
+        { "option_id": 3, "text": "चालाक", "is_correct": false },
+        { "option_id": 4, "text": "ईमानदार", "is_correct": false }
+      ],
+      "answer": "डरपोक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'निर्मम' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "दयालु", "is_correct": false },
+        { "option_id": 2, "text": "निर्दयी", "is_correct": true },
+        { "option_id": 3, "text": "गरीब", "is_correct": false },
+        { "option_id": 4, "text": "अमीर", "is_correct": false }
+      ],
+      "answer": "निर्दयी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "इस एकांकी का मुख्य उद्देश्य क्या है?",
+      "options": [
+        { "option_id": 1, "text": "हँसाना", "is_correct": false },
+        { "option_id": 2, "text": "दब्बूपन त्यागकर अपने अधिकार के लिए सजग करना", "is_correct": true },
+        { "option_id": 3, "text": "नौकरी छोड़ना", "is_correct": false },
+        { "option_id": 4, "text": "पैसे कमाना", "is_correct": false }
+      ],
+      "answer": "दब्बूपन त्यागकर अपने अधिकार के लिए सजग करना"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "गृहस्वामी ने जूलिया की तनख्वाह का हिसाब करते समय डायरी का हवाला क्यों दिया?",
+      "answer": "गृहस्वामी ने अपनी बात को सच साबित करने और जूलिया को यह विश्वास दिलाने के लिए डायरी का हवाला दिया कि उसने सब कुछ नोट कर रखा है, भले ही वह झूठ था।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "जूलिया ने मालकिन से कितने पैसे लेने की बात स्वीकार की?",
+      "answer": "जूलिया ने बहुत मुश्किल से बताया कि उसने मालकिन से सिर्फ तीन रूबल लिए थे।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "गृहस्वामी को जूलिया के 'जी धन्यवाद' कहने पर गुस्सा क्यों आया?",
+      "answer": "गृहस्वामी को गुस्सा इसलिए आया क्योंकि उसने जूलिया को ठगा और उसके पैसे हड़प लिए, फिर भी जूलिया ने विरोध करने के बजाय उसे धन्यवाद दिया।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "जूलिया ने धन्यवाद देने का क्या कारण बताया?",
+      "answer": "जूलिया ने कहा कि इससे पहले उसने जहाँ-जहाँ काम किया, उन लोगों ने उसे एक पैसा तक नहीं दिया था, जबकि गृहस्वामी कम से कम कुछ तो दे रहे थे।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "'रूबल' क्या है?",
+      "answer": "'रूबल' रूस की मुद्रा (करेंसी) है।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "वान्या और कोल्या कौन थे?",
+      "answer": "वान्या और कोल्या गृहस्वामी के बच्चे थे, जिनकी देखभाल और पढ़ाई की जिम्मेदारी जूलिया पर थी।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "गृहस्वामी ने जूलिया के साथ 'क्रूर मजाक' क्यों किया?",
+      "answer": "गृहस्वामी जूलिया को यह सबक सिखाना चाहते थे कि इस कठोर संसार में अपने अस्तित्व को बनाए रखने के लिए दब्बू और भीरु होना ठीक नहीं है, बल्कि अन्याय का विरोध करना चाहिए।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'बोदा' शब्द का क्या अर्थ है?",
+      "answer": "'बोदा' शब्द का अर्थ है मूर्ख, गावदी या सुस्त।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "गृहस्वामी ने जूलिया को अंत में क्या सलाह दी?",
+      "answer": "गृहस्वामी ने सलाह दी कि इस निर्मम संसार से लड़ने के लिए अपने दाँतों और पंजों के साथ पूरी शक्ति लगानी होगी; दब्बू लोगों के लिए यहाँ कोई स्थान नहीं है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "अंतोन चेखव की कहानियों की मुख्य विशेषता क्या है?",
+      "answer": "उनकी कहानियों में सामाजिक कुरीतियों का व्यंग्यात्मक चित्रण किया गया है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "गृहस्वामी द्वारा जूलिया के पैसे काटने के लिए क्या-क्या बहाने बनाए गए? विस्तार से लिखिए।",
+      "answer": "गृहस्वामी ने जूलिया के पैसे काटने के लिए कई बहाने बनाए। सबसे पहले, उसने तनख्वाह 40 की जगह 30 रूबल बताई और काम की अवधि कम बताई। फिर, उसने 9 इतवार और 3 छुट्टियों के पैसे काटे। कोल्या की बीमारी के कारण 3 दिन काम न करने के पैसे काटे। चाय की प्याली तोड़ने के लिए 2 रूबल, वान्या की जैकेट फटने पर 10 रूबल और लापरवाही से जूते चोरी होने पर 5 रूबल काटे। इसके अलावा, उसने झूठ बोला कि उसने जूलिया को पहले 10 रूबल उधार दिए थे।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "जूलिया के चरित्र-चित्रण की प्रमुख विशेषताएँ लिखिए।",
+      "answer": "जूलिया एक बेहद सीधी-सादी, दब्बू, और भीरु स्वभाव की महिला है। वह अन्याय सहकर भी चुप रहती है। वह अपनी मेहनत की कमाई के लिए भी अधिकारपूर्वक नहीं बोल पाती। वह विवशता की मूर्ति है। जब गृहस्वामी उसके पैसे काटते हैं, तो वह रोती है, उसकी आवाज काँपती है, लेकिन वह विरोध नहीं करती। मालिक द्वारा किए गए शोषण के बावजूद वह उन्हें 'धन्यवाद' कहती है, जो उसकी हद से ज्यादा सहनशीलता और भोलेपन को दर्शाता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "गृहस्वामी के चरित्र में हमें क्या विरोधाभास दिखाई देता है?",
+      "answer": "एकांकी की शुरुआत में गृहस्वामी एक कठोर, कंजूस और शोषक व्यक्ति प्रतीत होते हैं जो जूलिया के पैसे काटने का हर संभव प्रयास करते हैं। वे क्रूरता से उसके आंसुओं को नजरअंदाज करते हैं। लेकिन अंत में उनका एक अलग ही रूप सामने आता है। वे एक न्यायप्रिय और संवेदनशील व्यक्ति निकलते हैं जो जूलिया को उसके पूरे 80 रूबल देते हैं। उनका कठोर व्यवहार केवल एक नाटक था ताकि वे जूलिया को अन्याय के खिलाफ आवाज उठाना सीखा सकें।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "इस एकांकी के माध्यम से लेखक समाज को क्या संदेश देना चाहते हैं?",
+      "answer": "लेखक अंतोन चेखव इस एकांकी के माध्यम से संदेश देना चाहते हैं कि इंसान को इतना सीधा और दब्बू नहीं होना चाहिए कि लोग उसका फायदा उठाएँ। अन्याय सहना भी अन्याय करने जैसा ही बुरा है। समाज में शोषण से बचने के लिए व्यक्ति को अपने अधिकारों के प्रति सजग रहना चाहिए और अन्याय का डटकर विरोध करना चाहिए। इस क्रूर संसार में अस्तित्व बनाए रखने के लिए निडरता और आत्म-सम्मान आवश्यक है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "'संसार में दब्बू और रीढ़रहित लोगों के लिए कोई स्थान नहीं है' - इस कथन का आशय स्पष्ट कीजिए।",
+      "answer": "इस कथन का आशय यह है कि दुनिया बहुत कठोर और निर्मम है। यहाँ कमजोर और डरपोक लोगों को कुचल दिया जाता है। 'रीढ़रहित' का अर्थ है जिनमें आत्म-सम्मान या विरोध करने की शक्ति नहीं होती। ऐसे लोग अपनी रक्षा नहीं कर पाते और हमेशा शोषित होते रहते हैं। सम्मानपूर्वक जीने के लिए व्यक्ति को मजबूत बनना पड़ता है और अपने हक के लिए संघर्ष करना पड़ता है।"
+    }
+  ]
+}

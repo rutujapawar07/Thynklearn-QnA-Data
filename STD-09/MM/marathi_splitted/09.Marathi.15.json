@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M15",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "निरोप कविता"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'वर्गखोली' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'फळा' सोडताना 'आठवण' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आठवण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मैत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आठवण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'दालन' सोडताना 'आशा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आशा",
+          "is_correct": true
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'शाळेचे प्रांगण' सोडताना 'उत्साह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'उत्साह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'फळा' सोडताना 'विरह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरह",
+          "is_correct": true
+        }
+      ],
+      "answer": "विरह"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'शाळेचे प्रांगण' सोडताना 'अपेक्षा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपेक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपेक्षा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'कॉरिडॉर' सोडताना 'उत्साह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'खेळाचे मैदान' सोडताना 'नवीन धडाडी' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन धडाडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन धडाडी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'ग्रंथालय' सोडताना 'आठवण' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": true
+        }
+      ],
+      "answer": "आठवण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'सांस्कृतिक सभागृह' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'वर्गखोली' सोडताना 'आदर' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'फळा' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उत्साह",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'शाळेचे प्रांगण' सोडताना 'आठवण' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": true
+        }
+      ],
+      "answer": "आठवण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "'ग्रंथालय' सोडताना 'कृतज्ञता' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "'फळा' सोडताना 'अपेक्षा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपेक्षा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'नवीन धडाडी' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": true
+        }
+      ],
+      "answer": "नवीन धडाडी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'खेळाचे मैदान' सोडताना 'आशा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आशा",
+          "is_correct": true
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'खेळाचे मैदान' सोडताना 'कृतज्ञता' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'खेळाचे मैदान' सोडताना 'विरह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विरह"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "'शाळेचे प्रांगण' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरह",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'अपेक्षा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपेक्षा",
+          "is_correct": true
+        }
+      ],
+      "answer": "अपेक्षा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'मैत्री' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "'दालन' सोडताना 'नवीन धडाडी' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवीन धडाडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन धडाडी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'कॉरिडॉर' सोडताना 'मैत्री' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": true
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "'दालन' सोडताना 'आठवण' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आठवण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आठवण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "'कॉरिडॉर' सोडताना 'आठवण' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आठवण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'फळा' सोडताना 'आदर' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'दालन' सोडताना 'उत्साह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विरह",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'शाळेचे प्रांगण' सोडताना 'मैत्री' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मैत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'ग्रंथालय' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अपेक्षा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'आदर' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपेक्षा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'ग्रंथालय' सोडताना 'आशा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आठवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "'फळा' सोडताना 'उत्साह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मैत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विरह",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'ग्रंथालय' सोडताना 'मैत्री' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": true
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "'दालन' सोडताना 'मैत्री' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "'सांस्कृतिक सभागृह' सोडताना 'उत्साह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'कॉरिडॉर' सोडताना 'विरह' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरह",
+          "is_correct": true
+        }
+      ],
+      "answer": "विरह"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'प्रयोगशाळा' सोडताना 'आठवण' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आठवण"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'वर्गखोली' सोडताना 'कृतज्ञता' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "'सांस्कृतिक सभागृह' सोडताना 'नवीन धडाडी' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन धडाडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन धडाडी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'प्रयोगशाळा' सोडताना 'आशा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैत्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "'सांस्कृतिक सभागृह' सोडताना 'मैत्री' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मैत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "'शाळेचे प्रांगण' सोडताना 'आदर' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मैत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीन धडाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'संगणक कक्ष' सोडताना 'कृतज्ञता' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वप्न",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'खेळाचे मैदान' सोडताना 'स्वप्न' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वप्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरह",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "'सांस्कृतिक सभागृह' सोडताना 'अपेक्षा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपेक्षा",
+          "is_correct": true
+        }
+      ],
+      "answer": "अपेक्षा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "'प्रयोगशाळा' सोडताना 'अपेक्षा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपेक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपेक्षा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "'खेळाचे मैदान' सोडताना 'अपेक्षा' जाणवत असल्याचे कोणत्या विद्यार्थ्याने म्हटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपेक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वप्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपेक्षा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'आशा' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'आठवण' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'आदर' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'विरह' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'आशा' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'कृतज्ञता' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'स्वप्न' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'कृतज्ञता' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'मैत्री' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'नवीन धडाडी' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'अपेक्षा' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'कृतज्ञता' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'अपेक्षा' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'आदर' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'आठवण' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'आदर' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'नवीन धडाडी' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'आदर' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'स्वप्न' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'नवीन धडाडी' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'उत्साह' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'कृतज्ञता' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'स्वप्न' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'आदर' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'स्वप्न' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'स्वप्न' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'नवीन धडाडी' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'आशा' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'उत्साह' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'आशा' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'मैत्री' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'नवीन धडाडी' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'उत्साह' व 'मार्गदर्शक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'मार्गदर्शक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'आशा' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'कृतज्ञता' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'उत्साह' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'कृतज्ञता' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'आदर' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'आदर' व 'मार्गदर्शक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'मार्गदर्शक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'आठवण' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'अपेक्षा' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'मैत्री' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'मैत्री' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'आशा' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'आदर' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'आदर' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'कृतज्ञता' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'स्वप्न' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'आठवण' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'आशा' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'आदर' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'नवीन धडाडी' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'आदर' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'नवीन धडाडी' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'विरह' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'आठवण' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'मैत्री' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'आशा' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'अपेक्षा' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'स्वप्न' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'नवीन धडाडी' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'नवीन धडाडी' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'अपेक्षा' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'उत्साह' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'कृतज्ञता' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'नवीन धडाडी' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'नवीन धडाडी' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'उत्साह' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'उत्साह' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'उत्साह' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'आठवण' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'स्वप्न' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'अपेक्षा' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'नवीन धडाडी' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'नवीन धडाडी' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'आशा' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'कृतज्ञता' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'फळा' मधील 'आशा' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'फळा' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'विरह' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'कृतज्ञता' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'अपेक्षा' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'आदर' व 'मार्गदर्शक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'मार्गदर्शक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'विरह' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'ग्रंथालय' मधील 'विरह' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'ग्रंथालय' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'मैत्री' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'अपेक्षा' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'कृतज्ञता' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'कृतज्ञता' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'विरह' व 'मार्गदर्शक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'मार्गदर्शक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'प्रयोगशाळा' मधील 'आठवण' व 'मार्गदर्शक' यांचा अनुभव उलगडा करा.",
+      "answer": "'प्रयोगशाळा' येथे अनुभवलेले क्षण 'आठवण' जागवत राहतात.\n'मार्गदर्शक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'सांस्कृतिक सभागृह' मधील 'आशा' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'सांस्कृतिक सभागृह' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'आदर' व 'शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'अपेक्षा' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'कॉरिडॉर' मधील 'विरह' व 'क्रीडा प्रशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'कॉरिडॉर' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'क्रीडा प्रशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'अपेक्षा' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'अपेक्षा' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'मैत्री' व 'संगीत शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'मैत्री' जागवत राहतात.\n'संगीत शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'स्वप्न' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'स्वप्न' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'दालन' मधील 'विरह' व 'ग्रंथपाल' यांचा अनुभव उलगडा करा.",
+      "answer": "'दालन' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'ग्रंथपाल' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'आदर' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'खेळाचे मैदान' मधील 'आशा' व 'वर्गशिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'खेळाचे मैदान' येथे अनुभवलेले क्षण 'आशा' जागवत राहतात.\n'वर्गशिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. वर्षानुवर्षे अनुभवलेले क्षण उमटतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'वर्गखोली' मधील 'आदर' व 'मुख्याध्यापक' यांचा अनुभव उलगडा करा.",
+      "answer": "'वर्गखोली' येथे अनुभवलेले क्षण 'आदर' जागवत राहतात.\n'मुख्याध्यापक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. प्रत्येक प्रसंग अधिक मोलाचा वाटतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'शाळेचे प्रांगण' मधील 'विरह' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'शाळेचे प्रांगण' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. दिवस संपता आठवणी अधिक रंगतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "निरोप प्रसंगी 'संगणक कक्ष' मधील 'विरह' व 'कला शिक्षक' यांचा अनुभव उलगडा करा.",
+      "answer": "'संगणक कक्ष' येथे अनुभवलेले क्षण 'विरह' जागवत राहतात.\n'कला शिक्षक' दिलेले मार्गदर्शन पुढील वाटचालीस दृढ आधार देते. भावना शब्दांत मांडणे कठीण होते."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'कृतज्ञता', 'प्रयोगशाळा' व 'करिअर' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'कृतज्ञता' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'प्रयोगशाळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'करिअर' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'मैत्री', 'सांस्कृतिक सभागृह' व 'ध्येयपूर्ती' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'मैत्री' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'सांस्कृतिक सभागृह' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'ध्येयपूर्ती' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'मैत्री', 'शाळेचे प्रांगण' व 'स्वावलंबन' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'मैत्री' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'शाळेचे प्रांगण' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्वावलंबन' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'नवीन धडाडी', 'प्रयोगशाळा' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'नवीन धडाडी' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'प्रयोगशाळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'उत्साह', 'शाळेचे प्रांगण' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'उत्साह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'शाळेचे प्रांगण' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'स्वप्न', 'कॉरिडॉर' व 'करिअर' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'स्वप्न' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'कॉरिडॉर' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'करिअर' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आदर', 'फळा' व 'नवीन प्रवास' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आदर' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'फळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवीन प्रवास' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आठवण', 'कॉरिडॉर' व 'नवीन प्रवास' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आठवण' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'कॉरिडॉर' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवीन प्रवास' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'स्वप्न', 'खेळाचे मैदान' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'स्वप्न' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'खेळाचे मैदान' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'स्वप्न', 'कॉरिडॉर' व 'आव्हाने' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'स्वप्न' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'कॉरिडॉर' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'आव्हाने' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'अपेक्षा', 'संगणक कक्ष' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'अपेक्षा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'संगणक कक्ष' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'अपेक्षा', 'शाळेचे प्रांगण' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'अपेक्षा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'शाळेचे प्रांगण' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'कृतज्ञता', 'दालन' व 'आव्हाने' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'कृतज्ञता' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'दालन' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'आव्हाने' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आदर', 'संगणक कक्ष' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आदर' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'संगणक कक्ष' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'कृतज्ञता', 'ग्रंथालय' व 'स्वावलंबन' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'कृतज्ञता' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'ग्रंथालय' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्वावलंबन' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'विरह', 'फळा' व 'स्वावलंबन' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'विरह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'फळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्वावलंबन' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'अपेक्षा', 'खेळाचे मैदान' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'अपेक्षा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'खेळाचे मैदान' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आठवण', 'ग्रंथालय' व 'नवे मित्र' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आठवण' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'ग्रंथालय' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवे मित्र' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'वर्गखोली' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'वर्गखोली' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'उत्साह', 'ग्रंथालय' व 'आव्हाने' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'उत्साह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'ग्रंथालय' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'आव्हाने' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'ग्रंथालय' व 'नवे मित्र' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'ग्रंथालय' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवे मित्र' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आठवण', 'संगणक कक्ष' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आठवण' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'संगणक कक्ष' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आठवण', 'सांस्कृतिक सभागृह' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आठवण' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'सांस्कृतिक सभागृह' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'नवीन धडाडी', 'सांस्कृतिक सभागृह' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'नवीन धडाडी' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'सांस्कृतिक सभागृह' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'मैत्री', 'शाळेचे प्रांगण' व 'नवीन प्रवास' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'मैत्री' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'शाळेचे प्रांगण' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवीन प्रवास' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आठवण', 'सांस्कृतिक सभागृह' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आठवण' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'सांस्कृतिक सभागृह' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'फळा' व 'ध्येयपूर्ती' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'फळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'ध्येयपूर्ती' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'अपेक्षा', 'सांस्कृतिक सभागृह' व 'करिअर' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'अपेक्षा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'सांस्कृतिक सभागृह' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'करिअर' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'मैत्री', 'वर्गखोली' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'मैत्री' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'वर्गखोली' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'शाळेचे प्रांगण' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'शाळेचे प्रांगण' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आदर', 'प्रयोगशाळा' व 'नवे मित्र' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आदर' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'प्रयोगशाळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवे मित्र' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'उत्साह', 'कॉरिडॉर' व 'करिअर' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'उत्साह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'कॉरिडॉर' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'करिअर' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'स्वप्न', 'दालन' व 'नवीन प्रवास' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'स्वप्न' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'दालन' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवीन प्रवास' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'कृतज्ञता', 'खेळाचे मैदान' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'कृतज्ञता' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'खेळाचे मैदान' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'उत्साह', 'वर्गखोली' व 'स्वावलंबन' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'उत्साह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'वर्गखोली' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्वावलंबन' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'कृतज्ञता', 'संगणक कक्ष' व 'ध्येयपूर्ती' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'कृतज्ञता' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'संगणक कक्ष' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'ध्येयपूर्ती' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'संगणक कक्ष' व 'नवीन प्रवास' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'संगणक कक्ष' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवीन प्रवास' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'मैत्री', 'फळा' व 'आव्हाने' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'मैत्री' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'फळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'आव्हाने' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'मैत्री', 'प्रयोगशाळा' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'मैत्री' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'प्रयोगशाळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'उत्साह', 'वर्गखोली' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'उत्साह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'वर्गखोली' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आठवण', 'सांस्कृतिक सभागृह' व 'करिअर' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आठवण' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'सांस्कृतिक सभागृह' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'करिअर' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'खेळाचे मैदान' व 'करिअर' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'खेळाचे मैदान' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'करिअर' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'विरह', 'फळा' व 'नवे मित्र' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'विरह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'फळा' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवे मित्र' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'संगणक कक्ष' व 'आव्हाने' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'संगणक कक्ष' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'आव्हाने' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'विरह', 'दालन' व 'स्पर्धा परीक्षा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'विरह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'दालन' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्पर्धा परीक्षा' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'स्वप्न', 'खेळाचे मैदान' व 'नवे मित्र' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'स्वप्न' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'खेळाचे मैदान' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवे मित्र' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'आशा', 'कॉरिडॉर' व 'नवीन प्रवास' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'आशा' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'कॉरिडॉर' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'नवीन प्रवास' या दिशेने बदलाची खूण उमटते.\nभावनांच्या या प्रवाहातून धैर्य निर्माण होते.\nभविष्याचा आत्मविश्वास वाढताना दिसतो."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'विरह', 'कॉरिडॉर' व 'ध्येयपूर्ती' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'विरह' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'कॉरिडॉर' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'ध्येयपूर्ती' या दिशेने बदलाची खूण उमटते.\nआपलेपणाची नाळ घट्ट होत जाते.\nनवीन ध्येयाच्या सूर्योदयाची चाहूल मिळते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'कृतज्ञता', 'ग्रंथालय' व 'यशाचा टप्पा' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'कृतज्ञता' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'ग्रंथालय' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'यशाचा टप्पा' या दिशेने बदलाची खूण उमटते.\nविद्यार्थी अनुभवांचे मूल्य जाणून पुढे पाऊल टाकतात.\nयातून जीवनातील नवे क्षितिज तयार होते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "निरोप कवितेतील 'नवीन धडाडी', 'ग्रंथालय' व 'स्वावलंबन' या संदर्भांचा अर्थ सांगा.",
+      "answer": "निरोप कवितेत 'नवीन धडाडी' हे भूतकाळाच्या स्मरणरूपाने दिसते.\n'ग्रंथालय' येथे घडलेल्या आठवणी विद्यार्थ्यांना प्रेरणा देतात.\nपुढे 'स्वावलंबन' या दिशेने बदलाची खूण उमटते.\nशिक्षणाची उगमभूमी मनात कायम राहते.\nकवितेत या बदलांचे कोमल दर्शन होते."
+    }
+  ]
+}

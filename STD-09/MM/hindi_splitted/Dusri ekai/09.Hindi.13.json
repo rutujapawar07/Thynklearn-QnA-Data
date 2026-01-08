@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.13",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "जंगल (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'जंगल' (पूरक पठन) की लेखिका कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "महादेवी वर्मा", "is_correct": false },
+        { "option_id": 2, "text": "चित्रा मुद्गल", "is_correct": true },
+        { "option_id": 3, "text": "मन्नू भंडारी", "is_correct": false },
+        { "option_id": 4, "text": "सुभद्रा कुमारी चौहान", "is_correct": false }
+      ],
+      "answer": "चित्रा मुद्गल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अणिमा जोशी के मोबाइल पर किसका फोन आया था?",
+      "options": [
+        { "option_id": 1, "text": "मांडवी दीदी का", "is_correct": false },
+        { "option_id": 2, "text": "तविषा का", "is_correct": true },
+        { "option_id": 3, "text": "पीयूष का", "is_correct": false },
+        { "option_id": 4, "text": "कमला का", "is_correct": false }
+      ],
+      "answer": "तविषा का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "तविषा किसकी बहू थी?",
+      "options": [
+        { "option_id": 1, "text": "अणिमा की", "is_correct": false },
+        { "option_id": 2, "text": "मांडवी दीदी की", "is_correct": true },
+        { "option_id": 3, "text": "कमला की", "is_correct": false },
+        { "option_id": 4, "text": "पड़ोसन की", "is_correct": false }
+      ],
+      "answer": "मांडवी दीदी की"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "घर में किसके बच्चे पाल रखे थे?",
+      "options": [
+        { "option_id": 1, "text": "कुत्ते के", "is_correct": false },
+        { "option_id": 2, "text": "बिल्ली के", "is_correct": false },
+        { "option_id": 3, "text": "खरगोश के (जुड़वाँ)", "is_correct": true },
+        { "option_id": 4, "text": "तोते के", "is_correct": false }
+      ],
+      "answer": "खरगोश के (जुड़वाँ)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खरगोशों के नाम क्या थे?",
+      "options": [
+        { "option_id": 1, "text": "रामू-शामू", "is_correct": false },
+        { "option_id": 2, "text": "सोनू-मोनू", "is_correct": true },
+        { "option_id": 3, "text": "चिंटू-पिंटू", "is_correct": false },
+        { "option_id": 4, "text": "हीरा-मोती", "is_correct": false }
+      ],
+      "answer": "सोनू-मोनू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उनमें से किसकी मृत्यु हो गई थी?",
+      "options": [
+        { "option_id": 1, "text": "सोनू की", "is_correct": true },
+        { "option_id": 2, "text": "मोनू की", "is_correct": false },
+        { "option_id": 3, "text": "दोनों की", "is_correct": false },
+        { "option_id": 4, "text": "किसी की नहीं", "is_correct": false }
+      ],
+      "answer": "सोनू की"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कामवाली का नाम क्या था?",
+      "options": [
+        { "option_id": 1, "text": "विमला", "is_correct": false },
+        { "option_id": 2, "text": "कमला", "is_correct": true },
+        { "option_id": 3, "text": "सरला", "is_correct": false },
+        { "option_id": 4, "text": "शीला", "is_correct": false }
+      ],
+      "answer": "कमला"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'अनुशासन' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "आदेश", "is_correct": false },
+        { "option_id": 2, "text": "नियम", "is_correct": true },
+        { "option_id": 3, "text": "सजा", "is_correct": false },
+        { "option_id": 4, "text": "खेल", "is_correct": false }
+      ],
+      "answer": "नियम"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'कोंपल' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "पुराने पत्ते", "is_correct": false },
+        { "option_id": 2, "text": "नई पत्तियाँ", "is_correct": true },
+        { "option_id": 3, "text": "फल", "is_correct": false },
+        { "option_id": 4, "text": "जड़", "is_correct": false }
+      ],
+      "answer": "नई पत्तियाँ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'घोड़े बेचकर सोना' मुहावरे का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "व्यापार करना", "is_correct": false },
+        { "option_id": 2, "text": "निश्चिंत होकर सोना", "is_correct": true },
+        { "option_id": 3, "text": "घोड़े की सवारी करना", "is_correct": false },
+        { "option_id": 4, "text": "जागते रहना", "is_correct": false }
+      ],
+      "answer": "निश्चिंत होकर सोना"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'पोखर' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "समुद्र", "is_correct": false },
+        { "option_id": 2, "text": "जलाशय / तालाब", "is_correct": true },
+        { "option_id": 3, "text": "नदी", "is_correct": false },
+        { "option_id": 4, "text": "कुआँ", "is_correct": false }
+      ],
+      "answer": "जलाशय / तालाब"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'हमजोली' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "दुश्मन", "is_correct": false },
+        { "option_id": 2, "text": "साथी / संगी", "is_correct": true },
+        { "option_id": 3, "text": "अजनबी", "is_correct": false },
+        { "option_id": 4, "text": "रिश्तेदार", "is_correct": false }
+      ],
+      "answer": "साथी / संगी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पीयूष और शैलेश का क्या रिश्ता है?",
+      "options": [
+        { "option_id": 1, "text": "भाई-भाई", "is_correct": false },
+        { "option_id": 2, "text": "पिता-पुत्र", "is_correct": true },
+        { "option_id": 3, "text": "मित्र", "is_correct": false },
+        { "option_id": 4, "text": "चाचा-भतीजा", "is_correct": false }
+      ],
+      "answer": "पिता-पुत्र"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'निस्पंद' का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "चंचल", "is_correct": false },
+        { "option_id": 2, "text": "निश्चल / स्तब्ध", "is_correct": true },
+        { "option_id": 3, "text": "तेज", "is_correct": false },
+        { "option_id": 4, "text": "धीमा", "is_correct": false }
+      ],
+      "answer": "निश्चल / स्तब्ध"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दादी (मांडवी) और तविषा का क्या रिश्ता है?",
+      "options": [
+        { "option_id": 1, "text": "माँ-बेटी", "is_correct": false },
+        { "option_id": 2, "text": "सास-बहू", "is_correct": true },
+        { "option_id": 3, "text": "बहनें", "is_correct": false },
+        { "option_id": 4, "text": "सहेलियाँ", "is_correct": false }
+      ],
+      "answer": "सास-बहू"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "तविषा ने अणिमा दीदी को फोन क्यों किया था?",
+      "answer": "तविषा ने अणिमा दीदी को फोन इसलिए किया था क्योंकि घर में एक खरगोश (सोनू) की मृत्यु हो गई थी और वह अपनी सास (अम्मा) से बात करना चाहती थी, जो कक्षा ले रही थीं।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कमला ने बैठक बुहारते हुए क्या देखा?",
+      "answer": "कमला ने बैठक बुहारते हुए देखा कि खरगोश सोनू मर गया है, उसके हिलाने पर सोनू ने कोई प्रतिक्रिया नहीं दी।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "पीयूष किस बात को लेकर परेशान था?",
+      "answer": "पीयूष अपने प्यारे खरगोश सोनू की मृत्यु से दुखी था और उसे दफनाने के लिए मिट्टी या जंगल न मिलने के कारण परेशान था।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "'धात लगाना' मुहावरे का अर्थ लिखिए।",
+      "answer": "किसी को हानि पहुँचाने के अवसर ढूँढ़ना।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "मांडवी दीदी ने पीयूष को गले क्यों लगा लिया?",
+      "answer": "पीयूष की संवेदनशीलता और मासूमियत देखकर मांडवी दीदी भावुक हो गईं और उन्होंने उसे प्यार से गले लगा लिया।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कहानी के अंत में पीयूष क्या चाहता था?",
+      "answer": "पीयूष चाहता था कि सोनू को किसी ऐसी जगह दफनाया जाए जहाँ मिट्टी हो, जिसे वह 'जंगल' कह रहा था।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "चित्रा मुद्गल की कहानी 'जंगल' का मुख्य विषय क्या है?",
+      "answer": "इस कहानी का मुख्य विषय शहरीकरण के कारण प्रकृति और जानवरों के लिए जगह की कमी, और बच्चों की कोमल भावनाओं पर इसका प्रभाव है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'बुदबुदाना' क्रिया का अर्थ क्या है?",
+      "answer": "अस्फुट स्वर में बोलना (धीरे-धीरे बोलना)।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "'प्रतिवाद' शब्द का क्या अर्थ है?",
+      "answer": "'प्रतिवाद' का अर्थ है खंडन या विरोध।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'चितकबरी' का मतलब क्या होता है?",
+      "answer": "रंग-बिरंगी (जिसमें कई रंग या धब्बे हों)।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "कहानी 'जंगल' के माध्यम से लेखिका क्या संदेश देना चाहती हैं?",
+      "answer": "लेखिका इस कहानी के माध्यम से शहरी जीवन की विडंबना को दर्शाती हैं। शहरों में कंक्रीट के जंगल तो बढ़ रहे हैं, लेकिन असली जंगल, मिट्टी और प्रकृति लुप्त होती जा रही है। जानवरों को पालने का शौक तो लोग रखते हैं, लेकिन उनकी मृत्यु के बाद उन्हें दफनाने के लिए दो गज जमीन भी शहरों में नहीं मिलती। यह कहानी पर्यावरण संरक्षण और बच्चों की संवेदनशीलता को समझने का संदेश देती है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "पीयूष की मनोदशा का वर्णन कीजिए।",
+      "answer": "पीयूष अपने खरगोश सोनू से बहुत प्यार करता था। उसकी मृत्यु से उसे गहरा आघात पहुँचा। वह समझ नहीं पा रहा था कि फ्लैट में रहने के कारण सोनू को मिट्टी में कैसे दफनाया जाए। वह बार-बार 'जंगल' की बात करता है, जहाँ सोनू को शांति मिल सके। उसकी यह मासूम चिंता बड़ों को भी सोचने पर मजबूर कर देती है कि विकास के नाम पर हमने प्रकृति को कितना नुकसान पहुँचाया है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "तविषा और मांडवी दीदी के बीच के संवाद (अप्रत्यक्ष रूप से) से क्या पता चलता है?",
+      "answer": "तविषा अपनी सास मांडवी दीदी का सम्मान करती है और उन्हें अनुशासनप्रिय मानती है, इसलिए वह सीधे क्लास में बाधा नहीं डालना चाहती। लेकिन स्थिति की गंभीरता (सोनू की मौत और पीयूष का दुख) के कारण वह अणिमा दीदी के माध्यम से संपर्क करने का प्रयास करती है। इससे परिवार के आपसी प्रेम और एक-दूसरे की भावनाओं की कद्र करने का पता चलता है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "शहरीकरण का बच्चों और पालतू जानवरों पर क्या प्रभाव पड़ रहा है? कहानी के आधार पर स्पष्ट करें।",
+      "answer": "कहानी स्पष्ट करती है कि शहरीकरण ने बच्चों को प्रकृति से दूर कर दिया है। पीयूष जैसे बच्चों के लिए 'मिट्टी' और 'जंगल' एक दुर्लभ चीज बन गई है। पालतू जानवरों के लिए भी शहरों में खुला स्थान नहीं है। सोनू की मृत्यु के बाद उसे दफनाने की समस्या यह दिखाती है कि शहरों में हम भावनाओं और परंपराओं (अंतिम संस्कार) के लिए भी जगह खो चुके हैं। बच्चे इस अभाव को गहराई से महसूस करते हैं।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "कहानी के पात्रों (दादी, पीयूष, तविषा) के स्वभाव की विशेषताएँ लिखिए।",
+      "answer": "दादी (मांडवी): अनुशासित, कर्तव्यनिष्ठ शिक्षिका, लेकिन पोते के प्रति बेहद स्नेह रखने वाली और संवेदनशील।\nपीयूष: मासूम, भावुक, जानवरों से प्रेम करने वाला और प्रकृति के प्रति जिज्ञासु बच्चा।\nतविषा: समझदार बहू और माँ, जो सास के नियमों का सम्मान करती है लेकिन अपने बेटे की भावनाओं की भी कद्र करती है।"
+    }
+  ]
+}

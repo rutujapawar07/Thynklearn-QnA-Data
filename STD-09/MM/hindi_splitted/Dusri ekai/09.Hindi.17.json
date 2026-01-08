@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.17",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "निसर्ग वैभव (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'निसर्ग वैभव' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 2, "text": "सुमित्रानंदन पंत", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यकांत त्रिपाठी 'निराला'", "is_correct": false },
+        { "option_id": 4, "text": "महादेवी वर्मा", "is_correct": false }
+      ],
+      "answer": "सुमित्रानंदन पंत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गिरि-शिखरों से क्या टपक रहा है?",
+      "options": [
+        { "option_id": 1, "text": "ओस", "is_correct": false },
+        { "option_id": 2, "text": "शहद", "is_correct": false },
+        { "option_id": 3, "text": "झर (झरना/पानी)", "is_correct": true },
+        { "option_id": 4, "text": "पत्ते", "is_correct": false }
+      ],
+      "answer": "झर (झरना/पानी)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "तृण दल (घास के पत्ते) किसके स्पर्श से पुलकित हो रहे हैं?",
+      "options": [
+        { "option_id": 1, "text": "सूरज के", "is_correct": false },
+        { "option_id": 2, "text": "बारिश के", "is_correct": false },
+        { "option_id": 3, "text": "अनिल (हवा) के", "is_correct": true },
+        { "option_id": 4, "text": "ओस के", "is_correct": false }
+      ],
+      "answer": "अनिल (हवा) के"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवि ने जंगल की भूमि (वन-भू) के संगीत को कैसा बताया है?",
+      "options": [
+        { "option_id": 1, "text": "कर्कश", "is_correct": false },
+        { "option_id": 2, "text": "श्लक्ष्ण (मधुर) संगीत स्रोत-सी", "is_correct": true },
+        { "option_id": 3, "text": "तेज", "is_correct": false },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "श्लक्ष्ण (मधुर) संगीत स्रोत-सी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुकुल (कली) के अधरों का मधु कौन पी रहा है?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी", "is_correct": false },
+        { "option_id": 2, "text": "मधुकर दल (भौंरे)", "is_correct": true },
+        { "option_id": 3, "text": "तितली", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "मधुकर दल (भौंरे)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "छाया में रुक-रुक कर कौन गा रही है?",
+      "options": [
+        { "option_id": 1, "text": "मैना", "is_correct": false },
+        { "option_id": 2, "text": "बुलबुल", "is_correct": false },
+        { "option_id": 3, "text": "वन प्रिय कोयल", "is_correct": true },
+        { "option_id": 4, "text": "गौरैया", "is_correct": false }
+      ],
+      "answer": "वन प्रिय कोयल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'मरकत आँगन' का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "पत्थर का आँगन", "is_correct": false },
+        { "option_id": 2, "text": "पन्ने (रत्न) जैसा हरा-भरा आँगन", "is_correct": true },
+        { "option_id": 3, "text": "सूखा आँगन", "is_correct": false },
+        { "option_id": 4, "text": "मिट्टी का घर", "is_correct": false }
+      ],
+      "answer": "पन्ने (रत्न) जैसा हरा-भरा आँगन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गिलहरियाँ क्या कुतर रही हैं?",
+      "options": [
+        { "option_id": 1, "text": "फल", "is_correct": false },
+        { "option_id": 2, "text": "लकड़ी", "is_correct": false },
+        { "option_id": 3, "text": "कोंपल (नई पत्तियाँ)", "is_correct": true },
+        { "option_id": 4, "text": "दाने", "is_correct": false }
+      ],
+      "answer": "कोंपल (नई पत्तियाँ)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार ईश्वर का प्रतिनिधि कौन है?",
+      "options": [
+        { "option_id": 1, "text": "पर्वत", "is_correct": false },
+        { "option_id": 2, "text": "नर (मनुष्य)", "is_correct": true },
+        { "option_id": 3, "text": "सूरज", "is_correct": false },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "नर (मनुष्य)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मानव मन किससे छिन्न हो गया है?",
+      "options": [
+        { "option_id": 1, "text": "परिवार से", "is_correct": false },
+        { "option_id": 2, "text": "धन से", "is_correct": false },
+        { "option_id": 3, "text": "विश्व चेतना से", "is_correct": true },
+        { "option_id": 4, "text": "समाज से", "is_correct": false }
+      ],
+      "answer": "विश्व चेतना से"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ऊषा (सुबह) किसका अभिनंदन करती है?",
+      "options": [
+        { "option_id": 1, "text": "नदियों का", "is_correct": false },
+        { "option_id": 2, "text": "स्वर्ण-भाल गिरी (पर्वत) का", "is_correct": true },
+        { "option_id": 3, "text": "सागर का", "is_correct": false },
+        { "option_id": 4, "text": "पेड़ों का", "is_correct": false }
+      ],
+      "answer": "स्वर्ण-भाल गिरी (पर्वत) का"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'अहरह' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "कभी-कभी", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिदिन / हर रोज", "is_correct": true },
+        { "option_id": 3, "text": "रात में", "is_correct": false },
+        { "option_id": 4, "text": "सुबह", "is_correct": false }
+      ],
+      "answer": "प्रतिदिन / हर रोज"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सुमित्रानंदन पंत हिंदी साहित्य के किस युग के कवि हैं?",
+      "options": [
+        { "option_id": 1, "text": "रीतिकाल", "is_correct": false },
+        { "option_id": 2, "text": "भक्तिकाल", "is_correct": false },
+        { "option_id": 3, "text": "छायावादी युग", "is_correct": true },
+        { "option_id": 4, "text": "प्रयोगवादी युग", "is_correct": false }
+      ],
+      "answer": "छायावादी युग"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'वैचित्र्य' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "अनोखापन", "is_correct": true },
+        { "option_id": 2, "text": "विचार", "is_correct": false },
+        { "option_id": 3, "text": "चित्र", "is_correct": false },
+        { "option_id": 4, "text": "मित्रता", "is_correct": false }
+      ],
+      "answer": "अनोखापन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवि ने 'शशिमुख' (चंद्रमा) का दर्पण किसे कहा है?",
+      "options": [
+        { "option_id": 1, "text": "आईने को", "is_correct": false },
+        { "option_id": 2, "text": "अपलक तारापथ को", "is_correct": true },
+        { "option_id": 3, "text": "नदी के जल को", "is_correct": false },
+        { "option_id": 4, "text": "पर्वत को", "is_correct": false }
+      ],
+      "answer": "अपलक तारापथ को"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "प्रकृति के किन दृश्यों से कवि का मन सम्मोहित हो जाता है?",
+      "answer": "गिरि-शिखरों से झरते झरने, घाटी में लिपटी धूप-छाँह, हवा से हिलते घास के तिनके, फूलों की ज्वालाएँ और भौरों का गुंजन देखकर कवि का मन सम्मोहित हो जाता है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "शैल (पर्वत) के कंधों पर कौन सोया और कौन जागा है?",
+      "answer": "शैल के कंधों पर बादल या धुंध सोई है और गंध समीरण (सुगंधित हवा) जागी हुई है।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "पर्वत के जीवन में क्या भरा हुआ है?",
+      "answer": "पर्वत के जीवन में 'विस्मयकर वैचित्र्य' (आश्चर्यजनक अनोखापन) भरा हुआ है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "कवि को किस क्षण ईश्वर की याद आती है?",
+      "answer": "जब कवि प्रकृति के इस सुंदर, शांत और प्रसन्न वातावरण (मरकत आँगन) में पशु-पक्षियों को आनंदित देखता है, तब उसे स्वाभाविक रूप से ईश्वर की याद आती है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "जड़ और चेतन जग में कवि ने क्या विरोधाभास देखा है?",
+      "answer": "कवि देखते हैं कि जड़ जग (प्रकृति) अत्यंत सुंदर और शांत है, जबकि चेतन जग (मानव संसार) में मन का संघर्ष और विषण्ण (उदास) जीवन है।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "मानव मन अपनी 'क्षुद्र अहंता' (छोटे अहंकार) में क्या हो गया है?",
+      "answer": "मानव मन अपनी 'क्षुद्र अहंता' में सीमित और केंद्रित हो गया है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "साँझ (शाम) कहाँ सोती है?",
+      "answer": "साँझ निर्जन (वीरान) में छिपकर सोती है और संध्यावंदन करती है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'श्लक्ष्ण' और 'समीरण' शब्दों के अर्थ लिखिए।",
+      "answer": "'श्लक्ष्ण' का अर्थ है मधुर और 'समीरण' का अर्थ है वायु/हवा।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "पंत जी की किन्हीं दो प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "वीणा, पल्लव, गुंजन, ग्राम्या, चिदंबरा, हार (उपन्यास) आदि।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "कवि ने मनुष्य के जीवन को 'अभिशापित' क्यों कहा है?",
+      "answer": "क्योंकि मनुष्य प्रकृति से दूर होकर केवल विश्लेषण और संश्लेषण में लगा रहता है, जिससे उसका जीवन संघर्षपूर्ण और दुखी हो गया है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "कविता में वर्णित प्राकृतिक सौंदर्य का चित्रण अपने शब्दों में कीजिए।",
+      "answer": "कवि ने प्रकृति का बहुत ही सजीव चित्रण किया है। पर्वतों से झरने टपक रहे हैं, घाटियों में धूप-छाँह लिपटी हुई है। हवा के स्पर्श से घास पुलकित हो रही है। वन में मधुर संगीत गूँज रहा है। रंग-बिरंगे फूल खिले हैं जिन पर भौरें और तितलियाँ मंडरा रहे हैं। कोयल की कूक और गिलहरियों की चंचलता मन को मोह लेती है। सूर्योदय और सूर्यास्त के समय पर्वत शिखरों की शोभा देखते ही बनती है। पूरा वातावरण पन्ने (मरकत) के समान हरा-भरा और आनंदमय है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कवि ने 'जड़ जग' और 'चेतन जग' की तुलना किस प्रकार की है?",
+      "answer": "कवि के अनुसार, 'जड़ जग' यानी प्रकृति अत्यंत सुंदर, शांत और व्यवस्थित है। यहाँ हर क्षण उत्सव जैसा है। इसके विपरीत, 'चेतन जग' यानी मनुष्यों की दुनिया में अशांति है। मनुष्य का मन हर समय संघर्ष, चिंता और विषाद (दुख) से घिरा रहता है। प्रकृति जहाँ निस्वार्थ और मुक्त है, वहीं मनुष्य का चेतन मन अहंकार और चिंताओं में सीमित होकर रह गया है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'ईश्वर का प्रतिनिधि नर, अभिशापित हो उसका जीवन?' - इस पंक्ति का भावार्थ स्पष्ट कीजिए।",
+      "answer": "कवि कहते हैं कि मनुष्य को ईश्वर का सर्वश्रेष्ठ प्रतिनिधि या रचना माना जाता है। उसके पास बुद्धि और चेतना है। फिर भी, उसका जीवन अभिशाप जैसा क्यों बन गया है? वह प्रकृति की तरह सहज और आनंदित क्यों नहीं है? इसका कारण यह है कि मनुष्य ने अपनी बुद्धि का प्रयोग प्रकृति से जुड़ने के बजाय उसे तोड़ने-मरोड़ने (विश्लेषण-संश्लेषण) में लगा दिया है, जिससे वह अपने मूल आनंद से कट गया है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "कविता का संदेश क्या है? मनुष्य को प्रकृति से क्या सीखना चाहिए?",
+      "answer": "कविता का संदेश यह है कि मनुष्य को अपने अहंकार और कृत्रिमता को त्यागकर प्रकृति की ओर लौटना चाहिए। प्रकृति हमें निस्वार्थ भाव से जीना, सुंदरता का आनंद लेना और शांत रहना सिखाती है। जब मनुष्य अपनी क्षुद्र 'मैं' (अहंता) से बाहर निकलकर 'विश्व चेतना' के साथ एकाकार होगा, तभी वह सच्चा सुख और शांति प्राप्त कर सकेगा। प्रकृति का सानिध्य ही ईश्वर की अनुभूति करा सकता है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "'छिन्न हो गया विश्व चेतना से मानव मन निश्चित!' - इस पंक्ति की व्याख्या कीजिए।",
+      "answer": "इस पंक्ति का अर्थ है कि मनुष्य का मन संकीर्ण हो गया है। वह केवल अपने स्वार्थ और छोटे दायरे (क्षुद्र अहंता) में सिमट कर रह गया है। इस कारण उसका संपर्क उस व्यापक 'विश्व चेतना' या विराट अस्तित्व से टूट गया है जो कण-कण में व्याप्त है। प्रकृति के साथ जो उसका अटूट रिश्ता था, वह खंडित हो गया है। यही अलगाव उसके दुख और संघर्ष का मुख्य कारण है।"
+    }
+  ]
+}

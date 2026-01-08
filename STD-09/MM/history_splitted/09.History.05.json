@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.05",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Marathi",
+    "chapter_name": "शैक्षणिक वाटचाल"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहगट कार्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RTE कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": true
+        }
+      ],
+      "answer": "डिजिटल शिक्षण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपूर्ण विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपूर्ण विकास"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महिला साक्षरता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "महिला साक्षरता"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समता हक्क",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळा उभारणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाळा उभारणी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "RTE कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": true
+        }
+      ],
+      "answer": "अभ्यासक्रम सुधारणा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विशेष सुविधा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "RTE कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशेष सुविधा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समता हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": true
+        }
+      ],
+      "answer": "नवोदय/आश्रमशाळा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षक प्रशिक्षण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिव्यांग शिक्षण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RTE कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यायी शिक्षण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहगट कार्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहगट कार्य"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        }
+      ],
+      "answer": "वंचित विद्यार्थी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनुदान योजना",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुदान योजना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहगट कार्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समता हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": true
+        }
+      ],
+      "answer": "कौशल्य शिक्षण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सहगट कार्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण शिक्षण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "RTE कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल शिक्षण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपूर्ण विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपूर्ण विकास"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महिला साक्षरता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समता हक्क",
+          "is_correct": false
+        }
+      ],
+      "answer": "महिला साक्षरता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शाळा उभारणी",
+          "is_correct": true
+        }
+      ],
+      "answer": "शाळा उभारणी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": true
+        }
+      ],
+      "answer": "अभ्यासक्रम सुधारणा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विशेष सुविधा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सहगट कार्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशेष सुविधा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवोदय/आश्रमशाळा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षक प्रशिक्षण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "RTE कायदा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिव्यांग शिक्षण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समता हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यायी शिक्षण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहगट कार्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहगट कार्य"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "RTE कायदा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वंचित विद्यार्थी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुदान योजना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिव्यांग शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुदान योजना"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौशल्य शिक्षण"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समता हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": true
+        }
+      ],
+      "answer": "ग्रामीण शिक्षण"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोफत व सक्तीचे शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विशेष सुविधा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "डिजिटल शिक्षण"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपूर्ण विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपूर्ण विकास"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महिला साक्षरता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षक प्रशिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "महिला साक्षरता"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहगट कार्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कौशल्य शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "महिला साक्षरता",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समता हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळा उभारणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनुदान योजना",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाळा उभारणी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "गुणवत्ता संबंधित संकल्पना ओळखा (47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डिजिटल शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यासक्रम सुधारणा",
+          "is_correct": true
+        }
+      ],
+      "answer": "अभ्यासक्रम सुधारणा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "समता संबंधित संकल्पना ओळखा (48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विशेष सुविधा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशेष सुविधा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "अधिकार संबंधित संकल्पना ओळखा (49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक हक्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाळा उभारणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "RTE कायदा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक हक्क"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "प्रवेश संबंधित संकल्पना ओळखा (50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपूर्ण विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वंचित विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवोदय/आश्रमशाळा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यायी शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवोदय/आश्रमशाळा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "ONE_LINE",
+      "question": "विद्यार्थी पोषण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी पोषण योजना हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "ONE_LINE",
+      "question": "बालिका शिक्षण स्पष्ट करा",
+      "answer": "बालिका शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "ONE_LINE",
+      "question": "दिव्यांग शैक्षणिक सुविधा स्पष्ट करा",
+      "answer": "दिव्यांग शैक्षणिक सुविधा हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "ONE_LINE",
+      "question": "ग्रामीण शिक्षणाचा विस्तार स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षणाचा विस्तार हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "ONE_LINE",
+      "question": "अभ्यासक्रम नवनीकरण स्पष्ट करा",
+      "answer": "अभ्यासक्रम नवनीकरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "ONE_LINE",
+      "question": "कौशल्य शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "ONE_LINE",
+      "question": "सार्वत्रिक शिक्षण स्पष्ट करा",
+      "answer": "सार्वत्रिक शिक्षण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "ONE_LINE",
+      "question": "उच्च शिक्षण प्रवेश स्पष्ट करा",
+      "answer": "उच्च शिक्षण प्रवेश हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "ONE_LINE",
+      "question": "RTE तरतूद स्पष्ट करा",
+      "answer": "RTE तरतूद हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "ONE_LINE",
+      "question": "शाळा प्रवेश वाढ स्पष्ट करा",
+      "answer": "शाळा प्रवेश वाढ हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "ONE_LINE",
+      "question": "डिजिटल साक्षरता स्पष्ट करा",
+      "answer": "डिजिटल साक्षरता हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "ONE_LINE",
+      "question": "अनुदान वितरण स्पष्ट करा",
+      "answer": "अनुदान वितरण हा भारतातील सर्वसमावेशक शैक्षणिक प्रगतीचा आधारभूत घटक मानला जातो."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "RTE कायद्याचे महत्त्व स्पष्ट करा",
+      "answer": "RTE कायद्याचे महत्त्व हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "सर्वसमावेशक शिक्षण स्पष्ट करा",
+      "answer": "सर्वसमावेशक शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "शिक्षक प्रशिक्षण भूमिका स्पष्ट करा",
+      "answer": "शिक्षक प्रशिक्षण भूमिका हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "ग्रामीण शिक्षण विकास स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षण विकास हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "बालिका साक्षरता परिणाम स्पष्ट करा",
+      "answer": "बालिका साक्षरता परिणाम हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "डिजिटल शिक्षण साधने स्पष्ट करा",
+      "answer": "डिजिटल शिक्षण साधने हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "विद्यार्थी कल्याण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी कल्याण योजना हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "कौशल्य आधारित शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य आधारित शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "विशेष गरजांचा समावेश स्पष्ट करा",
+      "answer": "विशेष गरजांचा समावेश हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "समान संधींची गरज स्पष्ट करा",
+      "answer": "समान संधींची गरज हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "RTE कायद्याचे महत्त्व स्पष्ट करा",
+      "answer": "RTE कायद्याचे महत्त्व हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "सर्वसमावेशक शिक्षण स्पष्ट करा",
+      "answer": "सर्वसमावेशक शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "शिक्षक प्रशिक्षण भूमिका स्पष्ट करा",
+      "answer": "शिक्षक प्रशिक्षण भूमिका हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "ग्रामीण शिक्षण विकास स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षण विकास हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "बालिका साक्षरता परिणाम स्पष्ट करा",
+      "answer": "बालिका साक्षरता परिणाम हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "डिजिटल शिक्षण साधने स्पष्ट करा",
+      "answer": "डिजिटल शिक्षण साधने हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "विद्यार्थी कल्याण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी कल्याण योजना हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "कौशल्य आधारित शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य आधारित शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "विशेष गरजांचा समावेश स्पष्ट करा",
+      "answer": "विशेष गरजांचा समावेश हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "समान संधींची गरज स्पष्ट करा",
+      "answer": "समान संधींची गरज हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "RTE कायद्याचे महत्त्व स्पष्ट करा",
+      "answer": "RTE कायद्याचे महत्त्व हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "सर्वसमावेशक शिक्षण स्पष्ट करा",
+      "answer": "सर्वसमावेशक शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "शिक्षक प्रशिक्षण भूमिका स्पष्ट करा",
+      "answer": "शिक्षक प्रशिक्षण भूमिका हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "ग्रामीण शिक्षण विकास स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षण विकास हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "बालिका साक्षरता परिणाम स्पष्ट करा",
+      "answer": "बालिका साक्षरता परिणाम हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "डिजिटल शिक्षण साधने स्पष्ट करा",
+      "answer": "डिजिटल शिक्षण साधने हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "विद्यार्थी कल्याण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी कल्याण योजना हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "कौशल्य आधारित शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य आधारित शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "विशेष गरजांचा समावेश स्पष्ट करा",
+      "answer": "विशेष गरजांचा समावेश हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "समान संधींची गरज स्पष्ट करा",
+      "answer": "समान संधींची गरज हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "RTE कायद्याचे महत्त्व स्पष्ट करा",
+      "answer": "RTE कायद्याचे महत्त्व हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "सर्वसमावेशक शिक्षण स्पष्ट करा",
+      "answer": "सर्वसमावेशक शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "शिक्षक प्रशिक्षण भूमिका स्पष्ट करा",
+      "answer": "शिक्षक प्रशिक्षण भूमिका हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "ग्रामीण शिक्षण विकास स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षण विकास हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "बालिका साक्षरता परिणाम स्पष्ट करा",
+      "answer": "बालिका साक्षरता परिणाम हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "डिजिटल शिक्षण साधने स्पष्ट करा",
+      "answer": "डिजिटल शिक्षण साधने हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "विद्यार्थी कल्याण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी कल्याण योजना हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "कौशल्य आधारित शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य आधारित शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "विशेष गरजांचा समावेश स्पष्ट करा",
+      "answer": "विशेष गरजांचा समावेश हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "समान संधींची गरज स्पष्ट करा",
+      "answer": "समान संधींची गरज हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "RTE कायद्याचे महत्त्व स्पष्ट करा",
+      "answer": "RTE कायद्याचे महत्त्व हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "सर्वसमावेशक शिक्षण स्पष्ट करा",
+      "answer": "सर्वसमावेशक शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "शिक्षक प्रशिक्षण भूमिका स्पष्ट करा",
+      "answer": "शिक्षक प्रशिक्षण भूमिका हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "ग्रामीण शिक्षण विकास स्पष्ट करा",
+      "answer": "ग्रामीण शिक्षण विकास हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "बालिका साक्षरता परिणाम स्पष्ट करा",
+      "answer": "बालिका साक्षरता परिणाम हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "डिजिटल शिक्षण साधने स्पष्ट करा",
+      "answer": "डिजिटल शिक्षण साधने हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "विद्यार्थी कल्याण योजना स्पष्ट करा",
+      "answer": "विद्यार्थी कल्याण योजना हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "कौशल्य आधारित शिक्षण स्पष्ट करा",
+      "answer": "कौशल्य आधारित शिक्षण हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "विशेष गरजांचा समावेश स्पष्ट करा",
+      "answer": "विशेष गरजांचा समावेश हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "समान संधींची गरज स्पष्ट करा",
+      "answer": "समान संधींची गरज हा भारतातील शिक्षण क्षेत्रासाठी परिवर्तनाचा निर्णायक भाग आहे.\nशिक्षण सुलभ व समतोल करण्यासाठी विविध योजना व कार्यक्रम राबवले जातात.\nविद्यार्थ्यांच्या ज्ञान, कौशल्य व मूल्यविकासासाठी सक्षम वातावरण पुरवले जाते.\nयामुळे सामाजिक न्याय, विकास आणि राष्ट्रीय प्रगतीला चालना मिळते."
+    }
+  ]
+}

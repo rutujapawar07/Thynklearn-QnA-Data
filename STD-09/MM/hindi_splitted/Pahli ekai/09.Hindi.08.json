@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.08",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "वीरभूमि पर कुछ दिन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'वीरभूमि पर कुछ दिन' पाठ की लेखिका कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "महादेवी वर्मा", "is_correct": false },
+        { "option_id": 2, "text": "रुक्मणी संगल", "is_correct": true },
+        { "option_id": 3, "text": "सुभद्रा कुमारी चौहान", "is_correct": false },
+        { "option_id": 4, "text": "मन्नू भंडारी", "is_correct": false }
+      ],
+      "answer": "रुक्मणी संगल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लेखिका की यात्रा का पहला पड़ाव (गंतव्य स्टेशन) कौन सा शहर था?",
+      "options": [
+        { "option_id": 1, "text": "जयपुर", "is_correct": false },
+        { "option_id": 2, "text": "उदयपुर", "is_correct": false },
+        { "option_id": 3, "text": "जोधपुर", "is_correct": true },
+        { "option_id": 4, "text": "बीकानेर", "is_correct": false }
+      ],
+      "answer": "जोधपुर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'उम्मेद भवन' को और किस नाम से जाना जाता है?",
+      "options": [
+        { "option_id": 1, "text": "हवा महल", "is_correct": false },
+        { "option_id": 2, "text": "छीतर भवन", "is_correct": true },
+        { "option_id": 3, "text": "जल महल", "is_correct": false },
+        { "option_id": 4, "text": "शीश महल", "is_correct": false }
+      ],
+      "answer": "छीतर भवन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मंडोर गार्डन किसकी पुरानी राजधानी के समीप बनाया गया था?",
+      "options": [
+        { "option_id": 1, "text": "मेवाड़", "is_correct": false },
+        { "option_id": 2, "text": "मारवाड़ (मांडव्यपुर)", "is_correct": true },
+        { "option_id": 3, "text": "ढूँढाड़", "is_correct": false },
+        { "option_id": 4, "text": "हाड़ौती", "is_correct": false }
+      ],
+      "answer": "मारवाड़ (मांडव्यपुर)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मेहरान गढ़ किले का निर्माण किसने करवाया था?",
+      "options": [
+        { "option_id": 1, "text": "महाराजा उम्मेद सिंह", "is_correct": false },
+        { "option_id": 2, "text": "महाराजा जसवंत सिंह", "is_correct": false },
+        { "option_id": 3, "text": "जोधा जी राव", "is_correct": true },
+        { "option_id": 4, "text": "राणा कुंभा", "is_correct": false }
+      ],
+      "answer": "जोधा जी राव"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "जैसलमेर में पटवा की हवेलियों का निर्माण किस सदी में हुआ था?",
+      "options": [
+        { "option_id": 1, "text": "१६ वीं सदी", "is_correct": false },
+        { "option_id": 2, "text": "१७ वीं सदी", "is_correct": false },
+        { "option_id": 3, "text": "१८ वीं सदी", "is_correct": true },
+        { "option_id": 4, "text": "१९ वीं सदी", "is_correct": false }
+      ],
+      "answer": "१८ वीं सदी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'रेगिस्तान का जहाज' किसे कहा जाता है?",
+      "options": [
+        { "option_id": 1, "text": "हाथी", "is_correct": false },
+        { "option_id": 2, "text": "घोड़ा", "is_correct": false },
+        { "option_id": 3, "text": "ऊँट", "is_correct": true },
+        { "option_id": 4, "text": "जीप", "is_correct": false }
+      ],
+      "answer": "ऊँट"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'सम' ग्राम जैसलमेर से कितनी दूर स्थित है?",
+      "options": [
+        { "option_id": 1, "text": "५-६ कि.मी.", "is_correct": false },
+        { "option_id": 2, "text": "११-१२ कि.मी.", "is_correct": true },
+        { "option_id": 3, "text": "२०-२५ कि.मी.", "is_correct": false },
+        { "option_id": 4, "text": "५० कि.मी.", "is_correct": false }
+      ],
+      "answer": "११-१२ कि.मी."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "महाराणा प्रताप के घोड़े का नाम क्या था?",
+      "options": [
+        { "option_id": 1, "text": "बादल", "is_correct": false },
+        { "option_id": 2, "text": "चेतक", "is_correct": true },
+        { "option_id": 3, "text": "पवन", "is_correct": false },
+        { "option_id": 4, "text": "वीर", "is_correct": false }
+      ],
+      "answer": "चेतक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अपनी सारी पूँजी महाराणा प्रताप के चरणों में किसने रख दी थी?",
+      "options": [
+        { "option_id": 1, "text": "मानसिंह", "is_correct": false },
+        { "option_id": 2, "text": "भामाशाह", "is_correct": true },
+        { "option_id": 3, "text": "शक्ति सिंह", "is_correct": false },
+        { "option_id": 4, "text": "टोडरमल", "is_correct": false }
+      ],
+      "answer": "भामाशाह"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चित्तौड़गढ़ के किले का मुख्य प्रवेश द्वार कौन सा है?",
+      "options": [
+        { "option_id": 1, "text": "रामपोल", "is_correct": true },
+        { "option_id": 2, "text": "लक्ष्मणपोल", "is_correct": false },
+        { "option_id": 3, "text": "सूरजपोल", "is_correct": false },
+        { "option_id": 4, "text": "चाँदपोल", "is_correct": false }
+      ],
+      "answer": "रामपोल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'जौहर कुंड' किस वीरांगना के जौहर की कहानी बताता है?",
+      "options": [
+        { "option_id": 1, "text": "रानी लक्ष्मीबाई", "is_correct": false },
+        { "option_id": 2, "text": "रानी कर्णावती", "is_correct": false },
+        { "option_id": 3, "text": "रानी पद्मिनी", "is_correct": true },
+        { "option_id": 4, "text": "रानी जोधाबाई", "is_correct": false }
+      ],
+      "answer": "रानी पद्मिनी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'विजय स्तंभ' का निर्माण किसने करवाया था?",
+      "options": [
+        { "option_id": 1, "text": "महाराणा प्रताप", "is_correct": false },
+        { "option_id": 2, "text": "महाराणा कुंभा", "is_correct": true },
+        { "option_id": 3, "text": "महाराणा सांगा", "is_correct": false },
+        { "option_id": 4, "text": "रावल रतन सिंह", "is_correct": false }
+      ],
+      "answer": "महाराणा कुंभा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'लौहपथगामिनी' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "सड़क", "is_correct": false },
+        { "option_id": 2, "text": "रेलगाड़ी", "is_correct": true },
+        { "option_id": 3, "text": "विमान", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "रेलगाड़ी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'अस्ताचलगामी' का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "उदय होने वाला", "is_correct": false },
+        { "option_id": 2, "text": "डूबने (अस्त होने) वाला", "is_correct": true },
+        { "option_id": 3, "text": "चलने वाला", "is_correct": false },
+        { "option_id": 4, "text": "तेज चलने वाला", "is_correct": false }
+      ],
+      "answer": "डूबने (अस्त होने) वाला"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "उम्मेद भवन को 'छीतर भवन' क्यों कहते हैं?",
+      "answer": "उम्मेद भवन छीतर झील के पास स्थित होने के कारण इसे 'छीतर भवन' भी कहते हैं।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "मंडोर गार्डन की क्या विशेषता है?",
+      "answer": "मंडोर गार्डन में चट्टानों को काट-काटकर निर्मित सीढ़ीनुमा उद्यान दर्शनीय है और यहाँ भगवान कृष्ण का मंदिर और वीरों व देवताओं की विशाल मूर्तियाँ हैं।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "जसवंत थड़ा क्या है और यह किसकी स्मृति में बनाया गया है?",
+      "answer": "जसवंत थड़ा एक विख्यात स्मारक है जो १९०३ में महाराजा जसवंत सिंह की स्मृति में बनाया गया था।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "पटवा की हवेलियों का निर्माण किसने और किसके लिए करवाया था?",
+      "answer": "शहर के प्रसिद्ध व्यापारी सेठ पटवा ने अपने पाँच पुत्रों के लिए १८ वीं सदी में इन हवेलियों का निर्माण करवाया था।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "जैसलमेर के 'सम' ग्राम में पर्यटकों के लिए क्या आकर्षण है?",
+      "answer": "'सम' ग्राम में रेत के मखमली गद्दे (टीले), ऊँट की सवारी, सूर्यास्त का दृश्य और राजस्थानी लोक संस्कृति के कार्यक्रम पर्यटकों के लिए मुख्य आकर्षण हैं।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "चित्तौड़गढ़ का नाम आते ही किसका चित्र मानसपटल पर सजीव हो उठता है?",
+      "answer": "चित्तौड़गढ़ का नाम आते ही वीर, साहसी और स्वाभिमानी देशभक्त महाराणा प्रताप और उनके घोड़े चेतक का चित्र सजीव हो उठता है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "चित्तौड़गढ़ के किले के बारे में क्या कहावत प्रसिद्ध है?",
+      "answer": "चित्तौड़गढ़ के किले के बारे में कहा जाता है कि 'गढ़ों में गढ़ चित्तौड़गढ़ बाकी सब गदैया'।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "विजय स्तंभ क्यों बनवाया गया था?",
+      "answer": "महाराणा कुंभा द्वारा मालवा और गुजरात के सुल्तानों के संयुक्त आक्रमण पर प्राप्त साहसिक विजय के प्रतीक रूप में विजय स्तंभ बनवाया गया था।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "लेखिका ने राजस्थान की भूमि को क्या कहकर नमन किया है?",
+      "answer": "लेखिका ने इसे वीरभूमि, त्याग और बलिदान की भूमि, कला और संस्कृति की धनी कहकर नमन किया है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'जौहर' शब्द का अर्थ बताइए।",
+      "answer": "'जौहर' का अर्थ है शत्रु से अपनी मान-मर्यादा बचाने के लिए वीरांगनाओं द्वारा किया जाने वाला सामूहिक आत्मदहन।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "जोधपुर के मेहरान गढ़ किले का वर्णन अपने शब्दों में कीजिए।",
+      "answer": "मेहरान गढ़ किला शहर के मध्य में ४०० फीट ऊँची पहाड़ी पर स्थित है। यह २० से १२० फीट ऊँची दीवार के परकोटे से घिरा है। इसका निर्माण १४५९ में जोधा जी राव ने करवाया था। इसमें भव्य प्रवेश द्वार जयपोल, लोहपोल और फतहपोल हैं। किले के अंदर मोतीमहल, फूलमहल, शीशमहल जैसे कई विशाल भवन हैं। यहाँ से शहर का दृश्य बहुत ही मनभावन दिखाई देता है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "जैसलमेर की पटवा हवेलियों की स्थापत्य कला (वास्तुशिल्प) की विशेषताएँ लिखिए।",
+      "answer": "पटवा की हवेलियाँ कलात्मक वास्तुशिल्प का अद्भुत नमूना हैं। इनका निर्माण सेठ पटवा ने अपने पाँच पुत्रों के लिए करवाया था। एक हवेली को बनने में १२ वर्ष लगे। इनकी छतें खूबसूरत पत्थर के खंभों पर खड़ी हैं। हवेलियों में पत्थर की जाली का काम, पारदर्शक झरोखे, और सोने की कलम से की गई चित्रकारी, सीपी तथा काँच का कार्य अत्यंत उत्कृष्ट है जो पर्यटकों को आश्चर्यचकित कर देता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'सम' ग्राम में सूर्यास्त और सांस्कृतिक संध्या का अनुभव कैसा रहा?",
+      "answer": "लेखिका के लिए 'सम' ग्राम में ऊँट की सवारी और सूर्यास्त देखना एक रोमांचकारी अनुभव था। रेत के मखमली टीलों पर ऊँटों की कतारें और रंग-बिरंगी पोशाकों में पर्यटक बहुत सुंदर लग रहे थे। डूबता हुआ सूर्य ताम्रवर्णी होकर क्षितिज में लीन हो गया। रात में खुले आकाश के नीचे, आग के चारों ओर बैठकर राजस्थानी लोकनृत्य और संगीत का आनंद लेना तथा राजस्थानी व्यंजनों का स्वाद लेना दर्शकों को भाव-विभोर कर देने वाला था।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "चित्तौड़गढ़ को वीरभूमि क्यों कहा जाता है? विस्तार से समझाइए।",
+      "answer": "चित्तौड़गढ़ का कण-कण वीरता, त्याग और भक्तिभाव से भरा है। यहाँ महाराणा प्रताप जैसे वीर हुए जिन्होंने मातृभूमि की रक्षा के लिए महलों का सुख त्यागकर जंगल में रहना स्वीकार किया, लेकिन हार नहीं मानी। भामाशाह जैसे दानी ने अपनी सारी संपत्ति देश के लिए दान कर दी। रानी पद्मिनी जैसी वीरांगनाओं ने अपने सतीत्व की रक्षा के लिए जौहर किया। यहाँ विजय स्तंभ और कीर्ति स्तंभ जैसे विजय के प्रतीक खड़े हैं। इसलिए इसे वीरभूमि कहा जाता है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "इस यात्रा वृत्तांत के आधार पर राजस्थान की संस्कृति और इतिहास पर प्रकाश डालिए।",
+      "answer": "यह यात्रा वृत्तांत राजस्थान की समृद्ध संस्कृति और गौरवशाली इतिहास को दर्शाता है। यहाँ की स्थापत्य कला (किले, हवेलियाँ, मंदिर) बेजोड़ है। यहाँ के लोग वीर, साहसी और अतिथि सत्कार करने वाले हैं। लोकगीत, नृत्य और खानपान यहाँ की जीवंत संस्कृति का हिस्सा हैं। इतिहास में यह भूमि शौर्य, बलिदान और स्वाभिमान के लिए जानी जाती है, जहाँ राजाओं ने मातृभूमि की रक्षा के लिए अपना सर्वस्व न्योछावर कर दिया।"
+    }
+  ]
+}

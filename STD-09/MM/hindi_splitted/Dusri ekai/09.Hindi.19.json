@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.19",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "उड़ान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'उड़ान' कविता (गजल) के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "दुष्यंत कुमार", "is_correct": false },
+        { "option_id": 2, "text": "चंद्रसेन विराट", "is_correct": true },
+        { "option_id": 3, "text": "अटल बिहारी वाजपेयी", "is_correct": false },
+        { "option_id": 4, "text": "गुलजार", "is_correct": false }
+      ],
+      "answer": "चंद्रसेन विराट"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार अँधेरे के इलाके में क्या नहीं माँगा करते?",
+      "options": [
+        { "option_id": 1, "text": "मदद", "is_correct": false },
+        { "option_id": 2, "text": "दीपक", "is_correct": false },
+        { "option_id": 3, "text": "किरण", "is_correct": true },
+        { "option_id": 4, "text": "रास्ता", "is_correct": false }
+      ],
+      "answer": "किरण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जहाँ कंटकों (काँटों) का वन हो, वहाँ क्या माँगना व्यर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "फल", "is_correct": false },
+        { "option_id": 2, "text": "सुमन (फूल)", "is_correct": true },
+        { "option_id": 3, "text": "छाया", "is_correct": false },
+        { "option_id": 4, "text": "पानी", "is_correct": false }
+      ],
+      "answer": "सुमन (फूल)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "परों (पंखों) में शक्ति होने पर क्या नाप लेना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "समुद्र", "is_correct": false },
+        { "option_id": 2, "text": "उपलब्ध नभ (आकाश) सारा", "is_correct": true },
+        { "option_id": 3, "text": "धरती", "is_correct": false },
+        { "option_id": 4, "text": "पहाड़", "is_correct": false }
+      ],
+      "answer": "उपलब्ध नभ (आकाश) सारा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "उड़ानों के लिए पंछी क्या नहीं माँगा करते?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "गगन (आसमान)", "is_correct": true },
+        { "option_id": 3, "text": "भोजन", "is_correct": false },
+        { "option_id": 4, "text": "साथी", "is_correct": false }
+      ],
+      "answer": "गगन (आसमान)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "किसकी उड़ान ऊँची होती है, उसे क्या होता है?",
+      "options": [
+        { "option_id": 1, "text": "भारी थकान", "is_correct": true },
+        { "option_id": 2, "text": "बड़ा इनाम", "is_correct": false },
+        { "option_id": 3, "text": "बहुत अभिमान", "is_correct": false },
+        { "option_id": 4, "text": "डर", "is_correct": false }
+      ],
+      "answer": "भारी थकान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "जो कम बोलता है और ज्यादा देखता है, उसकी जुबान (भाषा) क्या होती है?",
+      "options": [
+        { "option_id": 1, "text": "हाथ", "is_correct": false },
+        { "option_id": 2, "text": "कान", "is_correct": false },
+        { "option_id": 3, "text": "आँख", "is_correct": true },
+        { "option_id": 4, "text": "दिल", "is_correct": false }
+      ],
+      "answer": "आँख"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "धूप में हमारे लिए 'सायबान' (छाया) क्या होती है?",
+      "options": [
+        { "option_id": 1, "text": "छतरी", "is_correct": false },
+        { "option_id": 2, "text": "पेड़", "is_correct": false },
+        { "option_id": 3, "text": "टोपी", "is_correct": false },
+        { "option_id": 4, "text": "अपनी हथेली", "is_correct": true }
+      ],
+      "answer": "अपनी हथेली"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवि ने जिंदगी को किसका 'बयान' कहा है?",
+      "options": [
+        { "option_id": 1, "text": "एक ज्ञानी का", "is_correct": false },
+        { "option_id": 2, "text": "एक बहरे को एक गूँगा दे", "is_correct": true },
+        { "option_id": 3, "text": "एक राजा का", "is_correct": false },
+        { "option_id": 4, "text": "एक फकीर का", "is_correct": false }
+      ],
+      "answer": "एक बहरे को एक गूँगा दे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "तीर दूर तक कब जाता है?",
+      "options": [
+        { "option_id": 1, "text": "जब हवा तेज हो", "is_correct": false },
+        { "option_id": 2, "text": "जब कमान (धनुष) कान तक खींची जाए", "is_correct": true },
+        { "option_id": 3, "text": "जब तीर भारी हो", "is_correct": false },
+        { "option_id": 4, "text": "जब लक्ष्य पास हो", "is_correct": false }
+      ],
+      "answer": "जब कमान (धनुष) कान तक खींची जाए"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "एक शायर की जिंदगी किसके समान होती है जो खुशबू देती है?",
+      "options": [
+        { "option_id": 1, "text": "फूलदान", "is_correct": false },
+        { "option_id": 2, "text": "धूपदान", "is_correct": true },
+        { "option_id": 3, "text": "इत्र की शीशी", "is_correct": false },
+        { "option_id": 4, "text": "बगीचा", "is_correct": false }
+      ],
+      "answer": "धूपदान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'अगन' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "आँगन", "is_correct": false },
+        { "option_id": 2, "text": "आग", "is_correct": true },
+        { "option_id": 3, "text": "अनगिनत", "is_correct": false },
+        { "option_id": 4, "text": "आकाश", "is_correct": false }
+      ],
+      "answer": "आग"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सुलगते आप, बाहर से क्या नहीं माँगना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "पानी", "is_correct": false },
+        { "option_id": 2, "text": "हवा", "is_correct": false },
+        { "option_id": 3, "text": "अगन (आग)", "is_correct": true },
+        { "option_id": 4, "text": "मदद", "is_correct": false }
+      ],
+      "answer": "अगन (आग)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जिसे आदर का अधिकार हो, वह स्वयं क्या झुका लेता है?",
+      "options": [
+        { "option_id": 1, "text": "नजरें", "is_correct": false },
+        { "option_id": 2, "text": "मस्तक", "is_correct": true },
+        { "option_id": 3, "text": "कमर", "is_correct": false },
+        { "option_id": 4, "text": "घुटने", "is_correct": false }
+      ],
+      "answer": "मस्तक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चंद्रसेन विराट जी का जन्म कहाँ हुआ था?",
+      "options": [
+        { "option_id": 1, "text": "भोपाल", "is_correct": false },
+        { "option_id": 2, "text": "इंदौर (म.प्र.)", "is_correct": true },
+        { "option_id": 3, "text": "ग्वालियर", "is_correct": false },
+        { "option_id": 4, "text": "जबलपुर", "is_correct": false }
+      ],
+      "answer": "इंदौर (म.प्र.)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "नमन (सम्मान) किन्हें स्वयमेव मिलते हैं?",
+      "answer": "जो स्वयं विनम्र होकर अपना मस्तक झुका लेते हैं और जो आदर के अधिकारी होते हैं, उन्हें नमन माँगने नहीं पड़ते, स्वयमेव मिलते हैं।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "सपने (सपन) नयन कब नहीं माँगा करते?",
+      "answer": "जिसे हम मन-प्राण से चाहते हैं, उसके सपने निमंत्रण के बिना ही खुद-ब-खुद आ जाते हैं; आँखों को उन्हें माँगना नहीं पड़ता।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "'पश्चात्ताप में जलना' से कवि का क्या तात्पर्य है?",
+      "answer": "कवि का तात्पर्य है कि जिन्होंने अपनी गलती स्वीकार कर ली है, वे पश्चात्ताप की आग में स्वयं जलते हैं, उन्हें बाहर से आग माँगने की आवश्यकता नहीं होती।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "स्वाभिमान के बारे में कवि पंछी का उदाहरण देकर क्या कहते हैं?",
+      "answer": "कवि कहते हैं कि जैसे पंछी उड़ने के लिए किसी से आसमान नहीं माँगते, वे अपनी शक्ति से उड़ते हैं; वैसे ही स्वाभिमानी व्यक्ति अपनी क्षमता से सफलता प्राप्त करता है, किसी की कृपा नहीं माँगता।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "'आँख उसकी जुबान होती है' का अर्थ स्पष्ट कीजिए।",
+      "answer": "जो व्यक्ति कम बोलता है और अवलोकन (देखना) ज्यादा करता है, उसकी आँखें ही उसके भावों और विचारों को व्यक्त कर देती हैं, उसे बोलने की जरूरत नहीं पड़ती।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "'बस हथेली ही हमारी हमको, धूप में सायबान होती है' - इससे क्या संदेश मिलता है?",
+      "answer": "इससे स्वावलंबन (आत्मनिर्भरता) का संदेश मिलता है। संकट या मुश्किल (धूप) के समय हमें अपनी ही शक्ति (हथेली) का सहारा लेना चाहिए, दूसरों पर निर्भर नहीं रहना चाहिए।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "गजल (Ghazal) किसे कहते हैं?",
+      "answer": "गजल एक ही बहर और वजन के अनुसार लिखे गए शेरों का समूह है। इसके पहले शेर को मतला और अंतिम शेर को मकता कहते हैं।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'सायबान' और 'कमान' शब्दों के अर्थ लिखिए।",
+      "answer": "'सायबान' का अर्थ है 'छाया देने वाला (छप्पर/तिरपाल)' और 'कमान' का अर्थ है 'धनुष'।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "चंद्रसेन विराट जी की प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "मेहंदी रची हथेलियाँ, स्वर के सोपान, मिट्टी मेरे देश की, धार के विपरीत आदि।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'अँधेरे के इलाके में किरण माँगा नहीं करते' - इस पंक्ति का भाव बताइए।",
+      "answer": "इसका भाव यह है कि जहाँ निराशा या अज्ञान का अंधकार हो, वहाँ दूसरों से उम्मीद की किरण माँगने के बजाय स्वयं प्रकाश (समाधान) बनने का प्रयास करना चाहिए।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "'उड़ान' गजल के माध्यम से कवि क्या संदेश देना चाहते हैं?",
+      "answer": "कवि चंद्रसेन विराट इस गजल के माध्यम से स्वाभिमान, विनम्रता, आत्मनिर्भरता और हौसले का संदेश देना चाहते हैं। वे कहते हैं कि व्यक्ति को विपरीत परिस्थितियों में भी किसी के सामने हाथ नहीं फैलाने चाहिए। सफलता के लिए कड़ी मेहनत और ऊँची सोच (उड़ान) जरूरी है। हमें अपनी गलतियों को स्वीकारना चाहिए और कम बोलकर काम पर ध्यान देना चाहिए। शायर का जीवन दूसरों को खुशबू (प्रेरणा) देने के लिए होता है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "'जिसकी ऊँची उड़ान होती है, उसको भारी थकान होती है' - इस पंक्ति का आशय स्पष्ट कीजिए।",
+      "answer": "इस पंक्ति का आशय यह है कि बड़ी सफलता प्राप्त करना आसान नहीं होता। जो व्यक्ति ऊँचे लक्ष्य (ऊँची उड़ान) रखता है, उसे उसे पाने के लिए उतना ही अधिक परिश्रम और संघर्ष करना पड़ता है। इस प्रक्रिया में शारीरिक और मानसिक थकान होना स्वाभाविक है। बड़ी उपलब्धियों के पीछे बड़ा त्याग और मेहनत छिपी होती है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'तीर जाता है दूर तक उसका, कान तक जो कमान होती है' - इस उदाहरण द्वारा कवि क्या समझाना चाहते हैं?",
+      "answer": "कवि समझाना चाहते हैं कि सफलता उसी को मिलती है जो पूरे मनोयोग और एकाग्रता के साथ प्रयास करता है। जैसे तीर को दूर तक भेजने के लिए धनुष की डोरी को कान तक पूरी ताकत से खींचना पड़ता है, वैसे ही जीवन में बड़े लक्ष्य को भेदने के लिए व्यक्ति को अपनी पूरी क्षमता और दृढ़ निश्चय के साथ कार्य करना चाहिए। अधूरा प्रयास पूर्ण सफलता नहीं दे सकता।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "कवि ने शायर की जिंदगी को 'धूपदान' क्यों कहा है?",
+      "answer": "धूपदान वह पात्र है जिसमें धूप (सुगंधित पदार्थ) जलाई जाती है। वह स्वयं जलता है लेकिन वातावरण को सुगंधित करता है। उसी प्रकार, एक शायर या कवि भी अपने जीवन के संघर्षों, पीड़ाओं और अनुभवों में जलकर साहित्य रचना करता है। उसकी रचनाएँ समाज को नई दिशा, प्रेरणा और खुशी (खुशबू) देती हैं। वह स्वयं कष्ट सहकर दूसरों का कल्याण करता है, इसलिए उसकी जिंदगी धूपदान जैसी है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "'एक बहरे को एक गूँगा दे, जिंदगी वो बयान होती है' - इस पंक्ति में निहित विरोधाभास और अर्थ को स्पष्ट कीजिए।",
+      "answer": "यह पंक्ति जीवन की जटिलता और विडंबना को दर्शाती है। गूँगा बोल नहीं सकता और बहरा सुन नहीं सकता। यदि कोई गूँगा किसी बहरे को कुछ समझाना चाहे, तो यह लगभग असंभव संवाद है। कवि कहना चाहते हैं कि जिंदगी भी ऐसी ही एक पहेली या 'बयान' है जिसे समझना और समझाना बहुत कठिन है। यह अकथनीय है और इसके रहस्य को आसानी से नहीं सुलझाया जा सकता। यह विरोधाभास जीवन के अद्भुत और विचित्र रूप को प्रस्तुत करता है।"
+    }
+  ]
+}

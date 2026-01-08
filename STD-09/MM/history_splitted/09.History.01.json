@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.History.01",
+    "standard": "9",
+    "subject": "History",
+    "medium": "Marathi",
+    "chapter_name": "इतिहासाची साधने"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुद्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिलालेख",
+          "is_correct": true
+        }
+      ],
+      "answer": "शिलालेख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुद्रा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुद्रा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "श्रुतिपरंपरा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दस्तऐवज",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शिलालेख",
+          "is_correct": false
+        }
+      ],
+      "answer": "दस्तऐवज"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मुद्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थापत्य अवशेष"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककथा",
+          "is_correct": true
+        }
+      ],
+      "answer": "लोककथा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिलालेख",
+          "is_correct": false
+        }
+      ],
+      "answer": "ताम्रपत्र"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुद्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडी-अवशेष",
+          "is_correct": true
+        }
+      ],
+      "answer": "भांडी-अवशेष"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकगीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकगीत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "हस्तलिखिते"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाणी",
+          "is_correct": true
+        }
+      ],
+      "answer": "नाणी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": true
+        }
+      ],
+      "answer": "पारंपरिक म्हणी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिलालेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मुद्रा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिलालेख"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूर्ती",
+          "is_correct": true
+        }
+      ],
+      "answer": "मूर्ती"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": true
+        }
+      ],
+      "answer": "श्रुतिपरंपरा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दस्तऐवज",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दस्तऐवज"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुद्रा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुद्रा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोककथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोककथा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताम्रपत्र",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताम्रपत्र"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिलालेख",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थापत्य अवशेष"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोकगीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकगीत"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हस्तलिखिते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "हस्तलिखिते"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडी-अवशेष",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "भांडी-अवशेष"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "पारंपरिक म्हणी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिलालेख"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाणी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दस्तऐवज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "श्रुतिपरंपरा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दस्तऐवज",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "दस्तऐवज"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मूर्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मुद्रा",
+          "is_correct": false
+        }
+      ],
+      "answer": "मूर्ती"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककथा",
+          "is_correct": true
+        }
+      ],
+      "answer": "लोककथा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ताम्रपत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        }
+      ],
+      "answer": "ताम्रपत्र"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुद्रा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुद्रा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकगीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकगीत"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "हस्तलिखिते"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्थापत्य अवशेष"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मुद्रा",
+          "is_correct": false
+        }
+      ],
+      "answer": "पारंपरिक म्हणी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिलालेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मुद्रा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिलालेख"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुद्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडी-अवशेष",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "भांडी-अवशेष"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुद्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "श्रुतिपरंपरा"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुद्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दस्तऐवज",
+          "is_correct": true
+        }
+      ],
+      "answer": "दस्तऐवज"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाणी",
+          "is_correct": true
+        }
+      ],
+      "answer": "नाणी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोककथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मूर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोककथा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मूर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताम्रपत्र",
+          "is_correct": true
+        }
+      ],
+      "answer": "ताम्रपत्र"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मूर्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मुद्रा",
+          "is_correct": false
+        }
+      ],
+      "answer": "मूर्ती"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकगीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकगीत"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिलालेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हस्तलिखिते",
+          "is_correct": true
+        }
+      ],
+      "answer": "हस्तलिखिते"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुद्रा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ताम्रपत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकगीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुद्रा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "मौखिक पुरावा ओळखा (48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोकगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिलालेख",
+          "is_correct": false
+        }
+      ],
+      "answer": "पारंपरिक म्हणी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "लेखी साधन ओळखा (49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हस्तलिखिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पारंपरिक म्हणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिलालेख",
+          "is_correct": true
+        }
+      ],
+      "answer": "शिलालेख"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पुरातत्व साधन ओळखा (50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रुतिपरंपरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोककथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थापत्य अवशेष",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भांडी-अवशेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थापत्य अवशेष"
+    },
+    {
+      "question_id": 51,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 127,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 133,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "ONE_LINE",
+      "question": "शिलालेखांचा उपयोग स्पष्ट करा",
+      "answer": "शिलालेखांचा उपयोग संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "ONE_LINE",
+      "question": "हस्तलिखितांचा अर्थ स्पष्ट करा",
+      "answer": "हस्तलिखितांचा अर्थ संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "ONE_LINE",
+      "question": "ताम्रपत्रातून माहिती स्पष्ट करा",
+      "answer": "ताम्रपत्रातून माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 144,
+      "question_type": "ONE_LINE",
+      "question": "दस्ताऐवज अभ्यास स्पष्ट करा",
+      "answer": "दस्ताऐवज अभ्यास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "ONE_LINE",
+      "question": "नाणी इतिहासात स्पष्ट करा",
+      "answer": "नाणी इतिहासात संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "ONE_LINE",
+      "question": "स्थापत्य अवशेष स्पष्ट करा",
+      "answer": "स्थापत्य अवशेष संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "ONE_LINE",
+      "question": "लोककथा माहिती स्पष्ट करा",
+      "answer": "लोककथा माहिती संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "ONE_LINE",
+      "question": "भूतकाळ पुरावे स्पष्ट करा",
+      "answer": "भूतकाळ पुरावे संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "ONE_LINE",
+      "question": "उत्खनन काम स्पष्ट करा",
+      "answer": "उत्खनन काम संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "ONE_LINE",
+      "question": "साहित्य व इतिहास स्पष्ट करा",
+      "answer": "साहित्य व इतिहास संशोधकांना प्राचीन समाज, सत्ता आणि संस्कृतीची थेट माहिती देतात."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "पुरातत्वशास्त्राचे योगदान स्पष्ट करा",
+      "answer": "पुरातत्वशास्त्राचे योगदान इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "लेखी पुराव्यांचे महत्त्व स्पष्ट करा",
+      "answer": "लेखी पुराव्यांचे महत्त्व इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "मौखिक परंपरेची भूमिका स्पष्ट करा",
+      "answer": "मौखिक परंपरेची भूमिका इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "अवशेषांचे विश्लेषण स्पष्ट करा",
+      "answer": "अवशेषांचे विश्लेषण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "इतिहास स्रोतांचे वर्गीकरण स्पष्ट करा",
+      "answer": "इतिहास स्रोतांचे वर्गीकरण इतिहास लिहिण्यासाठी महत्वाचे आधार देतात.\nपुरावे समाजव्यवस्था आणि संस्कृतीचे अचूक चित्र दाखवतात.\nवेगवेगळ्या श्रेणीतील स्रोतांची तुलना केली की सत्यता वाढते.\nम्हणूनच इतिहास संशोधन हे पुराव्यांवर आधारित असते."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.12",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "कह कविराय"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'कह कविराय' पाठ के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "कबीर", "is_correct": false },
+        { "option_id": 2, "text": "गिरिधर", "is_correct": true },
+        { "option_id": 3, "text": "रहीम", "is_correct": false },
+        { "option_id": 4, "text": "बिहारी", "is_correct": false }
+      ],
+      "answer": "गिरिधर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हजारों लोग (सहस नर) किसके ग्राहक होते हैं?",
+      "options": [
+        { "option_id": 1, "text": "धन के", "is_correct": false },
+        { "option_id": 2, "text": "गुण के", "is_correct": true },
+        { "option_id": 3, "text": "रूप के", "is_correct": false },
+        { "option_id": 4, "text": "बल के", "is_correct": false }
+      ],
+      "answer": "गुण के"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कौआ और कोयल दोनों में क्या समानता है?",
+      "options": [
+        { "option_id": 1, "text": "आवाज", "is_correct": false },
+        { "option_id": 2, "text": "गुण", "is_correct": false },
+        { "option_id": 3, "text": "रंग", "is_correct": true },
+        { "option_id": 4, "text": "आकार", "is_correct": false }
+      ],
+      "answer": "रंग"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "संसार में मित्रता का आधार क्या बताया गया है?",
+      "options": [
+        { "option_id": 1, "text": "प्रेम", "is_correct": false },
+        { "option_id": 2, "text": "विश्वास", "is_correct": false },
+        { "option_id": 3, "text": "गरज (स्वार्थ/मतलब)", "is_correct": true },
+        { "option_id": 4, "text": "त्याग", "is_correct": false }
+      ],
+      "answer": "गरज (स्वार्थ/मतलब)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बिना विचारे काम करने वाले व्यक्ति की जग में क्या होती है?",
+      "options": [
+        { "option_id": 1, "text": "वाह-वाही", "is_correct": false },
+        { "option_id": 2, "text": "हँसाई", "is_correct": true },
+        { "option_id": 3, "text": "पूजा", "is_correct": false },
+        { "option_id": 4, "text": "मदद", "is_correct": false }
+      ],
+      "answer": "हँसाई"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नाव में पानी बढ़ जाने पर क्या करना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "नाव छोड़ देनी चाहिए", "is_correct": false },
+        { "option_id": 2, "text": "दोनों हाथों से उलीचना (बाहर फेंकना) चाहिए", "is_correct": true },
+        { "option_id": 3, "text": "बैठ जाना चाहिए", "is_correct": false },
+        { "option_id": 4, "text": "पानी पीना चाहिए", "is_correct": false }
+      ],
+      "answer": "दोनों हाथों से उलीचना (बाहर फेंकना) चाहिए"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'पाछै पछताय' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "पीछे मुड़ना", "is_correct": false },
+        { "option_id": 2, "text": "बाद में पछताना", "is_correct": true },
+        { "option_id": 3, "text": "रास्ता भूलना", "is_correct": false },
+        { "option_id": 4, "text": "पीछे चलना", "is_correct": false }
+      ],
+      "answer": "बाद में पछताना"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार हमें किसकी सुध लेनी चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "बीती बातों की", "is_correct": false },
+        { "option_id": 2, "text": "आगे की (भविष्य की)", "is_correct": true },
+        { "option_id": 3, "text": "दूसरों की", "is_correct": false },
+        { "option_id": 4, "text": "धन की", "is_correct": false }
+      ],
+      "answer": "आगे की (भविष्य की)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'काग' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "कोयल", "is_correct": false },
+        { "option_id": 2, "text": "कागज", "is_correct": false },
+        { "option_id": 3, "text": "कौआ", "is_correct": true },
+        { "option_id": 4, "text": "काला", "is_correct": false }
+      ],
+      "answer": "कौआ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'बेगरजी' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "बेकार", "is_correct": false },
+        { "option_id": 2, "text": "निस्वार्थ (बिना गरज के)", "is_correct": true },
+        { "option_id": 3, "text": "गरीब", "is_correct": false },
+        { "option_id": 4, "text": "बीमार", "is_correct": false }
+      ],
+      "answer": "निस्वार्थ (बिना गरज के)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ऋण लेते समय लोग कैसे वचन बोलते हैं?",
+      "options": [
+        { "option_id": 1, "text": "कड़वे", "is_correct": false },
+        { "option_id": 2, "text": "सच्चे", "is_correct": false },
+        { "option_id": 3, "text": "मीठे", "is_correct": true },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "मीठे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गिरिधर की रचनाएँ किस छंद में हैं?",
+      "options": [
+        { "option_id": 1, "text": "चौपाई", "is_correct": false },
+        { "option_id": 2, "text": "दोहा", "is_correct": false },
+        { "option_id": 3, "text": "कुंडलियाँ", "is_correct": true },
+        { "option_id": 4, "text": "सोरठा", "is_correct": false }
+      ],
+      "answer": "कुंडलियाँ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'विरला' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "वीर", "is_correct": false },
+        { "option_id": 2, "text": "निराला (कोई एक)", "is_correct": true },
+        { "option_id": 3, "text": "बुरा", "is_correct": false },
+        { "option_id": 4, "text": "बड़ा", "is_correct": false }
+      ],
+      "answer": "निराला (कोई एक)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "परमार्थ (परोपकार) के लिए क्या आगे कर देना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "हाथ", "is_correct": false },
+        { "option_id": 2, "text": "पैर", "is_correct": false },
+        { "option_id": 3, "text": "शीश (सिर)", "is_correct": true },
+        { "option_id": 4, "text": "धन", "is_correct": false }
+      ],
+      "answer": "शीश (सिर)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'राखिए अपनो पानी' में 'पानी' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "जल", "is_correct": false },
+        { "option_id": 2, "text": "इज्जत/प्रतिष्ठा", "is_correct": true },
+        { "option_id": 3, "text": "चमक", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "इज्जत/प्रतिष्ठा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कोयल सबको सुहावनी क्यों लगती है?",
+      "answer": "कोयल अपनी मधुर वाणी और मीठे बोलों के कारण सबको सुहावनी लगती है, भले ही उसका रंग काला हो।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कौआ और कोयल के उदाहरण से कवि क्या समझाना चाहते हैं?",
+      "answer": "कवि समझाना चाहते हैं कि बाहरी रूप-रंग एक जैसा होने पर भी महत्व 'गुणों' का होता है। गुणी व्यक्ति (कोयल) का सम्मान होता है, जबकि गुणहीन (कौआ) अपावन माना जाता है।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "स्वार्थी मित्र का व्यवहार कैसा होता है?",
+      "answer": "स्वार्थी मित्र तब तक साथ रहता है जब तक पास में पैसा होता है। पैसा खत्म होते ही वह मुख से बोलना भी बंद कर देता है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "बिना विचारे काम करने से मन की स्थिति कैसी होती है?",
+      "answer": "बिना विचारे काम करने से काम बिगड़ जाता है, जग में हँसाई होती है और मन में चैन नहीं मिलता; खान-पान या सम्मान कुछ भी अच्छा नहीं लगता।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "'बीती ताहि बिसारि दे' का संदेश क्या है?",
+      "answer": "इसका संदेश है कि जो बीत गया उसे भूल जाना चाहिए और भविष्य की सुध लेनी चाहिए ताकि जीवन में सफलता और सुख मिल सके।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "घर में दाम (धन) बढ़ने पर 'सयानों' (बुद्धिमानों) का क्या काम है?",
+      "answer": "घर में धन बढ़ने पर बुद्धिमानों का काम है कि वे उसे दोनों हाथों से उलीचें, अर्थात परोपकार और दान-धर्म में लगाएँ।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "ऋण लौटाने के समय उधार लेने वाले का व्यवहार कैसा हो जाता है?",
+      "answer": "ऋण लौटाने के समय वह ऊँच-नीच बातें करता है, मन में रूठा रहता है और माँगने पर मारने दौड़ता है; यहाँ तक कि ऋण के कागज को भी झूठा बता देता है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "गिरिधर कविराय की कुंडलियों की एक मुख्य विशेषता क्या है?",
+      "answer": "कुंडलियों की एक विशेषता यह है कि यह जिस शब्द से शुरू होती है, उसी से इसका समापन भी होता है।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "'ठाकुर मन के' का क्या आशय है?",
+      "answer": "'ठाकुर मन के' का आशय है - हे मन के मालिक (ईश्वर) या मन के स्वामी, ध्यान से सुनो।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "दुर्जन व्यक्ति कब हँसते हैं?",
+      "answer": "जब हम कोई काम बिना विचारे करते हैं और वह बिगड़ जाता है, तब दुर्जन (बुरे लोग) हम पर हँसते हैं।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "गुणों के महत्व को 'कागा-कोकिला' के उदाहरण द्वारा स्पष्ट कीजिए।",
+      "answer": "कवि गिरिधर कहते हैं कि संसार में हजारों लोग गुणों के ग्राहक हैं, बिना गुण के कोई किसी को नहीं पूछता। कौआ और कोयल दोनों का रंग एक जैसा काला होता है, लेकिन कोयल अपनी मीठी वाणी के कारण सबको प्रिय लगती है, जबकि कौआ अपनी कर्कश आवाज के कारण अपावन माना जाता है। इससे सिद्ध होता है कि समाज में सम्मान रूप-रंग से नहीं, बल्कि आंतरिक गुणों और मधुर व्यवहार से मिलता है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कवि ने सच्चे और झूठे मित्र में क्या अंतर बताया है?",
+      "answer": "कवि के अनुसार, झूठा मित्र 'मतलब' का यार होता है। जब तक जेब में पैसा है, वह साथ घूमता है, लेकिन पैसा खत्म होते ही वह बात करना भी छोड़ देता है। इसके विपरीत, सच्चा मित्र वह है जो निस्वार्थ भाव (बेगरजी) से प्रेम करता है। ऐसे मित्र संसार में बहुत कम (विरले) ही मिलते हैं जो बिना किसी स्वार्थ के प्रीति निभाते हैं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'बिना विचारे जो करै...' कुंडली के माध्यम से कवि क्या सीख देना चाहते हैं?",
+      "answer": "इस कुंडली के माध्यम से कवि यह सीख देते हैं कि कोई भी काम शुरू करने से पहले अच्छी तरह सोच-विचार कर लेना चाहिए। जो बिना सोचे काम करता है, उसका काम बिगड़ जाता है और उसे बाद में पछताना पड़ता है। दुनिया में उसकी हँसी उड़ाई जाती है, जिससे उसके मन को शांति नहीं मिलती। उसे खाना-पीना या सम्मान कुछ भी अच्छा नहीं लगता और वह दुख हमेशा उसके दिल में खटकता रहता है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "धन और विनम्रता के संबंध में कवि गिरिधर के क्या विचार हैं? 'पानी बाढ़ो नाव में...' के संदर्भ में लिखिए।",
+      "answer": "कवि कहते हैं कि यदि नाव में पानी बढ़ जाए, तो उसे दोनों हाथों से बाहर फेंकना ही बुद्धिमानी है, नहीं तो नाव डूब जाएगी। उसी प्रकार, यदि घर में धन-संपत्ति बढ़ जाए, तो उसे दोनों हाथों से दान करना और परोपकार में लगाना ही 'सयानों' (समझदार) का काम है। धन पाकर घमंड नहीं करना चाहिए बल्कि भगवान का स्मरण करना चाहिए, परोपकार के लिए तैयार रहना चाहिए और समाज में अपनी प्रतिष्ठा (पानी) बनाए रखनी चाहिए।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "ऋण लेने और देने वाले के व्यवहार में आए परिवर्तन को कवि ने किस प्रकार चित्रित किया है?",
+      "answer": "कवि बताते हैं कि उधार लेते समय व्यक्ति बहुत मीठे वचन बोलता है और पैसा मिल जाने पर उसे परम सुख होता है। लेकिन जब लौटाने का समय आता है, तो उसकी नीयत बदल जाती है। वह पैसा देना नहीं चाहता और तरह-तरह के बहाने (ऊँच-नीच) बनाता है। वह उधार देने वाले को ही बुरा-भला कहता है, मारने दौड़ता है और बहुत दिन बीत जाने पर कहता है कि तुम्हारा लिखा-पढ़ी का कागज ही झूठा है।"
+    }
+  ]
+}

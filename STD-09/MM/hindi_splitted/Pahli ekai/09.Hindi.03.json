@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.03",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "कबीर (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'कबीर' पाठ के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमचंद", "is_correct": false },
+        { "option_id": 2, "text": "हजारी प्रसाद द्विवेदी", "is_correct": true },
+        { "option_id": 3, "text": "रामचंद्र शुक्ल", "is_correct": false },
+        { "option_id": 4, "text": "महादेवी वर्मा", "is_correct": false }
+      ],
+      "answer": "हजारी प्रसाद द्विवेदी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हिंदी साहित्य के इतिहास में कबीर जैसा व्यक्तित्व लेकर कोई लेखक उत्पन्न नहीं हुआ, महिमा में इनका प्रतिद्वंद्वी कौन है?",
+      "options": [
+        { "option_id": 1, "text": "सूरदास", "is_correct": false },
+        { "option_id": 2, "text": "मीराबाई", "is_correct": false },
+        { "option_id": 3, "text": "तुलसीदास", "is_correct": true },
+        { "option_id": 4, "text": "रहीम", "is_correct": false }
+      ],
+      "answer": "तुलसीदास"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कबीर का स्वभाव कैसा था?",
+      "options": [
+        { "option_id": 1, "text": "डरपोक", "is_correct": false },
+        { "option_id": 2, "text": "मस्ती और फक्कड़ाना", "is_correct": true },
+        { "option_id": 3, "text": "संकोची", "is_correct": false },
+        { "option_id": 4, "text": "लालची", "is_correct": false }
+      ],
+      "answer": "मस्ती और फक्कड़ाना"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कबीरदास की वाणी वह लता है जो योग के क्षेत्र में ____ का बीज पड़ने से अंकुरित हुई थी।",
+      "options": [
+        { "option_id": 1, "text": "ज्ञान", "is_correct": false },
+        { "option_id": 2, "text": "कर्म", "is_correct": false },
+        { "option_id": 3, "text": "भक्ति", "is_correct": true },
+        { "option_id": 4, "text": "तपस्या", "is_correct": false }
+      ],
+      "answer": "भक्ति"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कबीर ने अपना घर जलाकर हाथ में क्या ले लिया था?",
+      "options": [
+        { "option_id": 1, "text": "किताब", "is_correct": false },
+        { "option_id": 2, "text": "तलवार", "is_correct": false },
+        { "option_id": 3, "text": "मुराड़ा (जलती हुई लकड़ी)", "is_correct": true },
+        { "option_id": 4, "text": "दीपक", "is_correct": false }
+      ],
+      "answer": "मुराड़ा (जलती हुई लकड़ी)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कबीर के मतानुसार प्रेम कहाँ नहीं उपजता?",
+      "options": [
+        { "option_id": 1, "text": "खेत में", "is_correct": true },
+        { "option_id": 2, "text": "मन में", "is_correct": false },
+        { "option_id": 3, "text": "मंदिर में", "is_correct": false },
+        { "option_id": 4, "text": "घर में", "is_correct": false }
+      ],
+      "answer": "खेत में"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "प्रेम प्राप्त करने के लिए क्या शर्त है?",
+      "options": [
+        { "option_id": 1, "text": "धन देना", "is_correct": false },
+        { "option_id": 2, "text": "सिर उतारकर धरती पर रखना (अहंकार त्याग)", "is_correct": true },
+        { "option_id": 3, "text": "पूजा करना", "is_correct": false },
+        { "option_id": 4, "text": "यात्रा करना", "is_correct": false }
+      ],
+      "answer": "सिर उतारकर धरती पर रखना (अहंकार त्याग)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'मुराड़ा' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "मरा हुआ", "is_correct": false },
+        { "option_id": 2, "text": "जलती हुई लकड़ी", "is_correct": true },
+        { "option_id": 3, "text": "मुड़ना", "is_correct": false },
+        { "option_id": 4, "text": "पत्थर", "is_correct": false }
+      ],
+      "answer": "जलती हुई लकड़ी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कबीर के अनुसार योग बिना किसके व्यर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "आसन के", "is_correct": false },
+        { "option_id": 2, "text": "व्यायाम के", "is_correct": false },
+        { "option_id": 3, "text": "ज्ञान के", "is_correct": true },
+        { "option_id": 4, "text": "भोजन के", "is_correct": false }
+      ],
+      "answer": "ज्ञान के"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कबीर की अक्खड़ता कब पूरे चढ़ाव पर होती थी?",
+      "options": [
+        { "option_id": 1, "text": "जब वे अवधूत या योगी को संबोधन करते थे", "is_correct": true },
+        { "option_id": 2, "text": "जब वे भजन गाते थे", "is_correct": false },
+        { "option_id": 3, "text": "जब वे खाना खाते थे", "is_correct": false },
+        { "option_id": 4, "text": "जब वे सोते थे", "is_correct": false }
+      ],
+      "answer": "जब वे अवधूत या योगी को संबोधन करते थे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लेखक ने कबीर को 'सिर से पैर तक' क्या कहा है?",
+      "options": [
+        { "option_id": 1, "text": "साधु", "is_correct": false },
+        { "option_id": 2, "text": "मस्त-मौला", "is_correct": true },
+        { "option_id": 3, "text": "कवि", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "मस्त-मौला"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'तहकीक' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "जाँच", "is_correct": true },
+        { "option_id": 2, "text": "तारीफ", "is_correct": false },
+        { "option_id": 3, "text": "तकलीफ", "is_correct": false },
+        { "option_id": 4, "text": "तरीका", "is_correct": false }
+      ],
+      "answer": "जाँच"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कबीर किसे अपना साथी बनाने को तैयार थे?",
+      "options": [
+        { "option_id": 1, "text": "जो धनवान हो", "is_correct": false },
+        { "option_id": 2, "text": "जो उनके हाथों अपना भी घर जलवा सके (मोह-माया त्यागे)", "is_correct": true },
+        { "option_id": 3, "text": "जो विद्वान हो", "is_correct": false },
+        { "option_id": 4, "text": "जो डरपोक हो", "is_correct": false }
+      ],
+      "answer": "जो उनके हाथों अपना भी घर जलवा सके (मोह-माया त्यागे)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कबीर के अनुसार, भगवान (हरि) कब मिलते हैं?",
+      "options": [
+        { "option_id": 1, "text": "हिम्मत करने पर आगे आकर", "is_correct": true },
+        { "option_id": 2, "text": "मंदिर जाने पर", "is_correct": false },
+        { "option_id": 3, "text": "किताब पढ़ने पर", "is_correct": false },
+        { "option_id": 4, "text": "पैसे देने पर", "is_correct": false }
+      ],
+      "answer": "हिम्मत करने पर आगे आकर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कबीर का व्यक्तित्व कैसा था?",
+      "options": [
+        { "option_id": 1, "text": "केवल कोमल", "is_correct": false },
+        { "option_id": 2, "text": "केवल कठोर", "is_correct": false },
+        { "option_id": 3, "text": "कुसुमादपि कोमल, वज्रादपि कठोर", "is_correct": true },
+        { "option_id": 4, "text": "सामान्य", "is_correct": false }
+      ],
+      "answer": "कुसुमादपि कोमल, वज्रादपि कठोर"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कबीर और तुलसीदास दोनों भक्त थे, फिर भी उनमें क्या अंतर था?",
+      "answer": "यद्यपि दोनों ही भक्त थे, परंतु दोनों के स्वभाव, संस्कार और दृष्टिकोण में एकदम भिन्नता थी।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कबीर हिंदी साहित्य के अद्वितीय व्यक्ति क्यों बन गए?",
+      "answer": "अपनी मस्ती, फक्कड़ाना स्वभाव और सब कुछ ही झाड़-फटकारकर चल देने वाले तेज के कारण कबीर हिंदी साहित्य के अद्वितीय व्यक्ति बन गए।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "'मस्त-मौला' के क्या लक्षण पाठ में बताए गए हैं?",
+      "answer": "मस्त वह है जो पुराने कृत्यों का हिसाब नहीं रखता, वर्तमान कर्मों को सर्वस्व नहीं समझता और भविष्य में सब-कुछ झाड़-फटकार निकल जाता है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "संसार में भटकते हुए जीवों को देखकर कबीर की क्या प्रतिक्रिया होती थी?",
+      "answer": "वे करुणा के अश्रु से कातर नहीं होते थे बल्कि और भी कठोर होकर उन्हें फटकार बताते थे और सही मार्ग का उपदेश देते थे।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "कबीर के अनुसार 'साधना' क्या थी?",
+      "answer": "कबीर के लिए साधना एक विकट संग्राम स्थली थी, जहाँ कोई विरला शूर ही टिक सकता था।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कबीर ने ज्ञान के बिना योग को व्यर्थ क्यों माना है?",
+      "answer": "क्योंकि केवल शारीरिक व्यायाम और मानसिक शम-दमादि से प्राप्त वस्तु चरम सत्य नहीं हो सकती; बिना ज्ञान के योग केवल जड़ चित्त की कल्पना मात्र है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "कबीर का आत्मविश्वास कैसा था?",
+      "answer": "कबीर का आत्मविश्वास अखंड था। उन्होंने कभी अपने ज्ञान, गुरु और साधना को संदेह की नजरों से नहीं देखा।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "हजारी प्रसाद द्विवेदी जी की प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "अशोक के फूल, कल्पलता (निबंध), बाणभट्ट की आत्मकथा, पुनर्नवा (उपन्यास), कबीर, हिंदी साहित्य की भूमिका आदि।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कबीर किस 'साईं' की साधना करते थे?",
+      "answer": "कबीर जिस साईं की साधना करते थे वह मुफ्त की बातों से नहीं मिलता था, उस राम से सिर देकर ही सौदा किया जा सकता था।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "प्रेम के बारे में कबीर का क्या मत है?",
+      "answer": "प्रेम न तो खेत में उपजता है और न ही बाजार में बिकता है। जो भी इसे चाहता है, उसे अपना सिर (अहंकार) त्यागना पड़ता है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "कबीर के फक्कड़ाना स्वभाव और उनके व्यक्तित्व की विशेषताओं का वर्णन कीजिए।",
+      "answer": "कबीर स्वभाव से फक्कड़ और मस्त-मौला थे। वे बेपरवाह, दृढ़ और उग्र थे। वे 'कुसुमादपि कोमल' और 'वज्रादपि कठोर' थे। वे सत्य के जिज्ञासु थे और किसी भी मोह-ममता से विचलित नहीं होते थे। वे किसी के धोखे में आने वाले नहीं थे और अपना घर (मोह-माया) जलाकर ज्ञान के मार्ग पर निकल पड़े थे। उनकी वाणी में एक सर्वजयी व्यक्तित्व विराजता था।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कबीर की साधना और ईश्वर प्रेम के प्रति उनके दृष्टिकोण को स्पष्ट कीजिए।",
+      "answer": "कबीर के लिए साधना एक कठिन युद्ध के समान थी जहाँ केवल वीर ही टिक सकते थे। उनका ईश्वर प्रेम 'सिर का सौदा' था, अर्थात पूर्ण समर्पण और अहंकार का त्याग। वे मानते थे कि ईश्वर बातों से नहीं मिलते, बल्कि साहस और बलिदान से मिलते हैं। उनका प्रेम ज्ञान से युक्त था और उसमें अंधविश्वास या संकोच का कोई स्थान नहीं था। वे ईश्वर को अपने भीतर ही ढूँढते थे।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'कबीर संत ही नहीं समाज सुधारक भी थे' - इस कथन पर अपने विचार व्यक्त कीजिए।",
+      "answer": "कबीर केवल एक भक्त या संत नहीं थे, बल्कि एक महान समाज सुधारक भी थे। उन्होंने समाज में व्याप्त बाह्य आडंबरों, ऊँच-नीच की भावना और व्यर्थ के कर्मकांडों का कड़ा विरोध किया। उन्होंने हिंदुओं और मुसलमानों दोनों की कुरीतियों पर प्रहार किया। उन्होंने मानवता, समानता और प्रेम का संदेश दिया। वे समाज को भटकने से बचाने के लिए कठोर वचनों का प्रयोग करने से भी नहीं हिचकिचाते थे।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "लेखक ने कबीर की तुलना में उत्तर के हठयोगियों और दक्षिण के भक्तों में क्या अंतर बताया है?",
+      "answer": "लेखक के अनुसार, उत्तर के हठयोगी और दक्षिण के भक्तों में मौलिक अंतर था। हठयोगी 'टूट जाते थे पर झुकते न थे', जबकि भक्त 'झुक जाते थे पर टूटते न थे'। हठयोगियों के लिए समाज की ऊँच-नीच भावना आक्रमण का विषय थी, जबकि भक्तों के लिए वह मर्यादा का विषय थी। कबीर ने इन दोनों के बीच का एक अलग मार्ग अपनाया जो ज्ञान और भक्ति का संगम था।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "कबीर के दोहे 'प्रेम न खेतों नीपजै...' का भावार्थ अपने शब्दों में लिखिए।",
+      "answer": "कबीरदास जी कहते हैं कि प्रेम कोई ऐसी वस्तु नहीं है जो खेतों में पैदा होती है या बाज़ार में बिकती है जिसे कोई भी खरीद ले। प्रेम (ईश्वर प्राप्ति) तो एक ऐसी साधना है जिसे राजा हो या प्रजा, कोई भी प्राप्त कर सकता है, लेकिन उसकी एक ही शर्त है - आत्म-बलिदान। जो व्यक्ति अपना अहंकार और मोह त्यागकर अपना शीश अर्पित करने (पूर्ण समर्पण) को तैयार होता है, वही इस प्रेम को प्राप्त कर सकता है।"
+    }
+  ]
+}

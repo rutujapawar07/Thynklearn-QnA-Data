@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M03",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "एकनाथी अभंग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनयशीलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदाचरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भक्तजन एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भक्ती",
+          "is_correct": true
+        }
+      ],
+      "answer": "भक्ती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नामस्मरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोककल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैराग्य",
+          "is_correct": true
+        }
+      ],
+      "answer": "वैराग्य"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककल्याण",
+          "is_correct": true
+        }
+      ],
+      "answer": "लोककल्याण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नीतिक मार्ग",
+          "is_correct": true
+        }
+      ],
+      "answer": "नीतिक मार्ग"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनयशीलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सदाचरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नामस्मरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समर्पण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वधर्मभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वैराग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भेदभाव नष्ट",
+          "is_correct": true
+        }
+      ],
+      "answer": "भेदभाव नष्ट"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नि:स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संत परंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आध्यात्मिक उन्नती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेरणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "संत परंपरा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्तजन एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नामस्मरण",
+          "is_correct": true
+        }
+      ],
+      "answer": "नामस्मरण"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समर्पण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नामस्मरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नि:स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी मूल्ये"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विनयशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "समता",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनयशीलता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्तजन एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संत परंपरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भक्ती",
+          "is_correct": true
+        }
+      ],
+      "answer": "भक्ती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैराग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आध्यात्मिक उन्नती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैराग्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदाचरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोककल्याण",
+          "is_correct": true
+        }
+      ],
+      "answer": "लोककल्याण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नीतिक मार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीतिक मार्ग"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्तजन एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोककल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांती",
+          "is_correct": true
+        }
+      ],
+      "answer": "शांती"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समर्पण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संत परंपरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भेदभाव नष्ट",
+          "is_correct": true
+        }
+      ],
+      "answer": "भेदभाव नष्ट"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संत परंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "संत परंपरा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नामस्मरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        }
+      ],
+      "answer": "नामस्मरण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नामस्मरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानवी मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विनयशीलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी मूल्ये"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समर्पण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विनयशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनयशीलता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समुदाय जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समता",
+          "is_correct": false
+        }
+      ],
+      "answer": "भक्ती"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नामस्मरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वैराग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेरणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैराग्य"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोककल्याण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विनयशीलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोककल्याण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नामस्मरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नीतिक मार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीतिक मार्ग"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नामस्मरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेरणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांती"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनयशीलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोककल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समुदाय जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भेदभाव नष्ट",
+          "is_correct": true
+        }
+      ],
+      "answer": "भेदभाव नष्ट"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संत परंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समर्पण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आध्यात्मिक उन्नती",
+          "is_correct": false
+        }
+      ],
+      "answer": "संत परंपरा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नामस्मरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नामस्मरण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नि:स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विनयशीलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैराग्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी मूल्ये"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मबोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनयशीलता",
+          "is_correct": true
+        }
+      ],
+      "answer": "विनयशीलता"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वैराग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समता",
+          "is_correct": false
+        }
+      ],
+      "answer": "भक्ती"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वैराग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोककल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैराग्य"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोककल्याण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समुदाय जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भक्तजन एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोककल्याण"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सदाचरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोककल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नीतिक मार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नि:स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीतिक मार्ग"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेरणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाज सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शांती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सदाचरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांती"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मबोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भेदभाव नष्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विनयशीलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "भेदभाव नष्ट"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समुदाय जागृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आध्यात्मिक उन्नती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संत परंपरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नामस्मरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "संत परंपरा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवी मूल्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नामस्मरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सदाचरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनयशीलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "नामस्मरण"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मबोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सर्वधर्मभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानप्रकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "समाज ओळखा (47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनयशीलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी मूल्ये"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "परिणाम ओळखा (48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विनयशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नि:स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनयशीलता"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भक्ती ओळखा (49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मबोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोककल्याण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वैराग्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "भक्ती"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ज्ञान ओळखा (50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेदभाव नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आध्यात्मिक उन्नती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नीतिक मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैराग्य",
+          "is_correct": true
+        }
+      ],
+      "answer": "वैराग्य"
+    },
+    {
+      "question_id": 51,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "ONE_LINE",
+      "question": "भक्तजन एकता स्पष्ट करा",
+      "answer": "भक्तजन एकता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "ONE_LINE",
+      "question": "सदाचरण स्पष्ट करा",
+      "answer": "सदाचरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "ONE_LINE",
+      "question": "आत्मबोध स्पष्ट करा",
+      "answer": "आत्मबोध हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "ONE_LINE",
+      "question": "नीतिक मार्ग स्पष्ट करा",
+      "answer": "नीतिक मार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "ONE_LINE",
+      "question": "संत परंपरा स्पष्ट करा",
+      "answer": "संत परंपरा हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "ONE_LINE",
+      "question": "भेदभाव नष्ट स्पष्ट करा",
+      "answer": "भेदभाव नष्ट हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "ONE_LINE",
+      "question": "आध्यात्मिक प्रगती स्पष्ट करा",
+      "answer": "आध्यात्मिक प्रगती हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "ONE_LINE",
+      "question": "प्रेमभाव स्पष्ट करा",
+      "answer": "प्रेमभाव हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "ONE_LINE",
+      "question": "भक्तीमार्ग स्पष्ट करा",
+      "answer": "भक्तीमार्ग हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "ONE_LINE",
+      "question": "नामस्मरण स्पष्ट करा",
+      "answer": "नामस्मरण हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "ONE_LINE",
+      "question": "समता स्पष्ट करा",
+      "answer": "समता हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "ONE_LINE",
+      "question": "मानवी मूल्ये स्पष्ट करा",
+      "answer": "मानवी मूल्ये हा एकनाथी अभंगातून उलगडणारा भक्त-सामाजिक उन्नतीचा महत्त्वाचा संदेश आहे."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "भक्तीमूल्य शिकवण स्पष्ट करा",
+      "answer": "भक्तीमूल्य शिकवण हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "समतेचा संदेश स्पष्ट करा",
+      "answer": "समतेचा संदेश हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "सदाचरणाचे महत्त्व स्पष्ट करा",
+      "answer": "सदाचरणाचे महत्त्व हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "नामस्मरणाचे प्रभाव स्पष्ट करा",
+      "answer": "नामस्मरणाचे प्रभाव हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "सामाजिक समन्वय स्पष्ट करा",
+      "answer": "सामाजिक समन्वय हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "भक्तजन उन्नती स्पष्ट करा",
+      "answer": "भक्तजन उन्नती हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "आध्यात्मिक मार्गदर्शन स्पष्ट करा",
+      "answer": "आध्यात्मिक मार्गदर्शन हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "मानवी मूल्यांवर भर स्पष्ट करा",
+      "answer": "मानवी मूल्यांवर भर हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "संत परंपरेतील स्थान स्पष्ट करा",
+      "answer": "संत परंपरेतील स्थान हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "भेदभावविरोध स्पष्ट करा",
+      "answer": "भेदभावविरोध हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "भक्तीमूल्य शिकवण स्पष्ट करा",
+      "answer": "भक्तीमूल्य शिकवण हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "समतेचा संदेश स्पष्ट करा",
+      "answer": "समतेचा संदेश हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "सदाचरणाचे महत्त्व स्पष्ट करा",
+      "answer": "सदाचरणाचे महत्त्व हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "नामस्मरणाचे प्रभाव स्पष्ट करा",
+      "answer": "नामस्मरणाचे प्रभाव हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "सामाजिक समन्वय स्पष्ट करा",
+      "answer": "सामाजिक समन्वय हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "भक्तजन उन्नती स्पष्ट करा",
+      "answer": "भक्तजन उन्नती हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "आध्यात्मिक मार्गदर्शन स्पष्ट करा",
+      "answer": "आध्यात्मिक मार्गदर्शन हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "मानवी मूल्यांवर भर स्पष्ट करा",
+      "answer": "मानवी मूल्यांवर भर हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "संत परंपरेतील स्थान स्पष्ट करा",
+      "answer": "संत परंपरेतील स्थान हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "भेदभावविरोध स्पष्ट करा",
+      "answer": "भेदभावविरोध हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "भक्तीमूल्य शिकवण स्पष्ट करा",
+      "answer": "भक्तीमूल्य शिकवण हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "समतेचा संदेश स्पष्ट करा",
+      "answer": "समतेचा संदेश हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "सदाचरणाचे महत्त्व स्पष्ट करा",
+      "answer": "सदाचरणाचे महत्त्व हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "नामस्मरणाचे प्रभाव स्पष्ट करा",
+      "answer": "नामस्मरणाचे प्रभाव हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "सामाजिक समन्वय स्पष्ट करा",
+      "answer": "सामाजिक समन्वय हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "भक्तजन उन्नती स्पष्ट करा",
+      "answer": "भक्तजन उन्नती हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "आध्यात्मिक मार्गदर्शन स्पष्ट करा",
+      "answer": "आध्यात्मिक मार्गदर्शन हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "मानवी मूल्यांवर भर स्पष्ट करा",
+      "answer": "मानवी मूल्यांवर भर हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "संत परंपरेतील स्थान स्पष्ट करा",
+      "answer": "संत परंपरेतील स्थान हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "भेदभावविरोध स्पष्ट करा",
+      "answer": "भेदभावविरोध हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "भक्तीमूल्य शिकवण स्पष्ट करा",
+      "answer": "भक्तीमूल्य शिकवण हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "समतेचा संदेश स्पष्ट करा",
+      "answer": "समतेचा संदेश हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "सदाचरणाचे महत्त्व स्पष्ट करा",
+      "answer": "सदाचरणाचे महत्त्व हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "नामस्मरणाचे प्रभाव स्पष्ट करा",
+      "answer": "नामस्मरणाचे प्रभाव हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "सामाजिक समन्वय स्पष्ट करा",
+      "answer": "सामाजिक समन्वय हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "भक्तजन उन्नती स्पष्ट करा",
+      "answer": "भक्तजन उन्नती हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "आध्यात्मिक मार्गदर्शन स्पष्ट करा",
+      "answer": "आध्यात्मिक मार्गदर्शन हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "मानवी मूल्यांवर भर स्पष्ट करा",
+      "answer": "मानवी मूल्यांवर भर हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "संत परंपरेतील स्थान स्पष्ट करा",
+      "answer": "संत परंपरेतील स्थान हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "भेदभावविरोध स्पष्ट करा",
+      "answer": "भेदभावविरोध हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "भक्तीमूल्य शिकवण स्पष्ट करा",
+      "answer": "भक्तीमूल्य शिकवण हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "समतेचा संदेश स्पष्ट करा",
+      "answer": "समतेचा संदेश हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "सदाचरणाचे महत्त्व स्पष्ट करा",
+      "answer": "सदाचरणाचे महत्त्व हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "नामस्मरणाचे प्रभाव स्पष्ट करा",
+      "answer": "नामस्मरणाचे प्रभाव हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "सामाजिक समन्वय स्पष्ट करा",
+      "answer": "सामाजिक समन्वय हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "भक्तजन उन्नती स्पष्ट करा",
+      "answer": "भक्तजन उन्नती हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "आध्यात्मिक मार्गदर्शन स्पष्ट करा",
+      "answer": "आध्यात्मिक मार्गदर्शन हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "मानवी मूल्यांवर भर स्पष्ट करा",
+      "answer": "मानवी मूल्यांवर भर हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "संत परंपरेतील स्थान स्पष्ट करा",
+      "answer": "संत परंपरेतील स्थान हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "भेदभावविरोध स्पष्ट करा",
+      "answer": "भेदभावविरोध हा एकनाथी अभंगांचा प्रमुख आशय आहे.\nया अभंगांतून भक्ती, प्रेम आणि मानवता जागृत होते.\nसदाचार आणि समतेचा मार्ग समाजात व्यापक पसरतो.\nही शिकवण मानसिक आणि आध्यात्मिक उन्नतीस प्रेरित करते."
+    }
+  ]
+}

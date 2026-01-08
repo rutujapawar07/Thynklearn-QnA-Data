@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.04",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "किताबें"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'किताबें' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "जावेद अख्तर", "is_correct": false },
+        { "option_id": 2, "text": "गुलजार", "is_correct": true },
+        { "option_id": 3, "text": "निदा फाजली", "is_correct": false },
+        { "option_id": 4, "text": "कैफी आजमी", "is_correct": false }
+      ],
+      "answer": "गुलजार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "किताबें कहाँ से झाँकती हैं?",
+      "options": [
+        { "option_id": 1, "text": "खिड़की से", "is_correct": false },
+        { "option_id": 2, "text": "बंद अलमारी के शीशों से", "is_correct": true },
+        { "option_id": 3, "text": "मेज के नीचे से", "is_correct": false },
+        { "option_id": 4, "text": "बैग से", "is_correct": false }
+      ],
+      "answer": "बंद अलमारी के शीशों से"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अब शामें अक्सर कहाँ गुजर जाती हैं?",
+      "options": [
+        { "option_id": 1, "text": "किताबों की सोहबत में", "is_correct": false },
+        { "option_id": 2, "text": "दोस्तों के साथ", "is_correct": false },
+        { "option_id": 3, "text": "कंप्यूटर के पर्दों पर", "is_correct": true },
+        { "option_id": 4, "text": "खेल के मैदान में", "is_correct": false }
+      ],
+      "answer": "कंप्यूटर के पर्दों पर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "किताबों को अब कौन-सी आदत हो गई है?",
+      "options": [
+        { "option_id": 1, "text": "रोने की", "is_correct": false },
+        { "option_id": 2, "text": "हँसने की", "is_correct": false },
+        { "option_id": 3, "text": "नींद में चलने की", "is_correct": true },
+        { "option_id": 4, "text": "बातें करने की", "is_correct": false }
+      ],
+      "answer": "नींद में चलने की"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "किताबें जो रिश्ते सुनाती थीं, अब वे कैसे हैं?",
+      "options": [
+        { "option_id": 1, "text": "मजबूत", "is_correct": false },
+        { "option_id": 2, "text": "उधड़े-उधड़े", "is_correct": true },
+        { "option_id": 3, "text": "नए", "is_correct": false },
+        { "option_id": 4, "text": "गहरे", "is_correct": false }
+      ],
+      "answer": "उधड़े-उधड़े"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सफा (पन्ना) पलटने पर अब क्या निकलता है?",
+      "options": [
+        { "option_id": 1, "text": "एक सिसकी", "is_correct": true },
+        { "option_id": 2, "text": "एक हँसी", "is_correct": false },
+        { "option_id": 3, "text": "एक खुशबू", "is_correct": false },
+        { "option_id": 4, "text": "धूल", "is_correct": false }
+      ],
+      "answer": "एक सिसकी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सारे अल्फाज (शब्द) अब कैसे लगते हैं?",
+      "options": [
+        { "option_id": 1, "text": "हरे-भरे", "is_correct": false },
+        { "option_id": 2, "text": "बिना पत्तों के सूखे-टुंड", "is_correct": true },
+        { "option_id": 3, "text": "सुंदर फूलों जैसे", "is_correct": false },
+        { "option_id": 4, "text": "फलों से लदे", "is_correct": false }
+      ],
+      "answer": "बिना पत्तों के सूखे-टुंड"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कंप्यूटर पर क्लिक करने से क्या गुजरती है?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "एक झपकी", "is_correct": true },
+        { "option_id": 3, "text": "पूरी रात", "is_correct": false },
+        { "option_id": 4, "text": "बिजली", "is_correct": false }
+      ],
+      "answer": "एक झपकी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "किताबों से जो 'जाती राब्ता' (निजी संपर्क) था, उसका क्या हुआ?",
+      "options": [
+        { "option_id": 1, "text": "वह बढ़ गया है", "is_correct": false },
+        { "option_id": 2, "text": "वह कट गया है", "is_correct": true },
+        { "option_id": 3, "text": "वह वही है", "is_correct": false },
+        { "option_id": 4, "text": "वह नया हो गया है", "is_correct": false }
+      ],
+      "answer": "वह कट गया है"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'जबीं' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "जुबान", "is_correct": false },
+        { "option_id": 2, "text": "जमीन", "is_correct": false },
+        { "option_id": 3, "text": "माथा", "is_correct": true },
+        { "option_id": 4, "text": "जीवन", "is_correct": false }
+      ],
+      "answer": "माथा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'रिहल' किसे कहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "जिस पर धर्मग्रंथ रखकर पढ़ा जाता है (ठावनी)", "is_correct": true },
+        { "option_id": 2, "text": "किताब रखने की अलमारी", "is_correct": false },
+        { "option_id": 3, "text": "कमर", "is_correct": false },
+        { "option_id": 4, "text": "सजावट का सामान", "is_correct": false }
+      ],
+      "answer": "जिस पर धर्मग्रंथ रखकर पढ़ा जाता है (ठावनी)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "किताबों में कभी-कभी क्या मिला करता था?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "सूखे फूल और महके हुए रुक्के (चिट्ठी)", "is_correct": true },
+        { "option_id": 3, "text": "पेंसिल", "is_correct": false },
+        { "option_id": 4, "text": "तस्वीरें", "is_correct": false }
+      ],
+      "answer": "सूखे फूल और महके हुए रुक्के (चिट्ठी)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "किताबें गिरने और उठाने के बहाने क्या बनते थे?",
+      "options": [
+        { "option_id": 1, "text": "दुश्मनी", "is_correct": false },
+        { "option_id": 2, "text": "रिश्ते", "is_correct": true },
+        { "option_id": 3, "text": "झगड़े", "is_correct": false },
+        { "option_id": 4, "text": "घर", "is_correct": false }
+      ],
+      "answer": "रिश्ते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'हसरत' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "हँसना", "is_correct": false },
+        { "option_id": 2, "text": "कामना / उम्मीद", "is_correct": true },
+        { "option_id": 3, "text": "डर", "is_correct": false },
+        { "option_id": 4, "text": "गुस्सा", "is_correct": false }
+      ],
+      "answer": "कामना / उम्मीद"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गुलजार जी का मूल नाम क्या है?",
+      "options": [
+        { "option_id": 1, "text": "संपूरन सिंह कालरा", "is_correct": true },
+        { "option_id": 2, "text": "हरिवंश राय बच्चन", "is_correct": false },
+        { "option_id": 3, "text": "धनपत राय", "is_correct": false },
+        { "option_id": 4, "text": "सुदामा पांडे", "is_correct": false }
+      ],
+      "answer": "संपूरन सिंह कालरा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार किताबें अलमारी के शीशों से कैसे तकती हैं?",
+      "answer": "कवि के अनुसार किताबें बंद अलमारी के शीशों से बड़ी हसरत (उम्मीद) से तकती हैं कि कोई उन्हें बाहर निकालेगा और पढ़ेगा।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कंप्यूटर के आने से किताबों पर क्या असर पड़ा है?",
+      "answer": "कंप्यूटर के आने से किताबों से दूरियाँ बढ़ गई हैं। अब महीनों मुलाकाते नहीं होतीं और जो शामें किताबों की सोहबत में बीतती थीं, वे अब कंप्यूटर के पर्दों पर गुजर जाती हैं।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "किताबें बेचैन क्यों रहती हैं?",
+      "answer": "किताबें बेचैन इसलिए रहती हैं क्योंकि अब उन्हें कोई पढ़ता नहीं है, वे अलमारी में बंद रहती हैं और उनकी कदरें (मूल्य) अब घर में नजर नहीं आतीं।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "'जिनके सेल कभी मरते नहीं थे' - इस पंक्ति का आशय क्या है?",
+      "answer": "इसका आशय यह है कि किताबों में निहित ज्ञान और मानवीय मूल्य शाश्वत होते थे, वे कभी खत्म नहीं होते थे, जैसे इलेक्ट्रॉनिक उपकरणों के सेल (बैटरी) खत्म हो जाते हैं।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "पन्ना पलटने का स्वाद (जायका) अब कहाँ चला गया है?",
+      "answer": "पन्ना पलटने का जायका जो जुबां पर आता था (उंगली को थूक लगाकर पन्ना पलटना), वह अब खत्म हो गया है क्योंकि कंप्यूटर पर बस एक क्लिक से पन्ने बदल जाते हैं।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कवि किताबों को पढ़ने के कौन-कौन से तरीके (ढंग) याद करता है?",
+      "answer": "कवि याद करते हैं कि वे कभी किताबों को सीने पर रखकर लेट जाते थे, कभी गोदी में लेते थे, और कभी घुटनों को 'रिहल' बनाकर माथे से लगाकर (नीम-सजदे में) पढ़ते थे।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "'अल्फाज' को 'सूखे-टुंड' क्यों कहा गया है?",
+      "answer": "अल्फाज (शब्दों) को बिना पत्तों के सूखे पेड़ (टुंड) जैसा इसलिए कहा गया है क्योंकि अब उनमें वह भावना, आत्मीयता और अर्थ नहीं बचा जो किताबों के पन्नों में होता था; वे अब बेजान हो गए हैं।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "गुलजार जी की किन्हीं दो प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "चौरस रात, रावी पार, रात चाँद और मैं, खराशें आदि।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवि को किस बात का डर है कि 'वो शायद अब नहीं होंगे'?",
+      "answer": "कवि को डर है कि किताबें गिरने और उठाने के बहाने जो मानवीय रिश्ते बनते थे, वे अब शायद नहीं बनेंगे क्योंकि किताबों का चलन कम हो रहा है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'इल्म' शब्द का अर्थ बताइए।",
+      "answer": "'इल्म' का अर्थ है 'ज्ञान'।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "प्रस्तुत कविता में कवि ने पुस्तकों और मनुष्यों के बीच बढ़ती दूरी का वर्णन किस प्रकार किया है?",
+      "answer": "कवि गुलजार ने बताया है कि कंप्यूटर के युग में पुस्तकें अलमारियों में बंद होकर रह गई हैं। वे हसरत से बाहर आने का इंतजार करती हैं। पहले जहाँ शामें किताबों के साथ बीतती थीं, अब लोग कंप्यूटर स्क्रीन पर व्यस्त रहते हैं। किताबों के साथ जो निजी संपर्क (जाती राब्ता) था, वह टूट गया है। पन्ना पलटने का सुख और किताबों की खुशबू अब यादें बनकर रह गई हैं।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "किताबों में मिलने वाले 'सूखे फूल और महके हुए रुक्के' किस बात का प्रतीक हैं?",
+      "answer": "किताबों में मिलने वाले सूखे फूल और महके हुए रुक्के (संदेश पत्र) उन पुराने दिनों और प्रेम संबंधों के प्रतीक हैं जब लोग अपनी भावनाएँ व्यक्त करने के लिए किताबों का सहारा लेते थे। प्रेमी अपनी प्रेमिका को फूल या चिट्ठियाँ किताबों में रखकर देते थे। ये चीजें किताबों के साथ जुड़े मानवीय संवेदनाओं और रोमांस को दर्शाती हैं, जो अब डिजिटल युग में खो गए हैं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'कागज़ के पन्नों' और 'कंप्यूटर के पर्दों' पर पढ़ने में कवि क्या अंतर बताते हैं?",
+      "answer": "कवि बताते हैं कि कागज के पन्नों को पलटने में एक विशेष आनंद (जायका) था। पन्ना पलटते समय उंगली का स्पर्श और जीभ का जायका एक अलग अनुभव देते थे। लेकिन कंप्यूटर के पर्दों पर 'क्लिक' करने से पलक झपकते ही पन्ने बदल जाते हैं। इसमें वह शारीरिक और भावनात्मक जुड़ाव नहीं होता जो किताबों के साथ होता था। कंप्यूटर पर ज्ञान तो मिलता है (तह-ब-तह खुलता है), लेकिन वह आत्मीयता खो गई है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "किताबों के माध्यम से व्यक्त होने वाले मूल्यों (कदरों) के नष्ट होने पर कवि की क्या चिंता है?",
+      "answer": "कवि चिंतित हैं कि किताबें न केवल ज्ञान देती थीं, बल्कि वे मानवीय मूल्य (कदरें) और रिश्ते भी सिखाती थीं। वे मूल्य जो कभी मरते नहीं थे, अब घर में नजर नहीं आते। किताबों के पन्नों के साथ रिश्तों का ताना-बाना उधड़ गया है। शब्दों के अर्थ गिर पड़े हैं और वे भावहीन हो गए हैं। कवि को लगता है कि किताबों के दूर होने से हमारी संस्कृति और संस्कारों का भी ह्रास हो रहा है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "कविता के आधार पर स्पष्ट कीजिए कि किताबें ज्ञान के साथ-साथ और क्या देती थीं?",
+      "answer": "कविता के अनुसार, किताबें सिर्फ 'इल्म' (ज्ञान) का स्रोत नहीं थीं। वे हमें जीवन जीने के मूल्य (कदरें) और रिश्ते निभाना सिखाती थीं। उनका हमारे जीवन में भावनात्मक स्थान था—उन्हें सीने से लगाना, गोद में रखना या माथे से लगाना आदर और प्रेम दर्शाता था। किताबों के माध्यम से प्रेम पनपता था (रिश्ते बनते थे)। वे हमारी साथी (सोहबत) थीं जो अकेलेपन में साथ निभाती थीं।"
+    }
+  ]
+}

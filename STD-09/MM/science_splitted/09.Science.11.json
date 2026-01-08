@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.11",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "प्रकाशाचे परावर्तन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "प्रकाशाची संवेदना कोणत्या इंद्रियामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्वचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोळे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाश वाकणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश परत जाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विखुरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाश परत जाणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणता पृष्ठभाग आवश्यक असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चमकदार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपारदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "चमकदार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "नियमित परावर्तन कुठे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सपाट गुळगुळीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कापडावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सपाट गुळगुळीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अनियमित परावर्तन कुठे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरशावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्यावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काचवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "खडबडीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सपाट आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सपाट आरशातील प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाढलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सपाट आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान आकाराची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान आकाराची"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आरशामध्ये बाजूंची अदलाबदल कशामुळे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारदर्शकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शोषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "परावर्तन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गोलीय आरशांचे किती प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल आरशात कोणती प्रतिमा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नेहमी आभासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेहमी वास्तविक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तूवर अवलंबून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नेहमी सरळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तूवर अवलंबून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल आरशात प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल आरसा कुठे वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दंतवैद्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहनांमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शस्त्रक्रिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहनांमध्ये"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल आरसा कुठे वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहनात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दंतवैद्याकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्त्यावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घड्याळात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दंतवैद्याकडे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "प्रकाशाची संवेदना कोणत्या इंद्रियामुळे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्वचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोळे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाश वाकणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश परत जाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विखुरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाश परत जाणे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणता पृष्ठभाग आवश्यक असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चमकदार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपारदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "चमकदार"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नियमित परावर्तन कुठे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सपाट गुळगुळीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कापडावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सपाट गुळगुळीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अनियमित परावर्तन कुठे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरशावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्यावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काचवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "खडबडीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सपाट आरशात प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सपाट आरशातील प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाढलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सपाट आरशात प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान आकाराची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान आकाराची"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आरशामध्ये बाजूंची अदलाबदल कशामुळे दिसते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारदर्शकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शोषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "परावर्तन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "गोलीय आरशांचे किती प्रकार आहेत? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल आरशात कोणती प्रतिमा मिळते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नेहमी आभासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेहमी वास्तविक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तूवर अवलंबून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नेहमी सरळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तूवर अवलंबून"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल आरशात प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल आरसा कुठे वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दंतवैद्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहनांमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शस्त्रक्रिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहनांमध्ये"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल आरसा कुठे वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहनात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दंतवैद्याकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्त्यावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घड्याळात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दंतवैद्याकडे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "प्रकाशाची संवेदना कोणत्या इंद्रियामुळे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्वचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोळे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाश वाकणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश परत जाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विखुरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाश परत जाणे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणता पृष्ठभाग आवश्यक असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चमकदार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपारदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "चमकदार"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "नियमित परावर्तन कुठे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सपाट गुळगुळीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कापडावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सपाट गुळगुळीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अनियमित परावर्तन कुठे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरशावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्यावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काचवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "खडबडीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सपाट आरशात प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सपाट आरशातील प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाढलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सपाट आरशात प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान आकाराची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान आकाराची"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आरशामध्ये बाजूंची अदलाबदल कशामुळे दिसते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पारदर्शकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शोषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "परावर्तन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गोलीय आरशांचे किती प्रकार आहेत? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल आरशात कोणती प्रतिमा मिळते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नेहमी आभासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेहमी वास्तविक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वस्तूवर अवलंबून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नेहमी सरळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तूवर अवलंबून"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल आरशात प्रतिमा कशी असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उलटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल आरसा कुठे वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दंतवैद्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाहनांमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शस्त्रक्रिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाहनांमध्ये"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल आरसा कुठे वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहनात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दंतवैद्याकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रस्त्यावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घड्याळात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दंतवैद्याकडे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "प्रकाश म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "प्रकाशाची संवेदना कोणत्या इंद्रियामुळे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्वचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोळे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाश वाकणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश परत जाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश विखुरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाश परत जाणे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "परावर्तनासाठी कोणता पृष्ठभाग आवश्यक असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चमकदार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपारदर्शक",
+          "is_correct": false
+        }
+      ],
+      "answer": "चमकदार"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नियमित परावर्तन कुठे होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडबडीत पृष्ठभागावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सपाट गुळगुळीत पृष्ठभागावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कागदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कापडावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सपाट गुळगुळीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "प्रकाश म्हणजे काय?",
+      "answer": "दृष्टीची संवेदना निर्माण करणारी ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण परत जाण्याची क्रिया म्हणजे परावर्तन."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सपाट आरसा म्हणजे काय?",
+      "answer": "सपाट व चमकदार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "नियमित परावर्तन म्हणजे काय?",
+      "answer": "सपाट पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "अनियमित परावर्तन म्हणजे काय?",
+      "answer": "खडबडीत पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सपाट आरशातील प्रतिमेचे स्वरूप कसे असते?",
+      "answer": "आभासी, सरळ व समान आकाराची."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "बाजूंची अदलाबदल म्हणजे काय?",
+      "answer": "आरशात डावी-उजवी बाजू बदललेली दिसणे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "गोलीय आरसा म्हणजे काय?",
+      "answer": "गोलाकार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरसा म्हणजे काय?",
+      "answer": "आतील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरसा म्हणजे काय?",
+      "answer": "बाहेरील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "ध्रुव म्हणजे काय?",
+      "answer": "आरशाच्या मध्यबिंदूस ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वक्रता केंद्र म्हणजे काय?",
+      "answer": "आरसा ज्या गोलाचा भाग असतो त्याचे केंद्र."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वक्रता त्रिज्या म्हणजे काय?",
+      "answer": "वक्रता केंद्र व ध्रुवातील अंतर."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "फोकस म्हणजे काय?",
+      "answer": "समांतर किरण एकत्र येण्याचा बिंदू."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "दंतवैद्य उपचारासाठी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "वाहनांच्या मागील बाजूस."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सपाट आरशाचा उपयोग लिहा.",
+      "answer": "दैनंदिन जीवनात चेहरा पाहण्यासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "प्रतिमा म्हणजे काय?",
+      "answer": "वस्तूपासून परावर्तित किरणांनी तयार झालेली आकृती."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आभासी प्रतिमा म्हणजे काय?",
+      "answer": "प्रत्यक्ष न मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वास्तव प्रतिमा म्हणजे काय?",
+      "answer": "पडद्यावर मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "प्रकाश म्हणजे  स्पष्ट करा.",
+      "answer": "दृष्टीची संवेदना निर्माण करणारी ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश किरण परत जाण्याची क्रिया म्हणजे परावर्तन."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सपाट आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट व चमकदार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अनियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "खडबडीत पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सपाट आरशातील प्रतिमेचे स्वरूप कसे असते?",
+      "answer": "आभासी, सरळ व समान आकाराची."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "बाजूंची अदलाबदल म्हणजे  स्पष्ट करा.",
+      "answer": "आरशात डावी-उजवी बाजू बदललेली दिसणे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "गोलीय आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "गोलाकार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "आतील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "बाहेरील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ध्रुव म्हणजे  स्पष्ट करा.",
+      "answer": "आरशाच्या मध्यबिंदूस ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वक्रता केंद्र म्हणजे  स्पष्ट करा.",
+      "answer": "आरसा ज्या गोलाचा भाग असतो त्याचे केंद्र."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वक्रता त्रिज्या म्हणजे  स्पष्ट करा.",
+      "answer": "वक्रता केंद्र व ध्रुवातील अंतर."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "फोकस म्हणजे  स्पष्ट करा.",
+      "answer": "समांतर किरण एकत्र येण्याचा बिंदू."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "दंतवैद्य उपचारासाठी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "वाहनांच्या मागील बाजूस."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सपाट आरशाचा उपयोग लिहा.",
+      "answer": "दैनंदिन जीवनात चेहरा पाहण्यासाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "वस्तूपासून परावर्तित किरणांनी तयार झालेली आकृती."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आभासी प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रत्यक्ष न मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "वास्तव प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "पडद्यावर मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "प्रकाश म्हणजे  स्पष्ट करा.",
+      "answer": "दृष्टीची संवेदना निर्माण करणारी ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश किरण परत जाण्याची क्रिया म्हणजे परावर्तन."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सपाट आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट व चमकदार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "अनियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "खडबडीत पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "सपाट आरशातील प्रतिमेचे स्वरूप कसे असते?",
+      "answer": "आभासी, सरळ व समान आकाराची."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "बाजूंची अदलाबदल म्हणजे  स्पष्ट करा.",
+      "answer": "आरशात डावी-उजवी बाजू बदललेली दिसणे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "गोलीय आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "गोलाकार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "आतील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "बाहेरील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "ध्रुव म्हणजे  स्पष्ट करा.",
+      "answer": "आरशाच्या मध्यबिंदूस ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "वक्रता केंद्र म्हणजे  स्पष्ट करा.",
+      "answer": "आरसा ज्या गोलाचा भाग असतो त्याचे केंद्र."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "वक्रता त्रिज्या म्हणजे  स्पष्ट करा.",
+      "answer": "वक्रता केंद्र व ध्रुवातील अंतर."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "फोकस म्हणजे  स्पष्ट करा.",
+      "answer": "समांतर किरण एकत्र येण्याचा बिंदू."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "दंतवैद्य उपचारासाठी."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "वाहनांच्या मागील बाजूस."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "सपाट आरशाचा उपयोग लिहा.",
+      "answer": "दैनंदिन जीवनात चेहरा पाहण्यासाठी."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "वस्तूपासून परावर्तित किरणांनी तयार झालेली आकृती."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "आभासी प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रत्यक्ष न मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "वास्तव प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "पडद्यावर मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "प्रकाश म्हणजे  स्पष्ट करा.",
+      "answer": "दृष्टीची संवेदना निर्माण करणारी ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश किरण परत जाण्याची क्रिया म्हणजे परावर्तन."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "सपाट आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट व चमकदार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "नियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "अनियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "खडबडीत पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "सपाट आरशातील प्रतिमेचे स्वरूप कसे असते?",
+      "answer": "आभासी, सरळ व समान आकाराची."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "बाजूंची अदलाबदल म्हणजे  स्पष्ट करा.",
+      "answer": "आरशात डावी-उजवी बाजू बदललेली दिसणे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "गोलीय आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "गोलाकार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "आतील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "बाहेरील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "ध्रुव म्हणजे  स्पष्ट करा.",
+      "answer": "आरशाच्या मध्यबिंदूस ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "वक्रता केंद्र म्हणजे  स्पष्ट करा.",
+      "answer": "आरसा ज्या गोलाचा भाग असतो त्याचे केंद्र."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "वक्रता त्रिज्या म्हणजे  स्पष्ट करा.",
+      "answer": "वक्रता केंद्र व ध्रुवातील अंतर."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "फोकस म्हणजे  स्पष्ट करा.",
+      "answer": "समांतर किरण एकत्र येण्याचा बिंदू."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "दंतवैद्य उपचारासाठी."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "वाहनांच्या मागील बाजूस."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "सपाट आरशाचा उपयोग लिहा.",
+      "answer": "दैनंदिन जीवनात चेहरा पाहण्यासाठी."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "वस्तूपासून परावर्तित किरणांनी तयार झालेली आकृती."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "आभासी प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रत्यक्ष न मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "वास्तव प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "पडद्यावर मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "प्रकाश म्हणजे  स्पष्ट करा.",
+      "answer": "दृष्टीची संवेदना निर्माण करणारी ऊर्जा म्हणजे प्रकाश."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश किरण परत जाण्याची क्रिया म्हणजे परावर्तन."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "सपाट आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट व चमकदार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "नियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "सपाट पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "अनियमित परावर्तन म्हणजे  स्पष्ट करा.",
+      "answer": "खडबडीत पृष्ठभागावर होणारे परावर्तन."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "सपाट आरशातील प्रतिमेचे स्वरूप कसे असते?",
+      "answer": "आभासी, सरळ व समान आकाराची."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "बाजूंची अदलाबदल म्हणजे  स्पष्ट करा.",
+      "answer": "आरशात डावी-उजवी बाजू बदललेली दिसणे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "गोलीय आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "गोलाकार पृष्ठभाग असलेला आरसा."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "आतील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "बाहेरील पृष्ठभाग चमकदार असलेला आरसा."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "ध्रुव म्हणजे  स्पष्ट करा.",
+      "answer": "आरशाच्या मध्यबिंदूस ध्रुव म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "वक्रता केंद्र म्हणजे  स्पष्ट करा.",
+      "answer": "आरसा ज्या गोलाचा भाग असतो त्याचे केंद्र."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "वक्रता त्रिज्या म्हणजे  स्पष्ट करा.",
+      "answer": "वक्रता केंद्र व ध्रुवातील अंतर."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "फोकस म्हणजे  स्पष्ट करा.",
+      "answer": "समांतर किरण एकत्र येण्याचा बिंदू."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "दंतवैद्य उपचारासाठी."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल आरशाचा एक उपयोग लिहा.",
+      "answer": "वाहनांच्या मागील बाजूस."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "सपाट आरशाचा उपयोग लिहा.",
+      "answer": "दैनंदिन जीवनात चेहरा पाहण्यासाठी."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "वस्तूपासून परावर्तित किरणांनी तयार झालेली आकृती."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आभासी प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रत्यक्ष न मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "वास्तव प्रतिमा म्हणजे  स्पष्ट करा.",
+      "answer": "पडद्यावर मिळणारी प्रतिमा."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे परावर्तन सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "प्रकाश चमकदार पृष्ठभागावर पडल्यावर परत जातो, याला परावर्तन म्हणतात. परावर्तनामुळे प्रतिमा तयार होते. सपाट व गोलीय आरसे यावर आधारित आहेत."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "सपाट आरशातील प्रतिमेची वैशिष्ट्ये लिहा. सविस्तर लिहा.",
+      "answer": "सपाट आरशात प्रतिमा आभासी, सरळ व वस्तूएवढीच असते. प्रतिमा आरशामागे समान अंतरावर तयार होते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "गोलीय आरशांचे प्रकार स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "गोलीय आरसे अंतर्गोल व बहिर्गोल असे दोन प्रकारचे असतात. अंतर्गोल आरशाचा उपयोग दंतवैद्य करतात तर बहिर्गोल आरसा वाहनात वापरतात."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "अंतर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "दंतवैद्य, टॉर्च, सौर भट्टी यामध्ये अंतर्गोल आरसा वापरतात."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "बहिर्गोल आरशाचे उपयोग लिहा. सविस्तर लिहा.",
+      "answer": "वाहनांमध्ये मागील बाजूस बहिर्गोल आरसा वापरतात कारण विस्तृत दृश्य मिळते."
+    }
+  ]
+}

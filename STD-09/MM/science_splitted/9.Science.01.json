@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "9.Science.1",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "गतीचे नियम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "गती निर्माण करण्यासाठी काय आवश्यक? (भिन्न रूप 43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा पहिला नियम कोणत्या विषयासंबंधी? (भिन्न रूप 45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जडत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वनिशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्मागतिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जडत्व"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "गती म्हणजे काय? (भिन्न रूप 49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिती बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूक कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थिती बदल"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "बलाची एककं कोणती? (भिन्न रूप 50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पार्सेक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 1)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 2)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 3)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 4)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 5)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 6)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 7)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 8)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 9)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 10)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 11)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 12)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 13)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 14)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 15)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 16)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 17)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 18)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 19)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 20)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 21)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 22)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 23)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 24)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 25)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 26)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 27)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 28)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 29)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 30)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 31)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 32)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 33)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 34)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 35)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 36)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 37)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 38)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 39)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 40)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 41)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 42)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 43)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 44)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 45)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 46)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 47)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 48)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 49)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 50)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 51)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 52)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 53)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 54)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 55)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 56)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 57)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 58)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 59)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 60)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 61)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 62)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 63)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 64)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 65)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 66)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 67)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 68)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 69)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 70)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 71)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 72)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 73)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 74)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 75)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 76)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 77)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 78)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 79)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 80)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 81)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 82)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 83)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 84)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 85)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 86)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 87)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 88)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 89)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 90)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 91)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 92)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 93)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 94)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 95)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "जडत्व म्हणजे काय? (विकल्प 96)",
+      "answer": "जडत्व म्हणजे काय याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "गतीचा नियम उदाहरणासह स्पष्ट करा. (विकल्प 97)",
+      "answer": "गतीचा नियम उदाहरणासह स्पष्ट करा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "संतुलित व असंतुलित बल यात फरक सांगा. (विकल्प 98)",
+      "answer": "संतुलित व असंतुलित बल यात फरक सांगा. याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "गतीमुळे वस्तूचा वेग कसा बदलतो? (विकल्प 99)",
+      "answer": "गतीमुळे वस्तूचा वेग कसा बदलतो याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "बल नसेल तर वस्तू काय करते? (विकल्प 100)",
+      "answer": "बल नसेल तर वस्तू काय करते याचे स्पष्टीकरण दिले आहे."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 1)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 2)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 3)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 4)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 5)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 6)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 7)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 8)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 9)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 10)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 11)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 12)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 13)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 14)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 15)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 16)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 17)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 18)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 19)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 20)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 21)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 22)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 23)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 24)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 25)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 26)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 27)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 28)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 29)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 30)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 31)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 32)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 33)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 34)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 35)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 36)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 37)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 38)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 39)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 40)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 41)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 42)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 43)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 44)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 45)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 46)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 47)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. (विशेष नोंद 48)",
+      "answer": "बल लागू केल्यावर वस्तूची गती कशी बदलते हे स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. (विशेष नोंद 49)",
+      "answer": "न्यूटनचे तीन गतीचे नियम सविस्तर स्पष्ट करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. (विशेष नोंद 50)",
+      "answer": "जडत्व व वजन यातला संबंध उदाहरणासह चर्चा करा. विषयातील सर्व मुद्दे सविस्तर मांडले आहेत."
+    }
+  ]
+}

@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.18",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "अवकाश निरीक्षण : दुर्बिणी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीचा मुख्य उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूक्ष्मजीव पाहण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तू पाहण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान मोजण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तू पाहण्यासाठी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दुर्बिणी कोणत्या प्रकारच्या असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑप्टिकल व रेडिओ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रासायनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑप्टिकल व रेडिओ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीमध्ये कोणते घटक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अँटेना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेन्सर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीमध्ये काय वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रिझम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फिल्टर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरसे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओ कोण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायनशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खगोलशास्त्रज्ञ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भौतिकशास्त्रज्ञ",
+          "is_correct": false
+        }
+      ],
+      "answer": "खगोलशास्त्रज्ञ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओने कोणती दुर्बीण वापरली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रेडिओ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्ट्राव्हायोलेट",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपवर्तन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रेडिओ दुर्बिणी कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्य प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेडिओ तरंग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "रेडिओ तरंग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हबल दुर्बीण कुठे स्थित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चंद्रावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अवकाशात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मंगळावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अवकाश दुर्बिणीचा फायदा काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामानाचा परिणाम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुमंडलीय अडथळे नसतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खर्च कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जमिनीवर वापर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुमंडलीय अडथळे नसतात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीचा दोष कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णविकृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जडपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंपन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्णविकृती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीचा फायदा कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णविकृती नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लहान आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्णविकृती नाही"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रेडिओ दुर्बिणीचा आकार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समतल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठा परावर्तक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सूक्ष्म",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोठा परावर्तक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खगोलशास्त्र म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तूंचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवांचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रसायनांचा अभ्यास",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तूंचा अभ्यास"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीत वाढ कशावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स फोकल लांबी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आवृत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स फोकल लांबी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अवकाश निरीक्षणाचे एक उद्दिष्ट लिहा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विश्वाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रसायन विश्लेषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्वाचा अभ्यास"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीचा मुख्य उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूक्ष्मजीव पाहण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तू पाहण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान मोजण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तू पाहण्यासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "दुर्बिणी कोणत्या प्रकारच्या असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑप्टिकल व रेडिओ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रासायनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑप्टिकल व रेडिओ"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीमध्ये कोणते घटक असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अँटेना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेन्सर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीमध्ये काय वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रिझम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फिल्टर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरसे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओ कोण होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायनशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खगोलशास्त्रज्ञ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भौतिकशास्त्रज्ञ",
+          "is_correct": false
+        }
+      ],
+      "answer": "खगोलशास्त्रज्ञ"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओने कोणती दुर्बीण वापरली? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रेडिओ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्ट्राव्हायोलेट",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपवर्तन"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "रेडिओ दुर्बिणी कशासाठी वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्य प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेडिओ तरंग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "रेडिओ तरंग"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हबल दुर्बीण कुठे स्थित आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चंद्रावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अवकाशात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मंगळावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशात"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अवकाश दुर्बिणीचा फायदा काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामानाचा परिणाम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुमंडलीय अडथळे नसतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खर्च कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जमिनीवर वापर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुमंडलीय अडथळे नसतात"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीचा दोष कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णविकृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जडपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंपन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्णविकृती"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीचा फायदा कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णविकृती नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लहान आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्णविकृती नाही"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रेडिओ दुर्बिणीचा आकार कसा असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समतल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठा परावर्तक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सूक्ष्म",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोठा परावर्तक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "खगोलशास्त्र म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तूंचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवांचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रसायनांचा अभ्यास",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तूंचा अभ्यास"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीत वाढ कशावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स फोकल लांबी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आवृत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स फोकल लांबी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "अवकाश निरीक्षणाचे एक उद्दिष्ट लिहा. (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विश्वाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रसायन विश्लेषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्वाचा अभ्यास"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीचा मुख्य उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूक्ष्मजीव पाहण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तू पाहण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान मोजण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तू पाहण्यासाठी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "दुर्बिणी कोणत्या प्रकारच्या असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑप्टिकल व रेडिओ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रासायनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑप्टिकल व रेडिओ"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीमध्ये कोणते घटक असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अँटेना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेन्सर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीमध्ये काय वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रिझम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फिल्टर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरसे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओ कोण होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायनशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खगोलशास्त्रज्ञ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भौतिकशास्त्रज्ञ",
+          "is_correct": false
+        }
+      ],
+      "answer": "खगोलशास्त्रज्ञ"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओने कोणती दुर्बीण वापरली? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रेडिओ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्ट्राव्हायोलेट",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपवर्तन"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रेडिओ दुर्बिणी कशासाठी वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्य प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेडिओ तरंग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "रेडिओ तरंग"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हबल दुर्बीण कुठे स्थित आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चंद्रावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अवकाशात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मंगळावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशात"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अवकाश दुर्बिणीचा फायदा काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामानाचा परिणाम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुमंडलीय अडथळे नसतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खर्च कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जमिनीवर वापर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुमंडलीय अडथळे नसतात"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीचा दोष कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णविकृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जडपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंपन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्णविकृती"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीचा फायदा कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णविकृती नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लहान आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्णविकृती नाही"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "रेडिओ दुर्बिणीचा आकार कसा असतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समतल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठा परावर्तक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सूक्ष्म",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोठा परावर्तक"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "खगोलशास्त्र म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तूंचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवांचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रसायनांचा अभ्यास",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तूंचा अभ्यास"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीत वाढ कशावर अवलंबून असते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स फोकल लांबी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आवृत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स फोकल लांबी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "अवकाश निरीक्षणाचे एक उद्दिष्ट लिहा. (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विश्वाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रसायन विश्लेषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्वाचा अभ्यास"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "दुर्बिणीचा मुख्य उपयोग कशासाठी होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूक्ष्मजीव पाहण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवकाशीय वस्तू पाहण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी मोजण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान मोजण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवकाशीय वस्तू पाहण्यासाठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "दुर्बिणी कोणत्या प्रकारच्या असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑप्टिकल व रेडिओ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रासायनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्युत",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑप्टिकल व रेडिओ"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "अपवर्तन दुर्बिणीमध्ये कोणते घटक असतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अँटेना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेन्सर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेन्स"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "परावर्तन दुर्बिणीमध्ये काय वापरतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरसे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रिझम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फिल्टर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरसे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "गॅलिलिओ कोण होते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायनशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खगोलशास्त्रज्ञ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवशास्त्रज्ञ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भौतिकशास्त्रज्ञ",
+          "is_correct": false
+        }
+      ],
+      "answer": "खगोलशास्त्रज्ञ"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "दुर्बीण म्हणजे काय?",
+      "answer": "दूरच्या वस्तू मोठ्या व स्पष्ट दिसण्यासाठी वापरलेले उपकरण."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बीण म्हणजे काय?",
+      "answer": "लेन्स वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बीण म्हणजे काय?",
+      "answer": "आरसे वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बीण म्हणजे काय?",
+      "answer": "रेडिओ तरंगांवर आधारित दुर्बीण."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गॅलिलिओ कोण होते?",
+      "answer": "प्रसिद्ध खगोलशास्त्रज्ञ."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हबल दुर्बीण कुठे आहे?",
+      "answer": "अवकाशात पृथ्वीच्या कक्षेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बिणीचा एक फायदा लिहा.",
+      "answer": "वायुमंडलीय अडथळे नसतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बिणीचा दोष लिहा.",
+      "answer": "वर्णविकृती."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बिणीचा फायदा लिहा.",
+      "answer": "वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बिणीचा उपयोग लिहा.",
+      "answer": "रेडिओ तरंगांचा अभ्यास."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्र म्हणजे काय?",
+      "answer": "अवकाशीय वस्तूंचा अभ्यास."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा वाढ म्हणजे काय?",
+      "answer": "प्रतिमा किती मोठी दिसते ते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "फोकल लांबी म्हणजे काय?",
+      "answer": "फोकस व लेन्समधील अंतर."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लेन्स म्हणजे काय?",
+      "answer": "प्रकाश वाकवणारे पारदर्शक माध्यम."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आरसा म्हणजे काय?",
+      "answer": "प्रकाश परावर्तित करणारा पृष्ठभाग."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "अवकाश निरीक्षणाचे एक साधन लिहा.",
+      "answer": "दुर्बीण."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अवकाश संशोधनाचे महत्त्व लिहा.",
+      "answer": "विश्व समजण्यासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यासात दुर्बिणीचा उपयोग कसा होतो?",
+      "answer": "उपग्रह निरीक्षणासाठी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा एक मर्यादा लिहा.",
+      "answer": "उच्च खर्च."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बीण का वापरतात?",
+      "answer": "स्पष्ट निरीक्षणासाठी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "दूरच्या वस्तू मोठ्या व स्पष्ट दिसण्यासाठी वापरलेले उपकरण."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "लेन्स वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "आरसे वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "रेडिओ तरंगांवर आधारित दुर्बीण."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "गॅलिलिओ कोण होते?",
+      "answer": "प्रसिद्ध खगोलशास्त्रज्ञ."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "हबल दुर्बीण कुठे आहे?",
+      "answer": "अवकाशात पृथ्वीच्या कक्षेत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बिणीचा एक फायदा लिहा.",
+      "answer": "वायुमंडलीय अडथळे नसतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बिणीचा दोष लिहा.",
+      "answer": "वर्णविकृती."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बिणीचा फायदा लिहा.",
+      "answer": "वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बिणीचा उपयोग लिहा.",
+      "answer": "रेडिओ तरंगांचा अभ्यास."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "अवकाशीय वस्तूंचा अभ्यास."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा वाढ म्हणजे  स्पष्ट करा.",
+      "answer": "प्रतिमा किती मोठी दिसते ते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "फोकल लांबी म्हणजे  स्पष्ट करा.",
+      "answer": "फोकस व लेन्समधील अंतर."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "लेन्स म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश वाकवणारे पारदर्शक माध्यम."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश परावर्तित करणारा पृष्ठभाग."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अवकाश निरीक्षणाचे एक साधन लिहा.",
+      "answer": "दुर्बीण."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अवकाश संशोधनाचे महत्त्व लिहा.",
+      "answer": "विश्व समजण्यासाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यासात दुर्बिणीचा उपयोग कसा होतो?",
+      "answer": "उपग्रह निरीक्षणासाठी."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा एक मर्यादा लिहा.",
+      "answer": "उच्च खर्च."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बीण का वापरतात?",
+      "answer": "स्पष्ट निरीक्षणासाठी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "दूरच्या वस्तू मोठ्या व स्पष्ट दिसण्यासाठी वापरलेले उपकरण."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "लेन्स वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "आरसे वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "रेडिओ तरंगांवर आधारित दुर्बीण."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "गॅलिलिओ कोण होते?",
+      "answer": "प्रसिद्ध खगोलशास्त्रज्ञ."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हबल दुर्बीण कुठे आहे?",
+      "answer": "अवकाशात पृथ्वीच्या कक्षेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बिणीचा एक फायदा लिहा.",
+      "answer": "वायुमंडलीय अडथळे नसतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बिणीचा दोष लिहा.",
+      "answer": "वर्णविकृती."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बिणीचा फायदा लिहा.",
+      "answer": "वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बिणीचा उपयोग लिहा.",
+      "answer": "रेडिओ तरंगांचा अभ्यास."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "अवकाशीय वस्तूंचा अभ्यास."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा वाढ म्हणजे  स्पष्ट करा.",
+      "answer": "प्रतिमा किती मोठी दिसते ते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "फोकल लांबी म्हणजे  स्पष्ट करा.",
+      "answer": "फोकस व लेन्समधील अंतर."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "लेन्स म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश वाकवणारे पारदर्शक माध्यम."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश परावर्तित करणारा पृष्ठभाग."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "अवकाश निरीक्षणाचे एक साधन लिहा.",
+      "answer": "दुर्बीण."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "अवकाश संशोधनाचे महत्त्व लिहा.",
+      "answer": "विश्व समजण्यासाठी."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यासात दुर्बिणीचा उपयोग कसा होतो?",
+      "answer": "उपग्रह निरीक्षणासाठी."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा एक मर्यादा लिहा.",
+      "answer": "उच्च खर्च."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बीण का वापरतात?",
+      "answer": "स्पष्ट निरीक्षणासाठी."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "दूरच्या वस्तू मोठ्या व स्पष्ट दिसण्यासाठी वापरलेले उपकरण."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "लेन्स वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "आरसे वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "रेडिओ तरंगांवर आधारित दुर्बीण."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "गॅलिलिओ कोण होते?",
+      "answer": "प्रसिद्ध खगोलशास्त्रज्ञ."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "हबल दुर्बीण कुठे आहे?",
+      "answer": "अवकाशात पृथ्वीच्या कक्षेत."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बिणीचा एक फायदा लिहा.",
+      "answer": "वायुमंडलीय अडथळे नसतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बिणीचा दोष लिहा.",
+      "answer": "वर्णविकृती."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बिणीचा फायदा लिहा.",
+      "answer": "वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बिणीचा उपयोग लिहा.",
+      "answer": "रेडिओ तरंगांचा अभ्यास."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "अवकाशीय वस्तूंचा अभ्यास."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा वाढ म्हणजे  स्पष्ट करा.",
+      "answer": "प्रतिमा किती मोठी दिसते ते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "फोकल लांबी म्हणजे  स्पष्ट करा.",
+      "answer": "फोकस व लेन्समधील अंतर."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "लेन्स म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश वाकवणारे पारदर्शक माध्यम."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश परावर्तित करणारा पृष्ठभाग."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "अवकाश निरीक्षणाचे एक साधन लिहा.",
+      "answer": "दुर्बीण."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "अवकाश संशोधनाचे महत्त्व लिहा.",
+      "answer": "विश्व समजण्यासाठी."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यासात दुर्बिणीचा उपयोग कसा होतो?",
+      "answer": "उपग्रह निरीक्षणासाठी."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा एक मर्यादा लिहा.",
+      "answer": "उच्च खर्च."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बीण का वापरतात?",
+      "answer": "स्पष्ट निरीक्षणासाठी."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "दूरच्या वस्तू मोठ्या व स्पष्ट दिसण्यासाठी वापरलेले उपकरण."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "लेन्स वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "आरसे वापरणारी दुर्बीण."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बीण म्हणजे  स्पष्ट करा.",
+      "answer": "रेडिओ तरंगांवर आधारित दुर्बीण."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "गॅलिलिओ कोण होते?",
+      "answer": "प्रसिद्ध खगोलशास्त्रज्ञ."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "हबल दुर्बीण कुठे आहे?",
+      "answer": "अवकाशात पृथ्वीच्या कक्षेत."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बिणीचा एक फायदा लिहा.",
+      "answer": "वायुमंडलीय अडथळे नसतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "अपवर्तन दुर्बिणीचा दोष लिहा.",
+      "answer": "वर्णविकृती."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "परावर्तन दुर्बिणीचा फायदा लिहा.",
+      "answer": "वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "रेडिओ दुर्बिणीचा उपयोग लिहा.",
+      "answer": "रेडिओ तरंगांचा अभ्यास."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "खगोलशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "अवकाशीय वस्तूंचा अभ्यास."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा वाढ म्हणजे  स्पष्ट करा.",
+      "answer": "प्रतिमा किती मोठी दिसते ते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "फोकल लांबी म्हणजे  स्पष्ट करा.",
+      "answer": "फोकस व लेन्समधील अंतर."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "लेन्स म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश वाकवणारे पारदर्शक माध्यम."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "आरसा म्हणजे  स्पष्ट करा.",
+      "answer": "प्रकाश परावर्तित करणारा पृष्ठभाग."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "अवकाश निरीक्षणाचे एक साधन लिहा.",
+      "answer": "दुर्बीण."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "अवकाश संशोधनाचे महत्त्व लिहा.",
+      "answer": "विश्व समजण्यासाठी."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यासात दुर्बिणीचा उपयोग कसा होतो?",
+      "answer": "उपग्रह निरीक्षणासाठी."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "दुर्बिणीचा एक मर्यादा लिहा.",
+      "answer": "उच्च खर्च."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "अवकाश दुर्बीण का वापरतात?",
+      "answer": "स्पष्ट निरीक्षणासाठी."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "दुर्बिणीचे प्रकार सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन, परावर्तन व रेडिओ अशा दुर्बिणींचे प्रकार आहेत. प्रत्येक प्रकाराचा अवकाश निरीक्षणात उपयोग होतो."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन दुर्बिणीची तुलना करा. सविस्तर लिहा.",
+      "answer": "अपवर्तन दुर्बिणी लेन्स वापरतात व वर्णविकृती होऊ शकते. परावर्तन दुर्बिणी आरसे वापरतात व वर्णविकृती होत नाही."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "रेडिओ दुर्बिणीचे कार्य स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "रेडिओ दुर्बिणी रेडिओ तरंग गोळा करून अवकाशीय माहिती मिळवतात."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "हबल अवकाश दुर्बिणीचे महत्त्व लिहा. सविस्तर लिहा.",
+      "answer": "हबल दुर्बिणीने विश्वाचे स्पष्ट चित्र मिळाले व संशोधनास गती मिळाली."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "अवकाश निरीक्षणाचे महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "अवकाश निरीक्षणामुळे विश्वाची रचना, ग्रह व तारे समजतात."
+    }
+  ]
+}

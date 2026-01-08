@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.10",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Play"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who ordered the thief to be caught? (v1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The King",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The King"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was blamed first for the crime? (v2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The potter",
+          "is_correct": false
+        }
+      ],
+      "answer": "The merchant"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why was the merchant blamed? (v3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The wall fell on the thief",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He attacked the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He called the guards",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "The wall fell on the thief"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Whom did the merchant blame? (v4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The bricklayer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The potter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The bricklayer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Whom did the bricklayer blame? (v5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The mortar-maker",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The thief",
+          "is_correct": false
+        }
+      ],
+      "answer": "The mortar-maker"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who made the weak mortar? (v6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The potter\u2019s daughter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The king",
+          "is_correct": false
+        }
+      ],
+      "answer": "The potter\u2019s daughter"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why was the potter involved? (v7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He made weak mortar that led to collapse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He hid the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He broke the wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He stole gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He made weak mortar that led to collapse"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who caused the potter to delay making strong bricks? (v8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The goldsmith",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The goldsmith"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why was the disciple chosen for execution? (v9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was the right size",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He confessed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was guilty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He angered the king",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was the right size"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What finally saved the disciple? (v10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The guru\u2019s wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The guard\u2019s mistake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king\u2019s apology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The wall repair",
+          "is_correct": false
+        }
+      ],
+      "answer": "The guru\u2019s wisdom"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who ordered the thief to be caught? (v11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The King",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The King"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who was blamed first for the crime? (v12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The potter",
+          "is_correct": false
+        }
+      ],
+      "answer": "The merchant"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why was the merchant blamed? (v13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The wall fell on the thief",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He attacked the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He called the guards",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "The wall fell on the thief"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Whom did the merchant blame? (v14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The bricklayer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The potter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The bricklayer"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Whom did the bricklayer blame? (v15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The mortar-maker",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The thief",
+          "is_correct": false
+        }
+      ],
+      "answer": "The mortar-maker"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who made the weak mortar? (v16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The potter\u2019s daughter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The king",
+          "is_correct": false
+        }
+      ],
+      "answer": "The potter\u2019s daughter"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Why was the potter involved? (v17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He made weak mortar that led to collapse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He hid the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He broke the wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He stole gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He made weak mortar that led to collapse"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who caused the potter to delay making strong bricks? (v18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The goldsmith",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The goldsmith"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why was the disciple chosen for execution? (v19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was the right size",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He confessed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was guilty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He angered the king",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was the right size"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What finally saved the disciple? (v20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The guru\u2019s wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The guard\u2019s mistake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king\u2019s apology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The wall repair",
+          "is_correct": false
+        }
+      ],
+      "answer": "The guru\u2019s wisdom"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who ordered the thief to be caught? (v21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The King",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The King"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who was blamed first for the crime? (v22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The potter",
+          "is_correct": false
+        }
+      ],
+      "answer": "The merchant"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why was the merchant blamed? (v23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The wall fell on the thief",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He attacked the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He called the guards",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "The wall fell on the thief"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Whom did the merchant blame? (v24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The bricklayer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The potter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The bricklayer"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Whom did the bricklayer blame? (v25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The mortar-maker",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The thief",
+          "is_correct": false
+        }
+      ],
+      "answer": "The mortar-maker"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who made the weak mortar? (v26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The potter\u2019s daughter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The king",
+          "is_correct": false
+        }
+      ],
+      "answer": "The potter\u2019s daughter"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why was the potter involved? (v27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He made weak mortar that led to collapse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He hid the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He broke the wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He stole gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He made weak mortar that led to collapse"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who caused the potter to delay making strong bricks? (v28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The goldsmith",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The goldsmith"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why was the disciple chosen for execution? (v29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was the right size",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He confessed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was guilty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He angered the king",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was the right size"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What finally saved the disciple? (v30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The guru\u2019s wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The guard\u2019s mistake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king\u2019s apology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The wall repair",
+          "is_correct": false
+        }
+      ],
+      "answer": "The guru\u2019s wisdom"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who ordered the thief to be caught? (v31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The King",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The King"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who was blamed first for the crime? (v32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The potter",
+          "is_correct": false
+        }
+      ],
+      "answer": "The merchant"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why was the merchant blamed? (v33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The wall fell on the thief",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He attacked the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He called the guards",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "The wall fell on the thief"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Whom did the merchant blame? (v34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The bricklayer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The potter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The bricklayer"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Whom did the bricklayer blame? (v35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The mortar-maker",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The thief",
+          "is_correct": false
+        }
+      ],
+      "answer": "The mortar-maker"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who made the weak mortar? (v36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The potter\u2019s daughter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The king",
+          "is_correct": false
+        }
+      ],
+      "answer": "The potter\u2019s daughter"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Why was the potter involved? (v37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He made weak mortar that led to collapse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He hid the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He broke the wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He stole gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He made weak mortar that led to collapse"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who caused the potter to delay making strong bricks? (v38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The goldsmith",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The goldsmith"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Why was the disciple chosen for execution? (v39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was the right size",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He confessed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was guilty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He angered the king",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was the right size"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What finally saved the disciple? (v40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The guru\u2019s wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The guard\u2019s mistake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king\u2019s apology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The wall repair",
+          "is_correct": false
+        }
+      ],
+      "answer": "The guru\u2019s wisdom"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who ordered the thief to be caught? (v41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The King",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The King"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who was blamed first for the crime? (v42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The merchant",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The potter",
+          "is_correct": false
+        }
+      ],
+      "answer": "The merchant"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why was the merchant blamed? (v43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The wall fell on the thief",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He attacked the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He called the guards",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "The wall fell on the thief"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Whom did the merchant blame? (v44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The bricklayer",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The potter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The bricklayer"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Whom did the bricklayer blame? (v45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The mortar-maker",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The guard",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The thief",
+          "is_correct": false
+        }
+      ],
+      "answer": "The mortar-maker"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who made the weak mortar? (v46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The potter\u2019s daughter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The goldsmith",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The king",
+          "is_correct": false
+        }
+      ],
+      "answer": "The potter\u2019s daughter"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why was the potter involved? (v47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He made weak mortar that led to collapse",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He hid the thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He broke the wall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He stole gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He made weak mortar that led to collapse"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who caused the potter to delay making strong bricks? (v48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The goldsmith",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The thief",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The disciple",
+          "is_correct": false
+        }
+      ],
+      "answer": "The goldsmith"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Why was the disciple chosen for execution? (v49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was the right size",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He confessed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was guilty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He angered the king",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was the right size"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What finally saved the disciple? (v50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The guru\u2019s wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The guard\u2019s mistake",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The king\u2019s apology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The wall repair",
+          "is_correct": false
+        }
+      ],
+      "answer": "The guru\u2019s wisdom"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 51)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 52)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 53)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 54)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 55)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 56)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 57)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 58)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 59)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 60)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 61)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 62)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 63)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 64)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 65)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 66)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 67)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 68)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 69)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 70)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 71)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 72)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 73)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 74)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 75)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 76)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 77)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 78)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 79)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 80)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 81)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 82)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 83)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 84)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 85)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 86)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 87)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 88)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 89)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 90)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 91)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 92)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 93)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 94)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 95)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 96)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 97)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 98)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 99)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 100)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 101)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 102)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 103)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 104)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 105)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 106)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 107)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 108)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 109)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 110)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 111)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 112)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 113)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 114)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 115)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 116)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 117)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 118)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 119)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 120)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 121)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 122)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 123)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 124)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 125)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 126)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 127)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 128)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 129)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 130)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 131)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 132)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 133)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 134)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 135)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 136)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 137)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 138)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 139)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 140)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why did the king blame the merchant? (Variant 141)",
+      "answer": "Because the wall belonged to him."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why did the blame keep moving from person to person? (Variant 142)",
+      "answer": "Because each character pushed responsibility away."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What kind of king ruled the city? (Variant 143)",
+      "answer": "A foolish king who made decisions without thinking."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why did people obey the king\u2019s strange decisions? (Variant 144)",
+      "answer": "They feared punishment and did not question him."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why was the disciple arrested? (Variant 145)",
+      "answer": "Because he fit the size needed for the execution."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What was the disciple\u2019s reaction to being caught? (Variant 146)",
+      "answer": "He protested and argued but was helpless."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why was the potter dragged into the case? (Variant 147)",
+      "answer": "He and his daughter made weak mortar used in the wall."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What mistake did the goldsmith make? (Variant 148)",
+      "answer": "He distracted workers by demanding pottery urgently."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Who finally took the responsibility for justice? (Variant 149)",
+      "answer": "The wise guru arrived and saved the situation."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the main message of the play? (Variant 150)",
+      "answer": "Blind obedience leads to injustice."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 151)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 152)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 153)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 154)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 155)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 156)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 157)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 158)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 159)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 160)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 161)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 162)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 163)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 164)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 165)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 166)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 167)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 168)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 169)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 170)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 171)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 172)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 173)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 174)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 175)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 176)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 177)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 178)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 179)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 180)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 181)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 182)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 183)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 184)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 185)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 186)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 187)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 188)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 189)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 190)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 191)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 192)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 193)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 194)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 195)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Describe how blame passed from character to character in the play. (Insight 196)",
+      "answer": "The merchant was blamed, then the bricklayer, the mortar-maker, the potter and finally the goldsmith as everyone avoided responsibility."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain why the disciple was chosen for punishment and how irony is shown. (Insight 197)",
+      "answer": "He was chosen only because he fit the size for execution, showing absurd and unfair justice\u2014punishing the innocent instead of the guilty."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Discuss how the play shows foolish justice under an ignorant ruler. (Insight 198)",
+      "answer": "The king followed humourless logic, gave random orders, and punished without reason, proving that unchecked power causes harm."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain the role of the guru in saving the disciple. (Insight 199)",
+      "answer": "The guru heard of the disciple\u2019s situation and used wisdom to trick the king, saving his disciple from meaningless punishment."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "What lesson does the audience learn from the play? (Insight 200)",
+      "answer": "Justice must use reason, fairness and thought; rulers must avoid blind commands and citizens must question wrong authority."
+    }
+  ]
+}

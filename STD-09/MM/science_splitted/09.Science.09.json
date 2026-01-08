@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.09",
+    "standard": "9",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "पर्यावरणीय व्यवस्थापन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पर्यावरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सजीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त निर्जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव व निर्जीव घटकांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीव व निर्जीव घटकांचा समूह"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हवामान म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन हवेची स्थिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दीर्घकालीन सरासरी स्थिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्जन्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दीर्घकालीन सरासरी स्थिती"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हवामानाचे घटक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान, आर्द्रता, वारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान, आर्द्रता, वारा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हवामानशास्त्र म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरणाचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवामानाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामानाचा अभ्यास"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "IMD चे पूर्ण नाव काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Monsoon Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Meteorology Department",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Indian Marine Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "International Met Dept",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Meteorology Department"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "जागतिक हवामानशास्त्र दिन कधी साजरा करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "22 मार्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23 मार्च",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "5 जून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "16 सप्टेंबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "23 मार्च"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "घनकचरा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायू कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन स्वरूपातील टाकाऊ पदार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जैविक कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ओला कचरा कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वयंपाकघरातील कचरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काच",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वयंपाकघरातील कचरा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सुका कचरा कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फळांच्या साली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाज्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेण",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "विघटनशील कचरा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहज विघटित होणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न विघटणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विषारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धातू",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहज विघटित होणारा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अविघटनशील कचरा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहज विघटणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न विघटणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेंद्रिय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओला",
+          "is_correct": false
+        }
+      ],
+      "answer": "न विघटणारा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नकचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औद्योगिक कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विद्युत उपकरणांचा कचरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जैव कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत उपकरणांचा कचरा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "घनकचरा व्यवस्थापन का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छतेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जानिर्मितीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यावरण संरक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "घनकचऱ्याचा परिणाम काय होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोगप्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यावरणाचा ऱ्हास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपत्ती निर्माण करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपत्तींचे नियोजन व नियंत्रण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कचरा व्यवस्थापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपत्तींचे नियोजन व नियंत्रण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पर्यावरण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सजीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त निर्जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव व निर्जीव घटकांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीव व निर्जीव घटकांचा समूह"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "हवामान म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन हवेची स्थिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दीर्घकालीन सरासरी स्थिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्जन्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दीर्घकालीन सरासरी स्थिती"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "हवामानाचे घटक कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान, आर्द्रता, वारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान, आर्द्रता, वारा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हवामानशास्त्र म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरणाचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवामानाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामानाचा अभ्यास"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "IMD चे पूर्ण नाव काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Monsoon Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Meteorology Department",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Indian Marine Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "International Met Dept",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Meteorology Department"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "जागतिक हवामानशास्त्र दिन कधी साजरा करतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "22 मार्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23 मार्च",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "5 जून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "16 सप्टेंबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "23 मार्च"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "घनकचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायू कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन स्वरूपातील टाकाऊ पदार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जैविक कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ओला कचरा कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वयंपाकघरातील कचरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काच",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वयंपाकघरातील कचरा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सुका कचरा कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फळांच्या साली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाज्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेण",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "विघटनशील कचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहज विघटित होणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न विघटणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विषारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धातू",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहज विघटित होणारा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अविघटनशील कचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहज विघटणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न विघटणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेंद्रिय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओला",
+          "is_correct": false
+        }
+      ],
+      "answer": "न विघटणारा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नकचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औद्योगिक कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विद्युत उपकरणांचा कचरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जैव कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत उपकरणांचा कचरा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "घनकचरा व्यवस्थापन का आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छतेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जानिर्मितीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यावरण संरक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "घनकचऱ्याचा परिणाम काय होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोगप्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यावरणाचा ऱ्हास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपत्ती निर्माण करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपत्तींचे नियोजन व नियंत्रण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कचरा व्यवस्थापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपत्तींचे नियोजन व नियंत्रण"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पर्यावरण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सजीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त निर्जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव व निर्जीव घटकांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीव व निर्जीव घटकांचा समूह"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हवामान म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन हवेची स्थिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दीर्घकालीन सरासरी स्थिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्जन्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दीर्घकालीन सरासरी स्थिती"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "हवामानाचे घटक कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान, आर्द्रता, वारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान, आर्द्रता, वारा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हवामानशास्त्र म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरणाचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवामानाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामानाचा अभ्यास"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "IMD चे पूर्ण नाव काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Monsoon Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Meteorology Department",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Indian Marine Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "International Met Dept",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Meteorology Department"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "जागतिक हवामानशास्त्र दिन कधी साजरा करतात? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "22 मार्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23 मार्च",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "5 जून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "16 सप्टेंबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "23 मार्च"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "घनकचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायू कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन स्वरूपातील टाकाऊ पदार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जैविक कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ओला कचरा कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लास्टिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वयंपाकघरातील कचरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काच",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वयंपाकघरातील कचरा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सुका कचरा कोणता? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फळांच्या साली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाज्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्लास्टिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेण",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "विघटनशील कचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहज विघटित होणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "न विघटणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विषारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धातू",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहज विघटित होणारा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "अविघटनशील कचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहज विघटणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न विघटणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेंद्रिय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओला",
+          "is_correct": false
+        }
+      ],
+      "answer": "न विघटणारा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नकचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औद्योगिक कचरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विद्युत उपकरणांचा कचरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जैव कचरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत उपकरणांचा कचरा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "घनकचरा व्यवस्थापन का आवश्यक आहे? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छतेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जानिर्मितीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यावरण संरक्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "घनकचऱ्याचा परिणाम काय होतो? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोगप्रसार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यावरणाचा ऱ्हास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आपत्ती निर्माण करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपत्तींचे नियोजन व नियंत्रण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कचरा व्यवस्थापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपत्तींचे नियोजन व नियंत्रण"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पर्यावरण म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सजीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त निर्जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजीव व निर्जीव घटकांचा समूह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त मानव",
+          "is_correct": false
+        }
+      ],
+      "answer": "सजीव व निर्जीव घटकांचा समूह"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "हवामान म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन हवेची स्थिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दीर्घकालीन सरासरी स्थिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्जन्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दीर्घकालीन सरासरी स्थिती"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हवामानाचे घटक कोणते? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान, आर्द्रता, वारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त वारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान, आर्द्रता, वारा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हवामानशास्त्र म्हणजे काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरणाचा अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवामानाचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामानाचा अभ्यास"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "IMD चे पूर्ण नाव काय? (योग्य पर्याय निवडा)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Monsoon Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Meteorology Department",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Indian Marine Dept",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "International Met Dept",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Meteorology Department"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पर्यावरण म्हणजे काय?",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंबंध म्हणजे पर्यावरण."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "हवामान म्हणजे काय?",
+      "answer": "एखाद्या प्रदेशाची दीर्घकालीन वातावरणीय स्थिती म्हणजे हवामान."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हवामानाचे घटक लिहा.",
+      "answer": "तापमान, पर्जन्य, वारा, आर्द्रता, दाब."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "हवामानशास्त्र म्हणजे काय?",
+      "answer": "हवामानाचा अभ्यास करणारे शास्त्र."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "IMD म्हणजे काय?",
+      "answer": "भारतीय हवामान खाते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "जागतिक हवामानशास्त्र दिन कधी?",
+      "answer": "23 मार्च."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "घनकचरा म्हणजे काय?",
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ओला कचरा म्हणजे काय?",
+      "answer": "विघटनशील सेंद्रिय कचरा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सुका कचरा म्हणजे काय?",
+      "answer": "अविघटनशील कचरा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "विघटनशील कचरा म्हणजे काय?",
+      "answer": "सूक्ष्मजीवांनी सहज विघटित होणारा कचरा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अविघटनशील कचरा म्हणजे काय?",
+      "answer": "दीर्घकाळ न विघटणारा कचरा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे काय?",
+      "answer": "विद्युत उपकरणांपासून तयार होणारा कचरा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापन म्हणजे काय?",
+      "answer": "कचऱ्याची योग्य विल्हेवाट."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापनाचे फायदे काय?",
+      "answer": "प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आपत्ती म्हणजे काय?",
+      "answer": "अचानक घडणारी विनाशकारी घटना."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन म्हणजे काय?",
+      "answer": "आपत्तींचे नियोजन व नियंत्रण."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पूर ही कोणती आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "भूकंप कोणत्या प्रकारची आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दुष्काळ म्हणजे काय?",
+      "answer": "दीर्घकाळ पावसाचा अभाव."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण का आवश्यक?",
+      "answer": "संतुलन राखण्यासाठी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पर्यावरण म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंबंध म्हणजे पर्यावरण."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "हवामान म्हणजे  स्पष्ट करा.",
+      "answer": "एखाद्या प्रदेशाची दीर्घकालीन वातावरणीय स्थिती म्हणजे हवामान."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "हवामानाचे घटक लिहा.",
+      "answer": "तापमान, पर्जन्य, वारा, आर्द्रता, दाब."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "हवामानशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "हवामानाचा अभ्यास करणारे शास्त्र."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "IMD म्हणजे  स्पष्ट करा.",
+      "answer": "भारतीय हवामान खाते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "जागतिक हवामानशास्त्र दिन कधी?",
+      "answer": "23 मार्च."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "घनकचरा म्हणजे  स्पष्ट करा.",
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ओला कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विघटनशील सेंद्रिय कचरा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सुका कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "अविघटनशील कचरा."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "विघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "सूक्ष्मजीवांनी सहज विघटित होणारा कचरा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "अविघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ न विघटणारा कचरा."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विद्युत उपकरणांपासून तयार होणारा कचरा."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "कचऱ्याची योग्य विल्हेवाट."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापनाचे फायदे  स्पष्ट करा.",
+      "answer": "प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "आपत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "अचानक घडणारी विनाशकारी घटना."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "आपत्तींचे नियोजन व नियंत्रण."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पूर ही कोणती आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "भूकंप कोणत्या प्रकारची आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "दुष्काळ म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ पावसाचा अभाव."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण का आवश्यक?",
+      "answer": "संतुलन राखण्यासाठी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पर्यावरण म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंबंध म्हणजे पर्यावरण."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हवामान म्हणजे  स्पष्ट करा.",
+      "answer": "एखाद्या प्रदेशाची दीर्घकालीन वातावरणीय स्थिती म्हणजे हवामान."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हवामानाचे घटक लिहा.",
+      "answer": "तापमान, पर्जन्य, वारा, आर्द्रता, दाब."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हवामानशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "हवामानाचा अभ्यास करणारे शास्त्र."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "IMD म्हणजे  स्पष्ट करा.",
+      "answer": "भारतीय हवामान खाते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "जागतिक हवामानशास्त्र दिन कधी?",
+      "answer": "23 मार्च."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "घनकचरा म्हणजे  स्पष्ट करा.",
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "ओला कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विघटनशील सेंद्रिय कचरा."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सुका कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "अविघटनशील कचरा."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "विघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "सूक्ष्मजीवांनी सहज विघटित होणारा कचरा."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "अविघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ न विघटणारा कचरा."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विद्युत उपकरणांपासून तयार होणारा कचरा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "कचऱ्याची योग्य विल्हेवाट."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापनाचे फायदे  स्पष्ट करा.",
+      "answer": "प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "आपत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "अचानक घडणारी विनाशकारी घटना."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "आपत्तींचे नियोजन व नियंत्रण."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पूर ही कोणती आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "भूकंप कोणत्या प्रकारची आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "दुष्काळ म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ पावसाचा अभाव."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण का आवश्यक?",
+      "answer": "संतुलन राखण्यासाठी."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "पर्यावरण म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंबंध म्हणजे पर्यावरण."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "हवामान म्हणजे  स्पष्ट करा.",
+      "answer": "एखाद्या प्रदेशाची दीर्घकालीन वातावरणीय स्थिती म्हणजे हवामान."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हवामानाचे घटक लिहा.",
+      "answer": "तापमान, पर्जन्य, वारा, आर्द्रता, दाब."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "हवामानशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "हवामानाचा अभ्यास करणारे शास्त्र."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "IMD म्हणजे  स्पष्ट करा.",
+      "answer": "भारतीय हवामान खाते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "जागतिक हवामानशास्त्र दिन कधी?",
+      "answer": "23 मार्च."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "घनकचरा म्हणजे  स्पष्ट करा.",
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "ओला कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विघटनशील सेंद्रिय कचरा."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "सुका कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "अविघटनशील कचरा."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "विघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "सूक्ष्मजीवांनी सहज विघटित होणारा कचरा."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "अविघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ न विघटणारा कचरा."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विद्युत उपकरणांपासून तयार होणारा कचरा."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "कचऱ्याची योग्य विल्हेवाट."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापनाचे फायदे  स्पष्ट करा.",
+      "answer": "प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "आपत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "अचानक घडणारी विनाशकारी घटना."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "आपत्तींचे नियोजन व नियंत्रण."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पूर ही कोणती आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "भूकंप कोणत्या प्रकारची आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "दुष्काळ म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ पावसाचा अभाव."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण का आवश्यक?",
+      "answer": "संतुलन राखण्यासाठी."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "पर्यावरण म्हणजे  स्पष्ट करा.",
+      "answer": "सजीव व निर्जीव घटकांमधील परस्परसंबंध म्हणजे पर्यावरण."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "हवामान म्हणजे  स्पष्ट करा.",
+      "answer": "एखाद्या प्रदेशाची दीर्घकालीन वातावरणीय स्थिती म्हणजे हवामान."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "हवामानाचे घटक लिहा.",
+      "answer": "तापमान, पर्जन्य, वारा, आर्द्रता, दाब."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "हवामानशास्त्र म्हणजे  स्पष्ट करा.",
+      "answer": "हवामानाचा अभ्यास करणारे शास्त्र."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "IMD म्हणजे  स्पष्ट करा.",
+      "answer": "भारतीय हवामान खाते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "जागतिक हवामानशास्त्र दिन कधी?",
+      "answer": "23 मार्च."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "घनकचरा म्हणजे  स्पष्ट करा.",
+      "answer": "घन स्वरूपातील टाकाऊ पदार्थ."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "ओला कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विघटनशील सेंद्रिय कचरा."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "सुका कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "अविघटनशील कचरा."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "विघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "सूक्ष्मजीवांनी सहज विघटित होणारा कचरा."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "अविघटनशील कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ न विघटणारा कचरा."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉनिक कचरा म्हणजे  स्पष्ट करा.",
+      "answer": "विद्युत उपकरणांपासून तयार होणारा कचरा."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "कचऱ्याची योग्य विल्हेवाट."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "घनकचरा व्यवस्थापनाचे फायदे  स्पष्ट करा.",
+      "answer": "प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "आपत्ती म्हणजे  स्पष्ट करा.",
+      "answer": "अचानक घडणारी विनाशकारी घटना."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन म्हणजे  स्पष्ट करा.",
+      "answer": "आपत्तींचे नियोजन व नियंत्रण."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पूर ही कोणती आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "भूकंप कोणत्या प्रकारची आपत्ती?",
+      "answer": "नैसर्गिक आपत्ती."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "दुष्काळ म्हणजे  स्पष्ट करा.",
+      "answer": "दीर्घकाळ पावसाचा अभाव."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पर्यावरण संरक्षण का आवश्यक?",
+      "answer": "संतुलन राखण्यासाठी."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "हवामानाचे मानवी जीवनातील महत्त्व स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानाचा अन्न, वस्त्र, निवारा व व्यवसायावर परिणाम होतो. शेती, वाहतूक व उद्योग हवामानावर अवलंबून असतात."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "हवामानशास्त्र सविस्तर स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "हवामानशास्त्रात हवामानाचे घटक, बदल व अंदाज यांचा अभ्यास होतो. याचा उपयोग शेती, विमानसेवा व आपत्ती व्यवस्थापनात होतो."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "घनकचरा व्यवस्थापनाची आवश्यकता स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "घनकचरा व्यवस्थापनामुळे प्रदूषण कमी होते. स्वच्छता, आरोग्य व पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "घनकचऱ्याचे प्रकार व उदाहरणे लिहा. सविस्तर लिहा.",
+      "answer": "ओला, सुका, औद्योगिक, जैववैद्यकीय व इलेक्ट्रॉनिक कचरा असे प्रकार आहेत."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "आपत्ती व्यवस्थापनाचे टप्पे स्पष्ट करा. सविस्तर लिहा.",
+      "answer": "पूर्वतयारी, प्रतिसाद, पुनर्वसन व पुनर्बांधणी हे टप्पे आहेत."
+    }
+  ]
+}

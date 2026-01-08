@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.15",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "सिंधु का जल"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'सिंधु का जल' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "हरिवंश राय बच्चन", "is_correct": false },
+        { "option_id": 2, "text": "अशोक चक्रधर", "is_correct": true },
+        { "option_id": 3, "text": "सुमित्रानंदन पंत", "is_correct": false },
+        { "option_id": 4, "text": "मैथिलीशरण गुप्त", "is_correct": false }
+      ],
+      "answer": "अशोक चक्रधर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवि ने जल को किसका आदि बिंदु बताया है?",
+      "options": [
+        { "option_id": 1, "text": "पहाड़ों का", "is_correct": false },
+        { "option_id": 2, "text": "सभ्यताओं का", "is_correct": true },
+        { "option_id": 3, "text": "युद्धों का", "is_correct": false },
+        { "option_id": 4, "text": "जंगलों का", "is_correct": false }
+      ],
+      "answer": "सभ्यताओं का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सिंधु के तटों पर किसके यज्ञ हुए?",
+      "options": [
+        { "option_id": 1, "text": "राक्षसों के", "is_correct": false },
+        { "option_id": 2, "text": "देवताओं के", "is_correct": false },
+        { "option_id": 3, "text": "इंसानियत के", "is_correct": true },
+        { "option_id": 4, "text": "राजाओं के", "is_correct": false }
+      ],
+      "answer": "इंसानियत के"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जल नहाने वाले से क्या नहीं पूछता?",
+      "options": [
+        { "option_id": 1, "text": "उसका नाम", "is_correct": false },
+        { "option_id": 2, "text": "उसका पता", "is_correct": false },
+        { "option_id": 3, "text": "उसकी जात, मजहब और धर्म", "is_correct": true },
+        { "option_id": 4, "text": "उसका काम", "is_correct": false }
+      ],
+      "answer": "उसकी जात, मजहब और धर्म"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जल केवल क्या जानता है?",
+      "options": [
+        { "option_id": 1, "text": "जीवन का मर्म", "is_correct": true },
+        { "option_id": 2, "text": "राजनीति", "is_correct": false },
+        { "option_id": 3, "text": "व्यापार", "is_correct": false },
+        { "option_id": 4, "text": "इतिहास", "is_correct": false }
+      ],
+      "answer": "जीवन का मर्म"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "प्यास बुझाने से पहले जल क्या नहीं पूछता?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "दोस्त है या दुश्मन", "is_correct": true },
+        { "option_id": 3, "text": "समय", "is_correct": false },
+        { "option_id": 4, "text": "बर्तन", "is_correct": false }
+      ],
+      "answer": "दोस्त है या दुश्मन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "जल किसके घाव धोता है?",
+      "options": [
+        { "option_id": 1, "text": "केवल सैनिकों के", "is_correct": false },
+        { "option_id": 2, "text": "केवल अपनों के", "is_correct": false },
+        { "option_id": 3, "text": "सबके", "is_correct": true },
+        { "option_id": 4, "text": "किसी के नहीं", "is_correct": false }
+      ],
+      "answer": "सबके"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "विधवा की आँखों में जल किस रूप में होता है?",
+      "options": [
+        { "option_id": 1, "text": "खुशी बनकर", "is_correct": false },
+        { "option_id": 2, "text": "आँसू बनकर", "is_correct": true },
+        { "option_id": 3, "text": "क्रोध बनकर", "is_correct": false },
+        { "option_id": 4, "text": "सपना बनकर", "is_correct": false }
+      ],
+      "answer": "आँसू बनकर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लहराते बिंबों में जल क्या बनकर झिलमिलाता है?",
+      "options": [
+        { "option_id": 1, "text": "सूरज", "is_correct": false },
+        { "option_id": 2, "text": "तारा", "is_correct": false },
+        { "option_id": 3, "text": "इंदु (चंद्रमा)", "is_correct": true },
+        { "option_id": 4, "text": "दीपक", "is_correct": false }
+      ],
+      "answer": "इंदु (चंद्रमा)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जल गति में कैसा और भावना में कैसा है?",
+      "options": [
+        { "option_id": 1, "text": "गति में मंद, भावना में कठोर", "is_correct": false },
+        { "option_id": 2, "text": "गति में चंचल, भावना में अचल", "is_correct": true },
+        { "option_id": 3, "text": "गति में तेज, भावना में चंचल", "is_correct": false },
+        { "option_id": 4, "text": "गति में स्थिर, भावना में बहता", "is_correct": false }
+      ],
+      "answer": "गति में चंचल, भावना में अचल"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'मर्म' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "मृत्यु", "is_correct": false },
+        { "option_id": 2, "text": "रहस्य / भेद", "is_correct": true },
+        { "option_id": 3, "text": "मारना", "is_correct": false },
+        { "option_id": 4, "text": "ममता", "is_correct": false }
+      ],
+      "answer": "रहस्य / भेद"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सिंधु नदी की लहरें किसकी ओर मचलती हैं?",
+      "options": [
+        { "option_id": 1, "text": "मौत की ओर", "is_correct": false },
+        { "option_id": 2, "text": "किनारे की ओर", "is_correct": false },
+        { "option_id": 3, "text": "जिंदगी की ओर", "is_correct": true },
+        { "option_id": 4, "text": "सागर की ओर", "is_correct": false }
+      ],
+      "answer": "जिंदगी की ओर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अशोक चक्रधर जी का जन्म कहाँ हुआ था?",
+      "options": [
+        { "option_id": 1, "text": "दिल्ली", "is_correct": false },
+        { "option_id": 2, "text": "खुर्जा (उ.प्र.)", "is_correct": true },
+        { "option_id": 3, "text": "भोपाल", "is_correct": false },
+        { "option_id": 4, "text": "जयपुर", "is_correct": false }
+      ],
+      "answer": "खुर्जा (उ.प्र.)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'सतत' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "कभी-कभी", "is_correct": false },
+        { "option_id": 2, "text": "निरंतर / लगातार", "is_correct": true },
+        { "option_id": 3, "text": "रुक-रुक कर", "is_correct": false },
+        { "option_id": 4, "text": "धीरे", "is_correct": false }
+      ],
+      "answer": "निरंतर / लगातार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'प्रवाहमान' का तात्पर्य है -",
+      "options": [
+        { "option_id": 1, "text": "रुका हुआ", "is_correct": false },
+        { "option_id": 2, "text": "बहता हुआ", "is_correct": true },
+        { "option_id": 3, "text": "सूखा हुआ", "is_correct": false },
+        { "option_id": 4, "text": "जमा हुआ", "is_correct": false }
+      ],
+      "answer": "बहता हुआ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि ने सिंधु के जल को 'पावन' क्यों कहा है?",
+      "answer": "कवि ने सिंधु के जल को पावन इसलिए कहा है क्योंकि वह बिना किसी भेदभाव के सबका कल्याण करता है, सबकी प्यास बुझाता है और जीवन देता है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "सिंधु नदी के किनारे क्या-क्या घटित हुआ?",
+      "answer": "सिंधु नदी के किनारे सभ्यताओं का विकास हुआ, संस्कृतियों ने साँस ली और इंसानियत के यज्ञ हुए।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "जल भेदभाव क्यों नहीं करता?",
+      "answer": "जल भेदभाव नहीं करता क्योंकि वह केवल 'जीवन का मर्म' (रहस्य) जानता है, जो सभी जीवों में समान है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "'बिंदु में सिंधु हूँ' का क्या आशय है?",
+      "answer": "इसका आशय है कि जल की एक छोटी बूँद (बिंदु) में भी वही गुण और जीवन शक्ति समाहित है जो विशाल सागर (सिंधु) में है; व्यष्टि में ही समष्टि का रूप है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "जल दुख में किस प्रकार साथ देता है?",
+      "answer": "जल दुख में विधवा की आँखों से आँसू बनकर बहता है और रोते हुए व्यक्ति का साथ देता है।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "सिंधु की गति और भावना में क्या विरोधाभास है?",
+      "answer": "सिंधु की गति चंचल है (निरंतर बहती रहती है), लेकिन उसकी भावना अचल है (परोपकार और समानता का भाव स्थिर है)।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "'इंदु' शब्द का अर्थ बताइए।",
+      "answer": "'इंदु' शब्द का अर्थ है 'चंद्रमा'।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "कवि अशोक चक्रधर की प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "बूढ़े बच्चे, तमाशा, खिड़कियाँ, बोलगप्पे, जो करे सो जोकर, मत कर तमंचा, मसनद आदि।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कविता में 'जीवन की पहचान' किसे कहा गया है?",
+      "answer": "कविता में 'सतत प्रवाहमान' (निरंतर बहने वाले) जल को जीवन की पहचान कहा गया है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "जल नहाने वाले से कौन-से तीन प्रश्न नहीं पूछता?",
+      "answer": "जल नहाने वाले से उसकी जात, उसका मजहब और उसका धर्म नहीं पूछता।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "'सिंधु का जल' कविता का केंद्रीय भाव (Central Idea) स्पष्ट कीजिए।",
+      "answer": "'सिंधु का जल' कविता के माध्यम से कवि ने जल की परोपकारी और समदर्शी प्रकृति का वर्णन किया है। जल किसी के साथ जाति, धर्म या वर्ग का भेदभाव नहीं करता। वह दोस्त और दुश्मन दोनों की प्यास समान रूप से बुझाता है। जल सभ्यता और संस्कृति का साक्षी है। वह सुख में जीवनदाता है और दुख में आँसू बनकर साथ निभाता है। कवि ने जल के माध्यम से मनुष्यों को भी भेदभाव मिटाकर मानवता और प्रेम से रहने का संदेश दिया है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "नदी के जल की विशेषताएँ कविता के आधार पर लिखिए।",
+      "answer": "कविता के अनुसार नदी का जल निरंतर प्रवाहमान और जीवन की पहचान है। उसके स्वर में 'कल-कल' का संगीत है। वह सभ्यताओं का आदि बिंदु है। वह गति में चंचल होते हुए भी भावना में अचल (स्थिर) है। वह धर्मनिरपेक्ष है, किसी की जात-पात नहीं पूछता। वह शत्रु और मित्र में भेद नहीं करता, सबकी प्यास बुझाता है और सबके घाव धोता है। वह मानवीय संवेदनाओं से जुड़ा है, जो आँखों में आँसू बनकर भी झलकता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "'मैं सिंधु में बिंदु हूँ, बिंदु में सिंधु हूँ' - इस पंक्ति का दार्शनिक अर्थ समझाइए।",
+      "answer": "यह पंक्ति अद्वैत दर्शन की ओर संकेत करती है। जिस प्रकार सागर की हर बूँद में सागर के ही गुण होते हैं, उसी प्रकार हर आत्मा (बिंदु) में परमात्मा (सिंधु) का अंश होता है। छोटा होकर भी अस्तित्व में पूर्णता है। कवि कहना चाहते हैं कि व्यक्ति समाज का एक छोटा हिस्सा (बिंदु) होते हुए भी समाज (सिंधु) का प्रतिनिधित्व करता है। हम सब एक ही विशाल चेतना के अंश हैं, इसलिए हममें कोई भेद नहीं होना चाहिए।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "कविता में जल के मानवीय रूप का चित्रण कैसे किया गया है?",
+      "answer": "कवि ने जल का मानवीकरण किया है। जल को एक संवेदनशील प्राणी की तरह चित्रित किया गया है जो 'जानता' है, 'नहीं पूछता', 'घाव धोता है' और 'रोता है'। वह इंसानियत के यज्ञों का साक्षी है। वह विधवा के आँसू बनकर दुख प्रकट करता है। वह किसी भी भेदभाव से परे होकर निस्वार्थ सेवा करता है। इस तरह कवि ने जल को मनुष्य के सुख-दुख का साथी बताया है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "'प्यास बुझाने से पहले मैं नहीं पूछता, दोस्त है या दुश्मन' - इस पंक्ति से हमें क्या प्रेरणा मिलती है?",
+      "answer": "इस पंक्ति से हमें निस्वार्थ सेवा और परोपकार की प्रेरणा मिलती है। जिस प्रकार जल अपनी सेवा (प्यास बुझाना) देने से पहले यह नहीं देखता कि सामने वाला मित्र है या शत्रु, उसी प्रकार हमें भी जरूरतमंद की मदद करते समय आपसी बैर-भाव, ईर्ष्या या दुश्मनी को बीच में नहीं लाना चाहिए। मानवता सबसे ऊपर होनी चाहिए। हमें सबके प्रति समभाव रखना चाहिए।"
+    }
+  ]
+}

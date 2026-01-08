@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Marathi.M22",
+    "standard": "9",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "पत्रलेखन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "[MCQ-1] 'पत्राचा पत्ता' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पत्राचा पत्ता' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पत्राचा पत्ता' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "[MCQ-2] 'दिनांक' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'दिनांक' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'दिनांक' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "[MCQ-3] 'मायना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मायना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मायना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "[MCQ-4] 'विषयरेषा' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विषयरेषा' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विषयरेषा' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "[MCQ-5] 'समारोप' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'समारोप' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'समारोप' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "[MCQ-6] 'लिफाफ्यावरील पत्ता' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'लिफाफ्यावरील पत्ता' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'लिफाफ्यावरील पत्ता' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "[MCQ-7] 'औपचारिक पत्राची रचना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'औपचारिक पत्राची रचना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'औपचारिक पत्राची रचना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "[MCQ-8] 'अनौपचारिक पत्राची रचना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'अनौपचारिक पत्राची रचना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'अनौपचारिक पत्राची रचना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "[MCQ-9] 'स्वपरिचय पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'स्वपरिचय पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'स्वपरिचय पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "[MCQ-10] 'तक्रार पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'तक्रार पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'तक्रार पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "[MCQ-11] 'मागणी पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मागणी पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मागणी पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "[MCQ-12] 'निवेदन पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'निवेदन पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'निवेदन पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "[MCQ-13] 'सूचना पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सूचना पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सूचना पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "[MCQ-14] 'जाहिरात विषयावर पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'जाहिरात विषयावर पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'जाहिरात विषयावर पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "[MCQ-15] 'अनौपचारिक कौटुंबिक पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'अनौपचारिक कौटुंबिक पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'अनौपचारिक कौटुंबिक पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "[MCQ-16] 'व्यावहारिक पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'व्यावहारिक पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'व्यावहारिक पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "[MCQ-17] 'मुद्देसूद लेखन' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मुद्देसूद लेखन' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मुद्देसूद लेखन' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "[MCQ-18] 'प्रभावी शब्दयोजना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रभावी शब्दयोजना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रभावी शब्दयोजना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "[MCQ-19] 'विनम्र भाषा' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विनम्र भाषा' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विनम्र भाषा' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "[MCQ-20] 'मांडणीची सुसूत्रता' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मांडणीची सुसूत्रता' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मांडणीची सुसूत्रता' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "[MCQ-21] 'निरोप पात्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'निरोप पात्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'निरोप पात्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "[MCQ-22] 'निवेदनात्मक मांडणी' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'निवेदनात्मक मांडणी' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'निवेदनात्मक मांडणी' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "[MCQ-23] 'मागणीचे औचित्य' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मागणीचे औचित्य' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मागणीचे औचित्य' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "[MCQ-24] 'क्रीडा विभागास पत्र' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'क्रीडा विभागास पत्र' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'क्रीडा विभागास पत्र' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "[MCQ-25] 'आंतरशालेय स्पर्धा' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आंतरशालेय स्पर्धा' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आंतरशालेय स्पर्धा' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "[MCQ-26] 'रानडे सभागृह कार्यशाळा' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'रानडे सभागृह कार्यशाळा' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'रानडे सभागृह कार्यशाळा' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "[MCQ-27] 'सदोष वस्तूंची तक्रार' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'सदोष वस्तूंची तक्रार' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'सदोष वस्तूंची तक्रार' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "[MCQ-28] 'खरेदीची मागणी' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'खरेदीची मागणी' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'खरेदीची मागणी' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "[MCQ-29] 'कला कार्यशाळा' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'कला कार्यशाळा' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'कला कार्यशाळा' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "[MCQ-30] 'शालेय कार्यक्रम' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'शालेय कार्यक्रम' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'शालेय कार्यक्रम' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "[MCQ-31] 'प्रशिक्षण शिबीर' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रशिक्षण शिबीर' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रशिक्षण शिबीर' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "[MCQ-32] 'शिष्यवृत्ती विषय' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'शिष्यवृत्ती विषय' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'शिष्यवृत्ती विषय' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "[MCQ-33] 'नाव व स्वाक्षरी' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'नाव व स्वाक्षरी' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'नाव व स्वाक्षरी' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "[MCQ-34] 'संपर्क माहिती' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संपर्क माहिती' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संपर्क माहिती' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "[MCQ-35] 'आवश्यक दस्तऐवज' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'आवश्यक दस्तऐवज' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'आवश्यक दस्तऐवज' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "[MCQ-36] 'प्रधानाध्यापक' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'प्रधानाध्यापक' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'प्रधानाध्यापक' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "[MCQ-37] 'शिक्षक' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'शिक्षक' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'शिक्षक' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "[MCQ-38] 'विभाग प्रमुख' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'विभाग प्रमुख' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'विभाग प्रमुख' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "[MCQ-39] 'संस्था व्यवस्थापक' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'संस्था व्यवस्थापक' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'संस्था व्यवस्थापक' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "[MCQ-40] 'पत्रलेखनातील चूक' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पत्रलेखनातील चूक' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पत्रलेखनातील चूक' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "[MCQ-41] 'पत्रातील शिष्टाचार' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पत्रातील शिष्टाचार' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पत्रातील शिष्टाचार' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "[MCQ-42] 'भाषिक मांडणी' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'भाषिक मांडणी' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'भाषिक मांडणी' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "[MCQ-43] 'मुद्दे ओळखणे' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मुद्दे ओळखणे' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मुद्दे ओळखणे' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "[MCQ-44] 'लहान वाक्यरचना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'लहान वाक्यरचना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'लहान वाक्यरचना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "[MCQ-45] 'अचूक शब्द निवड' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'अचूक शब्द निवड' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'अचूक शब्द निवड' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "[MCQ-46] 'पत्रातील भावना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पत्रातील भावना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पत्रातील भावना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "[MCQ-47] 'पत्रातील औचित्य' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पत्रातील औचित्य' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पत्रातील औचित्य' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "[MCQ-48] 'पत्राचा पत्ता' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'पत्राचा पत्ता' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'पत्राचा पत्ता' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "[MCQ-49] 'दिनांक' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'दिनांक' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'दिनांक' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "[MCQ-50] 'मायना' या पत्रलेखन घटकाबद्दल योग्य पर्याय निवडा.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "'मायना' हा पत्राचा आवश्यक भाग आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र फक्त मुखोद्गत सांगितले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रात कोणतेही स्वरूप नसते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्र संपूर्णपणे आकड्यांत लिहिले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "'मायना' हा पत्राचा आवश्यक भाग आहे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "[SHORT-51] 'पत्राचा पत्ता' संदर्भात महत्त्व लिहा.",
+      "answer": "'पत्राचा पत्ता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "[SHORT-52] 'दिनांक' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'दिनांक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "[SHORT-53] 'मायना' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'मायना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "[SHORT-54] 'विषयरेषा' संदर्भात शिकवण लिहा.",
+      "answer": "'विषयरेषा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "[SHORT-55] 'समारोप' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'समारोप' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "[SHORT-56] 'लिफाफ्यावरील पत्ता' संदर्भात अवश्यकता लिहा.",
+      "answer": "'लिफाफ्यावरील पत्ता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "[SHORT-57] 'औपचारिक पत्राची रचना' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'औपचारिक पत्राची रचना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "[SHORT-58] 'अनौपचारिक पत्राची रचना' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'अनौपचारिक पत्राची रचना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "[SHORT-59] 'स्वपरिचय पत्र' संदर्भात महत्त्व लिहा.",
+      "answer": "'स्वपरिचय पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "[SHORT-60] 'तक्रार पत्र' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'तक्रार पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "[SHORT-61] 'मागणी पत्र' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'मागणी पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "[SHORT-62] 'निवेदन पत्र' संदर्भात शिकवण लिहा.",
+      "answer": "'निवेदन पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "[SHORT-63] 'सूचना पत्र' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'सूचना पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "[SHORT-64] 'जाहिरात विषयावर पत्र' संदर्भात अवश्यकता लिहा.",
+      "answer": "'जाहिरात विषयावर पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "[SHORT-65] 'अनौपचारिक कौटुंबिक पत्र' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'अनौपचारिक कौटुंबिक पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "[SHORT-66] 'व्यावहारिक पत्र' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'व्यावहारिक पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "[SHORT-67] 'मुद्देसूद लेखन' संदर्भात महत्त्व लिहा.",
+      "answer": "'मुद्देसूद लेखन' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "[SHORT-68] 'प्रभावी शब्दयोजना' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'प्रभावी शब्दयोजना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "[SHORT-69] 'विनम्र भाषा' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'विनम्र भाषा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "[SHORT-70] 'मांडणीची सुसूत्रता' संदर्भात शिकवण लिहा.",
+      "answer": "'मांडणीची सुसूत्रता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "[SHORT-71] 'निरोप पात्र' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'निरोप पात्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "[SHORT-72] 'निवेदनात्मक मांडणी' संदर्भात अवश्यकता लिहा.",
+      "answer": "'निवेदनात्मक मांडणी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "[SHORT-73] 'मागणीचे औचित्य' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'मागणीचे औचित्य' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "[SHORT-74] 'क्रीडा विभागास पत्र' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'क्रीडा विभागास पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "[SHORT-75] 'आंतरशालेय स्पर्धा' संदर्भात महत्त्व लिहा.",
+      "answer": "'आंतरशालेय स्पर्धा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "[SHORT-76] 'रानडे सभागृह कार्यशाळा' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'रानडे सभागृह कार्यशाळा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "[SHORT-77] 'सदोष वस्तूंची तक्रार' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'सदोष वस्तूंची तक्रार' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "[SHORT-78] 'खरेदीची मागणी' संदर्भात शिकवण लिहा.",
+      "answer": "'खरेदीची मागणी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "[SHORT-79] 'कला कार्यशाळा' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'कला कार्यशाळा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "[SHORT-80] 'शालेय कार्यक्रम' संदर्भात अवश्यकता लिहा.",
+      "answer": "'शालेय कार्यक्रम' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "[SHORT-81] 'प्रशिक्षण शिबीर' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'प्रशिक्षण शिबीर' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "[SHORT-82] 'शिष्यवृत्ती विषय' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'शिष्यवृत्ती विषय' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "[SHORT-83] 'नाव व स्वाक्षरी' संदर्भात महत्त्व लिहा.",
+      "answer": "'नाव व स्वाक्षरी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "[SHORT-84] 'संपर्क माहिती' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'संपर्क माहिती' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "[SHORT-85] 'आवश्यक दस्तऐवज' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'आवश्यक दस्तऐवज' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "[SHORT-86] 'प्रधानाध्यापक' संदर्भात शिकवण लिहा.",
+      "answer": "'प्रधानाध्यापक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "[SHORT-87] 'शिक्षक' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'शिक्षक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "[SHORT-88] 'विभाग प्रमुख' संदर्भात अवश्यकता लिहा.",
+      "answer": "'विभाग प्रमुख' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "[SHORT-89] 'संस्था व्यवस्थापक' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'संस्था व्यवस्थापक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "[SHORT-90] 'पत्रलेखनातील चूक' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'पत्रलेखनातील चूक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "[SHORT-91] 'पत्रातील शिष्टाचार' संदर्भात महत्त्व लिहा.",
+      "answer": "'पत्रातील शिष्टाचार' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "[SHORT-92] 'भाषिक मांडणी' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'भाषिक मांडणी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "[SHORT-93] 'मुद्दे ओळखणे' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'मुद्दे ओळखणे' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "[SHORT-94] 'लहान वाक्यरचना' संदर्भात शिकवण लिहा.",
+      "answer": "'लहान वाक्यरचना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "[SHORT-95] 'अचूक शब्द निवड' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'अचूक शब्द निवड' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "[SHORT-96] 'पत्रातील भावना' संदर्भात अवश्यकता लिहा.",
+      "answer": "'पत्रातील भावना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "[SHORT-97] 'पत्रातील औचित्य' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'पत्रातील औचित्य' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "[SHORT-98] 'पत्राचा पत्ता' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'पत्राचा पत्ता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "[SHORT-99] 'दिनांक' संदर्भात महत्त्व लिहा.",
+      "answer": "'दिनांक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "[SHORT-100] 'मायना' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'मायना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "[SHORT-101] 'विषयरेषा' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'विषयरेषा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "[SHORT-102] 'समारोप' संदर्भात शिकवण लिहा.",
+      "answer": "'समारोप' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "[SHORT-103] 'लिफाफ्यावरील पत्ता' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'लिफाफ्यावरील पत्ता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "[SHORT-104] 'औपचारिक पत्राची रचना' संदर्भात अवश्यकता लिहा.",
+      "answer": "'औपचारिक पत्राची रचना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "[SHORT-105] 'अनौपचारिक पत्राची रचना' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'अनौपचारिक पत्राची रचना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "[SHORT-106] 'स्वपरिचय पत्र' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'स्वपरिचय पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "[SHORT-107] 'तक्रार पत्र' संदर्भात महत्त्व लिहा.",
+      "answer": "'तक्रार पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "[SHORT-108] 'मागणी पत्र' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'मागणी पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "[SHORT-109] 'निवेदन पत्र' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'निवेदन पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "[SHORT-110] 'सूचना पत्र' संदर्भात शिकवण लिहा.",
+      "answer": "'सूचना पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "[SHORT-111] 'जाहिरात विषयावर पत्र' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'जाहिरात विषयावर पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "[SHORT-112] 'अनौपचारिक कौटुंबिक पत्र' संदर्भात अवश्यकता लिहा.",
+      "answer": "'अनौपचारिक कौटुंबिक पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "[SHORT-113] 'व्यावहारिक पत्र' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'व्यावहारिक पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "[SHORT-114] 'मुद्देसूद लेखन' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'मुद्देसूद लेखन' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "[SHORT-115] 'प्रभावी शब्दयोजना' संदर्भात महत्त्व लिहा.",
+      "answer": "'प्रभावी शब्दयोजना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "[SHORT-116] 'विनम्र भाषा' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'विनम्र भाषा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "[SHORT-117] 'मांडणीची सुसूत्रता' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'मांडणीची सुसूत्रता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "[SHORT-118] 'निरोप पात्र' संदर्भात शिकवण लिहा.",
+      "answer": "'निरोप पात्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "[SHORT-119] 'निवेदनात्मक मांडणी' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'निवेदनात्मक मांडणी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "[SHORT-120] 'मागणीचे औचित्य' संदर्भात अवश्यकता लिहा.",
+      "answer": "'मागणीचे औचित्य' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "[SHORT-121] 'क्रीडा विभागास पत्र' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'क्रीडा विभागास पत्र' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "[SHORT-122] 'आंतरशालेय स्पर्धा' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'आंतरशालेय स्पर्धा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "[SHORT-123] 'रानडे सभागृह कार्यशाळा' संदर्भात महत्त्व लिहा.",
+      "answer": "'रानडे सभागृह कार्यशाळा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "[SHORT-124] 'सदोष वस्तूंची तक्रार' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'सदोष वस्तूंची तक्रार' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "[SHORT-125] 'खरेदीची मागणी' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'खरेदीची मागणी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "[SHORT-126] 'कला कार्यशाळा' संदर्भात शिकवण लिहा.",
+      "answer": "'कला कार्यशाळा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "[SHORT-127] 'शालेय कार्यक्रम' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'शालेय कार्यक्रम' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "[SHORT-128] 'प्रशिक्षण शिबीर' संदर्भात अवश्यकता लिहा.",
+      "answer": "'प्रशिक्षण शिबीर' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "[SHORT-129] 'शिष्यवृत्ती विषय' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'शिष्यवृत्ती विषय' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "[SHORT-130] 'नाव व स्वाक्षरी' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'नाव व स्वाक्षरी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "[SHORT-131] 'संपर्क माहिती' संदर्भात महत्त्व लिहा.",
+      "answer": "'संपर्क माहिती' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "[SHORT-132] 'आवश्यक दस्तऐवज' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'आवश्यक दस्तऐवज' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "[SHORT-133] 'प्रधानाध्यापक' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'प्रधानाध्यापक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "[SHORT-134] 'शिक्षक' संदर्भात शिकवण लिहा.",
+      "answer": "'शिक्षक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "[SHORT-135] 'विभाग प्रमुख' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'विभाग प्रमुख' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "[SHORT-136] 'संस्था व्यवस्थापक' संदर्भात अवश्यकता लिहा.",
+      "answer": "'संस्था व्यवस्थापक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "[SHORT-137] 'पत्रलेखनातील चूक' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'पत्रलेखनातील चूक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "[SHORT-138] 'पत्रातील शिष्टाचार' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'पत्रातील शिष्टाचार' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "[SHORT-139] 'भाषिक मांडणी' संदर्भात महत्त्व लिहा.",
+      "answer": "'भाषिक मांडणी' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "[SHORT-140] 'मुद्दे ओळखणे' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'मुद्दे ओळखणे' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "[SHORT-141] 'लहान वाक्यरचना' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'लहान वाक्यरचना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "[SHORT-142] 'अचूक शब्द निवड' संदर्भात शिकवण लिहा.",
+      "answer": "'अचूक शब्द निवड' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "[SHORT-143] 'पत्रातील भावना' संदर्भात संक्षिप्त भूमिकेचा अर्थ लिहा.",
+      "answer": "'पत्रातील भावना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संक्षिप्त भूमिकेचा अर्थ स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "[SHORT-144] 'पत्रातील औचित्य' संदर्भात अवश्यकता लिहा.",
+      "answer": "'पत्रातील औचित्य' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो अवश्यकता स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "[SHORT-145] 'पत्राचा पत्ता' संदर्भात संवादातील स्थान लिहा.",
+      "answer": "'पत्राचा पत्ता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो संवादातील स्थान स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "[SHORT-146] 'दिनांक' संदर्भात विद्यार्थ्यांसाठी उपयोग लिहा.",
+      "answer": "'दिनांक' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो विद्यार्थ्यांसाठी उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "[SHORT-147] 'मायना' संदर्भात महत्त्व लिहा.",
+      "answer": "'मायना' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो महत्त्व स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "[SHORT-148] 'विषयरेषा' संदर्भात कसे लिहावे लिहा.",
+      "answer": "'विषयरेषा' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो कसे लिहावे स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "[SHORT-149] 'समारोप' संदर्भात उदाहरणार्थ उपयोग लिहा.",
+      "answer": "'समारोप' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो उदाहरणार्थ उपयोग स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "[SHORT-150] 'लिफाफ्यावरील पत्ता' संदर्भात शिकवण लिहा.",
+      "answer": "'लिफाफ्यावरील पत्ता' पत्रलेखनातील एक महत्त्वाचा भाग ठरतो.\nतो शिकवण स्पष्ट करून प्रभावी संवाद शक्य करतो."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "[LONG-151] 'पत्राचा पत्ता' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'पत्राचा पत्ता' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "[LONG-152] 'दिनांक' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'दिनांक' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "[LONG-153] 'मायना' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मायना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "[LONG-154] 'विषयरेषा' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'विषयरेषा' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "[LONG-155] 'समारोप' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'समारोप' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "[LONG-156] 'लिफाफ्यावरील पत्ता' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'लिफाफ्यावरील पत्ता' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "[LONG-157] 'औपचारिक पत्राची रचना' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'औपचारिक पत्राची रचना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "[LONG-158] 'अनौपचारिक पत्राची रचना' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'अनौपचारिक पत्राची रचना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "[LONG-159] 'स्वपरिचय पत्र' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'स्वपरिचय पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "[LONG-160] 'तक्रार पत्र' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'तक्रार पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "[LONG-161] 'मागणी पत्र' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मागणी पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "[LONG-162] 'निवेदन पत्र' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'निवेदन पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "[LONG-163] 'सूचना पत्र' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'सूचना पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "[LONG-164] 'जाहिरात विषयावर पत्र' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'जाहिरात विषयावर पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "[LONG-165] 'अनौपचारिक कौटुंबिक पत्र' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'अनौपचारिक कौटुंबिक पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "[LONG-166] 'व्यावहारिक पत्र' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'व्यावहारिक पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "[LONG-167] 'मुद्देसूद लेखन' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मुद्देसूद लेखन' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "[LONG-168] 'प्रभावी शब्दयोजना' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'प्रभावी शब्दयोजना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "[LONG-169] 'विनम्र भाषा' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'विनम्र भाषा' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "[LONG-170] 'मांडणीची सुसूत्रता' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मांडणीची सुसूत्रता' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "[LONG-171] 'निरोप पात्र' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'निरोप पात्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "[LONG-172] 'निवेदनात्मक मांडणी' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'निवेदनात्मक मांडणी' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "[LONG-173] 'मागणीचे औचित्य' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मागणीचे औचित्य' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "[LONG-174] 'क्रीडा विभागास पत्र' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'क्रीडा विभागास पत्र' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "[LONG-175] 'आंतरशालेय स्पर्धा' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'आंतरशालेय स्पर्धा' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "[LONG-176] 'रानडे सभागृह कार्यशाळा' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'रानडे सभागृह कार्यशाळा' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "[LONG-177] 'सदोष वस्तूंची तक्रार' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'सदोष वस्तूंची तक्रार' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "[LONG-178] 'खरेदीची मागणी' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'खरेदीची मागणी' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "[LONG-179] 'कला कार्यशाळा' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'कला कार्यशाळा' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "[LONG-180] 'शालेय कार्यक्रम' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'शालेय कार्यक्रम' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "[LONG-181] 'प्रशिक्षण शिबीर' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'प्रशिक्षण शिबीर' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "[LONG-182] 'शिष्यवृत्ती विषय' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'शिष्यवृत्ती विषय' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "[LONG-183] 'नाव व स्वाक्षरी' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'नाव व स्वाक्षरी' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "[LONG-184] 'संपर्क माहिती' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'संपर्क माहिती' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "[LONG-185] 'आवश्यक दस्तऐवज' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'आवश्यक दस्तऐवज' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "[LONG-186] 'प्रधानाध्यापक' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'प्रधानाध्यापक' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "[LONG-187] 'शिक्षक' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'शिक्षक' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "[LONG-188] 'विभाग प्रमुख' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'विभाग प्रमुख' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "[LONG-189] 'संस्था व्यवस्थापक' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'संस्था व्यवस्थापक' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "[LONG-190] 'पत्रलेखनातील चूक' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'पत्रलेखनातील चूक' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "[LONG-191] 'पत्रातील शिष्टाचार' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'पत्रातील शिष्टाचार' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "[LONG-192] 'भाषिक मांडणी' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'भाषिक मांडणी' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "[LONG-193] 'मुद्दे ओळखणे' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मुद्दे ओळखणे' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "[LONG-194] 'लहान वाक्यरचना' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'लहान वाक्यरचना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "[LONG-195] 'अचूक शब्द निवड' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'अचूक शब्द निवड' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "[LONG-196] 'पत्रातील भावना' या घटकाचे संवाद कला दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'पत्रातील भावना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो संवाद कला जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "[LONG-197] 'पत्रातील औचित्य' या घटकाचे विनम्रता दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'पत्रातील औचित्य' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो विनम्रता जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "[LONG-198] 'पत्राचा पत्ता' या घटकाचे आवश्यक घटकांची सांगड दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'पत्राचा पत्ता' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो आवश्यक घटकांची सांगड जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "[LONG-199] 'दिनांक' या घटकाचे व्यवहारिक महत्त्व दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'दिनांक' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो व्यवहारिक महत्त्व जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "[LONG-200] 'मायना' या घटकाचे जीवनातील उपयोग दृष्टीकोनातून स्पष्टीकरण द्या.",
+      "answer": "'मायना' हा पत्रातील विचार स्पष्टपणे मांडण्यासाठी आवश्यक मानला जातो.\nतो जीवनातील उपयोग जपण्यासाठी योग्य शब्दप्रयोगाची गरज दाखवतो.\nऔपचारिक- अनौपचारिक दोन्ही प्रकारच्या पत्रांत याची महत्त्वपूर्ण भूमिका असते.\nवाचकाच्या अपेक्षा ध्यानात ठेवून त्याचा वापर करावा लागतो.\nपत्रलेखनाद्वारे व्यक्तिमत्त्व आणि शिस्त दिसून येते."
+    }
+  ]
+}

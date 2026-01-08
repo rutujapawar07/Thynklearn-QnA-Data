@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.English.07",
+    "standard": "9",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Helen Keller and Anne Sullivan"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word describes Helen\u2019s early world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Joy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Darkness",
+          "is_correct": true
+        }
+      ],
+      "answer": "Darkness"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How did Helen react at the breakthrough moment?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She felt joy and freedom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She fell asleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She shouted angrily",
+          "is_correct": false
+        }
+      ],
+      "answer": "She felt joy and freedom"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How old was Helen when she became blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seven",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fourteen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Five",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Using pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speaking loudly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A mug",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did Helen compare herself to before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird in a cage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A cloud in sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A tree in winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A ship in fog",
+          "is_correct": true
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What words first confused Helen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "doll and pin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mug and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "mother and father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sit and stand",
+          "is_correct": false
+        }
+      ],
+      "answer": "mug and water"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did Helen compare herself to before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird in a cage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A cloud in sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A tree in winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A ship in fog",
+          "is_correct": true
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Speaking loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Using pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What words first confused Helen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mother and father",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sit and stand",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mug and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "doll and pin",
+          "is_correct": false
+        }
+      ],
+      "answer": "mug and water"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A mug",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where did Helen wait on the eventful day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the garden",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On the porch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In the kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "At school",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the porch"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Using pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Writing on paper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where did Helen wait on the eventful day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the garden",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On the porch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the kitchen",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the porch"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Speaking loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Using pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where did Helen understand language?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In the cellar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "At the well-house",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "On the road",
+          "is_correct": false
+        }
+      ],
+      "answer": "At the well-house"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Where did Helen wait on the eventful day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the garden",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On the porch",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the kitchen",
+          "is_correct": false
+        }
+      ],
+      "answer": "On the porch"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How old was Helen when she became blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seven",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Five",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fourteen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Two",
+          "is_correct": true
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who changed Helen Keller\u2019s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laura Bridgman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The Inspector",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who changed Helen Keller\u2019s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The Inspector",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laura Bridgman",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Her father",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A mug",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ball",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A mug",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What did Helen compare herself to before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird in a cage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A cloud in sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A tree in winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A ship in fog",
+          "is_correct": true
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who changed Helen Keller\u2019s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The Inspector",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laura Bridgman",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who changed Helen Keller\u2019s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Inspector",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laura Bridgman",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A mug",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which word describes Helen\u2019s early world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Darkness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Joy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Darkness"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where did Helen understand language?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In the cellar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "At the well-house",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On the road",
+          "is_correct": false
+        }
+      ],
+      "answer": "At the well-house"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A mug",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A doll",
+          "is_correct": true
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A mug",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Using pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaking loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "How old was Helen when she became blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fourteen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Seven",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Five",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Two",
+          "is_correct": true
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What words first confused Helen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mother and father",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sit and stand",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mug and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "doll and pin",
+          "is_correct": false
+        }
+      ],
+      "answer": "mug and water"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How old was Helen when she became blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Five",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fourteen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Seven",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What did Helen compare herself to before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A cloud in sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A tree in winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird in a cage",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who changed Helen Keller\u2019s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laura Bridgman",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The Inspector",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What words first confused Helen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "doll and pin",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sit and stand",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mug and water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "mother and father",
+          "is_correct": false
+        }
+      ],
+      "answer": "mug and water"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which word describes Helen\u2019s early world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Darkness",
+          "is_correct": true
+        }
+      ],
+      "answer": "Darkness"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speaking loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Using pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "How did Helen react at the breakthrough moment?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She felt joy and freedom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "She shouted angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She fell asleep",
+          "is_correct": false
+        }
+      ],
+      "answer": "She felt joy and freedom"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word describes Helen\u2019s early world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Darkness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Joy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Darkness"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaking loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Using pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What did Helen compare herself to before education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A cloud in sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A ship in fog",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A tree in winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird in a cage",
+          "is_correct": false
+        }
+      ],
+      "answer": "A ship in fog"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "How did Helen react at the breakthrough moment?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "She ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "She fell asleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "She shouted angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "She felt joy and freedom",
+          "is_correct": true
+        }
+      ],
+      "answer": "She felt joy and freedom"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which word describes Helen\u2019s early world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Joy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Darkness",
+          "is_correct": true
+        }
+      ],
+      "answer": "Darkness"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What did Helen receive on the first morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A ball",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A mug",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A doll",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A doll"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "How did Miss Sullivan teach words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spelling into her hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Using pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing on paper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speaking loudly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling into her hand"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "How old was Helen when she became blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Five",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Seven",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fourteen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who changed Helen Keller\u2019s life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Her father",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Laura Bridgman",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Inspector",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anne Sullivan",
+          "is_correct": true
+        }
+      ],
+      "answer": "Anne Sullivan"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "How old was Helen when she became blind and deaf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Seven",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Five",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fourteen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 51)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 52)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 53)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 54)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 55)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 56)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 57)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 58)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 59)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 60)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 61)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 62)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 63)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 64)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 65)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 66)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 67)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 68)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 69)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 70)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 71)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 72)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 73)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 74)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 75)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 76)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 77)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 78)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 79)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 80)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 81)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 82)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 83)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 84)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 85)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 86)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 87)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 88)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 89)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 90)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 91)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 92)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 93)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 94)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 95)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 96)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 97)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 98)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 99)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 100)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 101)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 102)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 103)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 104)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 105)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 106)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 107)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 108)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 109)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 110)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 111)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 112)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 113)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 114)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 115)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 116)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 117)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 118)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 119)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 120)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 121)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 122)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 123)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 124)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 125)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 126)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 127)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 128)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 129)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 130)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 131)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 132)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 133)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 134)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 135)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 136)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 137)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 138)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 139)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 140)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why was Helen filled with wonder on the important day? (Variant 141)",
+      "answer": "Because her teacher brought change and possibility."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why did Helen often feel angry and bitter? (Variant 142)",
+      "answer": "Because she lived without language or connection."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What did the doll teach Helen? (Variant 143)",
+      "answer": "It introduced her to spelling and naming objects."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What was Helen\u2019s learning method before understanding meaning? (Variant 144)",
+      "answer": "She imitated finger movements mechanically."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why did Helen dash the doll to the floor? (Variant 145)",
+      "answer": "She was frustrated and confused with words."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What did Helen feel at the well-house? (Variant 146)",
+      "answer": "A thrill of understanding and awakening."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why did Helen feel repentance later? (Variant 147)",
+      "answer": "She realised the value of the doll only after breaking it."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How did Miss Sullivan show patience? (Variant 148)",
+      "answer": "She repeated lessons calmly despite Helen\u2019s impatience."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How did Helen describe learning new words? (Variant 149)",
+      "answer": "Each word gave birth to a new thought."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why was water meaningful to Helen? (Variant 150)",
+      "answer": "It became the symbol of discovery and language."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 151)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 152)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 153)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 154)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 155)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 156)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 157)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 158)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 159)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 160)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 161)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 162)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 163)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 164)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 165)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 166)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 167)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 168)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 169)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 170)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 171)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 172)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 173)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 174)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 175)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 176)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 177)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 178)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 179)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 180)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 181)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 182)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 183)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 184)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 185)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 186)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 187)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 188)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 189)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 190)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 191)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 192)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 193)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 194)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 195)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain why the arrival of Anne Sullivan is described as the most important day. (Insight 196)",
+      "answer": "It brought hope, connection and a path out of isolation, changing Helen\u2019s entire future."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Describe Helen\u2019s life before and after meeting her teacher. (Insight 197)",
+      "answer": "Before, Helen lived in confusion and darkness; afterwards she experienced learning, joy and communication."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "How did the doll and water moments shape Helen\u2019s understanding of language? (Insight 198)",
+      "answer": "Doll spelling introduced letters while water connected sensation with meaning, unlocking her mind."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Discuss the metaphor of light and darkness in the lesson. (Insight 199)",
+      "answer": "Darkness represents ignorance and loneliness; light symbolises knowledge, love and communication."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "How did Anne Sullivan transform Helen\u2019s world? (Insight 200)",
+      "answer": "Through patience, touch-based teaching and love she broke barriers and gave Helen language and independence."
+    }
+  ]
+}

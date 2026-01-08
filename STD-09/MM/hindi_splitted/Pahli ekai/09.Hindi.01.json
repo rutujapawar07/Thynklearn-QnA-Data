@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "09.Hindi.01",
+    "standard": "9",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "चाँदनी रात"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'चाँदनी रात' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 2, "text": "मैथिलीशरण गुप्त", "is_correct": true },
+        { "option_id": 3, "text": "सुमित्रानंदन पंत", "is_correct": false },
+        { "option_id": 4, "text": "सूर्यकांत त्रिपाठी 'निराला'", "is_correct": false }
+      ],
+      "answer": "मैथिलीशरण गुप्त"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "यह कविता गुप्त जी के किस खंडकाव्य से ली गई है?",
+      "options": [
+        { "option_id": 1, "text": "साकेत", "is_correct": false },
+        { "option_id": 2, "text": "यशोधरा", "is_correct": false },
+        { "option_id": 3, "text": "पंचवटी", "is_correct": true },
+        { "option_id": 4, "text": "भारत-भारती", "is_correct": false }
+      ],
+      "answer": "पंचवटी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चारु चंद्र की चंचल किरणें कहाँ खेल रही हैं?",
+      "options": [
+        { "option_id": 1, "text": "आकाश में", "is_correct": false },
+        { "option_id": 2, "text": "पर्वतों पर", "is_correct": false },
+        { "option_id": 3, "text": "जल-थल में", "is_correct": true },
+        { "option_id": 4, "text": "वनों में", "is_correct": false }
+      ],
+      "answer": "जल-थल में"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "धरती अपनी खुशी (पुलक) किसके माध्यम से प्रकट करती है?",
+      "options": [
+        { "option_id": 1, "text": "फूलों से", "is_correct": false },
+        { "option_id": 2, "text": "हरित तृणों की नोकों से", "is_correct": true },
+        { "option_id": 3, "text": "नदियों के शोर से", "is_correct": false },
+        { "option_id": 4, "text": "पक्षियों के चहचहाने से", "is_correct": false }
+      ],
+      "answer": "हरित तृणों की नोकों से"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मंद पवन के झोंकों से कौन झूम रहे हैं?",
+      "options": [
+        { "option_id": 1, "text": "पहाड़", "is_correct": false },
+        { "option_id": 2, "text": "तरु (वृक्ष)", "is_correct": true },
+        { "option_id": 3, "text": "बादल", "is_correct": false },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "तरु (वृक्ष)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वसुंधरा (पृथ्वी) मोतियों को कब बिखेर देती है?",
+      "options": [
+        { "option_id": 1, "text": "सुबह होने पर", "is_correct": false },
+        { "option_id": 2, "text": "दोपहर में", "is_correct": false },
+        { "option_id": 3, "text": "रवि (सूर्य) के आने पर", "is_correct": false },
+        { "option_id": 4, "text": "सबके सो जाने पर", "is_correct": true }
+      ],
+      "answer": "सबके सो जाने पर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बिखरे हुए मोतियों को कौन बटोर लेता है?",
+      "options": [
+        { "option_id": 1, "text": "चंद्रमा", "is_correct": false },
+        { "option_id": 2, "text": "रवि (सूर्य)", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "बादल", "is_correct": false }
+      ],
+      "answer": "रवि (सूर्य)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सूर्य उन मोतियों को किसे दे जाता है?",
+      "options": [
+        { "option_id": 1, "text": "चाँद को", "is_correct": false },
+        { "option_id": 2, "text": "संध्या को", "is_correct": true },
+        { "option_id": 3, "text": "सुबह को", "is_correct": false },
+        { "option_id": 4, "text": "रात को", "is_correct": false }
+      ],
+      "answer": "संध्या को"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पंचवटी की छाया में क्या बना हुआ है?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर महल", "is_correct": false },
+        { "option_id": 2, "text": "मंदिर", "is_correct": false },
+        { "option_id": 3, "text": "सुंदर पर्ण कुटीर (झोपड़ी)", "is_correct": true },
+        { "option_id": 4, "text": "किला", "is_correct": false }
+      ],
+      "answer": "सुंदर पर्ण कुटीर (झोपड़ी)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कुटिया के सामने स्वच्छ शिला पर कौन बैठा है?",
+      "options": [
+        { "option_id": 1, "text": "एक राजा", "is_correct": false },
+        { "option_id": 2, "text": "धीर-वीर निर्भीक मना (धनुर्धर)", "is_correct": true },
+        { "option_id": 3, "text": "एक व्यापारी", "is_correct": false },
+        { "option_id": 4, "text": "एक बच्चा", "is_correct": false }
+      ],
+      "answer": "धीर-वीर निर्भीक मना (धनुर्धर)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'कुसुमायुध' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "फूल", "is_correct": false },
+        { "option_id": 2, "text": "कामदेव", "is_correct": true },
+        { "option_id": 3, "text": "काँटा", "is_correct": false },
+        { "option_id": 4, "text": "कठोर", "is_correct": false }
+      ],
+      "answer": "कामदेव"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "जाग रहा यह कौन धनुर्धर, जबकि भुवन भर __________ है?",
+      "options": [
+        { "option_id": 1, "text": "जागता", "is_correct": false },
+        { "option_id": 2, "text": "रोता", "is_correct": false },
+        { "option_id": 3, "text": "सोता", "is_correct": true },
+        { "option_id": 4, "text": "गाता", "is_correct": false }
+      ],
+      "answer": "सोता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कविता में 'नियति' को किसके रूप में चित्रित किया गया है?",
+      "options": [
+        { "option_id": 1, "text": "नटी (अभिनेत्री)", "is_correct": true },
+        { "option_id": 2, "text": "माता", "is_correct": false },
+        { "option_id": 3, "text": "शत्रु", "is_correct": false },
+        { "option_id": 4, "text": "सखी", "is_correct": false }
+      ],
+      "answer": "नटी (अभिनेत्री)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तीनों लोकों (त्रिलोक) की लक्ष्मी किसे कहा गया है?",
+      "options": [
+        { "option_id": 1, "text": "सीता को", "is_correct": false },
+        { "option_id": 2, "text": "प्रकृति को", "is_correct": false },
+        { "option_id": 3, "text": "चाँदनी रात को", "is_correct": false },
+        { "option_id": 4, "text": "प्रातःकाल को", "is_correct": false }
+      ],
+      "answer": "चाँदनी रात को"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'कृषक' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "मजदूर", "is_correct": false },
+        { "option_id": 2, "text": "किसान", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारी", "is_correct": false },
+        { "option_id": 4, "text": "सैनिक", "is_correct": false }
+      ],
+      "answer": "किसान"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि ने चाँदनी रात का वर्णन किस प्रकार किया है?",
+      "answer": "कवि ने चाँदनी रात को अत्यंत स्वच्छ, शांत और निस्तब्ध बताया है, जहाँ स्वच्छंद और मंद सुगंध बह रही है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "धरती और आकाश में क्या बिछा हुआ है?",
+      "answer": "धरती (अवनि) और आकाश (अंबर) तल में स्वच्छ चाँदनी बिछी हुई है।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "'नियति नटी' के कार्य-कलाप कैसे चल रहे हैं?",
+      "answer": "'नियति नटी' के कार्य-कलाप अब भी बंद नहीं हैं, वे एकांत भाव से, शांत और चुपचाप चल रहे हैं।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "कवि ने 'मोती' शब्द का प्रयोग किसके लिए किया है?",
+      "answer": "कवि ने 'मोती' शब्द का प्रयोग ओस की बूंदों के लिए किया है, जिन्हें पृथ्वी रात में बिखेर देती है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "सूर्य संध्या को क्या देकर जाता है और उससे क्या होता है?",
+      "answer": "सूर्य बटोरे हुए मोती (ओस) संध्या को दे जाता है, जिससे संध्या का शून्य श्याम तनु (शरीर) नए रूप में झलकता है।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "पंचवटी में बनी कुटिया कैसी है?",
+      "answer": "पंचवटी की छाया में पत्तों से बनी एक सुंदर कुटिया (पर्ण कुटीर) है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "शिला पर बैठा हुआ धनुर्धर कैसा प्रतीत होता है?",
+      "answer": "शिला पर बैठा हुआ धनुर्धर भोगी कुसुमायुध (कामदेव) जैसा योगी सा बना हुआ दिखाई पड़ता है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "मैथिलीशरण गुप्त जी की प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "साकेत, यशोधरा, जयद्रथ वध, पंचवटी, भारत-भारती, रंग में भंग, राजा-प्रजा आदि।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "चाँदनी रात में दिशाओं की क्या स्थिति है?",
+      "answer": "चाँदनी रात में कोई भी दिशा 'निरानंद' (आनंद रहित) नहीं है, अर्थात सभी दिशाओं में आनंद व्याप्त है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'पुलक' शब्द का अर्थ क्या है?",
+      "answer": "'पुलक' का अर्थ है रोमांच या खुशी, जिसे धरती हरी घास की नोकों के माध्यम से व्यक्त कर रही है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "प्रथम चार पंक्तियों में वर्णित प्रकृति के सौंदर्य का वर्णन अपने शब्दों में कीजिए।",
+      "answer": "कवि कहते हैं कि सुंदर चंद्रमा की चंचल किरणें जल और थल में खेल रही हैं। धरती और आकाश में स्वच्छ चाँदनी फैली हुई है। धरती हरी घास की नोकों के माध्यम से अपनी खुशी (पुलक) प्रकट कर रही है और ऐसा लगता है कि मंद हवा के झोंकों से वृक्ष भी झूमकर अपनी मस्ती व्यक्त कर रहे हैं।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "कविता में 'मोती' के बिखरने और बटोरने का रूपक स्पष्ट कीजिए।",
+      "answer": "कविता में बताया गया है कि जब रात में सब सो जाते हैं, तो पृथ्वी ओस रूपी मोतियों को बिखेर देती है। सुबह होने पर सूर्य अपनी किरणों से उन ओस की बूंदों को सुखा देता है, जिसे कवि ने 'मोतियों को बटोरना' कहा है। फिर शाम होने पर सूर्य इन मोतियों को संध्या को सौंप जाता है, जिससे रात में फिर से ओस पड़ने की प्रक्रिया शुरू होती है और आकाश तारों से चमक उठता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "पंचवटी के दृश्य और वहाँ उपस्थित व्यक्ति का चित्रण कीजिए।",
+      "answer": "पंचवटी में घने वृक्षों की छाया है, जहाँ पत्तों की एक सुंदर कुटिया बनी हुई है। उस कुटिया के सामने एक स्वच्छ और विशाल पत्थर (शिला) है। उस शिला पर एक धैर्यवान, वीर और निडर मन वाला धनुर्धर बैठा हुआ है। जब पूरी दुनिया सो रही है, तब यह व्यक्ति जाग रहा है। वह देखने में कामदेव जैसा सुंदर है, लेकिन उसने योगी का वेश धारण किया हुआ है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "'नियति नटी' के कार्य-कलाप के बारे में कवि क्या कहते हैं?",
+      "answer": "कवि कहते हैं कि इतनी शांत और निस्तब्ध रात्रि में भी प्रकृति या नियति रूपी नटी (अभिनेत्री) के कार्य रुके नहीं हैं। वे अब भी निरंतर चल रहे हैं। अंतर बस इतना है कि दिन के शोर-शराबे के विपरीत, रात में ये कार्य-कलाप बहुत ही एकांत भाव से, शांतिपूर्वक और चुपचाप संपन्न हो रहे हैं।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "मैथिलीशरण गुप्त जी के जीवन और रचनाओं पर संक्षिप्त प्रकाश डालिए।",
+      "answer": "मैथिलीशरण गुप्त जी का जन्म ३ अगस्त १८८६ को चिरगाँव, झाँसी (उ.प्र.) में हुआ था। वे खड़ी बोली हिंदी के महत्त्वपूर्ण कवि हैं। उनकी रचनाओं में मानवीय संवेदनाएँ और विशेषकर नारी के प्रति करुणा की भावना दिखाई देती है। वे भारतीय संस्कृति और इतिहास के प्रेमी थे। उनकी मृत्यु १२ दिसंबर १९६४ को हुई। उनकी प्रमुख कृतियाँ साकेत (महाकाव्य), यशोधरा, पंचवटी, भारत-भारती (खंडकाव्य) आदि हैं।"
+    }
+  ]
+}
